@@ -4,7 +4,21 @@
     <title>Chatgpt，人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇观着迷，被Chatgpt的力量迷住，或者对人工智能和自动化的无尽可能性所吸引？别再看！我们充满活力的Reddit社区是像您这样的爱好者的完美枢纽。作为我们社区的成员，您将获得大量资源，包括：🔬关于自动化，Chatgpt和AI的发人深省的讨论。 🌟对最新进步和行业新闻的独家见解</description>
-    <lastBuildDate>Tue, 19 Aug 2025 03:43:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 04:39:32 GMT</lastBuildDate>
+    <item>
+      <title>Skada-自动化平台，从一个提示中构建工作流程</title>
+      <link>https://www.reddit.com/r/automation/comments/1mu824c/skada_automation_platform_that_builds_workflows/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我敢肯定，这里的每个人都听说过Google的蛋白石。老实说 - 这很糟糕。缺乏连接（仅在Google生态系统中起作用）和“迷你应用”它的构建绝对没有用。 我们已经建造了一段时间，我们一直在构建类似的东西，现在我们在产品中处于一个良好而自信的位置。我们开始通过KYC表单接受候补名单注册，您可以在我们的网站上找到。  OPAL（和Skada）之所以如此，是因为大多数当前具有相当可怕UX的工具。您将其命名：Zapier，Make，IFTTT，N8N，Lindy，Pipedream，Gumloop等。成为“工程学位”因为您不仅要了解编码逻辑，还必须了解事物如何与另一个联系。如果有人厌倦了这种UX，我们很确定您会发现Skada很高兴使用。 标题中已经提到，Skada是一个自动化平台，可以从一个提示中构建工作流。没有配置，没有编码，只有结果。 ，因此，我很想邀请您在skada.ai   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/erikfiala     [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1mu824c/skada_automation_platform_that_builds_workflows/</guid>
+      <pubDate>Tue, 19 Aug 2025 03:58:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>出售第一个自动化</title>
+      <link>https://www.reddit.com/r/automation/comments/1mu7zyo/sold_first_automation/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  刚刚将我的第一个在N8N上构建的AI工作流程卖给了一家屋顶公司，这种感觉很棒。如果高中生可以做到这一点。实际上，我很惊讶，因为我唯一的学习是一个8小时的YouTube视频，该视频教授有关N8N的所有内容。对像我这样前进的人的任何建议。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/doodlemoodle542     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1mu7zyo/sold_first_automation/</guid>
+      <pubDate>Tue, 19 Aug 2025 03:54:56 GMT</pubDate>
+    </item>
     <item>
       <title>我对没有代码自动化自由职业者的职业有疑问，他们已经获得了付费客户</title>
       <link>https://www.reddit.com/r/automation/comments/1mu5zhp/i_have_a_question_about_career_for_no_code/</link>
@@ -41,7 +55,7 @@
       <pubDate>Mon, 18 Aug 2025 22:08:24 GMT</pubDate>
     </item>
     <item>
-      <title>您如何为客户提供自动化？</title>
+      <title></title>
       <link>https://www.reddit.com/r/automation/comments/1mtz2jh/how_do_you_deliver_automations_to_clients/</link>
       <description><![CDATA[I&#39;ve recently finished developing an automation for one of my clients. It is a system that posts on Instagram and requires you to complete the Instagram OAuth to get access to posting from the account. But now I&#39;m confused on how I can actually deliver them this automation and give them access: on one hand, I could share with them the n8n workflow.但这会使它们感到困惑，因为它需要在他们的身边进行一些输入，即他们必须将某些设置进行编码为工作流程，因此这很不方便。另一方面，我可以构建一个小型仪表板供他们管理自动化。这对我来说更有意义，但是在这种情况下它们无法访问实际的工作流程，这意味着我需要为托管自动化而付费。 您如何为客户提供自动化？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/automation/comments/1mtz2jh/how_do_do_do_you_deliver_automations_automations_to_clients/”&gt; [link]        [注释]  ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1mtz2jh/how_do_you_deliver_automations_to_clients/</guid>
@@ -57,7 +71,7 @@
     <item>
       <title>用N8N + GPT构建了卡路里跟踪器（无昂贵的视觉API）</title>
       <link>https://www.reddit.com/r/automation/comments/1mtw6g8/built_a_calorie_tracker_with_n8n_gpt_no_costly/</link>
-      <description><![CDATA[    刚刚完成构建自动化，该自动化使用 n8n  + a  a  customgpt 。 ＆amp;自动登录床单 每日＆amp;每周图表更新会自动  ⚡为什么不视力api？因为这很昂贵。取而代之的是，我正在利用自定义进行结构化的崩溃和营养标记。 📊现在我得到了：  进餐级别的崩溃 安全等级 自动日志 自动登录   不在我的卡路上付费图表，而不受我的范围的范围，这可以跟踪         p&gt; Apis。 好奇其他人是否尝试过与N8N或其他自动化平台进行健康跟踪的尝试？想交换想法！       &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/_mindfreak_     ]]></description>
+      <description><![CDATA[    刚刚完成构建自动化，该自动化使用 n8n  + a  a  customgpt 。 &amp; automatically logged in Sheets Daily &amp;每周图表更新会自动  ⚡为什么不视力api？因为这很昂贵。取而代之的是，我正在利用自定义进行结构化的崩溃和营养标记。 📊现在我得到了：  进餐级别的崩溃 安全等级 自动日志 自动登录   不在我的卡路上付费图表，而不受我的范围的范围，这可以跟踪         p&gt; Apis。 好奇其他人是否尝试过与N8N或其他自动化平台进行健康跟踪的尝试？想交换想法！      https://preview.redd.it/u8obxam6ztjf1.png?width=731&amp; format = png＆amp; amp;Auto=webppumpp; s = 9cbe483bb2384e90984e909886b76b766666666666660cdae    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/_mindfreak_     ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1mtw6g8/built_a_calorie_tracker_with_n8n_gpt_no_costly/</guid>
       <pubDate>Mon, 18 Aug 2025 19:38:38 GMT</pubDate>
     </item>
@@ -74,13 +88,6 @@
       <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/bilitious-cold5212       [注释]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1mtufq4/i_created_an_n8n_automation_for_creating_and/</guid>
       <pubDate>Mon, 18 Aug 2025 18:35:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>[TEDX Talk]通过AI和编码使您的生活自动化，并且您的野心和人际关系为10倍</title>
-      <link>https://www.reddit.com/r/automation/comments/1mtt8l5/tedx_talk_automate_your_life_with_ai_coding_and/</link>
-      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/yksugi     &lt;a href =“ https://www.reddit.com/r/automation/comments/comments/1mtt8l5/tedx_talk_automate_your_your_with_with_ai_ai_coding_and//]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1mtt8l5/tedx_talk_automate_your_life_with_ai_coding_and/</guid>
-      <pubDate>Mon, 18 Aug 2025 17:52:13 GMT</pubDate>
     </item>
     <item>
       <title>N8N的新手？这是一个与AI自动化工作流程的初学者友好教程</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我最近正在尝试一些浏览器自动化。我尝试了HyperBrowser和剧作家，并意识到重复的Web任务上浪费了多少时间。震惊我的一个例子是从多个供应商网站刮擦定价数据。习惯每周需要手动需要我3到4个小时，但是设置自动化的工作流程将其降低到仅几分钟。 。 让我想，我们的工作中可能会自动化一些“静音时间”，如果我们发现它们，可以自动化它们。 您建立了最大的自动化 - 您已经为您提供了什么？ ＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/automation/comments/1mtd6lr/whats_the_automation_that_saves_you_hours_each/”&gt; [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1mtd6lr/whats_the_automation_that_saves_you_hours_each/</guid>
       <pubDate>Mon, 18 Aug 2025 05:19:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动化在您的日常生活中是否使用了很多？</title>
-      <link>https://www.reddit.com/r/automation/comments/1mt8bxo/is_automation_used_a_lot_in_your_daily_life/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我试图弄清楚自动化如何像人们所说的那样节省我们的时间。我知道确实如此，但是当我回顾自己的日常生活时，看来我根本不多使用自动化，无论在工作的地方，娱乐或其他任何东西。也许我只是不知道它可以真正使用的地方，或者我在某处使用它，但还没有注意到。 无论如何，我想知道您使用自动化的频率以及在哪里使用它？谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/own-mortgage6561     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1mt8bxo/is_automation_used_a_lot_in_your_daily_life/</guid>
-      <pubDate>Mon, 18 Aug 2025 01:15:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
