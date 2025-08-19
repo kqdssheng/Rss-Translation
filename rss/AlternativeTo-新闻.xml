@@ -4,7 +4,38 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Tue, 19 Aug 2025 06:31:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 12:40:49 GMT</lastBuildDate>
+    <item>
+      <title>Kdenlive 25.08发布了用于HATWARE加速和许多稳定性修复的准备工作</title>
+      <link>https://alternativeto.net/news/2025/8/kdenlive-25-08-released-with-prep-work-for-hadware-acceleration-and-many-stability-fixes/</link>
+      <description><![CDATA[  kdenlive  25.08将稳定性和改进放在前沿，提供300多个投入，超过300个投入并解决了15次崩溃的现象。该团队没有引入引人入胜的功能，而是将此周期致力于广泛的错误修复和可用性改进。
+关键更改是重新设计的音频混合器，它引入了澄清的级别显示和阈值视觉效果。在用户对高分辨率显示器的反馈后，也解决了与HIDPI和分数缩放有关的问题。使用文本覆盖的用户将注意到标题器的重大更新，例如改进的SVG和图像支持，移动和调整项目的能力，通过 shift&gt; shift&gt; shift + drag 添加中心大小，以及将 tatter  tab的重命名为 tables  em&gt;  templates 。。。
+基于这些增强功能，Kdenlive现在提供了改进的范围样式，并提供系统调色板支持，以提高主题一致性。已经解决了高变焦级别和油漆模式下的错误。用户将看到涵盖字幕，文本对语，标记，指南，项目注释和监视器的工具的进一步改进。更有效的视频处理来自一个新的选项，启用了硬件解码，并与升级和编码配对。同时，在高层改进中最大程度地减少了记忆使用量，提高稳定性并加强了MacOS，Windows，Snaps和Flatpak的包装。在MACOS上，可以双击“ MACOS”文件，结束长期工作流程。
+  href =“ https://alternativeto.net/software/kdenlive/about/”&gt;更多关于Kdenlive ＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/8/kdenlive-25-08-released-with-prep-work-for-hadware-acceleration-and-many-stability-fixes/</guid>
+      <pubDate>Tue, 19 Aug 2025 11:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>git 2.51添加了无巡航的多包索引，小径步行包装和改进的储藏格式</title>
+      <link>https://alternativeto.net/news/2025/8/git-2-51-adds-cruft-free-multi-pack-indexes-path-walk-packing-and-improved-stash-format/</link>
+      <description><![CDATA[  git  2.51现在可用，标记了广泛使用的分布式版本控制系统的新更新。在其标题功能中，该版本着重于增强多包索引重新包装。通过引入 repack.midxmustcontaincruft 选项，GIT现在支持免费的reckacks。此选项可确保持续包括Cruft包装，从而使较小的重复包装保持存储库一致性并提高存储效率。
+在此改进之后，重新包装期间的对象收集现在受益于“路径步行” 方法。与先前的修订订单步行不同，路径步行会一次收集并从单个路径中发出所有对象。结果，使用此方法生成的包装文件可能要比具有先前名称策略创建的包装件。。
+基于内部工作流功能，GIT 2.51引入了修订的藏匿表示。现在，可以将多个存放条目存储为一系列提交，并导出到单个参考。用户可以与普通分支或标签相似，推动或拉动这些藏匿处，扩大协作和迁移选项。
+填写版本，Git 2.51带来了各种其他增强功能和错误修复。它还包括为即将到来的Git 3.0设定阶段的基本变化。
+View article on AlternativeTo »有关git ＆nbsp; |＆nbsp; &lt;A href =“ https：//alternativeto.net/software/git/git/”]]></description>
+      <guid>https://alternativeto.net/news/2025/8/git-2-51-adds-cruft-free-multi-pack-indexes-path-walk-packing-and-improved-stash-format/</guid>
+      <pubDate>Tue, 19 Aug 2025 09:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Podman 5.6发行了改进的四边形管理，远程客户端功能等等</title>
+      <link>https://alternativeto.net/news/2025/8/podman-5-6-released-with-improved-quadlet-management-remote-client-capabilities-and-more/</link>
+      <description><![CDATA[  podman  5.6已发布，是对流行的管理容器，pods和Images的流行开源平台的最新更新。此版本的重点是引入了一组新的四式管理命令，这使使用SystemD风格的容器单元更容易。除了新命令外，Quadlet单元现在还提供所有单元类型的扩展功能，覆盖容器，POD，图像和网络。
+除了这些核心变化之外，Podman 5.6带来了关键的可用性改进。  Podman Machine Init 命令现在包括  - 交换选项，让用户启用并按大小为虚拟机指定交换空间。对于M3系列MAC主机运行MACOS 15或更新，默认情况下，使用 libkrun 提供商启用嵌套虚拟化，提供更好的性能和更广泛的兼容性。
+在其 kubernetes 支持，此版本的支持，通过对 podman kube play 命令的多次更新，可以通过多个更新来增强兼容性。远程Podman客户端还可以看到重大升级，从而缩小了远程和本地使用之间的差距。 Podman 5.6通过新的命令选项将更新综合起来，改进 docker 兼容性，boltdb expatibility，boltdb equebecation and boltdb equebecation和其他较小的次要增强。
+ 有关Podman的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/8/podman-5-6-released-with-improved-quadlet-management-remote-client-capabilities-and-more/</guid>
+      <pubDate>Tue, 19 Aug 2025 07:50:00 GMT</pubDate>
+    </item>
     <item>
       <title>Elevenlabs在工作室中揭示了定制配乐的视频到音乐工具</title>
       <link>https://alternativeto.net/news/2025/8/elevenlabs-unveils-video-to-music-tool-for-custom-soundtracks-in-studio/</link>
@@ -106,42 +137,13 @@ These changes are particularly relevant for individuals in the European Union an
     <item>
       <title>葡萄酒10.13带来新的操纵杆选项卡，更多的BCrypt算法，OpenGL WOW64 THUNKS等等</title>
       <link>https://alternativeto.net/news/2025/8/wine-10-13-brings-new-joystick-tab-more-bcrypt-algorithms-opengl-wow64-thunks-and-more/</link>
-      <description><![CDATA[  Wine 项目已发布10.13版，增强了其与Linux，MacOS和BSD上Windows应用程序的兼容性。此更新的中心是一个新的 Windows.gaming.gaming.input 在操纵杆控制面板中。此功能为游戏玩家提供了对硬件配置的更大控制，可满足那些需要精确设备调整的人。
+      <description><![CDATA[  Wine 项目已发布10.13版，增强了其与Linux，MacOS和BSD上Windows应用程序的兼容性。此更新的核心是在操纵杆控制面板中的新 Windows.gaming.gaming.input 选项卡。此功能为游戏玩家提供了对硬件配置的更大控制，可满足那些需要精确设备调整的人。
 解决安全性和互操作性，Wine 10.13现在支持ECDSA_P521和ECDH_P521在BCRYPT库中的加密算法。此添加将葡萄酒的加密功能与在窗户中本地发现的那些密切相结合，扩大了依赖高级加密的支持应用程序的范围。
 除了这些改进之外，OpenGL WOW64 THUNK现在已经完全生成。此产品可增强使用32位和64位OpenGL的应用程序的互操作性，从而将平台移到更近的位置以完成Windows API兼容性。同时，在WIDL中，Windows运行时的开发继续进行WIDL处理，支持与Windows运行时API的更广泛的兼容性。
 通过此发布，葡萄酒解决了32个错误，这些错误会影响广泛使用的程序，例如 Microsoft Office 365 工作室和多个游戏。这些修复程序有助于更流畅的用户体验，并在受支持的软件中提高可靠性。
  有关葡萄酒的更多信息]]></description>
       <guid>https://alternativeto.net/news/2025/8/wine-10-13-brings-new-joystick-tab-more-bcrypt-algorithms-opengl-wow64-thunks-and-more/</guid>
       <pubDate>Mon, 18 Aug 2025 07:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Translate正在测试一种新的AI语言学习工具，以与Duolingo竞争</title>
-      <link>https://alternativeto.net/news/2025/8/google-translate-is-testing-a-new-ai-language-learning-tool-to-compete-with-duolingo/</link>
-      <description><![CDATA[ Google正在 Google Translate 将其定位为&lt;&lt;&lt; duolingo 。  android权威发现并激活了隐藏的“实践”最新版本中的工具，该工具使用AI根据每个用户的熟练程度和实践需求创建个性化课程。
-系统要求学习者在开始练习之前将其水平指定为基本，中级或高级。支持的语言包括英语，西班牙语，法语和葡萄牙语，尽管目前只有法语和西班牙语可以练习。用户可以参与预设方案或通过在文本提示中描述情况，提供上下文驱动的练习来创建自己的情况。
-引用了A&#39;试验期。通过早期和无限访问，该功能目前是免费的，但后来可能需要付款。尚未看到这是独立的服务，还是与made public its intentions to become an AI公司。 
- 有关Google翻译的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/8/google-translate-is-testing-a-new-ai-language-learning-tool-to-compete-with-duolingo/</guid>
-      <pubDate>Sat, 16 Aug 2025 12:51:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anytype桌面0.48.0介绍目录，列表视图升级等等</title>
-      <link>https://alternativeto.net/news/2025/8/anytype-desktop-0-48-0-introduces-table-of-contents-list-view-upgrades-and-more/</link>
-      <description><![CDATA[  anytype 已发布 desktop 0.48.88.88.88.8.48.48.48.8.48.48.48.48.48.48.48.0 and and andytytyandytyandytyandytyandytyandynydyandynydyand ythy 。该更新增强了列表视图，右侧具有默认属性放置，将属性移动到对象名称之前的选项以及更快的多对象工作流程的就地编辑。视觉改进和更新的重音颜色提高了跨主题和深色主题的一致性。
-导航看到编辑右面板中有一个新的目录菜单的提升，该面板也可以在侧边栏中保持打开状态以连续访问。看板和日历视图现在允许直接从“布局”菜单中添加属性，而日期属性则获得去年，今年和明年的过滤器。
-Other notable updates include Spotify embed support, bookmark previews with optional page content, new keyboard shortcuts for navigation and text formatting, the ability to pin and reorder Spaces in the Vault, and default sorting of unsorted views by creation日期。
-  href =“ https://alternativeto.net/software/software/anytype/about/”&gt;更多有关Anytype  |]]></description>
-      <guid>https://alternativeto.net/news/2025/8/anytype-desktop-0-48-0-introduces-table-of-contents-list-view-upgrades-and-more/</guid>
-      <pubDate>Fri, 15 Aug 2025 22:13:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Immich更新使用户可以重置PIN，改善OAuth迁移和专辑同步</title>
-      <link>https://alternativeto.net/news/2025/8/immich-update-lets-users-reset-pin-improves-oauth-migration-and-album-sync/</link>
-      <description><![CDATA[  immich  v1.138.0 v1.138.0介绍了新的自助服务安全功能，包括用户通过输入当前密码来重置自己的PIN代码的功能。这消除了管理干预的要求，除非已禁用密码登录。此外， oauth 已经增强了设置以允许重置OAuth ID，简化身份验证迁移并避免更改提供者时避免登录问题。
-专辑资产同步现在确保共享专辑中的新资产已正确同步，这是一种解决先前不一致之处的破坏更改。同时，Beta时间轴用户受益于专辑的滑动功能，改进的上传和同步功能以及基于在移动应用程序上，改进专注于内容共享和管理：用户可以创建专辑共享链接，直接在资产查看器栏中删除资产，并编辑用户参与共享相册。记录已转移到SQLite以提高性能，现在用户可以相对多个资产来批量调整日期和时间来增强组织。  Web更新通过允许PIN重置，OAuth ID重置，Beta时间轴映像编辑以及删除任意搜索结果限制以提高可访问性。来镜像这些更改。
-  href =“ https://alternativeto.net/software/immich/about/”&gt;更多有关Immich ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/8/immich-update-lets-users-reset-pin-improves-oauth-migration-and-album-sync/</guid>
-      <pubDate>Fri, 15 Aug 2025 19:52:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
