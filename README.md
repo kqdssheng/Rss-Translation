@@ -12,4 +12,4 @@
 
 ## 已转换翻译源
  - source001 [https://feed.alternativeto.net/releases/all](https://feed.alternativeto.net/releases/all) -> [AlternativeTo-软件替代](rss/AlternativeTo-%E8%BD%AF%E4%BB%B6%E6%9B%BF%E4%BB%A3.xml)
- - source002 [https://www.reddit.com/r/automation.rss](https://www.reddit.com/r/automation.rss) -> [reddit_automation](rss/reddit_automation.xml)
+ - source002 [https://feed.alternativeto.net/news/all](https://feed.alternativeto.net/news/all) -> [AlternativeTo-新闻](rss/AlternativeTo-%E6%96%B0%E9%97%BB.xml)
