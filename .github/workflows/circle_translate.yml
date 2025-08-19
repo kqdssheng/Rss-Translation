@@ -4,7 +4,8 @@ name: circle_translate
 on:
 
   schedule:
-   - cron: '0 */3 * * *'
+   - cron: '0 */12 * * *'
+   #- cron: '0 */3 * * *' #每3小时更新一次
   # 允许您从“操作”选项卡手动运行此工作流
   workflow_dispatch:
 
