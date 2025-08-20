@@ -4,7 +4,43 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Wed, 20 Aug 2025 01:26:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Aug 2025 12:39:41 GMT</lastBuildDate>
+    <item>
+      <title>概念将脱机模式推出：编辑页面没有互联网连接</title>
+      <link>https://alternativeto.net/news/2025/8/notion-rolls-out-offline-mode-edit-pages-without-an-internet-connection/</link>
+      <description><![CDATA[  intion 已经发布了离线模式，让用户访问和编辑密钥页面而无需Internet连接。该版本包括最大的生产CRDT系统之一，用于管理同时脱机编辑并确保数据一致性。在第一个版本中，脱机访问数据库以每个数据库的每个数据库开始，并计划在以后的更新中进行扩展。
+ 更多有关intion ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/8/notion-rolls-out-offline-mode-edit-pages-without-an-internet-connection/</guid>
+      <pubDate>Wed, 20 Aug 2025 08:15:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Elevenlabs引入了基于文本的对话代理的聊天模式</title>
+      <link>https://alternativeto.net/news/2025/8/elevenlabs-introduces-chat-mode-for-text-based-conversational-agents/</link>
+      <description><![CDATA[  Elevenlabs 已经启动了聊天模式，在其对话代理平台中添加了基于文本的功能。现在，用户可以使用SDK，API或HTML行快速部署聊天代理，或在现有代理上启用聊天模式。
+该功能针对需要精确文本输入或适合喜欢键入的用户的任务，并选择将复杂的问题升级到语音代理。
+ 有关Elevenlabs ＆nbsp; | |＆nbsp; &lt;A href =“]]></description>
+      <guid>https://alternativeto.net/news/2025/8/elevenlabs-introduces-chat-mode-for-text-based-conversational-agents/</guid>
+      <pubDate>Wed, 20 Aug 2025 07:51:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国将其备受争议的后门授权放到美国退缩后的苹果加密</title>
+      <link>https://alternativeto.net/news/2025/8/uk-drops-its-controversial-backdoor-mandate-into-apple-encryption-after-us-pushback/</link>
+      <description><![CDATA[英国已撤回 iCloud 数据，这是今年早些时候的授权 apple appe apple删除了对新的英国用户的高级数据保护对新的英国用户和战争的现有功能。政府已秘密命令苹果公司在全球iCloud存储的加密文件提供访问。
+苹果最初在保密的情况下向法庭上的命令提出了质疑，但到4月，它已获得公开讨论此案的权利。同时，美国官员审查了英国的需求是否违反了双边云法，该法案禁止任何一个国家都需要访问对方的数据。
+逆转为美国国家情报局总监Tulsi Gabbard ，他引用了美国和英国领导人之间的合作。报告表明，英国在美国的压力和内部担忧下退缩了，尽管尚不清楚苹果是否会恢复对英国用户的先进数据保护。
+ 更多有关icloud ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/8/uk-drops-its-controversial-backdoor-mandate-into-apple-encryption-after-us-pushback/</guid>
+      <pubDate>Wed, 20 Aug 2025 02:18:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>黑曜石启动了用于数据库工作流和属性格式的新基础插件</title>
+      <link>https://alternativeto.net/news/2025/8/obsidian-launches-new-bases-plugin-for-database-workflows-and-property-format-changes/</link>
+      <description><![CDATA[  obsidian 最新更新首次亮相了新的基础插件，使用户可以将一组笔记转换为结构化数据库。此功能使个人可以在其现有保险库中组织项目，旅行行程，阅读列表和各种其他结构化内容。用户可以创建自定义视图以可视化和与存储的数据进行交互，并受益于高级属性过滤和公式驱动的动态属性。
+所有基本内容都保留在本地存储的Markdown文件中，并在YAML中具有属性，以及新的.base文件格式和语法。在功能上，基地为想要类似于数据库的功能的用户提供了一种类似于此版本还为属性带来了重大变化：单数形式标签，别名和CSSClass被列表标签，别名和CSSClasses取代。格式转换器插件有助于迁移旧文件并纠正格式以简化过渡。其他添加剂包括一个脚注查看插件，用于管理侧边栏中的参考，预览和画布中的属性编辑器，同步冲突解决方案以及直接从文件资源管理器创建新基地或画布的选项。
+  href =“ https://alternativeto.net/software/obsidian/about/”&gt;更多有关obsidian ＆nbsp; | |＆nbsp; &lt;A href =“ https：//alternatativeto.net/software/software/obsidian/]]></description>
+      <guid>https://alternativeto.net/news/2025/8/obsidian-launches-new-bases-plugin-for-database-workflows-and-property-format-changes/</guid>
+      <pubDate>Wed, 20 Aug 2025 02:04:05 GMT</pubDate>
+    </item>
     <item>
       <title>Spotify添加了与高级用户的歌曲过渡一起添加自定义播放列表混音</title>
       <link>https://alternativeto.net/news/2025/8/spotify-adds-custom-playlist-mixes-with-song-transitions-for-premium-users/</link>
@@ -101,45 +137,6 @@ Building on these changes, Windows Search and Spotlight on macOS can now directl
  更多有关CZKAWKA ＆nbsp; | | |]]></description>
       <guid>https://alternativeto.net/news/2025/8/czkawka-10-0-released-with-improved-performance-reproducible-binaries-and-much-more/</guid>
       <pubDate>Tue, 19 Aug 2025 12:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kdenlive 25.08发布了用于硬件加速和许多稳定性修复的准备工作</title>
-      <link>https://alternativeto.net/news/2025/8/kdenlive-25-08-released-with-prep-work-for-hadware-acceleration-and-many-stability-fixes/</link>
-      <description><![CDATA[  kdenlive  25.08将稳定性和改进放在前沿，提供300多个投入，超过300个投入并解决了15次崩溃的现象。该团队没有引入引人入胜的功能，而是将此周期致力于广泛的错误修复和可用性改进。
-关键更改是重新设计的音频混合器，它引入了澄清的级别显示和阈值视觉效果。在用户对高分辨率显示器的反馈后，也解决了与HIDPI和分数缩放有关的问题。使用文本覆盖的用户将注意到标题器的重大更新，例如改进的SVG和图像支持，移动和调整项目的能力，通过 shift&gt; shift&gt; shift + drag 添加中心大小，以及将 tatter  tab的重命名为 tables  em&gt;  templates 。。。
-基于这些增强功能，Kdenlive现在提供了改进的范围样式，并提供系统调色板支持，以提高主题一致性。已经解决了高变焦级别和油漆模式下的错误。用户将看到涵盖字幕，文本对语，标记，指南，项目注释和监视器的工具的进一步改进。更有效的视频处理来自一个新的选项，启用了硬件解码，并与升级和编码配对。同时，在高层改进中最大程度地减少了记忆使用量，提高稳定性并加强了MacOS，Windows，Snaps和Flatpak的包装。在MACOS上，可以双击“ MACOS”文件，结束长期工作流程。
-  href =“ https://alternativeto.net/software/kdenlive/about/”&gt;更多关于Kdenlive ＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/8/kdenlive-25-08-released-with-prep-work-for-hadware-acceleration-and-many-stability-fixes/</guid>
-      <pubDate>Tue, 19 Aug 2025 11:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>git 2.51添加了无巡航的多包索引，小径步行包装和改进的储藏格式</title>
-      <link>https://alternativeto.net/news/2025/8/git-2-51-adds-cruft-free-multi-pack-indexes-path-walk-packing-and-improved-stash-format/</link>
-      <description><![CDATA[  git  2.51现在可用，标记了广泛使用的分布式版本控制系统的新更新。在其标题功能中，该版本着重于增强多包索引重新包装。通过引入 repack.midxmustcontaincruft 选项，GIT现在支持免费的reckacks。此选项可确保持续包括Cruft包装，从而使较小的重复包装保持存储库一致性并提高存储效率。
-在此改进之后，重新包装期间的对象收集现在受益于“路径步行” 方法。与先前的修订订单步行不同，路径步行会一次收集并从单个路径中发出所有对象。结果，使用此方法生成的包装文件可能要比具有先前名称策略创建的包装件。。
-基于内部工作流功能，GIT 2.51引入了修订的藏匿表示。现在，可以将多个存放条目存储为一系列提交，并导出到单个参考。用户可以与普通分支或标签相似，推动或拉动这些藏匿处，扩大协作和迁移选项。
-填写版本，Git 2.51带来了各种其他增强功能和错误修复。它还包括为即将到来的Git 3.0设定阶段的基本变化。
-View article on AlternativeTo »有关git ＆nbsp; |＆nbsp; &lt;A href =“ https：//alternativeto.net/software/git/git/”]]></description>
-      <guid>https://alternativeto.net/news/2025/8/git-2-51-adds-cruft-free-multi-pack-indexes-path-walk-packing-and-improved-stash-format/</guid>
-      <pubDate>Tue, 19 Aug 2025 09:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Podman 5.6发行了改进的四边形管理，远程客户端功能等等</title>
-      <link>https://alternativeto.net/news/2025/8/podman-5-6-released-with-improved-quadlet-management-remote-client-capabilities-and-more/</link>
-      <description><![CDATA[  podman  5.6已发布，是对流行的管理容器，pods和Images的流行开源平台的最新更新。此版本的重点是引入了一组新的四式管理命令，这使使用SystemD风格的容器单元更容易。除了新命令外，Quadlet单元现在还提供所有单元类型的扩展功能，覆盖容器，POD，图像和网络。
-除了这些核心变化之外，Podman 5.6带来了关键的可用性改进。  Podman Machine Init 命令现在包括  - 交换选项，让用户启用并按大小为虚拟机指定交换空间。对于M3系列MAC主机运行MACOS 15或更新，默认情况下，使用 libkrun 提供商启用嵌套虚拟化，提供更好的性能和更广泛的兼容性。
-在其 kubernetes 支持，此版本的支持，通过对 podman kube play 命令的多次更新，可以通过多个更新来增强兼容性。远程Podman客户端还可以看到重大升级，从而缩小了远程和本地使用之间的差距。 Podman 5.6通过新的命令选项将更新综合起来，改进 docker 兼容性，boltdb expatibility，boltdb equebecation and boltdb equebecation和其他较小的次要增强。
- 有关Podman的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/8/podman-5-6-released-with-improved-quadlet-management-remote-client-capabilities-and-more/</guid>
-      <pubDate>Tue, 19 Aug 2025 07:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Elevenlabs在工作室中揭示了定制配乐的视频到音乐工具</title>
-      <link>https://alternativeto.net/news/2025/8/elevenlabs-unveils-video-to-music-tool-for-custom-soundtracks-in-studio/</link>
-      <description><![CDATA[  Elevenlabs   在Eleevenlabs Studio中启动了视频to-Music Flow，该流程在Eleevenlabs Studio中分析了视频内容，并使用其Eleeven Music模型创建了自定义配乐。用户可以通过直接在工作室内分层配音和声音效果来进一步增强项目。
-  href =“ https://alternativeto.net/software/eelevenlabs/about/”&gt;有关Elevenlabs ＆nbsp; | |＆nbsp; &lt;A href =“]]></description>
-      <guid>https://alternativeto.net/news/2025/8/elevenlabs-unveils-video-to-music-tool-for-custom-soundtracks-in-studio/</guid>
-      <pubDate>Mon, 18 Aug 2025 15:40:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
