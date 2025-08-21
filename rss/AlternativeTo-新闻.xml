@@ -4,7 +4,76 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Wed, 20 Aug 2025 12:39:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 01:26:19 GMT</lastBuildDate>
+    <item>
+      <title>Libreoffice 25.8以PDF 2.0导出，AES-256加密和PDF/A-4支持启动</title>
+      <link>https://alternativeto.net/news/2025/8/libreoffice-25-8-launches-with-pdf-2-0-export-aes-256-encryption-and-pdf-a-4-support/</link>
+      <description><![CDATA[  libreoffice  25.8已通过显着的交叉平台性能改进，包括更快的启动，启动，滚动，滚动，滚动，滚动和放置。 LibreOffice - Writer and LibreOffice - Calc launch documents高达30％的快速，内存管理升级可改善虚拟机，远程台式机和薄客户端的性能。
+ PDF导出现在支持使用AES-256加密和PDF/A-4标准的PDF 2.0。导出接口已通过统一的下拉列表，合并的表单部分，新的结构元素以及改进的嵌入式文件和混合ODF文档的处理。它还允许导入加密的混合PDF，使用单个签名要求，并确保更好作者用户获得了大修连字符和间距控件，包括单词间距理由和页面，列和文档差的布局选项。其他功能涵盖了恢复跟踪的更改，自动图像修复和双击对象旋转。 CALC添加了14个新的电子表格功能，重点是数组和文本操作，以及上下文菜单自动简化，灵活的条件格式以及更新的CSV导入对话框。在整个套件中，OLE对象按比例地调整大小， libreoffice-印象-Apress 支持嵌入的PPTX Fonts和Master Slide coppopering，and  More about LibreOffice | LibreOffice Alternatives]]></description>
+      <guid>https://alternativeto.net/news/2025/8/libreoffice-25-8-launches-with-pdf-2-0-export-aes-256-encryption-and-pdf-a-4-support/</guid>
+      <pubDate>Wed, 20 Aug 2025 18:29:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>可爱的启动安全检查器2.0，并使用实时AI风险检测</title>
+      <link>https://alternativeto.net/news/2025/8/lovable-launches-security-checker-2-0-with-real-time-ai-risk-detection/</link>
+      <description><![CDATA[Lovable has launched Security Checker 2.0 with real-time detection for database misconfigurations, exposed secrets, sensitive数据和其他风险。该工具运行自动扫描，并提醒开发人员如果组件成为公共或失败安全标准。随着威胁的发展，它的模块化设计允许使用新的扫描模块和检测规则进行连续更新。。
+该公司还引入了AI驱动的安全系统，该系统阻止了恶意软件，网络钓鱼，模仿和其他有害内容。目前，它每天每天都停止大约1,000个项目违反平台政策。人类在循环过程中支持这些防御，内部团队在过去两周中删除了300多个站点，并与外部研究人员合作以识别和关闭可疑项目。
+此外，可爱的人在2025年8月13日获得了SOC 2 2型合规性，并补充了现有的SOC 2类型1和ISO 27001：2022认证。这些凭据确认其安全惯例可以保护用户数据并超过行业要求。
+ 在交流中查看文章href =“ https://alternativeto.net/software/lovable/about/”&gt;更多有关可爱的＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/8/lovable-launches-security-checker-2-0-with-real-time-ai-risk-detection/</guid>
+      <pubDate>Wed, 20 Aug 2025 18:19:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>日记应用程序第一天推出Chrome和Firefox扩展，以便于网络捕获</title>
+      <link>https://alternativeto.net/news/2025/8/journaling-app-day-one-launches-chrome-and-firefox-extensions-for-easier-web-capture/</link>
+      <description><![CDATA[ Automattic已发布了Chrome和Firefox的新浏览器扩展，其第一天日记应用程序。借助这些扩展，用户可以从其网络浏览器中捕获文章，网络重点和注释，并将其直接保存到第一天。
+扩展程序可以单击保存整个网页，还允许用户突出显示和保存文本部分，以供以后参考。它提供了添加笔记和标签的选项，以使日记条目保持井井有条且易于找到。该扩展名没有让内容消失在浏览器书签中，而是在第一天之内将保存的项目添加到您的个人时间表中，从而提供了改进的数据持久性和更轻松的访问。
+为了支持隐私和安全性，使用扩展名保存的条目是端到端加密的。所有内容都会自动同步到您的第一天帐户，使其可以跨多个设备访问，包括MacOS，Windows，iOS，Android，Safari等。
+ 有关第一天的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/8/journaling-app-day-one-launches-chrome-and-firefox-extensions-for-easier-web-capture/</guid>
+      <pubDate>Wed, 20 Aug 2025 17:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Elevenlabs推出了工作室级，商业AI音乐一代的11个音乐API</title>
+      <link>https://alternativeto.net/news/2025/8/elevenlabs-unveils-eleven-music-api-for-studio-grade-commercial-ai-music-generation/</link>
+      <description><![CDATA[  elevenlabs  已经引入了十一音乐API- 该服务的发布会启动  -    -    -    -    -    -    -    - 访问开发人员，可通过自然播放的音乐来访问“通过启用”启用自然播放式音乐的提示。此版本使任何人都可以使用简单的描述文本直接通过API生成任何样式的原始音乐。
+在这个基础上建立了11个音乐API，专门针对有执照的数据进行培训，并清除了广泛的商业用途。这允许在保持全面的法律合规性的同时集成到广泛的产品中，这是企业和创作者的关键考虑。
+使用API，开发人员可以将AI音乐创作嵌入其产品和工作流程中。他们获得了从提示中产生高质量曲目的灵活性，在人声或乐器输出之间进行选择，选择任何音乐类型，并自定义结果曲目的长度，结构和语言。
+由于整个过程都是自动化的，并且可以通过API获得，因此用户可以在几秒钟内制作适合创意，商业或企业需求的音乐。此发布为软件开发人员，创意专业人士和企业提供了一个实用的解决方案，以寻求快速，定制的配乐或音乐内容的应用程序和平台。
+ 有关Elevenlabs ＆nbsp; | |＆nbsp; &lt;A href =“]]></description>
+      <guid>https://alternativeto.net/news/2025/8/elevenlabs-unveils-eleven-music-api-for-studio-grade-commercial-ai-music-generation/</guid>
+      <pubDate>Wed, 20 Aug 2025 15:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>next.js 15.5在beta，stable node.js中间件等中添加了涡轮盒构建等等</title>
+      <link>https://alternativeto.net/news/2025/8/next-js-15-5-adds-turbopack-builds-in-beta-stable-node-js-middleware-and-much-more/</link>
+      <description><![CDATA[  next.js 已发布了15.5版，介绍了几个旨在使用下一个构建-Turbopack 命令，该命令启用 turbopack  href =“ https://alternativeto.net/software/vercel/about/”&gt; vercel 网站。结果是更快的迭代周期和较短的构建时间。
+按照较早的实验支持，Next.js 15.5现在为 node.js 在其应用程序中的运行时间。
+基于这些增强功能，新版本显着改进了 typescript  App Router中的体验。 Next.js 15.5提供全面的类型安全性，并确保与 turbopack ，
+对于那些管理代码质量的人，此版本标志着下一个lint 命令的弃用。开发人员现在将遇到贬值警告，并建议迁移到显式 eslint 配置或考虑 href = 
+  href =“ https://alternativeto.net/software/next-js/about/”&gt;有关Next.js ＆nbsp; | |＆nbsp; ]]></description>
+      <guid>https://alternativeto.net/news/2025/8/next-js-15-5-adds-turbopack-builds-in-beta-stable-node-js-middleware-and-much-more/</guid>
+      <pubDate>Wed, 20 Aug 2025 14:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Unity 6.2在Beta和增强的Android XR功能中以集成的AI启动</title>
+      <link>https://alternativeto.net/news/2025/8/unity-6-2-launches-with-integrated-ai-in-beta-and-enhanced-android-xr-capabilities/</link>
+      <description><![CDATA[  Unity  6.2已发布为这款流行的跨平台游戏引擎的最新版本，为创建者提供了新工具。中心亮点是Beta中的Unity AI，现在本地整合到统一编辑器中，并在本版本中完全支持。 Unity AI提供上下文帮助，自动化重复的工作流程，生成占位符资产，并有助于调试错误。在Beta期间，所有用户都可以访问免费的无限统一点，从而可以通过AI驱动的功能进行广泛的实验。默认情况下，Unity AI的数据共享设置为开发人员隐私，从而使用户直接控制其项目数据。
+建立改进的工具，Unity 6.2 Android XR支持：Android XR软件包获得了经过验证的状态，为Android上的建筑扩展现实（XR）应用建立了稳定的生产质量基础。值得注意的功能添加包括手网格支持，动态刷新率控件，可见性网状遮挡，新的图形工具包，网格详细信息级别（LOD），UI工具包的世界空间用户界面，增强的开发人员数据框架以及扩展的诊断功能。功能。
+随着这些进步，Unity 6.2的发布模型保证了与长期支持（LTS）版本相同的支持。这样可以确保持续的关键修复和平台更新，直到下一个版本的到达为止。
+ 更多有关Unity ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/8/unity-6-2-launches-with-integrated-ai-in-beta-and-enhanced-android-xr-capabilities/</guid>
+      <pubDate>Wed, 20 Aug 2025 12:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Infogni对其整个数据删除过程进行了Deloitte验证</title>
+      <link>https://alternativeto.net/news/2025/8/incogni-receives-deloitte-verification-for-its-entire-data-removal-process/</link>
+      <description><![CDATA[  Incogni 已从德勤（Deloitte）获得了第三派对保证，该保证是独立验证了公司的整个数据删除过程。该评估确认Incogni现在涵盖了420多个数据经纪人，并每60-90天发送一次反复的删除请求。该公司报告了已处理超过2.45亿的请求，与数据经纪人没有隶属关系。
+订阅也变得更容易获得，起价为每月7.99美元。
+ 查看文章href =“ https://alternativeto.net/software/incogni/about/”&gt;更多有关Incogni ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/8/incogni-receives-deloitte-verification-for-its-entire-data-removal-process/</guid>
+      <pubDate>Wed, 20 Aug 2025 09:39:13 GMT</pubDate>
+    </item>
     <item>
       <title>概念将脱机模式推出：编辑页面没有互联网连接</title>
       <link>https://alternativeto.net/news/2025/8/notion-rolls-out-offline-mode-edit-pages-without-an-internet-connection/</link>
@@ -76,67 +145,6 @@
  有关替代文章的文章href =“ https://alternativeto.net/software/notion-calendar/about/”&gt;有关概念的更多信息]]></description>
       <guid>https://alternativeto.net/news/2025/8/notion-calendar-introduces-list-panel-to-link-databases-and-events/</guid>
       <pubDate>Tue, 19 Aug 2025 15:50:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mistral Document AI在Microsoft Azure AI Foundry中首次亮相</title>
-      <link>https://alternativeto.net/news/2025/8/mistral-document-ai-debuts-in-microsoft-azure-ai-foundry/</link>
-      <description><![CDATA[  Mistral 现在可以在
- 更多有关Misstral le Chat  |]]></description>
-      <guid>https://alternativeto.net/news/2025/8/mistral-document-ai-debuts-in-microsoft-azure-ai-foundry/</guid>
-      <pubDate>Tue, 19 Aug 2025 15:44:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Firefox现在支持桌面和Android上的中文，日语和韩语翻译</title>
-      <link>https://alternativeto.net/news/2025/8/firefox-now-supports-chinese-japanese-and-korean-translation-on-desktop-and-android/</link>
-      <description><![CDATA[  firefox 现在，直接在桌面和Android上支持中文，日语和韩语翻译。所有翻译都是在本地处理的，因此用户内容永远不会离开设备，从而实现了隐私和离线访问。 Mozilla还升级了他们的机器学习模型和优化的性能，以支持平滑的翻译，即使在较旧的Android设备上也是如此。
- 更多有关Mozilla Firefox ＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/8/firefox-now-supports-chinese-japanese-and-korean-translation-on-desktop-and-android/</guid>
-      <pubDate>Tue, 19 Aug 2025 15:35:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ventoy 1.1.06：Truenas秤支持，启动修复和增强的树景模式</title>
-      <link>https://alternativeto.net/news/2025/8/ventoy-1-1-06-truenas-scale-support-boot-fixes-and-enhanced-treeview-mode/</link>
-      <description><![CDATA[  ventoy  1.1.06引入了对Truenas Scale（Linux）分布的支持。该更新解决了影响分开的魔术和libreelec 12.2.0的引导问题，并且还将XFS兼容性更新到最新版本。尾部6.13及以上的启动问题已修复，并改进了Treeview Mode Order。
- 有关Ventoy的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/8/ventoy-1-1-06-truenas-scale-support-boot-fixes-and-enhanced-treeview-mode/</guid>
-      <pubDate>Tue, 19 Aug 2025 15:29:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在，替代支持在美国对iOS的应用内购买</title>
-      <link>https://alternativeto.net/news/2025/8/substack-now-supports-in-app-purchases-on-ios-in-the-u-s-/</link>
-      <description><![CDATA[  seltack 现在，在美国的Apple Policy Change s Apple Policy Change在美国的Apple Policy更改之后，在美国的iOS应用程序中购买了订阅的内置购买，该平台在平台上自动设置了iOS应用程序在iOS应用程序中以apple obsips complient的订阅，以确保apple的订阅一致，以一致的网络订阅，并确定网络的订阅，并保持网络订单的份额。
-出版商还拥有新的迁移工具来导出订户关系。
- 有关替代的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/8/substack-now-supports-in-app-purchases-on-ios-in-the-u-s-/</guid>
-      <pubDate>Tue, 19 Aug 2025 15:23:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spark Mail启动可自定义的智能文件夹，用于高级电子邮件过滤</title>
-      <link>https://alternativeto.net/news/2025/8/spark-mail-launches-customizable-smart-folders-for-advanced-email-filtering/</link>
-      <description><![CDATA[  Spark Mail 已经启动了智能文件夹，允许用户使用可自定义的基于搜索的规则（例如发送者，主题和关键字）过滤电子邮件。该功能易于设置，不需要复杂的规则编写，从而使更多用户可以访问高级过滤。
-智能文件夹在iOS，macOS和Windows上可用，在同一系统内与Spark Premium的一部分之间同步。
- 更多关于Spark Mail ＆nbsp; | |＆nbsp; &lt;A href =“ https：//alternativeto.net/software/spark-e-mail/]]></description>
-      <guid>https://alternativeto.net/news/2025/8/spark-mail-launches-customizable-smart-folders-for-advanced-email-filtering/</guid>
-      <pubDate>Tue, 19 Aug 2025 15:14:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mountain Duck 5.0添加了集成连接模式，SMB支持，自定义版本，等等</title>
-      <link>https://alternativeto.net/news/2025/8/mountain-duck-5-0-adds-integrated-connect-mode-smb-support-custom-versioning-and-more/</link>
-      <description><![CDATA[  Mountain Duck 引入了一种新的集成连接模式，该模式在Windows和MacOS上都使用本机API。此更新允许将服务器和云存储安装在 File Explorer 或 iCloud drive 在MacOS上，但具有使用任何首选的云存储提供商的灵活性。
-Building on these changes, Windows Search and Spotlight on macOS can now directly search for files stored remotely when integrated connect mode is启用。 Mountain Duck 5还通过增加对SMB（服务器消息块）协议的支持来扩大其兼容性，从而允许与Windows文件共享的无缝连接，遵循这些更新后，用户可以从MACOS上的状态栏或Windows上的托盘菜单中使用一个新的活动面板来查看运行文件操作，待处理同步任务和安装座，并使用控件来跟踪和取消同步作业。此外，该版本还添加了自定义版本，即使在FTP，SFTP和WebDAV等协议上启用版本历史记录和恢复也没有自己的版本支持。
-  href =“ https://alternativeto.net/software/mountain-duck/about/”&gt;更多关于山鸭＆nbsp; |＆nbsp; &lt;A href =“ https：//alternatativeto.net/software/software/mountain-duck/]]></description>
-      <guid>https://alternativeto.net/news/2025/8/mountain-duck-5-0-adds-integrated-connect-mode-smb-support-custom-versioning-and-more/</guid>
-      <pubDate>Tue, 19 Aug 2025 14:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Czkawka 10.0发行了，其性能提高，可重复的二进制文件等等</title>
-      <link>https://alternativeto.net/news/2025/8/czkawka-10-0-released-with-improved-performance-reproducible-binaries-and-much-more/</link>
-      <description><![CDATA[  czkawka  10.0现在可用，为此免费和开放量的解决方案提供了改进，以用于删除不必要的文件。该版本引入了几个破裂的变化。现在，语言名称已统一，这意味着当找不到某些翻译时，图形用户界面可能默认为主要语言。此外，缓存文件现在实现内存限制，并且不再使用较旧版本，而命令行映像过滤器参数从 faussian 转换为 gaussian 。
-构建这些更改，加载和保存都改进了缓存性能，如果缓存文件损坏了8 GB的内存限制，以防止崩溃。消息和应用程序恐慌现在已记录到文件，使用户和开发人员都更容易跟踪问题。该更新还引入了防止删除可能已更改的文件夹，自上次扫描以来不再空着的文件夹。。
-版本还带来了技术调整：PDF库已从 pdf-rs 转移到 lopdf ，降低依赖性，而图像处理库已根据 rawler  rawler 更快地和继续支持。视频发现器功能现在包括其他配置选项。对于命令行用户，已改进了文件删除逻辑，并添加了进度栏。最后，该更新地址为GTK用户界面中的错误，并使二进制文件可重现以更好地构建验证，以及许多其他增强功能和错误修复。
- 更多有关CZKAWKA ＆nbsp; | | |]]></description>
-      <guid>https://alternativeto.net/news/2025/8/czkawka-10-0-released-with-improved-performance-reproducible-binaries-and-much-more/</guid>
-      <pubDate>Tue, 19 Aug 2025 12:40:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
