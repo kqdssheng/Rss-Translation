@@ -4,7 +4,17 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Thu, 21 Aug 2025 01:26:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 12:40:09 GMT</lastBuildDate>
+    <item>
+      <title>Google推出具有免费和付费层的家用智能设备的Gemini</title>
+      <link>https://alternativeto.net/news/2025/8/google-to-launch-gemini-for-home-smart-devices-with-both-free-and-paid-tiers/</link>
+      <description><![CDATA[ Google已宣布将带来 google gemini 到 Google Assistans 。该更新引入了一个免费和付费层的订阅模型，尽管尚未详细介绍定价和功能可用性。
+双子座将使用生成的AI进行更多的自然相互作用，从而消除了对刚性命令的需求。它可以处理诸如琐事问题或恒温器更改之类的日常请求，其多模式功能与巢设备集成在一起，例如分析相机提要以回答有关家庭活动的问题。
+推出还将带来 gemini live 进行更多个性化的对话。有关功能和定价的更多信息，将很快分享。
+ 查看文章href =“ https://alternativeto.net/software/google-cast/about/”&gt;有关Google Home的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/8/google-to-launch-gemini-for-home-smart-devices-with-both-free-and-paid-tiers/</guid>
+      <pubDate>Thu, 21 Aug 2025 01:04:41 GMT</pubDate>
+    </item>
     <item>
       <title>Libreoffice 25.8以PDF 2.0导出，AES-256加密和PDF/A-4支持启动</title>
       <link>https://alternativeto.net/news/2025/8/libreoffice-25-8-launches-with-pdf-2-0-export-aes-256-encryption-and-pdf-a-4-support/</link>
@@ -38,7 +48,7 @@
       <link>https://alternativeto.net/news/2025/8/elevenlabs-unveils-eleven-music-api-for-studio-grade-commercial-ai-music-generation/</link>
       <description><![CDATA[  elevenlabs  已经引入了十一音乐API- 该服务的发布会启动  -    -    -    -    -    -    -    - 访问开发人员，可通过自然播放的音乐来访问“通过启用”启用自然播放式音乐的提示。此版本使任何人都可以使用简单的描述文本直接通过API生成任何样式的原始音乐。
 在这个基础上建立了11个音乐API，专门针对有执照的数据进行培训，并清除了广泛的商业用途。这允许在保持全面的法律合规性的同时集成到广泛的产品中，这是企业和创作者的关键考虑。
-使用API，开发人员可以将AI音乐创作嵌入其产品和工作流程中。他们获得了从提示中产生高质量曲目的灵活性，在人声或乐器输出之间进行选择，选择任何音乐类型，并自定义结果曲目的长度，结构和语言。
+使用API​​，开发人员可以将AI音乐创作嵌入其产品和工作流程中。他们获得了从提示中产生高质量曲目的灵活性，在人声或乐器输出之间进行选择，选择任何音乐类型，并自定义结果曲目的长度，结构和语言。
 由于整个过程都是自动化的，并且可以通过API获得，因此用户可以在几秒钟内制作适合创意，商业或企业需求的音乐。此发布为软件开发人员，创意专业人士和企业提供了一个实用的解决方案，以寻求快速，定制的配乐或音乐内容的应用程序和平台。
  有关Elevenlabs ＆nbsp; | |＆nbsp; &lt;A href =“]]></description>
       <guid>https://alternativeto.net/news/2025/8/elevenlabs-unveils-eleven-music-api-for-studio-grade-commercial-ai-music-generation/</guid>
@@ -137,14 +147,6 @@
   href =“ https://alternativeto.net/software/floorp/about/”&gt;更多关于Floorpp ＆nbsp; |＆nbsp; &lt;A href =“ https：//alternatativeto.net/software/software/floorp/”]]></description>
       <guid>https://alternativeto.net/news/2025/8/floorp-browser-12-0-adds-floating-panel-sidebar-and-native-mouse-gestures/</guid>
       <pubDate>Tue, 19 Aug 2025 18:11:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>概念日历介绍列表面板以链接数据库和事件</title>
-      <link>https://alternativeto.net/news/2025/8/notion-calendar-introduces-list-panel-to-link-databases-and-events/</link>
-      <description><![CDATA[  intion calendar 已经启动了一个新列表面板，该面板允许用户直接连接包含日期的任何数据库的日期。此更新使数据库和日历可以在同一页面上查看和管理，从而简化了概念的任务计划和调度。
- 有关替代文章的文章href =“ https://alternativeto.net/software/notion-calendar/about/”&gt;有关概念的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/8/notion-calendar-introduces-list-panel-to-link-databases-and-events/</guid>
-      <pubDate>Tue, 19 Aug 2025 15:50:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
