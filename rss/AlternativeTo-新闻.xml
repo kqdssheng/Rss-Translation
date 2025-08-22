@@ -4,7 +4,17 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Fri, 22 Aug 2025 01:25:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 12:39:19 GMT</lastBuildDate>
+    <item>
+      <title>GitLab 18.3在Visual Studio中使用Duo Agent Platform启动，嵌入式视图等</title>
+      <link>https://alternativeto.net/news/2025/8/gitlab-18-3-launches-with-duo-agent-platform-in-visual-studio-embedded-views-and-more/</link>
+      <description><![CDATA[  gitlab 已发布了其DevSecops平台的18.3版，提供了一系列针对开发者生产力和安全性的新功能。在此版本中， Visual Studio 用户在公共Beta中获得访问公共Beta的二人代理平台，启用了直接在集成开发环境中的高级AI-drive。
+与此相同，GitLab将嵌入式视图带来了由Gitlab查询语言（GLQL）提供动力的嵌入式视图到一般可用性。团队现在可以创建和嵌入动态，可查询的显示 gitlab 在其工作区内数据。在实例之间移动数据已被简化，以直接转移组和项目的直接传输迁移，现在可以通过gitlab用户界面和REST API访问。。
+在安全方面，GitLab引入了CI/CD作业令牌的细粒度权限。此功能允许管理员通过精确定义工作令牌可以达到哪些项目资源来最大程度地减少访问。对于自主设置的用户，Gitlab Duo代码评论在 mistral ， Anthropic Claude 和
+这些更新与CI/CD作业能够从  href =“ https://alternativeto.net/software/gitlab/about/”&gt;更多有关Gitlab ＆nbsp; | |]]></description>
+      <guid>https://alternativeto.net/news/2025/8/gitlab-18-3-launches-with-duo-agent-platform-in-visual-studio-embedded-views-and-more/</guid>
+      <pubDate>Fri, 22 Aug 2025 07:50:00 GMT</pubDate>
+    </item>
     <item>
       <title>DuckDuckgo将GPT-5添加到Duck.ai，并免费提供私人访问</title>
       <link>https://alternativeto.net/news/2025/8/duckduckgo-adds-gpt-5-to-duck-ai-with-free-private-access/</link>
@@ -137,14 +147,6 @@ View article on AlternativeTo »有关LastPass的更多信息]]></description>
  查看文章href =“ https://alternativeto.net/software/google-cast/about/”&gt;有关Google Home的更多信息]]></description>
       <guid>https://alternativeto.net/news/2025/8/google-to-launch-gemini-for-home-smart-devices-with-both-free-and-paid-tiers/</guid>
       <pubDate>Thu, 21 Aug 2025 01:04:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Libreoffice 25.8以PDF 2.0导出，AES-256加密和PDF/A-4支持启动</title>
-      <link>https://alternativeto.net/news/2025/8/libreoffice-25-8-launches-with-pdf-2-0-export-aes-256-encryption-and-pdf-a-4-support/</link>
-      <description><![CDATA[  libreoffice  25.8已通过显着的交叉平台性能改进，包括更快的启动，启动，滚动，滚动，滚动，滚动和放置。 LibreOffice - Writer and LibreOffice - Calc launch documents高达30％的快速，内存管理升级可改善虚拟机，远程台式机和薄客户端的性能。
- PDF导出现在支持使用AES-256加密和PDF/A-4标准的PDF 2.0。导出接口已通过统一的下拉列表，合并的表单部分，新的结构元素以及改进的嵌入式文件和混合ODF文档的处理。它还允许导入加密的混合PDF，使用单个签名要求，并确保更好作者用户获得了大修连字符和间距控件，包括单词间距理由和页面，列和文档差的布局选项。其他功能涵盖了恢复跟踪的更改，自动图像修复和双击对象旋转。 CALC添加了14个新的电子表格功能，重点是数组和文本操作，以及上下文菜单自动简化，灵活的条件格式以及更新的CSV导入对话框。在整个套件中，OLE对象按比例地调整大小， libreoffice-印象-Apress 支持嵌入的PPTX Fonts和Master Slide coppopering，and  More about LibreOffice | LibreOffice Alternatives]]></description>
-      <guid>https://alternativeto.net/news/2025/8/libreoffice-25-8-launches-with-pdf-2-0-export-aes-256-encryption-and-pdf-a-4-support/</guid>
-      <pubDate>Wed, 20 Aug 2025 18:29:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
