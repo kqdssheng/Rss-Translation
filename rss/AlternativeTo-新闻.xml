@@ -4,7 +4,17 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Mon, 25 Aug 2025 01:30:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 12:40:06 GMT</lastBuildDate>
+    <item>
+      <title>Immich 1.139带来了新的图像渲染管道，更好的备份资产跟踪等等</title>
+      <link>https://alternativeto.net/news/2025/8/immich-1-139-brings-new-image-rendering-pipeline-better-backup-asset-tracking-and-more/</link>
+      <description><![CDATA[  immich 已发布了1.139版，为其自我固定的照片和视频管理平台介绍了多个增强功能和错误修复。该更新是显着改善移动体验的知名度。现在，移动应用程序采用自定义图像加载和渲染管道，该管道利用多线程，从而大大改善了本地图像的显示，尤其是在Android设备上。
+随着这些性能改进，Immich 1.139引入了一种追踪备份资产的新方法。用户现在可以查看备份队列中保留哪些资产，从而更容易识别和故障排除无法上传的文件。
+除了这些更新外，该版本还使处理重复资产更有效。现在，用户可以在重复资产列表中的条目之间来回导航。对于在网络上使用Immich的人，专辑管理工作流已经升级：现在可以通过专辑选择模式一次将资产添加到多个专辑中。
+  href =“ https://alternativeto.net/software/immich/about/”&gt;更多有关Immich ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/8/immich-1-139-brings-new-image-rendering-pipeline-better-backup-asset-tracking-and-more/</guid>
+      <pubDate>Mon, 25 Aug 2025 07:50:00 GMT</pubDate>
+    </item>
     <item>
       <title>Windows 11最新版本实施新的暗模式改进以提高一致性</title>
       <link>https://alternativeto.net/news/2025/8/windows-11-latest-builds-implement-new-dark-mode-improvements-to-improve-consistency/</link>
@@ -138,14 +148,6 @@ GPT-4O Mini仍然可以作为替代选项。
   href =“ https://alternativeto.net/software/otter-ai/about/”&gt;更多有关otter.ai ＆nbsp; | |＆nbsp; |]]></description>
       <guid>https://alternativeto.net/news/2025/8/transcription-app-otter-ai-sued-for-recording-meetings-without-user-consent-to-train-ai/</guid>
       <pubDate>Thu, 21 Aug 2025 15:01:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Thunderbird 142.0引入了PDF视觉签名和工作流程改进</title>
-      <link>https://alternativeto.net/news/2025/8/thunderbird-142-0-introduces-pdf-visual-signatures-and-workflow-improvements/</link>
-      <description><![CDATA[  Thunderbird  142.0引入了直接在应用程序中直接向PDF附件添加视觉签名的能力。该版本还带来了复制消息和新闻链接，增强的文件夹管理工具以及影响日历集成的广泛错误修复的新选项， mailto：处理，通知，新闻组和本地化。包括视觉和用户体验更新。
- 查看文章href =“ https://alternativeto.net/software/mozilla-thunderbird/about/”&gt;有关雷鸟的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/8/thunderbird-142-0-introduces-pdf-visual-signatures-and-workflow-improvements/</guid>
-      <pubDate>Thu, 21 Aug 2025 15:00:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
