@@ -4,7 +4,7 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Sun, 24 Aug 2025 12:37:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 01:30:03 GMT</lastBuildDate>
     <item>
       <title>Windows 11最新版本实施新的暗模式改进以提高一致性</title>
       <link>https://alternativeto.net/news/2025/8/windows-11-latest-builds-implement-new-dark-mode-improvements-to-improve-consistency/</link>
@@ -18,7 +18,7 @@
     <item>
       <title>FFMPEG 8.0使用AV1 Vulkan编码和增强的安全默认设置启动</title>
       <link>https://alternativeto.net/news/2025/8/ffmpeg-8-0-launches-with-av1-vulkan-encoding-and-enhanced-security-defaults/</link>
-      <description><![CDATA[  ffmpeg  8.0，codenamed; arrives over 10 months after 7.1 with TLS peer certificate verification enabled by default and expanded hardware acceleration for AV1, VP9,使用 vulkan 。它还通过 Matroska（MKV）  具有完整的解码器覆盖范围，用于屏幕内容编码功能，例如Inter Block block复制，调色板模式，调色板模式和适应性色彩转换。新的过滤器包括耳语，pad_cuda，colordetect和vf_scale_d3d11。
+      <description><![CDATA[  ffmpeg  8.0，codenamed; arrives over 10 months after 7.1 with TLS peer certificate verification enabled by default and expanded hardware acceleration for AV1, VP9,使用 vulkan 。它还通过libjxl添加了动画的JPEG XL编码，通过多站音频/视频/视频和现代编解码器支持改进FLV V2，并为
 该更新引入了VVC VA-API，PRORES RAW，REALVIDEO 6.0，G.728和几个ADPCM变体的新解码器，以及编码升级，例如Libx265 Alpha Channel支持，例如Cenc Av1，MP4 Muxer中的Cenc AV1，MP4 Muxer中的APV和全部APV支持，以及跨解码的跨解码，demux和demux和demux和demux和demux和isObfff。 OpenHarmony用户还获得了本地硬件解码器和编码器支持。
 除了多媒体功能之外，FFMPEG已使用升级的邮件列表服务器和新的官方网站。 
  更多关于ffmpeg ]]></description>
@@ -30,7 +30,7 @@
       <link>https://alternativeto.net/news/2025/8/popular-chrome-vpn-extension-freevpn-one-accused-of-secretly-collecting-users-screenshots/</link>
       <description><![CDATA[  freevpn.one ，一个流行的最近已暴露于秘密间谍用户。  koi Security ，扩展的每个网站用户的屏幕截图，然后向这些图像传播的每个网站用户发送了，
 根据研究人员的说法，扩展的隐私政策最初只有在用户启用 ai ai威胁检测功能 。但是，未经用户同意进行数据收集，并且默认情况下，所有用户都启用了该功能。在每个页面加载中，隐藏的背景过程都会在网站的URL，浏览器选项卡ID和唯一标识符的旁边收集屏幕截图。即使在值得信赖的平台上也发生了这一点，这与开发商的说法相矛盾，声称只有可疑地点受到监视。他们还断言，屏幕截图没有存储，只有简短的分析，但是一旦数据丢失了用户的设备，就无法确认。
- freeVpn.One还在 Chrome Web Store 上携带了Google的特色徽章，该网站既可以通过典型的vpn of of temersions of temersions 来表示信号，以确保其最佳实践范围。尽管有望在将来的更新中解决此问题，但所有用户在此期间仍然很容易受到伤害，并且验证开发人员的身份仅导致 wix-host-hosted模板页面，没有进一步的对证明请求的响应。&gt; 。
+ freeVpn.One还在 Chrome Web Store 上携带了Google的特色徽章，该网站既符合典型的vpn of temerss of temersss of of temerss，in Chrome web Store 都可以通过典型的vpn vpn进行了信号。尽管有望在将来的更新中解决此问题，但所有用户在此期间仍然很容易受到伤害，并且验证开发人员的身份仅导致 wix-host-hosted模板页面，没有进一步的对证明请求的响应。&gt; 。
   href =“ https://alternativeto.net/software/free-vpn/about/”&gt;更多有关免费的VPN ＆nbsp; | |＆nbsp;  &lt;/]]></description>
       <guid>https://alternativeto.net/news/2025/8/popular-chrome-vpn-extension-freevpn-one-accused-of-secretly-collecting-users-screenshots/</guid>
       <pubDate>Fri, 22 Aug 2025 18:41:19 GMT</pubDate>
@@ -63,7 +63,7 @@
       <pubDate>Fri, 22 Aug 2025 15:05:05 GMT</pubDate>
     </item>
     <item>
-      <title>Tails 6.19更新带有密钥修复程序的TOR浏览器和TOR客户端</title>
+      <title>Tails 6.19更新带有关键修复程序的TOR浏览器和TOR客户端</title>
       <link>https://alternativeto.net/news/2025/8/tails-6-19-updates-tor-browser-and-tor-client-with-key-fixes/</link>
       <description><![CDATA[  tails  6.19 6.19将TOR浏览器更新为版本14.5.6，将Tor客户端和0.4.8.17更新为0.4.8.17，确保继续使用Tor网络的隐私权和兼容。 Thunderbird还更新为128.13.0。此外，在删除了TOR连接中配置桥梁时，一条无关的错误消息已被删除。
 自动升级由6.0或更高版本支持。
