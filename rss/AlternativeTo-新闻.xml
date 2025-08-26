@@ -4,7 +4,37 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Tue, 26 Aug 2025 01:27:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Aug 2025 12:44:11 GMT</lastBuildDate>
+    <item>
+      <title>Portainer 2.33 LTS带来了现代化的UI，掌舵增强和实验性可观察性</title>
+      <link>https://alternativeto.net/news/2025/8/portainer-2-33-lts-brings-modernized-ui-helm-enhancements-and-experimental-observability/</link>
+      <description><![CDATA[  portainer 已发布了自上一版2.32 STS版本以来的增强功能的2.33 LTS版本。最新的长期支持（LTS）版本以现代化的外观和感觉更新了接口，最初是在2.32中引入的，使导航和管理更加直观，例如 swarm ，and 在此版本中，新的实验可观察性功能现在是LTS流的一部分，允许用户使用不同的渠道为各种环境条件设置通知。对于与
+这些增强功能是通过引入Kubernetes的名称空间操作员角色来补充的，Kubernetes授予了操作员在特定名称空间内而不是在整个群集中授予操作员权限。边缘设备的更新和回滚工作流已经大修，简化了远程车队管理。
+填写版本，Portainer 2.33 LTS将更新添加到共同传输层安全性（MTL），Docker构成代码完成和验证以及Active Directory的Kerberos身份验证。该版本还包括性能改进以及一系列其他增强功能和错误修复。
+ 有关Portainer的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/8/portainer-2-33-lts-brings-modernized-ui-helm-enhancements-and-experimental-observability/</guid>
+      <pubDate>Tue, 26 Aug 2025 07:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>YouTube未经用户同意，在短裤视频上的秘密AI编辑反弹</title>
+      <link>https://alternativeto.net/news/2025/8/youtube-faces-backlash-for-secret-ai-edits-on-shorts-videos-without-user-consent/</link>
+      <description><![CDATA[  YouTube 已确认它正在尝试AI来编辑一些短裤视频，而无需先获得创作者的同意。 平台确认 使用机器学习来解开bllur，denoise，denoise，并提高所选视频的清晰度，并将这些增强功能与智能手机视频中的这些增强功能进行比较。但是，创作者已经注意到了细微但有影响力的变化，例如服装的皱纹，皮肤质地的改变以及偶尔的面部特征翘曲。尽管没有直接比较很难检测到一些编辑，但一些创作者报告说，这些更改使他们的视频看上去是人为的或意外的。
+在这些报告上构建 Youtuber Rhett Shull 对比了Instagram和YouTube上的相同的相同视频，并指出了他的脸部短裤的独特“油漆效应”，这在短期版本中效果不同。他和其他创作者对不被通知或允许退出这些AI驱动的更改提出了担忧。
+Although YouTube’s head of editorial Rene Ritchie states that creator and viewer feedback will inform the experiment’s future, the platform has not clarified whether users will be able to disable AI edits, raising concerns from critics that undisclosed alterations may undermine trust in user-generated content and fuel doubts about YouTube’s transparency in how it processes and presents videos.
+ 有关YouTube的更多信息 |]]></description>
+      <guid>https://alternativeto.net/news/2025/8/youtube-faces-backlash-for-secret-ai-edits-on-shorts-videos-without-user-consent/</guid>
+      <pubDate>Tue, 26 Aug 2025 02:52:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>META可以许可MidJourney的AI Image Tech，用于下一代生成模型</title>
+      <link>https://alternativeto.net/news/2025/8/meta-to-license-midjourney-s-ai-image-tech-for-next-gen-generative-models/</link>
+      <description><![CDATA[  meta ai 已与AI Generation Company 。
+ META已经启动了自己的AI映像和视频生成工具，但这种合作将使该公司能够利用Midjourney的技术进步。 MidJourney ，并增强了它的特征，并增强了图像的理解，并增强了图像的了解， href =“ https://alternativeto.net/news/2025/6/midjourney-launches-its-first-first-ai-video-generation-model-v1/&gt; v1视频模型，可以使用户为简短的视频动画。
+根据Alexandr Wang  META的首席AI官，该合作伙伴关系是AN&#39;All-Above方法的一部分。这结合了人才，计算资源和与行业领导者的合作，与Meta建立超智能实验室的更广泛的目标保持一致，而Midjourney首席执行官David Holz指出，该实验室将保持独立且社区支持，并设定协议，以补充Meta现有的图像和视频生成工具。
+  href =“ https://alternativeto.net/software/midjourney/about/”&gt;有关Midjourney  |]]></description>
+      <guid>https://alternativeto.net/news/2025/8/meta-to-license-midjourney-s-ai-image-tech-for-next-gen-generative-models/</guid>
+      <pubDate>Tue, 26 Aug 2025 02:27:29 GMT</pubDate>
+    </item>
     <item>
       <title>Apple TV+订阅价格将上涨30％，这是其三年来的第三次增长</title>
       <link>https://alternativeto.net/news/2025/8/apple-tv-subscription-price-set-to-rise-30--marking-its-third-increase-in-three-years/</link>
@@ -113,41 +143,13 @@
       <pubDate>Fri, 22 Aug 2025 15:05:05 GMT</pubDate>
     </item>
     <item>
-      <title>Tails 6.19更新带有关键修复程序的TOR浏览器和TOR客户端</title>
+      <title>Tails 6.19更新带有密钥修复程序的TOR浏览器和TOR客户端</title>
       <link>https://alternativeto.net/news/2025/8/tails-6-19-updates-tor-browser-and-tor-client-with-key-fixes/</link>
       <description><![CDATA[  tails  6.19 6.19将TOR浏览器更新为版本14.5.6，将Tor客户端和0.4.8.17更新为0.4.8.17，确保继续使用Tor网络的隐私权和兼容。 Thunderbird还更新为128.13.0。此外，在删除了TOR连接中配置桥梁时，一条无关的错误消息已被删除。
 自动升级由6.0或更高版本支持。
  有关尾巴的更多信息]]></description>
       <guid>https://alternativeto.net/news/2025/8/tails-6-19-updates-tor-browser-and-tor-client-with-key-fixes/</guid>
       <pubDate>Fri, 22 Aug 2025 14:52:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>询问超人的AI现在结合收件箱，日历和Web数据</title>
-      <link>https://alternativeto.net/news/2025/8/ask-ai-by-superhuman-now-combines-inbox-calendar-and-web-data/</link>
-      <description><![CDATA[  superhuman  suks ask Ai现在现在从收件箱，日历和网络中集成了数据，从而允许用户在单一步骤中启动电子邮件和安排事件等任务。电子邮件的搜索窗口也将从一年扩展到五年，从而更容易检索旧的信件。现在，用户可以在诸如拆分收件箱和自动构架之类的功能上寻求应用程序内帮助。
-询问AI可以在业务和企业计划中提供。
- 有关超人的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/8/ask-ai-by-superhuman-now-combines-inbox-calendar-and-web-data/</guid>
-      <pubDate>Fri, 22 Aug 2025 14:46:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>第一天推出了在iOS设备上的指导日记的及时包装</title>
-      <link>https://alternativeto.net/news/2025/8/day-one-launches-prompt-packs-for-guided-journaling-on-ios-devices/</link>
-      <description><![CDATA[ 第一天已经引入了提示包，这是一项新功能，提供了主题的日记集合，涉及诸如感恩，改进和正念等主题。用户可以浏览提示，节省收藏夹，跟踪其进度，并将包装分配给特定期刊以获得指导写作体验。
-提示包在iPhone和iPad上提供英语（版本2025.17），并提供Android和Web支持。
-  thiONTARIATIVETO; href =“ https://alternativeto.net/software/software/day-one/about/”&gt;有关第一天的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/8/day-one-launches-prompt-packs-for-guided-journaling-on-ios-devices/</guid>
-      <pubDate>Fri, 22 Aug 2025 14:29:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿里巴巴介绍QWEN图像编辑以在几秒钟内执行AI驱动的图像编辑</title>
-      <link>https://alternativeto.net/news/2025/8/alibaba-introduces-qwen-image-edit-to-perform-ai-powered-image-edits-in-seconds/</link>
-      <description><![CDATA[ alibaba引入了 qwen图像编辑，将其 qwen image 上，此新模型将精确的文本渲染技术带来图像编辑，从
-为了促进综合编辑， qwen image编辑通过管理视觉语义的QWEN2.5-VL模型和控制视觉外观的VAE编码器进行输入图像。结果，用户可以执行低级视觉外观编辑（例如，添加，删除或修改图像中的元素而不会影响不变的区域）以及高级语义编辑，例如对象旋转，知识属性创建和样式转移，这些样式传输尽管像像素更改，但保持语义一致性。
-随着这些技术进步， qwen图像编辑还支持图像中双语文本（中文和英语）的直接添加，删除和修改。它保留了原始字体，尺寸和样式，使其与多语言项目有关。基准评估与现有图像编辑解决方案相比， qwen图像编辑提供了最先进的性能。预计 QWEN图像编辑将有助于降低技术障碍并促进视觉内容创建的进一步创新。
-  view on virow in virate nateratativeto href =“ https://alternativeto.net/software/qwen/about/”&gt;更多有关Qwen ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/8/alibaba-introduces-qwen-image-edit-to-perform-ai-powered-image-edits-in-seconds/</guid>
-      <pubDate>Fri, 22 Aug 2025 12:40:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

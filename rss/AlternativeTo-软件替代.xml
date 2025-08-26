@@ -4,7 +4,7 @@
     <title>新版本 - 备用</title>
     <link>https://alternativeto.net/releases/all</link>
     <description>添加到替代的最新软件</description>
-    <lastBuildDate>Tue, 26 Aug 2025 01:27:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Aug 2025 12:43:49 GMT</lastBuildDate>
     <item>
       <title>QWEN图像</title>
       <link>https://alternativeto.net/software/qwen-image/about/</link>
@@ -27,6 +27,13 @@
       <pubDate>Mon, 01 Jan 1 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>QODER IDE</title>
+      <link>https://alternativeto.net/software/qoder-ide/about/</link>
+      <description><![CDATA[ Qoder是一个由AI驱动的代理编码平台，它可以使用自主AI代理自动化复杂的软件开发任务。   qoder IDE替代方案 ]]></description>
+      <guid>https://alternativeto.net/software/qoder-ide/about/</guid>
+      <pubDate>Mon, 01 Jan 1 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>磁盘点</title>
       <link>https://alternativeto.net/software/diskpoint/about/</link>
       <description><![CDATA[跨平台磁盘清洁器具有隐私 - 首先，无跟踪，零云，无广告或订阅，以及快速的Mac，Windows和Linux的本地清洁。      diskpoint替代方案 ]]></description>
@@ -38,13 +45,6 @@
       <link>https://alternativeto.net/software/easylogo/about/</link>
       <description><![CDATA[在几分钟内创建专业的，极简主义的徽标，使您的品牌脱颖而出。非常适合快速需要令人惊叹的视觉效果的初创企业，小型企业和企业家。   easylogo替代方案 ]]></description>
       <guid>https://alternativeto.net/software/easylogo/about/</guid>
-      <pubDate>Mon, 01 Jan 1 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>SEO示踪剂</title>
-      <link>https://alternativeto.net/software/seo-tracer/about/</link>
-      <description><![CDATA[使用SEO Tracer增强您的网站SEO！快速爬网，查找断开的链接，分析元标签并优化。免费，私人和安全。  在externativeto＆raquo;  替代方案 ]]></description>
-      <guid>https://alternativeto.net/software/seo-tracer/about/</guid>
       <pubDate>Mon, 01 Jan 1 00:00:00 GMT</pubDate>
     </item>
     </channel>
