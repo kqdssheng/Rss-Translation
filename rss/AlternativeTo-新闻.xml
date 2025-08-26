@@ -4,7 +4,47 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Mon, 25 Aug 2025 12:40:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Aug 2025 01:27:40 GMT</lastBuildDate>
+    <item>
+      <title>Apple TV+订阅价格将上涨30％，这是其三年来的第三次增长</title>
+      <link>https://alternativeto.net/news/2025/8/apple-tv-subscription-price-set-to-rise-30--marking-its-third-increase-in-three-years/</link>
+      <description><![CDATA[苹果已将其
+年度Apple TV+订阅保持不变，结合了多个Apple服务的Apple One Bundle也保持不变。通过家庭共享，仍然可以与多达六个人共享一份订阅。
+ Apple强调了Apple TV+的原始电影目录的增长，并指出它继续提供一个带有4K HDR和空间音频的无广告层。尽管报告表明稳定增长，但未披露订户数字。其他主要的流媒体服务，例如 disney+近年来还筹集了价格。
+  href =“ https://alternativeto.net/software/apple-tv/about/”&gt;更多有关Apple TV的信息]]></description>
+      <guid>https://alternativeto.net/news/2025/8/apple-tv-subscription-price-set-to-rise-30--marking-its-third-increase-in-three-years/</guid>
+      <pubDate>Mon, 25 Aug 2025 18:18:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cachyos的最新更新带来仪表板，LTS内核默认情况下，Niri Wm等</title>
+      <link>https://alternativeto.net/news/2025/8/cachyos-latest-update-brings-package-dashboard-lts-kernel-by-default-niri-wm-and-more/</link>
+      <description><![CDATA[  cachyos ，一个
+用户将找到 linux-cachyos-lts 内核作为后备，从而增强了系统的可靠性。该更新还将安装ISO转移到了LTS内核，最大程度地减少了与图形相关的引导问题并提高了第一个引导成功率。此外，在线安装程序现在提供 niri wm 作为桌面选项。 Cachyos维护一组精选的配置文件，以确保此轻型窗口管理器的用户具有平稳的初始体验。
+按照这些更改，将使用BTRF选择GRUB引导程序作为系统文件系统现在启用可引导快照的默认情况下，将已与 limine  limine 。 NVIDIA用户从兼容硬件上受益于S0IX睡眠支持，从而提供节能的低功率备用，同时保持在后台接收通知的能力。其他更新包括添加cachy-update，用于更新通知的系统托盘实用程序，质子 - 蛋白质中的新功能以及 在交流中的文章href =“ https://alternativeto.net/software/cachyos/about/”&gt;更多关于cachyos ＆nbsp; | |]]></description>
+      <guid>https://alternativeto.net/news/2025/8/cachyos-latest-update-brings-package-dashboard-lts-kernel-by-default-niri-wm-and-more/</guid>
+      <pubDate>Mon, 25 Aug 2025 14:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dietpi 9.16增加了Debian 13和早期的Debian 14支持，新硬件更新等等</title>
+      <link>https://alternativeto.net/news/2025/8/dietpi-9-16-adds-debian-13-and-early-debian-14-support-new-hardware-updates-and-more/</link>
+      <description><![CDATA[发布 dietpi  9.16为单板计算机提供了杰出的操作系统和硬件进步。 Most notably, the updated release introduces support for Debian 13 “Trixie”, and offers early support for the upcoming测试版本，Debian 14“ Forky”。
+除了更广泛的分发兼容性外，此更新还提供了几种以硬件为中心的增强功能。在Raspberry Pi上，用户将在第一个引导时默认启用了主要的UART适配器，从而解决了上一个问题。对于Rock Pi的设备，新的设备树覆盖层允许在主机和OTG模式之间切换USB-C端口，从而远离仅外围模式的先前默认值。 RISC-V用户现在可以访问 docker compose ， amiberry 通过 dietpi-software 菜单安装选项。
+遵循硬件和平台改进，Dietpi 9.16还通过减少脚本中 APT Update&gt;呼叫的数量来优化更新和安装性能，从而有助于减少总更新时间和磁盘磨损。内部脚本以及 g _*功能，现在可以自动重新注册管理特权，并在运行 shell selld prot 此外，更新或调整会影响捆绑软件，例如 domoticz ， java ， nextCloud Talk ， wireguard 和
+ 更多有关Dietpi ＆nbsp; | |＆nbsp; &lt;a href =“ https：//alternatativeto.net/software/software/software/dietpi/]]></description>
+      <guid>https://alternativeto.net/news/2025/8/dietpi-9-16-adds-debian-13-and-early-debian-14-support-new-hardware-updates-and-more/</guid>
+      <pubDate>Mon, 25 Aug 2025 12:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apache Netbeans 27发行了Gradle 9修复程序，改进的JDK 25兼容性等等</title>
+      <link>https://alternativeto.net/news/2025/8/apache-netbeans-27-released-with-gradle-9-fixes-improved-jdk-25-compatibility-and-more/</link>
+      <description><![CDATA[  apache netbeans  27  27引入了IDE多个领域的广泛更新，增强了相当性，绩效，性能，性能，性能，绩效和发展生产率。 Gradle集成得到了改进，包括支持最新的 gradle 版本，修复了Gradle 9兼容性，以及优化的功能，以避免不需要必要的自发性和参考。  maven 支持还会收到关键更新，例如捆绑Maven 3.9.11，修复测试会话中的回归，在SAVE（SAVE）上贬低（cos）通知（COS）通知和改进的观察型。  ant 构建处理已通过解开某些来源和解决JSF库加载的问题来简化。
+  java 开发是此版本的主要重点，对编辑，提示和debugger进行了许多改进。值得注意的更改包括改进独立文件的重构，增强代码格式和重新标记以及更好地处理紧凑源文件。支持  Javadoc 生成。调试器的可用性随着价值内在的方式提高，而代码分析工具可以提高性能和对未使用和可变的隐藏提示的优化。还支持新的语言功能，例如图案案例标签。
+在网络和企业方面，Netbeans 27增强了其与现代框架和服务器的集成。 PrimeFaces，Omnifaces和JSF工具查看自动完成，标签功能提供商和可用性的改进。 Support extends to GlassFish 7 and 8 as well as Payara 5.x on JDK 21. Web development features include media query level 4 support,增强 json 语义分析，更好的 php 开发已通过Phpunit配置选项进行了更新
+最后，该版本引入了各种可用性和平台增强功能。编辑器获得了用于比较目录结构，SVG预览支持和 markdown  tooling Updates更新的树差异功能。现在，版本控制工具允许分支重命名，而UI和平台改进包括 flatlaf  3.6.1，删除不推荐的标志和jdk 25调整。语言服务器协议（LSP）和 Visual Studio Code 扩展都接收精炼，例如可自定义的提交字符，以及为无效的成果和稳定性问题而定。这些更新使Netbeans共同使27更强大，现代和开发人员友好。
+ 在交流中的文章href =“ https://alternativeto.net/software/netbeans/about/”&gt;有关apache netbeans ＆nbsp; | |＆nbsp; &lt;a href =“]]></description>
+      <guid>https://alternativeto.net/news/2025/8/apache-netbeans-27-released-with-gradle-9-fixes-improved-jdk-25-compatibility-and-more/</guid>
+      <pubDate>Mon, 25 Aug 2025 09:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Immich 1.139带来了新的图像渲染管道，更好的备份资产跟踪等等</title>
       <link>https://alternativeto.net/news/2025/8/immich-1-139-brings-new-image-rendering-pipeline-better-backup-asset-tracking-and-more/</link>
@@ -108,46 +148,6 @@
   view on virow in virate nateratativeto href =“ https://alternativeto.net/software/qwen/about/”&gt;更多有关Qwen ＆nbsp; |＆nbsp; |]]></description>
       <guid>https://alternativeto.net/news/2025/8/alibaba-introduces-qwen-image-edit-to-perform-ai-powered-image-edits-in-seconds/</guid>
       <pubDate>Fri, 22 Aug 2025 12:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Calibre 8.9发行了改进的注释，更好的搜索，插件过滤等等</title>
-      <link>https://alternativeto.net/news/2025/8/calibre-8-9-released-with-improved-annotations-better-search-plugin-filtering-and-more/</link>
-      <description><![CDATA[  caliber  8.9为电子书用户和电力阅读器介绍了几个新的可用性功能。现在，注释浏览器在结果列表中显示颜色色板，从而更容易在评论过程中区分突出显示类型。用户通过拖放合并书籍将看到目标书的封面，有助于确保正确的项目合并。
-在连接的设备上搜索书名时，Calibre现在会自动重试，如果没有匹配，请在括号中或结肠后再删除任何尾随的文本并再次搜索。这种增强功能提高了可能在设备上出现不同的标题成功匹配的可能性。
- htmlz电子书的输出获得了对嵌入式字体的支持，从而使那些需要更高级电子书格式的人受益。遵循这些接口更新后，插件安装现在更简单：窗口提供按类别进行插件过滤，简化第三方扩展发现。
-在获取新闻工具中，用户可以通过新的右键单击子菜单快速找到最近下载的来源，以更快地访问期刊。该版本还包括多个错误修复程序和对各种新闻来源的更新，支持正在进行的性能和源兼容性改进。 
- 更多有关Caliber ＆nbsp; |＆nbsp; &lt;A href =“ https：//alternatativeto.net/software/software/software/calibre/]]></description>
-      <guid>https://alternativeto.net/news/2025/8/calibre-8-9-released-with-improved-annotations-better-search-plugin-filtering-and-more/</guid>
-      <pubDate>Fri, 22 Aug 2025 09:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitLab 18.3在Visual Studio中使用Duo Agent Platform启动，嵌入式视图等</title>
-      <link>https://alternativeto.net/news/2025/8/gitlab-18-3-launches-with-duo-agent-platform-in-visual-studio-embedded-views-and-more/</link>
-      <description><![CDATA[  gitlab 已发布了其DevSecops平台的18.3版，提供了一系列针对开发者生产力和安全性的新功能。在此版本中， Visual Studio 用户在公共Beta中获得访问公共Beta的二人代理平台，启用了直接在集成开发环境中的高级AI-drive。
-与此相同，GitLab将嵌入式视图带来了由Gitlab查询语言（GLQL）提供动力的嵌入式视图到一般可用性。团队现在可以创建和嵌入动态，可查询的显示 gitlab 在其工作区内数据。在实例之间移动数据已被简化，以直接转移组和项目的直接传输迁移，现在可以通过gitlab用户界面和REST API访问。。
-在安全方面，GitLab引入了CI/CD作业令牌的细粒度权限。此功能允许管理员通过精确定义工作令牌可以达到哪些项目资源来最大程度地减少访问。对于自主设置的用户，Gitlab Duo代码评论在 mistral ， Anthropic Claude 和
-这些更新与CI/CD作业能够从  href =“ https://alternativeto.net/software/gitlab/about/”&gt;更多有关Gitlab ＆nbsp; | |]]></description>
-      <guid>https://alternativeto.net/news/2025/8/gitlab-18-3-launches-with-duo-agent-platform-in-visual-studio-embedded-views-and-more/</guid>
-      <pubDate>Fri, 22 Aug 2025 07:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DuckDuckgo将GPT-5添加到Duck.ai，并免费提供私人访问</title>
-      <link>https://alternativeto.net/news/2025/8/duckduckgo-adds-gpt-5-to-duck-ai-with-free-private-access/</link>
-      <description><![CDATA[DuckDuckGo has added OpenAI&#39;s GPT-5 to its Duck AI platform, allowing users to access the advanced AI model免费，无需注册。所有互动都是匿名的，以维持隐私。
-GPT-4O Mini仍然可以作为替代选项。
- 在替代文章上查看文章href =“ https://alternativeto.net/software/duckduckgo/about/”&gt;更多有关duckduckgo  |]]></description>
-      <guid>https://alternativeto.net/news/2025/8/duckduckgo-adds-gpt-5-to-duck-ai-with-free-private-access/</guid>
-      <pubDate>Thu, 21 Aug 2025 16:08:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>未经用户同意培训AI的转录应用程序AI起诉用于录制会议</title>
-      <link>https://alternativeto.net/news/2025/8/transcription-app-otter-ai-sued-for-recording-meetings-without-user-consent-to-train-ai/</link>
-      <description><![CDATA[基于AI的注释和转录平台 otter.ai  指控其非法记录并使用用户的声音未经用户同意来训练其AI系统。该诉讼以Otter的“ Otter Notetaker”功能为中心，该功能记录了在 zoom 和 MIRSTESS  MIRCERTSEN&gt; MICROFT teams 摘要。
-根据投诉， otter的隐私政策和常见问题记录声音的状态用于培训语音识别模型。但是，原告声称Otter记录不仅是帐户持有人，还声称非账户会议参与者，据称他们从未要求同意记录自己的声音或进行机器学习过程。原告认为这些做法违反了《电子通信隐私法》，《计算机欺诈与滥用法》以及加利福尼亚的几项隐私法。
-投诉指出，水獭的年收入达到了1亿美元，这表明该公司从这些做法中获利而未确保适当同意。该诉讼预计Otter.ai可能会争辩说，帐户持有人有责任告知客人其数据实践，但原告拒绝了这一点，坚持公司本身必须寻求直接同意。
-  href =“ https://alternativeto.net/software/otter-ai/about/”&gt;更多有关otter.ai ＆nbsp; | |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/8/transcription-app-otter-ai-sued-for-recording-meetings-without-user-consent-to-train-ai/</guid>
-      <pubDate>Thu, 21 Aug 2025 15:01:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
