@@ -4,152 +4,148 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Tue, 26 Aug 2025 12:44:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 01:24:16 GMT</lastBuildDate>
     <item>
-      <title>Portainer 2.33 LTS带来了现代化的UI，掌舵增强和实验性可观察性</title>
-      <link>https://alternativeto.net/news/2025/8/portainer-2-33-lts-brings-modernized-ui-helm-enhancements-and-experimental-observability/</link>
-      <description><![CDATA[  portainer 已发布了自上一版2.32 STS版本以来的增强功能的2.33 LTS版本。最新的长期支持（LTS）版本以现代化的外观和感觉更新了接口，最初是在2.32中引入的，使导航和管理更加直观，例如 swarm ，and 在此版本中，新的实验可观察性功能现在是LTS流的一部分，允许用户使用不同的渠道为各种环境条件设置通知。对于与
-这些增强功能是通过引入Kubernetes的名称空间操作员角色来补充的，Kubernetes授予了操作员在特定名称空间内而不是在整个群集中授予操作员权限。边缘设备的更新和回滚工作流已经大修，简化了远程车队管理。
-填写版本，Portainer 2.33 LTS将更新添加到共同传输层安全性（MTL），Docker构成代码完成和验证以及Active Directory的Kerberos身份验证。该版本还包括性能改进以及一系列其他增强功能和错误修复。
- 有关Portainer的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/8/portainer-2-33-lts-brings-modernized-ui-helm-enhancements-and-experimental-observability/</guid>
-      <pubDate>Tue, 26 Aug 2025 07:50:00 GMT</pubDate>
+      <title>META发现对FLO App的健康数据使用的隐私违反负责</title>
+      <link>https://alternativeto.net/news/2025/8/meta-found-liable-for-privacy-breach-over-flo-app-s-health-data-use/</link>
+      <description><![CDATA[几周前，加利福尼亚陪审团 flo ofere-track-tracking应用程序，违反了《加利福尼亚侵犯隐私法》。该集体诉讼于2021年提交，代表了数百万用户，并声称未经同意就收集了循环日期和生育目标之类的数据，并用于广告跟踪。 Google解决了案例 href =“ https://therecord.media/flo-app-settlement-class-action-suit-suit-data-sharing-meta”&gt;本月早些时
+原告的律师辩称，该裁决加强了隐私权，并在处理敏感健康信息时要求对科技公司负责。他们强调，数字健康数据值得严格保护秘密商业用途。
+ meta拒绝了该决定，否认该决定收集或想要此类数据，并指出其政策禁止开发人员发送敏感信息。该公司表示，它正在探索对结果进行质疑的法律选择，该结果被视为到目前为止涉及健康跟踪应用程序的最重要的隐私裁决之一。
+  externativeto;     href =“ https://alternativeto.net/software/flo-period-and-yovulation-tracker/about/”&gt;有关flo期间＆Ovulation tracker ＆nbsp; | | ＆排卵跟踪器替代品 ]]></description>
+      <guid>https://alternativeto.net/news/2025/8/meta-found-liable-for-privacy-breach-over-flo-app-s-health-data-use/</guid>
+      <pubDate>Wed, 27 Aug 2025 21:32:18 GMT</pubDate>
     </item>
     <item>
-      <title>YouTube未经用户同意，在短裤视频上的秘密AI编辑反弹</title>
-      <link>https://alternativeto.net/news/2025/8/youtube-faces-backlash-for-secret-ai-edits-on-shorts-videos-without-user-consent/</link>
-      <description><![CDATA[  YouTube 已确认它正在尝试AI来编辑一些短裤视频，而无需先获得创作者的同意。 平台确认 使用机器学习来解开bllur，denoise，denoise，并提高所选视频的清晰度，并将这些增强功能与智能手机视频中的这些增强功能进行比较。但是，创作者已经注意到了细微但有影响力的变化，例如服装的皱纹，皮肤质地的改变以及偶尔的面部特征翘曲。尽管没有直接比较很难检测到一些编辑，但一些创作者报告说，这些更改使他们的视频看上去是人为的或意外的。
-在这些报告上构建 Youtuber Rhett Shull 对比了Instagram和YouTube上的相同的相同视频，并指出了他的脸部短裤的独特“油漆效应”，这在短期版本中效果不同。他和其他创作者对不被通知或允许退出这些AI驱动的更改提出了担忧。
-Although YouTube’s head of editorial Rene Ritchie states that creator and viewer feedback will inform the experiment’s future, the platform has not clarified whether users will be able to disable AI edits, raising concerns from critics that undisclosed alterations may undermine trust in user-generated content and fuel doubts about YouTube’s transparency in how it processes and presents videos.
- 有关YouTube的更多信息 |]]></description>
-      <guid>https://alternativeto.net/news/2025/8/youtube-faces-backlash-for-secret-ai-edits-on-shorts-videos-without-user-consent/</guid>
-      <pubDate>Tue, 26 Aug 2025 02:52:16 GMT</pubDate>
+      <title>Xbox Game通过核心上的用户和标准层将访问Xbox Cloud Gaming</title>
+      <link>https://alternativeto.net/news/2025/8/xbox-game-pass-users-on-the-core-and-standard-tiers-will-gain-access-to-xbox-cloud-gaming/</link>
+      <description><![CDATA[  Xbox Cloud Gaming 现在可以访问这些功能目前仅限于Xbox Insider参与者。 Microsoft还正在试用核心和标准订户的PC游戏访问权限，让他们在Windows PC和手持设备上流式传输PC版本的支持标题，从而扩展了Xbox控制台以外的用法。
+ Microsoft以前曾探索过诸如专用版本或Xbox Cloud Gaming的免费广告支持模型之类的选项，但此更新旨在扩展现有层次，并使订户更具灵活性。
+ 有关Xbox Cloud Gaming的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/8/xbox-game-pass-users-on-the-core-and-standard-tiers-will-gain-access-to-xbox-cloud-gaming/</guid>
+      <pubDate>Wed, 27 Aug 2025 18:42:51 GMT</pubDate>
     </item>
     <item>
-      <title>META可以许可MidJourney的AI Image Tech，用于下一代生成模型</title>
-      <link>https://alternativeto.net/news/2025/8/meta-to-license-midjourney-s-ai-image-tech-for-next-gen-generative-models/</link>
-      <description><![CDATA[  meta ai 已与AI Generation Company 。
- META已经启动了自己的AI映像和视频生成工具，但这种合作将使该公司能够利用Midjourney的技术进步。 MidJourney ，并增强了它的特征，并增强了图像的理解，并增强了图像的了解， href =“ https://alternativeto.net/news/2025/6/midjourney-launches-its-first-first-ai-video-generation-model-v1/&gt; v1视频模型，可以使用户为简短的视频动画。
-根据Alexandr Wang  META的首席AI官，该合作伙伴关系是AN&#39;All-Above方法的一部分。这结合了人才，计算资源和与行业领导者的合作，与Meta建立超智能实验室的更广泛的目标保持一致，而Midjourney首席执行官David Holz指出，该实验室将保持独立且社区支持，并设定协议，以补充Meta现有的图像和视频生成工具。
-  href =“ https://alternativeto.net/software/midjourney/about/”&gt;有关Midjourney  |]]></description>
-      <guid>https://alternativeto.net/news/2025/8/meta-to-license-midjourney-s-ai-image-tech-for-next-gen-generative-models/</guid>
-      <pubDate>Tue, 26 Aug 2025 02:27:29 GMT</pubDate>
+      <title>Windows终端1.24预览添加了新的窗口系统，UI自定义，SSH配置文件</title>
+      <link>https://alternativeto.net/news/2025/8/windows-terminal-1-24-preview-adds-new-windowing-system-ui-customization-ssh-profiles/</link>
+      <description><![CDATA[  Windows terminal  Preview 1.24带来可用性改进和错误修复，而稳定的分支将其稳定的分支移动到1.23版，并具有早期的功能。该更新引入了一个更可靠的窗口系统，具有改进的托盘图标行为，精致的窗口操作和更快的地震模式召唤。
+设置UI现在集成了以前仅限于JSON的选项，包括铃声，单元大小调整，颜色和背景控件，空间填充编辑，兼容性设置和图标选择器。用户还可以通过新的扩展页面自定义新的选项卡下拉列表，管理配置文件和配色方案，以及访问扩展的上下文菜单函数，用于分割，移动，缩放和关闭窗格。
+其他亮点包括拖放路径翻译， ssh_config ，多语言命令调色板支持以及图标，背景和着色器的相对文件路径处理的SSH动态配置文件生成。该版本添加了Dimidium配色方案，禁用Zoom和不透明捷径的选项，更轻松的设置重置和缓存清除，更广泛的片段检测以及诸如MatchProfiles中的Regex之类的次要增强功能，Fuzzy Palette搜索，Hover Previews，感知颜色裸色以及 mingw 路径转换。
+ 有关Windows terminal  |]]></description>
+      <guid>https://alternativeto.net/news/2025/8/windows-terminal-1-24-preview-adds-new-windowing-system-ui-customization-ssh-profiles/</guid>
+      <pubDate>Wed, 27 Aug 2025 16:24:25 GMT</pubDate>
     </item>
     <item>
-      <title>Apple TV+订阅价格将上涨30％，这是其三年来的第三次增长</title>
-      <link>https://alternativeto.net/news/2025/8/apple-tv-subscription-price-set-to-rise-30--marking-its-third-increase-in-three-years/</link>
-      <description><![CDATA[苹果已将其
-年度Apple TV+订阅保持不变，结合了多个Apple服务的Apple One Bundle也保持不变。通过家庭共享，仍然可以与多达六个人共享一份订阅。
- Apple强调了Apple TV+的原始电影目录的增长，并指出它继续提供一个带有4K HDR和空间音频的无广告层。尽管报告表明稳定增长，但未披露订户数字。其他主要的流媒体服务，例如 disney+近年来还筹集了价格。
-  href =“ https://alternativeto.net/software/apple-tv/about/”&gt;更多有关Apple TV的信息]]></description>
-      <guid>https://alternativeto.net/news/2025/8/apple-tv-subscription-price-set-to-rise-30--marking-its-third-increase-in-three-years/</guid>
-      <pubDate>Mon, 25 Aug 2025 18:18:39 GMT</pubDate>
+      <title>Zen Web浏览器最终获取文件夹，简化了侧边栏中的选项卡分组</title>
+      <link>https://alternativeto.net/news/2025/8/zen-web-browser-finally-gets-folders-simplifying-tab-grouping-in-the-sidebar/</link>
+      <description><![CDATA[  Zen ，构建的自定义浏览器构建的
+遵循核心更新后，Zen现在使用[Firefox 142]（
+在Windows系统上，Zen 1.15B带来了更紧凑的模式的本地外观，侧栏和窗口边缘之间的分离更加清晰。解决了影响用户体验的几个问题：紧凑模式在悬停在URL栏时不再抽搐，固定选项卡标题正确显示在搜索结果中，并且已经解决了与固定标签有关的固定标签问题。已解决。
+  href =“ https://alternativeto.net/software/zen-browser/about/”&gt;有关Zen Browser ＆nbsp; | |＆nbsp; &lt;A href =“]]></description>
+      <guid>https://alternativeto.net/news/2025/8/zen-web-browser-finally-gets-folders-simplifying-tab-grouping-in-the-sidebar/</guid>
+      <pubDate>Wed, 27 Aug 2025 15:50:00 GMT</pubDate>
     </item>
     <item>
-      <title>Cachyos的最新更新带来仪表板，LTS内核默认情况下，Niri Wm等</title>
-      <link>https://alternativeto.net/news/2025/8/cachyos-latest-update-brings-package-dashboard-lts-kernel-by-default-niri-wm-and-more/</link>
-      <description><![CDATA[  cachyos ，一个
-用户将找到 linux-cachyos-lts 内核作为后备，从而增强了系统的可靠性。该更新还将安装ISO转移到了LTS内核，最大程度地减少了与图形相关的引导问题并提高了第一个引导成功率。此外，在线安装程序现在提供 niri wm 作为桌面选项。 Cachyos维护一组精选的配置文件，以确保此轻型窗口管理器的用户具有平稳的初始体验。
-按照这些更改，将使用BTRF选择GRUB引导程序作为系统文件系统现在启用可引导快照的默认情况下，将已与 limine  limine 。 NVIDIA用户从兼容硬件上受益于S0IX睡眠支持，从而提供节能的低功率备用，同时保持在后台接收通知的能力。其他更新包括添加cachy-update，用于更新通知的系统托盘实用程序，质子 - 蛋白质中的新功能以及 在交流中的文章href =“ https://alternativeto.net/software/cachyos/about/”&gt;更多关于cachyos ＆nbsp; | |]]></description>
-      <guid>https://alternativeto.net/news/2025/8/cachyos-latest-update-brings-package-dashboard-lts-kernel-by-default-niri-wm-and-more/</guid>
-      <pubDate>Mon, 25 Aug 2025 14:15:00 GMT</pubDate>
+      <title>Google Translate现在可以通过双子座来帮助实时对话和语言实践</title>
+      <link>https://alternativeto.net/news/2025/8/google-translate-can-now-help-with-live-conversations-and-language-practice-thanks-to-gemini/</link>
+      <description><![CDATA[Google has rolled out significant updates to the Google Translate app, anchored by advances in its Gemini人工智能模型。这些更新旨在改善跨语言沟通和语言学习经验。该应用程序现在包括实时实时对话翻译，启用了来源的音频和屏幕上的成绩单，以进行无缝的多语言交互。此现场翻译功能支持70种语言，例如阿拉伯语，法语，印地语，韩语，西班牙语和泰米尔语。它可在美国，印度和墨西哥用户的Android和iOS设备上使用。要使用此功能，用户点击“实时翻译”，选择语言，然后开始讲话以接收可听见的翻译和双语言成绩单。
+ Google还在尝试新的语言练习功能， duolingo 竞争对手，旨在适应每个用户的技能水平和目标。通过在翻译应用程序中攻击“练习”，学习者将获得自定义的听力和口语场景，并根据其熟练程度动态生成的活动。该语言实践Beta最初可用于练习西班牙语或法语的英语说话者，以及西班牙语，法语或葡萄牙语的人，练习英语。这两种新添加都杠杆作用 gemini 的推理和多模式功能，标志着先进AI在公共面向公共面积的Google服务中的进一步集成。
+ 有关Google翻译的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/8/google-translate-can-now-help-with-live-conversations-and-language-practice-thanks-to-gemini/</guid>
+      <pubDate>Wed, 27 Aug 2025 14:15:00 GMT</pubDate>
     </item>
     <item>
-      <title>Dietpi 9.16增加了Debian 13和早期的Debian 14支持，新硬件更新等等</title>
-      <link>https://alternativeto.net/news/2025/8/dietpi-9-16-adds-debian-13-and-early-debian-14-support-new-hardware-updates-and-more/</link>
-      <description><![CDATA[发布 dietpi  9.16为单板计算机提供了杰出的操作系统和硬件进步。 Most notably, the updated release introduces support for Debian 13 “Trixie”, and offers early support for the upcoming测试版本，Debian 14“ Forky”。
-除了更广泛的分发兼容性外，此更新还提供了几种以硬件为中心的增强功能。在Raspberry Pi上，用户将在第一个引导时默认启用了主要的UART适配器，从而解决了上一个问题。对于Rock Pi的设备，新的设备树覆盖层允许在主机和OTG模式之间切换USB-C端口，从而远离仅外围模式的先前默认值。 RISC-V用户现在可以访问 docker compose ， amiberry 通过 dietpi-software 菜单安装选项。
-遵循硬件和平台改进，Dietpi 9.16还通过减少脚本中 APT Update&gt;呼叫的数量来优化更新和安装性能，从而有助于减少总更新时间和磁盘磨损。内部脚本以及 g _*功能，现在可以自动重新注册管理特权，并在运行 shell selld prot 此外，更新或调整会影响捆绑软件，例如 domoticz ， java ， nextCloud Talk ， wireguard 和
- 更多有关Dietpi ＆nbsp; | |＆nbsp; &lt;a href =“ https：//alternatativeto.net/software/software/software/dietpi/]]></description>
-      <guid>https://alternativeto.net/news/2025/8/dietpi-9-16-adds-debian-13-and-early-debian-14-support-new-hardware-updates-and-more/</guid>
-      <pubDate>Mon, 25 Aug 2025 12:40:00 GMT</pubDate>
+      <title>拟人化正在测试镀铬扩展，以使Claude直接在您的浏览器中工作</title>
+      <link>https://alternativeto.net/news/2025/8/anthropic-is-testing-a-chrome-extension-to-make-claude-work-directly-in-your-browser/</link>
+      <description><![CDATA[Anthropic has launched a Claude extension for Chrome, enabling trusted users to instruct Claude to直接在Web浏览器中采取操作。作为有限的研究预览的一部分，该功能最初可供1,000个最大计划用户使用。虽然限制了此早期访问，但用户可以加入 claude for chrome watlist 有机会参加后续阶段。。
+作为飞行员的一部分，拟人化将逐步扩大访问权限，同时着重于加强安全措施并建立对产品的信心。 Chrome Clome的早期版本已协助管理日历，调度会议，起草电子邮件响应，处理费用报告以及测试新网站功能。但是，该公司指出仍然存在一些漏洞，尤其是在迅速注射攻击方面。此类攻击涉及在网站上隐藏的恶意说明或可能欺骗AI助手执行意外动作的文件。
+为了解决这些风险，人类正在实验站点级别的权限，操作确认以及保护用户的其他缓解策略。在最初的研究预览期间，Anthropic建议仅在受信任的站点上使用扩展名并避免涉及财务，法律或医疗信息的网站。
+  href =“ https://alternativeto.net/software/claude/about/”&gt;更多有关Claude ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/8/anthropic-is-testing-a-chrome-extension-to-make-claude-work-directly-in-your-browser/</guid>
+      <pubDate>Wed, 27 Aug 2025 12:40:00 GMT</pubDate>
     </item>
     <item>
-      <title>Apache Netbeans 27发行了Gradle 9修复程序，改进的JDK 25兼容性等等</title>
-      <link>https://alternativeto.net/news/2025/8/apache-netbeans-27-released-with-gradle-9-fixes-improved-jdk-25-compatibility-and-more/</link>
-      <description><![CDATA[  apache netbeans  27  27引入了IDE多个领域的广泛更新，增强了相当性，绩效，性能，性能，性能，绩效和发展生产率。 Gradle集成得到了改进，包括支持最新的 gradle 版本，修复了Gradle 9兼容性，以及优化的功能，以避免不需要必要的自发性和参考。  maven 支持还会收到关键更新，例如捆绑Maven 3.9.11，修复测试会话中的回归，在SAVE（SAVE）上贬低（cos）通知（COS）通知和改进的观察型。  ant 构建处理已通过解开某些来源和解决JSF库加载的问题来简化。
-  java 开发是此版本的主要重点，对编辑，提示和debugger进行了许多改进。值得注意的更改包括改进独立文件的重构，增强代码格式和重新标记以及更好地处理紧凑源文件。支持  Javadoc 生成。调试器的可用性随着价值内在的方式提高，而代码分析工具可以提高性能和对未使用和可变的隐藏提示的优化。还支持新的语言功能，例如图案案例标签。
-在网络和企业方面，Netbeans 27增强了其与现代框架和服务器的集成。 PrimeFaces，Omnifaces和JSF工具查看自动完成，标签功能提供商和可用性的改进。 Support extends to GlassFish 7 and 8 as well as Payara 5.x on JDK 21. Web development features include media query level 4 support,增强 json 语义分析，更好的 php 开发已通过Phpunit配置选项进行了更新
-最后，该版本引入了各种可用性和平台增强功能。编辑器获得了用于比较目录结构，SVG预览支持和 markdown  tooling Updates更新的树差异功能。现在，版本控制工具允许分支重命名，而UI和平台改进包括 flatlaf  3.6.1，删除不推荐的标志和jdk 25调整。语言服务器协议（LSP）和 Visual Studio Code 扩展都接收精炼，例如可自定义的提交字符，以及为无效的成果和稳定性问题而定。这些更新使Netbeans共同使27更强大，现代和开发人员友好。
- 在交流中的文章href =“ https://alternativeto.net/software/netbeans/about/”&gt;有关apache netbeans ＆nbsp; | |＆nbsp; &lt;a href =“]]></description>
-      <guid>https://alternativeto.net/news/2025/8/apache-netbeans-27-released-with-gradle-9-fixes-improved-jdk-25-compatibility-and-more/</guid>
-      <pubDate>Mon, 25 Aug 2025 09:30:00 GMT</pubDate>
+      <title>QEMU 10.1发行了具有新的CPU功能和改进的KVM下的ARM嵌套虚拟化</title>
+      <link>https://alternativeto.net/news/2025/8/qemu-10-1-released-with-new-cpu-features-and-improved-arm-nested-virtualization-under-kvm/</link>
+      <description><![CDATA[  qemu  10.1现在可用，代表了一个新的里程碑，其中有226位作者贡献了2,700多个提议。在保持其作为开源机器模拟器的核心时，此版本引入了机密计算，迁移和平台覆盖的关键进展。
+ vfio现在在使用 Guest_memfd 时添加了访问和映射机密访客内存的初始支持。此步骤可实现对在安全加密的虚拟化安全嵌套分页（SEV-SNP）和英特尔信任域扩展（TDX）下运行的虚拟机的传递支持。实时迁移工作流程得益于MultifD支持，还可以从更快的副本迁移中受益，以及对拷贝前迁移的优化。现在有使用IPv6的环境的远程直接内存访问（RDMA）迁移支持。
+扩展监视功能，Windows Virtual Machines的QEMU宾客代理引入了通过新的 Guest-Get-load 命令查询系统加载的能力。在硬件支持上，ARM目标现在包括新的CPU功能，例如Feate_sme2和feat_sve2p1。该平台还添加了几个新的董事会和机器模型，并通过嵌套虚拟化，KVM，CXL和基于ACPI的PCI热销支持增强了 virt 板。
+随着架构的改进，RISC-V获得了新的指令集架构（ISA）支持和Kunminghu CPU和平台，而X86 KVM通过TDX和IGVM文件格式提供了机密的来宾支持。。
+  href =“ https://alternativeto.net/software/qemu/about/”&gt;有关Qemu ＆nbsp; |＆nbsp; &lt;A href =“ https：//alternatativeto.net/software/software/qemu/”]]></description>
+      <guid>https://alternativeto.net/news/2025/8/qemu-10-1-released-with-new-cpu-features-and-improved-arm-nested-virtualization-under-kvm/</guid>
+      <pubDate>Wed, 27 Aug 2025 11:05:00 GMT</pubDate>
     </item>
     <item>
-      <title>Immich 1.139带来了新的图像渲染管道，更好的备份资产跟踪等等</title>
-      <link>https://alternativeto.net/news/2025/8/immich-1-139-brings-new-image-rendering-pipeline-better-backup-asset-tracking-and-more/</link>
-      <description><![CDATA[  immich 已发布了1.139版，为其自我固定的照片和视频管理平台介绍了多个增强功能和错误修复。该更新是显着改善移动体验的知名度。现在，移动应用程序采用自定义图像加载和渲染管道，该管道利用多线程，从而大大改善了本地图像的显示，尤其是在Android设备上。
-随着这些性能改进，Immich 1.139引入了一种追踪备份资产的新方法。用户现在可以查看备份队列中保留哪些资产，从而更容易识别和故障排除无法上传的文件。
-除了这些更新外，该版本还使处理重复资产更有效。现在，用户可以在重复资产列表中的条目之间来回导航。对于在网络上使用Immich的人，专辑管理工作流已经升级：现在可以通过专辑选择模式一次将资产添加到多个专辑中。
-  href =“ https://alternativeto.net/software/immich/about/”&gt;更多有关Immich ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/8/immich-1-139-brings-new-image-rendering-pipeline-better-backup-asset-tracking-and-more/</guid>
-      <pubDate>Mon, 25 Aug 2025 07:50:00 GMT</pubDate>
+      <title>Google揭露了Gemini 2.5闪光图像，具有高级生成和编辑功能</title>
+      <link>https://alternativeto.net/news/2025/8/google-unveils-gemini-2-5-flash-image-with-advanced-generation-and-editing-capabilities/</link>
+      <description><![CDATA[ Google已宣布 gemini 2.5 Flash Image   -  Code-Named “ Nano-Banana”   - 其最新的图像和编辑模型。此版本介绍了使用户融合多个源图像的功能，确保讲故事或品牌的角色一致性，使用自然语言进行有针对性的编辑，并利用世界知识来创造性图像任务。
+这些功能意味着用户可以在各种环境中保持相同的角色，生成统一的品牌资产，并以不同的角度展示产品，同时保留关键功能。图像混合还可以通过一个提示来合并单独的图像，例如将新对象合并到场景中或重新设计房间。 
+按照新功能集，Gemini 2.5 Flash Image启用详细的转换。用户可以通过描述所需的更改来模糊背景，删除个人或对象，Alter Poses或为图像着色。这些编辑是本地化的，不需要像素级选择。
+当该模型当前正在预览中时，开发人员已经可以通过 gemini api 和 google ai studio ，，通过通过 vertex ai 。为了支持透明度，所有使用Gemini 2.5 Flash图像制作的图像都将包括一个无形的合成数字水印，以识别AI生成或编辑的内容。
+    href =“ https://alternativeto.net/software/google-bard/about/”&gt;有关Google Gemini   | |]]></description>
+      <guid>https://alternativeto.net/news/2025/8/google-unveils-gemini-2-5-flash-image-with-advanced-generation-and-editing-capabilities/</guid>
+      <pubDate>Wed, 27 Aug 2025 09:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>Windows 11最新版本实施新的暗模式改进以提高一致性</title>
-      <link>https://alternativeto.net/news/2025/8/windows-11-latest-builds-implement-new-dark-mode-improvements-to-improve-consistency/</link>
-      <description><![CDATA[最近的预览构建 Windows 11  Microsoft揭示了Microsoft正在努力将其暗模式改进到系统的更多区域，并以自第一次出现的不一致而出现&lt; href =“ https://feed.alternativeto.net/software/windows-10/about/”&gt; Windows 10 。最明显的更改是在文件操作对话框中复制，移动和删除文件现在以深色背景而不是通常的光主题显示，为Dark Mode用户创建更统一的体验。
-不过，更新仍然不完整，因为对话框保持破坏主题的浅色动作按钮。微软尚未正式宣布这些改进，表明它们正在预览版本中进行悄悄测试。
-这些更改预计将在今年晚些时候Windows 11 25H2更新中到达，尽管诸如控制面板，运行提示和文件属性之类的遗产组件和文件属性保持在光模式，而没有更新的迹象，这表明Microsoft长期以来的努力来提供一致的视觉设计可能会继续以目前为特征。 。
- 有关Windows 11 ＆nbsp; |＆nbsp; &lt;A href =“ https://alternatativeto.net/software/software/software/windows-11/]]></description>
-      <guid>https://alternativeto.net/news/2025/8/windows-11-latest-builds-implement-new-dark-mode-improvements-to-improve-consistency/</guid>
-      <pubDate>Sat, 23 Aug 2025 23:39:43 GMT</pubDate>
+      <title>NUMERE 1.1.7带来新的数组，电子邮件和编码功能</title>
+      <link>https://alternativeto.net/news/2025/8/numere-1-1-7-brings-new-array-email-and-encoding-functions/</link>
+      <description><![CDATA[  numere 版本1.1.7介绍了新的计算功能，包括用于组合阵列，getUserinfo（），getUserinfo（）用于检索smtppp emails和smtp emails和base-necoding and Base-necoding and smtppp smtppppe and getUserInfo（）。该更新还带来了迄今为止的改进和字符串处理，UI主题，解析器性能和HTML导出功能。
+ 有关Numere ＆nbsp; |＆nbsp; &lt;a href =“ https：//alternativeto.net/software/numere/nbesoftware/numere/”]]></description>
+      <guid>https://alternativeto.net/news/2025/8/numere-1-1-7-brings-new-array-email-and-encoding-functions/</guid>
+      <pubDate>Wed, 27 Aug 2025 09:23:47 GMT</pubDate>
     </item>
     <item>
-      <title>FFMPEG 8.0使用AV1 Vulkan编码和增强的安全默认设置启动</title>
-      <link>https://alternativeto.net/news/2025/8/ffmpeg-8-0-launches-with-av1-vulkan-encoding-and-enhanced-security-defaults/</link>
-      <description><![CDATA[  ffmpeg  8.0，codenamed; arrives over 10 months after 7.1 with TLS peer certificate verification enabled by default and expanded hardware acceleration for AV1, VP9,使用 vulkan 。它还通过libjxl添加了动画的JPEG XL编码，通过多站音频/视频/视频和现代编解码器支持改进FLV V2，并为
-该更新引入了VVC VA-API，PRORES RAW，REALVIDEO 6.0，G.728和几个ADPCM变体的新解码器，以及编码升级，例如Libx265 Alpha Channel支持，例如Cenc Av1，MP4 Muxer中的Cenc AV1，MP4 Muxer中的APV和全部APV支持，以及跨解码的跨解码，demux和demux和demux和demux和demux和isObfff。 OpenHarmony用户还获得了本地硬件解码器和编码器支持。
-除了多媒体功能之外，FFMPEG已使用升级的邮件列表服务器和新的官方网站。 
- 更多关于ffmpeg ]]></description>
-      <guid>https://alternativeto.net/news/2025/8/ffmpeg-8-0-launches-with-av1-vulkan-encoding-and-enhanced-security-defaults/</guid>
-      <pubDate>Sat, 23 Aug 2025 23:24:09 GMT</pubDate>
+      <title>叉车4.4释放，以提高性能，更好的视觉效果和增强的稳定性</title>
+      <link>https://alternativeto.net/news/2025/8/forklift-4-4-released-with-performance-improvements-better-visuals-and-enhanced-stability/</link>
+      <description><![CDATA[ binarynights已发布 forklift  4.4，其双窗格文件管理器的最新版本和MacOS的文件传输客户端。此更新解决了关键的性能和稳定性问题，包括在更新侧边栏中最新文件夹时提高效率，现在避免了以前可能在更新过程中发生的悬挂。此外，Macos Tahoe 26上的列视图中的崩溃已解决，为用户在最新版本的Apple操作系统上提供了更稳定的体验。
+扩展文件管理功能，forklift 4.4添加了查看 iCloud   column View 中的状态图标的能力。现在，在本地存储和云中存储的文件的状态指标现在始终显示在所有三个视图中，帮助用户始终知道文件的存储位置。此外，此版本引入了一个重新设计的设置窗口，该窗口与Macos Tahoe 26的样式保持一致。在 Icon View 中，弹簧加载文件夹的可视化已得到改进，并且仅在Macos Tahoe 26上运行时显示菜单图标。。。。
+该更新还包括其他几个次要增强功能和错误修复，进一步完善了叉车中的整体用户体验。
+ 更多关于forklift ＆nbsp; | |]]></description>
+      <guid>https://alternativeto.net/news/2025/8/forklift-4-4-released-with-performance-improvements-better-visuals-and-enhanced-stability/</guid>
+      <pubDate>Wed, 27 Aug 2025 07:50:00 GMT</pubDate>
     </item>
     <item>
-      <title>流行的Chrome VPN扩展FreevPn.一个被指控秘密收集用户的屏幕截图</title>
-      <link>https://alternativeto.net/news/2025/8/popular-chrome-vpn-extension-freevpn-one-accused-of-secretly-collecting-users-screenshots/</link>
-      <description><![CDATA[  freevpn.one ，一个流行的最近已暴露于秘密间谍用户。  koi Security ，扩展的每个网站用户的屏幕截图，然后向这些图像传播的每个网站用户发送了，
-根据研究人员的说法，扩展的隐私政策最初只有在用户启用 ai ai威胁检测功能 。但是，未经用户同意进行数据收集，并且默认情况下，所有用户都启用了该功能。在每个页面加载中，隐藏的背景过程都会在网站的URL，浏览器选项卡ID和唯一标识符的旁边收集屏幕截图。即使在值得信赖的平台上也发生了这一点，这与开发商的说法相矛盾，声称只有可疑地点受到监视。他们还断言，屏幕截图没有存储，只有简短的分析，但是一旦数据丢失了用户的设备，就无法确认。
- freeVpn.One还在 Chrome Web Store 上携带了Google的特色徽章，该网站既符合典型的vpn of temerss of temersss of of temerss，in Chrome web Store 都可以通过典型的vpn vpn进行了信号。尽管有望在将来的更新中解决此问题，但所有用户在此期间仍然很容易受到伤害，并且验证开发人员的身份仅导致 wix-host-hosted模板页面，没有进一步的对证明请求的响应。&gt; 。
-  href =“ https://alternativeto.net/software/free-vpn/about/”&gt;更多有关免费的VPN ＆nbsp; | |＆nbsp;  &lt;/]]></description>
-      <guid>https://alternativeto.net/news/2025/8/popular-chrome-vpn-extension-freevpn-one-accused-of-secretly-collecting-users-screenshots/</guid>
-      <pubDate>Fri, 22 Aug 2025 18:41:19 GMT</pubDate>
+      <title>DocumentDB在开源MIT许可下成为Linux基金会项目</title>
+      <link>https://alternativeto.net/news/2025/8/documentdb-becomes-linux-foundation-project-under-open-source-mit-license/</link>
+      <description><![CDATA[  documentdb 已加入Linux基金会作为MIT下的开源项目。该数据库由Microsoft在今年早些时候启动，已迅速建立了一个用户群，其中超过2,000  github 星星和数百个社区贡献。
+DocumentDB旨在为NOSQL数据库建立一个供应商中立的开发人员 - 首选标准，同时保持其对开放性的承诺， 查看文章href =“ https://alternativeto.net/software/documentdb-1/about/”&gt;有关documentdb  |]]></description>
+      <guid>https://alternativeto.net/news/2025/8/documentdb-becomes-linux-foundation-project-under-open-source-mit-license/</guid>
+      <pubDate>Wed, 27 Aug 2025 07:35:36 GMT</pubDate>
     </item>
     <item>
-      <title>NotebookLM引入了音频自定义和移动上的更快加载</title>
-      <link>https://alternativeto.net/news/2025/8/notebooklm-introduces-audio-customization-and-faster-loading-on-mobile/</link>
-      <description><![CDATA[  NoteBookLm 的最新移动更新使用户可以通过选择优选的语言，在英语中调整长度，并增加指导提示。该平台还报告了音频概述缓冲时间的减少95％。
- 有关Notebooklm  |]]></description>
-      <guid>https://alternativeto.net/news/2025/8/notebooklm-introduces-audio-customization-and-faster-loading-on-mobile/</guid>
-      <pubDate>Fri, 22 Aug 2025 16:13:14 GMT</pubDate>
+      <title>Parallels Desktop 26添加了MacOS Tahoe支持，并使用新的IT工具和磁盘空间控制</title>
+      <link>https://alternativeto.net/news/2025/8/parallels-desktop-26-adds-macos-tahoe-support-with-new-it-tools-and-disk-space-controls/</link>
+      <description><![CDATA[  PARALLELS桌面26 带来与macOS Tahoe 26 and Windows 11 25H2, ensuring virtualization workflows remain stable as Apple introduces new background process restrictions.设置例程和功能在新的系统规则下继续正常工作。
+该更新引入了与Macos Tahoe设计一致的刷新接口，包括新的码头元素和图标。现在，一种简化的版本控制方案将发布数字与受支持的年份和MacOS版本匹配，从而使用户更容易跟踪更新。 Windows Virtual Machines还获得了MAC磁盘空间的可见性，有助于防止存储问题引起的放缓和崩溃。
+对于IT和业务用户，Parallels Desktop 26维护SOC 2 II型合规性并添加了企业功能。其中包括用于单个应用部署的文档，扩展的JAMF集成以监视和管理Windows更新，以及一个新的企业管理门户，用于在共享文件夹，USB访问，剪贴板使用和网络模式上执行策略。未来的更新将通过用于VM和OS配置的集中管理的颗粒状策略控制扩展门户。
+  href =“ https://alternativeto.net/software/parallels-desktop/about/”&gt;有关更多关于Parallels Desktop ＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/8/parallels-desktop-26-adds-macos-tahoe-support-with-new-it-tools-and-disk-space-controls/</guid>
+      <pubDate>Tue, 26 Aug 2025 21:25:40 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek v3.1发行了混合推理，更快的思维和升级的代理技能</title>
-      <link>https://alternativeto.net/news/2025/8/deepseek-v3-1-released-with-hybrid-inference-faster-thinking-and-upgraded-agent-skills/</link>
-      <description><![CDATA[  deepSeek  v3.1已作为此中文大语言模型的最新版本发布。此更新引入了混合推断，让用户使用新的 think 和 non-think Ink 模式使用新的 deepthink 按钮进行无缝模式选择。。
-在此基础上，与DeepSeek-R1-0528相比，DeepSeek-V3.1-思想现在在更少的时间内提供答案。依赖快速输出的用户会在推理期间注意到响应时间更快。
-除了绩效改进之外，培训后更新可增强该模型与代理相关的技能。工具使用更可靠，并且增强了多步代理任务执行。这些更改旨在支持涉及工具调用和顺序过程的更复杂的工作流程。
-开发人员和集成商也受益于更广泛的升级。该版本包括更新的API，扩展的工具集以及与代理相关组件的改进。其他模型更新进一步扩展了DeepSeek-V3.1在多个用法方案中的功能。
- 更多有关deepSeek ＆nbsp; | |]]></description>
-      <guid>https://alternativeto.net/news/2025/8/deepseek-v3-1-released-with-hybrid-inference-faster-thinking-and-upgraded-agent-skills/</guid>
-      <pubDate>Fri, 22 Aug 2025 15:50:00 GMT</pubDate>
+      <title>Spotify添加了直接消息传递，以使用户在平台内共享音乐和播客</title>
+      <link>https://alternativeto.net/news/2025/8/spotify-adds-direct-messaging-to-let-users-share-music-and-podcasts-within-the-platform/</link>
+      <description><![CDATA[  spotify 正在推出一个新的（且不准确的直接消息传递），使用户可以共享歌曲，podcasts和audiobooks在应用程序中。它在本周在某些市场上可用，可在移动设备上为16岁及以上的免费用户提供。。
+可以通过在现在的播放视图中点击共享图标来发送消息，但只能访问同一Spotify计划或以前通过果酱，混合或协作播放列表中连接的人。共享内容和对话存储在配置文件图片下的专用收件箱中。艺术家帐户是否能够使用消息传递来吸引粉丝，尽管该功能可能会相似于该功能支持与文本和表情符号反应的一对一聊天，受行业标准加密的保护，并为用户提供控制以接受或拒绝请求，阻止其他请求或完全禁用消息传递。内容可以进行审查，该公司表示将监控有害或非法活动。
+ 有关Spotify ＆nbsp; |＆nbsp; &lt;A href =“ https：//alternativeto.net/software/software/spotify/”]]></description>
+      <guid>https://alternativeto.net/news/2025/8/spotify-adds-direct-messaging-to-let-users-share-music-and-podcasts-within-the-platform/</guid>
+      <pubDate>Tue, 26 Aug 2025 21:07:49 GMT</pubDate>
     </item>
     <item>
-      <title>概念引入了自然语言数据库自动化的AI公式</title>
-      <link>https://alternativeto.net/news/2025/8/notion-introduces-ai-formulas-for-natural-language-database-automation/</link>
-      <description><![CDATA[  intion 已经启动了AI-Power公式，使用户可以通过简单语言键入指令来创建数据库公式。该功能可与数据库和自动化之间的数学，文本，条件和复杂逻辑一起使用，并且可在业务和企业计划中使用。
- 查看文章href =“ https://alternativeto.net/software/notion/about/”&gt;更多有关intion ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/8/notion-introduces-ai-formulas-for-natural-language-database-automation/</guid>
-      <pubDate>Fri, 22 Aug 2025 15:05:05 GMT</pubDate>
+      <title>支持WhatsApp卫星的像素设备从8月28日起</title>
+      <link>https://alternativeto.net/news/2025/8/pixel-devices-to-support-whatsapp-satellite-calls-from-august-28/</link>
+      <description><![CDATA[ Google Pixel 10设备将是第一个支持 whatsapp 通过卫星网络进行语音和视频通话，在8月28日启动。此更新使用户可以保持连接到传统的移动覆盖范围，甚至可以保持连接状态。
+ 在交流中查看文章href =“ https://alternativeto.net/software/software/whatsapp/about/”&gt;更多有关WhatsApp ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/8/pixel-devices-to-support-whatsapp-satellite-calls-from-august-28/</guid>
+      <pubDate>Tue, 26 Aug 2025 16:45:50 GMT</pubDate>
     </item>
     <item>
-      <title>Tails 6.19更新带有密钥修复程序的TOR浏览器和TOR客户端</title>
-      <link>https://alternativeto.net/news/2025/8/tails-6-19-updates-tor-browser-and-tor-client-with-key-fixes/</link>
-      <description><![CDATA[  tails  6.19 6.19将TOR浏览器更新为版本14.5.6，将Tor客户端和0.4.8.17更新为0.4.8.17，确保继续使用Tor网络的隐私权和兼容。 Thunderbird还更新为128.13.0。此外，在删除了TOR连接中配置桥梁时，一条无关的错误消息已被删除。
-自动升级由6.0或更高版本支持。
- 有关尾巴的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/8/tails-6-19-updates-tor-browser-and-tor-client-with-key-fixes/</guid>
-      <pubDate>Fri, 22 Aug 2025 14:52:49 GMT</pubDate>
+      <title>Inoreader更新带有拖放编辑器和AI摘要的电子邮件摘要</title>
+      <link>https://alternativeto.net/news/2025/8/inoreader-updates-email-digests-with-drag-and-drop-editor-and-ai-summaries/</link>
+      <description><![CDATA[  inoreader 已推出了一个重新设计的电子邮件Digest Builder，其中包含拖放编辑器和增强的调度控件。该更新还增加了对AI生成的摘要，预览提醒以及缺少收件人警报以简化内容交付的支持。同样，现有的摘要已自动升级到新格式。
+可在团队和自定义计划中提供电子邮件摘要。
+View article on AlternativeTo »更多有关inoreader ＆nbsp; | |]]></description>
+      <guid>https://alternativeto.net/news/2025/8/inoreader-updates-email-digests-with-drag-and-drop-editor-and-ai-summaries/</guid>
+      <pubDate>Tue, 26 Aug 2025 16:37:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
