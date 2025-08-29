@@ -4,7 +4,100 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Thu, 28 Aug 2025 12:39:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Aug 2025 12:39:03 GMT</lastBuildDate>
+    <item>
+      <title>REPEIT添加主题系统和无花果设计导入其AI应用程序构建器</title>
+      <link>https://alternativeto.net/news/2025/8/replit-adds-theme-systems-and-figma-design-imports-to-its-ai-app-builder/</link>
+      <description><![CDATA[  repligit   添加了新的设计功能，使其更容易自定义AI或&#39;Vibe-oded&#39;应用程序的外观。现在，用户可以创建整个应用程序中管理颜色，字体和接口属性的主题，并立即将更改应用于所有组件。这些主题可以在未来的项目中保存和重复使用，从而减少重复的样式工作。
+更新包括开源项目的改编版本 tweakcn 用于自定义
+企业客户从 figma 或使用现有的设计代币和库，可确保应用程序的应用程序准确遵守品牌指南。这些功能可用于新构建的应用程序，并支持以后较旧的应用程序。任何设计更新均立即在连接的应用程序中应用，保持内部工具和面向客户的产品一致。
+  href =“ https://alternativeto.net/software/repl-it/about/”&gt;有关REPLIT ＆nbsp; |＆nbsp; &lt;A href =“ https：//alternativeto.net/software/software/repl-it/”]]></description>
+      <guid>https://alternativeto.net/news/2025/8/replit-adds-theme-systems-and-figma-design-imports-to-its-ai-app-builder/</guid>
+      <pubDate>Fri, 29 Aug 2025 05:23:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Openai使用GPT-RealTime更新实时API，它是最先进的语音AI模型</title>
+      <link>https://alternativeto.net/news/2025/8/openai-updates-the-realtime-api-with-gpt-realtime-its-most-advanced-voice-ai-model-yet/</link>
+      <description><![CDATA[  Openie&#39;s 现在通常可以在2024年10月首次启动后获得Realtime API，从而带来了公司的最佳声音AI迄今为止： href =“ https://openai.com/index/introducing-gpt-realtime/”&gt; gpt-realtime  。这种语音到语音系统的处理并直接生成音频，而无需转换为文本，提供更快，更自然的相互作用。它可以解释非语言提示，支持函数呼叫，中间句子中的语言，调整音调或口音，并通过情感变形产生语音。基准的结果突出了它的进度，大型台式音频为82.8％，多琴阵（30.5％），复杂的funcbench为66.5％。
+开发人员还获得了增强的集成选项，包括对会话启动协议（SIP）的支持，以启用电话和远程模型上下文协议（MCP）服务器，以连接外部工具和服务。其他功能包括可重复使用的提示，令牌限制和会话调整控制以管理成本。图像输入支持可以处理屏幕截图或照片，以进行文本阅读或基于内容的查询，并具有由开发人员配置的权限。
+ OpenAI还添加了两个新的合成声音Cedar和Marin，以及对现有声音的更新。定价已降低20％，音频输入令牌为每百万美元32美元，并以每百万美元0.40美元的价格缓存。对于欧盟用户和对隐私敏感的业务，可以根据更严格的合规性规则将数据存储在欧盟中。现在可以通过 Playground 和正式API Document.API Document.API    更多关于chatgpt ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/8/openai-updates-the-realtime-api-with-gpt-realtime-its-most-advanced-voice-ai-model-yet/</guid>
+      <pubDate>Fri, 29 Aug 2025 04:53:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Word默认情况下将很快开始自动将您的文档自动保存到云</title>
+      <link>https://alternativeto.net/news/2025/8/microsoft-word-will-soon-start-auto-saving-your-documents-to-the-cloud-by-default/</link>
+      <description><![CDATA[ Microsoft正在为 Microsoft oneDrive oneDrive oneDrive 或其他Chops Cloud Cloud Provider。该公司表示，此更改应该最大程度地减少数据丢失的风险，并让用户在多个设备上同步其文档，因此它们不仅在Windows上，而且在Android，iOS，Web浏览器上也可用，并且基本上支持该单词应用程序。&gt; 。
+ Word将根据当前日期生成新的文件名，而不是附加数字，并且该应用程序还将在关闭未命名或手动保存的文档之前提示用户。用户可以选择其他云存储位置或切换回本地保存，但是由于默认情况下启用了该功能，因此选择要使用文件选项保存，取消选中“默认情况下存储在云中的autosave文件”，然后检查&#39;
+ cloud-saving默认值将在 Windows 11 版本2509及更高版本中提供。微软还表示，计划针对 Microsoft excel 和提出了一个问题，即Microsoft是否会清楚地解释如何禁用这些更改，或者仅当用户不再显示其期望的情况时才注意到他们的文件。对于其他所有寻求完全离线和免费替代方案的人，您可以随时给出 libreoffice-&gt; libreoffice -writer-
+ 更多有关Microsoft Word ＆nbsp; | |＆nbsp; &lt;A href =“]]></description>
+      <guid>https://alternativeto.net/news/2025/8/microsoft-word-will-soon-start-auto-saving-your-documents-to-the-cloud-by-default/</guid>
+      <pubDate>Thu, 28 Aug 2025 20:51:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp启动了新的AI写作帮助工具，用于撰写不同样式的消息</title>
+      <link>https://alternativeto.net/news/2025/8/whatsapp-launches-new-ai-writing-help-tool-for-composing-messages-in-different-styles/</link>
+      <description><![CDATA[  whatsapp 正在启动 &lt;强&gt; AI驱动的工具可帮助用户直接在聊天中撰写消息。类似于我们在其他几个AI助手中已经看到的东西，例如 apple imindlence ，新功能使用户能够在专业的各种Profortation 中
+该功能是基于Meta的私人处理技术构建的，该技术对请求进行加密和匿名化，以便WhatsApp和Meta都无法读取或链接到用户身份。  wabetainfo注释该消息处理的方式不存储在Meta的服务器上，并留下数字跟踪。
+要访问它，用户起草一条消息并点击新的铅笔图标。写作帮助是可选的，默认情况下是偏离的，与 message-messages Summaries 。推广以英语开始，适用于美国的用户和选定国家，并扩展到稍后计划的更多语言和地区。
+  href =“ https://alternativeto.net/software/software/whatsapp/about/”&gt;更多有关WhatsApp ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/8/whatsapp-launches-new-ai-writing-help-tool-for-composing-messages-in-different-styles/</guid>
+      <pubDate>Thu, 28 Aug 2025 19:16:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>TABTAB 2.0启动具有更快性能的启动，并在Mac上进行完整的选项卡搜索</title>
+      <link>https://alternativeto.net/news/2025/8/tabtab-2-0-launches-with-faster-performance-and-full-tab-search-on-mac/</link>
+      <description><![CDATA[  TABTAB  2.0现在可用于Mac用户，提供更快的性能和提高的可靠性。该更新还介绍了搜索所有打开浏览器选项卡的功能，使选项卡和窗口切换更有效。
+ 查看文章href =“ https://alternativeto.net/software/tabtab/about/”&gt;更多有关tabtab ＆nbsp; | |]]></description>
+      <guid>https://alternativeto.net/news/2025/8/tabtab-2-0-launches-with-faster-performance-and-full-tab-search-on-mac/</guid>
+      <pubDate>Thu, 28 Aug 2025 15:28:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Instapaper现在可在所有rakuten kobo readers上使用</title>
+      <link>https://alternativeto.net/news/2025/8/instapaper-now-available-on-all-rakuten-kobo-ereaders/</link>
+      <description><![CDATA[  Instapaper 已与所有
+ 有关Instapaper的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/8/instapaper-now-available-on-all-rakuten-kobo-ereaders/</guid>
+      <pubDate>Thu, 28 Aug 2025 15:04:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>新样条HANA更新：大型项目的矢量口罩和增强负载</title>
+      <link>https://alternativeto.net/news/2025/8/new-spline-hana-update-vector-masks-and-enhanced-loading-for-large-projects/</link>
+      <description><![CDATA[  spline hana 现在支持矢量面具，允许任何形状用作动画和交互式的互动式掩码。该更新还提高了具有许多图像或视频的大型项目的加载速度。这两个功能现在都可用。
+ 查看文章href =“ https://alternativeto.net/software/hana-by-spline/about/”&gt;有关Spline ＆nbsp; | | | &lt;a href =“]]></description>
+      <guid>https://alternativeto.net/news/2025/8/new-spline-hana-update-vector-masks-and-enhanced-loading-for-large-projects/</guid>
+      <pubDate>Thu, 28 Aug 2025 14:59:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>TOT 2更新：具有新功能和自定义的改进的注释组织</title>
+      <link>https://alternativeto.net/news/2025/8/tot-2-update-improved-note-organization-with-new-features-and-customization/</link>
+      <description><![CDATA[  tot 现在可以使用tot 版本2，在改进的注释组织中介绍多种样式和权重的文本划分。用户可以用自定义的智能子弹和表情符号个性化待办事项列表，并从键盘快捷键的自动凹痕中受益。
+该更新可在iOS，macOS和WatchOS上下载，并提供免费和优质功能选项。
+ 更多有关tot ＆nbsp; | |＆nbsp; &lt;a href =“ https：//alternativeto.net/softof ynet/software/tot/tot/]]></description>
+      <guid>https://alternativeto.net/news/2025/8/tot-2-update-improved-note-organization-with-new-features-and-customization/</guid>
+      <pubDate>Thu, 28 Aug 2025 14:55:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Book AMRK Manager Linkwarden 2.12发行了拖放支持和单file导入</title>
+      <link>https://alternativeto.net/news/2025/8/book-amrk-manager-linkwarden-2-12-released-with-drag-and-drop-support-and-singlefile-import/</link>
+      <description><![CDATA[  linkwardenen  2.12已发布为此开放式书签管理器的最新版本。该更新引入了两个主要的面向用户的功能。首先，用户现在可以将链接直接拖放到集合和标签上，从而更容易组织广泛的书签库。此功能介绍了最常见的工作流程之一，并有助于使成长的书签清单整洁。
+除了改进的组织之外，用户现在可以将其保存的链接上传到linkwarden，直接从 singlefile  browser扩展名。此集成简化了保存付费墙背后文章或需要身份验证的过程，因为这些链接可以直接发送到应用程序中，而无需手动步骤。
+基于这些改进，Linkwarden 2.12扩展了语言支持，现在有许多翻译现在得到了完全支持。这种更广泛的本地化工作使更多的用户可以使用其首选语言与该工具进行交互。为了增强整体用户体验，该版本还提供了一系列较小的改进和错误修复。这些更新有助于在整个平台中保持可靠的性能和平稳的操作。
+    href =“ https://alternativeto.net/software/linkwarden/about/”&gt;有关linkwardenen  | |]]></description>
+      <guid>https://alternativeto.net/news/2025/8/book-amrk-manager-linkwarden-2-12-released-with-drag-and-drop-support-and-singlefile-import/</guid>
+      <pubDate>Thu, 28 Aug 2025 14:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ZED通过Gemini CLI介绍了Agent Client协议的第三方AI代理支持</title>
+      <link>https://alternativeto.net/news/2025/8/zed-introduces-third-party-ai-agent-support-with-agent-client-protocol-through-gemini-cli/</link>
+      <description><![CDATA[  zed ，开源代码编辑器以其内置AI功能而闻名，现在允许用户与直接在编辑环境中的第三方AI交互。引入代理客户端协议（ACP），这使这是可能的
+在此基础上，ZED团队与Google合作制作
+With ACP, developers can choose agents tailored to their workflow, monitor agent activity as it navigates the codebase, set granular permissions for tools and MCP servers, and review agent-generated changes with syntax highlighting and full language server support.在此集成之后，ZED向用户保证，所有代码和代理交互保持本地； 什么都没有发送给ZED的服务器。
+代理客户端协议为 Apache 2.0许可下的开源源
+  href =“ https://alternativeto.net/software/zed-editor/about/”&gt;有关Zed Editor的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/8/zed-introduces-third-party-ai-agent-support-with-agent-client-protocol-through-gemini-cli/</guid>
+      <pubDate>Thu, 28 Aug 2025 12:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>META发现对FLO App的健康数据使用的隐私违反负责</title>
       <link>https://alternativeto.net/news/2025/8/meta-found-liable-for-privacy-breach-over-flo-app-s-health-data-use/</link>
@@ -52,100 +145,6 @@
  有关Google翻译的更多信息]]></description>
       <guid>https://alternativeto.net/news/2025/8/google-translate-can-now-help-with-live-conversations-and-language-practice-thanks-to-gemini/</guid>
       <pubDate>Wed, 27 Aug 2025 14:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>拟人化正在测试镀铬扩展，以使Claude直接在您的浏览器中工作</title>
-      <link>https://alternativeto.net/news/2025/8/anthropic-is-testing-a-chrome-extension-to-make-claude-work-directly-in-your-browser/</link>
-      <description><![CDATA[Anthropic has launched a Claude extension for Chrome, enabling trusted users to instruct Claude to直接在Web浏览器中采取操作。作为有限的研究预览的一部分，该功能最初可供1,000个最大计划用户使用。虽然限制了此早期访问，但用户可以加入 claude for chrome watlist 有机会参加后续阶段。。
-作为飞行员的一部分，拟人化将逐步扩大访问权限，同时着重于加强安全措施并建立对产品的信心。 Chrome Clome的早期版本已协助管理日历，调度会议，起草电子邮件响应，处理费用报告以及测试新网站功能。但是，该公司指出仍然存在一些漏洞，尤其是在迅速注射攻击方面。此类攻击涉及在网站上隐藏的恶意说明或可能欺骗AI助手执行意外动作的文件。
-为了解决这些风险，人类正在实验站点级别的权限，操作确认以及保护用户的其他缓解策略。在最初的研究预览期间，Anthropic建议仅在受信任的站点上使用扩展名并避免涉及财务，法律或医疗信息的网站。
-  href =“ https://alternativeto.net/software/claude/about/”&gt;更多有关Claude ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/8/anthropic-is-testing-a-chrome-extension-to-make-claude-work-directly-in-your-browser/</guid>
-      <pubDate>Wed, 27 Aug 2025 12:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>QEMU 10.1发行了具有新的CPU功能和改进的KVM下的ARM嵌套虚拟化</title>
-      <link>https://alternativeto.net/news/2025/8/qemu-10-1-released-with-new-cpu-features-and-improved-arm-nested-virtualization-under-kvm/</link>
-      <description><![CDATA[  qemu  10.1现在可用，代表了一个新的里程碑，其中有226位作者贡献了2,700多个提议。在保持其作为开源机器模拟器的核心时，此版本引入了机密计算，迁移和平台覆盖的关键进展。
- vfio现在在使用 Guest_memfd 时添加了访问和映射机密访客内存的初始支持。此步骤可实现对在安全加密的虚拟化安全嵌套分页（SEV-SNP）和英特尔信任域扩展（TDX）下运行的虚拟机的传递支持。实时迁移工作流程得益于MultifD支持，还可以从更快的副本迁移中受益，以及对拷贝前迁移的优化。现在有使用IPv6的环境的远程直接内存访问（RDMA）迁移支持。
-扩展监视功能，Windows Virtual Machines的QEMU宾客代理引入了通过新的 Guest-Get-load 命令查询系统加载的能力。在硬件支持上，ARM目标现在包括新的CPU功能，例如Feate_sme2和feat_sve2p1。该平台还添加了几个新的董事会和机器模型，并通过嵌套虚拟化，KVM，CXL和基于ACPI的PCI热销支持增强了 virt 板。
-随着架构的改进，RISC-V获得了新的指令集架构（ISA）支持和Kunminghu CPU和平台，而X86 KVM通过TDX和IGVM文件格式提供了机密的来宾支持。。
-  href =“ https://alternativeto.net/software/qemu/about/”&gt;有关Qemu ＆nbsp; |＆nbsp; &lt;A href =“ https：//alternatativeto.net/software/software/qemu/”]]></description>
-      <guid>https://alternativeto.net/news/2025/8/qemu-10-1-released-with-new-cpu-features-and-improved-arm-nested-virtualization-under-kvm/</guid>
-      <pubDate>Wed, 27 Aug 2025 11:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google揭露了Gemini 2.5闪光图像，具有高级生成和编辑功能</title>
-      <link>https://alternativeto.net/news/2025/8/google-unveils-gemini-2-5-flash-image-with-advanced-generation-and-editing-capabilities/</link>
-      <description><![CDATA[ Google已宣布 gemini 2.5 Flash Image   -  Code-Named “ Nano-Banana”   - 其最新的图像和编辑模型。此版本介绍了使用户融合多个源图像的功能，确保讲故事或品牌的角色一致性，使用自然语言进行有针对性的编辑，并利用世界知识来创造性图像任务。
-这些功能意味着用户可以在各种环境中保持相同的角色，生成统一的品牌资产，并以不同的角度展示产品，同时保留关键功能。图像混合还可以通过一个提示来合并单独的图像，例如将新对象合并到场景中或重新设计房间。 
-按照新功能集，Gemini 2.5 Flash Image启用详细的转换。用户可以通过描述所需的更改来模糊背景，删除个人或对象，Alter Poses或为图像着色。这些编辑是本地化的，不需要像素级选择。
-当该模型当前正在预览中时，开发人员已经可以通过 gemini api 和 google ai studio ，，通过通过 vertex ai 。为了支持透明度，所有使用Gemini 2.5 Flash图像制作的图像都将包括一个无形的合成数字水印，以识别AI生成或编辑的内容。
-    href =“ https://alternativeto.net/software/google-bard/about/”&gt;有关Google Gemini   | |]]></description>
-      <guid>https://alternativeto.net/news/2025/8/google-unveils-gemini-2-5-flash-image-with-advanced-generation-and-editing-capabilities/</guid>
-      <pubDate>Wed, 27 Aug 2025 09:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>NUMERE 1.1.7带来新的数组，电子邮件和编码功能</title>
-      <link>https://alternativeto.net/news/2025/8/numere-1-1-7-brings-new-array-email-and-encoding-functions/</link>
-      <description><![CDATA[  numere 版本1.1.7介绍了新的计算功能，包括用于组合阵列，getUserinfo（），getUserinfo（）用于检索smtppp emails和smtp emails和base-necoding and Base-necoding and smtppp smtppppe and getUserInfo（）。该更新还带来了迄今为止的改进和字符串处理，UI主题，解析器性能和HTML导出功能。
- 有关Numere ＆nbsp; |＆nbsp; &lt;a href =“ https：//alternativeto.net/software/numere/nbesoftware/numere/”]]></description>
-      <guid>https://alternativeto.net/news/2025/8/numere-1-1-7-brings-new-array-email-and-encoding-functions/</guid>
-      <pubDate>Wed, 27 Aug 2025 09:23:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>叉车4.4释放，以提高性能，更好的视觉效果和增强的稳定性</title>
-      <link>https://alternativeto.net/news/2025/8/forklift-4-4-released-with-performance-improvements-better-visuals-and-enhanced-stability/</link>
-      <description><![CDATA[ binarynights已发布 forklift  4.4，其双窗格文件管理器的最新版本和MacOS的文件传输客户端。此更新解决了关键的性能和稳定性问题，包括在更新侧边栏中最新文件夹时提高效率，现在避免了以前可能在更新过程中发生的悬挂。此外，Macos Tahoe 26上的列视图中的崩溃已解决，为用户在最新版本的Apple操作系统上提供了更稳定的体验。
-扩展文件管理功能，forklift 4.4添加了查看 iCloud   column View 中的状态图标的能力。现在，在本地存储和云中存储的文件的状态指标现在始终显示在所有三个视图中，帮助用户始终知道文件的存储位置。此外，此版本引入了一个重新设计的设置窗口，该窗口与Macos Tahoe 26的样式保持一致。在 Icon View 中，弹簧加载文件夹的可视化已得到改进，并且仅在Macos Tahoe 26上运行时显示菜单图标。。。。
-该更新还包括其他几个次要增强功能和错误修复，进一步完善了叉车中的整体用户体验。
- 更多关于forklift ＆nbsp; | |]]></description>
-      <guid>https://alternativeto.net/news/2025/8/forklift-4-4-released-with-performance-improvements-better-visuals-and-enhanced-stability/</guid>
-      <pubDate>Wed, 27 Aug 2025 07:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DocumentDB在开源MIT许可下成为Linux基金会项目</title>
-      <link>https://alternativeto.net/news/2025/8/documentdb-becomes-linux-foundation-project-under-open-source-mit-license/</link>
-      <description><![CDATA[  documentdb 已加入Linux基金会作为MIT下的开源项目。该数据库由Microsoft在今年早些时候启动，已迅速建立了一个用户群，其中超过2,000  github 星星和数百个社区贡献。
-DocumentDB旨在为NOSQL数据库建立一个供应商中立的开发人员 - 首选标准，同时保持其对开放性的承诺， 查看文章href =“ https://alternativeto.net/software/documentdb-1/about/”&gt;有关documentdb  |]]></description>
-      <guid>https://alternativeto.net/news/2025/8/documentdb-becomes-linux-foundation-project-under-open-source-mit-license/</guid>
-      <pubDate>Wed, 27 Aug 2025 07:35:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Parallels Desktop 26添加了MacOS Tahoe支持，并使用新的IT工具和磁盘空间控制</title>
-      <link>https://alternativeto.net/news/2025/8/parallels-desktop-26-adds-macos-tahoe-support-with-new-it-tools-and-disk-space-controls/</link>
-      <description><![CDATA[  PARALLELS桌面26 带来与macOS Tahoe 26 and Windows 11 25H2, ensuring virtualization workflows remain stable as Apple introduces new background process restrictions.设置例程和功能在新的系统规则下继续正常工作。
-该更新引入了与Macos Tahoe设计一致的刷新接口，包括新的码头元素和图标。现在，一种简化的版本控制方案将发布数字与受支持的年份和MacOS版本匹配，从而使用户更容易跟踪更新。 Windows Virtual Machines还获得了MAC磁盘空间的可见性，有助于防止存储问题引起的放缓和崩溃。
-对于IT和业务用户，Parallels Desktop 26维护SOC 2 II型合规性并添加了企业功能。其中包括用于单个应用部署的文档，扩展的JAMF集成以监视和管理Windows更新，以及一个新的企业管理门户，用于在共享文件夹，USB访问，剪贴板使用和网络模式上执行策略。未来的更新将通过用于VM和OS配置的集中管理的颗粒状策略控制扩展门户。
-  href =“ https://alternativeto.net/software/parallels-desktop/about/”&gt;有关更多关于Parallels Desktop ＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/8/parallels-desktop-26-adds-macos-tahoe-support-with-new-it-tools-and-disk-space-controls/</guid>
-      <pubDate>Tue, 26 Aug 2025 21:25:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spotify添加了直接消息传递，以使用户在平台内共享音乐和播客</title>
-      <link>https://alternativeto.net/news/2025/8/spotify-adds-direct-messaging-to-let-users-share-music-and-podcasts-within-the-platform/</link>
-      <description><![CDATA[  spotify 正在推出一个新的（且不准确的直接消息传递），使用户可以共享歌曲，podcasts和audiobooks在应用程序中。它在本周在某些市场上可用，可在移动设备上为16岁及以上的免费用户提供。。
-可以通过在现在的播放视图中点击共享图标来发送消息，但只能访问同一Spotify计划或以前通过果酱，混合或协作播放列表中连接的人。共享内容和对话存储在配置文件图片下的专用收件箱中。艺术家帐户是否能够使用消息传递来吸引粉丝，尽管该功能可能会相似于该功能支持与文本和表情符号反应的一对一聊天，受行业标准加密的保护，并为用户提供控制以接受或拒绝请求，阻止其他请求或完全禁用消息传递。内容可以进行审查，该公司表示将监控有害或非法活动。
- 有关Spotify ＆nbsp; |＆nbsp; &lt;A href =“ https：//alternativeto.net/software/software/spotify/”]]></description>
-      <guid>https://alternativeto.net/news/2025/8/spotify-adds-direct-messaging-to-let-users-share-music-and-podcasts-within-the-platform/</guid>
-      <pubDate>Tue, 26 Aug 2025 21:07:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>支持WhatsApp卫星的像素设备从8月28日起</title>
-      <link>https://alternativeto.net/news/2025/8/pixel-devices-to-support-whatsapp-satellite-calls-from-august-28/</link>
-      <description><![CDATA[ Google Pixel 10设备将是第一个支持 whatsapp 通过卫星网络进行语音和视频通话，在8月28日启动。此更新使用户可以保持连接到传统的移动覆盖范围，甚至可以保持连接状态。
- 在交流中查看文章href =“ https://alternativeto.net/software/software/whatsapp/about/”&gt;更多有关WhatsApp ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/8/pixel-devices-to-support-whatsapp-satellite-calls-from-august-28/</guid>
-      <pubDate>Tue, 26 Aug 2025 16:45:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Inoreader更新带有拖放编辑器和AI摘要的电子邮件摘要</title>
-      <link>https://alternativeto.net/news/2025/8/inoreader-updates-email-digests-with-drag-and-drop-editor-and-ai-summaries/</link>
-      <description><![CDATA[  inoreader 已推出了一个重新设计的电子邮件Digest Builder，其中包含拖放编辑器和增强的调度控件。该更新还增加了对AI生成的摘要，预览提醒以及缺少收件人警报以简化内容交付的支持。同样，现有的摘要已自动升级到新格式。
-可在团队和自定义计划中提供电子邮件摘要。
-View article on AlternativeTo »更多有关inoreader ＆nbsp; | |]]></description>
-      <guid>https://alternativeto.net/news/2025/8/inoreader-updates-email-digests-with-drag-and-drop-editor-and-ai-summaries/</guid>
-      <pubDate>Tue, 26 Aug 2025 16:37:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
