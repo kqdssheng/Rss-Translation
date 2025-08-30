@@ -4,11 +4,11 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Sat, 30 Aug 2025 01:21:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Aug 2025 12:35:14 GMT</lastBuildDate>
     <item>
       <title>Bruno v2.10.0添加了GRPC，平行CLI CSV，散装标头编辑和持续的cookie</title>
       <link>https://alternativeto.net/news/2025/8/bruno-v2-10-0-adds-grpc-parallel-cli-csv-bulk-header-editing-and-persistent-cookies/</link>
-      <description><![CDATA[  bruno  v2.10.0已发行了主要更新，其中包括对GRPC的一般性Beta支持，以及通过在Cli中使用Parallel CSV执行Clis for Clis for for Faster Batch runss for Faster Batch runs for for grpc和更快的Beta支持。现在可以跨集合和文件夹提供批量标题编辑，而OAuth2获得了对额外参数的支持，并且已经修复了几个相关的错误。
+      <description><![CDATA[  bruno  v2.10.0已发布，包括主要更新，包括对GRPC的一般性Beta支持，以及通过在Cli中使用Parallel CSV执行Cli for Clis for Faster Batch runs for Faster batch runs for grpc和更快的命令线。现在可以跨集合和文件夹提供批量标题编辑，而OAuth2获得了对额外参数的支持，并且已经修复了几个相关的错误。
  cookie现在一直在请求中持续存在，从而改善了多步测试中的会话处理。大型收藏来自更可靠的进口和支持大型BRU文件的支持。
 更新还使用清洁的顶部工具栏优化了UI，并在窗口上添加了全局快捷方式以进行缩放，最小化和关闭。您可以在View article on AlternativeTo »更多有关Bruno ＆nbsp; |＆nbsp; |]]></description>
       <guid>https://alternativeto.net/news/2025/8/bruno-v2-10-0-adds-grpc-parallel-cli-csv-bulk-header-editing-and-persistent-cookies/</guid>
@@ -35,7 +35,7 @@
       <pubDate>Fri, 29 Aug 2025 15:50:00 GMT</pubDate>
     </item>
     <item>
-      <title>Krea AI首次以12+ FPS Performance首次亮相</title>
+      <title>Krea AI首次以12+ FPS Performancy的实时视频生成模型</title>
       <link>https://alternativeto.net/news/2025/8/krea-ai-debuts-real-time-video-generation-model-with-12-fps-performance/</link>
       <description><![CDATA[  krea ai 已引入了第一个实时视频生成模型，提供了12 fps，以超过12 fps作为用户精炼输入的即时反馈。该系统保持时间一致性，以确保稳定的运动，身份和样式。用户可以通过素描，编写文本提示或流网络摄像头和屏幕输入来创建视频。
   beta waitlist是打开的，整个星期都会推出访问。 
@@ -68,7 +68,7 @@
       <description><![CDATA[  repligit   添加了新的设计功能，使其更容易自定义AI或&#39;Vibe-oded&#39;应用程序的外观。现在，用户可以创建整个应用程序中管理颜色，字体和接口属性的主题，并立即将更改应用于所有组件。这些主题可以在未来的项目中保存和重复使用，从而减少重复的样式工作。
 更新包括开源项目的改编版本 tweakcn 用于自定义
 企业客户从 figma 或使用现有的设计代币和库，可确保应用程序的应用程序准确遵守品牌指南。这些功能可用于新构建的应用程序，并支持以后较旧的应用程序。任何设计更新均立即在连接的应用程序中应用，保持内部工具和面向客户的产品一致。
-  href =“ https://alternativeto.net/software/repl-it/about/”&gt;有关REPLIT ＆nbsp; |＆nbsp; &lt;A href =“ https://alternatativeto.net/software/software/repl-it/”]]></description>
+  href =“ https://alternativeto.net/software/repl-it/about/”&gt;有关REPLIT ＆nbsp; |＆nbsp; &lt;A href =“ https：//alternativeto.net/software/software/repl-it/”]]></description>
       <guid>https://alternativeto.net/news/2025/8/replit-adds-theme-systems-and-figma-design-imports-to-its-ai-app-builder/</guid>
       <pubDate>Fri, 29 Aug 2025 05:23:50 GMT</pubDate>
     </item>
@@ -137,7 +137,7 @@
     <item>
       <title>Book AMRK Manager Linkwarden 2.12发行了拖放支持和单file导入</title>
       <link>https://alternativeto.net/news/2025/8/book-amrk-manager-linkwarden-2-12-released-with-drag-and-drop-support-and-singlefile-import/</link>
-      <description><![CDATA[  linkwardenen  2.12已发布为此开放式书签管理器的最新版本。该更新引入了两个主要的面向用户的功能。首先，用户现在可以将链接直接拖放到集合和标签上，从而更容易组织广泛的书签库。此功能介绍了最常要求的工作流程之一，并有助于保持书签清单整洁。
+      <description><![CDATA[  linkwardenen  2.12已发布为此开放式书签管理器的最新版本。该更新引入了两个主要的面向用户的功能。首先，用户现在可以将链接直接拖放到集合和标签上，从而更容易组织广泛的书签库。此功能介绍了最常见的工作流程之一，并有助于使成长的书签清单整洁。
 除了改进的组织之外，用户现在可以将其保存的链接上传到linkwarden，直接从 singlefile  browser扩展名。此集成简化了保存付费墙背后文章或需要身份验证的过程，因为这些链接可以直接发送到应用程序中，而无需手动步骤。
 基于这些改进，Linkwarden 2.12扩展了语言支持，现在有许多翻译现在得到了完全支持。这种更广泛的本地化工作使更多的用户可以使用其首选语言与该工具进行交互。为了增强整体用户体验，该版本还提供了一系列较小的改进和错误修复。这些更新有助于在整个平台中保持可靠的性能和平稳的操作。
     href =“ https://alternativeto.net/software/linkwarden/about/”&gt;有关linkwardenen  | |]]></description>
