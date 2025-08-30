@@ -4,14 +4,71 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Fri, 29 Aug 2025 12:39:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Aug 2025 01:21:49 GMT</lastBuildDate>
+    <item>
+      <title>Bruno v2.10.0添加了GRPC，平行CLI CSV，散装标头编辑和持续的cookie</title>
+      <link>https://alternativeto.net/news/2025/8/bruno-v2-10-0-adds-grpc-parallel-cli-csv-bulk-header-editing-and-persistent-cookies/</link>
+      <description><![CDATA[  bruno  v2.10.0已发行了主要更新，其中包括对GRPC的一般性Beta支持，以及通过在Cli中使用Parallel CSV执行Clis for Clis for for Faster Batch runss for Faster Batch runs for for grpc和更快的Beta支持。现在可以跨集合和文件夹提供批量标题编辑，而OAuth2获得了对额外参数的支持，并且已经修复了几个相关的错误。
+ cookie现在一直在请求中持续存在，从而改善了多步测试中的会话处理。大型收藏来自更可靠的进口和支持大型BRU文件的支持。
+更新还使用清洁的顶部工具栏优化了UI，并在窗口上添加了全局快捷方式以进行缩放，最小化和关闭。您可以在View article on AlternativeTo »更多有关Bruno ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/8/bruno-v2-10-0-adds-grpc-parallel-cli-csv-bulk-header-editing-and-persistent-cookies/</guid>
+      <pubDate>Fri, 29 Aug 2025 19:22:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>TOR Project释放ARTI 1.5具有新的客户功能，中继后端工作和错误修复</title>
+      <link>https://alternativeto.net/news/2025/8/tor-project-releases-arti-1-5-with-new-client-features-relay-backend-work-and-bug-fixes/</link>
+      <description><![CDATA[  arti  1.5.0，Tor Project的最新版本 tor 实现，在几个重要的客户端功能上提供进度。该更新进展了反式洋葱加密的开发，通过Conflux功能改善了路径选择，并引入了流动控制，拥塞控制和洋葱服务工作证明的增强功能。这些更新旨在增强下一代用户的隐私，性能和服务可靠性 tor  inasimentation。
+除了客户端的改进外，此版本还包括大量的后端工作，以使ARTI更接近支持继电器功能。继电器支持是Arti的未来基础，这是一个完整的TOR实施。在可靠性方面，ARTI 1.5.0减轻了一个长期存在的问题，该问题可以阻止客户完成引导程序。解决此错误直接改善了新用户和现有用户的初始连接体验。
+按照TOR项目的最低支持的Rust版本政策，ARTI 1.5.0现在需要Rust 1.85或更新。此更新符合上游要求，并影响贡献者和建立环境。这些更改通过各种增强功能和其他错误修复，进一步稳定了代码库。。
+ 有关arti ＆nbsp; |＆nbsp; &lt;a href =“ https：//alternativeto.net/software/artiwaware/arti/]]></description>
+      <guid>https://alternativeto.net/news/2025/8/tor-project-releases-arti-1-5-with-new-client-features-relay-backend-work-and-bug-fixes/</guid>
+      <pubDate>Fri, 29 Aug 2025 19:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果在最新Xcode 26 Beta中增加了对Claude 4十四行诗和GPT-5 AI型号的支持</title>
+      <link>https://alternativeto.net/news/2025/8/apple-adds-support-for-claude-4-sonnet-and-gpt-5-ai-models-in-latest-xcode-26-beta/</link>
+      <description><![CDATA[ Apple已发布 Xcode  26 Beta 7，为开发人员提供更新的工具，用于跨苹果平台构建应用程序。通过此版本，已经扩展了与第三方人工智能解决方案的集成。
+开发人员现在可以链接他们的付费 claude 在情报设置面板中帐户，启用直接在Xcode中。除了此更改之外， chatggpt 集成已更新：用户现在可以开始使用 gpt-4.1&gt; gpt-4.1 或 gpt-5 
+ Xcode为开发人员提供了两个特定的CHATGPT模型选项，用于编码任务。 GPT-5专为常规请求而设计，并提供适合大多数开发工作流程的快速，高质量的响应。对于需要更深入分析的任务，GPT-5推理通过在提供答案之前投入更多时间来提高响应准确性。
+ 有关Xcode ＆nbsp; |＆nbsp; &lt;A href =“ https://alternatativeto.net/software/software/xcode/”]]></description>
+      <guid>https://alternativeto.net/news/2025/8/apple-adds-support-for-claude-4-sonnet-and-gpt-5-ai-models-in-latest-xcode-26-beta/</guid>
+      <pubDate>Fri, 29 Aug 2025 15:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Krea AI首次以12+ FPS Performance首次亮相</title>
+      <link>https://alternativeto.net/news/2025/8/krea-ai-debuts-real-time-video-generation-model-with-12-fps-performance/</link>
+      <description><![CDATA[  krea ai 已引入了第一个实时视频生成模型，提供了12 fps，以超过12 fps作为用户精炼输入的即时反馈。该系统保持时间一致性，以确保稳定的运动，身份和样式。用户可以通过素描，编写文本提示或流网络摄像头和屏幕输入来创建视频。
+  beta waitlist是打开的，整个星期都会推出访问。 
+ 查看文章href =“ https://alternativeto.net/software/krea/about/”&gt;更多有关krea ai   | |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/8/krea-ai-debuts-real-time-video-generation-model-with-12-fps-performance/</guid>
+      <pubDate>Fri, 29 Aug 2025 15:01:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Raycast启动GitHub Copilot扩展程序，用于应用内编码代理任务</title>
+      <link>https://alternativeto.net/news/2025/8/raycast-launches-github-copilot-extension-for-in-app-coding-agent-tasks/</link>
+      <description><![CDATA[Raycast has introduced the GitHub Copilot extension, allowing users to create and track coding agent tasks directly within its 界面。该扩展程序使用户可以启动副作用作业，监视任务进度并管理拉动请求，而无需离开raycast。自然语言任务创建和存储库搜索也包括AI工具。
+访问需要Copilot Pro，Pro+，Business或Enterprise订阅，并具有业务和企业计划所需的管理。
+ 在交流中查看文章href =“ https://alternativeto.net/software/raycast/about/”&gt;有关Raycast的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/8/raycast-launches-github-copilot-extension-for-in-app-coding-agent-tasks/</guid>
+      <pubDate>Fri, 29 Aug 2025 14:53:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Proton增加了紧急访问权限，让信任联系人安全地恢复您的帐户</title>
+      <link>https://alternativeto.net/news/2025/8/proton-adds-emergency-access-to-let-trusted-contacts-recover-your-account-securely/</link>
+      <description><![CDATA[ Proton已经启动了紧急访问，该功能允许用户任命可信赖的联系人，他们可以安全访问其 Proton 如果由于死亡或严重的疾病而无法这样做，请说明质子。用户可以选择多达五个值得信赖的人，所有这些人都必须拥有一个质子帐户，并指定一个自定义等待期，该定制等待期的范围从几天到几个月之前。
+帐户所有者选择批准或拒绝传入的访问请求，在等待期间保持控制。如果没有采取任何措施，则该系统将在等待时间及以后自动授予许可。用户在任何时候都保留撤销访问或修改其紧急联系的灵活性。
+这些受信任的联系人通过一次邀请接收到所有质子应用程序的条目，允许他们在授予紧急访问后，可以安全地访问电子邮件，密码和文件。该功能可立即提供给所有付费的质子用户，公司强调，紧急访问过程中涉及的所有数据仍由端到端加密完全保护。
+ 有关质子邮件的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/8/proton-adds-emergency-access-to-let-trusted-contacts-recover-your-account-securely/</guid>
+      <pubDate>Fri, 29 Aug 2025 12:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>REPEIT添加主题系统和无花果设计导入其AI应用程序构建器</title>
       <link>https://alternativeto.net/news/2025/8/replit-adds-theme-systems-and-figma-design-imports-to-its-ai-app-builder/</link>
       <description><![CDATA[  repligit   添加了新的设计功能，使其更容易自定义AI或&#39;Vibe-oded&#39;应用程序的外观。现在，用户可以创建整个应用程序中管理颜色，字体和接口属性的主题，并立即将更改应用于所有组件。这些主题可以在未来的项目中保存和重复使用，从而减少重复的样式工作。
 更新包括开源项目的改编版本 tweakcn 用于自定义
 企业客户从 figma 或使用现有的设计代币和库，可确保应用程序的应用程序准确遵守品牌指南。这些功能可用于新构建的应用程序，并支持以后较旧的应用程序。任何设计更新均立即在连接的应用程序中应用，保持内部工具和面向客户的产品一致。
-  href =“ https://alternativeto.net/software/repl-it/about/”&gt;有关REPLIT ＆nbsp; |＆nbsp; &lt;A href =“ https：//alternativeto.net/software/software/repl-it/”]]></description>
+  href =“ https://alternativeto.net/software/repl-it/about/”&gt;有关REPLIT ＆nbsp; |＆nbsp; &lt;A href =“ https://alternatativeto.net/software/software/repl-it/”]]></description>
       <guid>https://alternativeto.net/news/2025/8/replit-adds-theme-systems-and-figma-design-imports-to-its-ai-app-builder/</guid>
       <pubDate>Fri, 29 Aug 2025 05:23:50 GMT</pubDate>
     </item>
@@ -80,71 +137,12 @@
     <item>
       <title>Book AMRK Manager Linkwarden 2.12发行了拖放支持和单file导入</title>
       <link>https://alternativeto.net/news/2025/8/book-amrk-manager-linkwarden-2-12-released-with-drag-and-drop-support-and-singlefile-import/</link>
-      <description><![CDATA[  linkwardenen  2.12已发布为此开放式书签管理器的最新版本。该更新引入了两个主要的面向用户的功能。首先，用户现在可以将链接直接拖放到集合和标签上，从而更容易组织广泛的书签库。此功能介绍了最常见的工作流程之一，并有助于使成长的书签清单整洁。
+      <description><![CDATA[  linkwardenen  2.12已发布为此开放式书签管理器的最新版本。该更新引入了两个主要的面向用户的功能。首先，用户现在可以将链接直接拖放到集合和标签上，从而更容易组织广泛的书签库。此功能介绍了最常要求的工作流程之一，并有助于保持书签清单整洁。
 除了改进的组织之外，用户现在可以将其保存的链接上传到linkwarden，直接从 singlefile  browser扩展名。此集成简化了保存付费墙背后文章或需要身份验证的过程，因为这些链接可以直接发送到应用程序中，而无需手动步骤。
 基于这些改进，Linkwarden 2.12扩展了语言支持，现在有许多翻译现在得到了完全支持。这种更广泛的本地化工作使更多的用户可以使用其首选语言与该工具进行交互。为了增强整体用户体验，该版本还提供了一系列较小的改进和错误修复。这些更新有助于在整个平台中保持可靠的性能和平稳的操作。
     href =“ https://alternativeto.net/software/linkwarden/about/”&gt;有关linkwardenen  | |]]></description>
       <guid>https://alternativeto.net/news/2025/8/book-amrk-manager-linkwarden-2-12-released-with-drag-and-drop-support-and-singlefile-import/</guid>
       <pubDate>Thu, 28 Aug 2025 14:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ZED通过Gemini CLI介绍了Agent Client协议的第三方AI代理支持</title>
-      <link>https://alternativeto.net/news/2025/8/zed-introduces-third-party-ai-agent-support-with-agent-client-protocol-through-gemini-cli/</link>
-      <description><![CDATA[  zed ，开源代码编辑器以其内置AI功能而闻名，现在允许用户与直接在编辑环境中的第三方AI交互。引入代理客户端协议（ACP），这使这是可能的
-在此基础上，ZED团队与Google合作制作
-With ACP, developers can choose agents tailored to their workflow, monitor agent activity as it navigates the codebase, set granular permissions for tools and MCP servers, and review agent-generated changes with syntax highlighting and full language server support.在此集成之后，ZED向用户保证，所有代码和代理交互保持本地； 什么都没有发送给ZED的服务器。
-代理客户端协议为 Apache 2.0许可下的开源源
-  href =“ https://alternativeto.net/software/zed-editor/about/”&gt;有关Zed Editor的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/8/zed-introduces-third-party-ai-agent-support-with-agent-client-protocol-through-gemini-cli/</guid>
-      <pubDate>Thu, 28 Aug 2025 12:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>META发现对FLO App的健康数据使用的隐私违反负责</title>
-      <link>https://alternativeto.net/news/2025/8/meta-found-liable-for-privacy-breach-over-flo-app-s-health-data-use/</link>
-      <description><![CDATA[几周前，加利福尼亚陪审团 flo ofere-track-tracking应用程序，违反了《加利福尼亚侵犯隐私法》。该集体诉讼于2021年提交，代表了数百万用户，并声称未经同意就收集了循环日期和生育目标之类的数据，并用于广告跟踪。 Google解决了案例 href =“ https://therecord.media/flo-app-settlement-class-action-suit-suit-data-sharing-meta”&gt;本月早些时
-原告的律师辩称，该裁决加强了隐私权，并在处理敏感健康信息时要求对科技公司负责。他们强调，数字健康数据值得严格保护秘密商业用途。
- meta拒绝了该决定，否认该决定收集或想要此类数据，并指出其政策禁止开发人员发送敏感信息。该公司表示，它正在探索对结果进行质疑的法律选择，该结果被视为到目前为止涉及健康跟踪应用程序的最重要的隐私裁决之一。
-  externativeto;     href =“ https://alternativeto.net/software/flo-period-and-yovulation-tracker/about/”&gt;有关flo期间＆Ovulation tracker ＆nbsp; | | ＆排卵跟踪器替代品 ]]></description>
-      <guid>https://alternativeto.net/news/2025/8/meta-found-liable-for-privacy-breach-over-flo-app-s-health-data-use/</guid>
-      <pubDate>Wed, 27 Aug 2025 21:32:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Xbox Game通过核心上的用户和标准层将访问Xbox Cloud Gaming</title>
-      <link>https://alternativeto.net/news/2025/8/xbox-game-pass-users-on-the-core-and-standard-tiers-will-gain-access-to-xbox-cloud-gaming/</link>
-      <description><![CDATA[  Xbox Cloud Gaming 现在可以访问这些功能目前仅限于Xbox Insider参与者。 Microsoft还正在试用核心和标准订户的PC游戏访问权限，让他们在Windows PC和手持设备上流式传输PC版本的支持标题，从而扩展了Xbox控制台以外的用法。
- Microsoft以前曾探索过诸如专用版本或Xbox Cloud Gaming的免费广告支持模型之类的选项，但此更新旨在扩展现有层次，并使订户更具灵活性。
- 有关Xbox Cloud Gaming的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/8/xbox-game-pass-users-on-the-core-and-standard-tiers-will-gain-access-to-xbox-cloud-gaming/</guid>
-      <pubDate>Wed, 27 Aug 2025 18:42:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows终端1.24预览添加了新的窗口系统，UI自定义，SSH配置文件</title>
-      <link>https://alternativeto.net/news/2025/8/windows-terminal-1-24-preview-adds-new-windowing-system-ui-customization-ssh-profiles/</link>
-      <description><![CDATA[  Windows terminal  Preview 1.24带来可用性改进和错误修复，而稳定的分支将其稳定的分支移动到1.23版，并具有早期的功能。该更新引入了一个更可靠的窗口系统，具有改进的托盘图标行为，精致的窗口操作和更快的地震模式召唤。
-设置UI现在集成了以前仅限于JSON的选项，包括铃声，单元大小调整，颜色和背景控件，空间填充编辑，兼容性设置和图标选择器。用户还可以通过新的扩展页面自定义新的选项卡下拉列表，管理配置文件和配色方案，以及访问扩展的上下文菜单函数，用于分割，移动，缩放和关闭窗格。
-其他亮点包括拖放路径翻译， ssh_config ，多语言命令调色板支持以及图标，背景和着色器的相对文件路径处理的SSH动态配置文件生成。该版本添加了Dimidium配色方案，禁用Zoom和不透明捷径的选项，更轻松的设置重置和缓存清除，更广泛的片段检测以及诸如MatchProfiles中的Regex之类的次要增强功能，Fuzzy Palette搜索，Hover Previews，感知颜色裸色以及 mingw 路径转换。
- 有关Windows terminal  |]]></description>
-      <guid>https://alternativeto.net/news/2025/8/windows-terminal-1-24-preview-adds-new-windowing-system-ui-customization-ssh-profiles/</guid>
-      <pubDate>Wed, 27 Aug 2025 16:24:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zen Web浏览器最终获取文件夹，简化了侧边栏中的选项卡分组</title>
-      <link>https://alternativeto.net/news/2025/8/zen-web-browser-finally-gets-folders-simplifying-tab-grouping-in-the-sidebar/</link>
-      <description><![CDATA[  Zen ，构建的自定义浏览器构建的
-遵循核心更新后，Zen现在使用[Firefox 142]（
-在Windows系统上，Zen 1.15B带来了更紧凑的模式的本地外观，侧栏和窗口边缘之间的分离更加清晰。解决了影响用户体验的几个问题：紧凑模式在悬停在URL栏时不再抽搐，固定选项卡标题正确显示在搜索结果中，并且已经解决了与固定标签有关的固定标签问题。已解决。
-  href =“ https://alternativeto.net/software/zen-browser/about/”&gt;有关Zen Browser ＆nbsp; | |＆nbsp; &lt;A href =“]]></description>
-      <guid>https://alternativeto.net/news/2025/8/zen-web-browser-finally-gets-folders-simplifying-tab-grouping-in-the-sidebar/</guid>
-      <pubDate>Wed, 27 Aug 2025 15:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Translate现在可以通过双子座来帮助实时对话和语言实践</title>
-      <link>https://alternativeto.net/news/2025/8/google-translate-can-now-help-with-live-conversations-and-language-practice-thanks-to-gemini/</link>
-      <description><![CDATA[Google has rolled out significant updates to the Google Translate app, anchored by advances in its Gemini人工智能模型。这些更新旨在改善跨语言沟通和语言学习经验。该应用程序现在包括实时实时对话翻译，启用了来源的音频和屏幕上的成绩单，以进行无缝的多语言交互。此现场翻译功能支持70种语言，例如阿拉伯语，法语，印地语，韩语，西班牙语和泰米尔语。它可在美国，印度和墨西哥用户的Android和iOS设备上使用。要使用此功能，用户点击“实时翻译”，选择语言，然后开始讲话以接收可听见的翻译和双语言成绩单。
- Google还在尝试新的语言练习功能， duolingo 竞争对手，旨在适应每个用户的技能水平和目标。通过在翻译应用程序中攻击“练习”，学习者将获得自定义的听力和口语场景，并根据其熟练程度动态生成的活动。该语言实践Beta最初可用于练习西班牙语或法语的英语说话者，以及西班牙语，法语或葡萄牙语的人，练习英语。这两种新添加都杠杆作用 gemini 的推理和多模式功能，标志着先进AI在公共面向公共面积的Google服务中的进一步集成。
- 有关Google翻译的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/8/google-translate-can-now-help-with-live-conversations-and-language-practice-thanks-to-gemini/</guid>
-      <pubDate>Wed, 27 Aug 2025 14:15:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
