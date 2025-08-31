@@ -4,7 +4,27 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Sat, 30 Aug 2025 12:35:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Aug 2025 01:28:58 GMT</lastBuildDate>
+    <item>
+      <title>Steam现在正在为英国用户执行年龄验证以访问成熟内容</title>
+      <link>https://alternativeto.net/news/2025/8/steam-is-now-enforcing-age-verification-for-users-in-the-uk-to-access-mature-content/</link>
+      <description><![CDATA[ Valve现在要求英国用户使用信用卡验证其年龄，以访问“成熟内容”。在 steam 上，与
+与Reddit或Discord等平台（使用自拍照进行年龄验证）不同，Valve选择了信用卡验证以维持隐私并阻止解决方法，因为只有18岁及以上的年龄在英国才能拥有一张信用卡。没有信用卡，用户将无法在Steam上访问成熟的内容。
+首先在英国的新法律，要求访问儿童的新法律，以保护儿童和访问儿童。 It&#39;s also worth noting that this change comes after Steam was recently forced to withdraw several mature games from its platform, allegedly due to pressure from credit card公司。
+  href =“ https://alternativeto.net/software/software/steam/about/”&gt;更多有关Steam ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/8/steam-is-now-enforcing-age-verification-for-users-in-the-uk-to-access-mature-content/</guid>
+      <pubDate>Sat, 30 Aug 2025 17:39:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>印度法院在出版商请求之后命令SCI-HUB，SCI-NET和LIBGEN的Internet块</title>
+      <link>https://alternativeto.net/news/2025/8/indian-court-orders-internet-block-of-sci-hub-sci-net-and-libgen-after-publisher-request/</link>
+      <description><![CDATA[ Elsevier，Wiley和美国化学学会已协调要求印度当局阻止访问 Sci-hub&gt; href =“ https://alternativeto.net/software/sci-net/about/”&gt; sci-net ，
+按照法院命令，印度用户现在只能达到 sci-hub 和类似的存储库，并使用CensorSorphip-Circumcumcumecumectention技术。这些包括虚拟专用网络（VPN），例如 proton vpn 或 tor browser 提供另一种途径，尽管它可能需要为非Tech-Savvy用户提供其他配置工作。
+对新闻做出反应，Sci-Hub的创始人认为该街区是非法的，并且违反了人权和印度国家利益。该声明重点介绍，限制获得学术材料的机会可能会加强富裕，支持的机构与发展中国家的学术差异。 
+ 更多有关Sci-Hub ＆nbsp; | |]]></description>
+      <guid>https://alternativeto.net/news/2025/8/indian-court-orders-internet-block-of-sci-hub-sci-net-and-libgen-after-publisher-request/</guid>
+      <pubDate>Sat, 30 Aug 2025 11:05:00 GMT</pubDate>
+    </item>
     <item>
       <title>Bruno v2.10.0添加了GRPC，平行CLI CSV，散装标头编辑和持续的cookie</title>
       <link>https://alternativeto.net/news/2025/8/bruno-v2-10-0-adds-grpc-parallel-cli-csv-bulk-header-editing-and-persistent-cookies/</link>
@@ -124,25 +144,6 @@
  查看文章href =“ https://alternativeto.net/software/hana-by-spline/about/”&gt;有关Spline ＆nbsp; | | | &lt;a href =“]]></description>
       <guid>https://alternativeto.net/news/2025/8/new-spline-hana-update-vector-masks-and-enhanced-loading-for-large-projects/</guid>
       <pubDate>Thu, 28 Aug 2025 14:59:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>TOT 2更新：具有新功能和自定义的改进的注释组织</title>
-      <link>https://alternativeto.net/news/2025/8/tot-2-update-improved-note-organization-with-new-features-and-customization/</link>
-      <description><![CDATA[  tot 现在可以使用tot 版本2，在改进的注释组织中介绍多种样式和权重的文本划分。用户可以用自定义的智能子弹和表情符号个性化待办事项列表，并从键盘快捷键的自动凹痕中受益。
-该更新可在iOS，macOS和WatchOS上下载，并提供免费和优质功能选项。
- 更多有关tot ＆nbsp; | |＆nbsp; &lt;a href =“ https：//alternativeto.net/softof ynet/software/tot/tot/]]></description>
-      <guid>https://alternativeto.net/news/2025/8/tot-2-update-improved-note-organization-with-new-features-and-customization/</guid>
-      <pubDate>Thu, 28 Aug 2025 14:55:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Book AMRK Manager Linkwarden 2.12发行了拖放支持和单file导入</title>
-      <link>https://alternativeto.net/news/2025/8/book-amrk-manager-linkwarden-2-12-released-with-drag-and-drop-support-and-singlefile-import/</link>
-      <description><![CDATA[  linkwardenen  2.12已发布为此开放式书签管理器的最新版本。该更新引入了两个主要的面向用户的功能。首先，用户现在可以将链接直接拖放到集合和标签上，从而更容易组织广泛的书签库。此功能介绍了最常见的工作流程之一，并有助于使成长的书签清单整洁。
-除了改进的组织之外，用户现在可以将其保存的链接上传到linkwarden，直接从 singlefile  browser扩展名。此集成简化了保存付费墙背后文章或需要身份验证的过程，因为这些链接可以直接发送到应用程序中，而无需手动步骤。
-基于这些改进，Linkwarden 2.12扩展了语言支持，现在有许多翻译现在得到了完全支持。这种更广泛的本地化工作使更多的用户可以使用其首选语言与该工具进行交互。为了增强整体用户体验，该版本还提供了一系列较小的改进和错误修复。这些更新有助于在整个平台中保持可靠的性能和平稳的操作。
-    href =“ https://alternativeto.net/software/linkwarden/about/”&gt;有关linkwardenen  | |]]></description>
-      <guid>https://alternativeto.net/news/2025/8/book-amrk-manager-linkwarden-2-12-released-with-drag-and-drop-support-and-singlefile-import/</guid>
-      <pubDate>Thu, 28 Aug 2025 14:15:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
