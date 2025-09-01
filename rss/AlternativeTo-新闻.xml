@@ -4,7 +4,46 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Mon, 01 Sep 2025 01:44:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Sep 2025 12:41:12 GMT</lastBuildDate>
+    <item>
+      <title>照片和视频管理平台Immich 1.140添加了背景同步，仅阅读模式及更多</title>
+      <link>https://alternativeto.net/news/2025/8/photo-and-video-management-platform-immich-1-140-adds-background-sync-read-only-mode-and-more/</link>
+      <description><![CDATA[  immich  1.140现在可用，向此开源源，自我霍斯特的照片和视频管理平台的用户提供新功能。该更新在Beta时间轴中引入了背景同步功能，该功能自动检测到新媒体并将其置于操作系统管理的上传队列中。本地和远程数据同步现在定期在后台发生，确保新拍摄的照片和视频在启动时的时间表上立即出现。
+遵循这些工作流程的改进，添加了仅阅读模式以帮助防止意外删除或编辑 - 对父母或任何与他人共享设备的人有用。通过双击配置文件图片，隐藏所有操作按钮，可以激活此模式，因此只能查看资产。
+对于重视精确组织的用户，此版本可以找到并编辑与特定日期关联的丢失位置数据。除了这些主要功能外，Immich 1.140还包含进一步的增强功能，并且错误修复了针对稳定性和性能的错误。
+  href =“ https://alternativeto.net/software/immich/about/”&gt;更多有关Immich ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/8/photo-and-video-management-platform-immich-1-140-adds-background-sync-read-only-mode-and-more/</guid>
+      <pubDate>Mon, 01 Sep 2025 11:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft推出了其第一个内部AI模型：Mai-Voice-1和Mai-1-preview</title>
+      <link>https://alternativeto.net/news/2025/8/microsoft-launches-its-first-in-house-ai-models-mai-voice-1-and-mai-1-preview/</link>
+      <description><![CDATA[ Microsoft发布了两种内部AI模型，扩大了其在消费者和企业上下文的AI功能。  mai-voice-1 是它的第一个高度表现力和自然语音生成模型，现在可以在 copilot 每日报纸，作为Copilot Labs经验的一部分。该模型在单个和多演讲者的场景中提供了高保真，表现力的音频。它以其速度脱颖而出，在单个GPU上不到一秒钟就产生了最多一分钟的音频，使其成为当前提供的最快系统之一。
+此外，微软还引入了 mai-1-preview ，这是其第一个端到端基础模型。它被设计为专家体系结构的混合物，并在大约15,000个NVIDIA H100 GPU上进行了预培训和训练。这些技术投资预览 copilot ，旨在处理多样化的用户说明和每日信息请求。。
+展望未来，微软表示其目的是协调一套专门的AI型号。这种战略重点旨在通过匹配各种用户需求和用例来解锁更广泛的价值。该公司表明了在人工智能开发方面进一步发展的强烈野心。
+  href =“ https://alternativeto.net/software/software/software/bing-chat/about/”&gt;更多有关Microsoft copilot ＆nbsp; | |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/8/microsoft-launches-its-first-in-house-ai-models-mai-voice-1-and-mai-1-preview/</guid>
+      <pubDate>Mon, 01 Sep 2025 09:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>葡萄酒10.14，具有IPv6 Ping支持，VKD3D 1.17，Mono Engine 10.2和19个错误修复</title>
+      <link>https://alternativeto.net/news/2025/8/wine-10-14-released-with-ipv6-ping-support-vkd3d-1-17-mono-engine-10-2-and-19-bug-fixes/</link>
+      <description><![CDATA[ 葡萄酒 10.14到达，对于在Linux，MacOS和BSD上运行Windows Applications的用户，有几个进步。此版本中的一个关键补充是使用Internet协议6（IPv6）的PING支持，从而扩大了环境之间的网络兼容性。 The update also refreshes important core components: the bundled VKD3D library is now at version 1.17, improving Direct3D 12 support for better graphics rendering, while the integrated Mono engine has been upgraded to 10.2.0, which enhances support for applications developed with the  .net Framework 。
+遵循这些核心升级后，葡萄酒10.14解决了19个先前报道的错误，为影响一系列软件的问题提供了解决方案，包括诸如Phantasy Star Online之类的游戏：Blue Burst ，Spies   和 Roblox Studio 。这使依靠葡萄酒的用户受益于更流畅的游戏和应用程序经验。
+除了直接面向用户的变化外，开发过程还从改进的基础架构中受益。葡萄酒的 gitlab 现在在Debian Trixie, allowing for comprehensive automated testing on a wider variety of Linux environments.
+  href =“ https://alternativeto.net/software/wine/about/”&gt;有关葡萄酒的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/8/wine-10-14-released-with-ipv6-ping-support-vkd3d-1-17-mono-engine-10-2-and-19-bug-fixes/</guid>
+      <pubDate>Mon, 01 Sep 2025 07:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>HeidisQL 12.11.1.167 Linux Beta更新核心库并修复了错误</title>
+      <link>https://alternativeto.net/news/2025/9/heidisql-12-11-1-167-linux-beta-updates-core-libraries-and-fixes-bugs/</link>
+      <description><![CDATA[  heidisql  12.11.1.1.1.167 Linux Beta beta带来了先前应用于其Windows版本的更新。 Linux版本带有较新的升级到其核心库，包括 plink  to v0.83， sqlite  to v3.50.1。
+该版本还解决了几个错误，解决了日志记录，MariaDB用户管理的问题，并在数据和查询网格中对图标进行分类。
+ 更多有关Heidisql ＆nbsp; | |＆nbsp; &lt;A href =“]]></description>
+      <guid>https://alternativeto.net/news/2025/9/heidisql-12-11-1-167-linux-beta-updates-core-libraries-and-fixes-bugs/</guid>
+      <pubDate>Mon, 01 Sep 2025 07:45:50 GMT</pubDate>
+    </item>
     <item>
       <title>线程现在正在为所有用户使用格式选项测试长形帖子</title>
       <link>https://alternativeto.net/news/2025/8/threads-is-now-testing-long-form-posts-with-formatting-options-for-all-users/</link>
@@ -20,7 +59,7 @@
       <link>https://alternativeto.net/news/2025/8/anthropic-will-now-start-using-users-chat-transcripts-to-train-its-ai-models/</link>
       <description><![CDATA[人类已宣布更改其消费者条款和隐私政策，带有来自Claude and coding sessions from Claude Code set to be used in AI model training unless individuals actively opt out.所有用户必须在2025年9月28日之前就此政策做出决定。单击“接受”授权立即使用此数据，并且保留率最多将延长五年。
 更改适用于消费者计划，包括Claude Free，Pro，Max和Claude代码，但仅适用于新的或恢复的聊天和编码会话。除非用户恢复，否则旧的对话将保持排除。希望选择退出的用户可以通过更改弹出提示中的适当切换或访问设置，然后进行隐私，然后进行隐私设置，然后选择“帮助改善Claude”来做到这一点。。
-用户选择退出后，尽管拟人化保留并继续使用任何先前贡献的数据，但仍将将未来的数据排除在培训之外。为了保护隐私，该公司声称使用自动化工具来过滤或混淆敏感信息。这些政策变化不会影响商业产品，例如Claude Gov或Claude的工作，也不会影响通过 Google Cloud Cloud Vertex ai 。
+用户选择退出后，尽管人为保留并继续使用任何先前贡献的数据，但仍将将未来的数据排除在培训之外。为了保护隐私，该公司声称使用自动化工具来过滤或混淆敏感信息。这些政策变化不会影响商业产品，例如Claude Gov或Claude的工作，也不会影响通过 Google Cloud Cloud Vertex ai 。
  更多有关Claude ＆nbsp; |＆nbsp; |]]></description>
       <guid>https://alternativeto.net/news/2025/8/anthropic-will-now-start-using-users-chat-transcripts-to-train-its-ai-models/</guid>
       <pubDate>Sun, 31 Aug 2025 15:40:06 GMT</pubDate>
@@ -39,7 +78,7 @@
       <title>印度法院在出版商请求之后命令SCI-HUB，SCI-NET和LIBGEN的Internet块</title>
       <link>https://alternativeto.net/news/2025/8/indian-court-orders-internet-block-of-sci-hub-sci-net-and-libgen-after-publisher-request/</link>
       <description><![CDATA[ Elsevier，Wiley和美国化学学会已协调要求印度当局阻止访问 Sci-hub&gt; href =“ https://alternativeto.net/software/sci-net/about/”&gt; sci-net ，
-按照法院命令，印度用户现在只能达到 sci-hub 和类似的存储库，并使用CensorSorphip-Circumcumcumecumectention技术。这些包括虚拟专用网络（VPN），例如 proton vpn 或 tor browser 提供另一种途径，尽管它可能需要为非Tech-Savvy用户提供其他配置工作。
+按照法院命令，印度用户现在只能达到 sci-hub 和类似的存储库，并使用CensorSorphip-Circumbirmistection技术。其中包括虚拟专用网络（VPN），例如 proton vpn 或 tor browser 提供另一种途径，尽管它可能需要为非Tech-Savvy用户提供其他配置工作。
 对新闻做出反应，Sci-Hub的创始人认为该街区是非法的，并且违反了人权和印度国家利益。该声明重点介绍，限制获得学术材料的机会可能会加强富裕，支持的机构与发展中国家的学术差异。 
  更多有关Sci-Hub ＆nbsp; | |]]></description>
       <guid>https://alternativeto.net/news/2025/8/indian-court-orders-internet-block-of-sci-hub-sci-net-and-libgen-after-publisher-request/</guid>
@@ -75,7 +114,7 @@
       <pubDate>Fri, 29 Aug 2025 15:50:00 GMT</pubDate>
     </item>
     <item>
-      <title>Krea AI首次以12+ FPS Performancy的实时视频生成模型</title>
+      <title>Krea AI首次以12+ FPS Performance首次亮相</title>
       <link>https://alternativeto.net/news/2025/8/krea-ai-debuts-real-time-video-generation-model-with-12-fps-performance/</link>
       <description><![CDATA[  krea ai 已引入了第一个实时视频生成模型，提供了12 fps，以超过12 fps作为用户精炼输入的即时反馈。该系统保持时间一致性，以确保稳定的运动，身份和样式。用户可以通过素描，编写文本提示或流网络摄像头和屏幕输入来创建视频。
   beta waitlist是打开的，整个星期都会推出访问。 
@@ -108,46 +147,9 @@
       <description><![CDATA[  repligit   添加了新的设计功能，使其更容易自定义AI或&#39;Vibe-oded&#39;应用程序的外观。现在，用户可以创建整个应用程序中管理颜色，字体和接口属性的主题，并立即将更改应用于所有组件。这些主题可以在未来的项目中保存和重复使用，从而减少重复的样式工作。
 更新包括开源项目的改编版本 tweakcn 用于自定义
 企业客户从 figma 或使用现有的设计代币和库，可确保应用程序的应用程序准确遵守品牌指南。这些功能可用于新构建的应用程序，并支持以后较旧的应用程序。任何设计更新均立即在连接的应用程序中应用，保持内部工具和面向客户的产品一致。
-  href =“ https://alternativeto.net/software/repl-it/about/”&gt;有关REPLIT ＆nbsp; |＆nbsp; &lt;A href =“ https：//alternativeto.net/software/software/repl-it/”]]></description>
+  href =“ https://alternativeto.net/software/repl-it/about/”&gt;有关REPLIT ＆nbsp; |＆nbsp; &lt;A href =“ https://alternatativeto.net/software/software/repl-it/”]]></description>
       <guid>https://alternativeto.net/news/2025/8/replit-adds-theme-systems-and-figma-design-imports-to-its-ai-app-builder/</guid>
       <pubDate>Fri, 29 Aug 2025 05:23:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Openai使用GPT-RealTime更新实时API，它是最先进的语音AI模型</title>
-      <link>https://alternativeto.net/news/2025/8/openai-updates-the-realtime-api-with-gpt-realtime-its-most-advanced-voice-ai-model-yet/</link>
-      <description><![CDATA[  Openie&#39;s 现在通常可以在2024年10月首次启动后获得Realtime API，从而带来了公司的最佳声音AI迄今为止： href =“ https://openai.com/index/introducing-gpt-realtime/”&gt; gpt-realtime  。这种语音到语音系统的处理并直接生成音频，而无需转换为文本，提供更快，更自然的相互作用。它可以解释非语言提示，支持函数呼叫，中间句子中的语言，调整音调或口音，并通过情感变形产生语音。基准的结果突出了它的进度，大型台式音频为82.8％，多琴阵（30.5％），复杂的funcbench为66.5％。
-开发人员还获得了增强的集成选项，包括对会话启动协议（SIP）的支持，以启用电话和远程模型上下文协议（MCP）服务器，以连接外部工具和服务。其他功能包括可重复使用的提示，令牌限制和会话调整控制以管理成本。图像输入支持可以处理屏幕截图或照片，以进行文本阅读或基于内容的查询，并具有由开发人员配置的权限。
- OpenAI还添加了两个新的合成声音Cedar和Marin，以及对现有声音的更新。定价已降低20％，音频输入令牌为每百万美元32美元，并以每百万美元0.40美元的价格缓存。对于欧盟用户和对隐私敏感的业务，可以根据更严格的合规性规则将数据存储在欧盟中。现在可以通过 Playground 和正式API Document.API Document.API    更多关于chatgpt ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/8/openai-updates-the-realtime-api-with-gpt-realtime-its-most-advanced-voice-ai-model-yet/</guid>
-      <pubDate>Fri, 29 Aug 2025 04:53:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Word默认情况下将很快开始自动将您的文档自动保存到云</title>
-      <link>https://alternativeto.net/news/2025/8/microsoft-word-will-soon-start-auto-saving-your-documents-to-the-cloud-by-default/</link>
-      <description><![CDATA[ Microsoft正在为 Microsoft oneDrive oneDrive oneDrive 或其他Chops Cloud Cloud Provider。该公司表示，此更改应该最大程度地减少数据丢失的风险，并让用户在多个设备上同步其文档，因此它们不仅在Windows上，而且在Android，iOS，Web浏览器上也可用，并且基本上支持该单词应用程序。&gt; 。
- Word将根据当前日期生成新的文件名，而不是附加数字，并且该应用程序还将在关闭未命名或手动保存的文档之前提示用户。用户可以选择其他云存储位置或切换回本地保存，但是由于默认情况下启用了该功能，因此选择要使用文件选项保存，取消选中“默认情况下存储在云中的autosave文件”，然后检查&#39;
- cloud-saving默认值将在 Windows 11 版本2509及更高版本中提供。微软还表示，计划针对 Microsoft excel 和提出了一个问题，即Microsoft是否会清楚地解释如何禁用这些更改，或者仅当用户不再显示其期望的情况时才注意到他们的文件。对于其他所有寻求完全离线和免费替代方案的人，您可以随时给出 libreoffice-&gt; libreoffice -writer-
- 更多有关Microsoft Word ＆nbsp; | |＆nbsp; &lt;A href =“]]></description>
-      <guid>https://alternativeto.net/news/2025/8/microsoft-word-will-soon-start-auto-saving-your-documents-to-the-cloud-by-default/</guid>
-      <pubDate>Thu, 28 Aug 2025 20:51:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp启动了新的AI写作帮助工具，用于撰写不同样式的消息</title>
-      <link>https://alternativeto.net/news/2025/8/whatsapp-launches-new-ai-writing-help-tool-for-composing-messages-in-different-styles/</link>
-      <description><![CDATA[  whatsapp 正在启动 &lt;强&gt; AI驱动的工具可帮助用户直接在聊天中撰写消息。类似于我们在其他几个AI助手中已经看到的东西，例如 apple imindlence ，新功能使用户能够在专业的各种Profortation 中
-该功能是基于Meta的私人处理技术构建的，该技术对请求进行加密和匿名化，以便WhatsApp和Meta都无法读取或链接到用户身份。  wabetainfo注释该消息处理的方式不存储在Meta的服务器上，并留下数字跟踪。
-要访问它，用户起草一条消息并点击新的铅笔图标。写作帮助是可选的，默认情况下是偏离的，与 message-messages Summaries 。推广以英语开始，适用于美国的用户和选定国家，并扩展到稍后计划的更多语言和地区。
-  href =“ https://alternativeto.net/software/software/whatsapp/about/”&gt;更多有关WhatsApp ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/8/whatsapp-launches-new-ai-writing-help-tool-for-composing-messages-in-different-styles/</guid>
-      <pubDate>Thu, 28 Aug 2025 19:16:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>TABTAB 2.0启动具有更快性能的启动，并在Mac上进行完整的选项卡搜索</title>
-      <link>https://alternativeto.net/news/2025/8/tabtab-2-0-launches-with-faster-performance-and-full-tab-search-on-mac/</link>
-      <description><![CDATA[  TABTAB  2.0现在可用于Mac用户，提供更快的性能和提高的可靠性。该更新还介绍了搜索所有打开浏览器选项卡的功能，使选项卡和窗口切换更有效。
- 查看文章href =“ https://alternativeto.net/software/tabtab/about/”&gt;更多有关tabtab ＆nbsp; | |]]></description>
-      <guid>https://alternativeto.net/news/2025/8/tabtab-2-0-launches-with-faster-performance-and-full-tab-search-on-mac/</guid>
-      <pubDate>Thu, 28 Aug 2025 15:28:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
