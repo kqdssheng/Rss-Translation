@@ -4,7 +4,14 @@
     <title>新版本 - 备用</title>
     <link>https://alternativeto.net/releases/all</link>
     <description>添加到替代的最新软件</description>
-    <lastBuildDate>Sun, 31 Aug 2025 12:35:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Sep 2025 01:44:30 GMT</lastBuildDate>
+    <item>
+      <title>空间码头</title>
+      <link>https://alternativeto.net/software/spatial-dock/about/</link>
+      <description><![CDATA[ spatialldock使用固定的应用定位和关键快捷方式来加快应用程序交换。  空间码头替代方案 ]]></description>
+      <guid>https://alternativeto.net/software/spatial-dock/about/</guid>
+      <pubDate>Mon, 01 Jan 1 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>克</title>
       <link>https://alternativeto.net/software/grammit/about/</link>
@@ -38,13 +45,6 @@
       <link>https://alternativeto.net/software/screensnap-pro/about/</link>
       <description><![CDATA[精美的屏幕截图，具有令人惊叹的背景和强大的注释工具。可轻松创建，编辑和共享专业质量的屏幕截图。   ScreenNap Pro替代方案 ]]></description>
       <guid>https://alternativeto.net/software/screensnap-pro/about/</guid>
-      <pubDate>Mon, 01 Jan 1 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>QODER IDE</title>
-      <link>https://alternativeto.net/software/qoder-ide/about/</link>
-      <description><![CDATA[ Qoder是一个由AI驱动的代理编码平台，它可以使用自主AI代理自动化复杂的软件开发任务。   qoder IDE替代方案 ]]></description>
-      <guid>https://alternativeto.net/software/qoder-ide/about/</guid>
       <pubDate>Mon, 01 Jan 1 00:00:00 GMT</pubDate>
     </item>
     </channel>
