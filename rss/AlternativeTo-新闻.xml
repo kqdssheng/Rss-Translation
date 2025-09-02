@@ -4,7 +4,36 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Mon, 01 Sep 2025 12:41:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Sep 2025 01:24:50 GMT</lastBuildDate>
+    <item>
+      <title>Bitwig Studio 6 Beta修改自动化编辑并介绍自动化剪辑</title>
+      <link>https://alternativeto.net/news/2025/9/bitwig-studio-6-beta-revamps-automation-editing-and-introduces-automation-clips/</link>
+      <description><![CDATA[  bitwig Studio 6 进入Beta，并对其交叉平台DAW进行了重大更新。标题更改是对自动化编辑的全面大修，可以更精确地控制参数，例如音量，过滤器和效果。现在可以通过自动化模式（用“ A”切换）直接在轨道上覆盖曲线，或者通过重新设计的详细编辑器面板访问自动化。。
+新的行为包括“传播”以在范围内随机分化点值和“保持”以维持点之间的平坦值。铅笔工具将徒手手势转换为可编辑的曲线，而喷雾可以以网格间隔固定点。自动化剪辑启用基于块的工作流程，可以在其中循环，伸展，移动，复制/粘贴并与跨链接夹的镜像更改。
+该更新还带来了一个右手工具调色板，Dynamic Track标题调整大小的刷新接口，并为大型项目进行自动缩放。其他改进包括试听工具，音符的步骤输入，钢琴卷中的新背景，支持23个带有项目范围的钥匙签名的量表以及续订的鼓编辑器。现有客户可以测试Beta，从而为旧项目创建自动备份。
+ 有关BitWig Studio ＆nbsp; | |＆nbsp; &lt;A href =“]]></description>
+      <guid>https://alternativeto.net/news/2025/9/bitwig-studio-6-beta-revamps-automation-editing-and-introduces-automation-clips/</guid>
+      <pubDate>Mon, 01 Sep 2025 21:13:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tiktok添加语音笔记并扩展了媒体共享到直接消息</title>
+      <link>https://alternativeto.net/news/2025/9/tiktok-adds-voice-notes-and-expanded-media-sharing-to-direct-messages/</link>
+      <description><![CDATA[  tiktok 正在向其直接消息介绍新功能，从而为用户提供了交流文本超出文本的方式。该平台现在支持语音注释，允许用户记录和发送高达60秒的音频消息。此增加将Tiktok的消息传递能力与已建立的服务一起放置，例如 whatsapp ，信号和除了语音笔记之外，tiktok现在允许用户在一对一和组聊天中共享多达九个图像或视频。这扩展了为用户提供的内容共享选项，使平台上的消息传递更广泛。随后，Tiktok的目标是将自己定位为不仅仅是娱乐平台。此举反映了一种更广泛的策略，以促进其他领先的社交应用程序常见的定期社交互动。
+根据Tiktok的说法，这些消息传递更新将在接下来的几周内可供用户使用。这些功能旨在使应用程序的聊天体验与竞争对手保持一致，并增加平台上的直接参与。
+  externativeto＆raquo＆raquo;  href =“ https://alternativeto.net/software/tiktok/about/”&gt;更多有关tiktok ＆nbsp; | |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/tiktok-adds-voice-notes-and-expanded-media-sharing-to-direct-messages/</guid>
+      <pubDate>Mon, 01 Sep 2025 14:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux Lite 7.6与新的社区Wiki，Libreoffice 25.8，错误修复等</title>
+      <link>https://alternativeto.net/news/2025/8/linux-lite-7-6-released-with-new-community-wiki-libreoffice-25-8-bug-fixes-and-more/</link>
+      <description><![CDATA[  linux lite  7.6已作为此轻质Linux发行版的次要更新发布，重点是长期支持补丁，错误修复，错误修复和接口调整。该版本建立在Ubuntu 24.04.3 LTS上，并采用Linux 6.8内核，为系统稳定性和兼容性提供了最新的基础。 As part of this update, essential applications have received new versions — users will find Chrome 139, Thunderbird 128, LibreOffice 25.8 ，VLC 3.0.20和GIMP 2.10.36预安装。
+除了系统改进外，Linux Lite 7.6引入了一个全新的Wiki平台，用于文档。此开放Wiki旨在促进更快的更新，更清晰的指导和更容易获取信息，同时欢迎社区的贡献。随着此文档更改后，桌面环境继续以 seratia 窗口主题， papirus 图标和 roboto juroma juarlder 作为默认字体。
+这些桌面功能辅以对内部工具的更新，例如Lite Welcome，Lite升级和LITE主题，每个主题都提供可用性调整以获得更顺畅的体验。
+ 更多有关Linux Lite ＆nbsp; | |]]></description>
+      <guid>https://alternativeto.net/news/2025/8/linux-lite-7-6-released-with-new-community-wiki-libreoffice-25-8-bug-fixes-and-more/</guid>
+      <pubDate>Mon, 01 Sep 2025 12:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>照片和视频管理平台Immich 1.140添加了背景同步，仅阅读模式及更多</title>
       <link>https://alternativeto.net/news/2025/8/photo-and-video-management-platform-immich-1-140-adds-background-sync-read-only-mode-and-more/</link>
@@ -121,35 +150,6 @@
  查看文章href =“ https://alternativeto.net/software/krea/about/”&gt;更多有关krea ai   | |＆nbsp; |]]></description>
       <guid>https://alternativeto.net/news/2025/8/krea-ai-debuts-real-time-video-generation-model-with-12-fps-performance/</guid>
       <pubDate>Fri, 29 Aug 2025 15:01:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Raycast启动GitHub Copilot扩展程序，用于应用内编码代理任务</title>
-      <link>https://alternativeto.net/news/2025/8/raycast-launches-github-copilot-extension-for-in-app-coding-agent-tasks/</link>
-      <description><![CDATA[Raycast has introduced the GitHub Copilot extension, allowing users to create and track coding agent tasks directly within its 界面。该扩展程序使用户可以启动副作用作业，监视任务进度并管理拉动请求，而无需离开raycast。自然语言任务创建和存储库搜索也包括AI工具。
-访问需要Copilot Pro，Pro+，Business或Enterprise订阅，并具有业务和企业计划所需的管理。
- 在交流中查看文章href =“ https://alternativeto.net/software/raycast/about/”&gt;有关Raycast的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/8/raycast-launches-github-copilot-extension-for-in-app-coding-agent-tasks/</guid>
-      <pubDate>Fri, 29 Aug 2025 14:53:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Proton增加了紧急访问权限，让信任联系人安全地恢复您的帐户</title>
-      <link>https://alternativeto.net/news/2025/8/proton-adds-emergency-access-to-let-trusted-contacts-recover-your-account-securely/</link>
-      <description><![CDATA[ Proton已经启动了紧急访问，该功能允许用户任命可信赖的联系人，他们可以安全访问其 Proton 如果由于死亡或严重的疾病而无法这样做，请说明质子。用户可以选择多达五个值得信赖的人，所有这些人都必须拥有一个质子帐户，并指定一个自定义等待期，该定制等待期的范围从几天到几个月之前。
-帐户所有者选择批准或拒绝传入的访问请求，在等待期间保持控制。如果没有采取任何措施，则该系统将在等待时间及以后自动授予许可。用户在任何时候都保留撤销访问或修改其紧急联系的灵活性。
-这些受信任的联系人通过一次邀请接收到所有质子应用程序的条目，允许他们在授予紧急访问后，可以安全地访问电子邮件，密码和文件。该功能可立即提供给所有付费的质子用户，公司强调，紧急访问过程中涉及的所有数据仍由端到端加密完全保护。
- 有关质子邮件的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/8/proton-adds-emergency-access-to-let-trusted-contacts-recover-your-account-securely/</guid>
-      <pubDate>Fri, 29 Aug 2025 12:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>REPEIT添加主题系统和无花果设计导入其AI应用程序构建器</title>
-      <link>https://alternativeto.net/news/2025/8/replit-adds-theme-systems-and-figma-design-imports-to-its-ai-app-builder/</link>
-      <description><![CDATA[  repligit   添加了新的设计功能，使其更容易自定义AI或&#39;Vibe-oded&#39;应用程序的外观。现在，用户可以创建整个应用程序中管理颜色，字体和接口属性的主题，并立即将更改应用于所有组件。这些主题可以在未来的项目中保存和重复使用，从而减少重复的样式工作。
-更新包括开源项目的改编版本 tweakcn 用于自定义
-企业客户从 figma 或使用现有的设计代币和库，可确保应用程序的应用程序准确遵守品牌指南。这些功能可用于新构建的应用程序，并支持以后较旧的应用程序。任何设计更新均立即在连接的应用程序中应用，保持内部工具和面向客户的产品一致。
-  href =“ https://alternativeto.net/software/repl-it/about/”&gt;有关REPLIT ＆nbsp; |＆nbsp; &lt;A href =“ https://alternatativeto.net/software/software/repl-it/”]]></description>
-      <guid>https://alternativeto.net/news/2025/8/replit-adds-theme-systems-and-figma-design-imports-to-its-ai-app-builder/</guid>
-      <pubDate>Fri, 29 Aug 2025 05:23:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
