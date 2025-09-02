@@ -4,11 +4,30 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Tue, 02 Sep 2025 01:24:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Sep 2025 12:40:06 GMT</lastBuildDate>
+    <item>
+      <title>Libby推出了“ Inspire Me”，这是一种新的AI工具，用于即时书籍建议</title>
+      <link>https://alternativeto.net/news/2025/9/libby-launches-inspire-me--a-new-ai-tool-for-instant-book-recommendations/</link>
+      <description><![CDATA[Libby is introducing &#39;Inspire Me&#39;, a new AI-powered tool launching in September that helps users discover new books by generating five recommendations at a time based on saved titles or prompts, always selecting from titles immediately available to borrow so readers can download and立即开始阅读。
+  libby by ryverdrive ，Libby背后的公司，emphasizes that Inspire Me does not collect unnecessary personal data, only uses titles users choose to share, excludes tags or device identifiers, and ensures no data is shared with第三方或外部AI模型。
+一些用户和图书馆员仍然谨慎，对隐私和人工智能替代人类策划的风险引起了人们的关注，尽管该公司坚持认为该工具旨在补充图书馆员的建议，而不是取代它们。 Inspire Me将在9月正式推出，但感兴趣的人已经可以通过在应用程序中搜索#inspireme来尝试。
+ 查看文章href =“ https://alternativeto.net/software/software/libby/about/”&gt;更多关于libby by Overdrive ＆nbsp; | |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/libby-launches-inspire-me--a-new-ai-tool-for-instant-book-recommendations/</guid>
+      <pubDate>Tue, 02 Sep 2025 06:12:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Comaps添加了CARPLAY，基于时间的路由，地址编辑和地图更新</title>
+      <link>https://alternativeto.net/news/2025/9/comaps-adds-carplay-time-based-routing-address-editing-and-map-updates/</link>
+      <description><![CDATA[  comaps 版本2025.08.31-15介绍现在显示的地方已确认存在和更新的开放时间，并且地图获得了令人耳目一新的黑暗风格，五颜六色的标签，更清晰的入口以及整个欧洲的Road Shield Colors。标签处理支持新线并避免多余的品牌名称。仅当不完全面对北方时，通过优先考虑GPS轴承并显示指南针，从而改善了方向。
+在Android上，导航添加了一个速度指示器，并用面板中的ETA代替速度。通过降低的位置轮询，3个进度条，迁移到材料UI组件以及将PNG图标转换为SVG，性能会提高性能。该更新还包括翻译刷新，各种修复程序以及OpenGL ES 2.0支持的贬值。
+ 在替代文章上查看文章href =“ https://alternativeto.net/software/comaps/about/”&gt;有关comaps的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/9/comaps-adds-carplay-time-based-routing-address-editing-and-map-updates/</guid>
+      <pubDate>Tue, 02 Sep 2025 06:01:01 GMT</pubDate>
+    </item>
     <item>
       <title>Bitwig Studio 6 Beta修改自动化编辑并介绍自动化剪辑</title>
       <link>https://alternativeto.net/news/2025/9/bitwig-studio-6-beta-revamps-automation-editing-and-introduces-automation-clips/</link>
-      <description><![CDATA[  bitwig Studio 6 进入Beta，并对其交叉平台DAW进行了重大更新。标题更改是对自动化编辑的全面大修，可以更精确地控制参数，例如音量，过滤器和效果。现在可以通过自动化模式（用“ A”切换）直接在轨道上覆盖曲线，或者通过重新设计的详细编辑器面板访问自动化。。
+      <description><![CDATA[  bitwig Studio 6 进入Beta，并对其跨平台DAW进行了重大更新。标题更改是对自动化编辑的全面大修，可以更精确地控制参数，例如音量，过滤器和效果。现在可以通过自动化模式（用“ A”切换）直接在轨道上覆盖曲线，或者通过重新设计的详细编辑器面板访问自动化。。
 新的行为包括“传播”以在范围内随机分化点值和“保持”以维持点之间的平坦值。铅笔工具将徒手手势转换为可编辑的曲线，而喷雾可以以网格间隔固定点。自动化剪辑启用基于块的工作流程，可以在其中循环，伸展，移动，复制/粘贴并与跨链接夹的镜像更改。
 该更新还带来了一个右手工具调色板，Dynamic Track标题调整大小的刷新接口，并为大型项目进行自动缩放。其他改进包括试听工具，音符的步骤输入，钢琴卷中的新背景，支持23个带有项目范围的钥匙签名的量表以及续订的鼓编辑器。现有客户可以测试Beta，从而为旧项目创建自动备份。
  有关BitWig Studio ＆nbsp; | |＆nbsp; &lt;A href =“]]></description>
@@ -57,7 +76,7 @@
     <item>
       <title>葡萄酒10.14，具有IPv6 Ping支持，VKD3D 1.17，Mono Engine 10.2和19个错误修复</title>
       <link>https://alternativeto.net/news/2025/8/wine-10-14-released-with-ipv6-ping-support-vkd3d-1-17-mono-engine-10-2-and-19-bug-fixes/</link>
-      <description><![CDATA[ 葡萄酒 10.14到达，对于在Linux，MacOS和BSD上运行Windows Applications的用户，有几个进步。此版本中的一个关键补充是使用Internet协议6（IPv6）的PING支持，从而扩大了环境之间的网络兼容性。 The update also refreshes important core components: the bundled VKD3D library is now at version 1.17, improving Direct3D 12 support for better graphics rendering, while the integrated Mono engine has been upgraded to 10.2.0, which enhances support for applications developed with the  .net Framework 。
+      <description><![CDATA[ 葡萄酒 10.14到达，对于在Linux，MacOS和BSD上运行Windows Applications的用户，有几个进步。此版本中的一个关键补充是使用Internet协议6（IPv6）的PING支持，从而扩大了环境之间的网络兼容性。更新还刷新了重要的核心组成部分：捆绑的VKD3D库现在在1.17版中，改进了Direct3d 12支持更好的图形渲染，而集成的 .net Framework 。
 遵循这些核心升级后，葡萄酒10.14解决了19个先前报道的错误，为影响一系列软件的问题提供了解决方案，包括诸如Phantasy Star Online之类的游戏：Blue Burst ，Spies   和 Roblox Studio 。这使依靠葡萄酒的用户受益于更流畅的游戏和应用程序经验。
 除了直接面向用户的变化外，开发过程还从改进的基础架构中受益。葡萄酒的 gitlab 现在在Debian Trixie, allowing for comprehensive automated testing on a wider variety of Linux environments.
   href =“ https://alternativeto.net/software/wine/about/”&gt;有关葡萄酒的更多信息]]></description>
@@ -131,25 +150,6 @@
  有关arti ＆nbsp; |＆nbsp; &lt;a href =“ https：//alternativeto.net/software/artiwaware/arti/]]></description>
       <guid>https://alternativeto.net/news/2025/8/tor-project-releases-arti-1-5-with-new-client-features-relay-backend-work-and-bug-fixes/</guid>
       <pubDate>Fri, 29 Aug 2025 19:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果在最新Xcode 26 Beta中增加了对Claude 4十四行诗和GPT-5 AI型号的支持</title>
-      <link>https://alternativeto.net/news/2025/8/apple-adds-support-for-claude-4-sonnet-and-gpt-5-ai-models-in-latest-xcode-26-beta/</link>
-      <description><![CDATA[ Apple已发布 Xcode  26 Beta 7，为开发人员提供更新的工具，用于跨苹果平台构建应用程序。通过此版本，已经扩展了与第三方人工智能解决方案的集成。
-开发人员现在可以链接他们的付费 claude 在情报设置面板中帐户，启用直接在Xcode中。除了此更改之外， chatggpt 集成已更新：用户现在可以开始使用 gpt-4.1&gt; gpt-4.1 或 gpt-5 
- Xcode为开发人员提供了两个特定的CHATGPT模型选项，用于编码任务。 GPT-5专为常规请求而设计，并提供适合大多数开发工作流程的快速，高质量的响应。对于需要更深入分析的任务，GPT-5推理通过在提供答案之前投入更多时间来提高响应准确性。
- 有关Xcode ＆nbsp; |＆nbsp; &lt;A href =“ https://alternatativeto.net/software/software/xcode/”]]></description>
-      <guid>https://alternativeto.net/news/2025/8/apple-adds-support-for-claude-4-sonnet-and-gpt-5-ai-models-in-latest-xcode-26-beta/</guid>
-      <pubDate>Fri, 29 Aug 2025 15:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Krea AI首次以12+ FPS Performance首次亮相</title>
-      <link>https://alternativeto.net/news/2025/8/krea-ai-debuts-real-time-video-generation-model-with-12-fps-performance/</link>
-      <description><![CDATA[  krea ai 已引入了第一个实时视频生成模型，提供了12 fps，以超过12 fps作为用户精炼输入的即时反馈。该系统保持时间一致性，以确保稳定的运动，身份和样式。用户可以通过素描，编写文本提示或流网络摄像头和屏幕输入来创建视频。
-  beta waitlist是打开的，整个星期都会推出访问。 
- 查看文章href =“ https://alternativeto.net/software/krea/about/”&gt;更多有关krea ai   | |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/8/krea-ai-debuts-real-time-video-generation-model-with-12-fps-performance/</guid>
-      <pubDate>Fri, 29 Aug 2025 15:01:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
