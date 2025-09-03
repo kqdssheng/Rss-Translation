@@ -4,7 +4,83 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Tue, 02 Sep 2025 12:40:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Sep 2025 01:19:54 GMT</lastBuildDate>
+    <item>
+      <title>判断Google不必出售Chrome或Android的规则，但必须共享搜索数据</title>
+      <link>https://alternativeto.net/news/2025/9/judge-rules-that-google-won-t-have-to-sell-chrome-or-android-but-must-share-search-data/</link>
+      <description><![CDATA[美国联邦政府 google chrome 浏览器或去年该公司在线搜索的统治是在线搜索&gt;&gt;该结果拒绝司法部（DOJ）的提议分解Google的业务，法院认为这是“过度的”，因为Chrome和Android均未直接用于施加非法限制。相反，法官为Google如何推广其服务设定了关键条件。当然，这也意味着法院还允许Google继续向Mozilla或Apple等合作伙伴付款 Google Search ，Chrome，Chrome，Chrome及其AI产品预先确定或设置为Defaults。但是，这些协议不再是排他性的，这意味着还必须允许竞争对手在设备上安置类似的访问权限。法院指出，禁止这些付款将对苹果和莫兹拉等公司造成重大财务损害，并为消费者提供了破坏的服务（尤其是，根据这种安排，苹果每年从Google那里获得约200亿美元）。。
+最有影响力的新要求是Google必须与合格的竞争对手共享特定的搜索指数和用户交流数据，包括广告信息。目标是帮助竞争对手的公司发展和改进自己的搜索技术。为了监督合规性，独立技术委员会将在接下来的六年中监视Google。 Google宣布了其打算上诉的意图，要求的数据共享可能是未来诉讼的重点。
+  href =“ https://alternativeto.net/software/google-chrome/about/”&gt;有关Google Chrome  |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/judge-rules-that-google-won-t-have-to-sell-chrome-or-android-but-must-share-search-data/</guid>
+      <pubDate>Tue, 02 Sep 2025 22:46:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>PowerToys 0.94通过新设置搜索，冲突警报，滑行光标等等启动</title>
+      <link>https://alternativeto.net/news/2025/9/powertoys-0-94-launches-with-settings-search-conflict-alerts-gliding-cursor-and-more/</link>
+      <description><![CDATA[  Microsoft powertoys 版本0.94 0.94引入一个设置功能，可通过CTRL+F访问或通过CTRL+F访问或单击“允许使用新的搜索盒”，以快速查找使用新的搜索盒。该搜索支持部分查询的模糊匹配，在飞行中显示建议，并直接导航到正确的页面。如果出现五个以上的结果，则可以提供完整的结果页面。
+快捷冲突检测现在突出显示了当另一个PowerToys模块或Windows本身使用热键时，标记了红色冲突的条目，以立即引起注意。主页仪表板具有快捷冲突图块，显示当前的冲突数量。单击它为重新分配快捷方式打开了一个概述，有助于确保自定义热键按预期工作。
+鼠标指针Crosshairs获得了滑翔光标模式，该模式使用户可以通过单个快捷方式逐步移动指针。按快捷方式开始滑行，然后锁定水平，垂直，最后点击。这可以改善与快速或精确运动斗争的用户的可访问性。其他更新包括新的安装程序，对马耳他的快速口音支持， href =“ https://alternativeto.net/news/2025/4/powertoys-0-90-has-launched-with-a-a-major-update-to-powertoys-powertoys-run-call-call-call-call-call-colled-command-palette/“&gt;命令palette/”&gt;命令Palette
+ 有关Microsoft Powertoys ＆nbsp; | PowerToys替代品 ]]></description>
+      <guid>https://alternativeto.net/news/2025/9/powertoys-0-94-launches-with-settings-search-conflict-alerts-gliding-cursor-and-more/</guid>
+      <pubDate>Tue, 02 Sep 2025 20:36:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>博客平台熊不再是开源，而是转移到源可用的弹性许可证</title>
+      <link>https://alternativeto.net/news/2025/9/blogging-platform-bear-is-no-longer-open-source-moves-to-source-available-elastic-license/</link>
+      <description><![CDATA[  bear ，由Herman Martinus开发的一个隐私 -  focused-flogcune Blogning平台已从其先前的开源MIT许可证过渡到源源源模型。该平台现在将根据弹性许可分配，该许可与MIT许可证非常相似，但明确禁止用户将Bear作为托管或托管服务提供。这一变化标志着贝尔早期的哲学有明显的偏见，在这里，全面的开源可用性鼓励了广泛的再利用。 
+根据Martinus的说法，该决定受到Bear代码的重复实例的影响，并用来启动类似的竞争服务，只有最小的变化。虽然源代码仍然可以供个人使用和修改访问，但新许可证旨在保护熊免受其创建者形容为自由骑行竞争的东西。。
+这一举动不是隔离的。近年来，几个开源项目已转移了许可，以解决操作托管版本的重塑叉子的直接竞争者的兴起。 AI辅助编码的进步降低了开发人员对开源项目的障碍，并迅速推出了付费，竞争平台，进一步推动了这一趋势。贝尔的新方法反映了独立开发人员的更广泛的努力，以保留对软件如何商业化的控制。
+ 更多有关熊博客的信息]]></description>
+      <guid>https://alternativeto.net/news/2025/9/blogging-platform-bear-is-no-longer-open-source-moves-to-source-available-elastic-license/</guid>
+      <pubDate>Tue, 02 Sep 2025 15:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Grinfi启动云浏览器和主要自动化重新设计</title>
+      <link>https://alternativeto.net/news/2025/9/grinfi-launches-cloud-browser-and-major-automation-redesign/</link>
+      <description><![CDATA[  grinfi 的最新更新带来了内置的云浏览器，取代了多个外部技术并使平台更易于使用。自动化构建器已完全重新设计，提供了现代界面并解决了以前的可用性问题。现在还可以使用六个自动化模板和新的入门流程，以帮助用户更快地启动。
+此外，新的代理检查器可提高可靠性，以及各种错误修复。
+ 在交替的文章上查看文章href =“ https://alternativeto.net/software/grinfi-io/about/”&gt;更多有关grinfi  |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/grinfi-launches-cloud-browser-and-major-automation-redesign/</guid>
+      <pubDate>Tue, 02 Sep 2025 15:24:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Inoreader揭幕播客和YouTube视频增强了音频播放器</title>
+      <link>https://alternativeto.net/news/2025/9/inoreader-unveils-enhanced-audio-player-for-podcasts-and-youtube-videos/</link>
+      <description><![CDATA[  inoreader    已介绍了一个用于播客的升级音频播放器，
+ 更多有关inoreader ＆nbsp; | |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/inoreader-unveils-enhanced-audio-player-for-podcasts-and-youtube-videos/</guid>
+      <pubDate>Tue, 02 Sep 2025 15:12:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>文件v4.0现在使用新的综合，双窗格模式，扩展的云支持等</title>
+      <link>https://alternativeto.net/news/2025/9/files-v4-0-is-out-now-with-a-new-omnibar-dual-pane-mode-expanded-cloud-support-and-more/</link>
+      <description><![CDATA[The next major version of the popular the open-source Windows file manager alternative, Files v.4.0, has been finally released, delivering a lot of UI updates and several new features like a Dual Pane mode, an updated Fluent design app icon, and the redesigned Omnibar.该综合剂用单个统一控件替换传统的路径栏和搜索框，让用户在按钮或快捷方式之间进行导航和搜索之间的切换，而集成的 Microsoft PowerToys 提供快速访问广泛的高级操作。
+双窗格模式可以并排有效地管理两个文件夹，改善了跨文件夹的拖放文件传输和导航，并在新窗格打开时会自动创建镜像路径。搜索和过滤器现在是单独的：搜索使用Windows索引进行系统范围的结果，而Filter提供了实时，特定于文件夹的查询。
+云支持随着Magentacloud，Sync和ox Drive的扩展，而 Microsoft OneDrive OneDrive ondrive 存储详细信息现在在Windows 11中显示在Windows 11中。 href =“ https://feed.alternativeto.net/software/github/about/”&gt; github 存储库直接从掉落的URL中进行克隆，并在状态中心跟踪进度。其他改进包括用于文件完整性的哈希和签名选项卡，更智能的列视图，更新的存档处理，更多的自定义选项以及更广泛的本地化。有关更改和详细信息的完整列表，您可以在此处检查官方的changelog。 
+ 有关文件的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/9/files-v4-0-is-out-now-with-a-new-omnibar-dual-pane-mode-expanded-cloud-support-and-more/</guid>
+      <pubDate>Tue, 02 Sep 2025 14:50:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Opensuse Tumbleweed带来新功能，性能改进和一些安全修复程序</title>
+      <link>https://alternativeto.net/news/2025/9/opensuse-tumbleweed-brings-new-features-performance-improvements-and-some-security-fixes/</link>
+      <description><![CDATA[  opensuse 已经提供了其最新的每月滚珠weed更新，并在包含Glibc 2.42的范围内，引入了对新C标准的支持。除此之外，用户受益于
+在桌面环境改进的构建中，更新为XFCE提供了更新的组件，XFCE4-Sessions逐渐发展为4.20.3版本，并在XFCE4-SETTINGS内的改进为4.20.2。对于多媒体功能，进步由GSTREAMER 1.26.5和更新的Harfbuzz 11.4.1驱动，而图形稳定性则通过MESA 25.1.7更新提高。这些升级旨在为用户提供更流畅的媒体和视觉体验。
+遵循这些增强功能，Linux内核6.16首次亮相，具有扩展的硬件支持，最著名的是集成了Raspberry Pi 5 RP1芯片组，从而扩大了设备的兼容性。作为此发行周期的一部分，Tumbleweed中的其他基本工具也收到了更新和改进。
+  href =“ https://alternativeto.net/software/opensuse/about/”&gt;更多有关OpenSuse ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/opensuse-tumbleweed-brings-new-features-performance-improvements-and-some-security-fixes/</guid>
+      <pubDate>Tue, 02 Sep 2025 14:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>图像编辑器GIMP 3.2越来越近，具有两个新功能：链接层和向量层</title>
+      <link>https://alternativeto.net/news/2025/9/image-editor-gimp-3-2-gets-closer-with-two-new-features-link-layers-and-vector-layers/</link>
+      <description><![CDATA[  gimp  3.1.4已发布为最新版本的免费和开源图像编辑器。此更新在引入两个GIMP 3.2路线图功能的早期实现方面很突出：链接层和向量层。链接层让用户将外部图像文件（例如SVGS）添加为项目中的图层。当这些链接的文件被用工具编辑时，例如 inkscape ，GIMP反映了实时的变化。用户还可以非破坏性地扩展或旋转链接层，保持原始图像质量完整。
+构建在此上，向量层允许您创建具有可自定义填充和中风属性的形状。您可以在无损的工作流程中修改矢量路径，调整颜色设置并应用转换而不会失去清晰度。这为使用栅格和矢量图形的人提供了更灵活的图层管理。
+除了这些标题功能外，新的GEGL过滤器浏览器还显示所有GEGL操作和过滤器使用详细信息，从而使滤波器发现更加容易。更新后的 mypaint 代码添加了版本2的刷子支持，允许刷子笔触响应帆布Zoom和旋转。进一步的改进包括增强文本工具的功能，扩展的HRZ插件支持，TIFF，JPEG 2000签名图像，非DXT PAA纹理，西雅图电影制品格式以及整体用户体验改进和错误修复。&gt; &gt;
+  href =“ https://alternativeto.net/software/gimp/about/”&gt;有关Gimp ＆nbsp; |＆nbsp; &lt;A href =“ https：//alternativeto.net/software/software/gimpp;]]></description>
+      <guid>https://alternativeto.net/news/2025/9/image-editor-gimp-3-2-gets-closer-with-two-new-features-link-layers-and-vector-layers/</guid>
+      <pubDate>Tue, 02 Sep 2025 12:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>Libby推出了“ Inspire Me”，这是一种新的AI工具，用于即时书籍建议</title>
       <link>https://alternativeto.net/news/2025/9/libby-launches-inspire-me--a-new-ai-tool-for-instant-book-recommendations/</link>
@@ -72,84 +148,6 @@
   href =“ https://alternativeto.net/software/software/software/bing-chat/about/”&gt;更多有关Microsoft copilot ＆nbsp; | |＆nbsp; |]]></description>
       <guid>https://alternativeto.net/news/2025/8/microsoft-launches-its-first-in-house-ai-models-mai-voice-1-and-mai-1-preview/</guid>
       <pubDate>Mon, 01 Sep 2025 09:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>葡萄酒10.14，具有IPv6 Ping支持，VKD3D 1.17，Mono Engine 10.2和19个错误修复</title>
-      <link>https://alternativeto.net/news/2025/8/wine-10-14-released-with-ipv6-ping-support-vkd3d-1-17-mono-engine-10-2-and-19-bug-fixes/</link>
-      <description><![CDATA[ 葡萄酒 10.14到达，对于在Linux，MacOS和BSD上运行Windows Applications的用户，有几个进步。此版本中的一个关键补充是使用Internet协议6（IPv6）的PING支持，从而扩大了环境之间的网络兼容性。更新还刷新了重要的核心组成部分：捆绑的VKD3D库现在在1.17版中，改进了Direct3d 12支持更好的图形渲染，而集成的 .net Framework 。
-遵循这些核心升级后，葡萄酒10.14解决了19个先前报道的错误，为影响一系列软件的问题提供了解决方案，包括诸如Phantasy Star Online之类的游戏：Blue Burst ，Spies   和 Roblox Studio 。这使依靠葡萄酒的用户受益于更流畅的游戏和应用程序经验。
-除了直接面向用户的变化外，开发过程还从改进的基础架构中受益。葡萄酒的 gitlab 现在在Debian Trixie, allowing for comprehensive automated testing on a wider variety of Linux environments.
-  href =“ https://alternativeto.net/software/wine/about/”&gt;有关葡萄酒的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/8/wine-10-14-released-with-ipv6-ping-support-vkd3d-1-17-mono-engine-10-2-and-19-bug-fixes/</guid>
-      <pubDate>Mon, 01 Sep 2025 07:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>HeidisQL 12.11.1.167 Linux Beta更新核心库并修复了错误</title>
-      <link>https://alternativeto.net/news/2025/9/heidisql-12-11-1-167-linux-beta-updates-core-libraries-and-fixes-bugs/</link>
-      <description><![CDATA[  heidisql  12.11.1.1.1.167 Linux Beta beta带来了先前应用于其Windows版本的更新。 Linux版本带有较新的升级到其核心库，包括 plink  to v0.83， sqlite  to v3.50.1。
-该版本还解决了几个错误，解决了日志记录，MariaDB用户管理的问题，并在数据和查询网格中对图标进行分类。
- 更多有关Heidisql ＆nbsp; | |＆nbsp; &lt;A href =“]]></description>
-      <guid>https://alternativeto.net/news/2025/9/heidisql-12-11-1-167-linux-beta-updates-core-libraries-and-fixes-bugs/</guid>
-      <pubDate>Mon, 01 Sep 2025 07:45:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>线程现在正在为所有用户使用格式选项测试长形帖子</title>
-      <link>https://alternativeto.net/news/2025/8/threads-is-now-testing-long-form-posts-with-formatting-options-for-all-users/</link>
-      <description><![CDATA[  threads 正在测试一个新的&#39;文本附件&#39;，该功能使用户使用户在500个字符的限制之外略微发行帖子，从传统的形式上发表帖子，并逐渐与传统的形式相关，需要多个需要多个序列的序列。与 x ，在长 - 富度帖子需要付费计划的情况下，显然，线程在测试过程中可用于更广泛的用户群。
-文本附件允许具有斜体，粗体和下划线的格式化块。它们出现在帖子中的灰色框中，可以通过“读取更多”按钮扩展内容。目前，仅支持纯文本，没有图像，媒体或链接，尽管Meta可能会根据用户反馈添加这些选项。
- Meta已确认测试，但尚未共享发布时间表。该功能作为一种分享广泛思想，新闻摘录，创意写作和类似内容的方式。
-  href =“ https://alternativeto.net/software/threads-from-instagram/about/”&gt;有关线程的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/8/threads-is-now-testing-long-form-posts-with-formatting-options-for-all-users/</guid>
-      <pubDate>Sun, 31 Aug 2025 15:59:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>拟人化现在将开始使用用户的聊天笔录来训练其AI模型</title>
-      <link>https://alternativeto.net/news/2025/8/anthropic-will-now-start-using-users-chat-transcripts-to-train-its-ai-models/</link>
-      <description><![CDATA[人类已宣布更改其消费者条款和隐私政策，带有来自Claude and coding sessions from Claude Code set to be used in AI model training unless individuals actively opt out.所有用户必须在2025年9月28日之前就此政策做出决定。单击“接受”授权立即使用此数据，并且保留率最多将延长五年。
-更改适用于消费者计划，包括Claude Free，Pro，Max和Claude代码，但仅适用于新的或恢复的聊天和编码会话。除非用户恢复，否则旧的对话将保持排除。希望选择退出的用户可以通过更改弹出提示中的适当切换或访问设置，然后进行隐私，然后进行隐私设置，然后选择“帮助改善Claude”来做到这一点。。
-用户选择退出后，尽管人为保留并继续使用任何先前贡献的数据，但仍将将未来的数据排除在培训之外。为了保护隐私，该公司声称使用自动化工具来过滤或混淆敏感信息。这些政策变化不会影响商业产品，例如Claude Gov或Claude的工作，也不会影响通过 Google Cloud Cloud Vertex ai 。
- 更多有关Claude ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/8/anthropic-will-now-start-using-users-chat-transcripts-to-train-its-ai-models/</guid>
-      <pubDate>Sun, 31 Aug 2025 15:40:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steam现在正在为英国用户执行年龄验证以访问成熟内容</title>
-      <link>https://alternativeto.net/news/2025/8/steam-is-now-enforcing-age-verification-for-users-in-the-uk-to-access-mature-content/</link>
-      <description><![CDATA[ Valve现在要求英国用户使用信用卡验证其年龄，以访问“成熟内容”。在 steam 上，与
-与Reddit或Discord等平台（使用自拍照进行年龄验证）不同，Valve选择了信用卡验证以维持隐私并阻止解决方法，因为只有18岁及以上的年龄在英国才能拥有一张信用卡。没有信用卡，用户将无法在Steam上访问成熟的内容。
-首先在英国的新法律，要求访问儿童的新法律，以保护儿童和访问儿童。 It&#39;s also worth noting that this change comes after Steam was recently forced to withdraw several mature games from its platform, allegedly due to pressure from credit card公司。
-  href =“ https://alternativeto.net/software/software/steam/about/”&gt;更多有关Steam ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/8/steam-is-now-enforcing-age-verification-for-users-in-the-uk-to-access-mature-content/</guid>
-      <pubDate>Sat, 30 Aug 2025 17:39:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>印度法院在出版商请求之后命令SCI-HUB，SCI-NET和LIBGEN的Internet块</title>
-      <link>https://alternativeto.net/news/2025/8/indian-court-orders-internet-block-of-sci-hub-sci-net-and-libgen-after-publisher-request/</link>
-      <description><![CDATA[ Elsevier，Wiley和美国化学学会已协调要求印度当局阻止访问 Sci-hub&gt; href =“ https://alternativeto.net/software/sci-net/about/”&gt; sci-net ，
-按照法院命令，印度用户现在只能达到 sci-hub 和类似的存储库，并使用CensorSorphip-Circumbirmistection技术。其中包括虚拟专用网络（VPN），例如 proton vpn 或 tor browser 提供另一种途径，尽管它可能需要为非Tech-Savvy用户提供其他配置工作。
-对新闻做出反应，Sci-Hub的创始人认为该街区是非法的，并且违反了人权和印度国家利益。该声明重点介绍，限制获得学术材料的机会可能会加强富裕，支持的机构与发展中国家的学术差异。 
- 更多有关Sci-Hub ＆nbsp; | |]]></description>
-      <guid>https://alternativeto.net/news/2025/8/indian-court-orders-internet-block-of-sci-hub-sci-net-and-libgen-after-publisher-request/</guid>
-      <pubDate>Sat, 30 Aug 2025 11:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bruno v2.10.0添加了GRPC，平行CLI CSV，散装标头编辑和持续的cookie</title>
-      <link>https://alternativeto.net/news/2025/8/bruno-v2-10-0-adds-grpc-parallel-cli-csv-bulk-header-editing-and-persistent-cookies/</link>
-      <description><![CDATA[  bruno  v2.10.0已发布，包括主要更新，包括对GRPC的一般性Beta支持，以及通过在Cli中使用Parallel CSV执行Cli for Clis for Faster Batch runs for Faster batch runs for grpc和更快的命令线。现在可以跨集合和文件夹提供批量标题编辑，而OAuth2获得了对额外参数的支持，并且已经修复了几个相关的错误。
- cookie现在一直在请求中持续存在，从而改善了多步测试中的会话处理。大型收藏来自更可靠的进口和支持大型BRU文件的支持。
-更新还使用清洁的顶部工具栏优化了UI，并在窗口上添加了全局快捷方式以进行缩放，最小化和关闭。您可以在View article on AlternativeTo »更多有关Bruno ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/8/bruno-v2-10-0-adds-grpc-parallel-cli-csv-bulk-header-editing-and-persistent-cookies/</guid>
-      <pubDate>Fri, 29 Aug 2025 19:22:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>TOR Project释放ARTI 1.5具有新的客户功能，中继后端工作和错误修复</title>
-      <link>https://alternativeto.net/news/2025/8/tor-project-releases-arti-1-5-with-new-client-features-relay-backend-work-and-bug-fixes/</link>
-      <description><![CDATA[  arti  1.5.0，Tor Project的最新版本 tor 实现，在几个重要的客户端功能上提供进度。该更新进展了反式洋葱加密的开发，通过Conflux功能改善了路径选择，并引入了流动控制，拥塞控制和洋葱服务工作证明的增强功能。这些更新旨在增强下一代用户的隐私，性能和服务可靠性 tor  inasimentation。
-除了客户端的改进外，此版本还包括大量的后端工作，以使ARTI更接近支持继电器功能。继电器支持是Arti的未来基础，这是一个完整的TOR实施。在可靠性方面，ARTI 1.5.0减轻了一个长期存在的问题，该问题可以阻止客户完成引导程序。解决此错误直接改善了新用户和现有用户的初始连接体验。
-按照TOR项目的最低支持的Rust版本政策，ARTI 1.5.0现在需要Rust 1.85或更新。此更新符合上游要求，并影响贡献者和建立环境。这些更改通过各种增强功能和其他错误修复，进一步稳定了代码库。。
- 有关arti ＆nbsp; |＆nbsp; &lt;a href =“ https：//alternativeto.net/software/artiwaware/arti/]]></description>
-      <guid>https://alternativeto.net/news/2025/8/tor-project-releases-arti-1-5-with-new-client-features-relay-backend-work-and-bug-fixes/</guid>
-      <pubDate>Fri, 29 Aug 2025 19:05:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
