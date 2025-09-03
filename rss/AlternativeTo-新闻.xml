@@ -4,7 +4,36 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Wed, 03 Sep 2025 01:19:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Sep 2025 12:39:28 GMT</lastBuildDate>
+    <item>
+      <title>Mistral AI在LE聊天中引入了对MCP连接器的支持和新的回忆功能</title>
+      <link>https://alternativeto.net/news/2025/9/mistral-ai-introduces-support-for-mcp-connectors-and-new-memories-feature-in-le-chat/</link>
+      <description><![CDATA[ Mistral AI已经扩展了 le Chat 具有20多个安全的，MCP-POWER的连接器，使用户能够搜索，总结和采取范围内的Enterprise工具，包括 databricks ， github ， asana ， box ， Zapier 等等。新连接器目录将直接管道提供到这些工具中，将LE聊天转换为一个统一的界面，用于管理数据，文档和工作流程。
+除了使用广泛使用的平台的连接器外，用户现在还可以连接 le Chat 即使未在连接器目录中列出了他们选择的任何远程MCP服务器，即使它未列出。这种灵活性使组织可以查询，交叉引用，并在其技术堆栈中的任何工具上运行。遵循这些集成增强功能，重新设计的连接器目录简化了可用服务的发现和使用。
+ Mistral AI也在Beta中引入记忆。回忆允许 le Chat    在对话，检索相关的见解，决策，决策和参考文献中维护上下文中的上下文。该基础带来了反映每个用户的特定需求的更准确的回答，自适应建议和答案。现在，完整的连接器和记忆功能现在都可以 le Chat 用户，包括免费计划中的用户。
+ 更多有关Misstral le Chat  |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/mistral-ai-introduces-support-for-mcp-connectors-and-new-memories-feature-in-le-chat/</guid>
+      <pubDate>Wed, 03 Sep 2025 11:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用新应用创建工具，扩展的浏览器支持以及更多</title>
+      <link>https://alternativeto.net/news/2025/9/coherence-x5-released-with-new-app-creation-tool-expanded-browser-support-and-more/</link>
+      <description><![CDATA[ bzg已发布 COHERENCE x5 ，向其MacOS应用程序提供了用于将网站转换为 Chrome 基于浏览器。标题添加是为MacOS 26和液体玻璃设计的全新创建工具，而扩展的支持现在涵盖 chromium  href =“ https://alternativeto.net/software/ungoogled-chromium/about/”&gt; Ungoogled Chromium 浏览器。值得注意的是，重新设计的连贯扩展旨在使镀铬的应用程序的行为比以前更加本地化。
+遵循这些核心升级，连贯X5可增强现代便利的日常使用。用户获得智能应用程序命名，现代图标自定义，更快的设置流，快速简历功能和更智能的库的选项，以管理MacOS上创建的网站特定浏览器。该更新还带来了暗模式支持，保存重用的设置，链接转发规则，标签修复，全新的设置面板以及创建应用程序接收自动更新的能力。许多错误修复和生活质量的改进进一步完善了体验。
+虽然当前用户从这些增强功能中受益，但是连贯X4升级的用户可以在有限的时间内以特殊价格访问连贯性X5。
+  href =“ https://alternativeto.net/software/coherence/about/”&gt;更多有关COHERENCE x  |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/coherence-x5-released-with-new-app-creation-tool-expanded-browser-support-and-more/</guid>
+      <pubDate>Wed, 03 Sep 2025 07:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mixxx 2.5.3带来了Kalman-Filter和新修复程序的改进的DV</title>
+      <link>https://alternativeto.net/news/2025/9/mixxx-2-5-3-brings-improved-dvs-with-kalman-filter-and-new-fixes/</link>
+      <description><![CDATA[Mixxx 2.5.3 is now available, featuring a major Digital Vinyl System (DVS) update that replaces the Alpha-Beta filter with a Kalman-Filter equivalent for more accurate playback, smoother scratching, pitch control, and backspins.
+增强的信号检查进一步提高了响应能力，而其他修复程序可解决用户报告的问题并提高整体稳定性。
+  href =“ https://alternativeto.net/software/mixxx/about/”&gt;更多有关mixxx ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/mixxx-2-5-3-brings-improved-dvs-with-kalman-filter-and-new-fixes/</guid>
+      <pubDate>Wed, 03 Sep 2025 07:48:27 GMT</pubDate>
+    </item>
     <item>
       <title>判断Google不必出售Chrome或Android的规则，但必须共享搜索数据</title>
       <link>https://alternativeto.net/news/2025/9/judge-rules-that-google-won-t-have-to-sell-chrome-or-android-but-must-share-search-data/</link>
@@ -118,36 +147,6 @@
   externativeto＆raquo＆raquo;  href =“ https://alternativeto.net/software/tiktok/about/”&gt;更多有关tiktok ＆nbsp; | |]]></description>
       <guid>https://alternativeto.net/news/2025/9/tiktok-adds-voice-notes-and-expanded-media-sharing-to-direct-messages/</guid>
       <pubDate>Mon, 01 Sep 2025 14:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux Lite 7.6与新的社区Wiki，Libreoffice 25.8，错误修复等</title>
-      <link>https://alternativeto.net/news/2025/8/linux-lite-7-6-released-with-new-community-wiki-libreoffice-25-8-bug-fixes-and-more/</link>
-      <description><![CDATA[  linux lite  7.6已作为此轻质Linux发行版的次要更新发布，重点是长期支持补丁，错误修复，错误修复和接口调整。该版本建立在Ubuntu 24.04.3 LTS上，并采用Linux 6.8内核，为系统稳定性和兼容性提供了最新的基础。 As part of this update, essential applications have received new versions — users will find Chrome 139, Thunderbird 128, LibreOffice 25.8 ，VLC 3.0.20和GIMP 2.10.36预安装。
-除了系统改进外，Linux Lite 7.6引入了一个全新的Wiki平台，用于文档。此开放Wiki旨在促进更快的更新，更清晰的指导和更容易获取信息，同时欢迎社区的贡献。随着此文档更改后，桌面环境继续以 seratia 窗口主题， papirus 图标和 roboto juroma juarlder 作为默认字体。
-这些桌面功能辅以对内部工具的更新，例如Lite Welcome，Lite升级和LITE主题，每个主题都提供可用性调整以获得更顺畅的体验。
- 更多有关Linux Lite ＆nbsp; | |]]></description>
-      <guid>https://alternativeto.net/news/2025/8/linux-lite-7-6-released-with-new-community-wiki-libreoffice-25-8-bug-fixes-and-more/</guid>
-      <pubDate>Mon, 01 Sep 2025 12:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>照片和视频管理平台Immich 1.140添加了背景同步，仅阅读模式及更多</title>
-      <link>https://alternativeto.net/news/2025/8/photo-and-video-management-platform-immich-1-140-adds-background-sync-read-only-mode-and-more/</link>
-      <description><![CDATA[  immich  1.140现在可用，向此开源源，自我霍斯特的照片和视频管理平台的用户提供新功能。该更新在Beta时间轴中引入了背景同步功能，该功能自动检测到新媒体并将其置于操作系统管理的上传队列中。本地和远程数据同步现在定期在后台发生，确保新拍摄的照片和视频在启动时的时间表上立即出现。
-遵循这些工作流程的改进，添加了仅阅读模式以帮助防止意外删除或编辑 - 对父母或任何与他人共享设备的人有用。通过双击配置文件图片，隐藏所有操作按钮，可以激活此模式，因此只能查看资产。
-对于重视精确组织的用户，此版本可以找到并编辑与特定日期关联的丢失位置数据。除了这些主要功能外，Immich 1.140还包含进一步的增强功能，并且错误修复了针对稳定性和性能的错误。
-  href =“ https://alternativeto.net/software/immich/about/”&gt;更多有关Immich ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/8/photo-and-video-management-platform-immich-1-140-adds-background-sync-read-only-mode-and-more/</guid>
-      <pubDate>Mon, 01 Sep 2025 11:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft推出了其第一个内部AI模型：Mai-Voice-1和Mai-1-preview</title>
-      <link>https://alternativeto.net/news/2025/8/microsoft-launches-its-first-in-house-ai-models-mai-voice-1-and-mai-1-preview/</link>
-      <description><![CDATA[ Microsoft发布了两种内部AI模型，扩大了其在消费者和企业上下文的AI功能。  mai-voice-1 是它的第一个高度表现力和自然语音生成模型，现在可以在 copilot 每日报纸，作为Copilot Labs经验的一部分。该模型在单个和多演讲者的场景中提供了高保真，表现力的音频。它以其速度脱颖而出，在单个GPU上不到一秒钟就产生了最多一分钟的音频，使其成为当前提供的最快系统之一。
-此外，微软还引入了 mai-1-preview ，这是其第一个端到端基础模型。它被设计为专家体系结构的混合物，并在大约15,000个NVIDIA H100 GPU上进行了预培训和训练。这些技术投资预览 copilot ，旨在处理多样化的用户说明和每日信息请求。。
-展望未来，微软表示其目的是协调一套专门的AI型号。这种战略重点旨在通过匹配各种用户需求和用例来解锁更广泛的价值。该公司表明了在人工智能开发方面进一步发展的强烈野心。
-  href =“ https://alternativeto.net/software/software/software/bing-chat/about/”&gt;更多有关Microsoft copilot ＆nbsp; | |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/8/microsoft-launches-its-first-in-house-ai-models-mai-voice-1-and-mai-1-preview/</guid>
-      <pubDate>Mon, 01 Sep 2025 09:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
