@@ -4,7 +4,43 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Mon, 08 Sep 2025 01:26:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Sep 2025 12:40:21 GMT</lastBuildDate>
+    <item>
+      <title>Mozilla再次扩展了对Windows 7/8的Firefox支持，并结束32位Linux构建</title>
+      <link>https://alternativeto.net/news/2025/9/mozilla-extends-firefox-support-for-windows-7-8-once-again-and-ends-32-bit-linux-builds/</link>
+      <description><![CDATA[ Mozilla宣布了 firefox esr  115用户在 Windows 8 和Windows 8.1。此前，支持计划于2024年9月结束，但现在将持续到2026年3月。此举使这些传统Windows操作系统的用户可以安全地使用 Firefox 尽管有官方的Endosoft firseffife firfife firdended offiend firefox 
+在针对Linux的相关移动中，Mozilla将使用Firefox 145的释放停止对32位Linux系统的支持，因为大多数Linux分布不再保持32位的兼容性。虽然Firefox 145将无法用于32位Linux，但无法立即升级的用户可以继续使用 Fireffox ESR 在其系统上140。 ESR 140，包括其32位构建，至少在2026年9月之前将获得安全更新。Mozilla鼓励所有仍在32位Linux平台上的用户过渡到64位系统，并转移到相应的64位Firefox，以继续访问新功能和安全修复。
+  href =“ https://alternativeto.net/software/firefox/about/”&gt;更多有关Mozilla Firefox ＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/mozilla-extends-firefox-support-for-windows-7-8-once-again-and-ends-32-bit-linux-builds/</guid>
+      <pubDate>Mon, 08 Sep 2025 11:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nova Launcher随着创始人出发和开源计划被取消而关闭</title>
+      <link>https://alternativeto.net/news/2025/9/nova-launcher-is-shutting-down-as-founder-departs-and-open-source-plans-are-canceled/</link>
+      <description><![CDATA[  nova Launcher 是Android的最广泛使用的可自定义的主屏幕启动器之一，正在停产。尽管以前的内部努力和公众承诺将开源该项目，但此举仍在进行。关闭是由 Kevin Barry的离开 Nova的原始创始人和过去一年的独家开发人员，他宣布他已经离开了分支，并且不再参与该应用程序。
+尽管巴里一直在准备代码库并与法律团队进行协调以发布Nova发射器作为开源，但分支领导人最终还是停止了这一过程，尽管承诺如果他离开了，则将代码交付给社区。这种逆转使许多希望在Nova中取得社区驱动的未来的用户感到失望。
+分支机构于2022年收购了Nova发射器，当时的首席执行官Alex Austin已公开保证开源计划和持续的支持。自2011年推出以来，Nova在Google Play商店中下载了超过1亿个下载。在这些事态发展之后，长期的粉丝已经开始了一个更改的请愿书，以抗议关闭已经收集了超过1,500 cysaters的关闭。目前，Nova Launcher仍可以下载，但是用户应该期望该应用程序逐渐变得过时，并且可能不会在没有更新或开源版本的情况下面临问题。值得庆幸的是，可行的替代方案。
+  href =“ https://alternativeto.net/software/nova-launcher/about/”&gt;有关Nova Launcher ＆nbsp; |＆nbsp; &lt;A href =“]]></description>
+      <guid>https://alternativeto.net/news/2025/9/nova-launcher-is-shutting-down-as-founder-departs-and-open-source-plans-are-canceled/</guid>
+      <pubDate>Mon, 08 Sep 2025 08:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Geekbench AI 1.5更新在运行时，并增强了手臂支持的窗口</title>
+      <link>https://alternativeto.net/news/2025/9/geekbench-ai-1-5-updates-onnx-runtime-and-enhances-windows-on-arm-support/</link>
+      <description><![CDATA[  geekbench ai  1.5 1.5向ONX Runtime 1.22.2升级了ARM的Windows 1.22.2 ARM上的Windows 1.22.2，可更好地与新的AI AI Hardware相机。与以前的版本相比，ARM设备的Windows的基准结果可能更高，并且与Geekbench AI 1.4分数不直接相当。。
+ 更多有关GeekBench AI ＆nbsp; | |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/geekbench-ai-1-5-updates-onnx-runtime-and-enhances-windows-on-arm-support/</guid>
+      <pubDate>Mon, 08 Sep 2025 07:34:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Geekbench 6.5在手臂和稳定性修复的窗户上引入了中小企业支持</title>
+      <link>https://alternativeto.net/news/2025/9/geekbench-6-5-introduces-sme-support-on-windows-on-arm-and-stability-fixes/</link>
+      <description><![CDATA[  geekbench  6.5 6.5引入了对手臂上窗口上的可扩展矩阵扩展的支持，从而提高了新CPU的兼容性和性能。该更新还可以解决在Android和iOS上查看基准结果时经历的崩溃。
+基准分数与以前的6.3和6.4版本保持一致。
+ 更多关于GeekBench的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/9/geekbench-6-5-introduces-sme-support-on-windows-on-arm-and-stability-fixes/</guid>
+      <pubDate>Mon, 08 Sep 2025 07:24:07 GMT</pubDate>
+    </item>
     <item>
       <title>KDE发布了其第一个官方KDE Linux发行的Alpha进行公共测试</title>
       <link>https://alternativeto.net/news/2025/9/kde-releases-alpha-of-its-first-official-kde-linux-distribution-for-public-testing/</link>
@@ -28,7 +64,7 @@
       <title>Netflix添加了带有共享和起始控件的移动突出显示剪辑</title>
       <link>https://alternativeto.net/news/2025/9/netflix-adds-mobile-highlight-clips-with-sharing-and-start-end-controls/</link>
       <description><![CDATA[  netflix 已在其移动应用程序中添加了一个新功能，使用户可以从节目和电影中创建突出显示的剪辑。现在，观众可以选择一个起点和终点，仅保存所需的确切段，而不是整个场景。这是基于去年的书签选项的，该选项仅允许在不停止播放的情况下标记一个位置。
-要制作剪辑，用户点击播放栏下的“剪辑”按钮，然后调整段开始和结束的位置。最终的剪辑保存到用户的帐户中，比书签比长度更大的控制权。
+要制作剪辑，用户点击播放栏下的“剪辑”按钮，然后调整段开始和结束的位置。完成的剪辑保存到用户的帐户中，比书签提供更多的控制权。
 ，该公司表示，与其启用完整下载，不如将剪辑设计为轻巧的短形式的亮点，使其在社交参与和重复观看方面具有实用性，类似于 twitch&gt; twitch&gt; twitch  clips。它们也可以在Instagram或WhatsApp等第三方社交媒体应用程序上共享。
  查看文章href =“ https://alternativeto.net/software/netflix/about/”&gt;更多有关Netflix ＆nbsp; | |＆nbsp; &lt;A href =“ https://alternatativeto.net/software/netware/netflix/]]></description>
       <guid>https://alternativeto.net/news/2025/9/netflix-adds-mobile-highlight-clips-with-sharing-and-start-end-controls/</guid>
@@ -57,7 +93,7 @@
       <link>https://alternativeto.net/news/2025/9/discord-introduces-custom-theme-support/</link>
       <description><![CDATA[  Discord 已为Nitro订户启动了自定义主题，使用户可以选择多达五种颜色并将梯度应用于客户。该功能将在接下来的几天内向所有用户推出。
 用户应刷新其Discord客户端以访问自定义主题。 
- 有关交替的文章href =“ https://alternativeto.net/software/discord-app/about/”&gt;更多有关Discord ＆nbsp; | |＆nbsp; &lt;A href =“ https://alternatativeto.net/software/software/software/discord-app-app/]]></description>
+ 有关交替的文章href =“ https://alternativeto.net/software/discord-app/about/”&gt;更多有关Discord ＆nbsp; | |＆nbsp; &lt;A href =“ https://alternatativeto.net/software/software/software/discord-app-parkopord-comport-]]></description>
       <guid>https://alternativeto.net/news/2025/9/discord-introduces-custom-theme-support/</guid>
       <pubDate>Fri, 05 Sep 2025 15:33:21 GMT</pubDate>
     </item>
@@ -109,43 +145,6 @@ View article on AlternativeTo »有关Kagi的更多信息总结＆nbsp; | |＆nb
  查看文章href =“ https://alternativeto.net/software/todoist/about/”&gt;更多关于todoist ＆nbsp; | |＆nbsp; &lt;a href =“ https://alternatativeto.net/alternativeto.net/software/software/todoist/todoist/]]></description>
       <guid>https://alternativeto.net/news/2025/9/todoist-for-wear-os-gets-redesign-with-material-3-and-smoother-ui/</guid>
       <pubDate>Thu, 04 Sep 2025 18:23:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>在没有代码更改的情况下，Repeit启动计划模式用于AI辅助计划</title>
-      <link>https://alternativeto.net/news/2025/9/replit-launches-plan-mode-for-ai-assisted-planning-without-code-changes/</link>
-      <description><![CDATA[  replagit 已经启动了Plan Mode，Plan Mode是一个AI-Power的工作空间，旨在通过允许用户在非毁灭性环境中协作来增强构想和项目计划。这种新模式为结构化头脑风暴，任务概述和建筑讨论提供了专门的空间，以确保在早期计划阶段对您的代码库或数据没有任何更改。
-在此基础上构建计划模式，使用户可以创建任务列表，探索不同的项目方法并参与AI引导的功能计划。工作空间支持战略指导，并在计划阶段结束后，可以进行无缝的过渡以进行编码实施。在整个过程中，您的项目的完整性得到了维护，因为直到您明确启动它们之前，都不会发生实际的代码修改。
-在计划模式下操作时，代理的能力是为了安全探索而定制的。它阻止了更改代码或触发构建，但保留了检查存储库，搜索文档和回答上下文感知问题的能力。当相关时，代理商将提出功能计划，您可以通过选择“开始构建”来开始构建。计划模式加入构建模式（现在为默认模式）和编辑模式，以填补Replit的协作开发工作流程。
- 查看文章href =“ https://alternativeto.net/software/repl-it/about/”&gt;有关REPLIT ＆nbsp; |＆nbsp; &lt;A href =“ https：//alternativeto.net/software/software/repl-it/”]]></description>
-      <guid>https://alternativeto.net/news/2025/9/replit-launches-plan-mode-for-ai-assisted-planning-without-code-changes/</guid>
-      <pubDate>Thu, 04 Sep 2025 15:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bruno启动VS代码扩展名，用于IN内API测试和管理</title>
-      <link>https://alternativeto.net/news/2025/9/bruno-launches-vs-code-extension-for-in-ide-api-testing-and-management/</link>
-      <description><![CDATA[Bruno has released a new extension for Visual Studio Code, allowing users to develop and test APIs directly within the IDE。该扩展程序启用打开.bru文件，发送API请求以及管理集合和环境，而无需离开Visual Studio代码。用户可以访问现有集合或快速创建临时请求以简化其工作流程。
- 在交流中的文章href =“ https://alternativeto.net/software/bruno/about/”&gt;更多有关Bruno ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/bruno-launches-vs-code-extension-for-in-ide-api-testing-and-management/</guid>
-      <pubDate>Thu, 04 Sep 2025 15:14:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Atlassian收购了Arc和Dia Ai-Power浏览器的浏览器公司</title>
-      <link>https://alternativeto.net/news/2025/9/atlassian-acquires-the-browser-company-creator-of-the-arc-and-dia-ai-powered-browsers/</link>
-      <description><![CDATA[ Atlassian宣布收购浏览器公司，该公司现在停产的开发人员 dia ，一笔6.1亿美元的全卡什交易。这家浏览器公司将保持独立在Atlassian的范围内，并完全指向DIA，该资源。
- Atlassian首席执行官Mike Cannon-Brookes将浏览器描述为AI时代知识工作的中心工具，并计划将DIA的能力与公司的其他产品联系起来，例如 trello 。联合创始人乔什·米勒（Josh Miller）和赫尔什·阿格拉瓦尔（Hursh Agrawal）将继续担任首席执行官和CTO，确保领导力连续性，同时加速DIA在平台上的推出。该协议保证了独立性的运营独立性，整个团队的工作保障，以及将DIA愿景保持在中心的承诺。
-米勒强调，与Atlassian的伙伴关系将允许更快的招聘和开发，同时扩大平台支持。预计该交易将在2026财政年度的第二季度完成。
-View article on AlternativeTo »更多关于Dia浏览器的信息]]></description>
-      <guid>https://alternativeto.net/news/2025/9/atlassian-acquires-the-browser-company-creator-of-the-arc-and-dia-ai-powered-browsers/</guid>
-      <pubDate>Thu, 04 Sep 2025 15:14:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>CHATGPT项目现在可供免费用户提供更多文件上传</title>
-      <link>https://alternativeto.net/news/2025/9/chatgpt-projects-now-available-to-free-users-with-more-file-uploads/</link>
-      <description><![CDATA[  chatggpt 现在可以访问免费用户的项目功能，从而将访问扩展到超越付费计划。文件上传限制每个项目的限制有所增加，现在免费用户可以上传多达五个文件和更高的付费层限制。用户还可以自定义具有颜色和图标选择的项目，并为每个项目管理内存控件。
-该更新已在网络和Android上进行，iOS支持很快就会推出。
- 查看文章href =“ https://alternativeto.net/software/chatgpt/about/”&gt;更多关于chatgpt ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/chatgpt-projects-now-available-to-free-users-with-more-file-uploads/</guid>
-      <pubDate>Thu, 04 Sep 2025 15:04:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
