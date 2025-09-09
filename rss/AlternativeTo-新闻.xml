@@ -4,7 +4,47 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Tue, 09 Sep 2025 01:24:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Sep 2025 12:41:44 GMT</lastBuildDate>
+    <item>
+      <title>PLEX提醒用户在新数据泄露后重置密码</title>
+      <link>https://alternativeto.net/news/2025/9/plex-alerts-users-to-reset-their-passwords-following-a-new-data-breach/</link>
+      <description><![CDATA[  plex 已通知其用户最近的安全事件，该事件可能损害了帐户信息。根据正式披露，未经授权的第三方访问了有限的客户数据子集，包括电子邮件，用户名和哈希广告密码。虽然该公司尚未确切透露有多少帐户的影响或有关攻击者方法的详细信息，但它确认违规已包含。
+事件发生后，PLEX建议所有用户建议重置密码并打开两factor身份验证以进行额外的帐户保护。该公司强调，所有潜在的暴露密码都牢固地悬浮，因此很难让外部人员阅读。但是，PLEX认为更新密码是维护所有用户安全标准的关键步骤。
+ 这种违规行为遵循在8月20222222222222222222222222222222222222 的情况下。密码。该公司的当前指导反映了此前活动中先前给出的建议。
+ 更多有关plex ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/plex-alerts-users-to-reset-their-passwords-following-a-new-data-breach/</guid>
+      <pubDate>Tue, 09 Sep 2025 11:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adobe将于9月30日退休首映并为iPhone和iPad启动新的首映应用</title>
+      <link>https://alternativeto.net/news/2025/9/adobe-to-retire-premiere-rush-and-launch-new-premiere-app-for-iphone-and-ipad-on-sept-30/</link>
+      <description><![CDATA[ Adob​​e设置为中断 Premiere rush ，其精简视频编辑器for Desktop，ios和ios和Android用户。作为回应，该公司将引入新的 Premiere  iPhone和iPad的应用程序，该应用程序计划于2025年9月30日启动，以供Premiere Premiere Rush On Mobile On Mobile启动。一旦新应用程序可用，旧的Premiere Rush应用程序将不再可供下载，尽管客户可能会继续使用已经安装的副本，直到2026年9月30日进行最终停用。
+通过此更改，用户将在iPhone和iPad上访问独立的免费视频编辑应用程序。新的移动首映将通过 Firefly ，用户可以通过生成信贷访问或包含 href =“ https://alternativeto.net/software/adobe-creative-suite/about/”&gt; Creative Cloud 订阅。在工作流程集成的基础上，更新的Premiere应用程序将允许创建者开始编辑iOS上的项目，然后无缝移动到&lt;这些更新集中在iPhone和iPad上，但Adobe尚未发布针对Android的新Premiere应用程序。取而代之的是， Android用户现在可以预先进行即将到来的beta ，向未来的支持发出信号。 
+ 有关Adobe Premiere Pro ＆nbsp; | |替代方案 ]]></description>
+      <guid>https://alternativeto.net/news/2025/9/adobe-to-retire-premiere-rush-and-launch-new-premiere-app-for-iphone-and-ipad-on-sept-30/</guid>
+      <pubDate>Tue, 09 Sep 2025 09:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Immich 1.141改善了Beta时间轴，添加了类似的照片搜索和Digitalocean部署</title>
+      <link>https://alternativeto.net/news/2025/9/immich-1-141-improves-beta-timeline-adds-similar-photo-search-and-digitalocean-deployment/</link>
+      <description><![CDATA[  immich 现在可用，为这个自我组合的开源平台带来了新功能和改进，用于照片和视频管理。出色的更新是在Beta时间轴中将自动添加资产上传到专辑功能的返回。现在，选择用于备份的专辑直接链接到其服务器对应物，或者如果不存在，则会创建新的专辑。所有上传资产都会自动放置在相应的链接相册，即精简组织中。
+在Web界面上，用户在查看资产时从视觉或上下文类似的照片和视频中搜索的新选项中受益。此功能利用剪贴画技术来识别具有相关风景或内容的图像，增强浏览和发现。
+对于那些有兴趣在不部署自己的基础架构的情况下测试Immich的人，该项目现在提供了一个直接的部署选项，该选项 digitalocean 。此设置在默认最小的POD大小上启动了一个IMMICH实例，其中包含的反向代理管理运输层安全性（TLS）。
+除了这些关键更改外，Immich 1.141还带来了一系列进一步的增强和旨在完善稳定性和整体用户体验的著名错误修复。
+ 更多有关Immich ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/immich-1-141-improves-beta-timeline-adds-similar-photo-search-and-digitalocean-deployment/</guid>
+      <pubDate>Tue, 09 Sep 2025 07:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google Notebooklm添加了用于音频概述的抽认卡，测验和新格式</title>
+      <link>https://alternativeto.net/news/2025/9/google-notebooklm-adds-flashcards-quizzes-and-new-formats-for-audio-overviews/</link>
+      <description><![CDATA[ Google最近在 NoteBookLM 中添加了几种新工具。学生和教育工作者现在可以生成 flashcards 和 Quizzes&gt; quizzes&gt; quizzes 从讲座，研究纸，或报告中，可以选择链接，或者分享链接，或者与其他报道进行分享。两种格式都包含一个解释功能，该功能提供了引用支持的概述以澄清概念或正确的错误。
+更新还介绍了重新设计的报告 具有基于主题或行业的博客文章格式和动态建议。用户可以创建词汇表，解释器，角色分析，评论或自定义模板。一项新的学习指南像导师一样工作，使用开放式的问题和自适应解释来逐步分解材料。该平台现在还包括由OpenStax同行评审的教科书构建的公共笔记本，例如生物学，化学和商业。。
+ 获得新的音调，包括简短，批评和辩论格式，提供了有关材料的不同观点。教育工作者可以通过 gemini lti ，带有
+  href =“ https://alternativeto.net/software/notebook-lm/about/”&gt;有关Notebooklm  |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/google-notebooklm-adds-flashcards-quizzes-and-new-formats-for-audio-overviews/</guid>
+      <pubDate>Tue, 09 Sep 2025 05:51:59 GMT</pubDate>
+    </item>
     <item>
       <title>Devonthink 4.1添加了生成的AI集成，高级脚本，数学支持</title>
       <link>https://alternativeto.net/news/2025/9/devonthink-4-1-adds-generative-ai-integration-advanced-scripting-math-support/</link>
@@ -107,43 +147,6 @@
  有关Raycast的更多信息]]></description>
       <guid>https://alternativeto.net/news/2025/9/notes-widget-for-quick-notes-and-fast-access-now-available-in-raycast-for-ios/</guid>
       <pubDate>Fri, 05 Sep 2025 15:46:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>口径8.10版本：可配置的书籍列表工具提示和MTP有声读物控件</title>
-      <link>https://alternativeto.net/news/2025/9/calibre-8-10-release-configurable-book-list-tooltips-and-mtp-audiobook-controls/</link>
-      <description><![CDATA[  caliber  8.10添加了使用模板使用模板为图书列表中每个列定义自定义工具的功能，从而使库管理更加灵活。 MTP驱动程序现在可以为有声读物创建特定格式的目的地，用户可以在首选项中通过键组合或命令名称搜索快捷方式。
-此版本中还包括一些错误修复和源改进。
- 更多有关Caliber ＆nbsp; |＆nbsp; &lt;A href =“ https：//alternatativeto.net/software/software/software/calibre/]]></description>
-      <guid>https://alternativeto.net/news/2025/9/calibre-8-10-release-configurable-book-list-tooltips-and-mtp-audiobook-controls/</guid>
-      <pubDate>Fri, 05 Sep 2025 15:43:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Discord介绍自定义主题支持</title>
-      <link>https://alternativeto.net/news/2025/9/discord-introduces-custom-theme-support/</link>
-      <description><![CDATA[  Discord 已为Nitro订户启动了自定义主题，使用户可以选择多达五种颜色并将梯度应用于客户。该功能将在接下来的几天内向所有用户推出。
-用户应刷新其Discord客户端以访问自定义主题。 
- 有关交替的文章href =“ https://alternativeto.net/software/discord-app/about/”&gt;更多有关Discord ＆nbsp; | |＆nbsp; &lt;A href =“ https://alternatativeto.net/software/software/software/discord-app-app/]]></description>
-      <guid>https://alternativeto.net/news/2025/9/discord-introduces-custom-theme-support/</guid>
-      <pubDate>Fri, 05 Sep 2025 15:33:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Openai介绍了Chatgpt的对话分支</title>
-      <link>https://alternativeto.net/news/2025/9/openai-introduces-conversation-branching-in-chatgpt/</link>
-      <description><![CDATA[ OpenAi在 chatgpt ，让用户在保留原始线程的同时探索不同的对话路径。该功能现在可以在网上登录用户。
- 查看文章href =“ https://alternativeto.net/software/chatgpt/about/”&gt;更多关于chatgpt ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/openai-introduces-conversation-branching-in-chatgpt/</guid>
-      <pubDate>Fri, 05 Sep 2025 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>DuckDuckgo在其订阅计划中增加了对GPT-5，Claude 4和其他AI模型的访问权限</title>
-      <link>https://alternativeto.net/news/2025/9/duckduckgo-adds-access-to-gpt-5-claude-4-and-other-ai-models-to-its-subscription-plan/</link>
-      <description><![CDATA[  duckduckgo 已扩大了其付费订阅（以前称为隐私权），其中包括来自高级人工智能模型的高级人工智能模型，例如Openai，OpenAi，Anthopic，Anthropic，Anthropic＆Meta。通过 duck.ai 平台，订阅者现在可以使用AI工具，包括OpenAI的GPT-4O和GPT-5和GPT-5，Anthropic的Claude sonnet 4，和Meta llama llama。
-订阅价格保持不变。用户继续每月支付$ 9.99或每年$ 99。除了新的AI产品外，该订阅仍然可以访问DuckDuckgo的虚拟专用网络（VPN），个人信息删除和身份盗窃修复服务。
-在引入这些升级时，DuckDuckgo表示将来有更高订阅层的计划。这些即将到来的选项有望授予对更强大的AI模型的访问。
-喜欢非AI经验的用户保留对其设置的控制权。  duck.ai 无论订阅状态如何，所有人的功能仍然是可选的。 AI按钮和相关功能也可以直接隐藏在搜索设置中，以及 on Desktop和Mobile浏览器。
-  href =“ https://alternativeto.net/software/duckduckgo-go-ai-chat/about/”&gt;更多有关DuckDuckgo ai Chat ＆nbsp; |替代方案 ]]></description>
-      <guid>https://alternativeto.net/news/2025/9/duckduckgo-adds-access-to-gpt-5-claude-4-and-other-ai-models-to-its-subscription-plan/</guid>
-      <pubDate>Fri, 05 Sep 2025 12:40:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
