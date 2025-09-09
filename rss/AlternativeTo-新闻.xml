@@ -4,7 +4,36 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Mon, 08 Sep 2025 12:40:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Sep 2025 01:24:26 GMT</lastBuildDate>
+    <item>
+      <title>Devonthink 4.1添加了生成的AI集成，高级脚本，数学支持</title>
+      <link>https://alternativeto.net/news/2025/9/devonthink-4-1-adds-generative-ai-integration-advanced-scripting-math-support/</link>
+      <description><![CDATA[  devonthink 已发布了第一个功能版本，用于Devonthink 4.1 Europa，介绍了扩展的Ai I Intepted Ai I Intepted Ai ai Inteprative a Sprivative ai Integration a Server of Server Models  OpenRouter 或任何OpenAi-Compatible提供商，包括亚马逊，Meta，Microsoft，Microsoft，Xai，Xai，Baidu，Moonshot AI和Qwen和Qwen。它还增加了对 claude 4.1 opus 的本机支持href =“ https://alternativeto.net/software/chatgpt/about/”&gt; Openai gpt-5 ， Mistral 型号，再加上连接机构该更新带来了AI驱动的脚本助手，该脚本助手生成了AppleScript和JavaScript进行自动化的自动化，并为生成和导入的图像进行了扩展的AI映像编辑。现在在本地计算了数学功能和常数，并且学术用户受益于直接检索的生成访问 Cornell University的Arxiv Reposority 。在MacOS红杉和后来，新的快速外观扩展可以预览 spotlight 结果。
+其他增强功能包括更快地编辑大型降价文档，更新和排序列表时的性能提高，以及一个更快的空白过程。
+  thor northativeto＆rquo＆rquo＆rquo; href =“ https://alternativeto.net/software/devonthink/about/”&gt;更多有关Devonthink ]]></description>
+      <guid>https://alternativeto.net/news/2025/9/devonthink-4-1-adds-generative-ai-integration-advanced-scripting-math-support/</guid>
+      <pubDate>Tue, 09 Sep 2025 00:39:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>信号引入了跨设备的加密消息历史记录的安全备份</title>
+      <link>https://alternativeto.net/news/2025/9/signal-introduces-secure-backups-with-encrypted-message-history-across-devices/</link>
+      <description><![CDATA[Signal has started testing Secure Backups, an opt-in feature that preserves encrypted跨设备的消息历史记录。到目前为止，失去或打破电话意味着失去所有过去的对话，这是用户想要解决的最要求的问题之一。该功能可在最新的Android Beta中获得，一旦对Android进行测试，它将扩展到iOS和台式机。备份每天都会刷新，用新的加密版本替换了先前的档案，该版本包括所有文本消息和媒体的最后45天。
+免费层为文本和近期媒体提供100 MIB的存储空间，而每月1.99美元的订阅将容量扩展到最高100 GB以进行长期存储。 这是信号的第一个付费功能，用于抵消存储和传输大型媒体的成本而不依赖广告或数据货币化的成本。
+备份均使用零知识加密和在设备上生成的64个字符恢复密钥，从未与信号服务器共享。培养基被双重加密和填充，以防止元数据泄漏，而消失和视野消息仍然排除在外。信号还发布了其存储经理作为开源源，并计划增加支持备份的支持，以将备份保存到自定义位置并传输Android，iOS和Desktop之间的加密历史记录。
+  href =“ https://alternativeto.net/software/signal-private-messenger/about/”&gt;有关信号的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/9/signal-introduces-secure-backups-with-encrypted-message-history-across-devices/</guid>
+      <pubDate>Mon, 08 Sep 2025 17:34:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Debian 13.1“ Trixie”发布了许多错误修复和安全更新</title>
+      <link>https://alternativeto.net/news/2025/9/debian-13-1-trixie-released-with-many-bug-fixes-and-security-updates/</link>
+      <description><![CDATA[  debian 项目已发布Debian 13.1，标志着其 
+尽管此更新提高了安全性和稳定性，但它并不代表Debian 13的新版本。只有某些软件包已更新。已经安装了Debian 13的用户不需要获取新的安装媒体，因为所有当前软件包均可通过标准的Debian镜子用于升级后安装。
+想要从头开始设置安装的新用户和系统管理员很快将在通常的下载位置访问更新的Debian 13.1图像。此更新后，Debian还发布了12.12版，该版本类似地提供了安全性和包装改进。与Debian 13.1一样，Debian 12.12主要是针对新的系统配置量身定制的，因为现有安装不需要立即采取行动。
+ 查看文章href =“ https://alternativeto.net/software/debian/about/”&gt;更多有关Debian ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/debian-13-1-trixie-released-with-many-bug-fixes-and-security-updates/</guid>
+      <pubDate>Mon, 08 Sep 2025 12:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>Mozilla再次扩展了对Windows 7/8的Firefox支持，并结束32位Linux构建</title>
       <link>https://alternativeto.net/news/2025/9/mozilla-extends-firefox-support-for-windows-7-8-once-again-and-ends-32-bit-linux-builds/</link>
@@ -64,7 +93,7 @@
       <title>Netflix添加了带有共享和起始控件的移动突出显示剪辑</title>
       <link>https://alternativeto.net/news/2025/9/netflix-adds-mobile-highlight-clips-with-sharing-and-start-end-controls/</link>
       <description><![CDATA[  netflix 已在其移动应用程序中添加了一个新功能，使用户可以从节目和电影中创建突出显示的剪辑。现在，观众可以选择一个起点和终点，仅保存所需的确切段，而不是整个场景。这是基于去年的书签选项的，该选项仅允许在不停止播放的情况下标记一个位置。
-要制作剪辑，用户点击播放栏下的“剪辑”按钮，然后调整段开始和结束的位置。完成的剪辑保存到用户的帐户中，比书签提供更多的控制权。
+要制作剪辑，用户点击播放栏下的“剪辑”按钮，然后调整段开始和结束的位置。最终的剪辑保存到用户的帐户中，比书签比长度更大的控制权。
 ，该公司表示，与其启用完整下载，不如将剪辑设计为轻巧的短形式的亮点，使其在社交参与和重复观看方面具有实用性，类似于 twitch&gt; twitch&gt; twitch  clips。它们也可以在Instagram或WhatsApp等第三方社交媒体应用程序上共享。
  查看文章href =“ https://alternativeto.net/software/netflix/about/”&gt;更多有关Netflix ＆nbsp; | |＆nbsp; &lt;A href =“ https://alternatativeto.net/software/netware/netflix/]]></description>
       <guid>https://alternativeto.net/news/2025/9/netflix-adds-mobile-highlight-clips-with-sharing-and-start-end-controls/</guid>
@@ -93,7 +122,7 @@
       <link>https://alternativeto.net/news/2025/9/discord-introduces-custom-theme-support/</link>
       <description><![CDATA[  Discord 已为Nitro订户启动了自定义主题，使用户可以选择多达五种颜色并将梯度应用于客户。该功能将在接下来的几天内向所有用户推出。
 用户应刷新其Discord客户端以访问自定义主题。 
- 有关交替的文章href =“ https://alternativeto.net/software/discord-app/about/”&gt;更多有关Discord ＆nbsp; | |＆nbsp; &lt;A href =“ https://alternatativeto.net/software/software/software/discord-app-parkopord-comport-]]></description>
+ 有关交替的文章href =“ https://alternativeto.net/software/discord-app/about/”&gt;更多有关Discord ＆nbsp; | |＆nbsp; &lt;A href =“ https://alternatativeto.net/software/software/software/discord-app-app/]]></description>
       <guid>https://alternativeto.net/news/2025/9/discord-introduces-custom-theme-support/</guid>
       <pubDate>Fri, 05 Sep 2025 15:33:21 GMT</pubDate>
     </item>
@@ -115,36 +144,6 @@
   href =“ https://alternativeto.net/software/duckduckgo-go-ai-chat/about/”&gt;更多有关DuckDuckgo ai Chat ＆nbsp; |替代方案 ]]></description>
       <guid>https://alternativeto.net/news/2025/9/duckduckgo-adds-access-to-gpt-5-claude-4-and-other-ai-models-to-its-subscription-plan/</guid>
       <pubDate>Fri, 05 Sep 2025 12:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kagi启动了用于iOS＆Android，搜索属性，学习模式等的应用程序</title>
-      <link>https://alternativeto.net/news/2025/9/kagi-launches-summarize-app-for-ios-and-android-search-attribution-study-mode-and-more/</link>
-      <description><![CDATA[ kagi，以 kagi Summarize 作为iOS和Android应用程序，用户更容易使用户更轻松地凝结冗长的文章，从其移动设备上提取多种语言。
-与此同时， kagi search 现在，在其AI生成的答案中具有比例内容属性。用户可以看到每个源对最终响应的贡献，从而提供更高的透明度。此更新还为未来的出版商在平台内的利润分享机会奠定了基础。
-遵循这些功能发行，新的研究模式到达，利用自定义 kagi Assistant 专注于指导积极学习。助手使用苏格拉底式方法和基于证据的技术，可以帮助用户协作发现答案，而不是简单地提供解决方案。
-除了这些标题更改外，Kagi的最新更新还提供了一系列增强功能和错误修复， kagi Search  href =“ https://alternativeto.net/software/kagi-maps/about/”&gt; kagi maps ， kagi Assistant ，进一步完善整体用户体验。
-View article on AlternativeTo »有关Kagi的更多信息总结＆nbsp; | |＆nbsp; &lt;A href =“]]></description>
-      <guid>https://alternativeto.net/news/2025/9/kagi-launches-summarize-app-for-ios-and-android-search-attribution-study-mode-and-more/</guid>
-      <pubDate>Fri, 05 Sep 2025 09:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DEEPL通过推出企业任务的自治代理扩展到企业AI</title>
-      <link>https://alternativeto.net/news/2025/9/deepl-expands-into-enterprise-ai-with-new-agentic-tool-for-automating-corporate-tasks/</link>
-      <description><![CDATA[  deepl 以其基于AI的翻译人员而闻名，已启动According to CNBC, the agent acts as an integrated assistant that understands natural language commands and executes them in the background.
-首席执行官Jarek Kutylowski将DEEPL代理描述为公司翻译服务的逻辑扩展，并指出其处理诸如研究和在不同系统之间移动数据之类的任务的能力。该工具在第三方模型的支持下以DEEPL专有的大规模语言模型运行，从而使其具有更广泛的功能。与一些仍在尝试基于代理工具的竞争对手不同的是，DEEPL正在根据现有技术发布工作产品。
-通过此发布，DEEPL将直接与诸如 anthropic for Chrome for Chrome Agent for Chrome Agent 。但是，目前还有待观察的是，这种新的替代方案如何比较，因为库特洛夫斯基（Kutylowski）确认该公司没有立即公开的计划，并且该产品仍在封闭的beta中。
- 更多有关deepl代理＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/deepl-expands-into-enterprise-ai-with-new-agentic-tool-for-automating-corporate-tasks/</guid>
-      <pubDate>Fri, 05 Sep 2025 06:37:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>待命操作系统的材料3和UI更光滑</title>
-      <link>https://alternativeto.net/news/2025/9/todoist-for-wear-os-gets-redesign-with-material-3-and-smoother-ui/</link>
-      <description><![CDATA[Todoist for Wear OS has launched a redesign using Google&#39;s latest Material 3 Expressive patterns, providing an interface that感觉到平台的本地。该更新为Android用户提供了更平滑的清扫和更清洁的屏幕。
-快速添加功能在新版本中继续支持。
- 查看文章href =“ https://alternativeto.net/software/todoist/about/”&gt;更多关于todoist ＆nbsp; | |＆nbsp; &lt;a href =“ https://alternatativeto.net/alternativeto.net/software/software/todoist/todoist/]]></description>
-      <guid>https://alternativeto.net/news/2025/9/todoist-for-wear-os-gets-redesign-with-material-3-and-smoother-ui/</guid>
-      <pubDate>Thu, 04 Sep 2025 18:23:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
