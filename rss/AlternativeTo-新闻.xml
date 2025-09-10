@@ -4,7 +4,94 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Tue, 09 Sep 2025 12:41:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Sep 2025 01:22:01 GMT</lastBuildDate>
+    <item>
+      <title>Premiere Pro 25.5添加了90多个新效果，快速GPU播放和主要时间轴升级</title>
+      <link>https://alternativeto.net/news/2025/9/premiere-pro-25-5-adds-90-new-effects-fast-gpu-playback-and-major-timeline-upgrades/</link>
+      <description><![CDATA[  adobe premiere pro pro 已宣布版本25.5.5.5 ，在9月12日在9月12日启动，均可在2025年进行划分，并在2025年进行了颜色，并在2025年进行了颜色，并增强了现实的颜色，并在现场效果，并增强了现实的效果。 更多的。此版本的关键部分是 Adob​​e新宣布的收购电影Impaction ，这是一家以其专业视频效果和过渡库而闻名的公司。该目录现在直接构建为Premiere Pro，增加了90多个GPU加速效果，过渡和动画。编辑可以直接在效果面板中或通过胶片影响仪表板进行实时预览，可以访问电影和3D过渡，故障，VHS伤害，万花筒和其他样式。颜色分级还可以通过散景，体积光线，发光的一半，小插图，混合模式，色差和逼真的相机摇动等工具扩展。
+运动工作流程通过文本，视频和图形的拖放过渡简化，涵盖了许多2D和3D任务，而无需离开Premiere Pro。有一个新的“惊喜我”按钮可以立即产生效果和过渡的变化，因此您可以尝试最喜欢的效果和过渡。编辑性能还可以提高时间轴更新，显示在编辑期间的波形，标记和密钥帧，跨片段的多弹性调整以及播放延迟降至0.1秒以下。现在，硬件加速度支持10位4：2：2 H.264/HEVC在Nvidia Blackwell GPU上，更快的佳能Cinema Cinema Raw Light Export，Arriraw HDE播放和重写MKV支持。。
+  effects效果25.5 ，包括快速偏移（包括Quick Offset），让用户可以立即使用单个拖动来简化单个拖动，简化复杂的组合。运动设计师会在Comp Viewer中注意到更精确的调整以及更快的预览和播放的改进。的改进。
+  href =“ https://alternativeto.net/software/adobe-premiere-pro/about/”&gt;有关Adobe Premiere Pro ＆nbsp; | |替代方案 ]]></description>
+      <guid>https://alternativeto.net/news/2025/9/premiere-pro-25-5-adds-90-new-effects-fast-gpu-playback-and-major-timeline-upgrades/</guid>
+      <pubDate>Tue, 09 Sep 2025 19:46:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Firefox为iOS设备推出了新的AI驱动的“摇动总结”功能</title>
+      <link>https://alternativeto.net/news/2025/9/firefox-launches-a-new-ai-powered-shake-to-summarize-feature-for-ios-devices/</link>
+      <description><![CDATA[  mozilla firefox 正在为 iPhone ，让用户通过摇动设备来生成一个网页的AI-Power-Power摘要。也可以通过“地址栏”中的雷电图标或三点菜单中的“汇总页面”选项访问摘要，该选项出现在页面顶部。
+在iPhone 15 Pro或更新的运行iOS 26上，该功能将使用 Apple Intelligence 用于室内式摘要。较旧的iPhone或iOS版本依靠Mozilla的基于云的AI系统来生成摘要。
+该功能本周仅在英文支持下启动，并计划将来扩展到更多地区和Android。它在5,000个以下的网页上工作，用户可以在设置中禁用摇动手势以防止意外激活。
+  href =“ https://alternativeto.net/software/firefox/about/”&gt;更多有关Mozilla Firefox ＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/firefox-launches-a-new-ai-powered-shake-to-summarize-feature-for-ios-devices/</guid>
+      <pubDate>Tue, 09 Sep 2025 19:29:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mullvad VPN添加了Quic混淆，用于绕过审查制度</title>
+      <link>https://alternativeto.net/news/2025/9/mullvad-vpn-adds-quic-obfuscation-for-wireguard-to-bypass-censorship/</link>
+      <description><![CDATA[  Mullvad vpn 已引入 quic obfuscation  
+ Quic混淆通过通过HTTP隧道驾驶流量来起作用，使其类似于标准的Web活动，而难以在不影响正常Internet使用的情况下更难检测或阻止。此更新的目的是区域和网络，在其中Viregar或Mullvad的其他混淆方法面对。默认情况下，桌面应用程序将在连接失败尝试后尝试QUIC，而用户也可以通过“设置菜单”或“命令行”永久启用它。
+该实现基于 Masque Protoction（RFC 9298），该协议（RFC 9298），该协议通过HTTP来代替UDP流量，并在基于UDP的运输协议后使用QUIC，HTTP http/http/3。 Mullvad指出，该功能增强了连接的可靠性并增强对审查制度的抵抗力。
+  href =“ https://alternativeto.net/software/mullvad/about/”&gt;更多有关Mullvad ＆nbsp; | |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/mullvad-vpn-adds-quic-obfuscation-for-wireguard-to-bypass-censorship/</guid>
+      <pubDate>Tue, 09 Sep 2025 19:15:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>布鲁斯基推出了新的私人书签功能</title>
+      <link>https://alternativeto.net/news/2025/9/bluesky-launches-a-new-private-bookmarks-feature/</link>
+      <description><![CDATA[  bluesky 已引入了官方的私人书签功能，使用户可以保存帖子以供以后使用。现在可以在Bluesky网站及其移动应用程序上访问该功能，使任何平台上的用户都可以轻松管理保存的内容。
+保存的帖子是在新的专用“保存帖子”部分中组织的，可以随时简化重新访问内容的过程。虽然Bluesky的书签系统可以更轻松地跟踪帖子，但它仍然是基本的，并且缺少高级组织选项，例如文件夹或标签。
+以前，用户依靠使用自定义“固定”提要的解决方法，并需要用📌表情符号回复帖子。这种方法不是私有的，因为每个保存的帖子都会产生公开答复。为了帮助用户从此解决方法过渡， Bluesky添加了迁移工具。此功能允许用户将其旧的“固定”帖子转换为私人书签，并决定是删除还是保留以前的公共引脚。
+ 查看文章href =“ https://alternativeto.net/software/bluesky/about/”&gt;有关Bluesky的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/9/bluesky-launches-a-new-private-bookmarks-feature/</guid>
+      <pubDate>Tue, 09 Sep 2025 16:41:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>VEO 3和VEO 3现在在双子API中快速获得9:16和1080p支持</title>
+      <link>https://alternativeto.net/news/2025/9/veo-3-and-veo-3-fast-now-in-gemini-api-with-9-16-and-1080p-support/</link>
+      <description><![CDATA[  Google veo 3和veo 3 fast 现在通常可以通过  最新更新还增加了对垂直9:16长宽比和1080p HD输出的支持。
+此外，两种模型的定价已降低了约50％。
+  href =“ https://alternativeto.net/software/google-veo/about/”&gt;有关Google veo  |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/veo-3-and-veo-3-fast-now-in-gemini-api-with-9-16-and-1080p-support/</guid>
+      <pubDate>Tue, 09 Sep 2025 15:09:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>格兰诺拉麦片启动人员和公司对统一关系见解的看法</title>
+      <link>https://alternativeto.net/news/2025/9/granola-launches-people-and-companies-views-for-unified-relationship-insights/</link>
+      <description><![CDATA[  granola 已经启动了新的人和公司的视图，使用户能够在一个集中的界面中查看与某人或公司相关的所有注释。这些视图旨在帮助用户跟踪多个会议的关系。
+现在，新功能可在Granola侧边栏中使用。
+  href =“ https://alternativeto.net/software/granola-1/about/”&gt;更多关于granola  ＆nbsp; | |＆nbsp;  granola &lt;/]]></description>
+      <guid>https://alternativeto.net/news/2025/9/granola-launches-people-and-companies-views-for-unified-relationship-insights/</guid>
+      <pubDate>Tue, 09 Sep 2025 14:54:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude for Mobile启动iOS和Android上的位置和日历访问</title>
+      <link>https://alternativeto.net/news/2025/9/claude-for-mobile-launches-location-and-calendar-access-on-ios-and-android/</link>
+      <description><![CDATA[  Claude 对于iOS和Android，现在允许用户允许使用许可并访问位置和日历。该应用程序可以直接在移动设备上找到附近的位置，检查日历和安排事件。
+这些更新现在可在两个主要的移动平台上提供。
+ 查看文章href =“ https://alternativeto.net/software/claude/about/”&gt;更多有关Claude ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/claude-for-mobile-launches-location-and-calendar-access-on-ios-and-android/</guid>
+      <pubDate>Tue, 09 Sep 2025 14:51:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>音频文件最终在Google Gemini中支持</title>
+      <link>https://alternativeto.net/news/2025/9/audio-files-are-finally-supported-in-google-gemini/</link>
+      <description><![CDATA[  google gemini 现在支持上传音频文件，满足其顶级用户请求。用户可以在一个提示中加总多达10个受支持类型的文件，包括文档，图像和视频，限制为2 GB的视频，其他文件100 MB，视频长度为5分钟，音频为10分钟。
+Pro和Ultra计划将这些限制扩展到大型项目。
+ 查看文章href =“ https://alternativeto.net/software/google-bard/about/”&gt;有关Google Gemini   | |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/audio-files-are-finally-supported-in-google-gemini/</guid>
+      <pubDate>Tue, 09 Sep 2025 14:38:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>PEERTUBE 7.3带来电子邮件翻译，实时流程安排和管理UI升级</title>
+      <link>https://alternativeto.net/news/2025/9/peertube-7-3-brings-email-translation-live-stream-scheduling-and-admin-ui-upgrades/</link>
+      <description><![CDATA[ framasoft已宣布 Peertube 版本7.3，将大量升级到此开源源，分散的视频平台。在最值得注意的更改中，管理员和用户现在可以发送和接收翻译的电子邮件通知。以前，所有电子邮件都是专门用英语发送的。现在，可以用Peertube支持的任何语言传递消息，满足非英语用户社区的长期要求。
+此外，管理员界面已大大进行了大修。先前的水平菜单已被侧导航栏替换。两个新的配置页面 -  自定义和徽标  - 允许对实例外观进行更多的粒状调整。现在，设置向导可以指导管理员采取关键决策，例如平台名称，描述，徽标，主颜色等。
+按照这些接口更改，Peertube为内容创建者添加了一个主要功能：实时流程计划。管理员和用户可以在实时流设置中直接设置起始日期和时间。然后，预定的实时事件将在活动自己的页面和每个频道的视频列表上清楚地显示他们的时间。
+除了这些亮点之外，Peertube 7.3还包含了几个其他改进和接口更新，进一步增强了所有用户的平台可用性。
+  href =“ https://alternativeto.net/software/peertube/about/”&gt;有关Peertube的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/9/peertube-7-3-brings-email-translation-live-stream-scheduling-and-admin-ui-upgrades/</guid>
+      <pubDate>Tue, 09 Sep 2025 12:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>PLEX提醒用户在新数据泄露后重置密码</title>
       <link>https://alternativeto.net/news/2025/9/plex-alerts-users-to-reset-their-passwords-following-a-new-data-breach/</link>
@@ -63,90 +150,6 @@
   href =“ https://alternativeto.net/software/signal-private-messenger/about/”&gt;有关信号的更多信息]]></description>
       <guid>https://alternativeto.net/news/2025/9/signal-introduces-secure-backups-with-encrypted-message-history-across-devices/</guid>
       <pubDate>Mon, 08 Sep 2025 17:34:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Debian 13.1“ Trixie”发布了许多错误修复和安全更新</title>
-      <link>https://alternativeto.net/news/2025/9/debian-13-1-trixie-released-with-many-bug-fixes-and-security-updates/</link>
-      <description><![CDATA[  debian 项目已发布Debian 13.1，标志着其 
-尽管此更新提高了安全性和稳定性，但它并不代表Debian 13的新版本。只有某些软件包已更新。已经安装了Debian 13的用户不需要获取新的安装媒体，因为所有当前软件包均可通过标准的Debian镜子用于升级后安装。
-想要从头开始设置安装的新用户和系统管理员很快将在通常的下载位置访问更新的Debian 13.1图像。此更新后，Debian还发布了12.12版，该版本类似地提供了安全性和包装改进。与Debian 13.1一样，Debian 12.12主要是针对新的系统配置量身定制的，因为现有安装不需要立即采取行动。
- 查看文章href =“ https://alternativeto.net/software/debian/about/”&gt;更多有关Debian ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/debian-13-1-trixie-released-with-many-bug-fixes-and-security-updates/</guid>
-      <pubDate>Mon, 08 Sep 2025 12:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mozilla再次扩展了对Windows 7/8的Firefox支持，并结束32位Linux构建</title>
-      <link>https://alternativeto.net/news/2025/9/mozilla-extends-firefox-support-for-windows-7-8-once-again-and-ends-32-bit-linux-builds/</link>
-      <description><![CDATA[ Mozilla宣布了 firefox esr  115用户在 Windows 8 和Windows 8.1。此前，支持计划于2024年9月结束，但现在将持续到2026年3月。此举使这些传统Windows操作系统的用户可以安全地使用 Firefox 尽管有官方的Endosoft firseffife firfife firdended offiend firefox 
-在针对Linux的相关移动中，Mozilla将使用Firefox 145的释放停止对32位Linux系统的支持，因为大多数Linux分布不再保持32位的兼容性。虽然Firefox 145将无法用于32位Linux，但无法立即升级的用户可以继续使用 Fireffox ESR 在其系统上140。 ESR 140，包括其32位构建，至少在2026年9月之前将获得安全更新。Mozilla鼓励所有仍在32位Linux平台上的用户过渡到64位系统，并转移到相应的64位Firefox，以继续访问新功能和安全修复。
-  href =“ https://alternativeto.net/software/firefox/about/”&gt;更多有关Mozilla Firefox ＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/mozilla-extends-firefox-support-for-windows-7-8-once-again-and-ends-32-bit-linux-builds/</guid>
-      <pubDate>Mon, 08 Sep 2025 11:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nova Launcher随着创始人出发和开源计划被取消而关闭</title>
-      <link>https://alternativeto.net/news/2025/9/nova-launcher-is-shutting-down-as-founder-departs-and-open-source-plans-are-canceled/</link>
-      <description><![CDATA[  nova Launcher 是Android的最广泛使用的可自定义的主屏幕启动器之一，正在停产。尽管以前的内部努力和公众承诺将开源该项目，但此举仍在进行。关闭是由 Kevin Barry的离开 Nova的原始创始人和过去一年的独家开发人员，他宣布他已经离开了分支，并且不再参与该应用程序。
-尽管巴里一直在准备代码库并与法律团队进行协调以发布Nova发射器作为开源，但分支领导人最终还是停止了这一过程，尽管承诺如果他离开了，则将代码交付给社区。这种逆转使许多希望在Nova中取得社区驱动的未来的用户感到失望。
-分支机构于2022年收购了Nova发射器，当时的首席执行官Alex Austin已公开保证开源计划和持续的支持。自2011年推出以来，Nova在Google Play商店中下载了超过1亿个下载。在这些事态发展之后，长期的粉丝已经开始了一个更改的请愿书，以抗议关闭已经收集了超过1,500 cysaters的关闭。目前，Nova Launcher仍可以下载，但是用户应该期望该应用程序逐渐变得过时，并且可能不会在没有更新或开源版本的情况下面临问题。值得庆幸的是，可行的替代方案。
-  href =“ https://alternativeto.net/software/nova-launcher/about/”&gt;有关Nova Launcher ＆nbsp; |＆nbsp; &lt;A href =“]]></description>
-      <guid>https://alternativeto.net/news/2025/9/nova-launcher-is-shutting-down-as-founder-departs-and-open-source-plans-are-canceled/</guid>
-      <pubDate>Mon, 08 Sep 2025 08:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Geekbench AI 1.5更新在运行时，并增强了手臂支持的窗口</title>
-      <link>https://alternativeto.net/news/2025/9/geekbench-ai-1-5-updates-onnx-runtime-and-enhances-windows-on-arm-support/</link>
-      <description><![CDATA[  geekbench ai  1.5 1.5向ONX Runtime 1.22.2升级了ARM的Windows 1.22.2 ARM上的Windows 1.22.2，可更好地与新的AI AI Hardware相机。与以前的版本相比，ARM设备的Windows的基准结果可能更高，并且与Geekbench AI 1.4分数不直接相当。。
- 更多有关GeekBench AI ＆nbsp; | |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/geekbench-ai-1-5-updates-onnx-runtime-and-enhances-windows-on-arm-support/</guid>
-      <pubDate>Mon, 08 Sep 2025 07:34:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Geekbench 6.5在手臂和稳定性修复的窗户上引入了中小企业支持</title>
-      <link>https://alternativeto.net/news/2025/9/geekbench-6-5-introduces-sme-support-on-windows-on-arm-and-stability-fixes/</link>
-      <description><![CDATA[  geekbench  6.5 6.5引入了对手臂上窗口上的可扩展矩阵扩展的支持，从而提高了新CPU的兼容性和性能。该更新还可以解决在Android和iOS上查看基准结果时经历的崩溃。
-基准分数与以前的6.3和6.4版本保持一致。
- 更多关于GeekBench的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/9/geekbench-6-5-introduces-sme-support-on-windows-on-arm-and-stability-fixes/</guid>
-      <pubDate>Mon, 08 Sep 2025 07:24:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE发布了其第一个官方KDE Linux发行的Alpha进行公共测试</title>
-      <link>https://alternativeto.net/news/2025/9/kde-releases-alpha-of-its-first-official-kde-linux-distribution-for-public-testing/</link>
-      <description><![CDATA[ kde发布了 kde linux 的第一个alpha ，其新的官方Linux发行版现在开放进行公共测试。该系统作为 kde plasma 桌面，kde应用程序和开发工具，围绕核心系统构建的核心系统读取基于无数的图像的滚动，将其作为参考实现。目的是为开发人员和对最新KDE Technologies感兴趣的开发人员和用户提供一个安全，可重复的基础。
-基数源自 Arch linux ，但通过不可分割而与传统的Arch设置有所不同。大多数应用程序以 flatpaks ，而core kde apps（例如 discover ， spectacle 和 interobox 和
-与 kde neon ，基于
- 有关KDE Linux ＆nbsp; | |＆nbsp; &lt;A href =“]]></description>
-      <guid>https://alternativeto.net/news/2025/9/kde-releases-alpha-of-its-first-official-kde-linux-distribution-for-public-testing/</guid>
-      <pubDate>Sat, 06 Sep 2025 19:28:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple Music扩展了从其他服务转移到美国和更多地区的转移工具</title>
-      <link>https://alternativeto.net/news/2025/9/apple-music-expands-transfer-tool-for-moving-from-other-services-to-the-us-and-more-regions/</link>
-      <description><![CDATA[几天前 apple Music 悄悄英国，加拿大，德国，巴西，法国，墨西哥，澳大利亚和新西兰。该工具最初于2025年5月推出，仅在澳大利亚和新西兰提供可用性，现在为更广泛的用户提供了将其保存的歌曲，专辑和播放列表从竞争平台迁移到Apple Music的能力。
-传输工具通过与 music.apple.com  苹果音乐， tidal ，当然，在转移过程中，系统努力将每个曲目与Apple Music目录中的条目匹配。如果无法匹配歌曲，则标记为手动用户评论。只有用户自己创建的播放列表才有资格进行转移；排除其他音乐服务的基于算法或基于算法的编辑播放列表。
- 更多关于苹果音乐的信息]]></description>
-      <guid>https://alternativeto.net/news/2025/9/apple-music-expands-transfer-tool-for-moving-from-other-services-to-the-us-and-more-regions/</guid>
-      <pubDate>Fri, 05 Sep 2025 21:20:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Netflix添加了带有共享和起始控件的移动突出显示剪辑</title>
-      <link>https://alternativeto.net/news/2025/9/netflix-adds-mobile-highlight-clips-with-sharing-and-start-end-controls/</link>
-      <description><![CDATA[  netflix 已在其移动应用程序中添加了一个新功能，使用户可以从节目和电影中创建突出显示的剪辑。现在，观众可以选择一个起点和终点，仅保存所需的确切段，而不是整个场景。这是基于去年的书签选项的，该选项仅允许在不停止播放的情况下标记一个位置。
-要制作剪辑，用户点击播放栏下的“剪辑”按钮，然后调整段开始和结束的位置。最终的剪辑保存到用户的帐户中，比书签比长度更大的控制权。
-，该公司表示，与其启用完整下载，不如将剪辑设计为轻巧的短形式的亮点，使其在社交参与和重复观看方面具有实用性，类似于 twitch&gt; twitch&gt; twitch  clips。它们也可以在Instagram或WhatsApp等第三方社交媒体应用程序上共享。
- 查看文章href =“ https://alternativeto.net/software/netflix/about/”&gt;更多有关Netflix ＆nbsp; | |＆nbsp; &lt;A href =“ https://alternatativeto.net/software/netware/netflix/]]></description>
-      <guid>https://alternativeto.net/news/2025/9/netflix-adds-mobile-highlight-clips-with-sharing-and-start-end-controls/</guid>
-      <pubDate>Fri, 05 Sep 2025 21:09:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>注释小部件快速笔记和快速访问现已在Raycast for IOS中可用</title>
-      <link>https://alternativeto.net/news/2025/9/notes-widget-for-quick-notes-and-fast-access-now-available-in-raycast-for-ios/</link>
-      <description><![CDATA[  raycast 对于iOS版本1.0.12，介绍了一个新的笔记窗口小部件，使用户可以快速记下思想和想法。该小部件还可以快速访问最近的笔记，并始终可用固定笔记。
-此更新直接从主屏幕简化了笔记和检索。
- 有关Raycast的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/9/notes-widget-for-quick-notes-and-fast-access-now-available-in-raycast-for-ios/</guid>
-      <pubDate>Fri, 05 Sep 2025 15:46:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
