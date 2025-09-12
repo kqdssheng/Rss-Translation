@@ -4,7 +4,18 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Fri, 12 Sep 2025 01:20:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Sep 2025 12:38:04 GMT</lastBuildDate>
+    <item>
+      <title>报价帖子将在接下来的几周内到达Mastodon，重点是作者安全</title>
+      <link>https://alternativeto.net/news/2025/9/quote-posts-will-arrive-on-mastodon-in-the-coming-weeks-with-a-focus-on-author-safety/</link>
+      <description><![CDATA[  mastodon 已宣布将在接下来的几周内推出报价帖子，以扩大用户互动，同时将重点放在作者安全上。此重大更新为用户提供了在分散的Fediverse平台上参与的新方法。
+使用此功能，如果邮政作者启用了引用，则 boost 按钮下的新菜单将提供引用帖子的选项。用户可以在共享之前在作曲家窗口中添加评论。快速提升通过 shift+单击在 boost 按钮上或使用 b  hotkey进行简化互动。
+ mastodon为用户提供了对引用权限的完全控制。作者可以在全球禁用所有帖子的报价或限制对特定单个帖子的报价。默认情况下，引用设置为任何人，但是用户可以对其进行调整以适合其舒适度。如果作者对特定的报价感到不舒服，他们可以随时删除其原始帖子，这也将删除报价。
+在开发此功能时，Mastodon的团队通过设计报价帖子以关注安全性和心理健康，而不是简单地提高参与度，从而优先考虑社区价值观。展望未来，新的报价功能将首先在 mastodon.online 和 mastodon.social.social.social 之后，随后是Master frolf for Mastodon 4.5。
+ 在交流中的文章href =“ https://alternativeto.net/software/mastodon/about/”&gt;更多关于mastodon ＆nbsp; | | |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/quote-posts-will-arrive-on-mastodon-in-the-coming-weeks-with-a-focus-on-author-safety/</guid>
+      <pubDate>Fri, 12 Sep 2025 09:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>新的AirPods实时翻译功能在欧盟发射时将不可用</title>
       <link>https://alternativeto.net/news/2025/9/the-new-airpods-live-translation-feature-won-t-be-available-in-the-eu-at-launch/</link>
@@ -92,7 +103,7 @@
     <item>
       <title>Fission 2.9启动具有刷新接口，MACOS 26 TAHOE支持和次要错误修复</title>
       <link>https://alternativeto.net/news/2025/9/fission-2-9-launches-with-refreshed-interface-macos-26-tahoe-support-and-minor-bug-fixes/</link>
-      <description><![CDATA[ Rogue amoeba宣布发布 Fission  2.9，这是针对其快速且无损音频编辑软件的最新更新。此更新引入了一个刷新的界面，其中包含针对Macos 26 Tahoe量身定制的更新应用图标。在 start 窗口，编辑窗口和批处理转换器上可见更新，而光主题已进行了修订以强调应用程序的金色。
+      <description><![CDATA[ Rogue amoeba宣布发布 Fission  2.9，这是针对其快速且无损失的音频编辑软件的最新更新。此更新引入了一个刷新的界面，其中包含针对Macos 26 Tahoe量身定制的更新应用图标。在 start 窗口，编辑窗口和批处理转换器上可见更新，而光主题已进行了修订以强调应用程序的金色。
 除了这些视觉变化之外，Fission 2.9增加了对MacOS 26 Tahoe的初始支持，并且迄今为止在新操作系统上运行该应用程序时尚未报告任何问题。此外，该版本还带来了旨在为配音用户提供更大可访问性的改进，以及一组较小的错误修复，以增强稳定性和可用性。
 当前用户可以从今天开始免费访问此裂变2.9更新。
   href =“ https://alternativeto.net/software/fession/fession/about/”&gt;有关裂变的更多信息]]></description>
@@ -140,16 +151,6 @@
   href =“ https://alternativeto.net/software/stable-audio/about/”&gt;有关稳定音频的更多信息 |]]></description>
       <guid>https://alternativeto.net/news/2025/9/stable-audio-2-5-from-stability-ai-delivers-faster-more-intricate-ai-generated-music/</guid>
       <pubDate>Thu, 11 Sep 2025 07:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trakt通过发现，建议启动官方Android TV应用程序，立即观看</title>
-      <link>https://alternativeto.net/news/2025/9/trakt-launches-official-android-tv-app-with-discovery-recommendations-and-watch-now/</link>
-      <description><![CDATA[  trakt.tv 已发布了一个官方应用href =“ https://play.google.com/store/apps/details?id=tv.trakt.trakt”&gt;可从Google Play商店获得。该专用应用程序允许用户直接从电视上浏览流行和趋势的节目和电影，并提供基于查看兴趣的个性化建议。
-每个标题都包含详细信息，例如摘要，预告片，评级和流派。用户还可以从Android TV界面管理其观察列表和查看历史记录，并阅读社区评论和节目，电影和情节的答复。
-该应用程序具有“立即观看”。可以直接跳入流媒体服务上的内容的选项，类似于 justwatch 或它还包括搜索，相关标题的访问，流行的公共列表以及电视上查看个人资料，历史记录，收藏夹和个人列表的能力。
-  href =“ https://alternativeto.net/software/trakt/about/”&gt;更多关于trakt.tv ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/trakt-launches-official-android-tv-app-with-discovery-recommendations-and-watch-now/</guid>
-      <pubDate>Wed, 10 Sep 2025 22:54:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
