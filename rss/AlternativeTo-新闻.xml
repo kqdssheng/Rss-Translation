@@ -4,7 +4,7 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Sat, 13 Sep 2025 01:16:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Sep 2025 12:34:17 GMT</lastBuildDate>
     <item>
       <title>微软通过将团队从办公室解散团队躲避欧盟反托拉斯罚款</title>
       <link>https://alternativeto.net/news/2025/9/microsoft-dodges-eu-antitrust-penalty-by-unbundling-teams-from-office/</link>
@@ -53,7 +53,7 @@
       <description><![CDATA[本周早些时候，该公司最近透露了该功能，该功能将在欧盟的用户中启动时，在欧盟的互动性要求下，在Eu的数字上的互动性要求下，Eu的数字市场是PRE.UU的数字市场。
 当用户在欧盟及其Apple帐户区域都设置为欧盟国家时，限制适用。监管机构可能会在批准之前审查与隐私，同意，数据流和用户权利有关的问题。这镜像以前的延误&gt; href =“ https://feed.alternativeto.net/software/apple-intelligence/about/”&gt; Apple Intelligence 该地区的AI功能，该功能比其他市场晚几个月。 
 与非AirPods用户交谈时，实时翻译可在iPhone上进行实时转录，而兼容的AirPods之间的对话则受益于积极的噪声消除，从而减少了原始语音量以获得更清晰的翻译。 The feature requires an Apple Intelligence enabled iPhone running iOS 26 or later and compatible AirPods, including the new AirPods Pro 3, AirPods 4 with Active Noise Cancellation, and AirPods Pro 2. The necessary firmware update will roll out on September 15 alongside the launch of iOS 26, with initial语言支持涵盖英语（英国和美国），法语，德语，巴西葡萄牙语和西班牙语，以及今年晚些时候包括意大利，日语，韩语和简化中文在内的其他补充，尽管欧盟的可用性仍然没有定义的时间表。 
-  href =“ https://alternativeto.net/software/apple-intelligence/about/”&gt;有关Apple Intelligence的更多信息＆nbsp; | |＆nbsp; &lt;a href =“]]></description>
+ 有关Apple Intelligence的更多信息＆nbsp; | |＆nbsp; &lt;a href =“]]></description>
       <guid>https://alternativeto.net/news/2025/9/the-new-airpods-live-translation-feature-won-t-be-available-in-the-eu-at-launch/</guid>
       <pubDate>Thu, 11 Sep 2025 22:48:49 GMT</pubDate>
     </item>
@@ -82,7 +82,8 @@
       <link>https://alternativeto.net/news/2025/9/deno-2-5-brings-permission-sets-websocket-header-support-new-runtime-api-and-more/</link>
       <description><![CDATA[  deno 版本2.5已发布，为这个现代的Javascript Runtime提供了多个开发人员 -  focused-focused-focused for。该更新介绍了通过 deno.json 配置文件管理的权限集，从而使项目中定义和审核权限变得更容易。补充这些更改，新的 deno_audit_permissions 环境变量启用基于JSONL的许可审核记录以提高透明度。
 除了安全性改进之外，DENO 2.5通过将几个新的API添加到 deno.test ，在单个测试用例中进行设置和拆卸例程，对测试工作流进行大修。 WebSocket实施现在支持指定有关连接启动的自定义标题，从而使开发人员扩展了对身份验证和与外部服务集成的控制。
-构建在这些平台更新上，该版本为捆绑提供了强大的运行时API  javascript 或客户和服务器上下文。此外， deno捆绑包现在接受HTML文件作为入口点，使该工具更适合以Web为中心的构建。对于改进的开发人员人体工程学， deNo Run 没有参数的调用，现在显示可用任务和脚本的列表，而 stdout 和 stderr 的新方法被添加到 deno.Chiledprocess creams。其他更新包括升级到V8版本14.0和tesscript 5.9.2，对时间API的重大大修以及杂项调整，例如改进的格式，依赖关系管理，
+构建在这些平台更新上，该版本为捆绑提供了强大的运行时API  javascript 或客户和服务器上下文。此外， deno捆绑包现在接受HTML文件作为入口点，使该工具更适合以Web为中心的构建。对于改进的开发人员人体工程学， DENO RUN 没有参数的调用，现在显示可用任务和脚本的列表，而 stdout 和 stderr 的新方法被添加到 deno&gt; deno.ChirdProcess  streams。
+其他更新包括升级到V8版本14.0和tesscript 5.9.2，对时间API的重大大修以及其他调整，例如改进的格式，依赖关系管理，收益。
   href =“ https://alternativeto.net/software/deno/about/”&gt;更多有关Deno ＆nbsp; |＆nbsp; |]]></description>
       <guid>https://alternativeto.net/news/2025/9/deno-2-5-brings-permission-sets-websocket-header-support-new-runtime-api-and-more/</guid>
       <pubDate>Thu, 11 Sep 2025 15:50:00 GMT</pubDate>
@@ -133,7 +134,7 @@
     <item>
       <title>Fission 2.9启动具有刷新接口，MACOS 26 TAHOE支持和次要错误修复</title>
       <link>https://alternativeto.net/news/2025/9/fission-2-9-launches-with-refreshed-interface-macos-26-tahoe-support-and-minor-bug-fixes/</link>
-      <description><![CDATA[ Rogue amoeba宣布发布 Fission  2.9，这是针对其快速且无损失的音频编辑软件的最新更新。此更新引入了一个刷新的界面，其中包含针对Macos 26 Tahoe量身定制的更新应用图标。在 start 窗口，编辑窗口和批处理转换器上可见更新，而光主题已进行了修订以强调应用程序的金色。
+      <description><![CDATA[ Rogue amoeba宣布发布 Fission  2.9，这是针对其快速且无损音频编辑软件的最新更新。此更新引入了一个刷新的界面，其中包含针对Macos 26 Tahoe量身定制的更新应用图标。在 start 窗口，编辑窗口和批处理转换器上可见更新，而光主题已进行了修订以强调应用程序的金色。
 除了这些视觉变化之外，Fission 2.9增加了对MacOS 26 Tahoe的初始支持，并且迄今为止在新操作系统上运行该应用程序时尚未报告任何问题。此外，该版本还带来了旨在为配音用户提供更大可访问性的改进，以及一组较小的错误修复，以增强稳定性和可用性。
 当前用户可以从今天开始免费访问此裂变2.9更新。
   href =“ https://alternativeto.net/software/fession/fession/about/”&gt;有关裂变的更多信息]]></description>
@@ -146,7 +147,7 @@
       <description><![CDATA[  kotlin 版本2.2.2.2.2.2.2.2.2.2.20介绍了Web和MultipLatform开发的实质性进步。领导此版本， webassembly（wasm）支持已达到beta状态，在 npm 依赖项管理，内置浏览器调试工具以及两个共享源设置，用于 js  js  wastmjs和 wastmjs  wastmjs         
 基于这些更改的构建，Kotlin现在启用 swift 默认情况下导出，并为Kotlin Libraries提供稳定的Cross-Platform汇编。开发人员还获得了一种新的方法来宣布共同的依赖性，从而在iOS和Android等平台上放松共享代码库管理。在核心语言的发展中，当将lambdas传递给具有暂停功能类型的过载以提高代码清晰度和可维护性时，已对场景进行了超负荷分辨率。。
 按照这些更新，Kotlin获得了安全性和性能改进：二进制文件现在为堆栈金丝雀提供了支持，并且释放二进制文件尤其较小，这可以使嵌入式且对性能敏感的应用程序受益。 Kotlin现在还可以将长值直接编译到JavaScript BigInt类型中，从而解决Web项目中的关键数字兼容性问题。
-要简化采用，Kotlin 2.2.20插件与最新的版本，可以立即访问最活跃的Kotlin开发人员的新功能。
+为了简化采用，Kotlin 2.2.20插件与最新的版本，可以立即访问最活跃的Kotlin开发人员的新功能。
  有关Kotlin的更多信息]]></description>
       <guid>https://alternativeto.net/news/2025/9/kotlin-2-2-20-brings-webassembly-in-beta-swift-export-available-by-default-and-more/</guid>
       <pubDate>Thu, 11 Sep 2025 12:40:00 GMT</pubDate>
