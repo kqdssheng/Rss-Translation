@@ -4,7 +4,38 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Fri, 12 Sep 2025 12:38:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Sep 2025 01:16:49 GMT</lastBuildDate>
+    <item>
+      <title>微软通过将团队从办公室解散团队躲避欧盟反托拉斯罚款</title>
+      <link>https://alternativeto.net/news/2025/9/microsoft-dodges-eu-antitrust-penalty-by-unbundling-teams-from-office/</link>
+      <description><![CDATA[ Microsoft避免了欧盟委员会接受了其承诺 关于使用 Office 365和Microsoft 365 。该决议遵循由作为解决方案的一部分，微软将以较低的价格提供办公套房，而拥有长期许可证的企业客户将能够切换到这些版本。该公司还致力于在其生产力工具和竞争性沟通平台之间实现互操作性，以解决监管机构对公平竞争的担忧。
+ Microsoft将允许客户将团队数据转移到竞争对手服务上，大多数承诺持续了七年，并且互操作性和可移植性义务延伸至十个。该公司将其引入了全球性应用程序。预计该和解将在未来几周内得到批准，并在全球范围内延长，为Slack等替代方案提供了更多的空间，可以直接与团队竞争。
+  href =“ https://alternativeto.net/software/microsoft-teams/about/”&gt;更多关于Microsoft Teamss ＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/microsoft-dodges-eu-antitrust-penalty-by-unbundling-teams-from-office/</guid>
+      <pubDate>Fri, 12 Sep 2025 18:30:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sponsube 5.0添加了插件驱动的元数据，播放和性能升级等等</title>
+      <link>https://alternativeto.net/news/2025/9/spotube-5-0-adds-plugin-powered-metadata-playback-and-performance-upgrades-and-much-more/</link>
+      <description><![CDATA[  Spotsube 版本5.0已发布，这标志着由于法律和其他并发症的延长期之后，交叉平台和开放源音乐流媒体客户端的回报。此重大更新引入了基于插件的音乐元数据服务的支持，使用户可以通过一系列第三方来源连接Spotsube。
+ 在这种新的体系结构上， Musicbrainz 和 listenbrainz 也通过专用插件提供了crobobbling Integration，为依靠开放数据平台的听众提供音乐跟踪。为了促进更广泛的插件开发，详细的文档现在已包括了安装和创建插件。
+除了元数据改进之外，新版本通过减少跳过问题并添加HTTP实时流（HLS）支持来解决播放可靠性。通过优化的图像处理，用户界面重构以及资源密集型任务（例如轨道源搜索到辅助线程）的卸载，这些增强功能得到了辅助。。
+除了这些亮点外，Spotsube 5.0还提供了各种其他新功能，进一步的增强功能和错误修复。
+ 有关Spotsube的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/9/spotube-5-0-adds-plugin-powered-metadata-playback-and-performance-upgrades-and-much-more/</guid>
+      <pubDate>Fri, 12 Sep 2025 15:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Betterzip 5.4带来新的文件预览，查找器式选择，MACOS 26支持等等</title>
+      <link>https://alternativeto.net/news/2025/9/betterzip-5-4-brings-new-file-previews-finder-style-selection-macos-26-support-and-more/</link>
+      <description><![CDATA[  BetterZip  5.4在上一个更新后两年已发布，为Mac用户提供了几种新功能和增强ZIP和RAR Archives。该更新带来更新的关闭文件命令：关闭文件时，窗口将保持打开状态，而BetterZip将返回其初始状态，以进行更快的工作流过渡。
+此外，内置文件浏览器现在允许用户预览非架构文件，从而将应用程序的实用程序扩展到了存档格式之外。 快速查看预览通过名称自动排序文件，在浏览存档内容时简化导航。
+除了这些可用性更改之外，用户现在可以通过单击和拖动在文件列表的背景中选择文件，从而提供了与
+ BetterZip 5.4已通过与即将到来的MacOS 26 Tahoe版本的兼容性进行了测试，到目前为止尚无问题。该更新还包括八个错误修复，重点是MacOS用户的可用性和稳定性。
+ 更多有关BESTERZIP ＆nbsp; | |＆nbsp; &lt;A href =“ https：//alternativeto.net/softofeto.net/software/software/betterterzip/]]></description>
+      <guid>https://alternativeto.net/news/2025/9/betterzip-5-4-brings-new-file-previews-finder-style-selection-macos-26-support-and-more/</guid>
+      <pubDate>Fri, 12 Sep 2025 12:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>报价帖子将在接下来的几周内到达Mastodon，重点是作者安全</title>
       <link>https://alternativeto.net/news/2025/9/quote-posts-will-arrive-on-mastodon-in-the-coming-weeks-with-a-focus-on-author-safety/</link>
@@ -22,7 +53,7 @@
       <description><![CDATA[本周早些时候，该公司最近透露了该功能，该功能将在欧盟的用户中启动时，在欧盟的互动性要求下，在Eu的数字上的互动性要求下，Eu的数字市场是PRE.UU的数字市场。
 当用户在欧盟及其Apple帐户区域都设置为欧盟国家时，限制适用。监管机构可能会在批准之前审查与隐私，同意，数据流和用户权利有关的问题。这镜像以前的延误&gt; href =“ https://feed.alternativeto.net/software/apple-intelligence/about/”&gt; Apple Intelligence 该地区的AI功能，该功能比其他市场晚几个月。 
 与非AirPods用户交谈时，实时翻译可在iPhone上进行实时转录，而兼容的AirPods之间的对话则受益于积极的噪声消除，从而减少了原始语音量以获得更清晰的翻译。 The feature requires an Apple Intelligence enabled iPhone running iOS 26 or later and compatible AirPods, including the new AirPods Pro 3, AirPods 4 with Active Noise Cancellation, and AirPods Pro 2. The necessary firmware update will roll out on September 15 alongside the launch of iOS 26, with initial语言支持涵盖英语（英国和美国），法语，德语，巴西葡萄牙语和西班牙语，以及今年晚些时候包括意大利，日语，韩语和简化中文在内的其他补充，尽管欧盟的可用性仍然没有定义的时间表。 
- 有关Apple Intelligence的更多信息＆nbsp; | |＆nbsp; &lt;a href =“]]></description>
+  href =“ https://alternativeto.net/software/apple-intelligence/about/”&gt;有关Apple Intelligence的更多信息＆nbsp; | |＆nbsp; &lt;a href =“]]></description>
       <guid>https://alternativeto.net/news/2025/9/the-new-airpods-live-translation-feature-won-t-be-available-in-the-eu-at-launch/</guid>
       <pubDate>Thu, 11 Sep 2025 22:48:49 GMT</pubDate>
     </item>
@@ -51,8 +82,7 @@
       <link>https://alternativeto.net/news/2025/9/deno-2-5-brings-permission-sets-websocket-header-support-new-runtime-api-and-more/</link>
       <description><![CDATA[  deno 版本2.5已发布，为这个现代的Javascript Runtime提供了多个开发人员 -  focused-focused-focused for。该更新介绍了通过 deno.json 配置文件管理的权限集，从而使项目中定义和审核权限变得更容易。补充这些更改，新的 deno_audit_permissions 环境变量启用基于JSONL的许可审核记录以提高透明度。
 除了安全性改进之外，DENO 2.5通过将几个新的API添加到 deno.test ，在单个测试用例中进行设置和拆卸例程，对测试工作流进行大修。 WebSocket实施现在支持指定有关连接启动的自定义标题，从而使开发人员扩展了对身份验证和与外部服务集成的控制。
-构建在这些平台更新上，该版本为捆绑提供了强大的运行时API  javascript 或客户和服务器上下文。此外， deno捆绑包现在接受HTML文件作为入口点，使该工具更适合以Web为中心的构建。对于改进的开发人员人体工程学， DENO RUN 没有参数的调用，现在显示可用任务和脚本的列表，而 stdout 和 stderr 的新方法被添加到 deno&gt; deno.ChirdProcess  streams。
-其他更新包括升级到V8版本14.0和tesscript 5.9.2，对时间API的重大大修以及其他调整，例如改进的格式，依赖关系管理，收益。
+构建在这些平台更新上，该版本为捆绑提供了强大的运行时API  javascript 或客户和服务器上下文。此外， deno捆绑包现在接受HTML文件作为入口点，使该工具更适合以Web为中心的构建。对于改进的开发人员人体工程学， deNo Run 没有参数的调用，现在显示可用任务和脚本的列表，而 stdout 和 stderr 的新方法被添加到 deno.Chiledprocess creams。其他更新包括升级到V8版本14.0和tesscript 5.9.2，对时间API的重大大修以及杂项调整，例如改进的格式，依赖关系管理，
   href =“ https://alternativeto.net/software/deno/about/”&gt;更多有关Deno ＆nbsp; |＆nbsp; |]]></description>
       <guid>https://alternativeto.net/news/2025/9/deno-2-5-brings-permission-sets-websocket-header-support-new-runtime-api-and-more/</guid>
       <pubDate>Thu, 11 Sep 2025 15:50:00 GMT</pubDate>
@@ -116,41 +146,10 @@
       <description><![CDATA[  kotlin 版本2.2.2.2.2.2.2.2.2.2.20介绍了Web和MultipLatform开发的实质性进步。领导此版本， webassembly（wasm）支持已达到beta状态，在 npm 依赖项管理，内置浏览器调试工具以及两个共享源设置，用于 js  js  wastmjs和 wastmjs  wastmjs         
 基于这些更改的构建，Kotlin现在启用 swift 默认情况下导出，并为Kotlin Libraries提供稳定的Cross-Platform汇编。开发人员还获得了一种新的方法来宣布共同的依赖性，从而在iOS和Android等平台上放松共享代码库管理。在核心语言的发展中，当将lambdas传递给具有暂停功能类型的过载以提高代码清晰度和可维护性时，已对场景进行了超负荷分辨率。。
 按照这些更新，Kotlin获得了安全性和性能改进：二进制文件现在为堆栈金丝雀提供了支持，并且释放二进制文件尤其较小，这可以使嵌入式且对性能敏感的应用程序受益。 Kotlin现在还可以将长值直接编译到JavaScript BigInt类型中，从而解决Web项目中的关键数字兼容性问题。
-为了简化采用，Kotlin 2.2.20插件与最新的版本，可以立即访问最活跃的Kotlin开发人员的新功能。
+要简化采用，Kotlin 2.2.20插件与最新的版本，可以立即访问最活跃的Kotlin开发人员的新功能。
  有关Kotlin的更多信息]]></description>
       <guid>https://alternativeto.net/news/2025/9/kotlin-2-2-20-brings-webassembly-in-beta-swift-export-available-by-default-and-more/</guid>
       <pubDate>Thu, 11 Sep 2025 12:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dropbox将停止下个月iOS和Android的Paper Mobile应用程序</title>
-      <link>https://alternativeto.net/news/2025/9/dropbox-will-discontinue-its-paper-mobile-app-for-ios-and-android-next-month/</link>
-      <description><![CDATA[Dropbox has announced it will discontinue the Dropbox Paper mobile app for both iOS and Android effective October 9, 2025年，将资源集中在其核心共同编辑平台上。结果，此日期之后将从Google Play商店和Apple App Store中删除移动应用程序，并且将不再接收更新。虽然该应用程序可能仍在用户的设备上安装，但某些功能将停止工作。为了帮助用户避免混乱，Dropbox建议在此日期之后删除Paper Mobile应用程序。
-按照这些更改，Dropbox纸将可以通过任何Web浏览器访问。用户可以通过在其所有设备上在线登录纸张来继续创建和编辑文档。此外，纸质文件将在每个用户的Dropbox帐户中保持存储并确保，并且可访问性不变。确保用户不会对其数据或文件访问访问。
-在移动关闭时，Dropbox还将在2025年10月9日结束Beta Dropbox Paper Desktop应用程序。依靠此Beta桌面应用程序的用户应切换到Web版本，以获取不间断的服务。
- 查看文章href =“ https://alternativeto.net/software/dropbox-paper/about/”&gt;有关Dropbox纸的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/9/dropbox-will-discontinue-its-paper-mobile-app-for-ios-and-android-next-month/</guid>
-      <pubDate>Thu, 11 Sep 2025 11:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Blackmagic Camera 3.0带来远程夹同步，改进的控件和增强的LUT支持</title>
-      <link>https://alternativeto.net/news/2025/9/blackmagic-camera-3-0-brings-remote-clip-sync-revamped-controls-and-enhanced-lut-support/</link>
-      <description><![CDATA[ BlackMagic Design已发布其
-此外，该应用程序现在具有单镜头和变焦控件，通过新的Dolly Zoom效果增强了该应用程序。帧速率调整包括新的速度和延时射击模式，并且在曝光和聚焦下可以访问摄像头光控制。对于曝光监视和颜色分级，直方图可以占据完整的预览，而内置查找表（LUT）支持现在涵盖Apple Log，Rec.709，Rec.2020和P3 D65。头顶显示器还允许用户快速切换或记录LUT。
-版本3.0还添加了开放门分辨率录制，新的2.0变形后设置以及在自动模式下自动曝光控件。完善版本，用户会注意到更好的性能和整体稳定性。
- 有关Blackmagic Camera ＆nbsp; | | &lt;a href =“]]></description>
-      <guid>https://alternativeto.net/news/2025/9/blackmagic-camera-3-0-brings-remote-clip-sync-revamped-controls-and-enhanced-lut-support/</guid>
-      <pubDate>Thu, 11 Sep 2025 09:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>稳定的音频2.5 statibalyai提供更快，更复杂的AI形成音乐</title>
-      <link>https://alternativeto.net/news/2025/9/stable-audio-2-5-from-stability-ai-delivers-faster-more-intricate-ai-generated-music/</link>
-      <description><![CDATA[稳定性AI已发布稳定的音频 2.5，是其音频生成模型的更新，旨在针对Enterprise grade应用程序。新版本可提供更高质量，更快的处理和增强的控制。这些改进使专业人员能够创建适合定制品牌要求的动态音乐作品。
-侧重于创意团队的需求，稳定的音频2.5允许用户生成可自定义的音频，包括在几秒钟内生成的三分钟轨道。该模型还可以输出多部分组成，为商业用例提供更复杂的音频布置。
-在其核心工作流程上构建稳定的音频2.5还引入了音频介绍。此功能使用户可以上传自己的音频，确定输入的开始位置，并使用上下文提示来生成轨道的其余部分。在此版本中，文本到原告和音频到原告的生成仍然得到支持。
-解决企业问题，该平台在商业上是安全的，专门针对许可数据的培训。稳定音频2.5可以通过稳定的音频网站， fal ， comfyui 。
-  href =“ https://alternativeto.net/software/stable-audio/about/”&gt;有关稳定音频的更多信息 |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/stable-audio-2-5-from-stability-ai-delivers-faster-more-intricate-ai-generated-music/</guid>
-      <pubDate>Thu, 11 Sep 2025 07:50:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
