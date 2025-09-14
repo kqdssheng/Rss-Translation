@@ -4,7 +4,36 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Sat, 13 Sep 2025 12:34:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 01:26:52 GMT</lastBuildDate>
+    <item>
+      <title>DUB.CO推出了新的计划赏金和绩效奖励</title>
+      <link>https://alternativeto.net/news/2025/9/dub-co-launches-new-program-bounties-and-performance-rewards-for-affiliates/</link>
+      <description><![CDATA[Dub.co has introduced Program Bounties, a new feature for its affiliate partner program that lets companies set performance-based or submission-based rewards提高参与度。  Dub Partners ，，该平台是分支机构，有影响力者和用户的平台，它扩大了合作伙伴可以参与的方式。绩效赏金奖励可衡量的目标，例如产生潜在客户，推动转换或达到佣金目标，而提交赏金则集中在验证的任务上，例如发布博客文章，托管活动或创建YouTube教程。合作伙伴提交证据以供批准，使公司在激励捐款方面具有更大的灵活性。
+自上个月首次亮相以来，DUB Partners已追踪了超过200万美元的会员收入，支付了超过750,000美元，并推出了诸如合作伙伴群体，高级奖励和迁移工具等功能，包括 tolt 和
+要突出显示该功能， dub.co推出了$ 150的赏金   为合作伙伴创建有关配音的短效率并在X，LinkedIn或YouTube上发布的合作伙伴。该优惠向现有合作伙伴开放，新用户可以加入该计划参加。
+ 在交流中查看文章href =“ https://alternativeto.net/software/dub/about/”&gt;有关dub.co ＆nbsp; |＆nbsp; &lt;A href =“ https://alternatativeto.net/software/d.net/software/dub/”]]></description>
+      <guid>https://alternativeto.net/news/2025/9/dub-co-launches-new-program-bounties-and-performance-rewards-for-affiliates/</guid>
+      <pubDate>Sat, 13 Sep 2025 19:18:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿里巴巴释放开源QWEN3-NEXTS型号，具有10倍功率，长篇小说和较低的成本</title>
+      <link>https://alternativeto.net/news/2025/9/alibaba-releases-open-source-qwen3-next-model-with-10x-power-long-context-and-lower-costs/</link>
+      <description><![CDATA[阿里巴巴介绍了 qwen3-next ，新一代的开放式大型语言模型被声称为十倍强大，比他们的前者更便宜十倍。该版本包括两个变体， qwen3-next-Instruct 和 qwen3-next-inkinking ，均在apache 2.0许可下，并且在 kaggle ，alibaba cloud和 qwen3-next使用混合体系结构，将门控的三角网结合起来，以快速处理，并为推理准确性而进行门控注意。每个令牌中只有30亿个参数中只有30亿个参数被激活，从而提高了效率。它还将其混合物的混合物扩展到512位专家，从。
+其他功能包括用于更快推理的本地多token预测，更新的归一化以进行更稳定的培训以及长篇小说上的重大吞吐量改进。这些型号与拥抱的面变压器，SGLANG，VLLM和QWEN-AGENT集成，并且可以在单个NVIDIA H200 GPU上以800亿个参数运行。
+  href =“ https://alternativeto.net/software/qwen/about/”&gt;更多有关Qwen ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/alibaba-releases-open-source-qwen3-next-model-with-10x-power-long-context-and-lower-costs/</guid>
+      <pubDate>Sat, 13 Sep 2025 18:49:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>VS代码1.104添加自动聊天模型选择和增强代理功能</title>
+      <link>https://alternativeto.net/news/2025/9/vs-code-1-104-adds-auto-chat-model-selection-and-enhanced-agent-features/</link>
+      <description><![CDATA[  Visual Studio代码 1.104 1.104添加了预览自动聊天模型选择的支持，让编辑器在， gpt-5，gpt-5 mini或gpt-4.1 。该功能应用组织访问规则，显示所选模型和乘数，并为付费用户提供10％的折扣。
+代理现在更安全，因为对敏感文件的编辑需要确认，而工作空间根中的代理文件自动用于提供上下文。默认情况下，在代理模式下更改的文件列表会折叠，显示每个文件的添加和删除行，并在从源控件中分期或提交时自动接受更改。编码代理通过TODO代码操作，更丰富的上下文转发和专用聊天编辑器中的实时进度提高了委托。
+终端交互现在支持更严格的自动伴侣规则，可见的配置链接和Web-Fetch命令的警告。  copilot 支持Google sign-in，而Pylance介绍了AI Hover Hover Summaries和python中的记忆中的snippet snippet snippet snippet snippet。其他更新改进了语义代码搜索，扩展终端IntelliSense，并为每个配置文件或工作区禁用副副词功能添加设置。
+ 有关Visual Studio Code的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/9/vs-code-1-104-adds-auto-chat-model-selection-and-enhanced-agent-features/</guid>
+      <pubDate>Sat, 13 Sep 2025 18:26:13 GMT</pubDate>
+    </item>
     <item>
       <title>微软通过将团队从办公室解散团队躲避欧盟反托拉斯罚款</title>
       <link>https://alternativeto.net/news/2025/9/microsoft-dodges-eu-antitrust-penalty-by-unbundling-teams-from-office/</link>
@@ -122,35 +151,6 @@
   href =“ https://alternativeto.net/software/pipewire/about/”&gt;更多有关PipeWire ＆nbsp; | |＆nbsp; &lt;A href =“ https：//alternatativeto.net/software/popewewire/]]></description>
       <guid>https://alternativeto.net/news/2025/9/pipewire-1-4-8-delivers-low-latency-for-firewire-and-apple-home-pod-mini-support/</guid>
       <pubDate>Thu, 11 Sep 2025 14:49:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trailbase v0.17.0与V8一起添加了Wasmtime WebAssembly运行时</title>
-      <link>https://alternativeto.net/news/2025/9/trailbase-v0-17-0-adds-wasmtime-webassembly-runtime-alongside-v8/</link>
-      <description><![CDATA[Trailbase v0.17.0 introduces a new WebAssembly runtime based on wasmtime, released alongside现有的V8运行时。此过渡更新旨在为将来删除V8铺平道路，从而提高性能，更严格的状态隔离以及对多种访客语言的支持。
- javascript  和 查看文章href =“ https://alternativeto.net/software/trailbase/about/”&gt;有关TrailBase的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/9/trailbase-v0-17-0-adds-wasmtime-webassembly-runtime-alongside-v8/</guid>
-      <pubDate>Thu, 11 Sep 2025 14:42:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fission 2.9启动具有刷新接口，MACOS 26 TAHOE支持和次要错误修复</title>
-      <link>https://alternativeto.net/news/2025/9/fission-2-9-launches-with-refreshed-interface-macos-26-tahoe-support-and-minor-bug-fixes/</link>
-      <description><![CDATA[ Rogue amoeba宣布发布 Fission  2.9，这是针对其快速且无损音频编辑软件的最新更新。此更新引入了一个刷新的界面，其中包含针对Macos 26 Tahoe量身定制的更新应用图标。在 start 窗口，编辑窗口和批处理转换器上可见更新，而光主题已进行了修订以强调应用程序的金色。
-除了这些视觉变化之外，Fission 2.9增加了对MacOS 26 Tahoe的初始支持，并且迄今为止在新操作系统上运行该应用程序时尚未报告任何问题。此外，该版本还带来了旨在为配音用户提供更大可访问性的改进，以及一组较小的错误修复，以增强稳定性和可用性。
-当前用户可以从今天开始免费访问此裂变2.9更新。
-  href =“ https://alternativeto.net/software/fession/fession/about/”&gt;有关裂变的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/9/fission-2-9-launches-with-refreshed-interface-macos-26-tahoe-support-and-minor-bug-fixes/</guid>
-      <pubDate>Thu, 11 Sep 2025 14:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kotlin 2.2.20将WebAssembly带入Beta，Swift导出默认情况下可用等等</title>
-      <link>https://alternativeto.net/news/2025/9/kotlin-2-2-20-brings-webassembly-in-beta-swift-export-available-by-default-and-more/</link>
-      <description><![CDATA[  kotlin 版本2.2.2.2.2.2.2.2.2.2.20介绍了Web和MultipLatform开发的实质性进步。领导此版本， webassembly（wasm）支持已达到beta状态，在 npm 依赖项管理，内置浏览器调试工具以及两个共享源设置，用于 js  js  wastmjs和 wastmjs  wastmjs         
-基于这些更改的构建，Kotlin现在启用 swift 默认情况下导出，并为Kotlin Libraries提供稳定的Cross-Platform汇编。开发人员还获得了一种新的方法来宣布共同的依赖性，从而在iOS和Android等平台上放松共享代码库管理。在核心语言的发展中，当将lambdas传递给具有暂停功能类型的过载以提高代码清晰度和可维护性时，已对场景进行了超负荷分辨率。。
-按照这些更新，Kotlin获得了安全性和性能改进：二进制文件现在为堆栈金丝雀提供了支持，并且释放二进制文件尤其较小，这可以使嵌入式且对性能敏感的应用程序受益。 Kotlin现在还可以将长值直接编译到JavaScript BigInt类型中，从而解决Web项目中的关键数字兼容性问题。
-为了简化采用，Kotlin 2.2.20插件与最新的版本，可以立即访问最活跃的Kotlin开发人员的新功能。
- 有关Kotlin的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/9/kotlin-2-2-20-brings-webassembly-in-beta-swift-export-available-by-default-and-more/</guid>
-      <pubDate>Thu, 11 Sep 2025 12:40:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
