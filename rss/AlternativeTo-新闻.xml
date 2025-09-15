@@ -4,12 +4,79 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Mon, 15 Sep 2025 01:27:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Sep 2025 12:41:01 GMT</lastBuildDate>
+    <item>
+      <title>MAC实用程序POPCLIP引入了刷新接口，新选项以及MacOS 26的支持</title>
+      <link>https://alternativeto.net/news/2025/9/mac-utility-popclip-introduces-refreshed-interface-new-options-and-support-for-macos-26/</link>
+      <description><![CDATA[  popclip  2025.9 2025.9为Mac用户提供了实质性的重新设计，其中包含单独的设置窗口和改进的菜单栏集成。菜单栏图标现在利用标准MACOS菜单而不是自定义弹出式菜单。此更改改善了与菜单栏管理实用程序（例如 Bartender ）的兼容性，并允许用户永久隐藏PopClip图标，而无需丢失任何菜单操作，因为现在所有菜单动作都可以在更新的设置中可用。
+随着这些接口更改，PopClip Action Bar已使用MacOS活化效果获得了刷新的外观。这种方法可以使该工具现代化，并在选择文本时提高了知名度。术语更新重命名为前开/off 切换到，将自动出现，使其行为更加清晰和透明。
+在用户自定义上构建POPCLIP现在支持兼容Web浏览器中的人均排除。默认情况下，用户还可以排除所有应用程序，然后选择选定的应用程序，在其中出现PopClip。这些选项可以更好地控制工具的何时何地。
+使用此版本，PopClip引入了简化的更新过程，包括专用检查更新功能功能，限制在设置窗口的细微通知以及新的可选自动安装模式。 Popclip 2025.9与即将到来的Macos 26 Tahoe完全兼容，现在需要Macos 11 Big Sur或更新才能运行。
+ 更多有关Popclip ＆nbsp; | |＆nbsp; &lt;A href =“ https：//alternativeto.net/software/software/popclip/]]></description>
+      <guid>https://alternativeto.net/news/2025/9/mac-utility-popclip-introduces-refreshed-interface-new-options-and-support-for-macos-26/</guid>
+      <pubDate>Mon, 15 Sep 2025 11:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>葡萄酒10.15已发布Unicode 17，Zip64支持和许多错误修复</title>
+      <link>https://alternativeto.net/news/2025/9/wine-10-15-has-been-released-with-unicode-17-zip64-support-and-numerous-bug-fixes/</link>
+      <description><![CDATA[  Wine&gt; Wine  10.15现在可用，为在Linux，MacOS和BSD（例如Linux，MacOS和BSD）（如Linux，MacOS和BSD）上运行Windows应用程序提供了改进的兼容性。此更新与需要在不同平台上运行不同的Windows软件和游戏的用户特别相关。
+使用此版本，Wine的Unicode角色表已更新为版本17.0.0。此更新可以增强国际化支持，并帮助葡萄酒与最新的角色编码标准变化保持同步。
+此外，Wine 10.15在其包装服务中增加了Zip64支持。此更改使处理较大的存档文件可以使用户和开发人员受益于管理或分发相当大的软件包。
+除了这些增强功能之外，更新还包括16个错误修复程序。这些维修人员解决了影响应用程序的兼容性和稳定问题href =“ https://alternativeto.net/software/capcut-apk/about/”&gt; capccut 和游戏
+ 有关葡萄酒的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/9/wine-10-15-has-been-released-with-unicode-17-zip64-support-and-numerous-bug-fixes/</guid>
+      <pubDate>Mon, 15 Sep 2025 09:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Turntable v0.4.0引入脱机划痕并寻求酒吧支持</title>
+      <link>https://alternativeto.net/news/2025/9/turntable-v0-4-0-introduces-offline-scrobbling-and-seek-bar-support/</link>
+      <description><![CDATA[  turntable  v0.4.0现在支持越线的crobbling，允许用户跟踪和提交无效的互联网连接无效的聆听历史记录。该更新添加了一个Seek Bar，Shuffle和Loop Control按钮，并启用窗口大小。
+其他改进包括现在播放提交，基于甘氨酸的图像解码，扩展的Flatpak权限和一些错误修复。
+ 查看文章href =“ https://alternativeto.net/software/turntable-scrobble-your-music/about/”&gt;有关Turntable ＆nbsp; |替代方案 ]]></description>
+      <guid>https://alternativeto.net/news/2025/9/turntable-v0-4-0-introduces-offline-scrobbling-and-seek-bar-support/</guid>
+      <pubDate>Mon, 15 Sep 2025 09:25:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>预算流3.0.0带来重新设计，改进的收据扫描仪和AI分类</title>
+      <link>https://alternativeto.net/news/2025/9/budget-flow-3-0-0-brings-redesign-improved-receipt-scanner-and-ai-categorization/</link>
+      <description><![CDATA[ 预算流量 3.0.0为iOS，iPados，WatchOS和MacOS 26提供了更新的设计，具有液体Glasice-Glass Effects和Darker-Glass Effects和Dark Mode Icon Support。内置的收据扫描仪现在检测到购买日期，自动分配收款人，并且，在带有Apple Intelligence的iOS/iPados 26上，将交易分类并使用“设备AI”进行分类并汇总项目。
+批量编辑选项和固定时区设置也已引入用于简化的管理。
+  href =“ https://alternativeto.net/software/budget-flow/about/”&gt;有关预算流的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/9/budget-flow-3-0-0-brings-redesign-improved-receipt-scanner-and-ai-categorization/</guid>
+      <pubDate>Mon, 15 Sep 2025 09:12:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>MANUS AI启动连接器以与外部工具集成</title>
+      <link>https://alternativeto.net/news/2025/9/manus-ai-launches-connectors-to-integrate-with-external-tools/</link>
+      <description><![CDATA[  manus ai 已经引入了MANUS连接器，允许其平台与外部工具直接链接以集中工作流程。用户可以使用其知识库起草电子邮件答复，并对CRM数据进行研究，或者使用产品积压票和针对金融电子表格的交叉检查支付平台发票进行同步支持门票。全部在一个工作流程中，而无需在不同工具之间切换。
+ 更多有关MANUS ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/manus-ai-launches-connectors-to-integrate-with-external-tools/</guid>
+      <pubDate>Mon, 15 Sep 2025 07:50:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>IMMICH 1.142带来默认的beta时间轴，恢复所有按钮和地理位置时间表查看</title>
+      <link>https://alternativeto.net/news/2025/9/immich-1-142-brings-default-beta-timeline-resume-all-button-and-geolocation-timeline-view/</link>
+      <description><![CDATA[  immich  1.142已作为开源，自我固定照片和视频管理平台的最新版本发布。在此版本中，Beta时间轴现在将传统时间表替换为默认版本。更新后首次启动后，该应用将为来自较旧时间表的用户自动运行必要的迁移步骤。迁移后，需要重新启动该应用以访问更新的体验。
+此外，新的简历全部按钮出现在工作管理页面上。此添加旨在用于导入其照片库的用户，因为在上传过程中暂停了作业，包括主界面中未显示的背景任务。该功能使用户能够在导入后立即恢复所有作业。
+遵循这些更新后，地理位置实用程序已转换为时间轴视图。这使用户可以在调查并填写单个工作流程中的照片和视频的丢失的地理标记数据时滚动整个集合。 Immich 1.142还包括一小部分其他次要增强功能，并在整个应用程序上应用了一些错误修复。
+ 更多有关Immich ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/immich-1-142-brings-default-beta-timeline-resume-all-button-and-geolocation-timeline-view/</guid>
+      <pubDate>Mon, 15 Sep 2025 07:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>克劳德（Claude）为所有用户介绍了付费计划和隐身聊天的内存</title>
+      <link>https://alternativeto.net/news/2025/9/claude-introduces-memory-for-paid-plans-and-incognito-chats-for-all-users/</link>
+      <description><![CDATA[  Claude 现在为团队和企业计划提供用户存储器，允许跨会话保留信息。隐身聊天也向所有用户推出，使得未保存以聊天或内存的对话。
+包括项目划分的内存和颗粒状控制选项以增强隐私和组织。
+ 更多有关Claude ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/claude-introduces-memory-for-paid-plans-and-incognito-chats-for-all-users/</guid>
+      <pubDate>Mon, 15 Sep 2025 07:43:36 GMT</pubDate>
+    </item>
     <item>
       <title>DUB.CO推出了新的计划赏金和绩效奖励</title>
       <link>https://alternativeto.net/news/2025/9/dub-co-launches-new-program-bounties-and-performance-rewards-for-affiliates/</link>
       <description><![CDATA[Dub.co has introduced Program Bounties, a new feature for its affiliate partner program that lets companies set performance-based or submission-based rewards提高参与度。  Dub Partners ，，该平台是分支机构，有影响力者和用户的平台，它扩大了合作伙伴可以参与的方式。绩效赏金奖励可衡量的目标，例如产生潜在客户，推动转换或达到佣金目标，而提交赏金则集中在验证的任务上，例如发布博客文章，托管活动或创建YouTube教程。合作伙伴提交证据以供批准，使公司在激励捐款方面具有更大的灵活性。
-自上个月首次亮相以来，DUB Partners已追踪了超过200万美元的会员收入，支付了超过750,000美元，并推出了诸如合作伙伴群体，高级奖励和迁移工具等功能，包括 tolt 和
+Since its debut last month, Dub Partners has tracked over $2 million in affiliate revenue, paid out more than $750,000, and rolled out features like Partner Groups, advanced rewards, and migration tools for platforms including Rewardful,  tolt 和
 要突出显示该功能， dub.co推出了$ 150的赏金   为合作伙伴创建有关配音的短效率并在X，LinkedIn或YouTube上发布的合作伙伴。该优惠向现有合作伙伴开放，新用户可以加入该计划参加。
  在交流中查看文章href =“ https://alternativeto.net/software/dub/about/”&gt;有关dub.co ＆nbsp; |＆nbsp; &lt;A href =“ https://alternatativeto.net/software/d.net/software/dub/”]]></description>
       <guid>https://alternativeto.net/news/2025/9/dub-co-launches-new-program-bounties-and-performance-rewards-for-affiliates/</guid>
@@ -82,75 +149,9 @@
       <description><![CDATA[本周早些时候，该公司最近透露了该功能，该功能将在欧盟的用户中启动时，在欧盟的互动性要求下，在Eu的数字上的互动性要求下，Eu的数字市场是PRE.UU的数字市场。
 当用户在欧盟及其Apple帐户区域都设置为欧盟国家时，限制适用。监管机构可能会在批准之前审查与隐私，同意，数据流和用户权利有关的问题。这镜像以前的延误&gt; href =“ https://feed.alternativeto.net/software/apple-intelligence/about/”&gt; Apple Intelligence 该地区的AI功能，该功能比其他市场晚几个月。 
 与非AirPods用户交谈时，实时翻译可在iPhone上进行实时转录，而兼容的AirPods之间的对话则受益于积极的噪声消除，从而减少了原始语音量以获得更清晰的翻译。 The feature requires an Apple Intelligence enabled iPhone running iOS 26 or later and compatible AirPods, including the new AirPods Pro 3, AirPods 4 with Active Noise Cancellation, and AirPods Pro 2. The necessary firmware update will roll out on September 15 alongside the launch of iOS 26, with initial语言支持涵盖英语（英国和美国），法语，德语，巴西葡萄牙语和西班牙语，以及今年晚些时候包括意大利，日语，韩语和简化中文在内的其他补充，尽管欧盟的可用性仍然没有定义的时间表。 
- 有关Apple Intelligence的更多信息＆nbsp; | |＆nbsp; &lt;a href =“]]></description>
+  href =“ https://alternativeto.net/software/apple-intelligence/about/”&gt;有关Apple Intelligence的更多信息＆nbsp; | |＆nbsp; &lt;a href =“]]></description>
       <guid>https://alternativeto.net/news/2025/9/the-new-airpods-live-translation-feature-won-t-be-available-in-the-eu-at-launch/</guid>
       <pubDate>Thu, 11 Sep 2025 22:48:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>YouTube将其多语言音频功能扩展到全球所有创作者</title>
-      <link>https://alternativeto.net/news/2025/9/youtube-expands-its-multi-language-audio-feature-to-all-creators-globally/</link>
-      <description><![CDATA[YouTube has officially expanded its multi-language audio feature, making it available to all creators after一项为期两年的试点计划。该功能使创建者可以使用几种语言上传称为音轨的音轨，从而使他们能够吸引其他地区的较大受众。此推出将是逐步的，在接下来的几周内将吸引数百万的内容创作者。
-该公司报告说，在 YouTube的飞行阶段，创建者的观看时间超过25％来自观众的观看时间，来自观众，使用了非优质语言，可用于本地的优势。要访问新语言功能，观众可以通过单击齿轮图标并导航到“音频轨道”菜单中的视频播放器中的首选音轨。
-除了音频外，YouTube还自2025年6月以来还一直在使用精选创建者测试多语言缩略图。此功能允许上载程序在不同区域的缩略图中本地化文本并补充音频本地化。 。
- 有关YouTube的更多信息 |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/youtube-expands-its-multi-language-audio-feature-to-all-creators-globally/</guid>
-      <pubDate>Thu, 11 Sep 2025 18:49:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软终于在全球范围</title>
-      <link>https://alternativeto.net/news/2025/9/microsoft-finally-drops-microsoft-store-publishing-fee-for-individual-developers-globally/</link>
-      <description><![CDATA[ Microsoft现在已在 Microsoft Store 上删除了其应用程序发布费。 Previously, individuals paid a one-time $19 fee, but this requirement began to be gradually lifted in select markets since its announcement in May and is now removed全球。
-个体开发人员也不再需要信用卡来创建一个帐户，现在只需要个人Microsoft帐户，具有ID和自拍照的身份验证以及提交基本详细信息。开发人员还可以将自己的应用程序内商业系统用于非获取应用程序，并保留其收入的100％。值得注意的是，这些更改仅适用于个人，而公司帐户保持不变，并且仍然需要$ 99的一次性注册费。
-该商店支持广泛的应用类型，包括Win32，UWP，PWA，.NET，MAUI和Electron。 Microsoft指出，该平台每月有2.5亿个活跃用户，应用程序出现在 Microsoft Intune ，旨在扩大可访问性并鼓励独立开发人员参与。值得注意的是，像 Apple App Store 仍然收取$ 99的年度注册费，而需要一次性$ 25付款。
-  href =“ https://alternativeto.net/software/microsoft-store/about/”&gt;有关Microsoft Store ＆nbsp; | |＆nbsp; &lt;a href =“]]></description>
-      <guid>https://alternativeto.net/news/2025/9/microsoft-finally-drops-microsoft-store-publishing-fee-for-individual-developers-globally/</guid>
-      <pubDate>Thu, 11 Sep 2025 17:37:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>DENO 2.5带来权限集，WebSocket标头支持，新的运行时API等</title>
-      <link>https://alternativeto.net/news/2025/9/deno-2-5-brings-permission-sets-websocket-header-support-new-runtime-api-and-more/</link>
-      <description><![CDATA[  deno 版本2.5已发布，为这个现代的Javascript Runtime提供了多个开发人员 -  focused-focused-focused for。该更新介绍了通过 deno.json 配置文件管理的权限集，从而使项目中定义和审核权限变得更容易。补充这些更改，新的 deno_audit_permissions 环境变量启用基于JSONL的许可审核记录以提高透明度。
-除了安全性改进之外，DENO 2.5通过将几个新的API添加到 deno.test ，在单个测试用例中进行设置和拆卸例程，对测试工作流进行大修。 WebSocket实施现在支持指定有关连接启动的自定义标题，从而使开发人员扩展了对身份验证和与外部服务集成的控制。
-构建在这些平台更新上，该版本为捆绑提供了强大的运行时API  javascript 或客户和服务器上下文。此外， deno捆绑包现在接受HTML文件作为入口点，使该工具更适合以Web为中心的构建。对于改进的开发人员人体工程学， DENO RUN 没有参数的调用，现在显示可用任务和脚本的列表，而 stdout 和 stderr 的新方法被添加到 deno&gt; deno.ChirdProcess  streams。
-其他更新包括升级到V8版本14.0和tesscript 5.9.2，对时间API的重大大修以及其他调整，例如改进的格式，依赖关系管理，收益。
-  href =“ https://alternativeto.net/software/deno/about/”&gt;更多有关Deno ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/deno-2-5-brings-permission-sets-websocket-header-support-new-runtime-api-and-more/</guid>
-      <pubDate>Thu, 11 Sep 2025 15:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Opera GX启动新的开源智能家居工具，用于设备控制和自定义自动化</title>
-      <link>https://alternativeto.net/news/2025/9/opera-gx-launches-new-open-source-smart-home-tool-for-device-control-and-custom-automations/</link>
-      <description><![CDATA[  opera gx 已经启动 opera gx smart smart home ，这是一个直接连接到摩擦器的开源项目，可将摩擦器连接到智能的家居智能主管。此更新将Opera GX变成了房间的交互部分，让用户从浏览器中控制灯，百叶窗和扬声器，而智能设备也可以触发浏览器操作。
-当门传感器检测到条目，将RGB照明与浏览器主题同步，在电影播放过程中，将RGB照明与浏览器主题同步或静音扬声器时，更新引入了自动化。用户还可以创建自定义设置，例如当CPU使用量高时打开红色的“请勿打扰”光。
-这些集成是基于MQTT协议构建的，可确保与枢纽的兼容性，包括家庭助理 href =“ https://feed.alternativeto.net/software/node-red/about/”&gt; node-red ，and 
-  href =“ https://alternativeto.net/software/opera-gx/about/”&gt;更多关于Opera GX ＆nbsp; | |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/opera-gx-launches-new-open-source-smart-home-tool-for-device-control-and-custom-automations/</guid>
-      <pubDate>Thu, 11 Sep 2025 15:28:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>播放设计首次亮相的本地iPad支持与直接设备预览</title>
-      <link>https://alternativeto.net/news/2025/9/play-design-debuts-native-ipad-support-with-direct-device-preview/</link>
-      <description><![CDATA[  Play Design 现在支持本机iPad App Design，允许用户专门为iPad设备创建应用程序。设计人员可以直接在iPad硬件上预览其iPad应用程序，并且肖像和景观方向均可提供。
-内置动作还可以创建动态，交互式体验。
-  externativeto＆raquo” href =“ https://alternativeto.net/software/play-app/about/”&gt;更多有关游戏设计的信息]]></description>
-      <guid>https://alternativeto.net/news/2025/9/play-design-debuts-native-ipad-support-with-direct-device-preview/</guid>
-      <pubDate>Thu, 11 Sep 2025 15:06:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hyprland 0.51大修手势系统，并添加了高级触控板自定义</title>
-      <link>https://alternativeto.net/news/2025/9/hyprland-0-51-overhauls-gesture-system-and-adds-advanced-trackpad-customization/</link>
-      <description><![CDATA[  hyprland  0.51 0.51引入了完全重新设计的手势系统，取代了先前的配置选项并增强了灵活性。该更新添加了广泛的触控板手势自定义，可启用每指，修饰符和方向控件。它还带来了新的配置选择，多个错误修复以及与浏览器的改进的屏幕快照兼容性。
-  href =“ https://alternativeto.net/software/hyprland/about/”&gt;有关Hyprland的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/9/hyprland-0-51-overhauls-gesture-system-and-adds-advanced-trackpad-customization/</guid>
-      <pubDate>Thu, 11 Sep 2025 15:01:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>PipeWire 1.4.8为Firewire和Apple Home Pod迷你支持提供低潜伏期</title>
-      <link>https://alternativeto.net/news/2025/9/pipewire-1-4-8-delivers-low-latency-for-firewire-and-apple-home-pod-mini-support/</link>
-      <description><![CDATA[  pipewire  1.4.8是一个与以前的1.x版本完全兼容的bugfix版本。它通过使用ALSA驱动程序为FireWire设备提供低潜伏期，并通过更新到RIOP模块来扩展与Apple Home Pod Minis的兼容性。该版本还引入了Rename_callback对Jack的支持，并实施了一些稳定性改进，包括更好的缓冲区管理和错误修复。
-  href =“ https://alternativeto.net/software/pipewire/about/”&gt;更多有关PipeWire ＆nbsp; | |＆nbsp; &lt;A href =“ https：//alternatativeto.net/software/popewewire/]]></description>
-      <guid>https://alternativeto.net/news/2025/9/pipewire-1-4-8-delivers-low-latency-for-firewire-and-apple-home-pod-mini-support/</guid>
-      <pubDate>Thu, 11 Sep 2025 14:49:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
