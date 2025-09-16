@@ -4,7 +4,37 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Tue, 16 Sep 2025 01:20:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Sep 2025 12:38:36 GMT</lastBuildDate>
+    <item>
+      <title>Swift 6.2带来更容易的并发性，提高安全性，WebAssembly支持等等</title>
+      <link>https://alternativeto.net/news/2025/9/swift-6-2-brings-easier-concurrency-improved-safety-webassembly-support-and-more/</link>
+      <description><![CDATA[苹果已发布 swift  6.2，引入了更新，将重点放在同时的编程，性能，性能，性能和改进的开发人员工具上。此版本使并发编程通过默认为单线程操作并提供直观的异步功能，从而使开发人员可以使用较少的样板编写安全的并发代码。同时，Swift 6.2在不牺牲安全性的情况下最大化性能，实现可预测的执行和最小开销的低级代码。
+遵循这些语言的改进，官方迅速扩展经过验证，现在由Swift.org分发。为了协助团队进行升级，新的迁移工具可帮助项目采用即将出现的语言功能。通过明显更快的清洁构建时间，特别是对于使用基于宏观的API的项目，开发人员的体验得到了进一步的增强。开发人员受益于改进LLDB中并发代码的调试以及在诊断组级别管理编译器警告的新选项。
+在生态系统改进的基础上，SWIFT 6.2库更新包括一个新的子过程软件包，基础库的增强功能以​​及旨在支持更安全的编码模式的新API。最后，Swift 6.2还添加了 webassembly 支持，允许客户端和服务器swift应用程序对目标wasm和部署到浏览器或其他兼容环境。
+ 更多关于Swift（编程语言）＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/swift-6-2-brings-easier-concurrency-improved-safety-webassembly-support-and-more/</guid>
+      <pubDate>Tue, 16 Sep 2025 11:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Imazing 3.4添加MacOS/iOS 26支持，改进的笔记和精致消息和WhatsApp</title>
+      <link>https://alternativeto.net/news/2025/9/imazing-3-4-adds-macos-ios-26-support-improved-notes-and-refined-messages-and-whatsapp/</link>
+      <description><![CDATA[  iMazing  3.4已发布为该实用程序的最新版本，用于管理和备份Mac和PC上的iPhone和iPad数据。 This update introduces full support for iOS 26, macOS 26, and all iPhone 17 models, ensuring compatibility with the newest Apple hardware and软件。
+在注释部分中，用户会注意到一个新的侧边栏，该侧边栏组织了固定和删除的项目，以及用于排序和日期选择的高级过滤器。现在，内容选项包括表，缩进列表，自定义文本颜色和新附件类型，例如音频剪辑，视频文件和呼叫记录。还添加了内联注意扩展和暗模式支持以提高可用性。
+Following these updates, Messages and WhatsApp now feature a dedicated viewer for photo and video attachments with carousel navigation and详细的元数据。该界面通过冗长的对话提供更快的滚动，WhatsApp增加了对频道的支持。同时，电话数据集更容易浏览，新的侧边栏显示了总呼叫时间，多SIM接收器列以及按数字或服务的高级过滤器。联系人的改进提供了小组计数， iCloud 状态和通信方法的单击链接。其他增强功能包括用于分开PDF和书籍的过滤器，以及针对权力用户和IT专业人员提供更多选项的数据的新工具。
+   href =“ https://alternativeto.net/software/imazing/about/”&gt;有关iMazing ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/imazing-3-4-adds-macos-ios-26-support-improved-notes-and-refined-messages-and-whatsapp/</guid>
+      <pubDate>Tue, 16 Sep 2025 09:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub引入了混合量子后SSH安全性，以更好地保护运输中的GIT数据</title>
+      <link>https://alternativeto.net/news/2025/9/github-introduces-hybrid-post-quantum-ssh-security-to-better-protect-git-data-in-transit/</link>
+      <description><![CDATA[  github 正在部署一种新的混合后Quantum Secure Secum Secure SSH键交换算法，以增强访问GIT数据的安全性。此更新旨在通过SSH连接时加强用户保护。
+使用X25519曲线，该算法结合了简化的NTRU Prime（一种量词后的协议），以及经典的椭圆曲线差异 - 黑尔曼方法。尽管量词后算法的审查少于确定的方法，但这种混合方法确保了整体安全水平永远不会比单独的经典算法更弱。结果，GitHub上的SSH连接现在受到当前和未来量子计算机的潜在解密的保护。
+尽管这些更改为SSH用户带来了增强的保护，但它们不会影响通过HTTPS访问的存储库。新的密码措施还排除了数据驻留在美国的GitHub企业云客户，因为该地区仅允许使用FIPS批准的密码学，并且量词后方法尚未获得FIPS批准。 
+ 更多有关Github ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/github-introduces-hybrid-post-quantum-ssh-security-to-better-protect-git-data-in-transit/</guid>
+      <pubDate>Tue, 16 Sep 2025 07:50:00 GMT</pubDate>
+    </item>
     <item>
       <title>Apple推出了iOS，macos，iPados等新液体玻璃设计的26版</title>
       <link>https://alternativeto.net/news/2025/9/apple-launches-version-26-across-ios-macos-ipados-and-more-with-new-liquid-glass-design/</link>
@@ -121,36 +151,6 @@ Since its debut last month, Dub Partners has tracked over $2 million in affiliat
   href =“ https://alternativeto.net/software/qwen/about/”&gt;更多有关Qwen ＆nbsp; |＆nbsp; |]]></description>
       <guid>https://alternativeto.net/news/2025/9/alibaba-releases-open-source-qwen3-next-model-with-10x-power-long-context-and-lower-costs/</guid>
       <pubDate>Sat, 13 Sep 2025 18:49:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>VS代码1.104添加自动聊天模型选择和增强代理功能</title>
-      <link>https://alternativeto.net/news/2025/9/vs-code-1-104-adds-auto-chat-model-selection-and-enhanced-agent-features/</link>
-      <description><![CDATA[  Visual Studio代码 1.104 1.104添加了预览自动聊天模型选择的支持，让编辑器在， gpt-5，gpt-5 mini或gpt-4.1 。该功能应用组织访问规则，显示所选模型和乘数，并为付费用户提供10％的折扣。
-代理现在更安全，因为对敏感文件的编辑需要确认，而工作空间根中的代理文件自动用于提供上下文。默认情况下，在代理模式下更改的文件列表会折叠，显示每个文件的添加和删除行，并在从源控件中分期或提交时自动接受更改。编码代理通过TODO代码操作，更丰富的上下文转发和专用聊天编辑器中的实时进度提高了委托。
-终端交互现在支持更严格的自动伴侣规则，可见的配置链接和Web-Fetch命令的警告。  copilot 支持Google sign-in，而Pylance介绍了AI Hover Hover Summaries和python中的记忆中的snippet snippet snippet snippet snippet。其他更新改进了语义代码搜索，扩展终端IntelliSense，并为每个配置文件或工作区禁用副副词功能添加设置。
- 有关Visual Studio Code的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/9/vs-code-1-104-adds-auto-chat-model-selection-and-enhanced-agent-features/</guid>
-      <pubDate>Sat, 13 Sep 2025 18:26:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软通过将团队从办公室解散团队躲避欧盟反托拉斯罚款</title>
-      <link>https://alternativeto.net/news/2025/9/microsoft-dodges-eu-antitrust-penalty-by-unbundling-teams-from-office/</link>
-      <description><![CDATA[ Microsoft避免了欧盟委员会接受了其承诺 关于使用 Office 365和Microsoft 365 。该决议遵循由作为解决方案的一部分，微软将以较低的价格提供办公套房，而拥有长期许可证的企业客户将能够切换到这些版本。该公司还致力于在其生产力工具和竞争性沟通平台之间实现互操作性，以解决监管机构对公平竞争的担忧。
- Microsoft将允许客户将团队数据转移到竞争对手服务上，大多数承诺持续了七年，并且互操作性和可移植性义务延伸至十个。该公司将其引入了全球性应用程序。预计该和解将在未来几周内得到批准，并在全球范围内延长，为Slack等替代方案提供了更多的空间，可以直接与团队竞争。
-  href =“ https://alternativeto.net/software/microsoft-teams/about/”&gt;更多关于Microsoft Teamss ＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/microsoft-dodges-eu-antitrust-penalty-by-unbundling-teams-from-office/</guid>
-      <pubDate>Fri, 12 Sep 2025 18:30:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sponsube 5.0添加了插件驱动的元数据，播放和性能升级等等</title>
-      <link>https://alternativeto.net/news/2025/9/spotube-5-0-adds-plugin-powered-metadata-playback-and-performance-upgrades-and-much-more/</link>
-      <description><![CDATA[  Spotsube 版本5.0已发布，这标志着由于法律和其他并发症的延长期之后，交叉平台和开放源音乐流媒体客户端的回报。此重大更新引入了基于插件的音乐元数据服务的支持，使用户可以通过一系列第三方来源连接Spotsube。
- 在这种新的体系结构上， Musicbrainz 和 listenbrainz 也通过专用插件提供了crobobbling Integration，为依靠开放数据平台的听众提供音乐跟踪。为了促进更广泛的插件开发，详细的文档现在已包括了安装和创建插件。
-除了元数据改进之外，新版本通过减少跳过问题并添加HTTP实时流（HLS）支持来解决播放可靠性。通过优化的图像处理，用户界面重构以及资源密集型任务（例如轨道源搜索到辅助线程）的卸载，这些增强功能得到了辅助。。
-除了这些亮点外，Spotsube 5.0还提供了各种其他新功能，进一步的增强功能和错误修复。
- 有关Spotsube的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/9/spotube-5-0-adds-plugin-powered-metadata-playback-and-performance-upgrades-and-much-more/</guid>
-      <pubDate>Fri, 12 Sep 2025 15:50:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
