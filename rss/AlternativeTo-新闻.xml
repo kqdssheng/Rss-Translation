@@ -4,7 +4,85 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Wed, 17 Sep 2025 01:21:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 12:40:15 GMT</lastBuildDate>
+    <item>
+      <title>Fedora Linux 43 Beta版与内核6.17，GNOME 49，KDE 6.4和更新的工具链发行</title>
+      <link>https://alternativeto.net/news/2025/9/fedora-linux-43-beta-released-with-kernel-6-17-gnome-49-kde-6-4-and-updated-toolchains/</link>
+      <description><![CDATA[ fedora项目已发布 Fedora Linux 43 的公共Beta。 6.17 。  fedora workstation 与 kde plasma 6.4 。现在，更多的fedora旋转使用 anaconda webui installer ，fedora kinoite启用自动更新，默认情况下，安装程序乘坐dnf 5 for dnf 5 for Package Management。 Fedora Workstation还采用了仅限Wayland的Gnome会议，放弃了X11后备。
+发行版用GCC 15.2，GNU Binutils 2.45，GNU C库2.42，GDB 17.1，LLVM 21，Golang 1.25，Perl 5.42，RPM 6.0和Python 3.14更新核心工具链。诸如PostgreSQL 18，MySQL 8.4，Dovecot 2.4，Ruby on Rails 8.0和Tomcat 10.1之类的系统组件也已升级。
+ fedora 43在noto color emoji字体中添加了Colrv1支持，引入了 hare编程语言语言，并提供自动在包装上释放包装上的自动化自动化自动化。弃用的组件正在退休，包括GTK-RS绑定和Python-Nose软件包，以提高安全性和可维护性。预计将于10月下旬或今年11月11日到今年的11月11日的Fedora Linux 43的稳定发布。
+View article on AlternativeTo »更多有关fedora ＆nbsp; | |＆nbsp;  fedora&gt; fedora&gt;]]></description>
+      <guid>https://alternativeto.net/news/2025/9/fedora-linux-43-beta-released-with-kernel-6-17-gnome-49-kde-6-4-and-updated-toolchains/</guid>
+      <pubDate>Wed, 17 Sep 2025 11:34:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Roku计划在其流平台上开始使用AI驱动的广告</title>
+      <link>https://alternativeto.net/news/2025/9/roku-is-planning-to-start-using-ai-driven-ads-on-its-streaming-platform/</link>
+      <description><![CDATA[  roku 最近宣布，该宣布正在计划扩展生成AI在其流媒体平台上进行广告的用法，从而集中在搜索和社交媒体上的小型和中等大小的企业上，这些商务均与搜索和社交媒体相关。 at 
+高管还指出，尽管 https：//alternativeto.net/software/software/software/software/software/the-roku-channel/the-roku-channel/about/about/ abiout/ about/ abiout 一年一度的总计，每年都有80％的班级估计，汇总了80％的汇总，汇总了80％的汇集。 7月，该公司仅售出了大约一半的广告库存，留下了大量的未售空间，希望AI生成的广告可以填充。
+吉达（Jedda）将该计划描述为一种将中小型企业（SMB）（例如当地汽车经销店，妈妈和流行店）带入与新的自助AI工具，营销活动和销售团队的连接电视广告的一种方式。他还指出，由于其他AI公司针对同一市场，数以百万计的企业可能需要来自多个提供商的解决方案，这增加了流媒体受众可能会随着策略的扩展而面临大量机器生成的广告的可能性。 。
+  href =“ https://alternativeto.net/software/roku-software/about/”&gt;更多关于Roku ＆nbsp; | |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/roku-is-planning-to-start-using-ai-driven-ads-on-its-streaming-platform/</guid>
+      <pubDate>Wed, 17 Sep 2025 11:10:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android Launcher Lawnchair 15 Beta添加抽屉文件夹，码头升级和扩展搜索</title>
+      <link>https://alternativeto.net/news/2025/9/android-launcher-lawnchair-15-beta-adds-drawer-folders-dock-upgrades-and-expanded-search/</link>
+      <description><![CDATA[  Lawnchair  15 Beta 该开放式Android App Launcher的最新版本已发布，现在已与Android 15完全相处。 href =“ https://alternativeto.net/news/2025/9/nova-launcher-is-shutting-shutting-down-as-founder-departs-and-open-source-plans-plans-plans-are-cancel-cancele-/-”&gt; nova启动者的脱节，使LawnChair ，使LawnChair ，使LawnChair Quance Quance Quance Quance Quance Quance Quance Quance 
+第一个beta引入了两种长期以来的方法来在应用程序抽屉中组织您的应用程序。手动文件夹允许用户创建，名称和重新排序应用程序组，而 caddy 是一个实验功能，会自动将应用程序分类为您的文件夹。
+ Android 15, resulting in better stability and unlocking platform features like Private Space and App Archiving.码头部分获得了多次升级：用户可以调整其背景颜色和转角半径，将小部件与应用程序图标一起放置，并显示用于码头应用的图标标签。
+遵循这些改进，搜索功能变得更加自定义。割草机的应用抽屉现在支持自定义的Web搜索引擎，并添加了诸如 ecosia ， Firefox 其集成的提供商之一。这些增强功能旨在使日常导航和搜索更适合Android Power用户。
+ 有关Lawnchair的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/9/android-launcher-lawnchair-15-beta-adds-drawer-folders-dock-upgrades-and-expanded-search/</guid>
+      <pubDate>Wed, 17 Sep 2025 11:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Opera带来了重新设计的历史，Google Lens图像搜索，视频广告跳过和两个新主题</title>
+      <link>https://alternativeto.net/news/2025/9/opera-brings-redesigned-history-google-lens-image-search-video-ad-skip-and-two-new-themes/</link>
+      <description><![CDATA[  Opera 的最新浏览器更新带来了重新构想的历史经验。重新设计的界面现在通过更广泛的类别组织访问的网站，使回忆和重新访问过去的活动变得更加容易。用户可以从其浏览历史记录中选择多个条目，并将它们重新打开为A  tab岛，即使使用恢复的会话，也可以利用Opera的高级选项卡管理系统。还有一个新的选项可以从特定域中删除所有条目。
+遵循这些可用性增强功能，Opera引入了对“使用Google Lens搜索图像” 选项来执行基于图像的搜索。这将功能强大的视觉搜索功能直接嵌入到浏览工作流中。
+此外，Opera现在具有实验性视频Skip 功能。该工具使用户可以跳过广告以访问视频内容，独立于本机广告阻滞剂状态。最后，为了扩展自定义选项，该更新包括两个新的动态主题：黑曜石和 Cyber​​city 。这些添加是根据最近的用户反馈来开发的，以进一步个性化浏览器环境。
+ 更多有关Opera ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/opera-brings-redesigned-history-google-lens-image-search-video-ad-skip-and-two-new-themes/</guid>
+      <pubDate>Wed, 17 Sep 2025 09:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bruno v2.11.0：自定义HTTP方法，用于GRPC的WSSE，UI增强和错误修复</title>
+      <link>https://alternativeto.net/news/2025/9/bruno-v2-11-0-custom-http-methods-wsse-for-grpc-ui-enhancements-and-bug-fixes/</link>
+      <description><![CDATA[  bruno  v2.11.0介绍自定义HTTP方法支持，为API请求提供更大的灵活性。该更新还带来了高级全局搜索，并为GRPC连接添加了WSSE身份验证。
+UI改进和多个错误修复地​​址崩溃，身份验证问题，cookie和重定向。
+ 更多有关Bruno ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/bruno-v2-11-0-custom-http-methods-wsse-for-grpc-ui-enhancements-and-bug-fixes/</guid>
+      <pubDate>Wed, 17 Sep 2025 08:06:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>困惑Pro为电子邮件，日历，概念和github带来集成</title>
+      <link>https://alternativeto.net/news/2025/9/perplexity-pro-brings-integrations-for-email-calendar-notion-and-github/</link>
+      <description><![CDATA[  perplexity  pro用户现在可以选择集成他们的电子邮件，日历， github 帐户。 Enterprise Pro订阅者还可以连接 linear 和
+ 在交替href =“ https://alternativeto.net/software/perplexity-ai/about/”&gt;更多有关Perplexity ＆nbsp; | |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/perplexity-pro-brings-integrations-for-email-calendar-notion-and-github/</guid>
+      <pubDate>Wed, 17 Sep 2025 08:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>AliasVault 0.23发行了多合一的Docker图像和移动应用程序增强功能</title>
+      <link>https://alternativeto.net/news/2025/9/aliasvault-0-23-released-with-all-in-one-docker-image-and-mobile-app-enhancements/</link>
+      <description><![CDATA[  AliasVault  0.23现在可以作为此End-end-end-end End-End加密密码的最新版本和电子邮件Alias Manager。该版本引入了自我托管的重大更改：用户现在可以部署一个多合一的Docker映像，该图像将所有必需的组件捆绑到一个容器中。这种方法降低了独立运行AliasVault的障碍，并消除了管理多个容器的需求。
+此外，iOS和Android应用程序现在让用户可以直接在其设备上调整密码生成器设置，例如长度和复杂性。即使离线，也可以从移动应用程序中将保险库数据导出到CSV，从而确保在服务器中断期间访问凭据。在移动设备上进行的输入处理已被完善，以在平台上提供更流畅的触摸和触控板操作。
+除了这些更新之外，该项目还包括用户界面和一般可用性改进，以及技术增强功能和一些错误修复。 AliasVault还将其代码库迁移到a 专用的Github组织，并具有
+ 更多有关Aliasvault ＆nbsp; | |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/aliasvault-0-23-released-with-all-in-one-docker-image-and-mobile-app-enhancements/</guid>
+      <pubDate>Wed, 17 Sep 2025 07:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google正在日落官方的天气应用程序，用于Wear OS 6和更新</title>
+      <link>https://alternativeto.net/news/2025/9/google-is-sunsetting-its-official-weather-app-for-wear-os-6-and-newer/</link>
+      <description><![CDATA[ Google正在中断其天气应用程序用于运行 android 16.  如果安装的应用程序可以继续使用。手表跑步佩戴操作系统5或更早，仍然不受影响，仍然可以下载该应用。
+在像素手表型号上，更改将自动处理，用户将移至 Pixel天气升级时要升级OS 6或更高。替换应用程序保留了类似的布局，但介绍了Google的材料3表达设计。
+对于来自三星，OnePlus和Mobvoi等品牌的第三方设备，该应用程序将从Wear OS 6上的Play Store中消失，除非它是在更新之前安装的。 Google建议受影响的用户依靠第三方替代方案，制造商提供的选项，或通过 google gemini 在佩戴OS 3及以上。
+ 在交流中的文章href =“ https://alternativeto.net/software/google-weather/about/”&gt;有关Google天气的更多信息 |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/google-is-sunsetting-its-official-weather-app-for-wear-os-6-and-newer/</guid>
+      <pubDate>Wed, 17 Sep 2025 00:25:40 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI释放新的GPT-5-Codex模型，用于自主编码和大规模重构</title>
       <link>https://alternativeto.net/news/2025/9/openai-releases-new-gpt-5-codex-model-for-autonomous-coding-and-large-scale-refactoring/</link>
@@ -35,9 +113,8 @@
     <item>
       <title>Omni Group应用程序更新了Macos Tahoe 26，iOS 26及以上的应用程序</title>
       <link>https://alternativeto.net/news/2025/9/omni-group-apps-updated-for-macos-tahoe-26-ios-26-and-more/</link>
-      <description><![CDATA[现在，全范围的OMNI组应用程序与Macos Tahoe 26，iOS 26，iPados 26和Visionos 26。操作系统26功能，例如Carplay小部件，聚光灯快捷方式和窗户调整大小。
-其他应用程序，包括 omnigraffle ， href =“ https://alternativeto.net/software/omniplan/about/”&gt; Omniplan ，在Macos Tahoe 26，iOS 26，iOS 26，iPados 26，WatchOS 26，WatchOS 26和Visionos 26中完全兼容。
- OmnidiskSweeper 也已经得到了Macos Tahoe 26的支持，并通过Via Voiceover提高了可访问性。
+      <description><![CDATA[现在，全范围的OMNI组应用程序与Macos Tahoe 26，iOS 26，iPados 26和Visionos 26。操作系统26功能，例如carplay小部件，聚光灯快捷方式和窗口大小。
+其他应用程序，包括 omnigraffle ， a a a a&gt; a a&gt; omna&gt; href =“ https://alternativeto.net/software/omniplan/about/”&gt; omniplan ，Macos Tahoe 26，iOS 26，iOS 26，iPados 26，Watchos 26，Watchos 26和Visionos 26。 href =“ https://alternativeto.net/software/omnidisksweeper/about/”&gt; OmnidiskSweeper 也已经用Macos Tahoe 26支持26的支持和通过配音提高可访问性。
  更多有关Omnifocus ＆nbsp; | |＆nbsp; |]]></description>
       <guid>https://alternativeto.net/news/2025/9/omni-group-apps-updated-for-macos-tahoe-26-ios-26-and-more/</guid>
       <pubDate>Tue, 16 Sep 2025 15:38:46 GMT</pubDate>
@@ -67,88 +144,6 @@
   thiornatativeto;     href =“ https://alternativeto.net/software/ubuntu/about/”&gt;更多有关Ubuntu ＆nbsp; | |＆nbsp; &lt;A href =“ https：//alternatativeto.net/software/software/software/software/software/ubuntuuntu/]]></description>
       <guid>https://alternativeto.net/news/2025/9/canonical-to-support-and-distribute-nvidia-cuda-natively-in-ubuntu/</guid>
       <pubDate>Tue, 16 Sep 2025 14:44:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>事物3.22引入了刷新接口，MACOS 26支持和iPad窗口模式</title>
-      <link>https://alternativeto.net/news/2025/9/things-3-22-introduces-refreshed-interface-macos-26-support-and-ipad-windowed-mode/</link>
-      <description><![CDATA[  Things  3.22引入了一个更新的用户界面，具有修订后的窗户形状，放松的间距，放松的间距和玻璃侧键效应，玻璃侧键效应，使颜色闪闪发光。在整个应用程序中，玻璃纽扣都提供柔和的视觉反馈，并以光泽和触摸尺度响应。 This version also brings a refined app icon designed for compatibility with macOS 26 Tahoe, ensuring a consistent look.
-在iPad上，事物现在可以巧妙地适应 iPados 的窗口模式并提供Mac-like功能，包括每个窗口的交通灯控件。现在从屏幕的顶部边缘滑动会发现一个新的菜单栏，为跨平台的用户增强了熟悉的多任务体验。
-基于视觉一致性，MacOS小部件样式现在与他们的iOS和iPados对准。此外，事物方便的控制中心控件将扩展到Mac和Apple Watch，提供更多的方法来管理任务。
-进一步的改进包括在Visionos上的窗口小部件和写作工具的到达，增强 Spointlight 在MacOS上集成，并流化支持自动化。这些添加增强了Apple设备中用户的平台集成和可访问性。
- 在交流中的文章href =“ https://alternativeto.net/software/things/about/”&gt;更多有关事物的信息]]></description>
-      <guid>https://alternativeto.net/news/2025/9/things-3-22-introduces-refreshed-interface-macos-26-support-and-ipad-windowed-mode/</guid>
-      <pubDate>Tue, 16 Sep 2025 14:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>TOR Project启动了一个新的用于Android的VPN，并使用次要路由启动</title>
-      <link>https://alternativeto.net/news/2025/9/tor-project-launches-a-new-vpn-in-beta-for-android-with-per-app-routing/</link>
-      <description><![CDATA[  tor project 已发布通过Google Play商店。该应用程序用于测试和反馈，而不是用于高风险使用，因为某些功能仍然不完整并且可能泄漏。
- Tor VPN Beta通过TOR网络路由流量，掩盖了应用程序，服务和监视器的IP地址和位置。每个应用程序都可以在自己的TOR电路上运行，并具有单独的出口IP，从而限制了跨应用跟踪。用户可以选择哪个应用程序通过网络连接，流量跨越了五个节点：一个条目，三个中间体和一个出口，类似于为了解决审查制度，该应用程序包括诸如obfs4之类的内置桥梁，该桥掩盖了随机数据的流量和雪花，并模仿了视频调用。可以从TOR中添加或要求其他桥梁。该应用程序是基于 arti ，基于tor的基于RUST的实现，提供了比基于C的较旧的C&gt;的安全基础。。
-  href =“ https://alternativeto.net/software/tor-vpn/about/”&gt;更多有关Tor Vpn ＆nbsp; | |＆nbsp; &lt;A href =“]]></description>
-      <guid>https://alternativeto.net/news/2025/9/tor-project-launches-a-new-vpn-in-beta-for-android-with-per-app-routing/</guid>
-      <pubDate>Tue, 16 Sep 2025 13:51:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ghostty 1.2添加命令调色板，新应用图标，快速终端大小和SSH改进</title>
-      <link>https://alternativeto.net/news/2025/9/ghostty-1-2-adds-command-palette-new-app-icons-quick-terminal-size-and-ssh-improvements/</link>
-      <description><![CDATA[  ghostty  1.2.0已发布，作为此跨平台终端模拟器的最新更新，引入了工作流和定制的几个增强功能。新的命令调色板可快速访问操作，例如打开新终端，移动焦点以及执行诸如复制和粘贴之类的常见命令。响应用户请求，一个新的配置选项， Quick-terminal-size ，现在允许用户为快速终端Windows设置默认大小。
-扩展视觉集成，Ghostty 1.2为MacOS和GTK环境带来了刷新的图标。 MACOS图标现在与Tahoe界面一致，而 gtk  iCon更好地匹配流行的linux和
-渲染器的后端已被重组以在
-其他更新包括图形进度栏，后备字体大小选项，新的内置字形以及对。
- 更多有关ghostty ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/ghostty-1-2-adds-command-palette-new-app-icons-quick-terminal-size-and-ssh-improvements/</guid>
-      <pubDate>Tue, 16 Sep 2025 12:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Swift 6.2带来更容易的并发性，提高安全性，WebAssembly支持等等</title>
-      <link>https://alternativeto.net/news/2025/9/swift-6-2-brings-easier-concurrency-improved-safety-webassembly-support-and-more/</link>
-      <description><![CDATA[苹果已发布 swift  6.2，引入了更新，将重点放在同时的编程，性能，性能，性能和改进的开发人员工具上。此版本使并发编程通过默认为单线程操作并提供直观的异步功能，从而使开发人员可以使用较少的样板编写安全的并发代码。同时，Swift 6.2在不牺牲安全性的情况下最大化性能，实现可预测的执行和最小开销的低级代码。
-遵循这些语言的改进，官方迅速扩展经过验证，现在由Swift.org分发。为了协助团队进行升级，新的迁移工具可帮助项目采用即将出现的语言功能。通过明显更快的清洁构建时间，特别是对于使用基于宏观的API的项目，开发人员的体验得到了进一步的增强。开发人员受益于改进LLDB中并发代码的调试以及在诊断组级别管理编译器警告的新选项。
-在生态系统改进的基础上，SWIFT 6.2库更新包括一个新的子过程软件包，基础库的增强功能以​​及旨在支持更安全的编码模式的新API。最后，Swift 6.2还添加了 webassembly 支持，允许客户端和服务器swift应用程序对目标wasm和部署到浏览器或其他兼容环境。
- 更多关于Swift（编程语言）＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/swift-6-2-brings-easier-concurrency-improved-safety-webassembly-support-and-more/</guid>
-      <pubDate>Tue, 16 Sep 2025 11:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Imazing 3.4添加MacOS/iOS 26支持，改进的笔记和精致消息和WhatsApp</title>
-      <link>https://alternativeto.net/news/2025/9/imazing-3-4-adds-macos-ios-26-support-improved-notes-and-refined-messages-and-whatsapp/</link>
-      <description><![CDATA[  iMazing  3.4已发布为该实用程序的最新版本，用于管理和备份Mac和PC上的iPhone和iPad数据。 This update introduces full support for iOS 26, macOS 26, and all iPhone 17 models, ensuring compatibility with the newest Apple hardware and软件。
-在注释部分中，用户会注意到一个新的侧边栏，该侧边栏组织了固定和删除的项目，以及用于排序和日期选择的高级过滤器。现在，内容选项包括表，缩进列表，自定义文本颜色和新附件类型，例如音频剪辑，视频文件和呼叫记录。还添加了内联注意扩展和暗模式支持以提高可用性。
-Following these updates, Messages and WhatsApp now feature a dedicated viewer for photo and video attachments with carousel navigation and详细的元数据。该界面通过冗长的对话提供更快的滚动，WhatsApp增加了对频道的支持。同时，电话数据集更容易浏览，新的侧边栏显示了总呼叫时间，多SIM接收器列以及按数字或服务的高级过滤器。联系人的改进提供了小组计数， iCloud 状态和通信方法的单击链接。其他增强功能包括用于分开PDF和书籍的过滤器，以及针对权力用户和IT专业人员提供更多选项的数据的新工具。
-   href =“ https://alternativeto.net/software/imazing/about/”&gt;有关iMazing ＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/imazing-3-4-adds-macos-ios-26-support-improved-notes-and-refined-messages-and-whatsapp/</guid>
-      <pubDate>Tue, 16 Sep 2025 09:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub引入了混合量子后SSH安全性，以更好地保护运输中的GIT数据</title>
-      <link>https://alternativeto.net/news/2025/9/github-introduces-hybrid-post-quantum-ssh-security-to-better-protect-git-data-in-transit/</link>
-      <description><![CDATA[  github 正在部署一种新的混合后Quantum Secure Secum Secure SSH键交换算法，以增强访问GIT数据的安全性。此更新旨在通过SSH连接时加强用户保护。
-使用X25519曲线，该算法结合了简化的NTRU Prime（一种量词后的协议），以及经典的椭圆曲线差异 - 黑尔曼方法。尽管量词后算法的审查少于确定的方法，但这种混合方法确保了整体安全水平永远不会比单独的经典算法更弱。结果，GitHub上的SSH连接现在受到当前和未来量子计算机的潜在解密的保护。
-尽管这些更改为SSH用户带来了增强的保护，但它们不会影响通过HTTPS访问的存储库。新的密码措施还排除了数据驻留在美国的GitHub企业云客户，因为该地区仅允许使用FIPS批准的密码学，并且量词后方法尚未获得FIPS批准。 
- 更多有关Github ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/github-introduces-hybrid-post-quantum-ssh-security-to-better-protect-git-data-in-transit/</guid>
-      <pubDate>Tue, 16 Sep 2025 07:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple推出了iOS，macos，iPados等新液体玻璃设计的26版</title>
-      <link>https://alternativeto.net/news/2025/9/apple-launches-version-26-across-ios-macos-ipados-and-more-with-new-liquid-glass-design/</link>
-      <description><![CDATA[苹果已正式发布 ios 26 ， iPados 26 ， TVOS 26 和每个平台上的液体玻璃设计语言在每个平台上。自iOS 7以来，新的半透明UI被视为苹果最大的视觉刷新，将反射性和折光按钮，滑块，标签和导航元素带到图标，窗口小部件和系统控制中，苹果将其描述为增强对内容的焦点并增加了互动性的材料。
-除了新外观之外，ios 26在 message 中href =“ https://alternativeto.net/news/2025/9/the-new-airpods-live-translation-feature-feature-won-t-be-be-abaileable-in-in-the-eu-at-launch/&gt; and airpods  href =“ https://alternativeto.net/software/photos/about/”&gt; Photos app 带有单独的画廊和收藏量，来自iOS 18的反馈，是新的
-另一方面，Macos 26 Tahoe将液体玻璃带到图标和菜单上，苹果的最大 Spocklight/spocklight&gt; Spocklight&gt; Spocklight 使用剪贴板历史经理和新的动作杂货店更新href =“ https://feed.alternativeto.net/software/raycast/about/”&gt; raycast ，通过iPhone的实时活动，台式机上的本机手机应用程序，更有能力 files 和 Apple TV 应用程序和海报艺术，Visionos 26添加空间小部件，升级人物，升级的空间，宽阔的空间，并与之共享的空间，&lt;
-也有几个更新的应用程序，例如 Apple Music ，它获得了smothertions transitions transitions Plus Lyric Translation和lyric Translation and pronnunciation and pronnunciation and pronnunciation and  Fitness  增加了睡眠评分，以及刷新的锻炼UI和锻炼伙伴教练，还有一个新的 Apple Arcade  Integration 的集成，用于快速设置和社交功能的游戏覆盖。
- 更多有关ios ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/apple-launches-version-26-across-ios-macos-ipados-and-more-with-new-liquid-glass-design/</guid>
-      <pubDate>Mon, 15 Sep 2025 20:56:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Elevenlabs通过配音，标题和人类编辑推出了Productions托管服务</title>
-      <link>https://alternativeto.net/news/2025/9/elevenlabs-launches-productions-managed-service-with-dubbing-captions-and-human-editing/</link>
-      <description><![CDATA[ElevenLabs has launched Productions, a managed直接在其平台内订购人文编辑内容的服务。它针对创建者和媒体公司，合并了通常需要多个供应商的工作流程，提供配音，字幕，字幕，笔录和有声读物和有声读物。定价起价为每分钟2.00美元。
-配音由本地化专家，字幕和字幕进行了改进，并使用可访问性功能进行翻译和格式，并使用SCRIBE语音到文本模型将笔录编辑为99％的精度。有声读物将AI叙述与人类编辑结合在一起以保持一致性。
-该服务提供端到端管理，并提供更快的周转，后处理和优先支持。订单可以通过 Productions Page 在Elevenlabs帐户中，专业人士可以适用于加入生产者网络。
- 有关Elevenlabs ＆nbsp; | |＆nbsp; &lt;A href =“]]></description>
-      <guid>https://alternativeto.net/news/2025/9/elevenlabs-launches-productions-managed-service-with-dubbing-captions-and-human-editing/</guid>
-      <pubDate>Mon, 15 Sep 2025 19:58:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
