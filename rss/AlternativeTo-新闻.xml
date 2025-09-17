@@ -4,7 +4,101 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Tue, 16 Sep 2025 12:38:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 01:21:30 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI释放新的GPT-5-Codex模型，用于自主编码和大规模重构</title>
+      <link>https://alternativeto.net/news/2025/9/openai-releases-new-gpt-5-codex-model-for-autonomous-coding-and-large-scale-refactoring/</link>
+      <description><![CDATA[ OpenAi已发布GPT-5-Codex，该版本的 codex 。该模型旨在处理现实世界的工程工作，从启动新项目并添加功能到编写测试和进行大规模重构。它在关键基准上的较早GPT-5变体的表现要优于验证的SWE-Bench得分74.5％，而GPT-5高的得分为72.8％，而重构任务的得分为51.3％，而33.9％的得分为51.3％。它还改善了前端开发，包括移动网络支持。
+ GPT-5-Codex引入了更强的自主权，能够在复杂的任务上运行七个小时以上，同时根据任务复杂性调整其花费的时间。在云中，它可以将图像作为输入，视觉跟踪进度，并生成完成工作的屏幕截图。这些功能将法典范围扩展到持续的独立开发支持。。
+该模型在代码审核中也更好，通过将拉力请求意图与差异，整个存储库推理以及执行代码和测试以验证结果。现在，该模型包含在CLI，IDE，Web，Mobile和GitHub的Chatgpt Plus，Pro，Business，Edu和Enterprise计划中，Codex CLI的API访问即将到来。
+ 在交流中的文章href =“ https://alternativeto.net/software/openai-codex/about/”&gt;更多有关Openai codex  openai codex  |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/openai-releases-new-gpt-5-codex-model-for-autonomous-coding-and-large-scale-refactoring/</guid>
+      <pubDate>Tue, 16 Sep 2025 16:57:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>格兰诺拉麦片添加了电话记录笔记和转录到iPhone应用</title>
+      <link>https://alternativeto.net/news/2025/9/granola-adds-phone-call-note-taking-and-transcription-to-iphone-app/</link>
+      <description><![CDATA[  granola 已经为iPhone启动了一项新功能，使用户可以在打电话上记录笔记。现在，该应用程序转录呼叫，以便用户可以专注于对话而不是键入。
+此更新可在iPhone的Granola的最新版本中获得。
+ 在替代文章上查看文章href =“ https://alternativeto.net/software/granola-1/about/”&gt;更多关于granola  ＆nbsp; | |＆nbsp;  granola &lt;/]]></description>
+      <guid>https://alternativeto.net/news/2025/9/granola-adds-phone-call-note-taking-and-transcription-to-iphone-app/</guid>
+      <pubDate>Tue, 16 Sep 2025 15:47:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Raycast V1.103.0实现液体玻璃控件和彗星浏览器支持</title>
+      <link>https://alternativeto.net/news/2025/9/raycast-v1-103-0-implements-liquid-glass-controls-and-comet-browser-support/</link>
+      <description><![CDATA[  raycast  v1.103.0将液体玻璃控件引入AI聊天，使其设计与新的Macos Tahoe Aesthetic一致。该更新还增加了对焦点扩展中彗星浏览器的支持。其他修复程序在AI聊天中的全屏和窗口行为，以及在Macos Tahoe上的视频通话中自动询问中断。
+  href =“ https://alternativeto.net/software/raycast/about/”&gt;有关Raycast的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/9/raycast-v1-103-0-implements-liquid-glass-controls-and-comet-browser-support/</guid>
+      <pubDate>Tue, 16 Sep 2025 15:43:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Omni Group应用程序更新了Macos Tahoe 26，iOS 26及以上的应用程序</title>
+      <link>https://alternativeto.net/news/2025/9/omni-group-apps-updated-for-macos-tahoe-26-ios-26-and-more/</link>
+      <description><![CDATA[现在，全范围的OMNI组应用程序与Macos Tahoe 26，iOS 26，iPados 26和Visionos 26。操作系统26功能，例如Carplay小部件，聚光灯快捷方式和窗户调整大小。
+其他应用程序，包括 omnigraffle ， href =“ https://alternativeto.net/software/omniplan/about/”&gt; Omniplan ，在Macos Tahoe 26，iOS 26，iOS 26，iPados 26，WatchOS 26，WatchOS 26和Visionos 26中完全兼容。
+ OmnidiskSweeper 也已经得到了Macos Tahoe 26的支持，并通过Via Voiceover提高了可访问性。
+ 更多有关Omnifocus ＆nbsp; | |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/omni-group-apps-updated-for-macos-tahoe-26-ios-26-and-more/</guid>
+      <pubDate>Tue, 16 Sep 2025 15:38:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS 26首次亮相液体玻璃设计和人体工程学收件箱更新</title>
+      <link>https://alternativeto.net/news/2025/9/spark-mail-for-ios-26-debuts-liquid-glass-design-and-ergonomic-inbox-updates/</link>
+      <description><![CDATA[  Spark Mail  For IOS 26推出了新的液体玻璃设计，引入了半透明的工具栏和Blurred Backdrops，以实现现代外观。诸如搜索和日历之类的密钥控件已移至收件箱底部，以便单手访问。
+该更新还提供了修改后的上下文菜单和更有效的搜索体验，简化了应用程序中的常见操作。
+ 查看文章href =“ https://alternativeto.net/software/spark-e-mail/about/”&gt;更多关于Spark Mail ＆nbsp; | |＆nbsp; &lt;A href =“ https：//alternativeto.net/software/spark-e-mail/]]></description>
+      <guid>https://alternativeto.net/news/2025/9/spark-mail-for-ios-26-debuts-liquid-glass-design-and-ergonomic-inbox-updates/</guid>
+      <pubDate>Tue, 16 Sep 2025 15:04:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Alfred 5.7带来了与Macos 26 Tahoe和更新的设置搜索的完全兼容性</title>
+      <link>https://alternativeto.net/news/2025/9/alfred-5-7-brings-full-compatibility-with-macos-26-tahoe-and-updated-settings-search/</link>
+      <description><![CDATA[  Alfred  5.7现在可以与MacOS 26 Tahoe完全兼容，并在整个Beta循环中都经过了测试。该更新具有重新设计的内置系统设置搜索，从而消除了对单独的工作流程的需求。
+其他增强功能包括针对Alfred Remote的新设置代理，一个用于工作流详细信息的AppleScript选项以及多个错误修复。
+ 有关Alfred ＆nbsp; |＆nbsp; &lt;A href =“ https：//alternatativeto.net/software/software/software/alfred/”]]></description>
+      <guid>https://alternativeto.net/news/2025/9/alfred-5-7-brings-full-compatibility-with-macos-26-tahoe-and-updated-settings-search/</guid>
+      <pubDate>Tue, 16 Sep 2025 14:54:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>规范以支持和分发Nvidia cuda在Ubuntu中本地</title>
+      <link>https://alternativeto.net/news/2025/9/canonical-to-support-and-distribute-nvidia-cuda-natively-in-ubuntu/</link>
+      <description><![CDATA[ canonical， ubuntu 已宣布它将支持和分发
+  thiornatativeto;     href =“ https://alternativeto.net/software/ubuntu/about/”&gt;更多有关Ubuntu ＆nbsp; | |＆nbsp; &lt;A href =“ https：//alternatativeto.net/software/software/software/software/software/ubuntuuntu/]]></description>
+      <guid>https://alternativeto.net/news/2025/9/canonical-to-support-and-distribute-nvidia-cuda-natively-in-ubuntu/</guid>
+      <pubDate>Tue, 16 Sep 2025 14:44:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>事物3.22引入了刷新接口，MACOS 26支持和iPad窗口模式</title>
+      <link>https://alternativeto.net/news/2025/9/things-3-22-introduces-refreshed-interface-macos-26-support-and-ipad-windowed-mode/</link>
+      <description><![CDATA[  Things  3.22引入了一个更新的用户界面，具有修订后的窗户形状，放松的间距，放松的间距和玻璃侧键效应，玻璃侧键效应，使颜色闪闪发光。在整个应用程序中，玻璃纽扣都提供柔和的视觉反馈，并以光泽和触摸尺度响应。 This version also brings a refined app icon designed for compatibility with macOS 26 Tahoe, ensuring a consistent look.
+在iPad上，事物现在可以巧妙地适应 iPados 的窗口模式并提供Mac-like功能，包括每个窗口的交通灯控件。现在从屏幕的顶部边缘滑动会发现一个新的菜单栏，为跨平台的用户增强了熟悉的多任务体验。
+基于视觉一致性，MacOS小部件样式现在与他们的iOS和iPados对准。此外，事物方便的控制中心控件将扩展到Mac和Apple Watch，提供更多的方法来管理任务。
+进一步的改进包括在Visionos上的窗口小部件和写作工具的到达，增强 Spointlight 在MacOS上集成，并流化支持自动化。这些添加增强了Apple设备中用户的平台集成和可访问性。
+ 在交流中的文章href =“ https://alternativeto.net/software/things/about/”&gt;更多有关事物的信息]]></description>
+      <guid>https://alternativeto.net/news/2025/9/things-3-22-introduces-refreshed-interface-macos-26-support-and-ipad-windowed-mode/</guid>
+      <pubDate>Tue, 16 Sep 2025 14:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>TOR Project启动了一个新的用于Android的VPN，并使用次要路由启动</title>
+      <link>https://alternativeto.net/news/2025/9/tor-project-launches-a-new-vpn-in-beta-for-android-with-per-app-routing/</link>
+      <description><![CDATA[  tor project 已发布通过Google Play商店。该应用程序用于测试和反馈，而不是用于高风险使用，因为某些功能仍然不完整并且可能泄漏。
+ Tor VPN Beta通过TOR网络路由流量，掩盖了应用程序，服务和监视器的IP地址和位置。每个应用程序都可以在自己的TOR电路上运行，并具有单独的出口IP，从而限制了跨应用跟踪。用户可以选择哪个应用程序通过网络连接，流量跨越了五个节点：一个条目，三个中间体和一个出口，类似于为了解决审查制度，该应用程序包括诸如obfs4之类的内置桥梁，该桥掩盖了随机数据的流量和雪花，并模仿了视频调用。可以从TOR中添加或要求其他桥梁。该应用程序是基于 arti ，基于tor的基于RUST的实现，提供了比基于C的较旧的C&gt;的安全基础。。
+  href =“ https://alternativeto.net/software/tor-vpn/about/”&gt;更多有关Tor Vpn ＆nbsp; | |＆nbsp; &lt;A href =“]]></description>
+      <guid>https://alternativeto.net/news/2025/9/tor-project-launches-a-new-vpn-in-beta-for-android-with-per-app-routing/</guid>
+      <pubDate>Tue, 16 Sep 2025 13:51:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ghostty 1.2添加命令调色板，新应用图标，快速终端大小和SSH改进</title>
+      <link>https://alternativeto.net/news/2025/9/ghostty-1-2-adds-command-palette-new-app-icons-quick-terminal-size-and-ssh-improvements/</link>
+      <description><![CDATA[  ghostty  1.2.0已发布，作为此跨平台终端模拟器的最新更新，引入了工作流和定制的几个增强功能。新的命令调色板可快速访问操作，例如打开新终端，移动焦点以及执行诸如复制和粘贴之类的常见命令。响应用户请求，一个新的配置选项， Quick-terminal-size ，现在允许用户为快速终端Windows设置默认大小。
+扩展视觉集成，Ghostty 1.2为MacOS和GTK环境带来了刷新的图标。 MACOS图标现在与Tahoe界面一致，而 gtk  iCon更好地匹配流行的linux和
+渲染器的后端已被重组以在
+其他更新包括图形进度栏，后备字体大小选项，新的内置字形以及对。
+ 更多有关ghostty ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/ghostty-1-2-adds-command-palette-new-app-icons-quick-terminal-size-and-ssh-improvements/</guid>
+      <pubDate>Tue, 16 Sep 2025 12:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>Swift 6.2带来更容易的并发性，提高安全性，WebAssembly支持等等</title>
       <link>https://alternativeto.net/news/2025/9/swift-6-2-brings-easier-concurrency-improved-safety-webassembly-support-and-more/</link>
@@ -21,7 +115,7 @@
       <description><![CDATA[  iMazing  3.4已发布为该实用程序的最新版本，用于管理和备份Mac和PC上的iPhone和iPad数据。 This update introduces full support for iOS 26, macOS 26, and all iPhone 17 models, ensuring compatibility with the newest Apple hardware and软件。
 在注释部分中，用户会注意到一个新的侧边栏，该侧边栏组织了固定和删除的项目，以及用于排序和日期选择的高级过滤器。现在，内容选项包括表，缩进列表，自定义文本颜色和新附件类型，例如音频剪辑，视频文件和呼叫记录。还添加了内联注意扩展和暗模式支持以提高可用性。
 Following these updates, Messages and WhatsApp now feature a dedicated viewer for photo and video attachments with carousel navigation and详细的元数据。该界面通过冗长的对话提供更快的滚动，WhatsApp增加了对频道的支持。同时，电话数据集更容易浏览，新的侧边栏显示了总呼叫时间，多SIM接收器列以及按数字或服务的高级过滤器。联系人的改进提供了小组计数， iCloud 状态和通信方法的单击链接。其他增强功能包括用于分开PDF和书籍的过滤器，以及针对权力用户和IT专业人员提供更多选项的数据的新工具。
-   href =“ https://alternativeto.net/software/imazing/about/”&gt;有关iMazing ＆nbsp; |＆nbsp; |]]></description>
+   href =“ https://alternativeto.net/software/imazing/about/”&gt;有关iMazing ＆nbsp; |]]></description>
       <guid>https://alternativeto.net/news/2025/9/imazing-3-4-adds-macos-ios-26-support-improved-notes-and-refined-messages-and-whatsapp/</guid>
       <pubDate>Tue, 16 Sep 2025 09:30:00 GMT</pubDate>
     </item>
@@ -55,102 +149,6 @@ Following these updates, Messages and WhatsApp now feature a dedicated viewer fo
  有关Elevenlabs ＆nbsp; | |＆nbsp; &lt;A href =“]]></description>
       <guid>https://alternativeto.net/news/2025/9/elevenlabs-launches-productions-managed-service-with-dubbing-captions-and-human-editing/</guid>
       <pubDate>Mon, 15 Sep 2025 19:58:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>YouTube音乐正在为免费层次的用户测试歌词付费墙，引发争议</title>
-      <link>https://alternativeto.net/news/2025/9/youtube-music-is-testing-a-lyrics-paywall-for-users-on-the-free-tier-sparking-controversy/</link>
-      <description><![CDATA[  YouTube Music 正在尝试转移对其高级订阅后面的歌词的访问，这一举动已经引起了人们对快速恢复 一些用户在YouTube音乐应用程序中看到一条消息，该应用程序警告说：“您剩下3个视图。用Premium解锁歌词” ，表明歌词将不再在无需升级到付费订阅的情况下显示在一定的使用后显示。。
-虽然所有YouTube音乐用户当前都可以在播放期间查看歌词，而无论其订阅状态如何，但该试验表明，潜在的转变会影响自由用户与服务的互动方式。目前，限制似乎尚未在全球范围内推出，表明YouTube可能正在与选定的用户进行有限的测试。
- Google尚未就歌词Paywall做出正式声明，目前尚不清楚它是否会成为永久功能。情况反映了Spotify先前尝试限制歌词的尝试，这是该公司在用户反弹之后放弃的决定。对于寻求带有歌词支持的替代平台的用户，诸如 spotify ， qobuz ， Apple Music 仍然可用。
- 有关YouTube音乐的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/9/youtube-music-is-testing-a-lyrics-paywall-for-users-on-the-free-tier-sparking-controversy/</guid>
-      <pubDate>Mon, 15 Sep 2025 12:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>MAC实用程序POPCLIP引入了刷新接口，新选项以及MacOS 26的支持</title>
-      <link>https://alternativeto.net/news/2025/9/mac-utility-popclip-introduces-refreshed-interface-new-options-and-support-for-macos-26/</link>
-      <description><![CDATA[  popclip  2025.9 2025.9为Mac用户提供了实质性的重新设计，其中包含单独的设置窗口和改进的菜单栏集成。菜单栏图标现在利用标准MACOS菜单而不是自定义弹出式菜单。此更改改善了与菜单栏管理实用程序（例如 Bartender ）的兼容性，并允许用户永久隐藏PopClip图标，而无需丢失任何菜单操作，因为现在所有菜单动作都可以在更新的设置中可用。
-随着这些接口更改，PopClip Action Bar已使用MacOS活化效果获得了刷新的外观。这种方法可以使该工具现代化，并在选择文本时提高了知名度。术语更新重命名为前开/off 切换到，将自动出现，使其行为更加清晰和透明。
-在用户自定义上构建POPCLIP现在支持兼容Web浏览器中的人均排除。默认情况下，用户还可以排除所有应用程序，然后选择选定的应用程序，在其中出现PopClip。这些选项可以更好地控制工具的何时何地。
-使用此版本，PopClip引入了简化的更新过程，包括专用检查更新功能功能，限制在设置窗口的细微通知以及新的可选自动安装模式。 Popclip 2025.9与即将到来的Macos 26 Tahoe完全兼容，现在需要Macos 11 Big Sur或更新才能运行。
- 更多有关Popclip ＆nbsp; | |＆nbsp; &lt;A href =“ https：//alternativeto.net/software/software/popclip/]]></description>
-      <guid>https://alternativeto.net/news/2025/9/mac-utility-popclip-introduces-refreshed-interface-new-options-and-support-for-macos-26/</guid>
-      <pubDate>Mon, 15 Sep 2025 11:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>葡萄酒10.15已发布Unicode 17，Zip64支持和许多错误修复</title>
-      <link>https://alternativeto.net/news/2025/9/wine-10-15-has-been-released-with-unicode-17-zip64-support-and-numerous-bug-fixes/</link>
-      <description><![CDATA[  Wine&gt; Wine  10.15现在可用，为在Linux，MacOS和BSD（例如Linux，MacOS和BSD）（如Linux，MacOS和BSD）上运行Windows应用程序提供了改进的兼容性。此更新与需要在不同平台上运行不同的Windows软件和游戏的用户特别相关。
-使用此版本，Wine的Unicode角色表已更新为版本17.0.0。此更新可以增强国际化支持，并帮助葡萄酒与最新的角色编码标准变化保持同步。
-此外，Wine 10.15在其包装服务中增加了Zip64支持。此更改使处理较大的存档文件可以使用户和开发人员受益于管理或分发相当大的软件包。
-除了这些增强功能之外，更新还包括16个错误修复程序。这些维修人员解决了影响应用程序的兼容性和稳定问题href =“ https://alternativeto.net/software/capcut-apk/about/”&gt; capccut 和游戏
- 有关葡萄酒的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/9/wine-10-15-has-been-released-with-unicode-17-zip64-support-and-numerous-bug-fixes/</guid>
-      <pubDate>Mon, 15 Sep 2025 09:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Turntable v0.4.0引入脱机划痕并寻求酒吧支持</title>
-      <link>https://alternativeto.net/news/2025/9/turntable-v0-4-0-introduces-offline-scrobbling-and-seek-bar-support/</link>
-      <description><![CDATA[  turntable  v0.4.0现在支持越线的crobbling，允许用户跟踪和提交无效的互联网连接无效的聆听历史记录。该更新添加了一个Seek Bar，Shuffle和Loop Control按钮，并启用窗口大小。
-其他改进包括现在播放提交，基于甘氨酸的图像解码，扩展的Flatpak权限和一些错误修复。
- 查看文章href =“ https://alternativeto.net/software/turntable-scrobble-your-music/about/”&gt;有关Turntable ＆nbsp; |替代方案 ]]></description>
-      <guid>https://alternativeto.net/news/2025/9/turntable-v0-4-0-introduces-offline-scrobbling-and-seek-bar-support/</guid>
-      <pubDate>Mon, 15 Sep 2025 09:25:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>预算流3.0.0带来重新设计，改进的收据扫描仪和AI分类</title>
-      <link>https://alternativeto.net/news/2025/9/budget-flow-3-0-0-brings-redesign-improved-receipt-scanner-and-ai-categorization/</link>
-      <description><![CDATA[ 预算流量 3.0.0为iOS，iPados，WatchOS和MacOS 26提供了更新的设计，具有液体Glasice-Glass Effects和Darker-Glass Effects和Dark Mode Icon Support。内置的收据扫描仪现在检测到购买日期，自动分配收款人，并且，在带有Apple Intelligence的iOS/iPados 26上，将交易分类并使用“设备AI”进行分类并汇总项目。
-批量编辑选项和固定时区设置也已引入用于简化的管理。
-  href =“ https://alternativeto.net/software/budget-flow/about/”&gt;有关预算流的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/9/budget-flow-3-0-0-brings-redesign-improved-receipt-scanner-and-ai-categorization/</guid>
-      <pubDate>Mon, 15 Sep 2025 09:12:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>MANUS AI启动连接器以与外部工具集成</title>
-      <link>https://alternativeto.net/news/2025/9/manus-ai-launches-connectors-to-integrate-with-external-tools/</link>
-      <description><![CDATA[  manus ai 已经引入了MANUS连接器，允许其平台与外部工具直接链接以集中工作流程。用户可以使用其知识库起草电子邮件答复，并对CRM数据进行研究，或者使用产品积压票和针对金融电子表格的交叉检查支付平台发票进行同步支持门票。全部在一个工作流程中，而无需在不同工具之间切换。
- 更多有关MANUS ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/manus-ai-launches-connectors-to-integrate-with-external-tools/</guid>
-      <pubDate>Mon, 15 Sep 2025 07:50:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>IMMICH 1.142带来默认的beta时间轴，恢复所有按钮和地理位置时间表查看</title>
-      <link>https://alternativeto.net/news/2025/9/immich-1-142-brings-default-beta-timeline-resume-all-button-and-geolocation-timeline-view/</link>
-      <description><![CDATA[  immich  1.142已作为开源，自我固定照片和视频管理平台的最新版本发布。在此版本中，Beta时间轴现在将传统时间表替换为默认版本。更新后首次启动后，该应用将为来自较旧时间表的用户自动运行必要的迁移步骤。迁移后，需要重新启动该应用以访问更新的体验。
-此外，新的简历全部按钮出现在工作管理页面上。此添加旨在用于导入其照片库的用户，因为在上传过程中暂停了作业，包括主界面中未显示的背景任务。该功能使用户能够在导入后立即恢复所有作业。
-遵循这些更新后，地理位置实用程序已转换为时间轴视图。这使用户可以在调查并填写单个工作流程中的照片和视频的丢失的地理标记数据时滚动整个集合。 Immich 1.142还包括一小部分其他次要增强功能，并在整个应用程序上应用了一些错误修复。
- 更多有关Immich ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/immich-1-142-brings-default-beta-timeline-resume-all-button-and-geolocation-timeline-view/</guid>
-      <pubDate>Mon, 15 Sep 2025 07:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>克劳德（Claude）为所有用户介绍了付费计划和隐身聊天的内存</title>
-      <link>https://alternativeto.net/news/2025/9/claude-introduces-memory-for-paid-plans-and-incognito-chats-for-all-users/</link>
-      <description><![CDATA[  Claude 现在为团队和企业计划提供用户存储器，允许跨会话保留信息。隐身聊天也向所有用户推出，使得未保存以聊天或内存的对话。
-包括项目划分的内存和颗粒状控制选项以增强隐私和组织。
- 更多有关Claude ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/claude-introduces-memory-for-paid-plans-and-incognito-chats-for-all-users/</guid>
-      <pubDate>Mon, 15 Sep 2025 07:43:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>DUB.CO推出了新的计划赏金和绩效奖励</title>
-      <link>https://alternativeto.net/news/2025/9/dub-co-launches-new-program-bounties-and-performance-rewards-for-affiliates/</link>
-      <description><![CDATA[Dub.co has introduced Program Bounties, a new feature for its affiliate partner program that lets companies set performance-based or submission-based rewards提高参与度。  Dub Partners ，，该平台是分支机构，有影响力者和用户的平台，它扩大了合作伙伴可以参与的方式。绩效赏金奖励可衡量的目标，例如产生潜在客户，推动转换或达到佣金目标，而提交赏金则集中在验证的任务上，例如发布博客文章，托管活动或创建YouTube教程。合作伙伴提交证据以供批准，使公司在激励捐款方面具有更大的灵活性。
-Since its debut last month, Dub Partners has tracked over $2 million in affiliate revenue, paid out more than $750,000, and rolled out features like Partner Groups, advanced rewards, and migration tools for platforms including Rewardful,  tolt 和
-要突出显示该功能， dub.co推出了$ 150的赏金   为合作伙伴创建有关配音的短效率并在X，LinkedIn或YouTube上发布的合作伙伴。该优惠向现有合作伙伴开放，新用户可以加入该计划参加。
- 在交流中查看文章href =“ https://alternativeto.net/software/dub/about/”&gt;有关dub.co ＆nbsp; |＆nbsp; &lt;A href =“ https://alternatativeto.net/software/d.net/software/dub/”]]></description>
-      <guid>https://alternativeto.net/news/2025/9/dub-co-launches-new-program-bounties-and-performance-rewards-for-affiliates/</guid>
-      <pubDate>Sat, 13 Sep 2025 19:18:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿里巴巴释放开源QWEN3-NEXTS型号，具有10倍功率，长篇小说和较低的成本</title>
-      <link>https://alternativeto.net/news/2025/9/alibaba-releases-open-source-qwen3-next-model-with-10x-power-long-context-and-lower-costs/</link>
-      <description><![CDATA[阿里巴巴介绍了 qwen3-next ，新一代的开放式大型语言模型被声称是强大的十倍，比他们的前者更便宜了十倍。该版本包括两个变体， qwen3-next-Instruct 和 qwen3-next-inkinking ，均在apache 2.0许可下，并且在 kaggle ，alibaba cloud和 qwen3-next使用混合体系结构，将门控的三角网结合起来，以快速处理，并为推理准确性而进行门控注意。每个令牌中只有30亿个参数中只有30亿个参数被激活，从而提高了效率。它还将其混合物的混合物扩展到512位专家，从。
-其他功能包括用于更快推理的本地多token预测，更新的归一化以进行更稳定的培训以及长篇小说上的重大吞吐量改进。这些型号与拥抱的面变压器，SGLANG，VLLM和QWEN-AGENT集成，并且可以在单个NVIDIA H200 GPU上以800亿个参数运行。
-  href =“ https://alternativeto.net/software/qwen/about/”&gt;更多有关Qwen ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/alibaba-releases-open-source-qwen3-next-model-with-10x-power-long-context-and-lower-costs/</guid>
-      <pubDate>Sat, 13 Sep 2025 18:49:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
