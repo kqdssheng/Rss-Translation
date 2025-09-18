@@ -4,7 +4,109 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Thu, 18 Sep 2025 01:21:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 12:39:31 GMT</lastBuildDate>
+    <item>
+      <title>开源循环机Giada 1.3增加了对立体声以外的多个音频out的支持</title>
+      <link>https://alternativeto.net/news/2025/9/open-source-loop-machine-giada-1-3-adds-support-for-multiple-audio-ouputs-beyond-stereo/</link>
+      <description><![CDATA[  giada  1.3.0，绰号为“ Jackalope”，标志着此免费的，开源的，开源的最新更新，并标志着音乐制作的交叉点循环机。该版本介绍了一些新功能，旨在扩大音乐家和现场表演者的创造性和技术可能性。
+最重要的补充是支持立体声以外的多个音频输出的支持。用户现在可以配置多个输出通道，从而使每个通道可以将外部硬件或路由信号馈送到其他软件。这使GIADA更适合多站录制和复杂的实时设置。在此基础上，改进Jack（Jack Audio Connection套件）现在支持多个输出连接。
+这些升级后，插件浏览器窗口得到了改进和视觉增强，从而简化了音频插件的导航和管理。 GIADA的图形接口现在建立在快速轻型工具包（FLTK）版本1.4.4上，为更好的性能和未来更新提供了基础。
+其他一些维护工作，包括代码重构，也是此版本的一部分。
+ 更多有关Giada  ＆nbsp; | |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/open-source-loop-machine-giada-1-3-adds-support-for-multiple-audio-ouputs-beyond-stereo/</guid>
+      <pubDate>Thu, 18 Sep 2025 11:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>QUIP 1.4更新：Apple Intelligence，Liquid Glass Design和Revamped键盘</title>
+      <link>https://alternativeto.net/news/2025/9/quip-1-4-update-apple-intelligence-liquid-glass-design-and-revamped-keyboard/</link>
+      <description><![CDATA[  Quip clipboard  1.4现在支持MacOS 26上的Apple Intelligence，启用了evevice文本摘要，收集建议，智能过滤和智能过滤。该更新在MacOS和iOS上首次亮相苹果的液体玻璃设计，提供了更具流动性和本地界面。在iOS和iPados上，QUIP键盘已被重建以供速度，现在与重新设计相匹配。
+ 查看文章href =“ https://alternativeto.net/software/quip-clipboard/about/”&gt;有关Quip clipboard的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/9/quip-1-4-update-apple-intelligence-liquid-glass-design-and-revamped-keyboard/</guid>
+      <pubDate>Thu, 18 Sep 2025 10:16:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>1Password扩展将安全的凭证管理带到彗星浏览器</title>
+      <link>https://alternativeto.net/news/2025/9/1password-extension-brings-secure-credential-management-to-comet-browser/</link>
+      <description><![CDATA[  1password 现在可以用于用户可以通过端到端加密和零知识体系结构安全地管理其凭据，以确保敏感信息保持私密。
+自动填充和密码生成功能在彗星中可访问而不将数据暴露于AI或LLM上下文。
+ 更多有关1Password ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/1password-extension-brings-secure-credential-management-to-comet-browser/</guid>
+      <pubDate>Thu, 18 Sep 2025 10:07:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>BEAR揭幕重新设计的UI和Macos Tahoe和iOS的图标26</title>
+      <link>https://alternativeto.net/news/2025/9/bear-unveils-redesigned-ui-and-icons-for-macos-tahoe-and-ios-26/</link>
+      <description><![CDATA[  bear 现在与iOS 26和Macos Tahoe完全兼容，拥有苹果的新液体玻璃设计。该应用程序现在具有更深入的精制UI，以及使用液体玻璃样式梯度和照明的更新图标。这些更改旨在将熊的视觉设计与苹果的最新操作系统紧密相结合。
+ 更多有关bear ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/bear-unveils-redesigned-ui-and-icons-for-macos-tahoe-and-ios-26/</guid>
+      <pubDate>Thu, 18 Sep 2025 09:59:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>HelpCrunch启动具有多通道支持的可定制AI代理</title>
+      <link>https://alternativeto.net/news/2025/9/helpcrunch-launches-customizable-ai-agents-with-multichannel-support/</link>
+      <description><![CDATA[  helpCrunch 已发布了AI代理，该AI代理可自动化多达80％的跨频道客户查询，包括实时聊天，移动应用程序，移动应用程序和流行的消息平台。这些AI代理支持50多种语言，可以处理复杂的多部分问题，并且可以针对各种用例进行自定义。所有响应都严格基于公司数据，如果找不到答案，则对人类进行了交换。
+该功能可在具有固定限制的无限计划和无限计划中获得。
+ 在交流中查看文章href =“ https://alternativeto.net/software/helpcrunch/about/”&gt;更多有关HELPCRUNCH的信息]]></description>
+      <guid>https://alternativeto.net/news/2025/9/helpcrunch-launches-customizable-ai-agents-with-multichannel-support/</guid>
+      <pubDate>Thu, 18 Sep 2025 09:52:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thunderbird 143.0解决崩溃错误和Gmail发送故障</title>
+      <link>https://alternativeto.net/news/2025/9/thunderbird-143-0-resolves-crash-bugs-and-gmail-sending-failures/</link>
+      <description><![CDATA[  Thunderbird  143.0解决了多个崩溃问题，包括在启动和邮件导入期间。该更新还恢复了帐户的添加功能，并解决了依赖smtp-relay.gmail.com的用户发送故障的问题。其他修复程序地址空白网页当证书无效，带有IMAP服务器的附件操作以及一般安全性改进。
+ 有关雷鸟的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/9/thunderbird-143-0-resolves-crash-bugs-and-gmail-sending-failures/</guid>
+      <pubDate>Thu, 18 Sep 2025 09:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>CoderAbbit启动CLI工具，用于MACOS和Linux上的自动AI代码评论</title>
+      <link>https://alternativeto.net/news/2025/9/coderabbit-launches-cli-tool-for-automated-ai-code-reviews-on-macos-and-linux/</link>
+      <description><![CDATA[  coderabbit 已发布了一个自动化代码评论的命令行界面工具，使开发人员可以直接从其终端进行审查，提交和船舶代码。 CoderAbbit CLI支持来自法典，Claude和Gemini等模型的AI生成的代码，为幻觉，逻辑缺陷和缺失测试提供了上下文感知的分析和错误检测。
+CLI现在可用于MacOS和Linux，并计划使用Windows支持。
+ 更多关于CoderAbbit ＆nbsp; | |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/coderabbit-launches-cli-tool-for-automated-ai-code-reviews-on-macos-and-linux/</guid>
+      <pubDate>Thu, 18 Sep 2025 09:34:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub启动MCP注册表，以轻松发现和安装MCP服务器</title>
+      <link>https://alternativeto.net/news/2025/9/github-launches-mcp-registry-for-easy-discovery-and-installation-of-mcp-servers/</link>
+      <description><![CDATA[GitHub has launched the MCP Registry, creating a centralized directory for discovering Model Context Protocol (MCP)服务器。这个新的注册表旨在简化开发人员如何在GitHub现有的大多数MCP服务器中的枢纽中建立为AI互操作性设计的服务器。 。
+作为提醒， mcp 是一种可扩展的协议，允许AI代理和工具无缝通信。该注册表与使用策划的目录均来自主要合作伙伴和开源社区的MCP服务器。每个服务器列表都链接到其GitHub存储库，使用户能够审查文档，评估项目活动并做出明智的决策。
+开发人员可以直接从
+  href =“ https://alternativeto.net/software/mcp-registry/about/”&gt;有关MCP Registry的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/9/github-launches-mcp-registry-for-easy-discovery-and-installation-of-mcp-servers/</guid>
+      <pubDate>Thu, 18 Sep 2025 09:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费的Spotify用户最终可以按需搜索和播放特定的歌曲</title>
+      <link>https://alternativeto.net/news/2025/9/free-spotify-users-can-finally-search-and-play-specific-songs-on-demand/</link>
+      <description><![CDATA[  Spotify 正在启动一套针对其免费计划的用户的全局更新。最值得注意的是，自由层上的人现在可以挑选并播放任何歌曲，搜索特定的曲目，然后立即开始聆听。此功能还扩展到社交媒体上的朋友或艺术家共享的歌曲，扩大了自由用户访问音乐的方式。
+除了按需歌曲选择之外，免费用户可以继续收听播客，创建或享受播放列表。这与以前的系统不同，在该系统中，免费计划中的移动用户只能以有限的跳过来进行曲目。在这些增强功能的基础上，Spotify现在让自由用户自定义其播放列表封面。您可以添加图像，选择颜色和插入文本，该功能以前仅限于优质订户。
+尽管进行了这些更新，但Spotify的免费帐户仍然有几个限制。听众必须忍受广告，并且他们可以按需播放音乐的几分钟数量。轨道排队不受支持，并且如果不升级到高级订阅，用户不能顺序播放整个专辑。
+ 在交流中的文章href =“ https://alternativeto.net/software/spotify/about/”&gt;有关Spotify ＆nbsp; |＆nbsp; &lt;A href =“ https：//alternativeto.net/software/software/spotify/”]]></description>
+      <guid>https://alternativeto.net/news/2025/9/free-spotify-users-can-finally-search-and-play-specific-songs-on-demand/</guid>
+      <pubDate>Thu, 18 Sep 2025 07:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google启动了新的实验Windows应用程序来搜索网络，Google Drive和Local Files</title>
+      <link>https://alternativeto.net/news/2025/9/google-launches-new-experimental-windows-app-to-search-the-web-google-drive-and-local-files/</link>
+      <description><![CDATA[ Google发布了一个新的实验 Google App 对于Windows，通过搜索实验室，目前限制为美国用户。与传统 Google search 在智能手机上应用程序，此桌面应用程序可让用户不仅搜索Web，而且还可以搜索网络，还可以，已安装的应用程序和来自单个接口的PC文件，提供的功能与 Spocklight/”&gt; Spocklight  href =“ https://alternativeto.net/software/powertoys-for-windows-xp/about/”&gt; powertoys在windows上运行在Windows上，其更高级的命令调色板工具。 （让我们假装 Windows Search 不存在）
+该应用程序可以使用Alt + Space快捷方式启动，并且在设置过程中必须使用个人Google帐户登录以授予对驱动器和本地文件的访问，尽管 Google Lens ，使捕获屏幕的任何部分进行搜索，翻译文本或使用AI模式来解决问题和后续问题。可以直接访问驱动器文件，而无需安装驱动器桌面客户端，因为该应用程序从云中拉出结果。
+在此阶段，该应用仅提供英语，需要 Windows 10 或更新，并且仅限于13或以上的用户。那些有兴趣测试的人可以通过Google搜索实验室加入实验。 
+ 有关Google搜索的更多信息 |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/google-launches-new-experimental-windows-app-to-search-the-web-google-drive-and-local-files/</guid>
+      <pubDate>Thu, 18 Sep 2025 04:31:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teable 2.0介绍了AI驱动的数据库代理和自然语言自动化</title>
+      <link>https://alternativeto.net/news/2025/9/teable-2-0-introduces-ai-powered-database-agent-and-natural-language-automation/</link>
+      <description><![CDATA[  teeble 2.0 刚刚发布，从其开放式NOT-SOURCE NOT-CODE DATABASE根部演变为具有六个核心能力的开放式数据库，到具有六个核心能力的数据库：构建数据库，通过构建数据库，分析型号，通过缩放量表，逐步构建，分析，逐步研究，逐渐分析，逐渐分析，自动化，自动化，自动化，自动效率，并逐步研究，自动化，自动效率，并在效率自然语言。用户可以通过对话构建数据库，添加CRM功能，例如情感标签，并接收自动放牧的答复。
+应用程序可以直接从实时数据集生成，例如将潜在客户表变成着陆页。可以用普通语言设置自动化，以触发队友或客户的通知，而对话询问和实时可视化使数据分析无需SQL即可访问。
+对于较大的工作负载，系统可以批处理文件并提取关键字段，例如为会计师提取发票详细信息。营销团队可以将生成图像，复制和视频脚本进行分解。社区版添加了通知敬酒，改进的邮件设置，实时协作消息传递和性能升级，以更快地处理大型数据集。
+ 有关Teable的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/9/teable-2-0-introduces-ai-powered-database-agent-and-natural-language-automation/</guid>
+      <pubDate>Thu, 18 Sep 2025 04:20:13 GMT</pubDate>
+    </item>
     <item>
       <title>Framer启动了用于完整UI设计和一键式网络发布的新设计页工具</title>
       <link>https://alternativeto.net/news/2025/9/framer-launches-new-design-pages-tool-for-full-ui-design-and-one-click-web-publishing/</link>
@@ -44,113 +146,6 @@
 View article on AlternativeTo »更多有关Mozilla Firefox ＆nbsp; |]]></description>
       <guid>https://alternativeto.net/news/2025/9/firefox-143-launches-with-pwa-support-microsoft-copilot-integration-and-live-webcam-preview/</guid>
       <pubDate>Wed, 17 Sep 2025 14:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sparkylinux 2025.09“ Tiamat”与Debian“ Forky”基地和Linux 6.16内核启动</title>
-      <link>https://alternativeto.net/news/2025/9/sparkylinux-2025-09-tiamat-launches-with-debian-forky-base-and-linux-6-16-kernel/</link>
-      <description><![CDATA[  Sparkylinux  2025.09“ Tiamat”已发布，从而带来了此Debian Linux分布的最新版本。 This version is built on the Debian “Forky” testing branch and adopts the Linux kernel 6.16, providing the groundwork for improved stability and硬件支持。
-在此基础上构建，Sparkylinux更新 calamares 安装程序安装程序到版本3.4.0。通过此更改，还恢复了对加密磁盘安装的支持，这是针对在设置过程中寻求磁盘加密的用户的关键要求。除了安装增强功能之外，用户可以从开箱即用。值得注意的是，Firefox 128扩展支持版本（ESR）和GCC 15是标准配置，可以选择从存储库安装Firefox 143。
-在调整台式环境之后，Sparkylinux现在船只 akregator 作为默认的rss读取器，在kde plasma上，更换 Quiterss 。对于LXQT用户， liferea 现在是默认的RSS读取器。 AMD64系统的Sparkylinux 2025.09有多个版本可用，包括LXQT，KDE等离子体，Mate，Mate，XFCE，minimalgui（openbox）和Minimalcli（文本模式）。
-  href =“ https://alternativeto.net/software/sparkylinux/about/”&gt;有关Sparkylinux  |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/sparkylinux-2025-09-tiamat-launches-with-debian-forky-base-and-linux-6-16-kernel/</guid>
-      <pubDate>Wed, 17 Sep 2025 12:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fedora Linux 43 Beta版与内核6.17，GNOME 49，KDE 6.4和更新的工具链发行</title>
-      <link>https://alternativeto.net/news/2025/9/fedora-linux-43-beta-released-with-kernel-6-17-gnome-49-kde-6-4-and-updated-toolchains/</link>
-      <description><![CDATA[ fedora项目已发布 Fedora Linux 43 的公共Beta。 6.17 。  fedora workstation 与 kde plasma 6.4 。现在，更多的fedora旋转使用 anaconda webui installer ，fedora kinoite启用自动更新，默认情况下，安装程序乘坐dnf 5 for dnf 5 for Package Management。 Fedora Workstation还采用了仅限Wayland的Gnome会议，放弃了X11后备。
-发行版用GCC 15.2，GNU Binutils 2.45，GNU C库2.42，GDB 17.1，LLVM 21，Golang 1.25，Perl 5.42，RPM 6.0和Python 3.14更新核心工具链。诸如PostgreSQL 18，MySQL 8.4，Dovecot 2.4，Ruby on Rails 8.0和Tomcat 10.1之类的系统组件也已升级。
- fedora 43在noto color emoji字体中添加了Colrv1支持，引入了 hare编程语言语言，并提供自动在包装上释放包装上的自动化自动化自动化。弃用的组件正在退休，包括GTK-RS绑定和Python-Nose软件包，以提高安全性和可维护性。预计将于10月下旬或今年11月11日到今年的11月11日的Fedora Linux 43的稳定发布。
-View article on AlternativeTo »更多有关fedora ＆nbsp; | |＆nbsp;  fedora&gt; fedora&gt;]]></description>
-      <guid>https://alternativeto.net/news/2025/9/fedora-linux-43-beta-released-with-kernel-6-17-gnome-49-kde-6-4-and-updated-toolchains/</guid>
-      <pubDate>Wed, 17 Sep 2025 11:34:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Roku计划在其流平台上开始使用AI驱动的广告</title>
-      <link>https://alternativeto.net/news/2025/9/roku-is-planning-to-start-using-ai-driven-ads-on-its-streaming-platform/</link>
-      <description><![CDATA[  roku 最近宣布，该宣布正在计划扩展生成AI在其流媒体平台上进行广告的用法，从而集中在搜索和社交媒体上的小型和中等大小的企业上，这些商务均与搜索和社交媒体相关。 at 
-高管还指出，尽管 https：//alternativeto.net/software/software/software/software/software/the-roku-channel/the-roku-channel/about/about/ abiout/ about/ abiout 一年一度的总计，每年都有80％的班级估计，汇总了80％的汇总，汇总了80％的汇集。 7月，该公司仅售出了大约一半的广告库存，留下了大量的未售空间，希望AI生成的广告可以填充。
-吉达（Jedda）将该计划描述为一种将中小型企业（SMB）（例如当地汽车经销店，妈妈和流行店）带入与新的自助AI工具，营销活动和销售团队的连接电视广告的一种方式。他还指出，由于其他AI公司针对同一市场，数以百万计的企业可能需要来自多个提供商的解决方案，这增加了流媒体受众可能会随着策略的扩展而面临大量机器生成的广告的可能性。 。
-  href =“ https://alternativeto.net/software/roku-software/about/”&gt;更多关于Roku ＆nbsp; | |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/roku-is-planning-to-start-using-ai-driven-ads-on-its-streaming-platform/</guid>
-      <pubDate>Wed, 17 Sep 2025 11:10:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android Launcher Lawnchair 15 Beta添加抽屉文件夹，码头升级和扩展搜索</title>
-      <link>https://alternativeto.net/news/2025/9/android-launcher-lawnchair-15-beta-adds-drawer-folders-dock-upgrades-and-expanded-search/</link>
-      <description><![CDATA[  Lawnchair  15 Beta，该开放式Android App Launcher的最新版本是几个月前发布的，几个月前就与Android 15完全符合Android 15。 href =“ https://alternativeto.net/news/2025/9/nova-launcher-is-shutting-shutting-down-as-founder-departs-and-open-source-plans-plans-plans-are-cancele-cancele-/-cancel-cancel-cancele-/-”一下
-第一个beta引入了两种长期以来的方法来在应用程序抽屉中组织您的应用程序。手动文件夹允许用户创建，名称和重新排序应用程序组，而 caddy 是一个实验功能，会自动将应用程序分类为您的文件夹。
- Android 15, resulting in better stability and unlocking platform features like Private Space and App Archiving.码头部分获得了多次升级：用户可以调整其背景颜色和转角半径，将小部件与应用程序图标一起放置，并显示用于码头应用的图标标签。
-遵循这些改进，搜索功能变得更加自定义。割草机的应用抽屉现在支持自定义的Web搜索引擎，并添加了诸如 ecosia ， Firefox 其集成的提供商之一。这些增强功能旨在使日常导航和搜索更适合Android Power用户。
- 有关Lawnchair的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/9/android-launcher-lawnchair-15-beta-adds-drawer-folders-dock-upgrades-and-expanded-search/</guid>
-      <pubDate>Wed, 17 Sep 2025 11:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Opera带来了重新设计的历史，Google Lens图像搜索，视频广告跳过和两个新主题</title>
-      <link>https://alternativeto.net/news/2025/9/opera-brings-redesigned-history-google-lens-image-search-video-ad-skip-and-two-new-themes/</link>
-      <description><![CDATA[  Opera 的最新浏览器更新带来了重新构想的历史经验。重新设计的界面现在通过更广泛的类别组织访问的网站，使回忆和重新访问过去的活动变得更加容易。用户可以从其浏览历史记录中选择多个条目，并将它们重新打开为A  tab岛，即使使用恢复的会话，也可以利用Opera的高级选项卡管理系统。还有一个新的选项可以从特定域中删除所有条目。
-遵循这些可用性增强功能，Opera引入了对“使用Google Lens搜索图像” 选项来执行基于图像的搜索。这将功能强大的视觉搜索功能直接嵌入到浏览工作流中。
-此外，Opera现在具有实验性视频Skip 功能。该工具使用户可以跳过广告以访问视频内容，独立于本机广告阻滞剂状态。最后，为了扩展自定义选项，该更新包括两个新的动态主题：黑曜石和 Cyber​​city 。这些添加是根据最近的用户反馈来开发的，以进一步个性化浏览器环境。
- 更多有关Opera ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/opera-brings-redesigned-history-google-lens-image-search-video-ad-skip-and-two-new-themes/</guid>
-      <pubDate>Wed, 17 Sep 2025 09:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bruno v2.11.0：自定义HTTP方法，用于GRPC的WSSE，UI增强和错误修复</title>
-      <link>https://alternativeto.net/news/2025/9/bruno-v2-11-0-custom-http-methods-wsse-for-grpc-ui-enhancements-and-bug-fixes/</link>
-      <description><![CDATA[  bruno  v2.11.0介绍自定义HTTP方法支持，为API请求提供更大的灵活性。该更新还带来了高级全局搜索，并为GRPC连接添加了WSSE身份验证。
-UI改进和多个错误修复地​​址崩溃，身份验证问题，cookie和重定向。
- 更多有关Bruno ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/bruno-v2-11-0-custom-http-methods-wsse-for-grpc-ui-enhancements-and-bug-fixes/</guid>
-      <pubDate>Wed, 17 Sep 2025 08:06:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>困惑Pro为电子邮件，日历，概念和github带来集成</title>
-      <link>https://alternativeto.net/news/2025/9/perplexity-pro-brings-integrations-for-email-calendar-notion-and-github/</link>
-      <description><![CDATA[  perplexity  pro用户现在可以选择集成他们的电子邮件，日历， github 帐户。 Enterprise Pro订阅者还可以连接 linear 和
- 在交替href =“ https://alternativeto.net/software/perplexity-ai/about/”&gt;更多有关Perplexity ＆nbsp; | |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/perplexity-pro-brings-integrations-for-email-calendar-notion-and-github/</guid>
-      <pubDate>Wed, 17 Sep 2025 08:02:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>AliasVault 0.23发行了多合一的Docker图像和移动应用程序增强功能</title>
-      <link>https://alternativeto.net/news/2025/9/aliasvault-0-23-released-with-all-in-one-docker-image-and-mobile-app-enhancements/</link>
-      <description><![CDATA[  AliasVault  0.23现在可以作为此End-end-end-end End-End加密密码的最新版本和电子邮件Alias Manager。该版本引入了自我托管的重大更改：用户现在可以部署一个多合一的Docker映像，该图像将所有必需的组件捆绑到一个容器中。这种方法降低了独立运行AliasVault的障碍，并消除了管理多个容器的需求。
-此外，iOS和Android应用程序现在让用户可以直接在其设备上调整密码生成器设置，例如长度和复杂性。即使离线，也可以从移动应用程序中将保险库数据导出到CSV，从而确保在服务器中断期间访问凭据。在移动设备上进行的输入处理已被完善，以在平台上提供更流畅的触摸和触控板操作。
-除了这些更新之外，该项目还包括用户界面和一般可用性改进，以及技术增强功能和一些错误修复。 AliasVault还将其代码库迁移到a 专用的Github组织，并具有
- 更多有关Aliasvault ＆nbsp; | |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/aliasvault-0-23-released-with-all-in-one-docker-image-and-mobile-app-enhancements/</guid>
-      <pubDate>Wed, 17 Sep 2025 07:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google正在日落官方的天气应用程序，用于Wear OS 6和更新</title>
-      <link>https://alternativeto.net/news/2025/9/google-is-sunsetting-its-official-weather-app-for-wear-os-6-and-newer/</link>
-      <description><![CDATA[ Google正在中断其天气应用程序用于运行 android 16.  如果安装的应用程序可以继续使用。手表跑步佩戴操作系统5或更早，仍然不受影响，仍然可以下载该应用。
-在像素手表型号上，更改将自动处理，用户将移至 Pixel天气升级时要升级OS 6或更高。替换应用程序保留了类似的布局，但介绍了Google的材料3表达设计。
-对于来自三星，OnePlus和Mobvoi等品牌的第三方设备，该应用程序将从Wear OS 6上的Play Store中消失，除非它是在更新之前安装的。 Google建议受影响的用户依靠第三方替代方案，制造商提供的选项，或通过 google gemini 在佩戴OS 3及以上。
- 在交流中的文章href =“ https://alternativeto.net/software/google-weather/about/”&gt;有关Google天气的更多信息 |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/google-is-sunsetting-its-official-weather-app-for-wear-os-6-and-newer/</guid>
-      <pubDate>Wed, 17 Sep 2025 00:25:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI释放新的GPT-5-Codex模型，用于自主编码和大规模重构</title>
-      <link>https://alternativeto.net/news/2025/9/openai-releases-new-gpt-5-codex-model-for-autonomous-coding-and-large-scale-refactoring/</link>
-      <description><![CDATA[ OpenAi已发布GPT-5-Codex，该版本的 codex 。该模型旨在处理现实世界的工程工作，从启动新项目并添加功能到编写测试和进行大规模重构。它在关键基准上的较早GPT-5变体的表现要优于验证的SWE-Bench得分74.5％，而GPT-5高的得分为72.8％，而重构任务的得分为51.3％，而33.9％的得分为51.3％。它还改善了前端开发，包括移动网络支持。
- GPT-5-Codex引入了更强的自主权，能够在复杂的任务上运行七个小时以上，同时根据任务复杂性调整其花费的时间。在云中，它可以将图像作为输入，视觉跟踪进度，并生成完成工作的屏幕截图。这些功能将法典范围扩展到持续的独立开发支持。。
-该模型在代码审核中也更好，通过将拉力请求意图与差异，整个存储库推理以及执行代码和测试以验证结果。现在，该模型包含在CLI，IDE，Web，Mobile和GitHub的Chatgpt Plus，Pro，Business，Edu和Enterprise计划中，Codex CLI的API访问即将到来。
- 在交流中的文章href =“ https://alternativeto.net/software/openai-codex/about/”&gt;更多有关Openai codex  openai codex  |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/openai-releases-new-gpt-5-codex-model-for-autonomous-coding-and-large-scale-refactoring/</guid>
-      <pubDate>Tue, 16 Sep 2025 16:57:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>格兰诺拉麦片添加了电话记录笔记和转录到iPhone应用</title>
-      <link>https://alternativeto.net/news/2025/9/granola-adds-phone-call-note-taking-and-transcription-to-iphone-app/</link>
-      <description><![CDATA[  granola 已经为iPhone启动了一项新功能，使用户可以在打电话上记录笔记。现在，该应用程序转录呼叫，以便用户可以专注于对话而不是键入。
-此更新可在iPhone的Granola的最新版本中获得。
- 在替代文章上查看文章href =“ https://alternativeto.net/software/granola-1/about/”&gt;更多关于granola  ＆nbsp; | |＆nbsp;  granola &lt;/]]></description>
-      <guid>https://alternativeto.net/news/2025/9/granola-adds-phone-call-note-taking-and-transcription-to-iphone-app/</guid>
-      <pubDate>Tue, 16 Sep 2025 15:47:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
