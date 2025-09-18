@@ -4,7 +4,57 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Wed, 17 Sep 2025 12:40:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 01:21:17 GMT</lastBuildDate>
+    <item>
+      <title>Framer启动了用于完整UI设计和一键式网络发布的新设计页工具</title>
+      <link>https://alternativeto.net/news/2025/9/framer-launches-new-design-pages-tool-for-full-ui-design-and-one-click-web-publishing/</link>
+      <description><![CDATA[  framer     工具。此功能将框架定位在 figma 中，通过为迭代性设计提供迭代式迭代的自由帆布，而无需立即考虑辅助工具，并直接将p3颜色支持 figma 。
+任何迭代都可以通过一键将其转变为实时网页，消除导入和拷贝性。准备好后，用户可以添加断点以进行响应式布局，从而减少设计和部署之间的摩擦。 Framer还更新了 wireframer ，它与page and-page Generator，以及page and pagage and page and pogage and pogage and pogage and pogage and pogage。 设计页面当前是免费的，所有用户都可以使用， 允许无限的项目和页面，并且不像旧的帆布页面那样受到限制，这些页面无法直接将迭代直接转换为网页，而设计页面可以立即使该页面立即进行。  
+有趣的是，无花果和框架是曾经有不同焦点的两个最受欢迎的UI/UX设计工具，但现在似乎正在彼此之间的空间，而Figma最近 penpot ，或备受期待的&gt;
+  view on vires in virate naterativeto href =“ https://alternativeto.net/software/framer/about/”&gt;更多有关Framer ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/framer-launches-new-design-pages-tool-for-full-ui-design-and-one-click-web-publishing/</guid>
+      <pubDate>Wed, 17 Sep 2025 21:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Godot 4.5添加了模板缓冲区，屏幕阅读器支持，Visionos Export，Shander Baker等</title>
+      <link>https://alternativeto.net/news/2025/9/godot-4-5-adds-stencil-buffer-screen-reader-support-visionos-export-shader-baker-and-more/</link>
+      <description><![CDATA[  godot  4.5现在可用，为使用此开源引擎构建2D和3D游戏的开发人员提供了一系列新功能。此更新引入了模具缓冲区的支持，让创作者在墙壁或形状中应用诸如“钻孔”之类的效果，而不管当前是否呈现几何本身。在扩展视觉可能性的同时，它还扩展了平台兼容性。
+ godot 4.5添加了对苹果的 visionos 的本地出口支持。这使开发人员可以直接从其项目中瞄准诸如Apple Vision Pro之类的设备。 Linux用户运行 Wayland 受益于新的Sub-Window支持，从而使引擎能够到达独立的独立窗口，以改善工作流。添加这些添加后，提高性能通过提前扩展资产管道汇编，这可以大大降低编辑的等待时间。 
+现在内置了对屏幕读取器的支持，增强了视力受损的用户以及识字率有限或学习障碍的用户的可访问性。在编辑中，开发人员可以直接在视图中预览翻译，以简化GUI国际化。调试工具也可以查看升级：现在，引擎提供了脚本回溯，以查明代码问题，并引入自定义记录器以捕获目标错误和日志消息。完善发行版还有许多其他增强功能，例如脚本颜色拾取器，块TileMap物理学，批量资产编辑，Dpi Awawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawaps nettps://alternativeto.net/software/webassemembly/webassemmbly/abof---
+ 更多关于Godot Engine ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/godot-4-5-adds-stencil-buffer-screen-reader-support-visionos-export-shader-baker-and-more/</guid>
+      <pubDate>Wed, 17 Sep 2025 15:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Java 25 LTS发布了带有紧凑文件，模块导入和Intellij Ideas支持的LTS</title>
+      <link>https://alternativeto.net/news/2025/9/java-25-lts-released-with-compact-files-module-imports-and-intellij-idea-support/</link>
+      <description><![CDATA[ Oracle已发布 Java 25 LTS ，该语言的最新长期支持版本。此更新通过紧凑的源文件，较短主要定义的实例主要方法和 io.println（）便利方法简化了学习曲线。这些更改使入门级程序“ Hello World”之类的程序。详细的内容要少得多，降低了新移民的障碍并放松快速原型制作，同时保持Java的企业功能完好无损。
+该版本还引入了模块导入声明，以简化导入并带来性能升级，例如提前的方法分析，以进行更快的JVM热身，紧凑的对象标头，以减少存储器的使用以及代理Shenandoah垃圾收集器，以提高效率。同时，对32位X86的支持已被删除，以关注现代系统。
+与Java 25一起，JetBrains已更新 Intellij Idea&gt; Intellij Idea   全面支持新功能。现在，IDE提供了用于紧凑的主要方法和IO帮助者的实时模板，对模块导入的优化处理以及将紧凑源文件转换为常规类的快速修复，从而帮助开发人员顺利过渡到较大的项目。 。
+  href =“ https://alternativeto.net/software/java/about/”&gt;更多有关Java ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/java-25-lts-released-with-compact-files-module-imports-and-intellij-idea-support/</guid>
+      <pubDate>Wed, 17 Sep 2025 15:04:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Firefox 143启动PWA支持，Microsoft Copilot Integration＆Live网络摄像头预览</title>
+      <link>https://alternativeto.net/news/2025/9/firefox-143-launches-with-pwa-support-microsoft-copilot-integration-and-live-webcam-preview/</link>
+      <description><![CDATA[ Mozilla已发布 firefox  143，引入了跨平台的一系列新功能和增强功能。在Windows上，用户现在可以将网站直接固定在任务栏上，并以简化的Windows运行，而不会丢失对已安装的附加组件的访问。该版本还带来了对Windows UI自动化的支持，该自动化可以通过Windows Voice访问，文本光标指示器和叙述者等工具提高可访问性。
+在这些工作流程更改上构建，现在可以通过将其拖动到标签条的开始来固定，从而使其更简单，使其更容易访问密钥站点。  Microsoft Copilot 可以设置为侧栏Chatbot，允许快速交互，而无需留下主浏览器视图。网站请求摄像机访问时，用户现在在“权限”对话框中接收实时预览，以帮助选择正确的设备。
+遵循这些改进，Firefox扩展了其指纹保护措施，报告了其他设备属性的恒定值。现在以私有浏览模式下载的文件现在提示用户在会话结束后保留​​或删除文件。地址栏现在为美国，英国，德国，法国和意大利的用户展示了著名的日期和事件。 Windows 11 22H2+，MACOS和Android 9+增益支持的用户对Xhe-AAC音频播放。版本143还为开发人员以及各种错误修复提供了进一步的增强。
+View article on AlternativeTo »更多有关Mozilla Firefox ＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/firefox-143-launches-with-pwa-support-microsoft-copilot-integration-and-live-webcam-preview/</guid>
+      <pubDate>Wed, 17 Sep 2025 14:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sparkylinux 2025.09“ Tiamat”与Debian“ Forky”基地和Linux 6.16内核启动</title>
+      <link>https://alternativeto.net/news/2025/9/sparkylinux-2025-09-tiamat-launches-with-debian-forky-base-and-linux-6-16-kernel/</link>
+      <description><![CDATA[  Sparkylinux  2025.09“ Tiamat”已发布，从而带来了此Debian Linux分布的最新版本。 This version is built on the Debian “Forky” testing branch and adopts the Linux kernel 6.16, providing the groundwork for improved stability and硬件支持。
+在此基础上构建，Sparkylinux更新 calamares 安装程序安装程序到版本3.4.0。通过此更改，还恢复了对加密磁盘安装的支持，这是针对在设置过程中寻求磁盘加密的用户的关键要求。除了安装增强功能之外，用户可以从开箱即用。值得注意的是，Firefox 128扩展支持版本（ESR）和GCC 15是标准配置，可以选择从存储库安装Firefox 143。
+在调整台式环境之后，Sparkylinux现在船只 akregator 作为默认的rss读取器，在kde plasma上，更换 Quiterss 。对于LXQT用户， liferea 现在是默认的RSS读取器。 AMD64系统的Sparkylinux 2025.09有多个版本可用，包括LXQT，KDE等离子体，Mate，Mate，XFCE，minimalgui（openbox）和Minimalcli（文本模式）。
+  href =“ https://alternativeto.net/software/sparkylinux/about/”&gt;有关Sparkylinux  |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/sparkylinux-2025-09-tiamat-launches-with-debian-forky-base-and-linux-6-16-kernel/</guid>
+      <pubDate>Wed, 17 Sep 2025 12:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>Fedora Linux 43 Beta版与内核6.17，GNOME 49，KDE 6.4和更新的工具链发行</title>
       <link>https://alternativeto.net/news/2025/9/fedora-linux-43-beta-released-with-kernel-6-17-gnome-49-kde-6-4-and-updated-toolchains/</link>
@@ -28,7 +78,7 @@ View article on AlternativeTo »更多有关fedora ＆nbsp; | |＆nbsp;  fedora&
     <item>
       <title>Android Launcher Lawnchair 15 Beta添加抽屉文件夹，码头升级和扩展搜索</title>
       <link>https://alternativeto.net/news/2025/9/android-launcher-lawnchair-15-beta-adds-drawer-folders-dock-upgrades-and-expanded-search/</link>
-      <description><![CDATA[  Lawnchair  15 Beta 该开放式Android App Launcher的最新版本已发布，现在已与Android 15完全相处。 href =“ https://alternativeto.net/news/2025/9/nova-launcher-is-shutting-shutting-down-as-founder-departs-and-open-source-plans-plans-plans-are-cancel-cancele-/-”&gt; nova启动者的脱节，使LawnChair ，使LawnChair ，使LawnChair Quance Quance Quance Quance Quance Quance Quance Quance 
+      <description><![CDATA[  Lawnchair  15 Beta，该开放式Android App Launcher的最新版本是几个月前发布的，几个月前就与Android 15完全符合Android 15。 href =“ https://alternativeto.net/news/2025/9/nova-launcher-is-shutting-shutting-down-as-founder-departs-and-open-source-plans-plans-plans-are-cancele-cancele-/-cancel-cancel-cancele-/-”一下
 第一个beta引入了两种长期以来的方法来在应用程序抽屉中组织您的应用程序。手动文件夹允许用户创建，名称和重新排序应用程序组，而 caddy 是一个实验功能，会自动将应用程序分类为您的文件夹。
  Android 15, resulting in better stability and unlocking platform features like Private Space and App Archiving.码头部分获得了多次升级：用户可以调整其背景颜色和转角半径，将小部件与应用程序图标一起放置，并显示用于码头应用的图标标签。
 遵循这些改进，搜索功能变得更加自定义。割草机的应用抽屉现在支持自定义的Web搜索引擎，并添加了诸如 ecosia ， Firefox 其集成的提供商之一。这些增强功能旨在使日常导航和搜索更适合Android Power用户。
@@ -101,49 +151,6 @@ UI改进和多个错误修复地​​址崩溃，身份验证问题，cookie和
  在替代文章上查看文章href =“ https://alternativeto.net/software/granola-1/about/”&gt;更多关于granola  ＆nbsp; | |＆nbsp;  granola &lt;/]]></description>
       <guid>https://alternativeto.net/news/2025/9/granola-adds-phone-call-note-taking-and-transcription-to-iphone-app/</guid>
       <pubDate>Tue, 16 Sep 2025 15:47:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Raycast V1.103.0实现液体玻璃控件和彗星浏览器支持</title>
-      <link>https://alternativeto.net/news/2025/9/raycast-v1-103-0-implements-liquid-glass-controls-and-comet-browser-support/</link>
-      <description><![CDATA[  raycast  v1.103.0将液体玻璃控件引入AI聊天，使其设计与新的Macos Tahoe Aesthetic一致。该更新还增加了对焦点扩展中彗星浏览器的支持。其他修复程序在AI聊天中的全屏和窗口行为，以及在Macos Tahoe上的视频通话中自动询问中断。
-  href =“ https://alternativeto.net/software/raycast/about/”&gt;有关Raycast的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/9/raycast-v1-103-0-implements-liquid-glass-controls-and-comet-browser-support/</guid>
-      <pubDate>Tue, 16 Sep 2025 15:43:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Omni Group应用程序更新了Macos Tahoe 26，iOS 26及以上的应用程序</title>
-      <link>https://alternativeto.net/news/2025/9/omni-group-apps-updated-for-macos-tahoe-26-ios-26-and-more/</link>
-      <description><![CDATA[现在，全范围的OMNI组应用程序与Macos Tahoe 26，iOS 26，iPados 26和Visionos 26。操作系统26功能，例如carplay小部件，聚光灯快捷方式和窗口大小。
-其他应用程序，包括 omnigraffle ， a a a a&gt; a a&gt; omna&gt; href =“ https://alternativeto.net/software/omniplan/about/”&gt; omniplan ，Macos Tahoe 26，iOS 26，iOS 26，iPados 26，Watchos 26，Watchos 26和Visionos 26。 href =“ https://alternativeto.net/software/omnidisksweeper/about/”&gt; OmnidiskSweeper 也已经用Macos Tahoe 26支持26的支持和通过配音提高可访问性。
- 更多有关Omnifocus ＆nbsp; | |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/omni-group-apps-updated-for-macos-tahoe-26-ios-26-and-more/</guid>
-      <pubDate>Tue, 16 Sep 2025 15:38:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 26首次亮相液体玻璃设计和人体工程学收件箱更新</title>
-      <link>https://alternativeto.net/news/2025/9/spark-mail-for-ios-26-debuts-liquid-glass-design-and-ergonomic-inbox-updates/</link>
-      <description><![CDATA[  Spark Mail  For IOS 26推出了新的液体玻璃设计，引入了半透明的工具栏和Blurred Backdrops，以实现现代外观。诸如搜索和日历之类的密钥控件已移至收件箱底部，以便单手访问。
-该更新还提供了修改后的上下文菜单和更有效的搜索体验，简化了应用程序中的常见操作。
- 查看文章href =“ https://alternativeto.net/software/spark-e-mail/about/”&gt;更多关于Spark Mail ＆nbsp; | |＆nbsp; &lt;A href =“ https：//alternativeto.net/software/spark-e-mail/]]></description>
-      <guid>https://alternativeto.net/news/2025/9/spark-mail-for-ios-26-debuts-liquid-glass-design-and-ergonomic-inbox-updates/</guid>
-      <pubDate>Tue, 16 Sep 2025 15:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Alfred 5.7带来了与Macos 26 Tahoe和更新的设置搜索的完全兼容性</title>
-      <link>https://alternativeto.net/news/2025/9/alfred-5-7-brings-full-compatibility-with-macos-26-tahoe-and-updated-settings-search/</link>
-      <description><![CDATA[  Alfred  5.7现在可以与MacOS 26 Tahoe完全兼容，并在整个Beta循环中都经过了测试。该更新具有重新设计的内置系统设置搜索，从而消除了对单独的工作流程的需求。
-其他增强功能包括针对Alfred Remote的新设置代理，一个用于工作流详细信息的AppleScript选项以及多个错误修复。
- 有关Alfred ＆nbsp; |＆nbsp; &lt;A href =“ https：//alternatativeto.net/software/software/software/alfred/”]]></description>
-      <guid>https://alternativeto.net/news/2025/9/alfred-5-7-brings-full-compatibility-with-macos-26-tahoe-and-updated-settings-search/</guid>
-      <pubDate>Tue, 16 Sep 2025 14:54:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>规范以支持和分发Nvidia cuda在Ubuntu中本地</title>
-      <link>https://alternativeto.net/news/2025/9/canonical-to-support-and-distribute-nvidia-cuda-natively-in-ubuntu/</link>
-      <description><![CDATA[ canonical， ubuntu 已宣布它将支持和分发
-  thiornatativeto;     href =“ https://alternativeto.net/software/ubuntu/about/”&gt;更多有关Ubuntu ＆nbsp; | |＆nbsp; &lt;A href =“ https：//alternatativeto.net/software/software/software/software/software/ubuntuuntu/]]></description>
-      <guid>https://alternativeto.net/news/2025/9/canonical-to-support-and-distribute-nvidia-cuda-natively-in-ubuntu/</guid>
-      <pubDate>Tue, 16 Sep 2025 14:44:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
