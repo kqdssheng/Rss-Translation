@@ -4,7 +4,56 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Fri, 19 Sep 2025 01:24:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Sep 2025 12:39:35 GMT</lastBuildDate>
+    <item>
+      <title>Rust 1.90发行了默认LDD Linker，货物中的本地工作区出版等</title>
+      <link>https://alternativeto.net/news/2025/9/rust-1-90-released-with-default-ldd-linker-native-workspace-publishing-in-cargo-and-more/</link>
+      <description><![CDATA[  Rust  1.90现在可用，为开发人员提供了改进的性能和工作流程增强功能。核心变化之一是 x86_64-Inknown-linux-gnu 目标现在默认为LLD链接器。此更新使用户构建大型二进制文件或具有广泛调试信息的用户以及依靠增量重建的用户，这要归功于与传统的BFD链接器相比更快的链接。。
+在核心工具改进上构建 CARGO 现在支持 cargo Publish-workspace 命令命令命令，允许在workspace中允许自动依赖性和正确的依赖性订单。以前，开发人员手动协调了此功能或使用了外部工具，因此此添加简化了多用量出版工作流程。
+此外， x86_64-apple-darwin 目标已从1带有主机工具到带有主机工具的Tier 2的层。这反映了Apple和GitHub在X86_64支持方面的变化，并表示可以确保目标构建，但是不再保证自动测试套件覆盖范围。此外，该版本还包括几个新稳定的API，为图书馆和应用程序作者提供了更多在Rust的基础上建立的选项。
+  href =“ https://alternativeto.net/software/rust/about/”&gt;更多有关Rust ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/rust-1-90-released-with-default-ldd-linker-native-workspace-publishing-in-cargo-and-more/</guid>
+      <pubDate>Fri, 19 Sep 2025 07:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitLab 18.4发行了GitLab Duo模型选择，知识图和其他增强功能</title>
+      <link>https://alternativeto.net/news/2025/9/gitlab-18-4-released-with-gitlab-duo-model-selection-knowledge-graph-and-other-enhancements/</link>
+      <description><![CDATA[  gitlab  18.4介绍了一系列针对开发人员体验和安全控制的更新。在亮点中，Gitlab Duo模型选择现在通常可用，让组织选择哪种AI模型为其软件开发工作流动。对于最终用户，一个新的公共Beta使开发人员可以直接在用户界面中的Gitlab Duo代理聊天选择自己的AI模型。与这些AI功能相辅相成，新的GitLab知识图（以β发行）提供了深度代码智能，因此开发人员可以更好地探索其代码库，评估潜在的影响并更有效地与此外，GitLab现在允许在项目中创建的CI/CD作业令牌 git 将请求推向该项目的存储库。开发人员还通过Gitlab Duo Context排除的Beta推出获得了微调的控制。此功能通过管理作为Gitlab Duo上下文提供的内容来帮助保护敏感信息，例如密码或配置文件。
+对于部署灵活性，GitLab专用现在支持所有 Amazon Web服务  地区，使组织可以指定其主要的，次要的位置和次要位置。随后，管道模拟得到了增强。开发人员现在可以针对任何分支进行管道测试，从而简化了验证和完善CI/CD工作流程的过程。其他增量改进符合18.4版本。
+ 更多有关Gitlab ＆nbsp; | |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/gitlab-18-4-released-with-gitlab-duo-model-selection-knowledge-graph-and-other-enhancements/</guid>
+      <pubDate>Fri, 19 Sep 2025 06:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft启动Playfab游戏节省跨平台保存Xbox和Steam之间的游戏</title>
+      <link>https://alternativeto.net/news/2025/9/microsoft-launches-playfab-game-saves-for-cross-platform-save-games-between-xbox-and-steam/</link>
+      <description><![CDATA[ Microsoft已宣布 href =“ https://alternativeto.net/software/xbox-app/about/”&gt; Xbox 和 Steam 。它建立在 Playfab 平台上，该平台已经为开发人员提供了API，服务和后端工具。借助此功能，只要每个平台拥有每个平台，玩家就可以在每个平台上进行进度。在启动时，Playfab游戏节省了Xbox One，Xbox系列S/X，PC和Cloud上的Xbox以及PC和Steam Deck上的Steam，并计划将来添加更多平台。
+该服务经过精心处理，以处理版本冲突和软件依赖性，从而在不同的构建中提供可靠的保存管理。它可以在线和离线功能以及功能回滚支持，从而使用户可以恢复由同步错误导致的损坏的保存文件。在十年的Xbox游戏中，此产品可以节省可靠性，以 Xbox Play Anywhere 主动性进行了补充，但扩展了跨弹药的好处。 
+在开发人员访问方面，Playfab Game Saves当前可通过有限的公共预览获得，有兴趣的开发人员能够通过 playfab Game Manager 等待名单。微软确认，即使在Xbox上发布的任何开发人员也可以免费发布该服务，即使对于Xbox Ecosystem之外的版本，也将在以后披露非Xbox游戏的定价。此举非常适合最新的最近整合第三部分游戏商店 href =“ https://feed.alternativeto.net/software/xbox-app/about/”&gt; Xbox App 在Windows上。
+  href =“ https://alternativeto.net/software/playfab/about/”&gt;更多有关Playfab ＆nbsp; | |＆nbsp; &lt;A href =“ https://alternatativeto.net/software/software/software/software/playfab/]]></description>
+      <guid>https://alternativeto.net/news/2025/9/microsoft-launches-playfab-game-saves-for-cross-platform-save-games-between-xbox-and-steam/</guid>
+      <pubDate>Fri, 19 Sep 2025 04:58:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intion 3.0介绍了新的AI代理，以使人类在应用程序中所能执行的几乎所有任务自动化</title>
+      <link>https://alternativeto.net/news/2025/9/notion-3-0-introduces-new-ai-agents-to-automate-nearly-all-tasks-a-human-can-do-in-the-app/</link>
+      <description><![CDATA[  intion 已引入其下一个主要版本，该充当虚拟助手，能够执行工作空间中用户通常处理的几乎所有任务。这些新代理超出了基本聊天机器人的功能，例如回答问题，进行完整的工作流程自动化，从在线研究和制图文档到更新整个数据库。
+例如，AI代理可以生成电子邮件广告系列，从不同平台编译反馈，重组会议注释，构建文章数据库，分配项目任务并更新知识库。它可以访问网络，现有的概念内容和集成，例如 slack 或
+该公司还宣布正在测试在时间表或触发器上运行的定制代理商，并且可以通过团队共享，可以通过处理反复执行的任务来保持工作在不监督的情况下移动，例如编译反馈，发布更新或管理请求，并进行更广泛的推出和定价。
+ 更多有关intion ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/notion-3-0-introduces-new-ai-agents-to-automate-nearly-all-tasks-a-human-can-do-in-the-app/</guid>
+      <pubDate>Fri, 19 Sep 2025 04:23:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>GNOME 49 BRESCIA推出了Wayland的改进，新的默认应用程序等等</title>
+      <link>https://alternativeto.net/news/2025/9/gnome-49-brescia-launches-with-wayland-improvements-new-default-apps-and-more/</link>
+      <description><![CDATA[ gnome项目已发布 gnome 49“ brescia” 作为GNU/Linux桌面的新稳定版本，制作 Wayland 默认显示协议和禁用 ShowTime Player 用于视频播放的showtime Player 视频或Totem）， Papers 作为文档查看器（替换手册用于开发人员文档（替换 devehelp  devehelp  devehelp  devehelp  evehelp  evehelp  evehelp &gt;
+性能升级包括HDR亮度支持，异步键盘地图设置，每个监视亮度滑块以及在VRR显示器上以最大刷新速率以最大的刷新速率移动。可用性更改添加一个请勿干扰切换，登录屏幕上的专用可访问性菜单，改进了电源配置文件的快速设置以及支持被动屏幕铸造。 GNOME Files (Nautilus) improves file management with faster batch renaming, a finished-operation icon, transparency for hidden files, local device-name sorting, and a “Ctrl + dot” shortcut to open directories in the terminal.  gnome web （epiphany）还引入了重新设计的地址栏，售货亭模式，新的隐私权选项和可用性优化。&gt; &gt; &gt; 
+其他应用程序还接收了升级， calculator 添加新的货币，单位，操作员和高级数学功能href =“ https://alternativeto.net/software/software/gnome-camera/about/”&gt;快照获得了硬件编码，H264/MP4记录，并改善了手势支持。  boxes 将默认的VM磁盘大小提高到30 GB，显然， gnome Console 现在提供完整的Screen模式。  orca屏幕读取器可以直接从设置中进行配置，并带来SystemD集成，结构性导航，而更好的Web内容处理，而 quadrapassel 已移植到GTK4，完整发行说明。 
+ 有关GNOME ＆nbsp; |＆nbsp; &lt;a href =“ https：//alternativeto.net/softoware/software/gnome/gnome/”]]></description>
+      <guid>https://alternativeto.net/news/2025/9/gnome-49-brescia-launches-with-wayland-improvements-new-default-apps-and-more/</guid>
+      <pubDate>Fri, 19 Sep 2025 03:46:38 GMT</pubDate>
+    </item>
     <item>
       <title>Google宣布了最大的Chrome更新，其Ai-Antentic功能由双子座供电</title>
       <link>https://alternativeto.net/news/2025/9/google-launches-largest-chrome-update-with-gemini-ai-and-new-security-tools/</link>
@@ -95,48 +144,6 @@ View article on AlternativeTo »有关尾巴的更多信息]]></description>
  更多有关Giada  ＆nbsp; | |]]></description>
       <guid>https://alternativeto.net/news/2025/9/open-source-loop-machine-giada-1-3-adds-support-for-multiple-audio-ouputs-beyond-stereo/</guid>
       <pubDate>Thu, 18 Sep 2025 11:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>QUIP 1.4更新：Apple Intelligence，Liquid Glass Design和Revamped键盘</title>
-      <link>https://alternativeto.net/news/2025/9/quip-1-4-update-apple-intelligence-liquid-glass-design-and-revamped-keyboard/</link>
-      <description><![CDATA[Quip Clipboard 1.4 now supports Apple Intelligence on macOS 26, enabling on-device text摘要，收集建议和智能过滤都私下管理。该更新在MacOS和iOS上首次亮相苹果的液体玻璃设计，提供了更具流动性和本地界面。在iOS和iPados上，QUIP键盘已被重建以供速度，现在与重新设计相匹配。
- 查看文章href =“ https://alternativeto.net/software/quip-clipboard/about/”&gt;有关Quip clipboard的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/9/quip-1-4-update-apple-intelligence-liquid-glass-design-and-revamped-keyboard/</guid>
-      <pubDate>Thu, 18 Sep 2025 10:16:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>1Password扩展将安全的凭证管理带到彗星浏览器</title>
-      <link>https://alternativeto.net/news/2025/9/1password-extension-brings-secure-credential-management-to-comet-browser/</link>
-      <description><![CDATA[  1password 现在可以用于用户可以通过端到端加密和零知识体系结构安全地管理其凭据，以确保敏感信息保持私密。
-自动填充和密码生成功能在彗星中可访问，而无需将数据暴露于AI或LLM上下文。
- 更多有关1Password ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/1password-extension-brings-secure-credential-management-to-comet-browser/</guid>
-      <pubDate>Thu, 18 Sep 2025 10:07:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>BEAR揭幕重新设计的UI和Macos Tahoe和iOS的图标26</title>
-      <link>https://alternativeto.net/news/2025/9/bear-unveils-redesigned-ui-and-icons-for-macos-tahoe-and-ios-26/</link>
-      <description><![CDATA[  bear 现在与iOS 26和Macos Tahoe完全兼容，拥有苹果的新液体玻璃设计。该应用程序现在具有更深入的精制UI，以及使用液体玻璃样式梯度和照明的更新图标。这些更改旨在将熊的视觉设计与苹果的最新操作系统紧密相结合。
- 更多有关bear ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/bear-unveils-redesigned-ui-and-icons-for-macos-tahoe-and-ios-26/</guid>
-      <pubDate>Thu, 18 Sep 2025 09:59:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>HelpCrunch启动具有多通道支持的可定制AI代理</title>
-      <link>https://alternativeto.net/news/2025/9/helpcrunch-launches-customizable-ai-agents-with-multichannel-support/</link>
-      <description><![CDATA[  helpCrunch 已发布了AI代理，该AI代理可自动化多达80％的跨频道客户查询，包括实时聊天，移动应用程序，移动应用程序和流行的消息平台。这些AI代理支持50多种语言，可以处理复杂的多部分问题，并且可以针对各种用例进行自定义。所有响应都严格基于公司数据，如果找不到答案，则对人类进行了交换。
-该功能可在具有固定限制的无限计划和无限计划中获得。
- 在交流中查看文章href =“ https://alternativeto.net/software/helpcrunch/about/”&gt;更多有关HELPCRUNCH的信息]]></description>
-      <guid>https://alternativeto.net/news/2025/9/helpcrunch-launches-customizable-ai-agents-with-multichannel-support/</guid>
-      <pubDate>Thu, 18 Sep 2025 09:52:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Thunderbird 143.0解决崩溃错误和Gmail发送故障</title>
-      <link>https://alternativeto.net/news/2025/9/thunderbird-143-0-resolves-crash-bugs-and-gmail-sending-failures/</link>
-      <description><![CDATA[  Thunderbird  143.0解决了多个崩溃问题，包括在启动和邮件导入期间。该更新还恢复了帐户的添加功能，并解决了依赖smtp-relay.gmail.com的用户发送故障的问题。其他修复程序地址空白网页当证书无效，带有IMAP服务器的附件操作以及一般安全性改进。
- 有关雷鸟的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/9/thunderbird-143-0-resolves-crash-bugs-and-gmail-sending-failures/</guid>
-      <pubDate>Thu, 18 Sep 2025 09:44:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
