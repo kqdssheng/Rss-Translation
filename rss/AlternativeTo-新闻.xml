@@ -4,7 +4,16 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Sat, 20 Sep 2025 01:20:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Sep 2025 12:36:05 GMT</lastBuildDate>
+    <item>
+      <title>WebAssembly 3.0扩展了内存限制，添加垃圾收集，尾声等等</title>
+      <link>https://alternativeto.net/news/2025/9/webassembly-3-0-expands-memory-limits-adds-garbage-collection-tail-calls-and-much-more/</link>
+      <description><![CDATA[  WebAssembly  3.0是一个主要的里程碑，标志着该平台几年来该平台的第一个版本，以引入扩展新功能。最值得注意的是，此版本允许记忆和表使用64位地址（i64），将应用程序的最大理论地址空间从4千兆字节增加到16个exabytes，仅受可用硬件的限制。基于内存改进，模块现在可以声明和访问多个记忆，并直接移动它们之间的数据。
+遵循这些核心更改，WebAssembly引入了一种新的存储形式，该存储是使用垃圾收集来自动管理的。此添加是由WASM类型系统的大量扩展驱动的，WASM类型系统现在处理更广泛的参考文献，从而改善了对高级语言功能的支持。对于程序执行，两个功能脱颖而出：对尾部调用的支持，这些功能可最大程度地减少静态和动态函数调用中的堆栈用法，以及通过异常标签和有效载荷数据进行的本机例外处理。
+这些更新与以绩效为中心的simd矢量说明相辅相成，现在具有明确的确定性后备，并增强了支持内联注释的文本格式。最后，作为嵌入 javascript 通过JS API进行了升级，WebAssemembly现在可以更好地支持高级语言，包括Java，ocaml，calsa，scala，scala，kotlin，kotlin，kotlin，kotlin，kotlin，kotlin，kotlin，kotlin and p.  有关WebAssembly的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/9/webassembly-3-0-expands-memory-limits-adds-garbage-collection-tail-calls-and-much-more/</guid>
+      <pubDate>Sat, 20 Sep 2025 11:05:00 GMT</pubDate>
+    </item>
     <item>
       <title>LinkedIn现在将使用您的数据进行AI培训和广告个性化，但是您可以选择退出</title>
       <link>https://alternativeto.net/news/2025/9/linkedin-will-now-use-your-data-for-ai-training-and-ad-personalization-but-you-can-opt-out/</link>
@@ -52,7 +61,7 @@
       <title>无花果网站启动使用自定义字体和可访问性工具的所有用户</title>
       <link>https://alternativeto.net/news/2025/9/figma-sites-launches-to-all-users-with-custom-fonts-and-accessibility-tools/</link>
       <description><![CDATA[  figma 网站已为所有入门者和教育计划用户公开启动。最新更新添加了自定义字体支持，带有ARIA角色设置和HTML标签的高级可访问性工具，以及密码保护和cookie横幅。链接管理功能也已更新以提高站点功能。
- 在替代上查看文章href =“ https://alternativeto.net/software/figma/about/”&gt;更多有关Figma ＆nbsp; |＆nbsp; &lt;A href =“ https://alternatativeto.net/software/software/software/figma/]]></description>
+ 在替代上查看文章href =“ https://alternativeto.net/software/figma/about/”&gt;有关Figma ＆nbsp; |＆nbsp; &lt;A href =“ https：//alternativeto.net/software/software/software/figma/”]]></description>
       <guid>https://alternativeto.net/news/2025/9/figma-sites-launches-to-all-users-with-custom-fonts-and-accessibility-tools/</guid>
       <pubDate>Fri, 19 Sep 2025 15:04:06 GMT</pubDate>
     </item>
@@ -83,7 +92,7 @@ Laravel MCP已经在生产中用作Laravel Boost的后端。
       <pubDate>Fri, 19 Sep 2025 14:39:56 GMT</pubDate>
     </item>
     <item>
-      <title>样条线启动时间线，用于用密钥帧对3D场景进行动画动画</title>
+      <title>样条线启动时间线，用于用密钥帧来动画3D场景</title>
       <link>https://alternativeto.net/news/2025/9/spline-launches-timeline-for-animating-3d-scenes-with-keyframes/</link>
       <description><![CDATA[  spline 发布了时间表，这是一种用于动画3D场景的新工具，现在可以在Beta中使用。时间轴功能包括密钥帧，曲线控件和事件支持。
 有限的Beta版本正在实时，并计划进行持续的改进。
@@ -94,7 +103,7 @@ Laravel MCP已经在生产中用作Laravel Boost的后端。
     <item>
       <title>Vivaldi 7.6带来完整的选项卡栏自定义和一个全局选项卡按钮，用于增强浏览</title>
       <link>https://alternativeto.net/news/2025/9/vivaldi-7-6-brings-full-tab-bar-customization-and-a-global-tab-button-for-enhanced-browsing/</link>
-      <description><![CDATA[  vivaldi  7.6 7.6引入重大改进，重点是扩展浏览器自定义。现在，用户可以完全控制选项卡栏：可以单独配置地址栏，状态栏，侧边栏，主题和鼠标手势，将每个设置完全放置在需要的地方。此更新旨在通过让用户构建与习惯相匹配的工作区，使常见的浏览操作更容易访问。
+      <description><![CDATA[  vivaldi  7.6 7.6引入了重大改进，重点是扩展浏览器自定义。现在，用户可以完全控制选项卡栏：可以单独配置地址栏，状态栏，侧边栏，主题和鼠标手势，将每个设置完全放置在需要的地方。此更新旨在通过让用户构建与习惯相匹配的工作区，使常见的浏览操作更容易访问。
 在这些自定义选项上构建，Vivaldi带有一个新的选项卡按钮。该工具是一个集中式位置，可查找，切换和恢复选项卡，替换单独的菜单进行同步和最近关闭的选项卡。它在标签栏上的位置也是用户调整的，可以进一步的接口灵活性。
 在标题更改之外，Vivaldi 7.6还包括几种可用性增强功能。上下文菜单已简化，以便于导航。升级的地址字段引入了关键字快捷方式，例如 @tabs ， @bookmarks 和 @history 用于目标搜索。内置的广告阻滞剂现在支持弹出规则，增加对不需要内容的控制。 Windows用户会获得对滑动手势的支持，从而提高了触控板和触摸板的导航效率。最后，切换到Hibernated Tabs现在更快，使保持许多选项卡的用户受益。
  更多有关Vivaldi ＆nbsp; | |＆nbsp; &lt;A href =“]]></description>
@@ -129,16 +138,6 @@ Laravel MCP已经在生产中用作Laravel Boost的后端。
   href =“ https://alternativeto.net/software/playfab/about/”&gt;更多有关Playfab ＆nbsp; | |＆nbsp; &lt;A href =“ https://alternatativeto.net/software/software/software/software/playfab/]]></description>
       <guid>https://alternativeto.net/news/2025/9/microsoft-launches-playfab-game-saves-for-cross-platform-save-games-between-xbox-and-steam/</guid>
       <pubDate>Fri, 19 Sep 2025 04:58:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Intion 3.0介绍了新的AI代理，以使人类在应用程序中所能执行的几乎所有任务自动化</title>
-      <link>https://alternativeto.net/news/2025/9/notion-3-0-introduces-new-ai-agents-to-automate-nearly-all-tasks-a-human-can-do-in-the-app/</link>
-      <description><![CDATA[  intion 已引入其下一个主要版本，该充当虚拟助手，能够执行工作空间中用户通常处理的几乎所有任务。这些新代理超出了基本聊天机器人的功能，例如回答问题，进行完整的工作流程自动化，从在线研究和制图文档到更新整个数据库。
-例如，AI代理可以生成电子邮件广告系列，从不同平台编译反馈，重组会议注释，构建文章数据库，分配项目任务并更新知识库。它可以访问网络，现有的概念内容和集成，例如 slack 或
-该公司还宣布正在测试在时间表或触发器上运行的定制代理商，并且可以通过团队共享，可以通过处理反复执行的任务来保持工作在不监督的情况下移动，例如编译反馈，发布更新或管理请求，并进行更广泛的推出和定价。
- 更多有关intion ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/notion-3-0-introduces-new-ai-agents-to-automate-nearly-all-tasks-a-human-can-do-in-the-app/</guid>
-      <pubDate>Fri, 19 Sep 2025 04:23:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
