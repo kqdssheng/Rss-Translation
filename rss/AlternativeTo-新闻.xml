@@ -4,7 +4,27 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Sat, 20 Sep 2025 12:36:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Sep 2025 01:28:53 GMT</lastBuildDate>
+    <item>
+      <title>Zorin OS 18 Beta已发布新的重新设计，Web应用程序和Windows迁移工具</title>
+      <link>https://alternativeto.net/news/2025/9/zorin-os-18-beta-has-been-released-with-a-new-redesign-web-apps-and-windows-migration-tools/</link>
+      <description><![CDATA[  Zorin OS 18 beta 介绍了一个重新设计的桌面，带有带有圆形的视觉风格，浅色的颜色，较浅的颜色，浅色的侧面，有色的侧面，以及带有反应式Workspace Workspace Workspace Workspace workspace worksator。还重新设计了几个应用程序，包括具有更新的侧栏，新相机应用程序和现代化的 Evolution 邮件客户端的文件。该版本还针对 Windows 10 用户在2025年10月的生活结束之前，为设备提供了不满足 Windows 11 要求。
+更新添加了一个Web应用程序工具来转动网站，例如 Microsoft 365 ， href =“ https://feed.alternativeto.net/software/google-docs---word-processor/about/”&gt; google docs ， adobe photoshop 进入桌面应用程序，以及用于布局，自动瓷砖和自定义设置的高级窗口管理器。  Microsoft OneDrive 集成在内置，而性能优化，更新的驱动程序和默认 href =“ https://feed.alternativeto.net/software/pipewire/about/”&gt; PipeWire 支持更多硬件的速度，响应能力和音频质量。
+ Zorin OS 18可以检测到170个Windows Installer文件，并建议替代方案以简化迁移。但是，该测试版尚未准备就绪，目前缺乏完整的壁纸套装和更新的欢迎之旅。 ZORIN OS 18 CORE BETA IS 现在可以下载，并保证了支持直到2029年4月17日的升级，并在稳定版本后进行升级。  
+ 更多有关Zorin OS ＆nbsp; | |＆nbsp; ]]></description>
+      <guid>https://alternativeto.net/news/2025/9/zorin-os-18-beta-has-been-released-with-a-new-redesign-web-apps-and-windows-migration-tools/</guid>
+      <pubDate>Sat, 20 Sep 2025 13:19:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Buffer释放主要的iOS 26更新，其中液体玻璃，新小部件和新的Apple Watch应用程序</title>
+      <link>https://alternativeto.net/news/2025/9/buffer-releases-major-ios-26-update-with-liquid-glass-new-widgets-and-a-new-apple-watch-app/</link>
+      <description><![CDATA[  buffer 已发布了迄今为止最大的更新，重新设计了 ios 26  href =“ https://alternativeto.net/news/2025/6/apple-introduces-liquid-glass-glass-a-new-design-language-for-for-iscosystem--cosystem--cosystem--cosystem--on-on-visionos/”&gt;苹果的新液体玻璃系统。现在，该应用程序具有清洁的导航，更智能的小部件，改进的登机工作以及会话恢复，因此用户可以在停止的位置接收。频道切换也以更少的模式进行了简化，使日常使用速度更快。
+该更新通过控制​​中心或iPhone操作按钮引入了一个想法快捷方式，使用户立即捕获帖子想法。 Integration with Apple Shortcuts app enables automation, while new posting tools include per-channel goals with progress rings, queue counts across organizations, and a redesigned calendar day view showing all channels in one place.
+新的 Apple Watch 应用程序将这些功能扩展到手腕，并能够捕获想法，检查队列和无手机跟踪条纹。并发症显示目标和队列计数，而创意作曲家使无电话的想法捕获成为可能，使每日检查更快，更轻松。
+ 有关缓冲区的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/9/buffer-releases-major-ios-26-update-with-liquid-glass-new-widgets-and-a-new-apple-watch-app/</guid>
+      <pubDate>Sat, 20 Sep 2025 12:59:27 GMT</pubDate>
+    </item>
     <item>
       <title>WebAssembly 3.0扩展了内存限制，添加垃圾收集，尾声等等</title>
       <link>https://alternativeto.net/news/2025/9/webassembly-3-0-expands-memory-limits-adds-garbage-collection-tail-calls-and-much-more/</link>
@@ -119,25 +139,6 @@ Laravel MCP已经在生产中用作Laravel Boost的后端。
   href =“ https://alternativeto.net/software/rust/about/”&gt;更多有关Rust ＆nbsp; |＆nbsp; |]]></description>
       <guid>https://alternativeto.net/news/2025/9/rust-1-90-released-with-default-ldd-linker-native-workspace-publishing-in-cargo-and-more/</guid>
       <pubDate>Fri, 19 Sep 2025 07:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitLab 18.4发行了GitLab Duo模型选择，知识图和其他增强功能</title>
-      <link>https://alternativeto.net/news/2025/9/gitlab-18-4-released-with-gitlab-duo-model-selection-knowledge-graph-and-other-enhancements/</link>
-      <description><![CDATA[  gitlab  18.4介绍了一系列针对开发人员体验和安全控制的更新。在亮点中，Gitlab Duo模型选择现在通常可用，让组织选择哪种AI模型为其软件开发工作流动。对于最终用户，一个新的公共Beta使开发人员可以直接在用户界面中的Gitlab Duo代理聊天选择自己的AI模型。与这些AI功能相辅相成，新的GitLab知识图（以β发行）提供了深度代码智能，因此开发人员可以更好地探索其代码库，评估潜在的影响并更有效地与此外，GitLab现在允许在项目中创建的CI/CD作业令牌 git 将请求推向该项目的存储库。开发人员还通过Gitlab Duo Context排除的Beta推出获得了微调的控制。此功能通过管理作为Gitlab Duo上下文提供的内容来帮助保护敏感信息，例如密码或配置文件。
-对于部署灵活性，GitLab专用现在支持所有 Amazon Web服务  地区，使组织可以指定其主要的，次要的位置和次要位置。随后，管道模拟得到了增强。开发人员现在可以针对任何分支进行管道测试，从而简化了验证和完善CI/CD工作流程的过程。其他增量改进符合18.4版本。
- 更多有关Gitlab ＆nbsp; | |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/gitlab-18-4-released-with-gitlab-duo-model-selection-knowledge-graph-and-other-enhancements/</guid>
-      <pubDate>Fri, 19 Sep 2025 06:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft启动Playfab游戏节省跨平台保存Xbox和Steam之间的游戏</title>
-      <link>https://alternativeto.net/news/2025/9/microsoft-launches-playfab-game-saves-for-cross-platform-save-games-between-xbox-and-steam/</link>
-      <description><![CDATA[ Microsoft已宣布 href =“ https://alternativeto.net/software/xbox-app/about/”&gt; Xbox 和 Steam 。它建立在 Playfab 平台上，该平台已经为开发人员提供了API，服务和后端工具。借助此功能，只要每个平台拥有每个平台，玩家就可以在每个平台上进行进度。在启动时，Playfab游戏节省了Xbox One，Xbox系列S/X，PC和Cloud上的Xbox以及PC和Steam Deck上的Steam，并计划将来添加更多平台。
-该服务经过精心处理，以处理版本冲突和软件依赖性，从而在不同的构建中提供可靠的保存管理。它可以在线和离线功能以及功能回滚支持，从而使用户可以恢复由同步错误导致的损坏的保存文件。在十年的Xbox游戏中，此产品可以节省可靠性，以 Xbox Play Anywhere 主动性进行了补充，但扩展了跨弹药的好处。 
-在开发人员访问方面，Playfab Game Saves当前可通过有限的公共预览获得，有兴趣的开发人员能够通过 playfab Game Manager 等待名单。微软确认，即使在Xbox上发布的任何开发人员也可以免费发布该服务，即使对于Xbox Ecosystem之外的版本，也将在以后披露非Xbox游戏的定价。此举非常适合最新的最近整合第三部分游戏商店 href =“ https://feed.alternativeto.net/software/xbox-app/about/”&gt; Xbox App 在Windows上。
-  href =“ https://alternativeto.net/software/playfab/about/”&gt;更多有关Playfab ＆nbsp; | |＆nbsp; &lt;A href =“ https://alternatativeto.net/software/software/software/software/playfab/]]></description>
-      <guid>https://alternativeto.net/news/2025/9/microsoft-launches-playfab-game-saves-for-cross-platform-save-games-between-xbox-and-steam/</guid>
-      <pubDate>Fri, 19 Sep 2025 04:58:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
