@@ -4,12 +4,63 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Mon, 22 Sep 2025 01:30:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 12:40:55 GMT</lastBuildDate>
+    <item>
+      <title>XAI以较低的成本和提高令牌效率推出了Grok 4</title>
+      <link>https://alternativeto.net/news/2025/9/xai-launches-grok-4-fast-with-lower-costs-and-improved-token-efficiency/</link>
+      <description><![CDATA[ Xai已发布 Grok  4 Fast，该公司最新的AI模型，即用于人工智能的成本效益推理。在Grok 4的课程上，Grok 4 Fast Fast为企业和消费者领域提供边境级别的性能，同时强调最终用户和开发人员的出色令牌效率。
+关键改进包括200万令牌上下文窗口，尖端的网络和 x 搜索功能和统一的模型体系结构。 Grok 4 Fast介绍了一个系统，该系统在系统提示的指导下处理了一组型号的长链推理和快速响应。该统一消除了先前对单独模型的需求，减少了端到端响应延迟和代币使用。这些架构的变化特别有益于实时应用程序，以寻求较低的延迟和较高的吞吐量。
+与Grok 3 Mini相比，Grok 4 Fast在推理基准测试方面取得了更好的分数，同时大大降低了令牌成本。当与Grok 4相匹配时，该模型在边境基准测试中保持可比性的性能，但可以减少40％的令牌。对于需要高级推理的用户，提高令牌效率和较低的人均价格的结合促进了98％的成本。
+此外，Grok 4 Fast使用工具使用加固学习对端到端训练，优化何时利用代码执行和Web浏览。现在，新的AI模型通常可以通过网站和iOS/Android移动应用程序提供给所有用户。
+ 有关Grok ＆nbsp; |＆nbsp; &lt;A href =“ https：//alternativeto.net/software/grok/]]></description>
+      <guid>https://alternativeto.net/news/2025/9/xai-launches-grok-4-fast-with-lower-costs-and-improved-token-efficiency/</guid>
+      <pubDate>Mon, 22 Sep 2025 11:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>概念MCP Update与光标，Claude等添加了集成</title>
+      <link>https://alternativeto.net/news/2025/9/notion-mcp-update-adds-integration-with-cursor-claude-and-more/</link>
+      <description><![CDATA[  notion 现在允许与 claude ， perplexity ，Windsurf, and HubSpot.这些平台可以从概念工作区和连接的应用程序中读取上下文，还可以将数据写回概念。
+该更新扩大了概念用户的自动化和工作流程的可能性。
+ 有关替代文章的文章href =“ https://alternativeto.net/software/notion/about/”&gt;更多有关intion ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/notion-mcp-update-adds-integration-with-cursor-claude-and-more/</guid>
+      <pubDate>Mon, 22 Sep 2025 10:52:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dietpi 9.17发行了更快的备份，较小的图像，改进的Navidrome配置及更多</title>
+      <link>https://alternativeto.net/news/2025/9/dietpi-9-17-released-with-faster-backups-smaller-images-improved-navidrome-config-and-more/</link>
+      <description><![CDATA[  Dietpi 现已上市，标志着这款为单板计算机设计的最新发行版的最新发行版。值得注意的系统更改是，如果没有EXT3或EXT4期刊，Dietpi图像现在已发货。相反，在使用 dietpi-fs_partition_resize 脚本扩展根文件系统之后，创建日记。此方法导致较小的图像文件并确保文件系统日记期最佳的位置和尺寸，从而有可能在设置和操作期间提高性能。
+对于 raspberry pi 用户，此更新通过 dietpi-config 。现在，它可以识别较新的型号和该项目的新拆分设备叠加层，以确保与DAC+/AMP2/AMP4和DAC+ Pro/DAC2组合的兼容性。
+ DietPI中的备份程序也得到了改善。维护多个备份时，使用 rsync -link-dest 选项，意味着未更换的文件在备份迭代中进行了固定的链接，节省了重要的磁盘空间并加快了备份完成，同时保持每个备份完全自我符合。&gt; &gt; &gt; 
+在媒体管理中， navidrome 现在，通过从嵌入式源，当地目录，的默认配置与上游默认的默认配置相匹配。 href =“ https://alternativeto.net/software/lastfm/about/”&gt; last.fm 。此外，更新还包括 roon服务器早期访问toggle，改进
+ 更多有关Dietpi ＆nbsp; | |＆nbsp; &lt;a href =“ https：//alternatativeto.net/software/software/software/dietpi/]]></description>
+      <guid>https://alternativeto.net/news/2025/9/dietpi-9-17-released-with-faster-backups-smaller-images-improved-navidrome-config-and-more/</guid>
+      <pubDate>Mon, 22 Sep 2025 09:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>IPFIRE的最新更新带来了完整的OpenVPN索取和改进的电力节省</title>
+      <link>https://alternativeto.net/news/2025/9/ipfire-s-latest-update-brings-a-complete-openvpn-overhault-and-improved-power-saving/</link>
+      <description><![CDATA[  ipfire  2.29 Core Update 197现在可用，为此开源防火墙的用户引入了几个核心升级和安全增强功能。该版本建立在Linux 6.12.41内核上，为改进的硬件兼容性和安全性提供了更新的基础。
+大修 OpenVPn ，现在已更新为2.6版。这为客户端配置导出带来了更简单的方法，并引入了升级的加密方法。以前被确定为潜在攻击向量的压缩功能的删除进一步增强了安全概况，并可能影响依靠遗留压缩设置的部署。
+虽然这些安全功能得到了改进，但该更新还可以默认情况下启用CPU时钟。这意味着运行IPFIRE的系统将使用较少的功率并发出更少的热量，这可以使人们意识到能源使用或热量输出的管理员受益。遵循这些底层变化，该版本改善了对 wireguard 虚拟私人网络的支持，增强了入侵预防系统，并增强了备份功能。
+最后，此版本引入了多个更新的软件包，提供了新的和改进的附加组件，并将语言支持扩展到包括中文，使防火墙更容易被更广泛的受众访问。
+       href =“ https://alternativeto.net/software/ipfire/about/”&gt;更多关于IPFIRE的信息]]></description>
+      <guid>https://alternativeto.net/news/2025/9/ipfire-s-latest-update-brings-a-complete-openvpn-overhault-and-improved-power-saving/</guid>
+      <pubDate>Mon, 22 Sep 2025 07:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>介绍薰衣草照片v1.0.0：新界面，视频编辑和AVIF支持</title>
+      <link>https://alternativeto.net/news/2025/9/introducing-lavender-photos-v1-0-0-new-interface-video-editor-and-avif-support/</link>
+      <description><![CDATA[ 薰衣草照片 v1.0.0启动，具有新的材料表达式（材料设计3）界面，具有流体动画和重新提高的用户体验。此更新介绍了视频编辑器，为图像编辑添加了增强功能，并支持AVIF图像格式。
+其他功能包括扩展的语言支持和媒体管理工具，同时解决了一些稳定性和性能问题。
+ 有关薰衣草照片的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/9/introducing-lavender-photos-v1-0-0-new-interface-video-editor-and-avif-support/</guid>
+      <pubDate>Mon, 22 Sep 2025 07:39:23 GMT</pubDate>
+    </item>
     <item>
       <title>Luma AI使用HDR，基于草图的控制和快速预览渲染启动Ray3视频模型</title>
       <link>https://alternativeto.net/news/2025/9/luma-ai-launches-ray3-video-model-with-hdr-sketch-based-control-and-fast-preview-rendering/</link>
       <description><![CDATA[Luma AI has unveiled Ray3, its new generative video model capable of producing studio-quality HDR content.它支持10、12和16位的色彩深度，EXR中的出口用于专业工作流程，并可以将SDR视频添加到HDR以获取现代化的输出。
- ray3引入了高级推理，允许模型解释图像和文本提示，遵循复杂的说明并批评自己的草稿。这可以通过基于草图的输入进行视觉控制，用户可以在其中指导动作，对象或相机直接在图像上构架而不是仅依靠文本。
+ ray3引入了高级推理，允许模型解释图像和文本提示，遵循复杂的说明并批评自己的草稿。这可以通过基于草图的输入进行视觉控制，在该输入中，用户可以指导动作，对象或相机直接在图像上构架而不是仅依靠文本。
 该模型还具有一种草稿模式，该模式可提供更快且成本较低的五倍的预览，然后在第二次通过时可以将其升级到4K HDR。在人群渲染，照明，反射，运动模糊和性格一致性中，视觉保真度得到了增强。虽然它没有生成音频，但Ray3可以通过 Luma Ai的Dream Machine App 。
  更多有关Luma Ai   | |＆nbsp; |]]></description>
       <guid>https://alternativeto.net/news/2025/9/luma-ai-launches-ray3-video-model-with-hdr-sketch-based-control-and-fast-preview-rendering/</guid>
@@ -36,7 +87,7 @@
       <pubDate>Sat, 20 Sep 2025 13:19:00 GMT</pubDate>
     </item>
     <item>
-      <title>Buffer释放主要的iOS 26更新，并使用液体玻璃，新小部件和新的Apple Watch应用</title>
+      <title>Buffer释放主要的iOS 26更新，其中液体玻璃，新小部件和新的Apple Watch应用程序</title>
       <link>https://alternativeto.net/news/2025/9/buffer-releases-major-ios-26-update-with-liquid-glass-new-widgets-and-a-new-apple-watch-app/</link>
       <description><![CDATA[  buffer 已发布了迄今为止最大的更新，重新设计了 ios 26  href =“ https://alternativeto.net/news/2025/6/apple-introduces-liquid-glass-glass-a-new-design-language-for-for-iscosystem--cosystem--cosystem--cosystem--on-on-visionos/”&gt;苹果的新液体玻璃系统。现在，该应用程序具有清洁的导航，更智能的小部件，改进的登机工作以及会话恢复，因此用户可以在停止的位置接收。频道切换也以更少的模式进行了简化，使日常使用速度更快。
 该更新通过控制​​中心或iPhone操作按钮引入了一个想法快捷方式，使用户立即捕获帖子想法。 Integration with Apple Shortcuts app enables automation, while new posting tools include per-channel goals with progress rings, queue counts across organizations, and a redesigned calendar day view showing all channels in one place.
@@ -76,8 +127,8 @@
     <item>
       <title>稳定性AI图像编辑服务在亚马逊基岩上发布</title>
       <link>https://alternativeto.net/news/2025/9/stability-ai-image-editing-services-launch-on-amazon-bedrock/</link>
-      <description><![CDATA[Stability AI has launched its Image Services on Amazon Bedrock, bringing professional-grade image将API编辑为AWS。用户可以访问诸如端到端创意工作流程介绍，有针对性的重新涂层和样式转移等功能。实施需要启用模型访问和配置基地控制台内的IAM权限。
-View article on AlternativeTo »More about Stable Diffusion | Stable Diffusion Alternatives]]></description>
+      <description><![CDATA[ 稳定性ai 在
+ 有关稳定扩散的更多信息]]></description>
       <guid>https://alternativeto.net/news/2025/9/stability-ai-image-editing-services-launch-on-amazon-bedrock/</guid>
       <pubDate>Fri, 19 Sep 2025 15:28:41 GMT</pubDate>
     </item>
@@ -96,49 +147,6 @@ View article on AlternativeTo »More about Stable Diffusion | Stable Diffusion
  有关工作日的更多信息]]></description>
       <guid>https://alternativeto.net/news/2025/9/workday-to-acquire-sana-ai-and-integrate-advanced-ai-knowledge-tools/</guid>
       <pubDate>Fri, 19 Sep 2025 15:15:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>无花果网站启动使用自定义字体和可访问性工具的所有用户</title>
-      <link>https://alternativeto.net/news/2025/9/figma-sites-launches-to-all-users-with-custom-fonts-and-accessibility-tools/</link>
-      <description><![CDATA[  figma 网站已为所有入门者和教育计划用户公开启动。最新更新添加了自定义字体支持，带有ARIA角色设置和HTML标签的高级可访问性工具，以及密码保护和cookie横幅。链接管理功能也已更新以提高站点功能。
- 在替代上查看文章href =“ https://alternativeto.net/software/figma/about/”&gt;有关Figma ＆nbsp; |＆nbsp; &lt;A href =“ https：//alternativeto.net/software/software/software/figma/”]]></description>
-      <guid>https://alternativeto.net/news/2025/9/figma-sites-launches-to-all-users-with-custom-fonts-and-accessibility-tools/</guid>
-      <pubDate>Fri, 19 Sep 2025 15:04:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mistral AI揭开了具有增强多模式和基准性能的裁判官1.2型号</title>
-      <link>https://alternativeto.net/news/2025/9/mistral-ai-unveils-magistral-1-2-models-with-enhanced-multimodal-and-benchmark-performance/</link>
-      <description><![CDATA[  Mistral ai 已发布了杂志的小型1.2和中等1.2型号，现在具有通过视觉编码来支持文本和图像输入的多模式功能。这些更新可在关键数学和编码基准方面提高15％，包括AIME 24/25和LiveCodeBench。
-用于Web搜索，代码解释和图像生成的工具使用也得到了增强。
- 更多有关Misstral le Chat  |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/mistral-ai-unveils-magistral-1-2-models-with-enhanced-multimodal-and-benchmark-performance/</guid>
-      <pubDate>Fri, 19 Sep 2025 14:57:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Laravel MCP Beta为公众发布，启用AI客户端集成</title>
-      <link>https://alternativeto.net/news/2025/9/laravel-mcp-beta-released-for-public-enabling-ai-client-integration/</link>
-      <description><![CDATA[  laravel  MCP已启动了公共Beta，为Laravel应用程序中的构建模型上下文协议服务器提供了新的库。该工具为AI客户提供了 claude ， href =“ https://alternativeto.net/software/chatgpt/about/”&gt; chatgpt 与Laravel应用程序交互的结构化方法。
-Laravel MCP已经在生产中用作Laravel Boost的后端。
- 在交流href =“ https://alternativeto.net/software/laravel/about/”&gt;有关Laravel的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/9/laravel-mcp-beta-released-for-public-enabling-ai-client-integration/</guid>
-      <pubDate>Fri, 19 Sep 2025 14:46:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>困惑性通过无限实验室查询和视频生成来启动企业最大</title>
-      <link>https://alternativeto.net/news/2025/9/perplexity-launches-enterprise-max-with-unlimited-labs-queries-and-video-generation/</link>
-      <description><![CDATA[  Perplexity 已引入了Enterprise Max，这是一个专为寻求扩展功能的企业团队设计的新层。该计划提供无限的实验室查询，文件上传限制增加十倍，访问彗星最大助手和优质安全功能。用户还可以每月创建多达15个高质量的视频，并可以尽早访问新的平台功能。定价的起价为每月325美元。
- 更多有关Perplexity ＆nbsp; | |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/perplexity-launches-enterprise-max-with-unlimited-labs-queries-and-video-generation/</guid>
-      <pubDate>Fri, 19 Sep 2025 14:39:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>样条线启动时间线，用于用密钥帧对3D场景进行动画动画</title>
-      <link>https://alternativeto.net/news/2025/9/spline-launches-timeline-for-animating-3d-scenes-with-keyframes/</link>
-      <description><![CDATA[  spline 发布了时间表，这是一种用于动画3D场景的新工具，现在可以在Beta中使用。时间轴功能包括密钥帧，曲线控件和事件支持。
-有限的Beta版本正在实时，并计划进行持续的改进。
- 有关交替的文章href =“ https://alternativeto.net/software/spline/spline/about/”&gt;有关Spline ＆nbsp; |＆nbsp; &lt;A href =“ https：//alternativeto.net/software/software/spline/spline/”]]></description>
-      <guid>https://alternativeto.net/news/2025/9/spline-launches-timeline-for-animating-3d-scenes-with-keyframes/</guid>
-      <pubDate>Fri, 19 Sep 2025 14:31:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
