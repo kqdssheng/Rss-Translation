@@ -4,7 +4,27 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Sun, 21 Sep 2025 12:34:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 01:30:30 GMT</lastBuildDate>
+    <item>
+      <title>Luma AI使用HDR，基于草图的控制和快速预览渲染启动Ray3视频模型</title>
+      <link>https://alternativeto.net/news/2025/9/luma-ai-launches-ray3-video-model-with-hdr-sketch-based-control-and-fast-preview-rendering/</link>
+      <description><![CDATA[Luma AI has unveiled Ray3, its new generative video model capable of producing studio-quality HDR content.它支持10、12和16位的色彩深度，EXR中的出口用于专业工作流程，并可以将SDR视频添加到HDR以获取现代化的输出。
+ ray3引入了高级推理，允许模型解释图像和文本提示，遵循复杂的说明并批评自己的草稿。这可以通过基于草图的输入进行视觉控制，用户可以在其中指导动作，对象或相机直接在图像上构架而不是仅依靠文本。
+该模型还具有一种草稿模式，该模式可提供更快且成本较低的五倍的预览，然后在第二次通过时可以将其升级到4K HDR。在人群渲染，照明，反射，运动模糊和性格一致性中，视觉保真度得到了增强。虽然它没有生成音频，但Ray3可以通过 Luma Ai的Dream Machine App 。
+ 更多有关Luma Ai   | |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/luma-ai-launches-ray3-video-model-with-hdr-sketch-based-control-and-fast-preview-rendering/</guid>
+      <pubDate>Sun, 21 Sep 2025 23:24:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>TLDRAW SDK 4.0添加了五个新的入门套件，CLI工具，并实施许可更改</title>
+      <link>https://alternativeto.net/news/2025/9/tldraw-sdk-4-0-adds-five-new-starter-kits-cli-tool-and-enforces-licensing-changes/</link>
+      <description><![CDATA[  tldraw 已发布申请。该更新介绍了五个新的入门 kits — agent ， workflow”&gt; Workflow  href =“ https://tldraw.dev/starter-kits/branching-chat”&gt;分支聊天，多人游戏 - 覆盖用例，例如聊天机器人，协作白板，工作流程工具和图像注释。通过NPM获得的新的CLI工具可帮助开发人员快速使用这些模板生成项目，并在MIT下获得许可的所有套件以进行灵活使用和修改。
+版本还会更改许可模型：开发用途仍然免费，但生产部署现在需要许可证密钥。开发人员可以获得免费的100天试用许可证，并且在2025年底之前签署一年的商业许可的团队将根据其剩余的试用期获得折扣。   。
+ SDK 4.0进一步增强了可访问性，并与Sarah Fossheim合作实现了WCAG 2.2 AA标准。 VPAT很快就会发布，此更新还包括通用修复程序，性能改进和更新的开发人员文档。 
+ 更多有关tldraw ＆nbsp; | |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/tldraw-sdk-4-0-adds-five-new-starter-kits-cli-tool-and-enforces-licensing-changes/</guid>
+      <pubDate>Sun, 21 Sep 2025 20:31:30 GMT</pubDate>
+    </item>
     <item>
       <title>Zorin OS 18 Beta已发布新的重新设计，Web应用程序和Windows迁移工具</title>
       <link>https://alternativeto.net/news/2025/9/zorin-os-18-beta-has-been-released-with-a-new-redesign-web-apps-and-windows-migration-tools/</link>
@@ -16,7 +36,7 @@
       <pubDate>Sat, 20 Sep 2025 13:19:00 GMT</pubDate>
     </item>
     <item>
-      <title>Buffer释放主要的iOS 26更新，其中液体玻璃，新小部件和新的Apple Watch应用程序</title>
+      <title>Buffer释放主要的iOS 26更新，并使用液体玻璃，新小部件和新的Apple Watch应用</title>
       <link>https://alternativeto.net/news/2025/9/buffer-releases-major-ios-26-update-with-liquid-glass-new-widgets-and-a-new-apple-watch-app/</link>
       <description><![CDATA[  buffer 已发布了迄今为止最大的更新，重新设计了 ios 26  href =“ https://alternativeto.net/news/2025/6/apple-introduces-liquid-glass-glass-a-new-design-language-for-for-iscosystem--cosystem--cosystem--cosystem--on-on-visionos/”&gt;苹果的新液体玻璃系统。现在，该应用程序具有清洁的导航，更智能的小部件，改进的登机工作以及会话恢复，因此用户可以在停止的位置接收。频道切换也以更少的模式进行了简化，使日常使用速度更快。
 该更新通过控制​​中心或iPhone操作按钮引入了一个想法快捷方式，使用户立即捕获帖子想法。 Integration with Apple Shortcuts app enables automation, while new posting tools include per-channel goals with progress rings, queue counts across organizations, and a redesigned calendar day view showing all channels in one place.
@@ -48,7 +68,7 @@
       <title>mymind将脱离线同步beta到iOS</title>
       <link>https://alternativeto.net/news/2025/9/mymind-brings-offline-sync-beta-to-ios/</link>
       <description><![CDATA[  myMind 已发布了iOS的离线同步iOS，启用自动背景同步和离线访问。用户可以通过切换“ Offlinesync”来从iOS设置面板中激活此功能。
-未来的更新将使此功能成为Android和MacOS。
+未来更新将使此功能为Android和MacOS。
  有关交替的文章href =“ https://alternativeto.net/software/mymind/about/”&gt;更多有关mymind ＆nbsp; |＆nbsp; |]]></description>
       <guid>https://alternativeto.net/news/2025/9/mymind-brings-offline-sync-beta-to-ios/</guid>
       <pubDate>Fri, 19 Sep 2025 16:10:23 GMT</pubDate>
@@ -56,8 +76,8 @@
     <item>
       <title>稳定性AI图像编辑服务在亚马逊基岩上发布</title>
       <link>https://alternativeto.net/news/2025/9/stability-ai-image-editing-services-launch-on-amazon-bedrock/</link>
-      <description><![CDATA[ 稳定性ai 在
- 有关稳定扩散的更多信息]]></description>
+      <description><![CDATA[Stability AI has launched its Image Services on Amazon Bedrock, bringing professional-grade image将API编辑为AWS。用户可以访问诸如端到端创意工作流程介绍，有针对性的重新涂层和样式转移等功能。实施需要启用模型访问和配置基地控制台内的IAM权限。
+View article on AlternativeTo »More about Stable Diffusion | Stable Diffusion Alternatives]]></description>
       <guid>https://alternativeto.net/news/2025/9/stability-ai-image-editing-services-launch-on-amazon-bedrock/</guid>
       <pubDate>Fri, 19 Sep 2025 15:28:41 GMT</pubDate>
     </item>
@@ -112,33 +132,13 @@ Laravel MCP已经在生产中用作Laravel Boost的后端。
       <pubDate>Fri, 19 Sep 2025 14:39:56 GMT</pubDate>
     </item>
     <item>
-      <title>样条线启动时间线，用于用密钥帧来动画3D场景</title>
+      <title>样条线启动时间线，用于用密钥帧对3D场景进行动画动画</title>
       <link>https://alternativeto.net/news/2025/9/spline-launches-timeline-for-animating-3d-scenes-with-keyframes/</link>
       <description><![CDATA[  spline 发布了时间表，这是一种用于动画3D场景的新工具，现在可以在Beta中使用。时间轴功能包括密钥帧，曲线控件和事件支持。
 有限的Beta版本正在实时，并计划进行持续的改进。
  有关交替的文章href =“ https://alternativeto.net/software/spline/spline/about/”&gt;有关Spline ＆nbsp; |＆nbsp; &lt;A href =“ https：//alternativeto.net/software/software/spline/spline/”]]></description>
       <guid>https://alternativeto.net/news/2025/9/spline-launches-timeline-for-animating-3d-scenes-with-keyframes/</guid>
       <pubDate>Fri, 19 Sep 2025 14:31:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vivaldi 7.6带来完整的选项卡栏自定义和一个全局选项卡按钮，用于增强浏览</title>
-      <link>https://alternativeto.net/news/2025/9/vivaldi-7-6-brings-full-tab-bar-customization-and-a-global-tab-button-for-enhanced-browsing/</link>
-      <description><![CDATA[  vivaldi  7.6 7.6引入了重大改进，重点是扩展浏览器自定义。现在，用户可以完全控制选项卡栏：可以单独配置地址栏，状态栏，侧边栏，主题和鼠标手势，将每个设置完全放置在需要的地方。此更新旨在通过让用户构建与习惯相匹配的工作区，使常见的浏览操作更容易访问。
-在这些自定义选项上构建，Vivaldi带有一个新的选项卡按钮。该工具是一个集中式位置，可查找，切换和恢复选项卡，替换单独的菜单进行同步和最近关闭的选项卡。它在标签栏上的位置也是用户调整的，可以进一步的接口灵活性。
-在标题更改之外，Vivaldi 7.6还包括几种可用性增强功能。上下文菜单已简化，以便于导航。升级的地址字段引入了关键字快捷方式，例如 @tabs ， @bookmarks 和 @history 用于目标搜索。内置的广告阻滞剂现在支持弹出规则，增加对不需要内容的控制。 Windows用户会获得对滑动手势的支持，从而提高了触控板和触摸板的导航效率。最后，切换到Hibernated Tabs现在更快，使保持许多选项卡的用户受益。
- 更多有关Vivaldi ＆nbsp; | |＆nbsp; &lt;A href =“]]></description>
-      <guid>https://alternativeto.net/news/2025/9/vivaldi-7-6-brings-full-tab-bar-customization-and-a-global-tab-button-for-enhanced-browsing/</guid>
-      <pubDate>Fri, 19 Sep 2025 12:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rust 1.90发行了默认LDD Linker，货物中的本地工作区出版等</title>
-      <link>https://alternativeto.net/news/2025/9/rust-1-90-released-with-default-ldd-linker-native-workspace-publishing-in-cargo-and-more/</link>
-      <description><![CDATA[  Rust  1.90现在可用，为开发人员提供了改进的性能和工作流程增强功能。核心变化之一是 x86_64-Inknown-linux-gnu 目标现在默认为LLD链接器。此更新使用户构建大型二进制文件或具有广泛调试信息的用户以及依靠增量重建的用户，这要归功于与传统的BFD链接器相比更快的链接。。
-在核心工具改进上构建 CARGO 现在支持 cargo Publish-workspace 命令命令命令，允许在workspace中允许自动依赖性和正确的依赖性订单。以前，开发人员手动协调了此功能或使用了外部工具，因此此添加简化了多用量出版工作流程。
-此外， x86_64-apple-darwin 目标已从1带有主机工具到带有主机工具的Tier 2的层。这反映了Apple和GitHub在X86_64支持方面的变化，并表示可以确保目标构建，但是不再保证自动测试套件覆盖范围。此外，该版本还包括几个新稳定的API，为图书馆和应用程序作者提供了更多在Rust的基础上建立的选项。
-  href =“ https://alternativeto.net/software/rust/about/”&gt;更多有关Rust ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/rust-1-90-released-with-default-ldd-linker-native-workspace-publishing-in-cargo-and-more/</guid>
-      <pubDate>Fri, 19 Sep 2025 07:50:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
