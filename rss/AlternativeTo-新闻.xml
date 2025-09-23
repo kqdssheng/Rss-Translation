@@ -4,7 +4,24 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Tue, 23 Sep 2025 01:21:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Sep 2025 12:38:32 GMT</lastBuildDate>
+    <item>
+      <title>OBS Studio 32.0与新的基本插件管理器，NVIDIA RTX改进等发布</title>
+      <link>https://alternativeto.net/news/2025/9/obs-studio-32-0-released-with-new-basic-plugin-manager-nvidia-rtx-improvements-and-more/</link>
+      <description><![CDATA[  obs Studio  32.0现在可以作为此免费开放源的Live-tream-tream-tream-treamsing和屏幕录制软件的最新版本提供。领导此更新，OBS Studio现在拥有自己的插件管理器，简化了扩展安装和管理。但是，此初始版本仅提供基本功能。
+在更广泛的可用性上构建，Windows和MacOS上的用户现在可以启用选择自动崩溃日志上传以简化故障排除。几种增强功能针对NVIDIA RTX用户。语音活动检测已添加到NVIDIA RTX音频效应中，从而改善了语音噪声抑制和进一步的优化。 NVIDIA RTX背景删除的新椅子拆卸选项可让用户从视频背景中删除椅子，尤其是在平台上帮助实时流程者，例如 youtube 和对于Apple用户，此版本提供了实验性 Metal 在Apple Silicon Macs上渲染器，目的是为了使本机表现轻柔。扩展媒体兼容性，Hybrid Mov支持增加了MacOS上的ProRes录制，并在所有主要平台上使用PCM音频容器引入了更广泛支持的HEVC或H.264。
+除了这些中心更新外，还可以在  href =“ https://alternativeto.net/software/open-broadcaster-software/about/”&gt;更多有关obs Studio ＆nbsp; | | |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/obs-studio-32-0-released-with-new-basic-plugin-manager-nvidia-rtx-improvements-and-more/</guid>
+      <pubDate>Tue, 23 Sep 2025 09:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MacSyzones 1.8：液体玻璃效果，增强功能和可用性改进</title>
+      <link>https://alternativeto.net/news/2025/9/macsyzones-1-8-liquid-glass-effects-enhanced-features-and-usability-improvements/</link>
+      <description><![CDATA[  MacSyzones  1.8 1.8引入了Macos Tahoe的新液体玻璃视觉效果以及几个接口的改进。该版本固定了自动更新功能，并通过灵敏度自定义增加了增强的摇动以捕捉。默认样本布局和智能区域组织可改善新的和高级用户的可用性。
+ 查看文章href =“ https://alternativeto.net/software/macsyzones/about/”&gt;有关MacSyzones的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/9/macsyzones-1-8-liquid-glass-effects-enhanced-features-and-usability-improvements/</guid>
+      <pubDate>Tue, 23 Sep 2025 08:41:53 GMT</pubDate>
+    </item>
     <item>
       <title>Meta将新的AI助手和其他AI驱动工具添加到其Facebook约会服务</title>
       <link>https://alternativeto.net/news/2025/9/meta-is-adding-a-new-ai-assistant-and-other-ai-driven-tools-to-its-facebook-dating-service/</link>
@@ -19,7 +36,7 @@
       <title>Ubuntu 25.10 Beta通过Linux 6.17，GNOME 49，仅Wayland的会议启动</title>
       <link>https://alternativeto.net/news/2025/9/ubuntu-25-10-beta-launches-with-linux-6-17-gnome-49-wayland-only-session/</link>
       <description><![CDATA[ canonical已发布 ubuntu 25.10“ Questing quokka” beta ，最终的测试构建，在2025年10月9日稳定释放之前的最终测试构建。 href =“ https://alternativeto.net/software/linux-kernel/about/”&gt; linux内核6.17 ，改善了英特尔，AMD，ARM和RISC-V的硬件支持，以及对BTRFS，F2FS和EXT4的更新。 RISC-V桌面支持以 firefox 和
-On the desktop, Ubuntu adopts GNOME 49, adding per-monitor brightness controls in quick settings, media controls on the lock屏幕，以及带有新图标的刷新Yaru主题，并更顺畅启动动画。可访问性选项现在在登录屏幕上。  Wayland 是可用的唯一会话，尽管传统X11 Apps继续通过Xwayland运行，但已删除了XORG支持。  loupe  feltaceshttps：//alternatativeto.net/software/software/software/eyeee-eye-eree-of-gnome/abome/about/ href =“ https://feed.alternativeto.net/software/ptyxis/about/”&gt; ptyxis 从安全性改进包括带有熵和引脚支持的TPM支持的全盘加密，更好的恢复键处理以及固件更新期间的提醒。 Dracut取代了Initramfs-Tools，Chrony提供了更安全的网络时间，基于生锈的Sudo和Coreutils可以增强可靠性。更新的工具链（GCC 15.2，GLIBC 2.42，Python 3.13.7，Rust 1.85，OpenJDK 25和SystemD 257.9）和与 landscape 将发行版定位为即将到来的Ubuntu 26.04 Lts。的基础
+On the desktop, Ubuntu adopts GNOME 49, adding per-monitor brightness controls in quick settings, media controls on the lock屏幕，以及带有新图标的刷新Yaru主题，并更顺畅启动动画。可访问性选项现在在登录屏幕上。  Wayland 是可用的唯一会话，尽管传统X11 Apps继续通过Xwayland运行，但已删除了XORG支持。  loupe     href =“ https://feed.alternativeto.net/software/ptyxis/about/”&gt; ptyxis 从安全性改进包括带有熵和引脚支持的TPM支持的全盘加密，更好的恢复键处理以及固件更新期间的提醒。 Dracut取代了Initramfs-Tools，Chrony提供了更安全的网络时间，基于生锈的Sudo和Coreutils可以增强可靠性。更新的工具链（GCC 15.2，GLIBC 2.42，Python 3.13.7，Rust 1.85，OpenJDK 25和SystemD 257.9）和与 landscape 将发行版定位为即将到来的Ubuntu 26.04 Lts。的基础
  更多有关Ubuntu ＆nbsp; | |＆nbsp; &lt;A href =“ https：//alternatativeto.net/software/software/software/software/software/ubuntuuntu/]]></description>
       <guid>https://alternativeto.net/news/2025/9/ubuntu-25-10-beta-launches-with-linux-6-17-gnome-49-wayland-only-session/</guid>
       <pubDate>Mon, 22 Sep 2025 23:14:07 GMT</pubDate>
@@ -69,8 +86,7 @@ View article on AlternativeTo »更多有关bluefin ＆nbsp; | |＆nbsp; &lt;a h
     <item>
       <title>概念MCP Update与光标，Claude等添加了集成</title>
       <link>https://alternativeto.net/news/2025/9/notion-mcp-update-adds-integration-with-cursor-claude-and-more/</link>
-      <description><![CDATA[  notion 现在允许与 claude ， perplexity ，Windsurf, and HubSpot.这些平台可以从概念工作区和连接的应用程序中读取上下文，还可以将数据写回概念。
-该更新扩大了概念用户的自动化和工作流程的可能性。
+      <description><![CDATA[  notion 现在允许与 claude ， perplexity ， windsurf ，and 
  有关替代文章的文章href =“ https://alternativeto.net/software/notion/about/”&gt;更多有关intion ＆nbsp; |＆nbsp; |]]></description>
       <guid>https://alternativeto.net/news/2025/9/notion-mcp-update-adds-integration-with-cursor-claude-and-more/</guid>
       <pubDate>Mon, 22 Sep 2025 10:52:33 GMT</pubDate>
@@ -81,7 +97,7 @@ View article on AlternativeTo »更多有关bluefin ＆nbsp; | |＆nbsp; &lt;a h
       <description><![CDATA[  Dietpi 现已上市，标志着这款为单板计算机设计的最新发行版的最新发行版。值得注意的系统更改是，如果没有EXT3或EXT4期刊，Dietpi图像现在已发货。相反，在使用 dietpi-fs_partition_resize 脚本扩展根文件系统之后，创建日记。此方法导致较小的图像文件并确保文件系统日记期最佳的位置和尺寸，从而有可能在设置和操作期间提高性能。
 对于 raspberry pi 用户，此更新通过 dietpi-config 。现在，它可以识别较新的型号和该项目的新拆分设备叠加层，以确保与DAC+/AMP2/AMP4和DAC+ Pro/DAC2组合的兼容性。
  DietPI中的备份程序也得到了改善。维护多个备份时，使用 rsync -link-dest 选项，意味着未更换的文件在备份迭代中进行了固定的链接，节省了重要的磁盘空间并加快了备份完成，同时保持每个备份完全自我符合。&gt; &gt; &gt; 
-在媒体管理中， navidrome 现在，通过从嵌入式源，当地目录，的默认配置与上游默认的默认配置相匹配。 href =“ https://alternativeto.net/software/lastfm/about/”&gt; last.fm 。此外，更新还包括 roon服务器早期访问toggle，改进
+在媒体管理中， navidrome 现在，通过从嵌入式源，当地目录， last.fm 。此外，更新还包括 roon服务器早期访问toggle，改进
  更多有关Dietpi ＆nbsp; | |＆nbsp; &lt;a href =“ https：//alternatativeto.net/software/software/software/dietpi/]]></description>
       <guid>https://alternativeto.net/news/2025/9/dietpi-9-17-released-with-faster-backups-smaller-images-improved-navidrome-config-and-more/</guid>
       <pubDate>Mon, 22 Sep 2025 09:30:00 GMT</pubDate>
@@ -135,25 +151,6 @@ View article on AlternativeTo »更多有关bluefin ＆nbsp; | |＆nbsp; &lt;a h
  更多有关Zorin OS ＆nbsp; | |＆nbsp; ]]></description>
       <guid>https://alternativeto.net/news/2025/9/zorin-os-18-beta-has-been-released-with-a-new-redesign-web-apps-and-windows-migration-tools/</guid>
       <pubDate>Sat, 20 Sep 2025 13:19:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Buffer释放主要的iOS 26更新，其中液体玻璃，新小部件和新的Apple Watch应用程序</title>
-      <link>https://alternativeto.net/news/2025/9/buffer-releases-major-ios-26-update-with-liquid-glass-new-widgets-and-a-new-apple-watch-app/</link>
-      <description><![CDATA[  buffer 已发布了迄今为止最大的更新，重新设计了 ios 26  href =“ https://alternativeto.net/news/2025/6/apple-introduces-liquid-glass-glass-a-new-design-language-for-for-iscosystem--cosystem--cosystem--cosystem--on-on-visionos/”&gt;苹果的新液体玻璃系统。现在，该应用程序具有清洁的导航，更智能的小部件，改进的登机工作以及会话恢复，因此用户可以在停止的位置接收。频道切换也以更少的模式进行了简化，使日常使用速度更快。
-该更新通过控制​​中心或iPhone操作按钮引入了一个想法快捷方式，使用户立即捕获帖子想法。 Integration with Apple Shortcuts app enables automation, while new posting tools include per-channel goals with progress rings, queue counts across organizations, and a redesigned calendar day view showing all channels in one place.
-新的 Apple Watch 应用程序将这些功能扩展到手腕，并能够捕获想法，检查队列和无手机跟踪条纹。并发症显示目标和队列计数，而创意作曲家使无电话的想法捕获成为可能，使每日检查更快，更轻松。
- 有关缓冲区的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/9/buffer-releases-major-ios-26-update-with-liquid-glass-new-widgets-and-a-new-apple-watch-app/</guid>
-      <pubDate>Sat, 20 Sep 2025 12:59:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>WebAssembly 3.0扩展了内存限制，添加垃圾收集，尾声等等</title>
-      <link>https://alternativeto.net/news/2025/9/webassembly-3-0-expands-memory-limits-adds-garbage-collection-tail-calls-and-much-more/</link>
-      <description><![CDATA[  WebAssembly  3.0是一个主要的里程碑，标志着该平台几年来该平台的第一个版本，以引入扩展新功能。最值得注意的是，此版本允许记忆和表使用64位地址（i64），将应用程序的最大理论地址空间从4千兆字节增加到16个exabytes，仅受可用硬件的限制。基于内存改进，模块现在可以声明和访问多个记忆，并直接移动它们之间的数据。
-遵循这些核心更改，WebAssembly引入了一种新的存储形式，该存储是使用垃圾收集来自动管理的。此添加是由WASM类型系统的大量扩展驱动的，WASM类型系统现在处理更广泛的参考文献，从而改善了对高级语言功能的支持。对于程序执行，两个功能脱颖而出：对尾部调用的支持，这些功能可最大程度地减少静态和动态函数调用中的堆栈用法，以及通过异常标签和有效载荷数据进行的本机例外处理。
-这些更新与以绩效为中心的simd矢量说明相辅相成，现在具有明确的确定性后备，并增强了支持内联注释的文本格式。最后，作为嵌入 javascript 通过JS API进行了升级，WebAssemembly现在可以更好地支持高级语言，包括Java，ocaml，calsa，scala，scala，kotlin，kotlin，kotlin，kotlin，kotlin，kotlin，kotlin，kotlin and p.  有关WebAssembly的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/9/webassembly-3-0-expands-memory-limits-adds-garbage-collection-tail-calls-and-much-more/</guid>
-      <pubDate>Sat, 20 Sep 2025 11:05:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
