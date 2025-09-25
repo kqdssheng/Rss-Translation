@@ -4,13 +4,23 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Thu, 25 Sep 2025 01:23:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 12:40:19 GMT</lastBuildDate>
+    <item>
+      <title>代码编辑器ZED转移到基于令牌的AI定价，添加了新的AI模型，并扩展了访问权限</title>
+      <link>https://alternativeto.net/news/2025/9/code-editor-zed-shifts-to-token-based-ai-pricing-adds-new-ai-models-and-expands-access/</link>
+      <description><![CDATA[  ZED ，一种流行的代码编辑器正在将其ZED AI服务从基于及时的限制转移到基于令牌的定价模型。此重大更新旨在更加紧密地与操作AI功能的实际成本保持一致，因为先前基于及时的系统通常会掩盖费用并导致了失误的激励措施。
+作为此过渡的一部分，ZED Pro客户在迁移开始之前已收到三个月的提前通知。根据个人AI使用，每月账单可能会上升或下降。新用户应立即启动基于令牌的模型，而当前用户将在未来三个月内迁移。
+除了大修外，ZED还扩大了在编辑器中使用AI的选择。用户现在可以携带自己的API密钥，运行本地型号，例如 ollama ，或连接到第三派代理商，包括和 claude code 通过代理客户协议（ACP）。在这些变化的基础上，ZED将其托管的AI产品扩展到包括GPT-5（以及迷你和纳米变体），Gemini 2.5 Pro，Gemini 2.5 Flash，沿现有的人类模型。。
+对于那些不喜欢使用AI的人，  有关Zed Editor的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/9/code-editor-zed-shifts-to-token-based-ai-pricing-adds-new-ai-models-and-expands-access/</guid>
+      <pubDate>Thu, 25 Sep 2025 09:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft将拟人化的Claude模型集成到365副副词中，超越了Openai</title>
       <link>https://alternativeto.net/news/2025/9/microsoft-integrates-anthropic-s-claude-models-into-365-copilot-moving-beyond-openai/</link>
       <description><![CDATA[ Microsoft宣布，它通过集成 Anthropic的Claude Sonnet 4和Claude Opus 4.1 href =“ https://feed.alternativeto.net/software/microsoft-cre-suite/about/”&gt; Microsoft 365 Copilot 应用程序，标志着Microsoft对Microsoft对作为关键合作伙伴和投资者，新功能在新的 Microsoft Copilot Studio。 
 在研究人员中，用户可以尝试
- Copilot Studio现在允许开发人员使用拟人模型来构建和管理代理，以深入推理，工作流动自动化和其他任务。它还支持组合人类，OpenAI和Azure托管模型。尽管人类的系统仍在 Amazon Web Services ，Microsoft通过API访问它们。报告表明，Claude也可以引入 Microsoft excel 和 and href =“ PowerPoint ，在测试中显示出比OpenAI模型更强的性能。
+ Copilot Studio现在允许开发人员使用拟人模型来构建和管理代理，以进行深层推理，工作流动自动化和其他任务。它还支持组合人类，OpenAI和Azure托管模型。尽管人类的系统仍在 Amazon Web Services ，Microsoft通过API访问它们。报告表明，Claude也可以引入 Microsoft excel 和 and href =“ PowerPoint ，在测试中显示出比OpenAI模型更强的性能。
  有关Microsoft 365 Copilot ＆nbsp; |替代方案 ]]></description>
       <guid>https://alternativeto.net/news/2025/9/microsoft-integrates-anthropic-s-claude-models-into-365-copilot-moving-beyond-openai/</guid>
       <pubDate>Wed, 24 Sep 2025 22:56:09 GMT</pubDate>
@@ -136,16 +146,6 @@ The AI assistant will not be limited to TV-related functions but will also handl
 View article on AlternativeTo »更多有关Google TV ＆nbsp; | |＆nbsp; &lt;A href =“]]></description>
       <guid>https://alternativeto.net/news/2025/9/google-has-started-rolling-out-its-gemini-ai-assistant-to-google-tv-devices-today/</guid>
       <pubDate>Tue, 23 Sep 2025 21:17:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 Insider构建添加动画台式机的视频壁纸功能</title>
-      <link>https://alternativeto.net/news/2025/9/windows-11-insider-builds-add-video-wallpaper-feature-for-animated-desktops/</link>
-      <description><![CDATA[ Microsoft正在测试 Windows 11  Insider builds中的视频壁纸功能，使用户能够设置MP4或MKV视频文件作为桌面背景。启用后，每当可见桌面时，这些视频将播放。当然，这将提醒许多 dreamscene  in  winde&gt;但是 Windows 7 。
-新的本机功能可以减少对外部动画壁纸工具的需求href =“ https://feed.alternativeto.net/software/software/steam/about/”&gt; Steam 它允许用户多年来添加视频壁纸，始终在Steam播放的最佳应用程序中排名最高的10名应用程序和游戏，这是由于强劲的需求。
-仍然，此新功能可能为几个用户提供了一个有趣的替代方案，因为许多人已直接从Microsoft要求。。
- 有关Windows 11 ＆nbsp; |＆nbsp; &lt;A href =“ https://alternatativeto.net/software/software/software/windows-11/]]></description>
-      <guid>https://alternativeto.net/news/2025/9/windows-11-insider-builds-add-video-wallpaper-feature-for-animated-desktops/</guid>
-      <pubDate>Tue, 23 Sep 2025 18:43:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
