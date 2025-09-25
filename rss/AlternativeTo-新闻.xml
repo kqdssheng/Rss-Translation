@@ -4,7 +4,66 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Wed, 24 Sep 2025 12:39:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 01:23:20 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft将拟人化的Claude模型集成到365副副词中，超越了Openai</title>
+      <link>https://alternativeto.net/news/2025/9/microsoft-integrates-anthropic-s-claude-models-into-365-copilot-moving-beyond-openai/</link>
+      <description><![CDATA[ Microsoft宣布，它通过集成 Anthropic的Claude Sonnet 4和Claude Opus 4.1 href =“ https://feed.alternativeto.net/software/microsoft-cre-suite/about/”&gt; Microsoft 365 Copilot 应用程序，标志着Microsoft对Microsoft对作为关键合作伙伴和投资者，新功能在新的 Microsoft Copilot Studio。 
+在研究人员中，用户可以尝试
+ Copilot Studio现在允许开发人员使用拟人模型来构建和管理代理，以深入推理，工作流动自动化和其他任务。它还支持组合人类，OpenAI和Azure托管模型。尽管人类的系统仍在 Amazon Web Services ，Microsoft通过API访问它们。报告表明，Claude也可以引入 Microsoft excel 和 and href =“ PowerPoint ，在测试中显示出比OpenAI模型更强的性能。
+ 有关Microsoft 365 Copilot ＆nbsp; |替代方案 ]]></description>
+      <guid>https://alternativeto.net/news/2025/9/microsoft-integrates-anthropic-s-claude-models-into-365-copilot-moving-beyond-openai/</guid>
+      <pubDate>Wed, 24 Sep 2025 22:56:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google Play介绍了双子座驱动的功能，您的标签和玩游戏助手助手</title>
+      <link>https://alternativeto.net/news/2025/9/google-play-introduces-new-ai-features-you-tab-and-a-gemini-powered-play-games-sidekick/</link>
+      <description><![CDATA[ Google正在推出 Google Play 的重大重新设计。更新的核心是新的您选项卡，它巩固了书籍，播客和电影的统计数据，奖励，订阅和建议，可以选择在一个地方恢复未完成的内容。
+Google Play Games takes a leading role in this update, with the You tab creating a dedicated gamer profile that shows achievements and cross-device stats, lets you design a generative AI avatar, and supports optional public profiles so you can connect with other players. “新游戏”标签将统计数据，奖励和社区功能汇总在一起，并介绍了玩家争夺比赛点的游戏联赛。新的玩游戏sidekick 功能添加了 gemini ai-powered 叠加覆盖，通过在游戏过程中通过Audio-to Audio-to Audio-aud Mandys来理解现场援助，纽约
+ Discovery也随着指导搜索的变化，因此用户可以按目标而不是名称找到应用程序，并且应用程序选项卡添加了与兴趣和季节相关的策划空间，包括在某些地区的体育和短形式视频。 Google Play Games on PC has finally exited beta, offering access to more than 200,000 titles on Windows. You Tab和相关更新本周在美国，英国，日本和韩国等精选点市场上开始，将于10月1日扩展到其他国家/地区。。
+  href =“ https://alternativeto.net/software/android-market/about/”&gt;有关Google Play商店的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/9/google-play-introduces-new-ai-features-you-tab-and-a-gemini-powered-play-games-sidekick/</guid>
+      <pubDate>Wed, 24 Sep 2025 20:20:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google启动Chrome DevTools MCP，允许AI代理在Chrome中进行调试，自动化和测试</title>
+      <link>https://alternativeto.net/news/2025/9/google-launches-chrome-devtools-mcp-allowing-ai-agents-to-debug-automate-and-test-in-chrome/</link>
+      <description><![CDATA[ Google发布了 Chrome devtools mcp 的公共预览协议允许AI编码代理与Live  Google Chrome  Browser连接。该新工具使诸如 gemini cli 之类的代理人Cursor, and GitHub Copilot to access Chrome’s debugging surface, bridging the gap between代码生成和运行时测试。通过观察实时浏览器行为，AI代理现在可以验证，测试和调试直接实时建议更改，超越静态代码建议。
+使用Chrome DevTools MCP，AI助手的支持动作包括记录性能跟踪，检查文档对象模型和CSS，运行JavaScript，阅读控制台日志和自动化用户流。其他操作涵盖导航，模拟点击和用户输入，评估脚本，列出网络请求或控制台消息，以及检索屏幕截图或DOM快照。这些功能使直接从AI工作流程自动化审核，复制错误，测试修复程序和诊断布局或网络问题成为可能。
+在引擎盖下， puppeteer 管理浏览器自动化，并通过 Chrome DevTools协议。安装简化为单个配置，该配置运行了NPX Chrome-devtools-Mcp@最新的Node.js 22，并且提供当前的Chrome版本。 Google还提供针对各种编码环境量身定制的设置命令，以加快采用的速度。
+ 有关Google Chrome Developer工具的更多信息开发人员工具替代方案 ]]></description>
+      <guid>https://alternativeto.net/news/2025/9/google-launches-chrome-devtools-mcp-allowing-ai-agents-to-debug-automate-and-test-in-chrome/</guid>
+      <pubDate>Wed, 24 Sep 2025 18:52:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Immich 1.143带来可配置的备份设置，并发哈希和下载进度</title>
+      <link>https://alternativeto.net/news/2025/9/immich-1-143-brings-configurable-backup-settings-concurrent-hashing-and-download-progress/</link>
+      <description><![CDATA[  immich  1.143现在可以作为此开源，自我结合的照片和视频管理解决方案的最新更新。该版本引入了客户端哈希过程的重大性能改进，该过程现在同时运行。结果，吞吐量明显更高，并且主要受内部存储中可以读取文件的速度的限制。该系统还已更新到仅选择用于备份的专辑中的哈希资产，从而减少了依赖此外，新的备份设置现在让用户将上传限制为设备充电或经过特定时间之后的时间，从而提供了对备份计划的更详细的控制。 Web版本现在具有更新的开关和切换，现在使用材料3设计原理。移动应用程序的用户会注意到内置进度指标，使文件转移到其设备时立即可见下载进度。
+最近的错误修复了地址稳定性，解决了以前的问题，这些问题在模态对话框和移动应用程序错误之后引起了Web冻结，缩略图停止加载直至强迫关闭。此外，将图像复制到剪贴板现在在 Safari 中可靠地工作。
+  href =“ https://alternativeto.net/software/immich/about/”&gt;更多有关Immich ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/immich-1-143-brings-configurable-backup-settings-concurrent-hashing-and-download-progress/</guid>
+      <pubDate>Wed, 24 Sep 2025 15:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kali Linux 2025.3带来了Nexmon的支持，新的流浪图像，卸下盔甲和10个新工具</title>
+      <link>https://alternativeto.net/news/2025/9/kali-linux-2025-3-brings-nexmon-support-new-vagrant-images-armel-removal-and-10-new-tools/</link>
+      <description><![CDATA[  kali linux  2025.3现在可以作为此基于Debian的安全性 - 企业的最新版本，可用于Debian Security-focused，适用于专业人士和热情的分布
+此更新介绍了 nexmon ，允许在某些Broadcom和Cypress Wi-Fi芯片上注入监视器模式和数据包，包括在 raspberry pi 。这可以在广泛使用的硬件上进行高级无线审核。遵循这些无线改进，更新还会改变虚拟化工作流程： vagrant  VM 现在使用 packer 基于 - 基于 - 基于的方法。这种转变提高了建立一致性，包括刷新的预播样品，以及对Packer V2的支持。
+在此版本中，已经停止对Armel（Acorn Risc Machine，Little-Endian）建筑的支持。 Kali反映了Debian上游的变化，因为Debian测试不再提供臂章。  xfce  desktop现在可以选择哪个网络接口vpn面板插入插入器，用于多个VPN的流线工作流程。该版本还介绍了10个新工具，更新 kali nethunter 和carsenal，
+ 更多有关Kali Linux ＆nbsp; | |＆nbsp; &lt;A href =“]]></description>
+      <guid>https://alternativeto.net/news/2025/9/kali-linux-2025-3-brings-nexmon-support-new-vagrant-images-armel-removal-and-10-new-tools/</guid>
+      <pubDate>Wed, 24 Sep 2025 14:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp最终为Android和iPhone用户添加了19种语言的消息翻译</title>
+      <link>https://alternativeto.net/news/2025/9/whatsapp-finally-adds-message-translation-in-19-languages-for-android-and-iphone-users/</link>
+      <description><![CDATA[  whatsapp 正在启动in-chat消息转换，使用户能够以一对一的聊天，组和频道在一对一的聊天中更有效地进行跨语言进行交流。为了翻译任何消息，用户现在可以长时间使用文本并点击“翻译”选项。此功能允许选择源和目标语言，并且可以保存消息以供将来翻译使用。
+在此构建中，Android用户将看到一个增加的选项，以自动在所选的聊天线程中自动翻译所有传入的消息。这简化了参与多语言交流的人的对话。 WhatsApp上的翻译直接在用户的设备上用于两个平台，这意味着WhatsApp无法访问任何消息内容，保留聊天隐私。
+虽然WhatsApp今天开始逐步推出，但对Android的初步支持涵盖了六种语言：英语，西班牙语，印地语，葡萄牙语，俄语和阿拉伯语。对于iPhone用户，Translation功能启动了以超过19种语言的兼容性，反映了更广泛的开始选择。预计将在未来几个月内添加更多语言。
+ 更多有关WhatsApp ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/whatsapp-finally-adds-message-translation-in-19-languages-for-android-and-iphone-users/</guid>
+      <pubDate>Wed, 24 Sep 2025 12:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>现在，您可以指示Google照片为您编辑图像，由双子座AI提供支持</title>
       <link>https://alternativeto.net/news/2025/9/you-can-now-instruct-google-photos-to-edit-images-for-you-powered-by-gemini-ai/</link>
@@ -87,57 +146,6 @@ View article on AlternativeTo »更多有关Google TV ＆nbsp; | |＆nbsp; &lt;A
  有关Windows 11 ＆nbsp; |＆nbsp; &lt;A href =“ https://alternatativeto.net/software/software/software/windows-11/]]></description>
       <guid>https://alternativeto.net/news/2025/9/windows-11-insider-builds-add-video-wallpaper-feature-for-animated-desktops/</guid>
       <pubDate>Tue, 23 Sep 2025 18:43:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>QWEN-IMAGE-EDIT-2509添加了多图像混合和增强的单像编辑</title>
-      <link>https://alternativeto.net/news/2025/9/qwen-image-edit-2509-adds-multi-image-blending-and-enhanced-single-image-editing/</link>
-      <description><![CDATA[  qwen-image-edit  -2509 -2509介绍了多图像编辑，使用户能够在单个场景中融合人们和产品。单像编辑还提高了一致性，保留面部特征，产品标识和详细的文本调整。
-该更新集成了ControlNet，以进行精确控制深度，边缘和关键点。
- 更多有关Qwen image ＆nbsp; | |＆nbsp; &lt;a href =“ https：// alterternativeto.net/softo.net/soft/software/software/software/software/software/qwen-image/]]></description>
-      <guid>https://alternativeto.net/news/2025/9/qwen-image-edit-2509-adds-multi-image-blending-and-enhanced-single-image-editing/</guid>
-      <pubDate>Tue, 23 Sep 2025 16:05:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ray3集成将高级视频发电带到Adobe Firefly</title>
-      <link>https://alternativeto.net/news/2025/9/ray3-integration-brings-advanced-video-generation-to-adobe-firefly/</link>
-      <description><![CDATA[Ray3 is now integrated into Adobe Firefly, unlocking advanced video generation features with improved realism and user 控制。此更新支持电影质量的内容创建，并启用高保真HDR和跨萤火虫的平台的视觉讲故事的工作流程。
- 有关Ray3 AI   | |＆nbsp; |  ray3/3&gt; ]]></description>
-      <guid>https://alternativeto.net/news/2025/9/ray3-integration-brings-advanced-video-generation-to-adobe-firefly/</guid>
-      <pubDate>Tue, 23 Sep 2025 15:58:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gmail和Outlook用户的困惑电子邮件助手启动</title>
-      <link>https://alternativeto.net/news/2025/9/perplexity-email-assistant-launches-for-gmail-and-outlook-users/</link>
-      <description><![CDATA[  perplexity 现在可以在 Outlook 。该工具通过检查可用性，建议时间和发送日历邀请来处理会议计划。它还通过用户的语气起草电子邮件回复，并优先组织消息。
- 更多有关Perplexity ＆nbsp; | |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/perplexity-email-assistant-launches-for-gmail-and-outlook-users/</guid>
-      <pubDate>Tue, 23 Sep 2025 15:48:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hailuo AI代理商通过免费试用和自动创意工作流程启动</title>
-      <link>https://alternativeto.net/news/2025/9/hailuo-ai-agent-launches-with-free-trial-and-automated-creative-workflows/</link>
-      <description><![CDATA[  hailuo ai 现在可以使用一周的免费访问时间来提供代理商，使用户能够无需花费就能尝试其创意工作流动自动化。该代理商通过选择适当的模型并支持统一环境中的图像，视频和音频来管理项目任务。用户可以使用无限画布上的语音命令进行交互。
-  href =“ https://alternativeto.net/software/hailuo-ai/about/”&gt;更多有关Hailuo ai  ＆nbsp; | |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/hailuo-ai-agent-launches-with-free-trial-and-automated-creative-workflows/</guid>
-      <pubDate>Tue, 23 Sep 2025 15:42:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>兰花介绍了从可爱，螺栓，V0和github进口的项目</title>
-      <link>https://alternativeto.net/news/2025/9/orchids-introduces-project-import-from-lovable-bolt-v0-and-github/</link>
-      <description><![CDATA[  oldids ，一个基于聊天的平台设计用于即时Web应用程序而无需编码而设计的聊天平台，现在让用户从 bolt ， github 。
-每个导入的项目都会自动授予用户500,000个免费信用。
- 在交流中查看文章href =“ https://alternativeto.net/software/orchids/about/”&gt;更多关于兰花＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/orchids-introduces-project-import-from-lovable-bolt-v0-and-github/</guid>
-      <pubDate>Tue, 23 Sep 2025 15:37:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>PENPOT 2.10引入了组件和新设计令牌的变体</title>
-      <link>https://alternativeto.net/news/2025/9/penpot-2-10-introduces-variants-for-components-and-new-design-tokens/</link>
-      <description><![CDATA[  penpot  2.10引入变体，该功能使用户可以将类似的组件（例如按钮和可将单个可自定义的entity）组成的组件，该组件与单个可自定义的属性相关。该更新还为右侧栏和Artboard绘图带来了效率的提高，以及针对字体，编号和样式处理的新设计令牌。
-也已经解决了几个影响文本，笔触和组件交互的错误。
-  href =“ https://alternativeto.net/software/penpot/about/”&gt;更多关于Penpot ＆nbsp; | |＆nbsp; &lt;A href =“ https://alternatativeto.net/software/software/software/penpot/]]></description>
-      <guid>https://alternativeto.net/news/2025/9/penpot-2-10-introduces-variants-for-components-and-new-design-tokens/</guid>
-      <pubDate>Tue, 23 Sep 2025 15:27:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
