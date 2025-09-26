@@ -4,7 +4,48 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Fri, 26 Sep 2025 01:23:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 12:40:09 GMT</lastBuildDate>
+    <item>
+      <title>PostgreSQL 18带有异步I/O子系统，绩效改进和OAuth支持</title>
+      <link>https://alternativeto.net/news/2025/9/postgresql-18-released-with-async-i-o-subsystem-performance-improvements-and-oauth-support/</link>
+      <description><![CDATA[  PostgreSql  18已作为此开放量对象重新启示数据库的最新版本发布。引入异步输入/输出子系统可增强关键操作的性能，包括顺序和位图堆扫描以及真空过程。基准测试在选定的方案中最多表现出三倍的性能。
+随着这些核心引擎更改，PostgreSQL 18现在可以通过主要版本升级保留计划者统计信息，从而使群集在更新后可以更快地恢复预期性能水平。  pg_upgrade 实用程序已收到多个增强功能，产生了较短的升级时间，尤其是对于具有许多表和序列的数据库。 PostgreSQL 18还为多列B树索引添加了“跳过扫描”功能，当前缀列缺乏平等条件或使用某些或 Comminations 中， pra&gt;  clauses。
+基于数据管理的进步，该版本使虚拟生成的列默认，在查询时间计算其值，并允许对存储的生成的列进行逻辑复制。此外，开发人员现在可以使用返回  insert ， UPDATE ， delete 和 MERGE  cattenements。
+进一步的更改包括对时间戳排序的 uuidv7（）生成，更轻松，更快的文本处理，内置的OAuth 2.0身份验证，改进的日志记录，用于逻辑复制冲突，主动的真空策略，并通过new DataDatabases来启用页面检查。此版本中还包括其他一些增强功能。
+ 有关PostgreSql ＆nbsp; | |＆nbsp; &lt;A href =“]]></description>
+      <guid>https://alternativeto.net/news/2025/9/postgresql-18-released-with-async-i-o-subsystem-performance-improvements-and-oauth-support/</guid>
+      <pubDate>Fri, 26 Sep 2025 09:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>图书经理Linkwarden 2.13添加了标签管理页面，紧凑的侧边栏和更多修复程序</title>
+      <link>https://alternativeto.net/news/2025/9/book-manager-linkwarden-2-13-adds-tag-management-page-compact-sidebar-and-more-fixes/</link>
+      <description><![CDATA[  linkwardenen  2.13已发布，并通过介绍专用标签页面，并带来了改进的书签管理。用户现在可以从单个位置方便地查看，排序，添加，合并和批量删除标签。此更新简化了组织，并使管理大量书签更有效。
+除了增强的标签外，您现在可以缩小侧边栏，以获得更紧凑，最小的用户界面。此更改使那些喜欢更清洁外观或需要在较小显示器上优化工作区的人。
+遵循这些改进，该版本还提供了广泛的错误修复，安全更新和性能优化。建议所有用户进行这些更新，并旨在提高开源书签经理的可靠性和安全性。除了核心修复程序外，还引入了几个较小的改进，以使操作顺利进行。
+  href =“ https://alternativeto.net/software/linkwarden/about/”&gt;有关linkwardenen  | |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/book-manager-linkwarden-2-13-adds-tag-management-page-compact-sidebar-and-more-fixes/</guid>
+      <pubDate>Fri, 26 Sep 2025 06:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>困惑启动搜索API提供网络尺度索引搜索和公共开发人员访问</title>
+      <link>https://alternativeto.net/news/2025/9/perplexity-launches-search-api-offering-web-scale-indexed-search-and-public-developer-access/</link>
+      <description><![CDATA[  perplexity 已宣布启动其，使开发人员访问了为其答案引擎提供动力的数百亿网页的相同索引。该API旨在为 api平台提供适用于Python和Tystycript的软件开发套件，并且针对初创企业，企业和代理商构建者，并寻求强大的搜索能力。。
+ API包括ISO国家 /地区代码，日期范围过滤器以及域名允许清单或否定者的区域目标，最多20个条目。学术模式优先考虑学术资源，而多Query请求最多允许五个查询。开发人员可以在一个和20之间设置每个呼叫的结果，并使用 max_tokens_per_page 设置调整内容提取，默认为1024令牌。响应返回标题，URL，摘要，出版日期和最后更新字段。
+定价为每1,000美元的$ 5，没有基于令牌的费用，而利率限制规模与使用层与总支出相关。 开放评估框架提供了质量比较，并且该平台将搜索与声纳聊天模型集成在一起，以提供接地的生成性答案。
+ 更多有关Perplexity ＆nbsp; | |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/perplexity-launches-search-api-offering-web-scale-indexed-search-and-public-developer-access/</guid>
+      <pubDate>Fri, 26 Sep 2025 05:28:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google释放Gemini 2.5 Flash and Lite预览，并具有改进的说明和多模式</title>
+      <link>https://alternativeto.net/news/2025/9/google-releases-gemini-2-5-flash-and-lite-previews-with-improved-instructions-and-multimodal/</link>
+      <description><![CDATA[ Google已更新了 Google gemini 应用2.5 Flash模型的应用程序。现在，响应使用标题，列表和表格更清晰的格式，而家庭作业帮助则提供了更强大的分步推理。该模型还可以更有效地解释图像和图表，让用户上传注释以进行摘要，组织或抽认卡创建。
+开发人员可以通过 vertex ai 。这些预览不是稳定的发行版，而是旨在塑造未来版本。 2.5 Flash预览使代币效率加倍，降低成本和潜伏期，同时提高质量。它还显示了更好的代理工具使用，在SWE基础验证的基准测试中具有五点增益。启用了“思考”，它使用较少的令牌产生更高质量的输出。
+ Flash-Lite预览改善了以下教学，并产生了更简洁的响应，从而降低了详细的响应和成本。它还增强了多模式和翻译功能，包括更好的图像理解，音频转录和翻译精度。
+ 在交流中的文章href =“ https://alternativeto.net/software/google-bard/about/”&gt;有关Google Gemini   | |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/google-releases-gemini-2-5-flash-and-lite-previews-with-improved-instructions-and-multimodal/</guid>
+      <pubDate>Fri, 26 Sep 2025 02:50:10 GMT</pubDate>
+    </item>
     <item>
       <title>Windows 10扩展安全更新现在在欧洲免费，没有OneDrive要求</title>
       <link>https://alternativeto.net/news/2025/9/windows-10-extended-security-updates-are-now-free-in-europe-with-no-onedrive-requirement/</link>
@@ -108,45 +149,6 @@ Google Play Games takes a leading role in this update, with the You tab creating
   href =“ https://alternativeto.net/software/android-market/about/”&gt;有关Google Play商店的更多信息]]></description>
       <guid>https://alternativeto.net/news/2025/9/google-play-introduces-new-ai-features-you-tab-and-a-gemini-powered-play-games-sidekick/</guid>
       <pubDate>Wed, 24 Sep 2025 20:20:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google启动Chrome DevTools MCP，允许AI代理在Chrome中进行调试，自动化和测试</title>
-      <link>https://alternativeto.net/news/2025/9/google-launches-chrome-devtools-mcp-allowing-ai-agents-to-debug-automate-and-test-in-chrome/</link>
-      <description><![CDATA[ Google发布了 Chrome devtools mcp 的公共预览协议允许AI编码代理与Live  Google Chrome  Browser连接。该新工具使诸如 gemini cli 之类的代理人Cursor, and GitHub Copilot to access Chrome’s debugging surface, bridging the gap between代码生成和运行时测试。通过观察实时浏览器行为，AI代理现在可以验证，测试和调试直接实时建议更改，超越静态代码建议。
-使用Chrome DevTools MCP，AI助手的支持动作包括记录性能跟踪，检查文档对象模型和CSS，运行JavaScript，阅读控制台日志和自动化用户流。其他操作涵盖导航，模拟点击和用户输入，评估脚本，列出网络请求或控制台消息，以及检索屏幕截图或DOM快照。这些功能使直接从AI工作流程自动化审核，复制错误，测试修复程序和诊断布局或网络问题成为可能。
-在引擎盖下， puppeteer 管理浏览器自动化，并通过 Chrome DevTools协议。安装简化为单个配置，该配置运行了NPX Chrome-devtools-Mcp@最新的Node.js 22，并且提供当前的Chrome版本。 Google还提供针对各种编码环境量身定制的设置命令，以加快采用的速度。
- 有关Google Chrome Developer工具的更多信息开发人员工具替代方案 ]]></description>
-      <guid>https://alternativeto.net/news/2025/9/google-launches-chrome-devtools-mcp-allowing-ai-agents-to-debug-automate-and-test-in-chrome/</guid>
-      <pubDate>Wed, 24 Sep 2025 18:52:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Immich 1.143带来可配置的备份设置，并发哈希和下载进度</title>
-      <link>https://alternativeto.net/news/2025/9/immich-1-143-brings-configurable-backup-settings-concurrent-hashing-and-download-progress/</link>
-      <description><![CDATA[  immich  1.143现在可以作为此开源，自我结合的照片和视频管理解决方案的最新更新。该版本引入了客户端哈希过程的重大性能改进，该过程现在同时运行。结果，吞吐量明显更高，并且主要受内部存储中可以读取文件的速度的限制。该系统还已更新到仅选择用于备份的专辑中的哈希资产，从而减少了依赖此外，新的备份设置现在让用户将上传限制为设备充电或经过特定时间之后的时间，从而提供了对备份计划的更详细的控制。 Web版本现在具有更新的开关和切换，现在使用材料3设计原理。移动应用程序的用户会注意到内置进度指标，使文件转移到其设备时立即可见下载进度。
-最近的错误修复了地址稳定性，解决了以前的问题，这些问题在模态对话框和移动应用程序错误之后引起了Web冻结，缩略图停止加载直至强迫关闭。此外，将图像复制到剪贴板现在在 Safari 中可靠地工作。
-  href =“ https://alternativeto.net/software/immich/about/”&gt;更多有关Immich ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/immich-1-143-brings-configurable-backup-settings-concurrent-hashing-and-download-progress/</guid>
-      <pubDate>Wed, 24 Sep 2025 15:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kali Linux 2025.3带来了Nexmon的支持，新的流浪图像，卸下盔甲和10个新工具</title>
-      <link>https://alternativeto.net/news/2025/9/kali-linux-2025-3-brings-nexmon-support-new-vagrant-images-armel-removal-and-10-new-tools/</link>
-      <description><![CDATA[  kali linux  2025.3现在可以作为此基于Debian的安全性 - 企业的最新版本，可用于Debian Security-focused，适用于专业人士和热情的分布
-此更新介绍了 nexmon ，允许在某些Broadcom和Cypress Wi-Fi芯片上注入监视器模式和数据包，包括在 raspberry pi 。这可以在广泛使用的硬件上进行高级无线审核。遵循这些无线改进，更新还会改变虚拟化工作流程： vagrant  VM 现在使用 packer 基于 - 基于 - 基于的方法。这种转变提高了建立一致性，包括刷新的预播样品，以及对Packer V2的支持。
-在此版本中，已经停止对Armel（Acorn Risc Machine，Little-Endian）建筑的支持。 Kali反映了Debian上游的变化，因为Debian测试不再提供臂章。  xfce  desktop现在可以选择哪个网络接口vpn面板插入插入器，用于多个VPN的流线工作流程。该版本还介绍了10个新工具，更新 kali nethunter 和carsenal，
- 更多有关Kali Linux ＆nbsp; | |＆nbsp; &lt;A href =“]]></description>
-      <guid>https://alternativeto.net/news/2025/9/kali-linux-2025-3-brings-nexmon-support-new-vagrant-images-armel-removal-and-10-new-tools/</guid>
-      <pubDate>Wed, 24 Sep 2025 14:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp最终为Android和iPhone用户添加了19种语言的消息翻译</title>
-      <link>https://alternativeto.net/news/2025/9/whatsapp-finally-adds-message-translation-in-19-languages-for-android-and-iphone-users/</link>
-      <description><![CDATA[  whatsapp 正在启动in-chat消息转换，使用户能够以一对一的聊天，组和频道在一对一的聊天中更有效地进行跨语言进行交流。为了翻译任何消息，用户现在可以长时间使用文本并点击“翻译”选项。此功能允许选择源和目标语言，并且可以保存消息以供将来翻译使用。
-在此构建中，Android用户将看到一个增加的选项，以自动在所选的聊天线程中自动翻译所有传入的消息。这简化了参与多语言交流的人的对话。 WhatsApp上的翻译直接在用户的设备上用于两个平台，这意味着WhatsApp无法访问任何消息内容，保留聊天隐私。
-虽然WhatsApp今天开始逐步推出，但对Android的初步支持涵盖了六种语言：英语，西班牙语，印地语，葡萄牙语，俄语和阿拉伯语。对于iPhone用户，Translation功能启动了以超过19种语言的兼容性，反映了更广泛的开始选择。预计将在未来几个月内添加更多语言。
- 更多有关WhatsApp ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/whatsapp-finally-adds-message-translation-in-19-languages-for-android-and-iphone-users/</guid>
-      <pubDate>Wed, 24 Sep 2025 12:40:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
