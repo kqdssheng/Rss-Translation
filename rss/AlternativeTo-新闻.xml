@@ -4,9 +4,66 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Fri, 26 Sep 2025 12:40:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Sep 2025 01:20:12 GMT</lastBuildDate>
     <item>
-      <title>PostgreSQL 18带有异步I/O子系统，绩效改进和OAuth支持</title>
+      <title>Calibre 8.11添加了要求AI助手，文字突出显示修复程序和AI提供商的支持</title>
+      <link>https://alternativeto.net/news/2025/9/calibre-8-11-adds-ask-ai-assistant-text-highlight-fixes-and-ai-provider-support/</link>
+      <description><![CDATA[  caliber  8.11 8.11介绍了电子书查看者中的可选 ask ask ai Assistans ，使用户可以通过dictionary lookup Panel询问有关书籍内容的问题。该功能仅在配置AI提供者时才激活，其中包括 google ， github 或通过 https://feed.alternativeto.net&gt;这些服务中的几个是免费的，使用户可以灵活地使用该工具。
+此更新还解决了长期存在的问题。编辑亮点不再产生重复，并且放置精度得到了提高。在Windows上，现在正确打开链接的非常大的电子书，并且构建过程都符合.dll和.pyd文件以提高安全性和一致性。
+其他修复程序包括对畸形的PDB文件的更好转换，在标签浏览器中添加第一个图标规则时进行了更正的行为，以及使用ESC键正确关闭脚注弹出窗口。新闻集成也已经为诸如  和 更多有关Caliber ＆nbsp; |＆nbsp; &lt;A href =“ https：//alternatativeto.net/software/software/software/calibre/]]></description>
+      <guid>https://alternativeto.net/news/2025/9/calibre-8-11-adds-ask-ai-assistant-text-highlight-fixes-and-ai-provider-support/</guid>
+      <pubDate>Fri, 26 Sep 2025 23:13:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Astro 5.14带来了Prerendered路线碰撞警告，Svelte Async渲染等等</title>
+      <link>https://alternativeto.net/news/2025/9/astro-5-14-brings-prerendered-route-collision-warnings-svelte-async-rendering-and-more/</link>
+      <description><![CDATA[  astro  5.14 5.14引入了一套新的功能和增强功能，旨在通过此网络框架提高开发人员工作流程。该版本的重点是通过使常见错误更易于检测和修复在代码到达生产之前，使动态路由更有效。此外，使用 getStaticPaths（）工作的开发人员会发现处理复杂的动态路由会更容易。
+在这些路由增强的基础上，Astro 5.14扩大了其前端兼容性。该更新增加了Svelte 5.36的Svelte的异步渲染功能的支持，现在支持 UseActionState（） hook 在React 19中引入了React 19 中允许基于表单动作的状态进行更新。这些变化都可以通过 svelte 和
+超越框架支持，Astro 5.14引入了内置 svgcomponent  svg导入的类型，使管理SVG资产更容易。 Astro DB部署更加灵活，如 libsql 现在部署到 node.js 环境。对于那些管理站点可发现性的人，默认情况下，用户可以配置在SiteMap XML中包含哪些XML名称空间。实验字体API也扩展，开发人员现在能够以编程方式访问字体数据。几个错误修复程序与此版本捆绑在一起，以提高整体稳定性。
+  href =“ https://alternativeto.net/software/astroweb-web-framework/about/”&gt;有关Astro Web框架的更多信息替代方案 ]]></description>
+      <guid>https://alternativeto.net/news/2025/9/astro-5-14-brings-prerendered-route-collision-warnings-svelte-async-rendering-and-more/</guid>
+      <pubDate>Fri, 26 Sep 2025 19:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Figma Mage添加了转换设计层的编辑和注释</title>
+      <link>https://alternativeto.net/news/2025/9/figma-make-adds-editing-and-annotation-for-converted-design-layers/</link>
+      <description><![CDATA[  figma 制作，Figma的AI-Power工具，使用户可以将文本提示转换为真实的设计，现在让用户将任何一个可编辑的设计层转换为一组可编辑的设计层。这允许平台内设计的直接迭代，注释和共享。
+ 在替代方面href =“ https://alternativeto.net/software/figma/about/”&gt;更多有关Figma ＆nbsp; |＆nbsp; &lt;A href =“ https://alternatativeto.net/software/software/software/figma/]]></description>
+      <guid>https://alternativeto.net/news/2025/9/figma-make-adds-editing-and-annotation-for-converted-design-layers/</guid>
+      <pubDate>Fri, 26 Sep 2025 16:13:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ubuntu Touch 20.04 OTA-10发行了新的升级器和扩展的设备支持</title>
+      <link>https://alternativeto.net/news/2025/9/ubuntu-touch-20-04-ota-10-released-with-a-new-upgrader-and-expanded-device-support/</link>
+      <description><![CDATA[  ubuntu touch  20.04 OTA-100已作为此基于Ubuntu的最新迭代发布了此基于Ubuntu的最新迭代。作为维护发布，OTA-10只会带来最小的变化，反映了开发团队目前致力于升级 ubuntu  ubuntu 基础操作系统。
+此更新中最著名的增强功能是引入新的Ubuntu Touch升级器。该工具将允许用户从Ubuntu Touch 20.04过渡到即将到来的Ubuntu Touch 24.04-1.0，一旦可用，就可以为将来的更新和改进准备设备。
+Expanding device support, OTA-10 will roll out to a range of devices over the coming days, including the Asus Zenfone Max Pro M1, F(x)tec Pro1 X, Fairphone 3, 3 Plus and 4, Google Pixel 3a series, JingPad A1, Lenovo Tab M10 HD 2nd Gen, several OnePlus and Volla models, and Xiaomi models.值得注意的是，兔子R1在此版本中得到了新的支持。
+对于那些已经在稳定频道上使用Ubuntu触摸的人，OTA-10将出现在系统设置中的更新部分中。
+View article on AlternativeTo »有关Ubuntu touch ＆nbsp; | |＆nbsp; &lt;A href =“]]></description>
+      <guid>https://alternativeto.net/news/2025/9/ubuntu-touch-20-04-ota-10-released-with-a-new-upgrader-and-expanded-device-support/</guid>
+      <pubDate>Fri, 26 Sep 2025 15:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DuckDB 1.4.0 LTS包括文件加密，合并支持，冰山写道</title>
+      <link>https://alternativeto.net/news/2025/9/duckdb-1-4-0-lts-includes-file-encryption-merge-support-and-iceberg-writes/</link>
+      <description><![CDATA[  duckdb  1.4.0长期支持（LTS）版本，编码为“ andium”，引入了数据库文件的“ andium”，提供增强的数据安全性。该版本还增加了对声明合并的支持，从而使更灵活的UPSERT操作。
+此外，DuckDB-Iceberg扩展程序现在允许将数据写入冰山表。
+ 更多有关Duckdb ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/duckdb-1-4-0-lts-includes-file-encryption-merge-support-and-iceberg-writes/</guid>
+      <pubDate>Fri, 26 Sep 2025 14:35:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Openai在预览中启动Chatgpt Pulse，以主动进行您的日常研究</title>
+      <link>https://alternativeto.net/news/2025/9/openai-launches-chatgpt-pulse-in-preview-to-proactively-do-your-daily-research/</link>
+      <description><![CDATA[ OpenAI已发布了Chatgpt Pulse的预览，现在可以在移动设备上使用Pro用户。 Pulse引入了一种新的积极主动方法，并使用 chatggpt 基于您的对话历史记录，反馈，与您的电子邮件和日历等应用程序集成的研究。 Chatgpt现在没有等待用户查询，而是编译了针对您的兴趣量身定制的每日更新。
+在此初始推出中，Pulse将其发现作为局部视觉卡。用户可以快速浏览这些卡或点击以获取更深层的详细信息，从而更轻松地开始了解情况。随着时间的流逝，系统将学习您的偏好：通过将内容标记为有用，您可以帮助策划研究脉冲的类型。每天晚上，它都会综合您的内存，聊天活动和直接反馈，以完善第二天的更新。
+虽然目前正在预览中，但预计Puls会根据早期Pro用户反馈发展。 OpenAI计划扩大对Plus的访问权限，最终将所有用户访问。在此期间，Pulse可能会显示一些不太相关的建议，因此用户输入对于改进至关重要。这一发展反映了Chatgpt从反应性提问到积极的数字助手的转变，该数字助理预期并满足了个人需求。
+  href =“ https://alternativeto.net/software/chatgpt/about/”&gt;更多关于chatgpt ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/openai-launches-chatgpt-pulse-in-preview-to-proactively-do-your-daily-research/</guid>
+      <pubDate>Fri, 26 Sep 2025 12:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PostgreSQL 18与异步I/O子系统发布，性能改进和OAuth支持</title>
       <link>https://alternativeto.net/news/2025/9/postgresql-18-released-with-async-i-o-subsystem-performance-improvements-and-oauth-support/</link>
       <description><![CDATA[  PostgreSql  18已作为此开放量对象重新启示数据库的最新版本发布。引入异步输入/输出子系统可增强关键操作的性能，包括顺序和位图堆扫描以及真空过程。基准测试在选定的方案中最多表现出三倍的性能。
 随着这些核心引擎更改，PostgreSQL 18现在可以通过主要版本升级保留计划者统计信息，从而使群集在更新后可以更快地恢复预期性能水平。  pg_upgrade 实用程序已收到多个增强功能，产生了较短的升级时间，尤其是对于具有许多表和序列的数据库。 PostgreSQL 18还为多列B树索引添加了“跳过扫描”功能，当前缀列缺乏平等条件或使用某些或 Comminations 中， pra&gt;  clauses。
@@ -91,64 +148,6 @@
   href =“ https://alternativeto.net/software/github-copilot/about/”&gt;有关Github copilot ＆nbsp; | | &lt;a href =“]]></description>
       <guid>https://alternativeto.net/news/2025/9/openai-gpt-5-codex-launches-in-public-preview-for-github-copilot-users/</guid>
       <pubDate>Thu, 25 Sep 2025 15:16:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>FIGMA MCP服务器添加了远程访问，而Figma建立连接</title>
-      <link>https://alternativeto.net/news/2025/9/figma-mcp-server-adds-remote-access-and-figma-make-connection/</link>
-      <description><![CDATA[  figma  MCP服务器现在支持远程访问，允许团队从任何位置使用设计上下文。与Figma Make的集成已被引入流线工作流程。还可以使用一个新的代码连接UI。
- 有关Figma ＆nbsp; |＆nbsp; &lt;A href =“ https：//alternativeto.net/software/software/software/figma/”]]></description>
-      <guid>https://alternativeto.net/news/2025/9/figma-mcp-server-adds-remote-access-and-figma-make-connection/</guid>
-      <pubDate>Thu, 25 Sep 2025 15:09:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Proton Mail的新iOS/Android应用带来了刷新的设计，改进的速度和离线模式</title>
-      <link>https://alternativeto.net/news/2025/9/proton-mail-s-new-ios-android-app-brings-refreshed-design-improved-speed-and-offline-mode/</link>
-      <description><![CDATA[ Proton推出了第七个主要版本的 Proton Mail&gt; Proton Mail  iOS和Android都将其描述为到目前为止其最大的移动电子邮件应用程序。这些应用程序现在以在此架构大修之后，重新设计的接口可改善导航和可​​访问性。现在，经常使用的操作（例如撰写消息）现在更容易接触到，并且手势驱动的导航更加直观。对于许多用户来说，最明显的升级是速度：诸如收件箱滚动，归档对话和回复之类的常规任务现在大约是两倍。
-基于这些更改，Proton Mail移动应用程序现在支持完整的离线模式，让用户在没有Internet连接的情况下读取，编写和组织电子邮件。连接恢复后，所有更改都会自动同步。此外，此更新为iOS和Android带来了均等，不管设备如何，向所有用户介绍了诸如贪睡和计划的消息之类的工具。。
-新的Proton Mail应用程序正在逐渐针对iOS和Android用户推出。
- 有关质子邮件的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/9/proton-mail-s-new-ios-android-app-brings-refreshed-design-improved-speed-and-offline-mode/</guid>
-      <pubDate>Thu, 25 Sep 2025 14:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rufus 4.10最终添加了一个深色模式并更新Windows证书支持安全启动</title>
-      <link>https://alternativeto.net/news/2025/9/rufus-4-10-finally-adds-a-dark-mode-and-updates-windows-certificate-support-for-secure-boot/</link>
-      <description><![CDATA[  rufus  4.10 4.10为这种流行的效用带来了几种用户 -  focused的增强和技术改进，用于格式化和创建可启动的USB驱动器。最值得注意的补充是新实施的黑暗模式，这有助于减少眼睛疲劳，并使应用程序更易于在弱光环境中使用。
-基于对最近的Microsoft平台的支持，该更新允许用户创建Windows UEFI CA 2023兼容启动媒体。此过程需要使用Windows 11 25H2 ISO文件，为IT管理员和发烧友提供高级设置选项。此外，Rufus现在提供了以UDF格式保存现有驱动器作为ISO映像的支持，从而扩展了备份和部署工作流程的选项。保存到VHD和VHDX虚拟磁盘格式期间的错误报告也得到了改进，支持了更好的故障排除。
-遵循这些增强功能，Rufus 4.10改善了 linux mint 安装，帮助用户在使用Persist Live USB设置时，可以帮助用户保留重新启动数据。几个错误修复了地址问题，包括不正确的UEFI签名数据库（DBX）在某些时区域中更新通知，无法在ISO模式下选择文件系统，并崩溃由极长的Windows ISO文件路径触发。     
-View article on AlternativeTo »更多有关Rufus ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/rufus-4-10-finally-adds-a-dark-mode-and-updates-windows-certificate-support-for-secure-boot/</guid>
-      <pubDate>Thu, 25 Sep 2025 12:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>代码编辑器ZED转移到基于令牌的AI定价，添加了新的AI模型，并扩展了访问权限</title>
-      <link>https://alternativeto.net/news/2025/9/code-editor-zed-shifts-to-token-based-ai-pricing-adds-new-ai-models-and-expands-access/</link>
-      <description><![CDATA[  ZED ，一种流行的代码编辑器正在将其ZED AI服务从基于及时的限制转移到基于令牌的定价模型。此重大更新旨在更加紧密地与操作AI功能的实际成本保持一致，因为先前基于及时的系统通常会掩盖费用并导致了失误的激励措施。
-作为此过渡的一部分，ZED Pro客户在迁移开始之前已收到三个月的提前通知。根据个人AI使用，每月账单可能会上升或下降。新用户应立即启动基于令牌的模型，而当前用户将在未来三个月内迁移。
-除了大修外，ZED还扩大了在编辑器中使用AI的选择。用户现在可以携带自己的API密钥，运行本地型号，例如 ollama ，或连接到第三派代理商，包括和 claude code 通过代理客户协议（ACP）。在这些变化的基础上，ZED将其托管的AI产品扩展到包括GPT-5（以及迷你和纳米变体），Gemini 2.5 Pro，Gemini 2.5 Flash，沿现有的人类模型。。
-对于那些不喜欢使用AI的人，  有关Zed Editor的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/9/code-editor-zed-shifts-to-token-based-ai-pricing-adds-new-ai-models-and-expands-access/</guid>
-      <pubDate>Thu, 25 Sep 2025 09:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft将拟人化的Claude模型集成到365副副词中，超越了Openai</title>
-      <link>https://alternativeto.net/news/2025/9/microsoft-integrates-anthropic-s-claude-models-into-365-copilot-moving-beyond-openai/</link>
-      <description><![CDATA[ Microsoft宣布，它通过集成 Anthropic的Claude Sonnet 4和Claude Opus 4.1 href =“ https://feed.alternativeto.net/software/microsoft-cre-suite/about/”&gt; Microsoft 365 Copilot 应用程序，标志着Microsoft对Microsoft对作为关键合作伙伴和投资者，新功能在新的 Microsoft Copilot Studio。 
-在研究人员中，用户可以尝试
- Copilot Studio现在允许开发人员使用拟人模型来构建和管理代理，以进行深层推理，工作流动自动化和其他任务。它还支持组合人类，OpenAI和Azure托管模型。尽管人类的系统仍在 Amazon Web Services ，Microsoft通过API访问它们。报告表明，Claude也可以引入 Microsoft excel 和 and href =“ PowerPoint ，在测试中显示出比OpenAI模型更强的性能。
- 有关Microsoft 365 Copilot ＆nbsp; |替代方案 ]]></description>
-      <guid>https://alternativeto.net/news/2025/9/microsoft-integrates-anthropic-s-claude-models-into-365-copilot-moving-beyond-openai/</guid>
-      <pubDate>Wed, 24 Sep 2025 22:56:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Play介绍了双子座驱动的功能，您的标签和玩游戏助手助手</title>
-      <link>https://alternativeto.net/news/2025/9/google-play-introduces-new-ai-features-you-tab-and-a-gemini-powered-play-games-sidekick/</link>
-      <description><![CDATA[ Google正在推出 Google Play 的重大重新设计。更新的核心是新的您选项卡，它巩固了书籍，播客和电影的统计数据，奖励，订阅和建议，可以选择在一个地方恢复未完成的内容。
-Google Play Games takes a leading role in this update, with the You tab creating a dedicated gamer profile that shows achievements and cross-device stats, lets you design a generative AI avatar, and supports optional public profiles so you can connect with other players. “新游戏”标签将统计数据，奖励和社区功能汇总在一起，并介绍了玩家争夺比赛点的游戏联赛。新的玩游戏sidekick 功能添加了 gemini ai-powered 叠加覆盖，通过在游戏过程中通过Audio-to Audio-to Audio-aud Mandys来理解现场援助，纽约
- Discovery也随着指导搜索的变化，因此用户可以按目标而不是名称找到应用程序，并且应用程序选项卡添加了与兴趣和季节相关的策划空间，包括在某些地区的体育和短形式视频。 Google Play Games on PC has finally exited beta, offering access to more than 200,000 titles on Windows. You Tab和相关更新本周在美国，英国，日本和韩国等精选点市场上开始，将于10月1日扩展到其他国家/地区。。
-  href =“ https://alternativeto.net/software/android-market/about/”&gt;有关Google Play商店的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/9/google-play-introduces-new-ai-features-you-tab-and-a-gemini-powered-play-games-sidekick/</guid>
-      <pubDate>Wed, 24 Sep 2025 20:20:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
