@@ -4,7 +4,17 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Sat, 27 Sep 2025 12:38:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 01:38:00 GMT</lastBuildDate>
+    <item>
+      <title>Ollama启动Web搜索API，以提高AI模型的准确性并降低幻觉</title>
+      <link>https://alternativeto.net/news/2025/9/ollama-launches-web-search-api-to-boost-ai-model-accuracy-and-reduce-hallucinations/</link>
+      <description><![CDATA[  ollama 引入了新的Web搜索API，扩展了平台的功能，以提供为开放AI模型提供实时信息。此版本允许模型（包括 gpt-oss ）访问当前的网络数据，支持长期运行的研究任务并帮助减少幻觉，同时提高依靠最新内容的用户的准确性。
+在主要API之外，Web搜索功能可作为REST端点可用，并通过Ollama的Python和JavaScript库包括高级集成。开发人员还可以通过使用Python MCP服务器来激活任何MCP客户端中的Web搜索，从而使工作流程在技术堆栈中更加简单。
+为了开始，用户可以简单地从其Ollama帐户中生成API密钥。所有标准帐户免费包含Web搜索，而那些需要更高速率限制的帐户可以升级其Ollama订阅以扩展访问。
+ 有关Ollama ＆nbsp; |＆nbsp; &lt;A href =“ https：//alternativeto.net/software/ollama/”]]></description>
+      <guid>https://alternativeto.net/news/2025/9/ollama-launches-web-search-api-to-boost-ai-model-accuracy-and-reduce-hallucinations/</guid>
+      <pubDate>Sat, 27 Sep 2025 11:05:00 GMT</pubDate>
+    </item>
     <item>
       <title>META在英国启动了Facebook和Instagram的无广告付费订阅</title>
       <link>https://alternativeto.net/news/2025/9/meta-launches-ad-free-paid-subscription-for-facebook-and-instagram-in-the-uk/</link>
@@ -141,14 +151,6 @@ View article on AlternativeTo »有关Ubuntu touch ＆nbsp; | |＆nbsp; &lt;A hr
  更多关于Cloudflare的信息 |]]></description>
       <guid>https://alternativeto.net/news/2025/9/cloudflare-launches-private-beta-of-its-email-service-with-transactional-email-support/</guid>
       <pubDate>Thu, 25 Sep 2025 16:13:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google AI Pro添加了Gemini CLI和代码协助使用更高的使用限制</title>
-      <link>https://alternativeto.net/news/2025/9/google-ai-pro-adds-gemini-cli-and-code-assist-with-higher-usage-limits/</link>
-      <description><![CDATA[  Google AI Pro 和Ultra订阅者现在可以访问
- 查看文章href =“ https://alternativeto.net/software/google-bard/about/”&gt;有关Google Gemini   | |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/google-ai-pro-adds-gemini-cli-and-code-assist-with-higher-usage-limits/</guid>
-      <pubDate>Thu, 25 Sep 2025 15:39:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
