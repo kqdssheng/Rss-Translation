@@ -4,7 +4,7 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Sun, 28 Sep 2025 01:38:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 12:35:46 GMT</lastBuildDate>
     <item>
       <title>Ollama启动Web搜索API，以提高AI模型的准确性并降低幻觉</title>
       <link>https://alternativeto.net/news/2025/9/ollama-launches-web-search-api-to-boost-ai-model-accuracy-and-reduce-hallucinations/</link>
@@ -47,7 +47,7 @@
       <title>Figma Mage添加了转换设计层的编辑和注释</title>
       <link>https://alternativeto.net/news/2025/9/figma-make-adds-editing-and-annotation-for-converted-design-layers/</link>
       <description><![CDATA[  figma 制作，Figma的AI-Power工具，使用户可以将文本提示转换为真实的设计，现在让用户将任何一个可编辑的设计层转换为一组可编辑的设计层。这允许平台内设计的直接迭代，注释和共享。
- 在替代方面href =“ https://alternativeto.net/software/figma/about/”&gt;更多有关Figma ＆nbsp; |＆nbsp; &lt;A href =“ https://alternatativeto.net/software/software/software/figma/]]></description>
+ 在替代方面href =“ https://alternativeto.net/software/figma/about/”&gt;有关Figma ＆nbsp; |＆nbsp; &lt;A href =“ https：//alternativeto.net/software/software/software/figma/”]]></description>
       <guid>https://alternativeto.net/news/2025/9/figma-make-adds-editing-and-annotation-for-converted-design-layers/</guid>
       <pubDate>Fri, 26 Sep 2025 16:13:11 GMT</pubDate>
     </item>
@@ -82,7 +82,7 @@ View article on AlternativeTo »有关Ubuntu touch ＆nbsp; | |＆nbsp; &lt;A hr
       <pubDate>Fri, 26 Sep 2025 12:40:00 GMT</pubDate>
     </item>
     <item>
-      <title>PostgreSQL 18与异步I/O子系统发布，性能改进和OAuth支持</title>
+      <title>PostgreSQL 18带有异步I/O子系统，绩效改进和OAuth支持</title>
       <link>https://alternativeto.net/news/2025/9/postgresql-18-released-with-async-i-o-subsystem-performance-improvements-and-oauth-support/</link>
       <description><![CDATA[  PostgreSql  18已作为此开放量对象重新启示数据库的最新版本发布。引入异步输入/输出子系统可增强关键操作的性能，包括顺序和位图堆扫描以及真空过程。基准测试在选定的方案中最多表现出三倍的性能。
 随着这些核心引擎更改，PostgreSQL 18现在可以通过主要版本升级保留计划者统计信息，从而使群集在更新后可以更快地恢复预期性能水平。  pg_upgrade 实用程序已收到多个增强功能，产生了较短的升级时间，尤其是对于具有许多表和序列的数据库。 PostgreSQL 18还为多列B树索引添加了“跳过扫描”功能，当前缀列缺乏平等条件或使用某些或 Comminations 中， pra&gt;  clauses。
