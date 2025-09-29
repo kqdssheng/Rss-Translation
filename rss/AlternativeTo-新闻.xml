@@ -4,7 +4,25 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Sun, 28 Sep 2025 12:35:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 01:26:29 GMT</lastBuildDate>
+    <item>
+      <title>POP！_OS 24.04 LTS BETA启动宇宙桌面和新的本机应用</title>
+      <link>https://alternativeto.net/news/2025/9/pop-_os-24-04-lts-beta-launches-cosmic-desktop-and-new-native-apps/</link>
+      <description><![CDATA[  pop！桌面环境为默认环境，并标记了从 gnome  shell。在 X11 应用程序继续通过Xwayland运行。在这种环境的基本环境中，是libcosic工具包，基于 iceed 和 and href =“使用 gtk ，桌面提供了一个熟悉的布局！一个新的设置应用程序提供了系统配置选项，自定义是一个中心功能：可以移动或隐藏面板，码头和小程序，并且可以调整字体，间距和图标等接口元素。工作也开始在专用图标集中，主题允许用户模仿 ubuntu   macos 或 Beta引入了宇宙本地应用程序，包括文件（带有预览和网络安装座），一个GPU渲染的终端，播放器（带有VAAPI，VULKAN和字幕支持）以及编辑（带有GIT Integration和VIM绑定）。软件安装通过宇宙商店进行处理，该商店结合了Ubuntu，Pop！_OS和Flatpak存储库。 POP！_OS 24.04运行Linux内核6.16，MESA 25.1.5和NVIDIA 580驱动程序，以及用于Intel/AMD和Nvidia Systems的测试构建。
+  href =“ https://alternativeto.net/software/pop-_os/about/”&gt;更多有关POP！_OS ＆nbsp; | |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/pop-_os-24-04-lts-beta-launches-cosmic-desktop-and-new-native-apps/</guid>
+      <pubDate>Sun, 28 Sep 2025 13:09:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta启动了“共鸣”，这是AI生成内容的新的短视频供稿</title>
+      <link>https://alternativeto.net/news/2025/9/meta-launches-vibes--a-new-short-video-feed-of-ai-generated-content-nobody-asked-for/</link>
+      <description><![CDATA[您是否曾经想过滚动浏览AI生成的视频斜率的整个供稿会有多么令人兴奋？如果是这样，您很幸运，因为这正是Meta的发布，“ vibes”   href =“ https://feed.alternativeto.net/software/meta-ai/about/”&gt; meta ai  app。 Vibes基本上是一种新的视频供稿，例如 tiktok 或
+接口镜像卷轴，具有喜欢的选项，混音，评论，共享或评分视频为“好”或“坏”。虽然尚未直接搜索创作者，但可以从发布的视频中打开它们的配置文件。剪辑可以在振动中共享，通过直接消息发送，也可以交叉播放到Instagram和 Facebook Stories 和卷轴。对于早期版本，Meta与 midjourney 和
+公司表示，随着人们观看和创建视频的观看和创建视频，该供稿将越来越个性化，尽管早期接待基本上是负面的，用户将发布方式嘲笑为“ AI Slop”，并质疑此功能真正是为了谁或为什么它存在。这只会增加对元AI应用程序作为一种弗兰肯斯坦社交平台的更广泛的负面感知，之后揭示了个人数据，例如家庭地址，ID，银行信息甚至犯罪同盟，您可以命名。
+ 更多有关meta ai  |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/meta-launches-vibes--a-new-short-video-feed-of-ai-generated-content-nobody-asked-for/</guid>
+      <pubDate>Sun, 28 Sep 2025 12:36:57 GMT</pubDate>
+    </item>
     <item>
       <title>Ollama启动Web搜索API，以提高AI模型的准确性并降低幻觉</title>
       <link>https://alternativeto.net/news/2025/9/ollama-launches-web-search-api-to-boost-ai-model-accuracy-and-reduce-hallucinations/</link>
@@ -47,7 +65,7 @@
       <title>Figma Mage添加了转换设计层的编辑和注释</title>
       <link>https://alternativeto.net/news/2025/9/figma-make-adds-editing-and-annotation-for-converted-design-layers/</link>
       <description><![CDATA[  figma 制作，Figma的AI-Power工具，使用户可以将文本提示转换为真实的设计，现在让用户将任何一个可编辑的设计层转换为一组可编辑的设计层。这允许平台内设计的直接迭代，注释和共享。
- 在替代方面href =“ https://alternativeto.net/software/figma/about/”&gt;有关Figma ＆nbsp; |＆nbsp; &lt;A href =“ https：//alternativeto.net/software/software/software/figma/”]]></description>
+ 在替代方面href =“ https://alternativeto.net/software/figma/about/”&gt;更多有关Figma ＆nbsp; |＆nbsp; &lt;A href =“ https://alternatativeto.net/software/software/software/figma/]]></description>
       <guid>https://alternativeto.net/news/2025/9/figma-make-adds-editing-and-annotation-for-converted-design-layers/</guid>
       <pubDate>Fri, 26 Sep 2025 16:13:11 GMT</pubDate>
     </item>
@@ -107,7 +125,7 @@ View article on AlternativeTo »有关Ubuntu touch ＆nbsp; | |＆nbsp; &lt;A hr
       <link>https://alternativeto.net/news/2025/9/perplexity-launches-search-api-offering-web-scale-indexed-search-and-public-developer-access/</link>
       <description><![CDATA[  perplexity 已宣布启动其，使开发人员访问了为其答案引擎提供动力的数百亿网页的相同索引。该API旨在为 api平台提供适用于Python和Tystycript的软件开发套件，并且针对初创企业，企业和代理商构建者，并寻求强大的搜索能力。。
  API包括ISO国家 /地区代码，日期范围过滤器以及域名允许清单或否定者的区域目标，最多20个条目。学术模式优先考虑学术资源，而多Query请求最多允许五个查询。开发人员可以在一个和20之间设置每个呼叫的结果，并使用 max_tokens_per_page 设置调整内容提取，默认为1024令牌。响应返回标题，URL，摘要，出版日期和最后更新字段。
-定价为每1,000美元的$ 5，没有基于令牌的费用，而利率限制规模与使用层与总支出相关。 开放评估框架提供了质量比较，并且该平台将搜索与声纳聊天模型集成在一起，以提供接地的生成性答案。
+定价为每1,000美元的$ 5，没有基于令牌的费用，而利率限制规模与使用层与总支出相关。 开放评估框架提供了质量比较，并且平台将搜索与声纳聊天模型集成在一起，以提供接地的生成性答案。
  更多有关Perplexity ＆nbsp; | |＆nbsp; |]]></description>
       <guid>https://alternativeto.net/news/2025/9/perplexity-launches-search-api-offering-web-scale-indexed-search-and-public-developer-access/</guid>
       <pubDate>Fri, 26 Sep 2025 05:28:57 GMT</pubDate>
@@ -131,26 +149,6 @@ View article on AlternativeTo »有关Ubuntu touch ＆nbsp; | |＆nbsp; &lt;A hr
  有关Windows 10 ＆nbsp; |＆nbsp; &lt;A href =“ https：//alternativeto.net/software/software/software/windows-10/]]></description>
       <guid>https://alternativeto.net/news/2025/9/windows-10-extended-security-updates-are-now-free-in-europe-with-no-onedrive-requirement/</guid>
       <pubDate>Thu, 25 Sep 2025 20:58:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>迪士尼在审查制度争议中筹集迪士尼+，hulu和捆绑价格</title>
-      <link>https://alternativeto.net/news/2025/9/disney-to-raise-disney--hulu-and-bundle-prices-this-october-amid-censorship-controversy/</link>
-      <description><![CDATA[迪斯尼刚刚宣布了 disney+和 hbo max 也将看到更高的速率。 迪士尼的支持页面。 
-这是最后一轮远足
-迪斯尼面对”该节目在本周返回了这个星期的时间 在上，有些人在上宣布了众所周知，这是宣布的，而且宣布的价格尚未宣布。时间。
- 有关迪士尼+  | |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/disney-to-raise-disney--hulu-and-bundle-prices-this-october-amid-censorship-controversy/</guid>
-      <pubDate>Thu, 25 Sep 2025 17:46:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>CloudFlare通过交易电子邮件支持启动其电子邮件服务的私人Beta</title>
-      <link>https://alternativeto.net/news/2025/9/cloudflare-launches-private-beta-of-its-email-service-with-transactional-email-support/</link>
-      <description><![CDATA[  cloudflare 已介绍了自己 Cloudflare Workers 。结合现有的电子邮件路由产品，现在都形成了 Cloudflare电子邮件服务，这是一个统一的统一平台，用于管理入站和出站电子邮件，并在私人Beta上开放，并在私人Beta上开放。 。
-该服务是为基本用例构建的，例如密码重置和购买收据，优先考虑可靠和快速交付。它可以自动化SPF，DKIM和DMARC DNS记录的配置，以验证域并提高可传递性。电子邮件是通过CloudFlare的全球网络分发的，以减少延迟而无需区域服务器管理。
-开发人员可以在 Wrangler.jsonc 中设置带有绑定的电子邮件发送，从而消除了对API键的需求并降低了安全风险。它与更广泛的CloudFlare堆栈集成，在R2中启用附件存储，带队列的任务管理以及与
- 更多关于Cloudflare的信息 |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/cloudflare-launches-private-beta-of-its-email-service-with-transactional-email-support/</guid>
-      <pubDate>Thu, 25 Sep 2025 16:13:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
