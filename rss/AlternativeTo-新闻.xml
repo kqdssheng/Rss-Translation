@@ -4,7 +4,29 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Tue, 30 Sep 2025 01:24:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 12:42:05 GMT</lastBuildDate>
+    <item>
+      <title>父母现在可以在Chatgpt中实现安全控制以帮助保护他们的青少年</title>
+      <link>https://alternativeto.net/news/2025/9/parents-can-now-enable-safety-controls-in-chatgpt-to-help-protect-their-teens/</link>
+      <description><![CDATA[ OpenAI引入了新的父母控制和 changgpt ，旨在帮助家庭在家中如何使用chatbot在家中使用Chatbot。这种推出使父母能够将自己的chatgpt帐户与青少年帐户联系起来并自定义一系列安全设置，以寻求更安全，适合年龄的体验。
+一旦启用了父母的控制，青少年的ChatGpt帐户将自动获得更广泛的内容保护。这些包括限制访问图形内容，病毒挑战，浪漫或暴力角色扮演以及对极端美容理想的描述，所有这些都支持为年轻用户提供更安全的在线互动。
+为了建立这些控件，父母可以向青少年发送邀请来连接帐户，否则青少年也可以邀请父母。如果青少年断开他们的帐户，则父母将收到通知。设置是从父母ChatGpt帐户中的流线型控制页面进行管理的。
+此外，OpenAI正在开发一个年龄预测系统，以帮助检测18岁以下的用户并自动启用保护措施。这些变化符合Openai的更广泛的目标，即使Chatgpt易于访问和有用，同时提供指导青少年负责使用的工具。
+  href =“ https://alternativeto.net/software/chatgpt/about/”&gt;更多关于chatgpt ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/parents-can-now-enable-safety-controls-in-chatgpt-to-help-protect-their-teens/</guid>
+      <pubDate>Tue, 30 Sep 2025 08:45:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>KAOS 2025.09带来Linux 6.16内核，KDE等离子6.4，QT5删除和增强MIDNA主题</title>
+      <link>https://alternativeto.net/news/2025/9/kaos-2025-09-brings-linux-6-16-kernel-kde-plasma-6-4-qt5-removal-and-enhanced-midna-theme/</link>
+      <description><![CDATA[  kaos  2025.09带有升级的核心技术，包括 linux 6.16.9 kernel href =“ https://alternativeto.net/news/2025/6/kde-plasma-6-4-reald--with-with-many-exciting-enhancements-learn-what-what-what-what-s-new-//” href =“ https://alternativeto.net/news/2025/4/QT-6-9-REALED-WITH-IMPREVED-MOPREVED-EMOJI-SUPPORT-3D-GRAPHS-CROSS-CROSS-PLATFORM-PLATFORM-XRFORM-XRFORM-XR-XR-and-MORE/”&gt; QT 6.9.2.2.2.2.2 。该版本重点介绍了一个全面修改的Midna 主题，具有新图标，更新的登录和飞溅体验，现代窗户装饰和刷新的壁纸。
+在这些视觉变化上构建，KAOS现在默认情况下没有任何QT5的船舶，促进了QT5终止寿命结束后向仅QT6应用程序的过渡。该项目的社区软件包服务KCP已迁移到 Codeberg ，进一步拥抱开放式基础设施。
+除了这些重大变化之外，支持基于等离子体的替代品的支持 sddm  login Manager。重写的ISOimageWriter（现在基于QML）不仅将ISO文件写入USB，而且还可以从其他分布中下载ISO。系统基金会将全面更新，并具有新版本的工具，例如Libxml2，git，openssl，bash和Mesa。
+这些后端的进步辅以新的软件添加，例如 typst 用于基于标记的类型，Plasma-bigscreen for客厅设备以及氢用于鼓综合。新的声音声音后端是活动的，而SDDM 0.20.0引入可选 Wayland 支持。最后，Kjournald现在提供了具有强大过滤选项的图形日志查看器。
+    更多有关kaos ＆nbsp; | |替代方案 ]]></description>
+      <guid>https://alternativeto.net/news/2025/9/kaos-2025-09-brings-linux-6-16-kernel-kde-plasma-6-4-qt5-removal-and-enhanced-midna-theme/</guid>
+      <pubDate>Tue, 30 Sep 2025 07:50:00 GMT</pubDate>
+    </item>
     <item>
       <title>勇敢的发射询问勇敢的人工智能聊天搜索带有隐私和多媒体答案</title>
       <link>https://alternativeto.net/news/2025/9/brave-launches-ask-brave-ai-chat-search-with-privacy-and-multimedia-answers/</link>
@@ -129,25 +151,6 @@ Ask Brave complements the existing AI Answers tool, but instead of short summari
  在交流中查看文章href =“ https://alternativeto.net/software/instagram/about/”&gt;更多有关Instagram ＆nbsp; | |＆nbsp; &lt;A href =“ https：//alternatativeto.net/softo.net/software/software/software/software/software/software/instagram/]]></description>
       <guid>https://alternativeto.net/news/2025/9/meta-launches-ad-free-paid-subscription-for-facebook-and-instagram-in-the-uk/</guid>
       <pubDate>Sat, 27 Sep 2025 05:12:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Calibre 8.11添加了要求AI助手，文字突出显示修复程序和AI提供商的支持</title>
-      <link>https://alternativeto.net/news/2025/9/calibre-8-11-adds-ask-ai-assistant-text-highlight-fixes-and-ai-provider-support/</link>
-      <description><![CDATA[  caliber  8.11 8.11介绍了电子书查看者中的可选 ask ask ai Assistans ，使用户可以通过dictionary lookup Panel询问有关书籍内容的问题。该功能仅在配置AI提供者时才激活，其中包括 google ， github 或通过 https://feed.alternativeto.net&gt;这些服务中的几个是免费的，使用户可以灵活地使用该工具。
-此更新还解决了长期存在的问题。编辑亮点不再产生重复，并且放置精度得到了提高。在Windows上，现在正确打开链接的非常大的电子书，并且构建过程都符合.dll和.pyd文件以提高安全性和一致性。
-其他修复程序包括对畸形的PDB文件的更好转换，在标签浏览器中添加第一个图标规则时进行了更正的行为，以及使用ESC键正确关闭脚注弹出窗口。新闻集成也已经为诸如  和 更多有关Caliber ＆nbsp; |＆nbsp; &lt;A href =“ https：//alternatativeto.net/software/software/software/calibre/]]></description>
-      <guid>https://alternativeto.net/news/2025/9/calibre-8-11-adds-ask-ai-assistant-text-highlight-fixes-and-ai-provider-support/</guid>
-      <pubDate>Fri, 26 Sep 2025 23:13:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Astro 5.14带来了Prerendered路线碰撞警告，Svelte Async渲染等等</title>
-      <link>https://alternativeto.net/news/2025/9/astro-5-14-brings-prerendered-route-collision-warnings-svelte-async-rendering-and-more/</link>
-      <description><![CDATA[  astro  5.14 5.14引入了一套新的功能和增强功能，旨在通过此网络框架提高开发人员工作流程。该版本的重点是通过使常见错误更易于检测和修复在代码到达生产之前，使动态路由更有效。此外，使用 getStaticPaths（）工作的开发人员会发现处理复杂的动态路由会更容易。
-在这些路由增强的基础上，Astro 5.14扩大了其前端兼容性。该更新增加了Svelte 5.36的Svelte的异步渲染功能的支持，现在支持 UseActionState（） hook 在React 19中引入了React 19 中允许基于表单动作的状态进行更新。这些变化都可以通过 svelte 和
-超越框架支持，Astro 5.14引入了内置 svgcomponent  svg导入的类型，使管理SVG资产更容易。 Astro DB部署更加灵活，如 libsql 现在部署到 node.js 环境。对于那些管理站点可发现性的人，默认情况下，用户可以配置在SiteMap XML中包含哪些XML名称空间。实验字体API也扩展，开发人员现在能够以编程方式访问字体数据。几个错误修复程序与此版本捆绑在一起，以提高整体稳定性。
-  href =“ https://alternativeto.net/software/astroweb-web-framework/about/”&gt;有关Astro Web框架的更多信息替代方案 ]]></description>
-      <guid>https://alternativeto.net/news/2025/9/astro-5-14-brings-prerendered-route-collision-warnings-svelte-async-rendering-and-more/</guid>
-      <pubDate>Fri, 26 Sep 2025 19:05:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
