@@ -4,7 +4,85 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Mon, 29 Sep 2025 12:40:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 01:24:42 GMT</lastBuildDate>
+    <item>
+      <title>勇敢的发射询问勇敢的人工智能聊天搜索带有隐私和多媒体答案</title>
+      <link>https://alternativeto.net/news/2025/9/brave-launches-ask-brave-ai-chat-search-with-privacy-and-multimedia-answers/</link>
+      <description><![CDATA[  Brave 已引入 ask Brave Brave ，这是一个直接从勇敢的搜索所有浏览器上的homepage。用户可以通过单击搜索框旁边的“询问”按钮，切换到结果中的“询问”选项卡，或添加“ ??”来访问它。当将勇敢的搜索设置为默认引擎时进行查询。不需要特殊模式，因为默认情况下启用了该功能。
+Ask Brave complements the existing AI Answers tool, but instead of short summaries, it provides longer, report-style outputs, pretty similar to what you can get来自其他AI助手，例如 perplexity 。这些响应以
+与其他AI公司的类似解决方案不同，该公司强调，勇敢地提出优先级隐私，并在不活动24小时后删除了聊天，删除了聊天，并且与IP地址没有链接。它还突出了上下文丰富和交互式响应。
+  href =“ https://alternativeto.net/software/brave/about/”&gt;有关勇敢的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/9/brave-launches-ask-brave-ai-chat-search-with-privacy-and-multimedia-answers/</guid>
+      <pubDate>Mon, 29 Sep 2025 23:53:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>拟人启动Claude Sonnet 4.5，迄今为止其最先进的编码模型</title>
+      <link>https://alternativeto.net/news/2025/9/anthropic-launches-claude-sonnet-4-5-its-most-advanced-coding-model-so-far/</link>
+      <description><![CDATA[拟人化已启动 Claude sonnet 4.5 ，它的编码和代理开发的最先进模型，不到两个月href =“ https://alternativeto.net/news/2025/8/anththropic-releases-claude-opus-4-1-with-coding-coding-reasoning-reasoning-and-and-debugging-improvements/”&gt;在释放Claude Opus 4.1 后。该公司将该新模型定位在当前编码基准的顶部，并强调可靠性提高，形容它能够支持原型以外的应用程序。
+在开发人员的基准上，SONNET 4.5在经过验证的SWE板凳上得分82％，迄今为止报告的最高率和50％的终端板凳，超过 openai gpt-5  href =“ https://alternativeto.net/news/2025/3/google-unveils-gemini-2-5-pro-a-a-leap-in-ai-for-complex-complex-rouncon-tasks-rouncon-tasks-and-coding-ibility/”&gt; google googe gemini 2.5 pro 。在OSWORLD上，它的达到61.4％，从42.2％，。
+在发行版中，拟人化正在推出 claude代理SDK  href =“ https://feed.alternativeto.net/software/claude-code/about/”&gt; claude代码构建自定义代理，并引入“想象与Claude” href =“ https://alternativeto.net/news/2025/4/claude-launches-the-max-plan-for-most-most-active-users/”&gt; Max Max订户 证明没有预设代码的实时软件生成。 Claude SONNET 4.5可通过Claude API在同一定价上获得，并且还添加到GitHub Copilot for business tiers, with Visual Studio Code users able to connect using their own API键。
+  href =“ https://alternativeto.net/software/claude/about/”&gt;更多有关Claude ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/anthropic-launches-claude-sonnet-4-5-its-most-advanced-coding-model-so-far/</guid>
+      <pubDate>Mon, 29 Sep 2025 23:08:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 6.17已发行了Intel/AMD笔记本电脑的收益，存储促进和较低的延迟</title>
+      <link>https://alternativeto.net/news/2025/9/linux-6-17-has-been-released-with-intel-amd-laptop-gains-storage-boosts-and-lower-latency/</link>
+      <description><![CDATA[  linux内核6.17 官方版本引入了一系列广泛的硬件和核心系统改进。该更新为英特尔“ Panther Lake”笔记本电脑的开箱即用XE3图形支持，并通过IPU7驱动程序为“ Lunar Lake”型号进行了适当的网络摄像机集成。 AMD笔记本电脑用户受益于SmartMux，从而可以自动图形切换，以提高功率效率。统一的攻击向量控制现在使管理CPU漏洞（例如Specter和Meltdown）通过合并缓解选项更加容易，而新的ApparMor规则将控制扩展到AF_UNIX套接字访问，现在在ARM64系统上支持实时补丁，并且ARM ARM获得分支机构Record Buffer Extension（BRBE）支持。
+解决网络和存储，添加DualPI2拥塞控制可减少游戏，流媒体和实时工作负载的延迟。 SSD寿命通过对NVME和SCSI驱动器的有效零写支持来增强，而Ext4文件系统获得可扩展的块分配，以获得更好的I/O性能。新的调度策略会删除单层处理器支持，标准化的多核操作和代理执行，有助于减轻桌面应用程序中的优先倒置。其他网络更改包括使用TCP_MAXSEG选项和IPv6的每个接口转发控件的多路径TCP改进。
+硬件兼容性通过支持联想Legion Go Handhelds，Apple M1/M2 Mac，具有适当的重新启动，ASUS Zenbook A14 Snapdragon X1 Plus/Elite，Raspberry Pi 5的RP1 I/O CHIP和Flydigi Apex 5 Contarter，可以进一步扩展。其他改进包括Corsair HX1200I PSU监控，F13 -F24键的映射以及跨精选笔记本电脑的新高清音频驱动程序。 linux 6.17与 ubuntu 24.04 lts 在2026年以前，       有关Linux内核的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/9/linux-6-17-has-been-released-with-intel-amd-laptop-gains-storage-boosts-and-lower-latency/</guid>
+      <pubDate>Mon, 29 Sep 2025 21:11:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>NextCloud Hub 25 Autumn版本带来新的UI，线程演讲，办公室增强功能等等</title>
+      <link>https://alternativeto.net/news/2025/9/nextcloud-hub-25-autumn-release-brings-new-ui-threaded-talk-office-enhancements-and-more/</link>
+      <description><![CDATA[下一个大版本的 NextCloud Hub 25 Autumn 已发行了新的UI设计，具有新的UI设计，具有更新的图标，触觉纽扣，新背景和简化的设置。在核心应用程序中的示例内容和11个新的文档，电子表格和演示文稿中，Admins也可以在组织范围内管理，也可以改进入门。
+  NextCloud Office 添加了彩色图标，上下文工具栏和标签导航，以进行清晰的编辑，而 nextCloud Assistans 扩展其私密性 -  first AI工具，具有转录，文档汇总，上下文搜索，基于代理的任务，例如路由计划和文档计划。&gt; &gt; 
+性能更新包括带有块上传，iOS上传速度加倍的上传速度更快的上传，在macOS和Windows上优化的虚拟文件系统以及更少的数据库查询。移动应用程序获得更快的文件处理，对iOS 26液体玻璃的支持，多任务处理，改进的导航以及iOS的媒体变焦，以及新的Android设计更新。  NextCloud Collectives 和Whiteboard，具有NextCloud Flow的自动化，并与 jira ， Overleaf 将版本删除
+ 有关NextCloud Hub ＆nbsp; | |＆nbsp; &lt;A href =“]]></description>
+      <guid>https://alternativeto.net/news/2025/9/nextcloud-hub-25-autumn-release-brings-new-ui-threaded-talk-office-enhancements-and-more/</guid>
+      <pubDate>Mon, 29 Sep 2025 17:49:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kitty 0.43添加了会话管理支持，多个光标的新协议等等</title>
+      <link>https://alternativeto.net/news/2025/9/kitty-0-43-adds-session-management-support-new-protocol-for-multiple-cursors-and-more/</link>
+      <description><![CDATA[基于GPU的终端模拟器 kitty  0.43为需要灵活工作流的用户提供了主要的增强功能。该更新增加了为在会话之间创建和切换的支持，从而更容易定义，管理和导航不同的项目。除此之外，用户现在可以利用终端卷轴中的可配置 scrollbar ，并从新协议中受益，从而在终端中启用多个光标。
+在这些接口升级上构建，现在支持闪烁的文本。专用的 Cursor_trail_color 设置允许用户独立量身定制光标跟踪的颜色。 TAB栏现在支持用户定义 python 用于渲染选项卡标题的功能，扩展自定义选项。此外，可用于在煮熟的模式下将光标移动到上一行，以改进输入处理。
+当Macos用户获得视觉选项时，例如 background_opacity 少于一个，并且使用 terminal  default&gt; cmd cm cmd cmmd cmmd ofer of cm cmd cmmd ofer of cm cmd cmmd compor，背景不透明度渲染以及该平台特定的各种错误修复。在运行 有关Kitty终端的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/9/kitty-0-43-adds-session-management-support-new-protocol-for-multiple-cursors-and-more/</guid>
+      <pubDate>Mon, 29 Sep 2025 14:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Joplin 3.4带来移动富文本编辑器，增强出版和较小的桌面应用程序</title>
+      <link>https://alternativeto.net/news/2025/9/joplin-3-4-brings-mobile-rich-text-editor-enhanced-publishing-and-smaller-desktop-app/</link>
+      <description><![CDATA[  joplin  3.4用于移动和桌面，为此开源的注释应用程序提供了实质性更新。现在，移动应用程序具有Beta中的丰富文本编辑器，允许用户直接在注释中查看格式，数学表达式和图像。现在，也可以使用“属性”菜单直接从移动应用程序发布笔记。此外，移动用户可以查看和还原笔记的先前版本，增强恢复选项。
+遵循这些编辑器增强功能，重新设计了移动应用程序的标签对话框，以简化添加，删除和创建新标签的过程。 Android用户特别受益于语音打字功能中的静音检测以及新的自定义词汇表设置。通过在“新音符”菜单中添加“扫描笔记本”操作，进一步改善了移动音符的创建。
+转向桌面平台，用户可以获得对 Markdown 具有新设置的编辑器，可以直接在编辑视图中呈现标题，列表和图像。桌面应用程序也已进行了优化，可将其尺寸降低约33％，以便更快地下载和减少存储使用。
+终端用户将注意到引入文件夹扩展，并通过 z 键，以及用于发布，未出版和共享注释的新命令。 Joplin 3.4还包括所有平台上的几个错误修复，可提高稳定性和可用性。
+  href =“ https://alternativeto.net/software/joplin/about/”&gt;更多有关Joplin ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/joplin-3-4-brings-mobile-rich-text-editor-enhanced-publishing-and-smaller-desktop-app/</guid>
+      <pubDate>Mon, 29 Sep 2025 12:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fish 4.1添加了用于复合命令，瞬态提示等的支撑语法等等</title>
+      <link>https://alternativeto.net/news/2025/9/fish-4-1-adds-brace-syntax-for-compound-commands-transient-prompts-and-much-more/</link>
+      <description><![CDATA[  fish  4.1作为此用户友好型命令线外壳的主要更新，用于Linux和macos，标记了近1400个compits 自之前的版本以来。该版本引入了对用牙套编写的复合命令的支持，与其他流行的壳的语法约定保持一致。此外，现在支持瞬态提示，提供更灵活，动态的壳提示体验。
+在这些变化上构建，标签完成行为已得到改善。现在，完成结果已被截断为通用目录路径，为用户提供更清晰，更相关的建议。对于那些使用自动安装构建的人，例如 cargo install 创建的构建，Fish现在确保不再包括无关的文件，简化安装和减少不必要的文件。
+消息定位系统也进行了大修。基于GetText的系统现在提供了自动安装构建中的扩展翻译，支持更多语言并改善可访问性。除了这些主要更新之外，4.1版本还包含折旧，特征去除，脚本和交互式模式改进，更新的绑定，额外的完成增强和更好的终端支持，如  externativeto＆raquo＆raquo＆raquo;         href =“ https://alternativeto.net/software/software/fish/about/”&gt;有关鱼类的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/9/fish-4-1-adds-brace-syntax-for-compound-commands-transient-prompts-and-much-more/</guid>
+      <pubDate>Mon, 29 Sep 2025 11:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mozilla介绍了由Google Lens在Firefox桌面上提供支持的视觉搜索</title>
+      <link>https://alternativeto.net/news/2025/9/mozilla-introduces-visual-search-powered-by-google-lens-on-firefox-desktop/</link>
+      <description><![CDATA[ Mozilla正在介绍视觉搜索，由 google lens  in 
+通过右键单击浏览器中的任何图像，用户可以立即访问强大的选项，以查找类似的产品，地点或对象。同一菜单将使用户复制，翻译或搜索图像中包含的文本，从而对研究，购物和学习有用。集成之后，在右键单击上下文菜单中查找新的“使用Google Lens搜索图像” 输入。
+虽然在接下来的几周内将在全球范围内引入此更新，但目前仅限于Firefox的桌面版本。为了可见此功能， Google 必须设置为浏览器的默认搜索引擎。
+ 更多有关Mozilla Firefox ＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/mozilla-introduces-visual-search-powered-by-google-lens-on-firefox-desktop/</guid>
+      <pubDate>Mon, 29 Sep 2025 09:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>YouTube Premium为更多设备带来了总部音频，更快的播放速度和关键时刻</title>
       <link>https://alternativeto.net/news/2025/9/youtube-premium-brings-hq-audio-faster-playback-speeds-and-key-moments-to-more-devices/</link>
@@ -28,7 +106,7 @@
       <link>https://alternativeto.net/news/2025/9/meta-launches-vibes--a-new-short-video-feed-of-ai-generated-content-nobody-asked-for/</link>
       <description><![CDATA[您是否曾经想过滚动浏览AI生成的视频斜率的整个供稿会有多么令人兴奋？如果是这样，您很幸运，因为这正是Meta的发布，“ vibes”   href =“ https://feed.alternativeto.net/software/meta-ai/about/”&gt; meta ai  app。 Vibes基本上是一种新的视频供稿，例如 tiktok 或
 接口镜像卷轴，具有喜欢的选项，混音，评论，共享或评分视频为“好”或“坏”。虽然尚未直接搜索创作者，但可以从发布的视频中打开它们的配置文件。剪辑可以在振动中共享，通过直接消息发送，也可以交叉播放到Instagram和 Facebook Stories 和卷轴。对于早期版本，Meta与 midjourney 和
-公司表示，随着人们观看和创建视频的观看和创建视频，该供稿将越来越个性化，尽管早期接待基本上是负面的，用户将发布方式嘲笑为“ AI Slop”，并质疑此功能真正是为了谁或为什么它存在。这只会增加对元AI应用程序作为一种弗兰肯斯坦社交平台的更广泛的负面感知，之后揭示了个人数据，例如家庭地址，ID，银行信息甚至犯罪同盟，您可以命名。
+公司表示，随着人们观看和创建视频的观看和创建视频，该供稿将越来越个性化，尽管早期接待基本上是负面的，用户将发布方式嘲笑为“ AI Slop”，并质疑此功能真正是为了谁或根本存在。这只会增加对元AI应用程序作为一种弗兰肯斯坦社交平台的更广泛的负面感知，之后揭示了个人数据，例如家庭地址，ID，银行信息甚至犯罪同盟，您可以命名。
  更多有关meta ai  |]]></description>
       <guid>https://alternativeto.net/news/2025/9/meta-launches-vibes--a-new-short-video-feed-of-ai-generated-content-nobody-asked-for/</guid>
       <pubDate>Sun, 28 Sep 2025 12:36:57 GMT</pubDate>
@@ -70,85 +148,6 @@
   href =“ https://alternativeto.net/software/astroweb-web-framework/about/”&gt;有关Astro Web框架的更多信息替代方案 ]]></description>
       <guid>https://alternativeto.net/news/2025/9/astro-5-14-brings-prerendered-route-collision-warnings-svelte-async-rendering-and-more/</guid>
       <pubDate>Fri, 26 Sep 2025 19:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Figma Mage添加了转换设计层的编辑和注释</title>
-      <link>https://alternativeto.net/news/2025/9/figma-make-adds-editing-and-annotation-for-converted-design-layers/</link>
-      <description><![CDATA[  figma 制作，Figma的AI-Power工具，使用户可以将文本提示转换为真实的设计，现在让用户将任何一个可编辑的设计层转换为一组可编辑的设计层。这允许平台内设计的直接迭代，注释和共享。
- 在替代方面href =“ https://alternativeto.net/software/figma/about/”&gt;更多有关Figma ＆nbsp; |＆nbsp; &lt;A href =“ https://alternatativeto.net/software/software/software/figma/]]></description>
-      <guid>https://alternativeto.net/news/2025/9/figma-make-adds-editing-and-annotation-for-converted-design-layers/</guid>
-      <pubDate>Fri, 26 Sep 2025 16:13:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ubuntu Touch 20.04 OTA-10发行了新的升级器和扩展的设备支持</title>
-      <link>https://alternativeto.net/news/2025/9/ubuntu-touch-20-04-ota-10-released-with-a-new-upgrader-and-expanded-device-support/</link>
-      <description><![CDATA[  ubuntu touch  20.04 OTA-100已作为此基于Ubuntu的最新迭代发布了此基于Ubuntu的最新迭代。作为维护发布，OTA-10只会带来最小的变化，反映了开发团队目前致力于升级 ubuntu  ubuntu 基础操作系统。
-此更新中最著名的增强功能是引入新的Ubuntu Touch升级器。该工具将允许用户从Ubuntu Touch 20.04过渡到即将到来的Ubuntu Touch 24.04-1.0，一旦可用，就可以为将来的更新和改进准备设备。
-Expanding device support, OTA-10 will roll out to a range of devices over the coming days, including the Asus Zenfone Max Pro M1, F(x)tec Pro1 X, Fairphone 3, 3 Plus and 4, Google Pixel 3a series, JingPad A1, Lenovo Tab M10 HD 2nd Gen, several OnePlus and Volla models, and Xiaomi models.值得注意的是，兔子R1在此版本中得到了新的支持。
-对于那些已经在稳定频道上使用Ubuntu触摸的人，OTA-10将出现在系统设置中的更新部分中。
-View article on AlternativeTo »有关Ubuntu touch ＆nbsp; | |＆nbsp; &lt;A href =“]]></description>
-      <guid>https://alternativeto.net/news/2025/9/ubuntu-touch-20-04-ota-10-released-with-a-new-upgrader-and-expanded-device-support/</guid>
-      <pubDate>Fri, 26 Sep 2025 15:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DuckDB 1.4.0 LTS包括文件加密，合并支持，冰山写道</title>
-      <link>https://alternativeto.net/news/2025/9/duckdb-1-4-0-lts-includes-file-encryption-merge-support-and-iceberg-writes/</link>
-      <description><![CDATA[  duckdb  1.4.0长期支持（LTS）版本，编码为“ andium”，引入了数据库文件的“ andium”，提供增强的数据安全性。该版本还增加了对声明合并的支持，从而使更灵活的UPSERT操作。
-此外，DuckDB-Iceberg扩展程序现在允许将数据写入冰山表。
- 更多有关Duckdb ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/duckdb-1-4-0-lts-includes-file-encryption-merge-support-and-iceberg-writes/</guid>
-      <pubDate>Fri, 26 Sep 2025 14:35:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Openai在预览中启动Chatgpt Pulse，以主动进行您的日常研究</title>
-      <link>https://alternativeto.net/news/2025/9/openai-launches-chatgpt-pulse-in-preview-to-proactively-do-your-daily-research/</link>
-      <description><![CDATA[ OpenAI已发布了Chatgpt Pulse的预览，现在可以在移动设备上使用Pro用户。 Pulse引入了一种新的积极主动方法，并使用 chatggpt 基于您的对话历史记录，反馈，与您的电子邮件和日历等应用程序集成的研究。 Chatgpt现在没有等待用户查询，而是编译了针对您的兴趣量身定制的每日更新。
-在此初始推出中，Pulse将其发现作为局部视觉卡。用户可以快速浏览这些卡或点击以获取更深层的详细信息，从而更轻松地开始了解情况。随着时间的流逝，系统将学习您的偏好：通过将内容标记为有用，您可以帮助策划研究脉冲的类型。每天晚上，它都会综合您的内存，聊天活动和直接反馈，以完善第二天的更新。
-虽然目前正在预览中，但预计Puls会根据早期Pro用户反馈发展。 OpenAI计划扩大对Plus的访问权限，最终将所有用户访问。在此期间，Pulse可能会显示一些不太相关的建议，因此用户输入对于改进至关重要。这一发展反映了Chatgpt从反应性提问到积极的数字助手的转变，该数字助理预期并满足了个人需求。
-  href =“ https://alternativeto.net/software/chatgpt/about/”&gt;更多关于chatgpt ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/openai-launches-chatgpt-pulse-in-preview-to-proactively-do-your-daily-research/</guid>
-      <pubDate>Fri, 26 Sep 2025 12:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>PostgreSQL 18带有异步I/O子系统，绩效改进和OAuth支持</title>
-      <link>https://alternativeto.net/news/2025/9/postgresql-18-released-with-async-i-o-subsystem-performance-improvements-and-oauth-support/</link>
-      <description><![CDATA[  PostgreSql  18已作为此开放量对象重新启示数据库的最新版本发布。引入异步输入/输出子系统可增强关键操作的性能，包括顺序和位图堆扫描以及真空过程。基准测试在选定的方案中最多表现出三倍的性能。
-随着这些核心引擎更改，PostgreSQL 18现在可以通过主要版本升级保留计划者统计信息，从而使群集在更新后可以更快地恢复预期性能水平。  pg_upgrade 实用程序已收到多个增强功能，产生了较短的升级时间，尤其是对于具有许多表和序列的数据库。 PostgreSQL 18还为多列B树索引添加了“跳过扫描”功能，当前缀列缺乏平等条件或使用某些或 Comminations 中， pra&gt;  clauses。
-基于数据管理的进步，该版本使虚拟生成的列默认，在查询时间计算其值，并允许对存储的生成的列进行逻辑复制。此外，开发人员现在可以使用返回  insert ， UPDATE ， delete 和 MERGE  cattenements。
-进一步的更改包括对时间戳排序的 uuidv7（）生成，更轻松，更快的文本处理，内置的OAuth 2.0身份验证，改进的日志记录，用于逻辑复制冲突，主动的真空策略，并通过new DataDatabases来启用页面检查。此版本中还包括其他一些增强功能。
- 有关PostgreSql ＆nbsp; | |＆nbsp; &lt;A href =“]]></description>
-      <guid>https://alternativeto.net/news/2025/9/postgresql-18-released-with-async-i-o-subsystem-performance-improvements-and-oauth-support/</guid>
-      <pubDate>Fri, 26 Sep 2025 09:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>图书经理Linkwarden 2.13添加了标签管理页面，紧凑的侧边栏和更多修复程序</title>
-      <link>https://alternativeto.net/news/2025/9/book-manager-linkwarden-2-13-adds-tag-management-page-compact-sidebar-and-more-fixes/</link>
-      <description><![CDATA[  linkwardenen  2.13已发布，并通过介绍专用标签页面，并带来了改进的书签管理。用户现在可以从单个位置方便地查看，排序，添加，合并和批量删除标签。此更新简化了组织，并使管理大量书签更有效。
-除了增强的标签外，您现在可以缩小侧边栏，以获得更紧凑，最小的用户界面。此更改使那些喜欢更清洁外观或需要在较小显示器上优化工作区的人。
-遵循这些改进，该版本还提供了广泛的错误修复，安全更新和性能优化。建议所有用户进行这些更新，并旨在提高开源书签经理的可靠性和安全性。除了核心修复程序外，还引入了几个较小的改进，以使操作顺利进行。
-  href =“ https://alternativeto.net/software/linkwarden/about/”&gt;有关linkwardenen  | |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/book-manager-linkwarden-2-13-adds-tag-management-page-compact-sidebar-and-more-fixes/</guid>
-      <pubDate>Fri, 26 Sep 2025 06:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>困惑启动搜索API提供网络尺度索引搜索和公共开发人员访问</title>
-      <link>https://alternativeto.net/news/2025/9/perplexity-launches-search-api-offering-web-scale-indexed-search-and-public-developer-access/</link>
-      <description><![CDATA[  perplexity 已宣布启动其，使开发人员访问了为其答案引擎提供动力的数百亿网页的相同索引。该API旨在为 api平台提供适用于Python和Tystycript的软件开发套件，并且针对初创企业，企业和代理商构建者，并寻求强大的搜索能力。。
- API包括ISO国家 /地区代码，日期范围过滤器以及域名允许清单或否定者的区域目标，最多20个条目。学术模式优先考虑学术资源，而多Query请求最多允许五个查询。开发人员可以在一个和20之间设置每个呼叫的结果，并使用 max_tokens_per_page 设置调整内容提取，默认为1024令牌。响应返回标题，URL，摘要，出版日期和最后更新字段。
-定价为每1,000美元的$ 5，没有基于令牌的费用，而利率限制规模与使用层与总支出相关。 开放评估框架提供了质量比较，并且平台将搜索与声纳聊天模型集成在一起，以提供接地的生成性答案。
- 更多有关Perplexity ＆nbsp; | |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/perplexity-launches-search-api-offering-web-scale-indexed-search-and-public-developer-access/</guid>
-      <pubDate>Fri, 26 Sep 2025 05:28:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google释放Gemini 2.5 Flash and Lite预览，并具有改进的说明和多模式</title>
-      <link>https://alternativeto.net/news/2025/9/google-releases-gemini-2-5-flash-and-lite-previews-with-improved-instructions-and-multimodal/</link>
-      <description><![CDATA[ Google已更新了 Google gemini 应用2.5 Flash模型的应用程序。现在，响应使用标题，列表和表格更清晰的格式，而家庭作业帮助则提供了更强大的分步推理。该模型还可以更有效地解释图像和图表，让用户上传注释以进行摘要，组织或抽认卡创建。
-开发人员可以通过 vertex ai 。这些预览不是稳定的发行版，而是旨在塑造未来版本。 2.5 Flash预览使代币效率加倍，降低成本和潜伏期，同时提高质量。它还显示了更好的代理工具使用，在SWE基础验证的基准测试中具有五点增益。启用了“思考”，它使用较少的令牌产生更高质量的输出。
- Flash-Lite预览改善了以下教学，并产生了更简洁的响应，从而降低了详细的响应和成本。它还增强了多模式和翻译功能，包括更好的图像理解，音频转录和翻译精度。
- 在交流中的文章href =“ https://alternativeto.net/software/google-bard/about/”&gt;有关Google Gemini   | |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/google-releases-gemini-2-5-flash-and-lite-previews-with-improved-instructions-and-multimodal/</guid>
-      <pubDate>Fri, 26 Sep 2025 02:50:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
