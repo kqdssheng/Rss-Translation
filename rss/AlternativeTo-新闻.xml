@@ -4,7 +4,77 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Tue, 30 Sep 2025 12:42:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 01:41:08 GMT</lastBuildDate>
+    <item>
+      <title>F-Droid警告Google的侧层规则将杀死该项目和几个开源应用程序</title>
+      <link>https://alternativeto.net/news/2025/9/f-droid-warns-google-s-sideloading-rules-will-kill-the-project-and-several-open-source-apps/</link>
+      <description><![CDATA[  f-droid 已公开警告说，Google即将到来的SideloAding限制可能会为其项目带来结束，从而使成千上万的开放式源代码源和源代码源访问。  Google Play商店，通过在Google上注册，涉及费用，严格条款和政府ID来验证其身份。在此政策下，几乎所有经过认证的Android设备将被封锁未注册的开发人员的应用程序，从而大大降低了侧载软件的能力。
+  f-droid说它不能遵守这些要求，因为它无法迫使开发人员对Google进行登记或以应用程序的身份登记为开发者，因此可以抓住开发者的销售商，从而夺取了开发者的控制权。如果执行规则，F-Droid应用程序将不再在经过认证的Android设备（中国以外）上运行，从而阻止用户安装或更新它们。 这将迫使该项目在运营15年后关闭，大​​多数其他第三方替代应用商店都面临着相同的风险。
+ Google将更改作为安全措施提出，F-Droid强调它已经具有强大的保护措施，例如公共构建日志，可再现的构建和防止恶意软件注入的源代码汇编。它还指出，在Play商店中曾经发现了play presition  buldity secuttion  busection根据F-Droid的说法，新政策的真正影响是巩固了Google对Android生态系统的控制以及为独立或志愿者开发人员创建障碍。作为回应，该项目敦促监管机构和竞争部门，包括欧洲委员会的数字市场法案团队 href =“ https://www.house.gov/representivates/find-your-presentative”&gt;写信给代表 签署请愿书，并将其推迟反对所谓的排除注册计划。
+ 更多有关f-droid的信息]]></description>
+      <guid>https://alternativeto.net/news/2025/9/f-droid-warns-google-s-sideloading-rules-will-kill-the-project-and-several-open-source-apps/</guid>
+      <pubDate>Tue, 30 Sep 2025 18:50:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chatgpt通过购买和商家集成开始即时结帐</title>
+      <link>https://alternativeto.net/news/2025/9/chatgpt-launches-instant-checkout-with-in-chat-purchases-and-merchant-integration/</link>
+      <description><![CDATA[ OpenAi已启动 Instant Checkout  for  Etsy  ETSY   
+ OpenAI计划将支持超过一百万 shopify 卖家，包括卖家，包括Glossier，Skims and Spanx等品牌，并添加Multi-Inem Carts和Feri-Inter Costs and Spanx。即时结帐在开源 Stripe ，使更多商人可以集成。
+ Chatgpt中的搜索结果将继续按相关性，可用性，价格和质量进行排名，而不必偏爱即时结帐产品。订单和付款仍由商人处理，买方可以使用OpenAI或其他商家选项的存档付款。商人还将支付少量交易费，而买家的产品价格保持不变。
+  href =“ https://alternativeto.net/software/chatgpt/about/”&gt;更多关于chatgpt ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/chatgpt-launches-instant-checkout-with-in-chat-purchases-and-merchant-integration/</guid>
+      <pubDate>Tue, 30 Sep 2025 18:28:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Raindrop.io启动MacOS共享扩展名，用于无缝书签</title>
+      <link>https://alternativeto.net/news/2025/9/raindrop-io-launches-macos-share-extension-for-seamless-bookmarking/</link>
+      <description><![CDATA[  raindrop.io 现在，使用系统共享菜单，可以提供MacOS共享扩展名，使用户能够直接从Mac上的大多数应用程序中保存书签。该扩展名支持在特定集合中添加书签并在保存之前对其进行标记。
+它与Mac App Store上的保存到Raindrop应用捆绑在一起，该应用程序还包括Safari扩展名。
+ 更多有关Raindrop.io ＆nbsp; | |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/raindrop-io-launches-macos-share-extension-for-seamless-bookmarking/</guid>
+      <pubDate>Tue, 30 Sep 2025 15:57:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft将“氛围起作用”带入Word，Excel和副副词，并具有新的代理模式</title>
+      <link>https://alternativeto.net/news/2025/9/microsoft-is-bringing-vibe-working-to-word-excel-and-copilot-with-new-agent-mode/</link>
+      <description><![CDATA[ Microsoft在 excel ， PowerPoint ，建立在已经加速软件开发并现在针对办公室工作流程中的生产率的方法上的构建。&gt; &gt; 
+通过利用 OpenAI的最新型号，Agent Mode策划了多Step任务并提高了生产力。用户可以从一个简单的提示开始，并通过迭代工作流与副驾驶员进行交互，从而指导AI生成和完善办公室工件，例如文档，电子表格和演示文稿。
+专注于Excel和Word，Copilot中的代理模式使用户可以使用Excel Artifact理解来支持复杂的建模，输出评估和持续的结果改进。在Word中，Agent Mode启用“ Vibe写作”，其中Copilot草稿内容，建议增强功能，并要求澄清，将文档创建变成动态对话。
+对于PowerPoint和Word Creation，Copilot中的Office Agent提供了CHAT-FIRST接口，由
+  href =“ https://alternativeto.net/software/microsoft-excel/about/”&gt;有关Microsoft Excel ＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/microsoft-is-bringing-vibe-working-to-word-excel-and-copilot-with-new-agent-mode/</guid>
+      <pubDate>Tue, 30 Sep 2025 15:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>BEAR Web Clipper 2.0介绍了设备上的隐私，自定义标签和iOS支持</title>
+      <link>https://alternativeto.net/news/2025/9/bear-web-clipper-2-0-introduces-on-device-privacy-custom-tags-and-ios-support/</link>
+      <description><![CDATA[  bear  Web Clipper 2.0现在直接在用户的设备上处理所有保存的内容，从而通过避免远程服务器来提高隐私和速度。该升级还允许从受密码保护和本地网页中删除，从而使其对敏感或内部信息更可靠。用户可以在保存时分配标签，除了Mac之外，该快船现在可以在iOS和iPados上用于Safari。
+  href =“ https://alternativeto.net/software/software/bear-writer/about/”&gt;更多有关bear ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/bear-web-clipper-2-0-introduces-on-device-privacy-custom-tags-and-ios-support/</guid>
+      <pubDate>Tue, 30 Sep 2025 15:44:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lovable介绍Cloud＆AI，让用户更轻松地构建全栈，启用AI的应用</title>
+      <link>https://alternativeto.net/news/2025/9/lovable-introduces-cloud-and-ai-to-let-users-build-full-stack-ai-enabled-apps-more-easily/</link>
+      <description><![CDATA[  lodable 正在揭露可爱的云＆amp; AI，一种扩展，使用户仅通过提示来创建具有人工智能和后端功能的应用程序。现在，任何人都可以在不编写传统代码的情况下构建复杂的应用程序，使应用程序和网站开发更容易为更广泛的受众访问。
+可爱的AI消除了对设置步骤，外部API键或额外计费的需求。用户指示可爱添加AI功能，并且该平台会自动处理集成。此功能由 Google gemini 型号型号，直到10月5日，
+同时，可爱的云充当无缝的后端层，管理用户身份验证，数据库和文件上传之类的基本操作。结果，通常需要单独的后端开发和维护的任务是自动化的，让创建者专注于他们的应用程序的核心体验。
+使用这些更新，可爱的云＆amp; AI现在管理建立全栈和支持AI的应用程序最苛刻的方面，大大降低了新应用创建者的障碍。
+ &gt;     href =“ https://alternativeto.net/software/lovable/about/”&gt;更多有关可爱的＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/lovable-introduces-cloud-and-ai-to-let-users-build-full-stack-ai-enabled-apps-more-easily/</guid>
+      <pubDate>Tue, 30 Sep 2025 14:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Opensuse Tumbleweed的9月更新带来了Linux 6.16.5，GNOME 49和KDE等离子6.4.5</title>
+      <link>https://alternativeto.net/news/2025/9/opensuse-tumbleweed-s-september-update-brings-linux-6-16-5-gnome-49-and-kde-plasma-6-4-5/</link>
+      <description><![CDATA[  opensuse tumbleweed 现在用户从 linux 6.16.5 kernel ，在分发的最新版本中引入了最新的更新。该基础可增强所有用户的性能，硬件兼容性和安全性。 9月，该发行版保持了一致的节奏，几乎每天的快照版本不仅提供了新功能和性能提升，而且对滚动释放操作系统至关重要的关键安全修复。 
+关键软件包看到升级，包括gnupg 2.5.12，7-zip 25.01文件档案库和文本编辑器 vim 9.1.1.1706 。这些软件包广泛用于开发和系统管理工作流程。除了核心实用程序，其他更新改进了桌面体验。
+ KDE Plasma 6.4.5 brought significant enhancements for desktop users, while KDE Gear 25.08.1 provided widespread fixes across common申请。遵循这些桌面改进，9月更新还包括新版本的基础软件包，例如
+ Tumbleweed继续强调其专注于稳定性和测试，建议用户定期应用更新以访问最新功能，改进和安全修复。
+ 更多有关OpenSuse ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/9/opensuse-tumbleweed-s-september-update-brings-linux-6-16-5-gnome-49-and-kde-plasma-6-4-5/</guid>
+      <pubDate>Tue, 30 Sep 2025 12:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>父母现在可以在Chatgpt中实现安全控制以帮助保护他们的青少年</title>
       <link>https://alternativeto.net/news/2025/9/parents-can-now-enable-safety-controls-in-chatgpt-to-help-protect-their-teens/</link>
@@ -32,7 +102,7 @@
       <link>https://alternativeto.net/news/2025/9/brave-launches-ask-brave-ai-chat-search-with-privacy-and-multimedia-answers/</link>
       <description><![CDATA[  Brave 已引入 ask Brave Brave ，这是一个直接从勇敢的搜索所有浏览器上的homepage。用户可以通过单击搜索框旁边的“询问”按钮，切换到结果中的“询问”选项卡，或添加“ ??”来访问它。当将勇敢的搜索设置为默认引擎时进行查询。不需要特殊模式，因为默认情况下启用了该功能。
 Ask Brave complements the existing AI Answers tool, but instead of short summaries, it provides longer, report-style outputs, pretty similar to what you can get来自其他AI助手，例如 perplexity 。这些响应以
-与其他AI公司的类似解决方案不同，该公司强调，勇敢地提出优先级隐私，并在不活动24小时后删除了聊天，删除了聊天，并且与IP地址没有链接。它还突出了上下文丰富和交互式响应。
+与其他AI公司的类似解决方案不同，该公司强调，勇敢地提出优先级隐私，并在不活动24小时后进行了聊天，删除，并且与IP地址没有链接。它还突出了上下文丰富和交互式响应。
   href =“ https://alternativeto.net/software/brave/about/”&gt;有关勇敢的更多信息]]></description>
       <guid>https://alternativeto.net/news/2025/9/brave-launches-ask-brave-ai-chat-search-with-privacy-and-multimedia-answers/</guid>
       <pubDate>Mon, 29 Sep 2025 23:53:08 GMT</pubDate>
@@ -85,72 +155,6 @@ Ask Brave complements the existing AI Answers tool, but instead of short summari
   href =“ https://alternativeto.net/software/joplin/about/”&gt;更多有关Joplin ＆nbsp; |＆nbsp; |]]></description>
       <guid>https://alternativeto.net/news/2025/9/joplin-3-4-brings-mobile-rich-text-editor-enhanced-publishing-and-smaller-desktop-app/</guid>
       <pubDate>Mon, 29 Sep 2025 12:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fish 4.1添加了用于复合命令，瞬态提示等的支撑语法等等</title>
-      <link>https://alternativeto.net/news/2025/9/fish-4-1-adds-brace-syntax-for-compound-commands-transient-prompts-and-much-more/</link>
-      <description><![CDATA[  fish  4.1作为此用户友好型命令线外壳的主要更新，用于Linux和macos，标记了近1400个compits 自之前的版本以来。该版本引入了对用牙套编写的复合命令的支持，与其他流行的壳的语法约定保持一致。此外，现在支持瞬态提示，提供更灵活，动态的壳提示体验。
-在这些变化上构建，标签完成行为已得到改善。现在，完成结果已被截断为通用目录路径，为用户提供更清晰，更相关的建议。对于那些使用自动安装构建的人，例如 cargo install 创建的构建，Fish现在确保不再包括无关的文件，简化安装和减少不必要的文件。
-消息定位系统也进行了大修。基于GetText的系统现在提供了自动安装构建中的扩展翻译，支持更多语言并改善可访问性。除了这些主要更新之外，4.1版本还包含折旧，特征去除，脚本和交互式模式改进，更新的绑定，额外的完成增强和更好的终端支持，如  externativeto＆raquo＆raquo＆raquo;         href =“ https://alternativeto.net/software/software/fish/about/”&gt;有关鱼类的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/9/fish-4-1-adds-brace-syntax-for-compound-commands-transient-prompts-and-much-more/</guid>
-      <pubDate>Mon, 29 Sep 2025 11:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mozilla介绍了由Google Lens在Firefox桌面上提供支持的视觉搜索</title>
-      <link>https://alternativeto.net/news/2025/9/mozilla-introduces-visual-search-powered-by-google-lens-on-firefox-desktop/</link>
-      <description><![CDATA[ Mozilla正在介绍视觉搜索，由 google lens  in 
-通过右键单击浏览器中的任何图像，用户可以立即访问强大的选项，以查找类似的产品，地点或对象。同一菜单将使用户复制，翻译或搜索图像中包含的文本，从而对研究，购物和学习有用。集成之后，在右键单击上下文菜单中查找新的“使用Google Lens搜索图像” 输入。
-虽然在接下来的几周内将在全球范围内引入此更新，但目前仅限于Firefox的桌面版本。为了可见此功能， Google 必须设置为浏览器的默认搜索引擎。
- 更多有关Mozilla Firefox ＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/mozilla-introduces-visual-search-powered-by-google-lens-on-firefox-desktop/</guid>
-      <pubDate>Mon, 29 Sep 2025 09:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>YouTube Premium为更多设备带来了总部音频，更快的播放速度和关键时刻</title>
-      <link>https://alternativeto.net/news/2025/9/youtube-premium-brings-hq-audio-faster-playback-speeds-and-key-moments-to-more-devices/</link>
-      <description><![CDATA[ Google已扩展了最新的 YouTube Premium 功能功能范围更广泛。最近的推出引入了Android和iOS的增强音频质量，使订户可以访问以前限于 YouTube音乐应用程序和YouTube Mains in YouTube Music阶段。这些音频增强功能旨在提升跨受支持平台的移动聆听。
-此外，用户现在可以在Android，iOS和Web上以0.05的增量来微调视频速度高达4倍。以前，此功能仅在移动设备上可用，但现在也使桌面上的观众受益。升级还具有直接跳到关键视频时刻的能力。尽管此导航功能已经可以在Android，iOS和Web上访问，但现在已在智能电视和游戏机上为YouTube Main启动，从而可以更快地访问较大屏幕上有趣的视频段。&gt; 
-关于短裤，iOS用户现在根据查看历史记录自动下载最喜欢的短形式视频，这是Android上已经可用的功能。此外，iOS上的短裤在iOS上得到了完全支持，让观众在浏览其他内容时保持短裤的播放。这些增强功能为YouTube Premium跨多个设备提供了更丰富，更快，更便捷的体验。
-  href =“ https://alternativeto.net/software/youtube/about/”&gt;有关YouTube的更多信息 |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/youtube-premium-brings-hq-audio-faster-playback-speeds-and-key-moments-to-more-devices/</guid>
-      <pubDate>Mon, 29 Sep 2025 07:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>POP！_OS 24.04 LTS BETA启动宇宙桌面和新的本机应用</title>
-      <link>https://alternativeto.net/news/2025/9/pop-_os-24-04-lts-beta-launches-cosmic-desktop-and-new-native-apps/</link>
-      <description><![CDATA[  pop！桌面环境为默认环境，并标记了从 gnome  shell。在 X11 应用程序继续通过Xwayland运行。在这种环境的基本环境中，是libcosic工具包，基于 iceed 和 and href =“使用 gtk ，桌面提供了一个熟悉的布局！一个新的设置应用程序提供了系统配置选项，自定义是一个中心功能：可以移动或隐藏面板，码头和小程序，并且可以调整字体，间距和图标等接口元素。工作也开始在专用图标集中，主题允许用户模仿 ubuntu   macos 或 Beta引入了宇宙本地应用程序，包括文件（带有预览和网络安装座），一个GPU渲染的终端，播放器（带有VAAPI，VULKAN和字幕支持）以及编辑（带有GIT Integration和VIM绑定）。软件安装通过宇宙商店进行处理，该商店结合了Ubuntu，Pop！_OS和Flatpak存储库。 POP！_OS 24.04运行Linux内核6.16，MESA 25.1.5和NVIDIA 580驱动程序，以及用于Intel/AMD和Nvidia Systems的测试构建。
-  href =“ https://alternativeto.net/software/pop-_os/about/”&gt;更多有关POP！_OS ＆nbsp; | |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/pop-_os-24-04-lts-beta-launches-cosmic-desktop-and-new-native-apps/</guid>
-      <pubDate>Sun, 28 Sep 2025 13:09:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta启动了“共鸣”，这是AI生成内容的新的短视频供稿</title>
-      <link>https://alternativeto.net/news/2025/9/meta-launches-vibes--a-new-short-video-feed-of-ai-generated-content-nobody-asked-for/</link>
-      <description><![CDATA[您是否曾经想过滚动浏览AI生成的视频斜率的整个供稿会有多么令人兴奋？如果是这样，您很幸运，因为这正是Meta的发布，“ vibes”   href =“ https://feed.alternativeto.net/software/meta-ai/about/”&gt; meta ai  app。 Vibes基本上是一种新的视频供稿，例如 tiktok 或
-接口镜像卷轴，具有喜欢的选项，混音，评论，共享或评分视频为“好”或“坏”。虽然尚未直接搜索创作者，但可以从发布的视频中打开它们的配置文件。剪辑可以在振动中共享，通过直接消息发送，也可以交叉播放到Instagram和 Facebook Stories 和卷轴。对于早期版本，Meta与 midjourney 和
-公司表示，随着人们观看和创建视频的观看和创建视频，该供稿将越来越个性化，尽管早期接待基本上是负面的，用户将发布方式嘲笑为“ AI Slop”，并质疑此功能真正是为了谁或根本存在。这只会增加对元AI应用程序作为一种弗兰肯斯坦社交平台的更广泛的负面感知，之后揭示了个人数据，例如家庭地址，ID，银行信息甚至犯罪同盟，您可以命名。
- 更多有关meta ai  |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/meta-launches-vibes--a-new-short-video-feed-of-ai-generated-content-nobody-asked-for/</guid>
-      <pubDate>Sun, 28 Sep 2025 12:36:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ollama启动Web搜索API，以提高AI模型的准确性并降低幻觉</title>
-      <link>https://alternativeto.net/news/2025/9/ollama-launches-web-search-api-to-boost-ai-model-accuracy-and-reduce-hallucinations/</link>
-      <description><![CDATA[  ollama 引入了新的Web搜索API，扩展了平台的功能，以提供为开放AI模型提供实时信息。此版本允许模型（包括 gpt-oss ）访问当前的网络数据，支持长期运行的研究任务并帮助减少幻觉，同时提高依靠最新内容的用户的准确性。
-在主要API之外，Web搜索功能可作为REST端点可用，并通过Ollama的Python和JavaScript库包括高级集成。开发人员还可以通过使用Python MCP服务器来激活任何MCP客户端中的Web搜索，从而使工作流程在技术堆栈中更加简单。
-为了开始，用户可以简单地从其Ollama帐户中生成API密钥。所有标准帐户免费包含Web搜索，而那些需要更高速率限制的帐户可以升级其Ollama订阅以扩展访问。
- 有关Ollama ＆nbsp; |＆nbsp; &lt;A href =“ https：//alternativeto.net/software/ollama/”]]></description>
-      <guid>https://alternativeto.net/news/2025/9/ollama-launches-web-search-api-to-boost-ai-model-accuracy-and-reduce-hallucinations/</guid>
-      <pubDate>Sat, 27 Sep 2025 11:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>META在英国启动了Facebook和Instagram的无广告付费订阅</title>
-      <link>https://alternativeto.net/news/2025/9/meta-launches-ad-free-paid-subscription-for-facebook-and-instagram-in-the-uk/</link>
-      <description><![CDATA[Meta has introduced an ad-free subscription for Facebook and Instagram users in the United Kingdom, offering a在没有广告的无付费版本之间进行选择。该更改遵循指南来自英国信息专员办公室，可为用户提供广告的该订阅每月在网络上的价格为2.99英镑，iOS和Android上的订阅价格为3.99英镑，反映了Apple和Google费用，根据平台，每个额外的帐户都链接到Meta帐户中心，并在平台上增加了2或3英镑。一项订阅涵盖了Facebook和Instagram，在同一帐户系统下进行管理。
-选择不订阅的用户仍然会看到广告，但可以访问控件以管理首选项并了解某些广告的出现。
- 在交流中查看文章href =“ https://alternativeto.net/software/instagram/about/”&gt;更多有关Instagram ＆nbsp; | |＆nbsp; &lt;A href =“ https：//alternatativeto.net/softo.net/software/software/software/software/software/software/instagram/]]></description>
-      <guid>https://alternativeto.net/news/2025/9/meta-launches-ad-free-paid-subscription-for-facebook-and-instagram-in-the-uk/</guid>
-      <pubDate>Sat, 27 Sep 2025 05:12:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
