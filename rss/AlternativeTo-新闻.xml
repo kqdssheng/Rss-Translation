@@ -4,7 +4,57 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Wed, 01 Oct 2025 01:41:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 12:40:29 GMT</lastBuildDate>
+    <item>
+      <title>Kagi News作为全球每日新闻评论推出，并通过私人社区策划来源</title>
+      <link>https://alternativeto.net/news/2025/10/kagi-news-launches-as-a-global-daily-press-review-with-private-community-curated-sources/</link>
+      <description><![CDATA[ kagi引入了 kagi News ，旨在汇总全球新闻的每日新闻评论，同时又可以维持用户隐私和开放式社区社区策划的来源。每天，Kagi News都会读取成千上万的RSS供稿，由社区从不同的角度策划，并将信息提炼成单个AI生成的简报，并清楚地引用了所有来源。。
+遵循其社论方法，Kagi News不会基于用户的偏好个性化内容，而是浮出水面的广泛观点以对抗信息孤岛。新闻简报每天在UTC左右发布一次，为新闻消费提供了明确的终点。读者可以在大约五分钟内保持知情，没有无尽的滚动或注意力陷阱。 
+ Kagi News不会跟踪，个人资料或货币化其用户的阅读习惯。源策划通过a  public github存储库来透明地管理。尽管Kagi News仅依靠公开可用的RSS提要并避免刮擦网站，但它还以其原始语言呈现故事，并用 Kagi Translate 该服务现已在网络，iOS和Android上可用。
+ 在交流中的文章href =“ https://alternativeto.net/software/kagi-news/about/”&gt;有关Kagi News的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/10/kagi-news-launches-as-a-global-daily-press-review-with-private-community-curated-sources/</guid>
+      <pubDate>Wed, 01 Oct 2025 11:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google将Gemini AI带上Android和iOS上的行驶，以便更轻松的文件摘要</title>
+      <link>https://alternativeto.net/news/2025/10/google-is-bringing-gemini-ai-to-drive-on-android-and-ios-for-easier-file-summarization/</link>
+      <description><![CDATA[ Google已扩展 gemini ai 整合到其 早期版本。此更新将协作功能直接带给移动用户，使他们访问双子座的对话工具和生产力提高，而无需依赖桌面版本。
+通过此集成，Drive移动用户现在可以向Gemini提出有关其文件和文件夹的问题，并接收对话响应，就像在Drive的Web版本上一样。这些新功能意味着用户可以在手机或平板电脑上以更自然的方式与文档内容进行交互。
+构建这些增强功能，驱动器移动应用程序中的Gemini可以总结长文档甚至整个文件夹，从而帮助用户快速提取要点。此外，它允许从多个文件中综合信息进行复杂的主题讨论并获取有关项目的快速事实，而无需单独打开每个文件。
+ Google Drive Mobile中更新的Gemini功能于2025年9月22日开始推出。Google指出，在接下来的几周内，该集成将逐渐出现在用户，因此某些用户可能不会立即看到更改。
+  href =“ https://alternativeto.net/software/google-drive/about/”&gt;更多关于Google Drive  |]]></description>
+      <guid>https://alternativeto.net/news/2025/10/google-is-bringing-gemini-ai-to-drive-on-android-and-ios-for-easier-file-summarization/</guid>
+      <pubDate>Wed, 01 Oct 2025 09:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>剪贴板经理Coperq 12改善了Wayland上的全球快捷方式，添加了黑色主题等等</title>
+      <link>https://alternativeto.net/news/2025/9/clipboard-manager-copyq-12-improves-global-shortcuts-on-wayland-adds-black-theme-and-more/</link>
+      <description><![CDATA[  copyq  12.0到达该开源的最新版本，即交叉平台剪贴板管理器。  Wayland 现在受益于通过Portal注册的全局快捷方式，改善快捷方式可靠性，从而提高了快捷方式可靠性。此版本还带来了一个新的黑色主题，增加了现有的浅色和深色主题，并允许用户按名称设置主题文件颜色。
+此外，更新引入了更多对话框窗口控制：新属性让对话框保持在其他窗口的顶部或用作模态，阻止其他应用程序交互直至关闭。笔记中对图标字体符号的支持通过 application/x-copyq-item-icon 格式。。
+这些更改是通过后端更新启用的：CopyQ现在默认使用QT 6库，同时放弃对
+  href =“ https://alternativeto.net/software/copyq/about/”&gt;有关CopyQ ＆nbsp; |＆nbsp; &lt;a href =“ https：//alternativeto.net/software/software/copyq/”]]></description>
+      <guid>https://alternativeto.net/news/2025/9/clipboard-manager-copyq-12-improves-global-shortcuts-on-wayland-adds-black-theme-and-more/</guid>
+      <pubDate>Wed, 01 Oct 2025 07:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>朱尔斯（Jules）启动内存以保存用户的偏好和约定</title>
+      <link>https://alternativeto.net/news/2025/10/jules-launches-memory-to-save-user-preferences-and-conventions/</link>
+      <description><![CDATA[  jules 现在具有内存，使其能够从用户偏好和项目约定中学习整个任务。该功能使Jules可以在同一存储库中为相似的将来的任务引用保存的交互，从而提高了任务准确性。
+用户保留在控制中，可以在存储库设置中编辑或禁用内存功能。
+ 更多有关Jules ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/10/jules-launches-memory-to-save-user-preferences-and-conventions/</guid>
+      <pubDate>Wed, 01 Oct 2025 07:30:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Opera的新的AI代理浏览器Neon现在正在使用订阅模型推出</title>
+      <link>https://alternativeto.net/news/2025/10/opera-s-new-ai-agentic-browser-neon-is-now-rolling-out-with-a-subscription-model/</link>
+      <description><![CDATA[  opera neon ，新的实验性AI代理浏览器来自 5月2025年5月2025年预见，现在是由公众公开的产品。访问以 NEON创始人计划，并以每月$ 19.99的邀请推出邀请。该新产品旨在使自己与Opera的其他具有高级AI功能的产品不同，并加入其他AI驱动的浏览器，例如 dia browser ，甚至 href =“ https://alternativeto.net/news/2025/9/google-launches-larges--chrome-update-with-with-with-gemini-ai--------------------er-new-security-tools/&gt;最近宣布 castic 
+霓虹灯的主要功能，任务，提供了独立的工作区，可在网站，AI聊天，文档和搜索之间保留上下文。在任务中，用户可以与霓虹灯聊天聊天聊天，或者使用 neon do 来执行诸如直接在浏览器中打开页面，预订或购物之类的操作。 First previewed as Browser Operator, Neon Do has been refined for clarity and speed, runs locally without cloud authentication or password sharing,并实时显示动作，并以暂停或控制控制的选项。
+ Opera Neon还引入了卡，模块化工具，可以指导AI输出以诸如产品比较或会议笔记之类的任务。用户可以自行构建自己的，从社区版本中汲取灵感，并将它们组合起来以获取自定义结果。  Make 工具可以通过源文件和可共享的链接来创建网站，游戏，视频，报告等，并通过Opera的欧洲服务器上的虚拟机脱机。还包括核心浏览器功能，例如广告阻塞，VPN，书签和侧边栏集成。
+ 更多关于Opera Neon ＆nbsp; | |＆nbsp; &lt;A href =“ https：//alterntertiveto.net/software/software/software/opera-opera-pera---neon-1/ neon Anneive]]></description>
+      <guid>https://alternativeto.net/news/2025/10/opera-s-new-ai-agentic-browser-neon-is-now-rolling-out-with-a-subscription-model/</guid>
+      <pubDate>Wed, 01 Oct 2025 00:28:25 GMT</pubDate>
+    </item>
     <item>
       <title>F-Droid警告Google的侧层规则将杀死该项目和几个开源应用程序</title>
       <link>https://alternativeto.net/news/2025/9/f-droid-warns-google-s-sideloading-rules-will-kill-the-project-and-several-open-source-apps/</link>
@@ -102,59 +152,10 @@
       <link>https://alternativeto.net/news/2025/9/brave-launches-ask-brave-ai-chat-search-with-privacy-and-multimedia-answers/</link>
       <description><![CDATA[  Brave 已引入 ask Brave Brave ，这是一个直接从勇敢的搜索所有浏览器上的homepage。用户可以通过单击搜索框旁边的“询问”按钮，切换到结果中的“询问”选项卡，或添加“ ??”来访问它。当将勇敢的搜索设置为默认引擎时进行查询。不需要特殊模式，因为默认情况下启用了该功能。
 Ask Brave complements the existing AI Answers tool, but instead of short summaries, it provides longer, report-style outputs, pretty similar to what you can get来自其他AI助手，例如 perplexity 。这些响应以
-与其他AI公司的类似解决方案不同，该公司强调，勇敢地提出优先级隐私，并在不活动24小时后进行了聊天，删除，并且与IP地址没有链接。它还突出了上下文丰富和交互式响应。
+与其他AI公司的类似解决方案不同，该公司强调，勇敢地提出优先级隐私，并在不活动24小时后删除了聊天，删除了聊天，并且与IP地址没有链接。它还突出了上下文丰富和交互式响应。
   href =“ https://alternativeto.net/software/brave/about/”&gt;有关勇敢的更多信息]]></description>
       <guid>https://alternativeto.net/news/2025/9/brave-launches-ask-brave-ai-chat-search-with-privacy-and-multimedia-answers/</guid>
       <pubDate>Mon, 29 Sep 2025 23:53:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>拟人启动Claude Sonnet 4.5，迄今为止其最先进的编码模型</title>
-      <link>https://alternativeto.net/news/2025/9/anthropic-launches-claude-sonnet-4-5-its-most-advanced-coding-model-so-far/</link>
-      <description><![CDATA[拟人化已启动 Claude sonnet 4.5 ，它的编码和代理开发的最先进模型，不到两个月href =“ https://alternativeto.net/news/2025/8/anththropic-releases-claude-opus-4-1-with-coding-coding-reasoning-reasoning-and-and-debugging-improvements/”&gt;在释放Claude Opus 4.1 后。该公司将该新模型定位在当前编码基准的顶部，并强调可靠性提高，形容它能够支持原型以外的应用程序。
-在开发人员的基准上，SONNET 4.5在经过验证的SWE板凳上得分82％，迄今为止报告的最高率和50％的终端板凳，超过 openai gpt-5  href =“ https://alternativeto.net/news/2025/3/google-unveils-gemini-2-5-pro-a-a-leap-in-ai-for-complex-complex-rouncon-tasks-rouncon-tasks-and-coding-ibility/”&gt; google googe gemini 2.5 pro 。在OSWORLD上，它的达到61.4％，从42.2％，。
-在发行版中，拟人化正在推出 claude代理SDK  href =“ https://feed.alternativeto.net/software/claude-code/about/”&gt; claude代码构建自定义代理，并引入“想象与Claude” href =“ https://alternativeto.net/news/2025/4/claude-launches-the-max-plan-for-most-most-active-users/”&gt; Max Max订户 证明没有预设代码的实时软件生成。 Claude SONNET 4.5可通过Claude API在同一定价上获得，并且还添加到GitHub Copilot for business tiers, with Visual Studio Code users able to connect using their own API键。
-  href =“ https://alternativeto.net/software/claude/about/”&gt;更多有关Claude ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/anthropic-launches-claude-sonnet-4-5-its-most-advanced-coding-model-so-far/</guid>
-      <pubDate>Mon, 29 Sep 2025 23:08:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 6.17已发行了Intel/AMD笔记本电脑的收益，存储促进和较低的延迟</title>
-      <link>https://alternativeto.net/news/2025/9/linux-6-17-has-been-released-with-intel-amd-laptop-gains-storage-boosts-and-lower-latency/</link>
-      <description><![CDATA[  linux内核6.17 官方版本引入了一系列广泛的硬件和核心系统改进。该更新为英特尔“ Panther Lake”笔记本电脑的开箱即用XE3图形支持，并通过IPU7驱动程序为“ Lunar Lake”型号进行了适当的网络摄像机集成。 AMD笔记本电脑用户受益于SmartMux，从而可以自动图形切换，以提高功率效率。统一的攻击向量控制现在使管理CPU漏洞（例如Specter和Meltdown）通过合并缓解选项更加容易，而新的ApparMor规则将控制扩展到AF_UNIX套接字访问，现在在ARM64系统上支持实时补丁，并且ARM ARM获得分支机构Record Buffer Extension（BRBE）支持。
-解决网络和存储，添加DualPI2拥塞控制可减少游戏，流媒体和实时工作负载的延迟。 SSD寿命通过对NVME和SCSI驱动器的有效零写支持来增强，而Ext4文件系统获得可扩展的块分配，以获得更好的I/O性能。新的调度策略会删除单层处理器支持，标准化的多核操作和代理执行，有助于减轻桌面应用程序中的优先倒置。其他网络更改包括使用TCP_MAXSEG选项和IPv6的每个接口转发控件的多路径TCP改进。
-硬件兼容性通过支持联想Legion Go Handhelds，Apple M1/M2 Mac，具有适当的重新启动，ASUS Zenbook A14 Snapdragon X1 Plus/Elite，Raspberry Pi 5的RP1 I/O CHIP和Flydigi Apex 5 Contarter，可以进一步扩展。其他改进包括Corsair HX1200I PSU监控，F13 -F24键的映射以及跨精选笔记本电脑的新高清音频驱动程序。 linux 6.17与 ubuntu 24.04 lts 在2026年以前，       有关Linux内核的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/9/linux-6-17-has-been-released-with-intel-amd-laptop-gains-storage-boosts-and-lower-latency/</guid>
-      <pubDate>Mon, 29 Sep 2025 21:11:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>NextCloud Hub 25 Autumn版本带来新的UI，线程演讲，办公室增强功能等等</title>
-      <link>https://alternativeto.net/news/2025/9/nextcloud-hub-25-autumn-release-brings-new-ui-threaded-talk-office-enhancements-and-more/</link>
-      <description><![CDATA[下一个大版本的 NextCloud Hub 25 Autumn 已发行了新的UI设计，具有新的UI设计，具有更新的图标，触觉纽扣，新背景和简化的设置。在核心应用程序中的示例内容和11个新的文档，电子表格和演示文稿中，Admins也可以在组织范围内管理，也可以改进入门。
-  NextCloud Office 添加了彩色图标，上下文工具栏和标签导航，以进行清晰的编辑，而 nextCloud Assistans 扩展其私密性 -  first AI工具，具有转录，文档汇总，上下文搜索，基于代理的任务，例如路由计划和文档计划。&gt; &gt; 
-性能更新包括带有块上传，iOS上传速度加倍的上传速度更快的上传，在macOS和Windows上优化的虚拟文件系统以及更少的数据库查询。移动应用程序获得更快的文件处理，对iOS 26液体玻璃的支持，多任务处理，改进的导航以及iOS的媒体变焦，以及新的Android设计更新。  NextCloud Collectives 和Whiteboard，具有NextCloud Flow的自动化，并与 jira ， Overleaf 将版本删除
- 有关NextCloud Hub ＆nbsp; | |＆nbsp; &lt;A href =“]]></description>
-      <guid>https://alternativeto.net/news/2025/9/nextcloud-hub-25-autumn-release-brings-new-ui-threaded-talk-office-enhancements-and-more/</guid>
-      <pubDate>Mon, 29 Sep 2025 17:49:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kitty 0.43添加了会话管理支持，多个光标的新协议等等</title>
-      <link>https://alternativeto.net/news/2025/9/kitty-0-43-adds-session-management-support-new-protocol-for-multiple-cursors-and-more/</link>
-      <description><![CDATA[基于GPU的终端模拟器 kitty  0.43为需要灵活工作流的用户提供了主要的增强功能。该更新增加了为在会话之间创建和切换的支持，从而更容易定义，管理和导航不同的项目。除此之外，用户现在可以利用终端卷轴中的可配置 scrollbar ，并从新协议中受益，从而在终端中启用多个光标。
-在这些接口升级上构建，现在支持闪烁的文本。专用的 Cursor_trail_color 设置允许用户独立量身定制光标跟踪的颜色。 TAB栏现在支持用户定义 python 用于渲染选项卡标题的功能，扩展自定义选项。此外，可用于在煮熟的模式下将光标移动到上一行，以改进输入处理。
-当Macos用户获得视觉选项时，例如 background_opacity 少于一个，并且使用 terminal  default&gt; cmd cm cmd cmmd cmmd ofer of cm cmd cmmd ofer of cm cmd cmmd compor，背景不透明度渲染以及该平台特定的各种错误修复。在运行 有关Kitty终端的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/9/kitty-0-43-adds-session-management-support-new-protocol-for-multiple-cursors-and-more/</guid>
-      <pubDate>Mon, 29 Sep 2025 14:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Joplin 3.4带来移动富文本编辑器，增强出版和较小的桌面应用程序</title>
-      <link>https://alternativeto.net/news/2025/9/joplin-3-4-brings-mobile-rich-text-editor-enhanced-publishing-and-smaller-desktop-app/</link>
-      <description><![CDATA[  joplin  3.4用于移动和桌面，为此开源的注释应用程序提供了实质性更新。现在，移动应用程序具有Beta中的丰富文本编辑器，允许用户直接在注释中查看格式，数学表达式和图像。现在，也可以使用“属性”菜单直接从移动应用程序发布笔记。此外，移动用户可以查看和还原笔记的先前版本，增强恢复选项。
-遵循这些编辑器增强功能，重新设计了移动应用程序的标签对话框，以简化添加，删除和创建新标签的过程。 Android用户特别受益于语音打字功能中的静音检测以及新的自定义词汇表设置。通过在“新音符”菜单中添加“扫描笔记本”操作，进一步改善了移动音符的创建。
-转向桌面平台，用户可以获得对 Markdown 具有新设置的编辑器，可以直接在编辑视图中呈现标题，列表和图像。桌面应用程序也已进行了优化，可将其尺寸降低约33％，以便更快地下载和减少存储使用。
-终端用户将注意到引入文件夹扩展，并通过 z 键，以及用于发布，未出版和共享注释的新命令。 Joplin 3.4还包括所有平台上的几个错误修复，可提高稳定性和可用性。
-  href =“ https://alternativeto.net/software/joplin/about/”&gt;更多有关Joplin ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/joplin-3-4-brings-mobile-rich-text-editor-enhanced-publishing-and-smaller-desktop-app/</guid>
-      <pubDate>Mon, 29 Sep 2025 12:40:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
