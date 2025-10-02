@@ -4,7 +4,76 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Wed, 01 Oct 2025 12:40:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 01:22:16 GMT</lastBuildDate>
+    <item>
+      <title>重新启动连接器，以便与Google，github，slack，inteion等轻松集成</title>
+      <link>https://alternativeto.net/news/2025/10/replit-launches-connectors-for-easy-integration-with-google-github-slack-notion-and-more/</link>
+      <description><![CDATA[  REPLAIT 已引入连接器，该功能使用户可以构建应用程序和自动化，并直接访问诸如&lt; google drive ， salesforce ， slack ， Discord 。用户没有为每个新应用程序或队友管理凭据，而是每次服务一次身份验证，并在多个项目中重复使用该连接。这删除了先前创建和维护集成所需的重复设置。
+在发布时，支持了20多个平台，并计划了其他平台。每个连接器均建立在官方的SDK和平台约定的基础上，以确保可靠和本地的集成。  oauth基于服务不需要凭据管理，并且API键流可以更快，更安全。&gt;
+连接器加快应用程序开发，通过集中设置来提高安全性，并允许用户使用官方API构建自定义工作流程。企业客户还获得集中的团队管理，基于角色的权限，治理，审核日志以及对自定义OAUTH客户的支持。示例用例包括Google表，Atlassian报告，HubSpot监视或跨不和谐，松弛和概念同步信息的机器人的自动化。
+ 有关REPLIT ＆nbsp; |＆nbsp; &lt;A href =“ https：//alternativeto.net/software/software/repl-it/”]]></description>
+      <guid>https://alternativeto.net/news/2025/10/replit-launches-connectors-for-easy-integration-with-google-github-slack-notion-and-more/</guid>
+      <pubDate>Wed, 01 Oct 2025 21:11:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软已经引入了游戏级别的新变化，价格高达50％</title>
+      <link>https://alternativeto.net/news/2025/10/microsoft-has-introduced-new-changes-to-its-game-pass-tiers-and-price-hikes-of-up-to-50-/</link>
+      <description><![CDATA[ Microsoft刚刚宣布了其 Xbox Game Pass  tiers阵容，将其previus core tier tier As  50％的价格上涨，没有年度订阅选项，全年的成本高达360美元，比原来的300美元的Xbox系列console（yep cont yep console yep console yep yep yep yep yep yep yep cont yep yep console yep yep yep yep console 
+所有计划现在都包括 PC Games 和Unlimited 
+同时，Ultimate将扩展到400多场比赛，包括Ubisoft+ Classics发行和EA Play，现在每年都会发行75天。这层还将包括 Fortnite Crew会员资格，该可访问战斗通行证和其他内部收益，并在11月18日开始上涨了近40％。经典。
+View article on AlternativeTo »更多有关Xbox Game Pass ＆nbsp; | |]]></description>
+      <guid>https://alternativeto.net/news/2025/10/microsoft-has-introduced-new-changes-to-its-game-pass-tiers-and-price-hikes-of-up-to-50-/</guid>
+      <pubDate>Wed, 01 Oct 2025 18:50:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Opensuse Leap 16首次亮相Agama安装程序，并丢弃32位支持</title>
+      <link>https://alternativeto.net/news/2025/10/opensuse-leap-16-debuts-agama-installer-and-drops-32-bit-support/</link>
+      <description><![CDATA[  opensuse 已发布了Leap 16，这是一个基于 linux内核6.12 lts 。它首次亮相 agama installer ， Agama Monitor 的远程监视。用户可以选择基本（服务器）， kde plasma 6.4  href =“ https://alternativeto.net/news/2024/2024/12/xfce-4-20-real-with-wayland-wayland-support-hidpi-hidpi-fixes-hidpi-fixes-and-thunar-performance-boost/”&gt; xfce 4.20 
+此版本还通过默认禁用32位（IA32）支持来解决2038时间溢出，尽管可以重新启用旧应用程序，例如旧的 speat  steam  stame 游戏。 LEAP 16现在需要使用X86-64-V2指令集的CPU，限制了2008年后发布的处理器的支持。具有较旧计算机的用户针对滚滚或慢速滚动。
+其他更改包括 selinux 作为默认安全模块， Cockpit 用于系统管理，Myrlyn作为Yast替代品和Sysv Init的删除。 LEAP 16将获得24个月的更新，并计划通过LEAP 16.6。计划。
+  externativeto＆raquo＆raquo＆raquo;  href =“ https://alternativeto.net/software/opensuse/about/”&gt;更多有关OpenSuse ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/10/opensuse-leap-16-debuts-agama-installer-and-drops-32-bit-support/</guid>
+      <pubDate>Wed, 01 Oct 2025 18:05:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Screen Studio已为新客户删除了他们的非订阅许可选项</title>
+      <link>https://alternativeto.net/news/2025/10/screen-studio-has-removed-their-non-subscription-licensing-options-for-new-customers/</link>
+      <description><![CDATA[屏幕录制应用程序的用户屏幕工作室有。。。。
+ 有关该更改的电子邮件仅针对该许可证的所有者，并承认该消息应该更清楚地指出，续订在2027年之后仍有可用。他说，一次性许可的229美元价格不合理，将Tier误认为是较低的收养的错误，而sception sciption却是五分之一的订阅，该公司这次转变吸引了一些用户的批评，他们将这一举动描述为具有误导性的批评，其中一些建议 screen studio 替代方案Sage ，内置于 swift 而不是 cap 或 canvid 。
+ 有关屏幕工作室的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/10/screen-studio-has-removed-their-non-subscription-licensing-options-for-new-customers/</guid>
+      <pubDate>Wed, 01 Oct 2025 16:48:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Openai启动Sora 2与同步的音频视频一代和新的独立iOS应用</title>
+      <link>https://alternativeto.net/news/2025/10/openai-launches-sora-2-with-synchronized-audio-video-generation-and-a-new-standalone-ios-app/</link>
+      <description><![CDATA[ OpenAi已发布 sora 2 ，其视频和音频生成模型的下一个版本，仅10个月才能到达在原始之后。它的主要进步绝对是能够生成与视频保持同步的音频的能力，包括使用多种语言进行对话，使其更接近竞争模型中看到的质量，例如更新还改善了场景如何遵循物理动态，并允许多拍说明保持环境一致。它支持诸如现实，电影和动漫之类的不同视觉样式，并添加了“ cambos”，让用户上传短片段以将自己，朋友或对象的数字版本放入生成的内容中。
+除了更新的型号外，OpenAi启动了一个新的仅邀请独立 sora for ios for ios  sora for ios ，更像一个社交网络for Social for Sopernos for a aimect a ai ai reminis  href =“ https://alternativeto.net/news/2025/9/meta-launches-vibes--a-new-short-video-feed-feed-feed-feed-feed-oai-gener-generated-content-nobody-nobody-asked-for/&gt;最近在Meta Ai的应用程序中看到了最近。新的Sora应用程序使用户可以创建AI视频，重新混合它们，并与客串支持共享。它包括常见的社交功能，例如用户资料和可自定义的提要，以及基于自然语言的建议，良好的核实，以帮助防止过度使用，青少年使用限制以及由Chatgpt提供支持的父母控制。 Sora 2可以在网络上找到，专业订户可以访问Sora 2 Pro和Sora 1 Turbo，并计划了API版本。
+ 更多有关Sora ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/10/openai-launches-sora-2-with-synchronized-audio-video-generation-and-a-new-standalone-ios-app/</guid>
+      <pubDate>Wed, 01 Oct 2025 14:16:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>图像共享网站Imgur现在在英国被阻止</title>
+      <link>https://alternativeto.net/news/2025/10/image-sharing-site-imgur-is-now-blocked-in-the-united-kingdom/</link>
+      <description><![CDATA[  imgur 将完全阻止英国用户的访问，从2025年9月30日开始。这一主要政策变化意味着英国用户将无法登录，查看，查看内容，内容或上传图像。嵌入在第三方网站上的IMGUR内容也不会向英国的用户显示。
+随着这种限制生效，英国试图到达网站的人会看到一条消息，说明“您所在地区不可用的内容”。法律背景与英国信息专员办公室发出的警告有关。 ICO标志着对Imgur的母公司Medialab AI的可能罚款，并引用了对服务处理儿童数据，年龄验证和隐私保障的担忧。
+，由于IMGUR是最大的全球图像共享平台，因此访问的丢失将影响广泛的用户群，并破坏依赖其嵌入的网站。目前，英国用户的唯一解决方法是使用虚拟专用网络（VPN），并通过非UK IP地址进行连接。
+ 在替代文章上查看文章href =“ https://alternativeto.net/software/imgur/about/”&gt;更多有关Imgur ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/10/image-sharing-site-imgur-is-now-blocked-in-the-united-kingdom/</guid>
+      <pubDate>Wed, 01 Oct 2025 14:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>光标1.7添加了及时的自动完成，代理钩，团队规则，可共享的深链接等等</title>
+      <link>https://alternativeto.net/news/2025/10/cursor-1-7-adds-prompt-autocomplete-agent-hooks-team-rules-shareable-deeplinks-and-more/</link>
+      <description><![CDATA[  Cursor  1.7 1.7向其AI-Power代码编辑器介绍了几种生产力增强。用户编写提示现在根据编辑器的最新变化而受益于自动完成建议。使用选项卡接受这些建议还可以快速附加相关文件，简化工作流程。
+构建自动化功能，新挂钩功能使用户可以使用自定义脚本观察，控制和扩展代理循环。这允许对代理活动的实时审核，阻止特定命令的能力或从上下文中进行敏感信息的重新进行。尽管挂钩目前正在Beta中，但它们为技术用户打开了高级定制选项。
+对于团队，该更新直接从仪表板上直接从所有项目中的全局规则进行了支持。这些规则与Bugbot集成在一起，以维持跨存储库的行为一致性。团队还受益于为可重复使用的提示，帮助文档和资源共享的可共享链接的能力，并在Beta中使用此功能。
+遵循这些核心更改，用户现在可以直接从Menubar直接检查光标代理状态。代理还扩展了其功能，可以从工作区中读取图像文件，以将它们包括在上下文中，超越了先前支持的粘贴图像。
+ 在交流中的文章href =“ https://alternativeto.net/software/cursor/about/”&gt;更多关于Cursor ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/10/cursor-1-7-adds-prompt-autocomplete-agent-hooks-team-rules-shareable-deeplinks-and-more/</guid>
+      <pubDate>Wed, 01 Oct 2025 12:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>Kagi News作为全球每日新闻评论推出，并通过私人社区策划来源</title>
       <link>https://alternativeto.net/news/2025/10/kagi-news-launches-as-a-global-daily-press-review-with-private-community-curated-sources/</link>
@@ -30,7 +99,7 @@
       <title>剪贴板经理Coperq 12改善了Wayland上的全球快捷方式，添加了黑色主题等等</title>
       <link>https://alternativeto.net/news/2025/9/clipboard-manager-copyq-12-improves-global-shortcuts-on-wayland-adds-black-theme-and-more/</link>
       <description><![CDATA[  copyq  12.0到达该开源的最新版本，即交叉平台剪贴板管理器。  Wayland 现在受益于通过Portal注册的全局快捷方式，改善快捷方式可靠性，从而提高了快捷方式可靠性。此版本还带来了一个新的黑色主题，增加了现有的浅色和深色主题，并允许用户按名称设置主题文件颜色。
-此外，更新引入了更多对话框窗口控制：新属性让对话框保持在其他窗口的顶部或用作模态，阻止其他应用程序交互直至关闭。笔记中对图标字体符号的支持通过 application/x-copyq-item-icon 格式。。
+此外，更新引入了更多对话框窗口控制：新属性让对话框保持在其他窗口的顶部或用作模态，阻止其他应用程序交互直到关闭。笔记中对图标字体符号的支持通过 application/x-copyq-item-icon 格式。。
 这些更改是通过后端更新启用的：CopyQ现在默认使用QT 6库，同时放弃对
   href =“ https://alternativeto.net/software/copyq/about/”&gt;有关CopyQ ＆nbsp; |＆nbsp; &lt;a href =“ https：//alternativeto.net/software/software/copyq/”]]></description>
       <guid>https://alternativeto.net/news/2025/9/clipboard-manager-copyq-12-improves-global-shortcuts-on-wayland-adds-black-theme-and-more/</guid>
@@ -48,7 +117,7 @@
     <item>
       <title>Opera的新的AI代理浏览器Neon现在正在使用订阅模型推出</title>
       <link>https://alternativeto.net/news/2025/10/opera-s-new-ai-agentic-browser-neon-is-now-rolling-out-with-a-subscription-model/</link>
-      <description><![CDATA[  opera neon ，新的实验性AI代理浏览器来自 5月2025年5月2025年预见，现在是由公众公开的产品。访问以 NEON创始人计划，并以每月$ 19.99的邀请推出邀请。该新产品旨在使自己与Opera的其他具有高级AI功能的产品不同，并加入其他AI驱动的浏览器，例如 dia browser ，甚至 href =“ https://alternativeto.net/news/2025/9/google-launches-larges--chrome-update-with-with-with-gemini-ai--------------------er-new-security-tools/&gt;最近宣布 castic 
+      <description><![CDATA[  opera neon ，新的实验性AI代理浏览器，来自 5月2025年5月2025年预见，现在是由公众公开的产品。访问以 NEON创始人计划，并以每月$ 19.99的邀请推出邀请。该新产品旨在使自己与Opera的其他具有高级AI功能的产品不同，并加入其他AI驱动的浏览器，例如 dia browser ，甚至 href =“ https://alternativeto.net/news/2025/9/google-launches-larges--chrome-update-with-with-with-gemini-ai--------------------er-new-security-tools/&gt;最近宣布 castic 
 霓虹灯的主要功能，任务，提供了独立的工作区，可在网站，AI聊天，文档和搜索之间保留上下文。在任务中，用户可以与霓虹灯聊天聊天聊天，或者使用 neon do 来执行诸如直接在浏览器中打开页面，预订或购物之类的操作。 First previewed as Browser Operator, Neon Do has been refined for clarity and speed, runs locally without cloud authentication or password sharing,并实时显示动作，并以暂停或控制控制的选项。
  Opera Neon还引入了卡，模块化工具，可以指导AI输出以诸如产品比较或会议笔记之类的任务。用户可以自行构建自己的，从社区版本中汲取灵感，并将它们组合起来以获取自定义结果。  Make 工具可以通过源文件和可共享的链接来创建网站，游戏，视频，报告等，并通过Opera的欧洲服务器上的虚拟机脱机。还包括核心浏览器功能，例如广告阻塞，VPN，书签和侧边栏集成。
  更多关于Opera Neon ＆nbsp; | |＆nbsp; &lt;A href =“ https：//alterntertiveto.net/software/software/software/opera-opera-pera---neon-1/ neon Anneive]]></description>
@@ -83,79 +152,6 @@
  更多有关Raindrop.io ＆nbsp; | |]]></description>
       <guid>https://alternativeto.net/news/2025/9/raindrop-io-launches-macos-share-extension-for-seamless-bookmarking/</guid>
       <pubDate>Tue, 30 Sep 2025 15:57:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft将“氛围起作用”带入Word，Excel和副副词，并具有新的代理模式</title>
-      <link>https://alternativeto.net/news/2025/9/microsoft-is-bringing-vibe-working-to-word-excel-and-copilot-with-new-agent-mode/</link>
-      <description><![CDATA[ Microsoft在 excel ， PowerPoint ，建立在已经加速软件开发并现在针对办公室工作流程中的生产率的方法上的构建。&gt; &gt; 
-通过利用 OpenAI的最新型号，Agent Mode策划了多Step任务并提高了生产力。用户可以从一个简单的提示开始，并通过迭代工作流与副驾驶员进行交互，从而指导AI生成和完善办公室工件，例如文档，电子表格和演示文稿。
-专注于Excel和Word，Copilot中的代理模式使用户可以使用Excel Artifact理解来支持复杂的建模，输出评估和持续的结果改进。在Word中，Agent Mode启用“ Vibe写作”，其中Copilot草稿内容，建议增强功能，并要求澄清，将文档创建变成动态对话。
-对于PowerPoint和Word Creation，Copilot中的Office Agent提供了CHAT-FIRST接口，由
-  href =“ https://alternativeto.net/software/microsoft-excel/about/”&gt;有关Microsoft Excel ＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/microsoft-is-bringing-vibe-working-to-word-excel-and-copilot-with-new-agent-mode/</guid>
-      <pubDate>Tue, 30 Sep 2025 15:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>BEAR Web Clipper 2.0介绍了设备上的隐私，自定义标签和iOS支持</title>
-      <link>https://alternativeto.net/news/2025/9/bear-web-clipper-2-0-introduces-on-device-privacy-custom-tags-and-ios-support/</link>
-      <description><![CDATA[  bear  Web Clipper 2.0现在直接在用户的设备上处理所有保存的内容，从而通过避免远程服务器来提高隐私和速度。该升级还允许从受密码保护和本地网页中删除，从而使其对敏感或内部信息更可靠。用户可以在保存时分配标签，除了Mac之外，该快船现在可以在iOS和iPados上用于Safari。
-  href =“ https://alternativeto.net/software/software/bear-writer/about/”&gt;更多有关bear ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/bear-web-clipper-2-0-introduces-on-device-privacy-custom-tags-and-ios-support/</guid>
-      <pubDate>Tue, 30 Sep 2025 15:44:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lovable介绍Cloud＆AI，让用户更轻松地构建全栈，启用AI的应用</title>
-      <link>https://alternativeto.net/news/2025/9/lovable-introduces-cloud-and-ai-to-let-users-build-full-stack-ai-enabled-apps-more-easily/</link>
-      <description><![CDATA[  lodable 正在揭露可爱的云＆amp; AI，一种扩展，使用户仅通过提示来创建具有人工智能和后端功能的应用程序。现在，任何人都可以在不编写传统代码的情况下构建复杂的应用程序，使应用程序和网站开发更容易为更广泛的受众访问。
-可爱的AI消除了对设置步骤，外部API键或额外计费的需求。用户指示可爱添加AI功能，并且该平台会自动处理集成。此功能由 Google gemini 型号型号，直到10月5日，
-同时，可爱的云充当无缝的后端层，管理用户身份验证，数据库和文件上传之类的基本操作。结果，通常需要单独的后端开发和维护的任务是自动化的，让创建者专注于他们的应用程序的核心体验。
-使用这些更新，可爱的云＆amp; AI现在管理建立全栈和支持AI的应用程序最苛刻的方面，大大降低了新应用创建者的障碍。
- &gt;     href =“ https://alternativeto.net/software/lovable/about/”&gt;更多有关可爱的＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/lovable-introduces-cloud-and-ai-to-let-users-build-full-stack-ai-enabled-apps-more-easily/</guid>
-      <pubDate>Tue, 30 Sep 2025 14:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Opensuse Tumbleweed的9月更新带来了Linux 6.16.5，GNOME 49和KDE等离子6.4.5</title>
-      <link>https://alternativeto.net/news/2025/9/opensuse-tumbleweed-s-september-update-brings-linux-6-16-5-gnome-49-and-kde-plasma-6-4-5/</link>
-      <description><![CDATA[  opensuse tumbleweed 现在用户从 linux 6.16.5 kernel ，在分发的最新版本中引入了最新的更新。该基础可增强所有用户的性能，硬件兼容性和安全性。 9月，该发行版保持了一致的节奏，几乎每天的快照版本不仅提供了新功能和性能提升，而且对滚动释放操作系统至关重要的关键安全修复。 
-关键软件包看到升级，包括gnupg 2.5.12，7-zip 25.01文件档案库和文本编辑器 vim 9.1.1.1706 。这些软件包广泛用于开发和系统管理工作流程。除了核心实用程序，其他更新改进了桌面体验。
- KDE Plasma 6.4.5 brought significant enhancements for desktop users, while KDE Gear 25.08.1 provided widespread fixes across common申请。遵循这些桌面改进，9月更新还包括新版本的基础软件包，例如
- Tumbleweed继续强调其专注于稳定性和测试，建议用户定期应用更新以访问最新功能，改进和安全修复。
- 更多有关OpenSuse ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/opensuse-tumbleweed-s-september-update-brings-linux-6-16-5-gnome-49-and-kde-plasma-6-4-5/</guid>
-      <pubDate>Tue, 30 Sep 2025 12:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>父母现在可以在Chatgpt中实现安全控制以帮助保护他们的青少年</title>
-      <link>https://alternativeto.net/news/2025/9/parents-can-now-enable-safety-controls-in-chatgpt-to-help-protect-their-teens/</link>
-      <description><![CDATA[ OpenAI引入了新的父母控制和 changgpt ，旨在帮助家庭在家中如何使用chatbot在家中使用Chatbot。这种推出使父母能够将自己的chatgpt帐户与青少年帐户联系起来并自定义一系列安全设置，以寻求更安全，适合年龄的体验。
-一旦启用了父母的控制，青少年的ChatGpt帐户将自动获得更广泛的内容保护。这些包括限制访问图形内容，病毒挑战，浪漫或暴力角色扮演以及对极端美容理想的描述，所有这些都支持为年轻用户提供更安全的在线互动。
-为了建立这些控件，父母可以向青少年发送邀请来连接帐户，否则青少年也可以邀请父母。如果青少年断开他们的帐户，则父母将收到通知。设置是从父母ChatGpt帐户中的流线型控制页面进行管理的。
-此外，OpenAI正在开发一个年龄预测系统，以帮助检测18岁以下的用户并自动启用保护措施。这些变化符合Openai的更广泛的目标，即使Chatgpt易于访问和有用，同时提供指导青少年负责使用的工具。
-  href =“ https://alternativeto.net/software/chatgpt/about/”&gt;更多关于chatgpt ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/9/parents-can-now-enable-safety-controls-in-chatgpt-to-help-protect-their-teens/</guid>
-      <pubDate>Tue, 30 Sep 2025 08:45:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>KAOS 2025.09带来Linux 6.16内核，KDE等离子6.4，QT5删除和增强MIDNA主题</title>
-      <link>https://alternativeto.net/news/2025/9/kaos-2025-09-brings-linux-6-16-kernel-kde-plasma-6-4-qt5-removal-and-enhanced-midna-theme/</link>
-      <description><![CDATA[  kaos  2025.09带有升级的核心技术，包括 linux 6.16.9 kernel href =“ https://alternativeto.net/news/2025/6/kde-plasma-6-4-reald--with-with-many-exciting-enhancements-learn-what-what-what-what-s-new-//” href =“ https://alternativeto.net/news/2025/4/QT-6-9-REALED-WITH-IMPREVED-MOPREVED-EMOJI-SUPPORT-3D-GRAPHS-CROSS-CROSS-PLATFORM-PLATFORM-XRFORM-XRFORM-XR-XR-and-MORE/”&gt; QT 6.9.2.2.2.2.2 。该版本重点介绍了一个全面修改的Midna 主题，具有新图标，更新的登录和飞溅体验，现代窗户装饰和刷新的壁纸。
-在这些视觉变化上构建，KAOS现在默认情况下没有任何QT5的船舶，促进了QT5终止寿命结束后向仅QT6应用程序的过渡。该项目的社区软件包服务KCP已迁移到 Codeberg ，进一步拥抱开放式基础设施。
-除了这些重大变化之外，支持基于等离子体的替代品的支持 sddm  login Manager。重写的ISOimageWriter（现在基于QML）不仅将ISO文件写入USB，而且还可以从其他分布中下载ISO。系统基金会将全面更新，并具有新版本的工具，例如Libxml2，git，openssl，bash和Mesa。
-这些后端的进步辅以新的软件添加，例如 typst 用于基于标记的类型，Plasma-bigscreen for客厅设备以及氢用于鼓综合。新的声音声音后端是活动的，而SDDM 0.20.0引入可选 Wayland 支持。最后，Kjournald现在提供了具有强大过滤选项的图形日志查看器。
-    更多有关kaos ＆nbsp; | |替代方案 ]]></description>
-      <guid>https://alternativeto.net/news/2025/9/kaos-2025-09-brings-linux-6-16-kernel-kde-plasma-6-4-qt5-removal-and-enhanced-midna-theme/</guid>
-      <pubDate>Tue, 30 Sep 2025 07:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>勇敢的发射询问勇敢的人工智能聊天搜索带有隐私和多媒体答案</title>
-      <link>https://alternativeto.net/news/2025/9/brave-launches-ask-brave-ai-chat-search-with-privacy-and-multimedia-answers/</link>
-      <description><![CDATA[  Brave 已引入 ask Brave Brave ，这是一个直接从勇敢的搜索所有浏览器上的homepage。用户可以通过单击搜索框旁边的“询问”按钮，切换到结果中的“询问”选项卡，或添加“ ??”来访问它。当将勇敢的搜索设置为默认引擎时进行查询。不需要特殊模式，因为默认情况下启用了该功能。
-Ask Brave complements the existing AI Answers tool, but instead of short summaries, it provides longer, report-style outputs, pretty similar to what you can get来自其他AI助手，例如 perplexity 。这些响应以
-与其他AI公司的类似解决方案不同，该公司强调，勇敢地提出优先级隐私，并在不活动24小时后删除了聊天，删除了聊天，并且与IP地址没有链接。它还突出了上下文丰富和交互式响应。
-  href =“ https://alternativeto.net/software/brave/about/”&gt;有关勇敢的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/9/brave-launches-ask-brave-ai-chat-search-with-privacy-and-multimedia-answers/</guid>
-      <pubDate>Mon, 29 Sep 2025 23:53:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
