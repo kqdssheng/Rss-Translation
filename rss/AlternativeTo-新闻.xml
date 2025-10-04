@@ -4,7 +4,83 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Fri, 03 Oct 2025 12:38:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 01:18:42 GMT</lastBuildDate>
+    <item>
+      <title>Gmail的企业端到端加密现在与外部电子邮件提供商合作</title>
+      <link>https://alternativeto.net/news/2025/10/gmail-s-end-to-end-encryption-for-enterprises-now-works-with-external-email-providers/</link>
+      <description><![CDATA[ Google宣布了 gmail 中的客户端加密的一般可用性，允许用户将Ent-to-to-to-to-to-to-to-end Ended Ended电子邮件发送到任何电子邮件服务上的收件人。以前，Gmail中的加密受到生态系统约束的限制，但是此更新意味着，无论收件人的提供者如何
+除了广泛的兼容性外，Google还简化了收件人访问权限。通知没有Google帐户的接收者，可以通过访客帐户门户网站读取加密消息，从而消除了键换或外部解密工具的需求。在此基础上，新功能还可以最大程度地减少设置和管理开销。 IT团队和最终用户不必管理复杂的配置或新软件，同时受益于改进的隐私，数据主权和安全性。
+虽然符合条件的组织现在可以使用此端到端加密，但目前它的目标是 Google workspace  Enterprise  Enterprise Plus客户提供了有保证的控件附加功能。该功能正在逐渐引入，因此随着推出的推出，访问将随着时间的推移而扩展。
+ 有关Gmail的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/10/gmail-s-end-to-end-encryption-for-enterprises-now-works-with-external-email-providers/</guid>
+      <pubDate>Fri, 03 Oct 2025 19:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>格兰诺拉麦片添加了上下文感知的AI提示和自定义工作流个性化的食谱</title>
+      <link>https://alternativeto.net/news/2025/10/granola-adds-recipes-for-context-aware-ai-prompts-and-custom-workflow-personalization/</link>
+      <description><![CDATA[会议的AI笔记助手 granola 已引入食谱，它是重新设计的 href =“ https://alternativeto.net/news/2025/5/granola-adds-cross-meeting-cross-meeting-chat-c​​hat-and-reasoning-with-thinking-mode/&gt; granola chat 。
+食谱提供了使用成绩单，对话和注释来生成更相关的响应，提供了与用户工作环境链接的预先构建的AI提示。可以通过键入“/”打开以工作流程为中心的选项菜单，直接在格兰诺拉麦聊天中访问它们。
+用户可以创建自己的食谱，无论是私人的还是与同事共享的食谱，但是该平台已经提供了一些来自发布会的专业食谱，包括从集思广益会议中起草产品需求文档，为与过去的讨论背景的会议做准备，并从设计批评中收集结构化的反馈。其他选项支持基于1：1反馈的教练，撰写战略讨论的摘要或分析销售要求改进过程。
+ 更多关于granola  ＆nbsp; | |＆nbsp;  granola &lt;/]]></description>
+      <guid>https://alternativeto.net/news/2025/10/granola-adds-recipes-for-context-aware-ai-prompts-and-custom-workflow-personalization/</guid>
+      <pubDate>Fri, 03 Oct 2025 17:17:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Raspberry Pi OS更新了Debian 13的新外观和统一控制中心应用程序</title>
+      <link>https://alternativeto.net/news/2025/10/raspberry-pi-os-updates-to-debian-13-with-fresh-new-look-and-unified-control-center-app/</link>
+      <description><![CDATA[  raspberry pi os 已移至Debian 13“ Trixie”基金会，同时继续使用Linux 6.12长期支持Kernel。此基础更新为提高覆盖物PI设备的兼容性和未来增强功能奠定了基础。
+随着核心系统的更改，此版本引入了重新设计的桌面主题。用户会注意到一套全新的图标，新的现代字体，更新的桌面背景以及旨在现代化视觉体验的小型接口调整。
+在接口改进的构建中，一个新的控制中心应用程序整合了系统的首选项。它替换了单个工具，例如Raspberry Pi配置，外观设置，鼠标和键盘设置，屏幕配置以及打印机，使对用户的系统设置的管理更有效。
+在捆绑软件中，书架应用程序现在重点介绍了最新的标题，这些标题将通过挂锁图标免费，从而为用户提供有关即将到来的内容可访问性的视觉提示。同时，对包装管理的增强功能提高了性能，现在可以在纤细的Raspberry Pi Os Lite中获得其他包裹。这些更改为运行轻量级设置的用户扩展了选项。
+View article on AlternativeTo »更多关于Raspberry pi os ＆nbsp; | | |]]></description>
+      <guid>https://alternativeto.net/news/2025/10/raspberry-pi-os-updates-to-debian-13-with-fresh-new-look-and-unified-control-center-app/</guid>
+      <pubDate>Fri, 03 Oct 2025 15:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>勇敢的钱包将Cardano整合到ADA和本地资产</title>
+      <link>https://alternativeto.net/news/2025/10/brave-wallet-integrates-cardano-for-ada-and-native-assets/</link>
+      <description><![CDATA[Brave Wallet now allows users to store and manage ADA and Cardano native assets directly within the browser, removing需要扩展。用户还可以发送和接收Cardano交易，执行令牌掉期以及本地参与Cardano治理。
+这些功能可通过Brave的钱包图标立即为所有桌面用户提供。
+ 查看文章href =“ https://alternativeto.net/software/software/brave-wallet/about/”&gt;更多关于Brave Wallet ＆nbsp; | |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/10/brave-wallet-integrates-cardano-for-ada-and-native-assets/</guid>
+      <pubDate>Fri, 03 Oct 2025 15:00:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>粘贴6推出了MacOS，iOS和iPados的液体玻璃重新设计</title>
+      <link>https://alternativeto.net/news/2025/10/paste-6-launches-liquid-glass-redesign-for-macos-ios-and-ipados/</link>
+      <description><![CDATA[  paste  6介绍了MacOS，iOS和iPados的完整重新设计，其中包含新型Liquid Glass Interface构建了苹果最新框架的新液体玻璃界面。 MacOS应用程序现在提供了一个浮动，半透明的窗口和精制的剪贴板预览，可针对MacOS 26 Tahoe进行了优化。
+iOS和iPados版本获得了新的导航控件，类似玻璃的视觉效果以及改进的多任务支持。
+ 在交流中查看文章href =“ https://alternativeto.net/software/paste-for-mac/about/”&gt;更多关于粘贴的信息]]></description>
+      <guid>https://alternativeto.net/news/2025/10/paste-6-launches-liquid-glass-redesign-for-macos-ios-and-ipados/</guid>
+      <pubDate>Fri, 03 Oct 2025 14:52:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>MyMind介绍了无限无限的视觉书签的更实惠的计划</title>
+      <link>https://alternativeto.net/news/2025/10/mymind-introduces-more-affordable-plan-for-unlimited-visual-bookmarks/</link>
+      <description><![CDATA[  myMind 已启动了新的&#39;The Bookmarker&#39;计划，可在台式机和移动设备上使用，以每月4.99美元的价格提供无限的书签。该计划着重于直接的视觉书签，不包括AI功能。
+它加入了现有的“生命学生”和“策划”订阅选项。
+ 查看文章href =“ https://alternativeto.net/software/mymind/about/”&gt;更多有关mymind ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/10/mymind-introduces-more-affordable-plan-for-unlimited-visual-bookmarks/</guid>
+      <pubDate>Fri, 03 Oct 2025 14:46:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Comet AI浏览器来自困惑，为所有用户启动全球范围</title>
+      <link>https://alternativeto.net/news/2025/10/comet-ai-browser-from-perplexity-launches-worldwide-for-all-users/</link>
+      <description><![CDATA[  comet ，来自删除其先前的仅邀请要求。浏览器引起了极大的兴趣，数以百万计的候补名单在短短84天内加入了候补名单。
+ 更多有关Perplexity Comet ＆nbsp; | | |]]></description>
+      <guid>https://alternativeto.net/news/2025/10/comet-ai-browser-from-perplexity-launches-worldwide-for-all-users/</guid>
+      <pubDate>Fri, 03 Oct 2025 14:40:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>信号宣布加密信号协议后量词后安全性的进步</title>
+      <link>https://alternativeto.net/news/2025/10/signal-announces-advancements-in-post-quantum-security-for-the-encrypted-signal-protocol/</link>
+      <description><![CDATA[  Signal 正在通过引入稀疏的量子棘轮（SPQR）（SPQR）来增强量子安全性，这标志着其Cryptographic协议安全性的实质性增强。通过集成SPQR，Signal旨在更好地保护用户免受量子计算的预期威胁，同时保持建立的隐私保护完整，包括远期保密和后副业安全性。
+随着SPQR在其现有的双棘轮机制中添加，信号正在转移到新的三重棘轮结构。这种方法提供了量子安全消息传递，以确保对话现在和在密码相关的量子计算机成为现实的情况下保持安全。根据信号，用户无需采取任何行动；该更新将缓慢而仔细地部署，以确保所有对话都会自动过渡到新协议而不会中断。
+信号开始努力，开始努力促进该协议在2023 中的量子抵抗，并在2023 中的量子抗性，并参与了SPQR的整合。开源信号协议 2013年发布，是一套广泛采用的端到端加密通信规格，是信号和大型通信平台中的私人信息的基础， href =“ https://alternativeto.net/software/whatsapp/about/”&gt; whatsapp 。
+ 有关信号的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/10/signal-announces-advancements-in-post-quantum-security-for-the-encrypted-signal-protocol/</guid>
+      <pubDate>Fri, 03 Oct 2025 12:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>Google从2026年1月开始就结束了对Gmailify和Pop in Gmail的支持</title>
       <link>https://alternativeto.net/news/2025/10/google-is-ending-support-for-gmailify-and-pop-in-gmail-starting-january-2026/</link>
@@ -39,8 +115,8 @@ View article on AlternativeTo »有关Microsoft 365 Copilot ＆nbsp; |替代方�
     <item>
       <title>英国重新发行要求苹果解锁英国公民的加密iCloud数据</title>
       <link>https://alternativeto.net/news/2025/10/uk-reissues-demand-for-apple-to-unlock-encrypted-icloud-data-of-british-citizens/</link>
-      <description><![CDATA[   href =“ https://www.ft.com/content/d101fd62-14f9-4f9-4f51-beff-ea41e8794265”&gt; Financial Times现在报告href =“ https://feed.alternativeto.net/software/icloud/about/”&gt; iCloud 英国公民的备份。 Unlike the earlier request from January, which sought worldwide access, this technical capability notice is limited to UK users and is intended to support对恐怖主义和儿童性虐待的调查（是，一月份的命令引发了与美国的外交紧张局势，因为它要求访问全球所有Apple用户的加密数据。 在压力下，英国最终同意在8月对美国公民的需求。 苹果在公共部落中，同时向反对派申请，同时又有一个行为，同时申请了一个公共部落，同时又有一个行为。政府的立场。
-高级数据保护是一种选择加入功能，可将端到端加密应用于iCloud备份，因此即使Apple也无法访问它们。苹果发言人对英国用户不可用的功能仍然令人失望，而隐私提倡则警告说，遵守最新订单可以通过为其他政府设定类似访问权限的先例在全球范围内削弱全球保护措施。
+      <description><![CDATA[   href =“ https://www.ft.com/content/d101fd62-14f9-4f9-4f51-beff-ea41e8794265”&gt; Financial Times现在报告href =“ https://feed.alternativeto.net/software/icloud/about/”&gt; iCloud 英国公民的备份。 Unlike the earlier request from January, which sought worldwide access, this technical capability notice is limited to UK users and is intended to support对恐怖主义和儿童性虐待的调查（是的，一月份的命令引发了与美国的外交紧张局势，因为它要求访问全球所有Apple用户的加密数据。 在压力下，英国最终同意在8月对美国公民的需求。 苹果在公共部落中，同时向反对派申请，同时又有一个行为，同时申请了一个公共部落，同时又有一个行为。政府的立场。
+高级数据保护是一种选择加入功能，可将端到端加密应用于iCloud备份，因此即使Apple也无法访问它们。苹果发言人对英国用户不可用的功能仍然令人失望，而隐私提倡则警告说，遵守最新订单可以通过为其他政府设定类似访问权限的先例在全球范围内削弱全球保护措施。 
  更多有关icloud ＆nbsp; |＆nbsp; |]]></description>
       <guid>https://alternativeto.net/news/2025/10/uk-reissues-demand-for-apple-to-unlock-encrypted-icloud-data-of-british-citizens/</guid>
       <pubDate>Thu, 02 Oct 2025 21:14:42 GMT</pubDate>
@@ -74,80 +150,6 @@ New capture tools include Voice Mode for recording and transcribing spoken ideas
   href =“ https://alternativeto.net/software/google-cast/about/”&gt;有关Google Home的更多信息]]></description>
       <guid>https://alternativeto.net/news/2025/10/google-is-rolling-out-gemini-for-home-to-replace-assistant-and-launching-a-new-home-4-0-app/</guid>
       <pubDate>Thu, 02 Oct 2025 15:25:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux Mint Cinnamon更新：统一键盘设置和增强菜单设计</title>
-      <link>https://alternativeto.net/news/2025/10/linux-mint-cinnamon-update-unified-keyboard-settings-and-enhanced-menu-design/</link>
-      <description><![CDATA[  linux mint 的下一个肉桂版本将统一键盘设置引入统一的键盘设置，同时介绍传统的布局和IBUS输入方法。已为所有键盘布局和输入方法添加了Wayland支持，以解决以前的限制。现在，在屏幕上键盘将通过改进的输入方法支持和刷新设计的设计实现。
-此外，肉桂应用菜单已重新设计以增强可用性和灵活性。
- 查看文章href =“ https://alternativeto.net/software/linux-mint/about/”&gt;有关Linux Mint  |]]></description>
-      <guid>https://alternativeto.net/news/2025/10/linux-mint-cinnamon-update-unified-keyboard-settings-and-enhanced-menu-design/</guid>
-      <pubDate>Thu, 02 Oct 2025 15:22:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>React 19.2引入<活动 />，useeffectevent和部分预渲染</title>
-      <link>https://alternativeto.net/news/2025/10/react-19-2-introduces-activity---useeffectevent-and-partial-pre-rendering/</link>
-      <description><![CDATA[  react  19.2带来了新功能，使开发人员可以将应用程序组织到可管理的活动中。该版本还具有将事件逻辑与效应依赖性分开的使用Effeftevent，并为React DOM增加了部分预渲染支持。
-其他改进包括缓存，性能跟踪工具，更新的SSR流和多个错误修复。
- 查看文章href =“ https://alternativeto.net/software/react/about/”&gt;有关React ＆nbsp; |＆nbsp; &lt;A href =“ https：//alternativeto.net/software/reaeact/]]></description>
-      <guid>https://alternativeto.net/news/2025/10/react-19-2-introduces-activity---useeffectevent-and-partial-pre-rendering/</guid>
-      <pubDate>Thu, 02 Oct 2025 15:10:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jules为高级自动化增加了环境变量支持</title>
-      <link>https://alternativeto.net/news/2025/10/jules-adds-environment-variable-support-for-advanced-automation/</link>
-      <description><![CDATA[  Jules 现在支持环境变量，允许用户提供API键，代币和其他配置，以进行复杂的构建，测试，测试和外部服务集成。用户可以在其存储库设置中添加变量，并在启动新任务时启用它们。
-环境变量访问在每个任务的持续时间内保持固定。
- 查看文章href =“ https://alternativeto.net/software/jules/about/”&gt;更多有关Jules ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/10/jules-adds-environment-variable-support-for-advanced-automation/</guid>
-      <pubDate>Thu, 02 Oct 2025 14:57:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude AI通过直接聊天和工作区搜索在Slack中启动</title>
-      <link>https://alternativeto.net/news/2025/10/claude-ai-launches-in-slack-with-direct-chat-and-workspace-search/</link>
-      <description><![CDATA[Claude AI is now available directly inside Slack, supporting chat in DMs, tagging in threads, and an AI assistant panel.用户可以利用Web搜索，文档分析并连接Slack内部的外部工具。
-集成允许Claude访问和搜索工作区频道，DMS和文件以添加上下文。
- 在替代文章上查看文章href =“ https://alternativeto.net/software/slack/about/”&gt;更多有关Slack ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/10/claude-ai-launches-in-slack-with-direct-chat-and-workspace-search/</guid>
-      <pubDate>Thu, 02 Oct 2025 14:52:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>口径8.12引入Tolino固件支持和Ollama AI更新</title>
-      <link>https://alternativeto.net/news/2025/10/calibre-8-12-introduces-tolino-firmware-support-and-ollama-ai-updates/</link>
-      <description><![CDATA[  Caliber  8.12现在支持运行固件的Tolino设备5.11.230427。 Ollama AI集成使用户可以为每个请求设置任意HTTP标头。此版本还还原了不合格文件的HTML转换，并解决了Ollama AI自定义URL的配置问题。
- 查看文章href =“ https://alternativeto.net/software/calibre/about/”&gt;更多有关Caliber ＆nbsp; |＆nbsp; &lt;A href =“ https：//alternatativeto.net/software/software/software/calibre/]]></description>
-      <guid>https://alternativeto.net/news/2025/10/calibre-8-12-introduces-tolino-firmware-support-and-ollama-ai-updates/</guid>
-      <pubDate>Thu, 02 Oct 2025 14:47:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bevy 0.17添加了射线式照明，改进的观察者和活动，无头UI小部件及更多</title>
-      <link>https://alternativeto.net/news/2025/10/bevy-0-17-adds-raytraced-lighting-improved-observers-and-events-headless-ui-widgets-and-more/</link>
-      <description><![CDATA[  bevy  0.17现在可以作为此开源的最新版本
-建立可用性，Bevy现在提供了一个正在进行的无头UI小工具库，并提供了一套以工具为中心的小部件和内置的框架时间调试小部件。 Bevy UI还支持背景和边界梯度，增强了设计选项。
-对于渲染，此发行版带来了一些进步：该发动机现在支持深度学习超级抽样（DLSS），用于对NVIDIA RTX GPU进行抗溶剂和升级，允许使用纹理对光强度进行艺术调节，从而增加了通过RayMarching进行更准确的氛围，并在使用射线模型中添加了更准确的氛围。 TiLemap渲染还受益于一种新的基于块的方法，为进一步扩展Bevy的内置TILEMAP功能奠定了基础。
-按照这些更新，开发人员获得了dioxus  subsecond 的初步整合，以限制 rust 代码，再加上HTTP和HTPS源。此版本中还包括许多其他增强功能和错误修复程序，  href =“ https://alternativeto.net/software/software/bevy-game-engine/about/”&gt;有关Bevy Game Engine的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/10/bevy-0-17-adds-raytraced-lighting-improved-observers-and-events-headless-ui-widgets-and-more/</guid>
-      <pubDate>Thu, 02 Oct 2025 14:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenSSL 3.6添加了PKEY对象的LMS签名验证和NIST安全类别</title>
-      <link>https://alternativeto.net/news/2025/10/openssl-3-6-adds-lms-signature-verification-and-nist-security-categories-for-pkey-objects/</link>
-      <description><![CDATA[  openssl  3.6已发行，为开发人员和管理员提供了用于TLS/SSL，DATAGRAM TLOSSLAM运输层安全性的开发人员和管理员的重大安全性和兼容性更改（dtls and dtlsonds and dtlsonts and iCICICCICS）。此更新将NIST安全类别添加到PKEY对象，将密钥存储对准并使用当前标准。它还将基于 [SP 800-208] 的LMS签名验证带到FIPS和默认提供商，扩展合规性选项。
-此外，该版本通过支持 evp_skey 不使用密钥推导和Exchange Provister方法中的不透明对称密钥对象来扩展加密API功能。已经添加了几个新功能，包括 evp_kdf_ctx_set_skey（）， evp_kdf_derive_skey（）和 evp_pkey_derive_skey（）。现在，构建OpenSSL需要支持C-99功能的编译器，因为传统ANSI-C工具链不再足够。
-尽管这些增强功能扩大了使用选项，但对VXWorks平台的支持已在此版本中删除。管理员受益于新的 openssl configutl 实用程序，该实用程序处理和输出openssl配置文件。经过这些更改，FIPS提供商用户还为确定性ECDSA签名生成而获得了支持，如FIPS 186-5所定义。最后，开发人员应注意， EVP_PKEY_ASN1_METHOD 已贬低了相关的功能，向进一步的API现代化发出了信号。
- 更多有关Openssl ＆nbsp; | |]]></description>
-      <guid>https://alternativeto.net/news/2025/10/openssl-3-6-adds-lms-signature-verification-and-nist-security-categories-for-pkey-objects/</guid>
-      <pubDate>Thu, 02 Oct 2025 12:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>IMMICH推出了新网站，更新的API文档和物理DVD的第一个稳定版本</title>
-      <link>https://alternativeto.net/news/2025/10/immich-launches-first-stable-version-with-new-website-updated-api-doc-and-physical-dvd/</link>
-      <description><![CDATA[  immich ，开源的，自我host的照片和视频管理平台，已经达到了一个重要的里程碑，其第一个稳定版本，第2.0版。该版本遵循271个先前的版本，78,000个GitHub星，以及1,500多名开发人员的贡献。转移到稳定的地位意味着团队已经解决了许多技术债务，现在将优先考虑兼容性，从而降低了与未来更新有关的复杂性。
-使用此稳定版本，Immich的网站使用Immich自己的UI组件库完全重写。重新设计的网站具有一个新的博客，包括有关最新的移动同步功能的帖子。除了网站删除外，该平台的文档现在可在 docs.immich.app 上获得。对于开发人员， api.immich.app 提供了有关身份验证，授权，权限和命令调色板的扩展详细信息，以快速导航的命令，以及可以直播的能力。
-在社区方面， data.immich.app 现在跟踪subreddit和Discord Server上的成员增长。作为一个怀旧的庆祝活动， immich v2.0可以在物理DVD上购买，并在Project Merchandise中提供&lt;​​ahref =“ href =” href =“ href =” href =“ href =” href =“
-  href =“ https://alternativeto.net/software/immich/about/”&gt;更多有关Immich ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/10/immich-launches-first-stable-version-with-new-website-updated-api-doc-and-physical-dvd/</guid>
-      <pubDate>Thu, 02 Oct 2025 11:05:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
