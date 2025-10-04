@@ -4,7 +4,16 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Sat, 04 Oct 2025 01:18:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 12:33:56 GMT</lastBuildDate>
+    <item>
+      <title>MyMind引入了Markdown文件导入的拖放支持</title>
+      <link>https://alternativeto.net/news/2025/10/mymind-introduces-markdown-file-import-with-drag-and-drop-support/</link>
+      <description><![CDATA[  myMind 现在允许用户通过简单地将其拖动并将其放入应用程序来导入Markdown文件。上传时，支持的Markdown内容将转换为新的笔记卡。
+该团队还宣布了计划在未来更新中扩大降级兼容性的计划。
+ 更多有关mymind ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/10/mymind-introduces-markdown-file-import-with-drag-and-drop-support/</guid>
+      <pubDate>Sat, 04 Oct 2025 07:29:07 GMT</pubDate>
+    </item>
     <item>
       <title>Gmail的企业端到端加密现在与外部电子邮件提供商合作</title>
       <link>https://alternativeto.net/news/2025/10/gmail-s-end-to-end-encryption-for-enterprises-now-works-with-external-email-providers/</link>
@@ -76,7 +85,7 @@ iOS和iPados版本获得了新的导航控件，类似玻璃的视觉效果以�
       <link>https://alternativeto.net/news/2025/10/signal-announces-advancements-in-post-quantum-security-for-the-encrypted-signal-protocol/</link>
       <description><![CDATA[  Signal 正在通过引入稀疏的量子棘轮（SPQR）（SPQR）来增强量子安全性，这标志着其Cryptographic协议安全性的实质性增强。通过集成SPQR，Signal旨在更好地保护用户免受量子计算的预期威胁，同时保持建立的隐私保护完整，包括远期保密和后副业安全性。
 随着SPQR在其现有的双棘轮机制中添加，信号正在转移到新的三重棘轮结构。这种方法提供了量子安全消息传递，以确保对话现在和在密码相关的量子计算机成为现实的情况下保持安全。根据信号，用户无需采取任何行动；该更新将缓慢而仔细地部署，以确保所有对话都会自动过渡到新协议而不会中断。
-信号开始努力，开始努力促进该协议在2023 中的量子抵抗，并在2023 中的量子抗性，并参与了SPQR的整合。开源信号协议 2013年发布，是一套广泛采用的端到端加密通信规格，是信号和大型通信平台中的私人信息的基础， href =“ https://alternativeto.net/software/whatsapp/about/”&gt; whatsapp 。
+信号开始努力，开始努力促进该协议在2023 中的量子抵抗，并在2023 中的量子抗性，并参与了SPQR的整合。开源信号协议 2013年发布，是一套广泛采用的端到端加密通信规格，是信号和大型通信平台的基础，是信号和大型通信平台的基础。 href =“ https://alternativeto.net/software/whatsapp/about/”&gt; whatsapp 。
  有关信号的更多信息]]></description>
       <guid>https://alternativeto.net/news/2025/10/signal-announces-advancements-in-post-quantum-security-for-the-encrypted-signal-protocol/</guid>
       <pubDate>Fri, 03 Oct 2025 12:40:00 GMT</pubDate>
@@ -115,8 +124,8 @@ View article on AlternativeTo »有关Microsoft 365 Copilot ＆nbsp; |替代方�
     <item>
       <title>英国重新发行要求苹果解锁英国公民的加密iCloud数据</title>
       <link>https://alternativeto.net/news/2025/10/uk-reissues-demand-for-apple-to-unlock-encrypted-icloud-data-of-british-citizens/</link>
-      <description><![CDATA[   href =“ https://www.ft.com/content/d101fd62-14f9-4f9-4f51-beff-ea41e8794265”&gt; Financial Times现在报告href =“ https://feed.alternativeto.net/software/icloud/about/”&gt; iCloud 英国公民的备份。 Unlike the earlier request from January, which sought worldwide access, this technical capability notice is limited to UK users and is intended to support对恐怖主义和儿童性虐待的调查（是的，一月份的命令引发了与美国的外交紧张局势，因为它要求访问全球所有Apple用户的加密数据。 在压力下，英国最终同意在8月对美国公民的需求。 苹果在公共部落中，同时向反对派申请，同时又有一个行为，同时申请了一个公共部落，同时又有一个行为。政府的立场。
-高级数据保护是一种选择加入功能，可将端到端加密应用于iCloud备份，因此即使Apple也无法访问它们。苹果发言人对英国用户不可用的功能仍然令人失望，而隐私提倡则警告说，遵守最新订单可以通过为其他政府设定类似访问权限的先例在全球范围内削弱全球保护措施。 
+      <description><![CDATA[   href =“ https://www.ft.com/content/d101fd62-14f9-4f9-4f51-beff-ea41e8794265”&gt; Financial Times现在报告href =“ https://feed.alternativeto.net/software/icloud/about/”&gt; iCloud 英国公民的备份。 Unlike the earlier request from January, which sought worldwide access, this technical capability notice is limited to UK users and is intended to support对恐怖主义和儿童性虐待的调查（是，一月份的命令引发了与美国的外交紧张局势，因为它要求访问全球所有Apple用户的加密数据。 在压力下，英国最终同意在8月对美国公民的需求。 苹果在公共部落中，同时向反对派申请，同时又有一个行为，同时申请了一个公共部落，同时又有一个行为。政府的立场。
+高级数据保护是一种选择加入功能，可将端到端加密应用于iCloud备份，因此即使Apple也无法访问它们。苹果发言人对英国用户不可用的功能仍然令人失望，而隐私提倡则警告说，遵守最新订单可以通过为其他政府设定类似访问权限的先例在全球范围内削弱全球保护措施。
  更多有关icloud ＆nbsp; |＆nbsp; |]]></description>
       <guid>https://alternativeto.net/news/2025/10/uk-reissues-demand-for-apple-to-unlock-encrypted-icloud-data-of-british-citizens/</guid>
       <pubDate>Thu, 02 Oct 2025 21:14:42 GMT</pubDate>
@@ -140,16 +149,6 @@ New capture tools include Voice Mode for recording and transcribing spoken ideas
  更多有关家庭助手的信息]]></description>
       <guid>https://alternativeto.net/news/2025/10/home-assistant-2025-10-brings-improved-automation-editor-image-generation-and-much-more/</guid>
       <pubDate>Thu, 02 Oct 2025 15:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google正在将双子座推出，以替换助手并推出新的Home 4.0应用程序</title>
-      <link>https://alternativeto.net/news/2025/10/google-is-rolling-out-gemini-for-home-to-replace-assistant-and-launching-a-new-home-4-0-app/</link>
-      <description><![CDATA[ google现在正式正在正式推出 gemini  ，它的 Google Assistant 在所有智能扬声器和显示器上，包括原始型号，包括原始型号。由 google gemini 引入了一个更对话的AI，可以理解上下文，支持链接的命令，并可以处理任务而无需进行严格的短语。 Users can still use “Hey Google,” but Gemini also enables natural back-and-forth conversations without repeating the wake word through Gemini Live, and allows automations to be created directly by voice.功能还扩展到摄像机，具有智能运动警报，对视觉效果的语义理解，通过询问家庭等工具进行自然语言视频搜索以及家庭简介以总结镜头的时间。
-其中一些功能，包括Gemini Live，AI驱动的通知，询问家庭，家庭简介以及扩展30天的云视频存储，需要$ 10/月的Google Home Premium subpription ，它也与该更新适用于过去十年来所有受支持的设备，沃尔玛的新型Gemini兼容门铃和相机加入了生态系统。
-与新的AI助手一起，Google还发布了 Google home 的最大重新设计。新版本将设备控制带有用于家庭，活动和自动化的选项卡，并为自然语言命令添加了一个持久的询问家庭栏。  nest 现在在应用程序中对设备进行了充分管理，该设备还可以通过更快的实时直播，轻柔的视频历史记录和更少的播放失败来改善相机性能。 Google声称该应用程序加快了高达70％的加载速度，使撞车事故减少了近80％，并且电池电量减少。推出开始于10月1日，通过应用程序设置提供尽早访问。
-  href =“ https://alternativeto.net/software/google-cast/about/”&gt;有关Google Home的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/10/google-is-rolling-out-gemini-for-home-to-replace-assistant-and-launching-a-new-home-4-0-app/</guid>
-      <pubDate>Thu, 02 Oct 2025 15:25:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
