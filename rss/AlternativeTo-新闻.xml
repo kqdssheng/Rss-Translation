@@ -4,12 +4,32 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Sat, 04 Oct 2025 12:33:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 01:30:32 GMT</lastBuildDate>
+    <item>
+      <title>AI编码代理Google启动Jules Tools CLI直接终端访问和公共API</title>
+      <link>https://alternativeto.net/news/2025/10/ai-coding-agent-google-launches-jules-tools-cli-for-direct-terminal-access-and-public-api/</link>
+      <description><![CDATA[ Google启动了 Jules Tools ，它是其AI-Power代理的新命令行界面”&gt; Google Labs产品管理主管 Qathy Korevec  Qathy Korevec 可以直接访问Jules端口，该工具直接访问Qules  href =“ https://feed.alternativeto.net/software/github/about/”&gt; github  Interfaces。类似于 Google的Google的Gemini cli ，它在终端内运行，但专为更加专注的单任务执行而设计，而Gemini Cli则支持Gemini Cli更长地支持更长的协作。 While both Jules and the Gemini CLI share Google&#39;s Gemini 2.5 Pro language model, Jules Tools targets single,用户批准后的范围范围编码操作并以最少的交互作用运行。
+伴随CLI发布的是 jules for Jules for Jules ，使与开发工具和工作流相机。开发人员现在可以将Jules连接到集成开发环境，例如 Visual Studio Code ，或将其纳入自己的构建过程。 Google计划通过发布专门的IDE插件来进一步扩大可访问性，以针对流行平台的广泛开发人员采用。
+这些更新遵循对Jules的一系列最新改进，包括图像上传支持 href =“ https://alternativeto.net/news/2025/10/jules-adds-environment-variemporce-support-support-for-advanced-automation/”&gt;环境变量处理，，，所有这些都旨在使工具更具整合和有用在实际编码环境中。
+ 更多有关Jules ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/10/ai-coding-agent-google-launches-jules-tools-cli-for-direct-terminal-access-and-public-api/</guid>
+      <pubDate>Sat, 04 Oct 2025 16:48:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>PARALLELS桌面26.1带来新的VM政策，冲突感知到部署和Linux升级</title>
+      <link>https://alternativeto.net/news/2025/10/parallels-desktop-26-1-brings-new-vm-policies-conflict-aware-deployment-and-linux-upgrades/</link>
+      <description><![CDATA[  PARALLELS桌面26.1 只有一个月在版本26.0 之后，请介绍26.0 的新管理人员和linux compatients，Deploveyment，indux compatients for inux compatience and Linux和Linux。该更新添加了集中的控件，使管理员定义并强制执行颗粒状VM策略，涵盖共享文件夹，剪贴板访问，USB连接，应用程序共享和网络模式。通过Parallels桌面企业管理门户进行管理，这些设置在部署后保持活跃，使其对用户创建的VM进行监督，同时保持安全性和合规性标准。
+部署工作流程还通过检测到现有VM时提供三种策略（重新安置，复制或跳过）的冲突感知系统进行了重大升级。保留策略可以自动删除或保留较旧或未固定的机器，从而确保清洁，一致的推出。这些部署功能与JAMF PRO之类的设备管理工具集成，简化了大规模更新并减少了设置冲突。
+版本26.1还将单个应用程序模式与单个登录组合结合在一起，使用户可以直接从MacOS码头启动Windows应用程序，同时通过其组织的身份提供商进行认证。在Linux上，Parallels工具现在使用Virtio-Sock与新内核版本更平滑，从而提高了可靠性并维护动态分辨率和共享剪贴板等功能。安装助手还已通过新的Linux发行版和错误修复更新。
+  href =“ https://alternativeto.net/software/parallels-desktop/about/”&gt;有关更多关于Parallels Desktop ＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/10/parallels-desktop-26-1-brings-new-vm-policies-conflict-aware-deployment-and-linux-upgrades/</guid>
+      <pubDate>Sat, 04 Oct 2025 16:30:19 GMT</pubDate>
+    </item>
     <item>
       <title>MyMind引入了Markdown文件导入的拖放支持</title>
       <link>https://alternativeto.net/news/2025/10/mymind-introduces-markdown-file-import-with-drag-and-drop-support/</link>
-      <description><![CDATA[  myMind 现在允许用户通过简单地将其拖动并将其放入应用程序来导入Markdown文件。上传时，支持的Markdown内容将转换为新的笔记卡。
-该团队还宣布了计划在未来更新中扩大降级兼容性的计划。
+      <description><![CDATA[  myMind 现在允许用户通过简单地将其拖动并将其放入应用程序来导入Markdown文件。上传时，受支持的Markdown内容将转换为新的笔记卡。
+该团队还宣布了计划在未来更新中扩大降价兼容性。
  更多有关mymind ＆nbsp; |＆nbsp; |]]></description>
       <guid>https://alternativeto.net/news/2025/10/mymind-introduces-markdown-file-import-with-drag-and-drop-support/</guid>
       <pubDate>Sat, 04 Oct 2025 07:29:07 GMT</pubDate>
@@ -48,7 +68,7 @@ View article on AlternativeTo »更多关于Raspberry pi os ＆nbsp; | | |]]></d
     <item>
       <title>勇敢的钱包将Cardano整合到ADA和本地资产</title>
       <link>https://alternativeto.net/news/2025/10/brave-wallet-integrates-cardano-for-ada-and-native-assets/</link>
-      <description><![CDATA[Brave Wallet now allows users to store and manage ADA and Cardano native assets directly within the browser, removing需要扩展。用户还可以发送和接收Cardano交易，执行令牌掉期以及本地参与Cardano治理。
+      <description><![CDATA[Brave Wallet now allows users to store and manage ADA and Cardano native assets directly within the browser, removing需要扩展。用户还可以发送和接收Cardano交易，执行令牌掉期和本地参与Cardano治理。
 这些功能可通过Brave的钱包图标立即为所有桌面用户提供。
  查看文章href =“ https://alternativeto.net/software/software/brave-wallet/about/”&gt;更多关于Brave Wallet ＆nbsp; | |＆nbsp; |]]></description>
       <guid>https://alternativeto.net/news/2025/10/brave-wallet-integrates-cardano-for-ada-and-native-assets/</guid>
@@ -57,8 +77,8 @@ View article on AlternativeTo »更多关于Raspberry pi os ＆nbsp; | | |]]></d
     <item>
       <title>粘贴6推出了MacOS，iOS和iPados的液体玻璃重新设计</title>
       <link>https://alternativeto.net/news/2025/10/paste-6-launches-liquid-glass-redesign-for-macos-ios-and-ipados/</link>
-      <description><![CDATA[  paste  6介绍了MacOS，iOS和iPados的完整重新设计，其中包含新型Liquid Glass Interface构建了苹果最新框架的新液体玻璃界面。 MacOS应用程序现在提供了一个浮动，半透明的窗口和精制的剪贴板预览，可针对MacOS 26 Tahoe进行了优化。
-iOS和iPados版本获得了新的导航控件，类似玻璃的视觉效果以及改进的多任务支持。
+      <description><![CDATA[  paste  6介绍了MacOS，iOS和iPados的完整重新设计，其中包含新型Liquid Glass Interface构建了苹果最新框架的新液体玻璃界面。 MacOS应用程序现在提供了一个浮动，半透明的窗口和精制剪贴板预览，可针对MacOS 26 Tahoe进行了优化。
+ iOS和iPados版本获得新的导航控件，类似玻璃的视觉效果和改进的多任务支持。
  在交流中查看文章href =“ https://alternativeto.net/software/paste-for-mac/about/”&gt;更多关于粘贴的信息]]></description>
       <guid>https://alternativeto.net/news/2025/10/paste-6-launches-liquid-glass-redesign-for-macos-ios-and-ipados/</guid>
       <pubDate>Fri, 03 Oct 2025 14:52:08 GMT</pubDate>
@@ -85,7 +105,7 @@ iOS和iPados版本获得了新的导航控件，类似玻璃的视觉效果以�
       <link>https://alternativeto.net/news/2025/10/signal-announces-advancements-in-post-quantum-security-for-the-encrypted-signal-protocol/</link>
       <description><![CDATA[  Signal 正在通过引入稀疏的量子棘轮（SPQR）（SPQR）来增强量子安全性，这标志着其Cryptographic协议安全性的实质性增强。通过集成SPQR，Signal旨在更好地保护用户免受量子计算的预期威胁，同时保持建立的隐私保护完整，包括远期保密和后副业安全性。
 随着SPQR在其现有的双棘轮机制中添加，信号正在转移到新的三重棘轮结构。这种方法提供了量子安全消息传递，以确保对话现在和在密码相关的量子计算机成为现实的情况下保持安全。根据信号，用户无需采取任何行动；该更新将缓慢而仔细地部署，以确保所有对话都会自动过渡到新协议而不会中断。
-信号开始努力，开始努力促进该协议在2023 中的量子抵抗，并在2023 中的量子抗性，并参与了SPQR的整合。开源信号协议 2013年发布，是一套广泛采用的端到端加密通信规格，是信号和大型通信平台的基础，是信号和大型通信平台的基础。 href =“ https://alternativeto.net/software/whatsapp/about/”&gt; whatsapp 。
+信号开始努力，开始努力促进该协议在2023 中的量子抵抗，并在2023 中的量子抗性，并参与了SPQR的整合。开源信号协议 2013年发布，是一套广泛采用的端到端加密通信规格，是信号和大型通信平台中的私人信息的基础， href =“ https://alternativeto.net/software/whatsapp/about/”&gt; whatsapp 。
  有关信号的更多信息]]></description>
       <guid>https://alternativeto.net/news/2025/10/signal-announces-advancements-in-post-quantum-security-for-the-encrypted-signal-protocol/</guid>
       <pubDate>Fri, 03 Oct 2025 12:40:00 GMT</pubDate>
@@ -124,31 +144,11 @@ View article on AlternativeTo »有关Microsoft 365 Copilot ＆nbsp; |替代方�
     <item>
       <title>英国重新发行要求苹果解锁英国公民的加密iCloud数据</title>
       <link>https://alternativeto.net/news/2025/10/uk-reissues-demand-for-apple-to-unlock-encrypted-icloud-data-of-british-citizens/</link>
-      <description><![CDATA[   href =“ https://www.ft.com/content/d101fd62-14f9-4f9-4f51-beff-ea41e8794265”&gt; Financial Times现在报告href =“ https://feed.alternativeto.net/software/icloud/about/”&gt; iCloud 英国公民的备份。 Unlike the earlier request from January, which sought worldwide access, this technical capability notice is limited to UK users and is intended to support对恐怖主义和儿童性虐待的调查（是，一月份的命令引发了与美国的外交紧张局势，因为它要求访问全球所有Apple用户的加密数据。 在压力下，英国最终同意在8月对美国公民的需求。 苹果在公共部落中，同时向反对派申请，同时又有一个行为，同时申请了一个公共部落，同时又有一个行为。政府的立场。
-高级数据保护是一种选择加入功能，可将端到端加密应用于iCloud备份，因此即使Apple也无法访问它们。苹果发言人对英国用户不可用的功能仍然令人失望，而隐私提倡则警告说，遵守最新订单可以通过为其他政府设定类似访问权限的先例在全球范围内削弱全球保护措施。
+      <description><![CDATA[   href =“ https://www.ft.com/content/d101fd62-14f9-4f9-4f51-beff-ea41e8794265”&gt; Financial Times现在报告href =“ https://feed.alternativeto.net/software/icloud/about/”&gt; iCloud 英国公民的备份。 Unlike the earlier request from January, which sought worldwide access, this technical capability notice is limited to UK users and is intended to support对恐怖主义和儿童性虐待的调查（是的，一月份的命令引发了与美国的外交紧张局势，因为它要求访问全球所有Apple用户的加密数据。 在压力下，英国最终同意在8月对美国公民的需求。 苹果在公共部落中，同时向反对派申请，同时又有一个行为，同时申请了一个公共部落，同时又有一个行为。政府的立场。
+高级数据保护是一种选择加入功能，可将端到端加密应用于iCloud备份，因此即使Apple也无法访问它们。苹果发言人对英国用户不可用的功能仍然令人失望，而隐私提倡则警告说，遵守最新订单可以通过为其他政府设定类似访问权限的先例在全球范围内削弱全球保护措施。 
  更多有关icloud ＆nbsp; |＆nbsp; |]]></description>
       <guid>https://alternativeto.net/news/2025/10/uk-reissues-demand-for-apple-to-unlock-encrypted-icloud-data-of-british-citizens/</guid>
       <pubDate>Thu, 02 Oct 2025 21:14:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>MEM 2.0使用更智能的笔记工具，离线支持和新的代理聊天重新启动</title>
-      <link>https://alternativeto.net/news/2025/10/mem-2-0-relaunches-with-smarter-note-taking-tools-offline-support-and-a-new-agentic-chat/</link>
-      <description><![CDATA[Mem has launched Mem 2.0, a rebuilt version positioned as an “AI Thought Partner” rather than a traditional notes app.该更新引入了新的品牌标识和重新设计的界面，在网络，桌面和移动设备上提供更快，更可靠和离线性能，以及诸如Dark Mode之类的新功能。
-New capture tools include Voice Mode for recording and transcribing spoken ideas, an Agentic Chrome Extension to save webpages as structured notes, and email integration to convert forwarded messages into有组织的条目。
- AI功能包括深入搜索以通过含义而不是确切的关键字查找内容，在会议期间或写作期间重新铺设相关的注释，清理自动格式的非结构化注释，以及用完整的知识基础上下文来创建，编辑和集思广益的代理聊天。版本历史记录通过让用户还原为早期的注释版本来添加控制。
-  href =“ https://alternativeto.net/software/mem/about/”&gt;有关mem  |]]></description>
-      <guid>https://alternativeto.net/news/2025/10/mem-2-0-relaunches-with-smarter-note-taking-tools-offline-support-and-a-new-agentic-chat/</guid>
-      <pubDate>Thu, 02 Oct 2025 16:52:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>家庭助理2025.10带来了改进的自动化编辑器，图像生成等等</title>
-      <link>https://alternativeto.net/news/2025/10/home-assistant-2025-10-brings-improved-automation-editor-image-generation-and-much-more/</link>
-      <description><![CDATA[ 家庭助理 2025.10现已上市，继续该平台朝着更灵活的更灵活，用户友好的家庭自动化体验迈进。此版本为自动化编辑器带来了重大增强功能，包括可重大的侧边栏，简化的块粘贴以及溢出菜单的返回。用户从撤消和重做功能中受益于最多75个编辑步骤，从而使自动化更改更加安全，更易于管理。 “重复”构建块也已分解为四个较小的组件，在构建例程时降低了复杂性。
-跟随
-使用此版本， esphome 基于 - 基于的语音助手允许用户正式定义两个唤醒单词并为每个设备分配两个助手，从而实现了可满足多语言需求的实用性。作为进一步的改进，辅助功能在本地动作中扮演简短的“蜂鸣声” ，而不是在可能的情况下进行全面口语响应。最后，该更新提供了11个新集成，现有集成之间的改进以及其他值得注意的增强和错误修复。
- 更多有关家庭助手的信息]]></description>
-      <guid>https://alternativeto.net/news/2025/10/home-assistant-2025-10-brings-improved-automation-editor-image-generation-and-much-more/</guid>
-      <pubDate>Thu, 02 Oct 2025 15:50:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
