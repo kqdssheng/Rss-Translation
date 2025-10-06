@@ -4,7 +4,57 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Mon, 06 Oct 2025 01:23:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 12:40:59 GMT</lastBuildDate>
+    <item>
+      <title>NotesNook 3.3已发布搜索过滤器，编辑统计数据和新的定价计划</title>
+      <link>https://alternativeto.net/news/2025/10/notesnook-3-3-has-been-released-with-search-filters-editor-stats-and-new-pricing-plans/</link>
+      <description><![CDATA[  notesnook ，开源的Note-Taking应用程序已启动了3.3.0版。此版本带来了新的搜索过滤器，编辑统计信息以及一系列旨在提高编辑器性能和可靠性的错误修复。
+除了这些功能添加之外，更新还包括对NotesNook的定价结构进行的全面大修。 NotesNook的主要开发商之一Abdullah Atta说，尽管没有人喜欢价格上涨，但目前的定价计划是不可持续的，他们必须提高价格才能继续前进。
+先前的单计划方法已退休。取而代之的是三个新的订阅层：基本，专业和信徒。该基本计划每月提供1 GB的存储空间，并以每月1.99美元或每年$ 19.99的价格解锁所有编辑器功能。虽然Pro计划将存储空间增加到每月10 GB，并且允许最高1 GB的文件，每月6.99美元或每年69.99美元，但信徒计划的目标是重度用户，以每月8.99美元的价格提供25 GB的存储空间，或每年89.99美元。 
+对于当前的专业订户，无论更新如何，现有的定价和功能访问都保持不变。但是，新用户和有非活动订阅的用户将需要以新的价格订阅以访问PRO功能。开发人员指出，需要这些价格上涨，以使Notes Nock Nock Nopple Noply Privation，无投资者和无广告。订阅更改后，该版本还完善了由于事先滥用而没有信用卡的免费计划，并停止免费试用。
+  href =“ https://alternativeto.net/software/notesnook/about/”&gt;有关NotesNook   |]]></description>
+      <guid>https://alternativeto.net/news/2025/10/notesnook-3-3-has-been-released-with-search-filters-editor-stats-and-new-pricing-plans/</guid>
+      <pubDate>Mon, 06 Oct 2025 11:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>junit 6.0添加Java 17＆Kotlin 2.2，统一版本和JSpemify Nullability注释</title>
+      <link>https://alternativeto.net/news/2025/10/junit-6-0-adds-java-17-and-kotlin-2-2-unified-versioning-and-jspecify-nullability-annotations/</link>
+      <description><![CDATA[  junit  6.0已发布，作为对流行 java的主要更新， 框架。 This version now requires Java 17 and Kotlin 2.2 as the minimum language levels, which may impact developers maintaining projects on older platforms.现在，所有平台，木星和复古文物现在共享相同的版本编号，使用户更容易依赖性管理。
+在这些核心变化上，所有junit模块都采用 jspecify  nullability notations  nullability注释，澄清哪种方法参数和返回类型可以保持 null 值值。该版本通过删除 junit-platform-jfr 模块及其Java飞行记录器（JFR）事件来简化现有模块 - 这些功能现在由&gt; code&gt; junit-platform-launcher 提供，也消除了 junit-platform-runner  for/code for in/code&gt; for/code for/code for/code for/code for/code for/codule for/codile for/caid for juinit 4 sers。
+Addressing test organization, the update enforces deterministic but intentionally nonobvious ordering of @Nested classes, extends @TestMethodOrder inheritance to @Nested inner classes, and introduces MethodOrderer.Default and ClassOrderer.Default types to reset order when needed. CSV input handling in @CsvSource and @CsvFileSource has moved from univocity-parsers to FastCSV, which improves error reporting and handling of malformed entries.
+Additional enhancements include support for Kotlin suspend functions as test methods, a --fail-fast mode for ConsoleLauncher, test execution cancellation via CancellationToken, the removal of deprecated APIs, and much更多，
+View article on AlternativeTo »更多有关Junit ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/10/junit-6-0-adds-java-17-and-kotlin-2-2-unified-versioning-and-jspecify-nullability-annotations/</guid>
+      <pubDate>Mon, 06 Oct 2025 09:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wine 10.16添加了NTSYNC快速同步，WOW64 16位应用程序和D3DKMT对象支持等等</title>
+      <link>https://alternativeto.net/news/2025/10/wine-10-16-adds-ntsync-fast-sync-wow64-16-bit-apps-and-d3dkmt-objects-support-and-more/</link>
+      <description><![CDATA[  Wine&gt; Wine  10.16现在可用，增强了在Posix-Compliant操作系统（包括Linux，MacOS和BSD）上运行Windows应用程序的能力。此更新包括与兼容性层用户相关的几个核心功能进步。
+葡萄酒中的关键补充10.16专注于改善同步和传统应用支持。该版本引入了与NTSYNC快速同步，旨在提高应用程序性能和响应能力。此外，Wine现在还支持在Windows-Windows 64位（WOW64）模式下运行16位应用程序，帮助依靠较旧软件的用户在现代硬件上保持生产力。
+遵循这些发展，葡萄酒10.16带来了对D3DKMT对象的初始支持。该基础图形子系统仿真扩大了可能在葡萄酒下使用的图形相关应用的范围。该更新还提供了在应用程序执行过程中使用Windows Metadata（WinMD）文件的支持，该文件可能使依靠Windows Runtime或Universal Windows Platform（UWP）Technologies的用户和开发人员受益。
+除了新功能之外，此发行版解决了影响各种软件和游戏的34个错误。这些修复程序旨在提高稳定性并扩大在葡萄酒下可靠运行的Windows应用程序的数量。
+  href =“ https://alternativeto.net/software/wine/about/”&gt;有关葡萄酒的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/10/wine-10-16-adds-ntsync-fast-sync-wow64-16-bit-apps-and-d3dkmt-objects-support-and-more/</guid>
+      <pubDate>Mon, 06 Oct 2025 07:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gradia v1.11添加了19种语言和批量注释编辑的OCR</title>
+      <link>https://alternativeto.net/news/2025/10/gradia-v1-11-adds-ocr-in-19-languages-and-bulk-annotation-editing/</link>
+      <description><![CDATA[  Gradia  V1.11.0和V1.11.1引入OCR，并支持19种语言，增强文本提取功能。现在，用户可以一次编辑诸如颜色和​​宽度之类的注释属性，以一次为多个选定的注释。该更新还为箭头和矩形等工具以及各种UI和可用性改进提供了扩展的调整大小选项。
+ 有关Gradia的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/10/gradia-v1-11-adds-ocr-in-19-languages-and-bulk-annotation-editing/</guid>
+      <pubDate>Mon, 06 Oct 2025 07:33:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>DockPeek 1.6.5添加了容器计数，图像修剪和注册表链接</title>
+      <link>https://alternativeto.net/news/2025/10/dockpeek-1-6-5-adds-container-counts-image-prune-and-registry-links/</link>
+      <description><![CDATA[  dockpeek  1.6.5现在显示运行，不健康，退出和暂停容器的计数，使用户清晰地概述了他们的Docker环境。该更新引入了一个图像修剪选项，以删除未使用的Docker映像并释放磁盘空间。由于新的注册表链接图标，用户还可以直接访问集装箱注册表。
+此外，UI的细化，更快的响应和模态卷轴修复可以增强可用性。
+ 查看文章href =“ https://alternativeto.net/software/dockpeek/about/”&gt;更多关于Dockpeek ＆nbsp; | |]]></description>
+      <guid>https://alternativeto.net/news/2025/10/dockpeek-1-6-5-adds-container-counts-image-prune-and-registry-links/</guid>
+      <pubDate>Mon, 06 Oct 2025 07:21:09 GMT</pubDate>
+    </item>
     <item>
       <title>Discord最近的支持数据泄露事件公开了用户信息，ID照片和信用卡详细信息</title>
       <link>https://alternativeto.net/news/2025/10/discord-s-recent-support-data-breach-exposes-user-info-id-photos-and-credit-card-details/</link>
@@ -101,55 +151,6 @@ View article on AlternativeTo »更多关于Raspberry pi os ＆nbsp; | | |]]></d
  查看文章href =“ https://alternativeto.net/software/mymind/about/”&gt;更多有关mymind ＆nbsp; |＆nbsp; |]]></description>
       <guid>https://alternativeto.net/news/2025/10/mymind-introduces-more-affordable-plan-for-unlimited-visual-bookmarks/</guid>
       <pubDate>Fri, 03 Oct 2025 14:46:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Comet AI浏览器来自困惑，为所有用户启动全球范围</title>
-      <link>https://alternativeto.net/news/2025/10/comet-ai-browser-from-perplexity-launches-worldwide-for-all-users/</link>
-      <description><![CDATA[  comet ，来自删除其先前的仅邀请要求。浏览器引起了极大的兴趣，数以百万计的候补名单在短短84天内加入了候补名单。
- 更多有关Perplexity Comet ＆nbsp; | | |]]></description>
-      <guid>https://alternativeto.net/news/2025/10/comet-ai-browser-from-perplexity-launches-worldwide-for-all-users/</guid>
-      <pubDate>Fri, 03 Oct 2025 14:40:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>信号宣布加密信号协议后量词后安全性的进步</title>
-      <link>https://alternativeto.net/news/2025/10/signal-announces-advancements-in-post-quantum-security-for-the-encrypted-signal-protocol/</link>
-      <description><![CDATA[  Signal 正在通过引入稀疏的量子棘轮（SPQR）（SPQR）来增强量子安全性，这标志着其Cryptographic协议安全性的实质性增强。通过集成SPQR，Signal旨在更好地保护用户免受量子计算的预期威胁，同时保持建立的隐私保护完整，包括远期保密和后副业安全性。
-随着SPQR在其现有的双棘轮机制中添加，信号正在转移到新的三重棘轮结构。这种方法提供了量子安全消息传递，以确保对话现在和在密码相关的量子计算机成为现实的情况下保持安全。根据信号，用户无需采取任何行动；该更新将缓慢而仔细地部署，以确保所有对话都会自动过渡到新协议而不会中断。
-信号开始努力，开始努力促进该协议在2023 中的量子抵抗，并在2023 中的量子抗性，并参与了SPQR的整合。开源信号协议 2013年发布，是一套广泛采用的端到端加密通信规格，是信号和大型通信平台的基础，是信号和大型通信平台的基础。 href =“ https://alternativeto.net/software/whatsapp/about/”&gt; whatsapp 。
- 有关信号的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/10/signal-announces-advancements-in-post-quantum-security-for-the-encrypted-signal-protocol/</guid>
-      <pubDate>Fri, 03 Oct 2025 12:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google从2026年1月开始就结束了对Gmailify和Pop in Gmail的支持</title>
-      <link>https://alternativeto.net/news/2025/10/google-is-ending-support-for-gmailify-and-pop-in-gmail-starting-january-2026/</link>
-      <description><![CDATA[Google has announced that Gmail will stop supporting Gmailify and Post Office Protocol (POP) starting in January 2026. Gmailify is a feature that lets users apply Gmail capabilities, such as spam filtering and inbox organization, to third-party email accounts connected through Gmail.一旦支持结束，那些依靠POP协议（以用户设置的间隔下载消息）的人将需要切换到其他选项，例如IMAP。
-在此公告之后，用户仍然能够使用Internet消息访问协议（IMAP）在Gmail应用程序中的外部提供商中访问和管理电子邮件。 IMAP继续在Gmail中支持，并允许实时同步而无需限制POP。用户可以使用IMAP Connections在Gmail移动应用中的链接外部帐户中继续阅读和发送消息。
-对于当前用户，要注意，只有将来的电子邮件同步才会受这些更改的影响。已经下载并同步到Gmail帐户的任何消息都将保持访问，并且以前配置的外部帐户仍然可以通过IMAP使用。
-  href =“ https://alternativeto.net/software/gmail/about/”&gt;有关Gmail的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/10/google-is-ending-support-for-gmailify-and-pop-in-gmail-starting-january-2026/</guid>
-      <pubDate>Fri, 03 Oct 2025 09:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Serif在突然的更改和即将发布的重大公告中免费提供亲和力iPad应用程序</title>
-      <link>https://alternativeto.net/news/2025/10/serif-makes-affinity-ipad-apps-free-amid-sudden-changes-and-upcoming-major-announcement/</link>
-      <description><![CDATA[ serif意外地制作了所有亲和力iPad应用程序 - 包括 affinity Designer ， affinity Publisher   - 免费索取，似乎是终身许可证。这种突然的赠品不是一个扩展的试验，而是对那些迅速采取行动的人的永久访问。
-之后“&gt; Serif在3月26日，Canva在2024年3月26日（2024 。
-切割进一步扩展到从Apple App Store中删除Apple App app Store ，使新的或返回的用户无法下载或购买或购买它们。在这些事态发展的过程中，Serif正在推广10月30日的重要公告，尽管没有提供具体的细节。 。
-有些人期望具有潜在的AI功能的改建的亲和力套件，并可能采用订阅或基于令牌的定价模型，从而删除终身许可证模型，但这仍然是猜测，直到官方展示为止。。
-View article on AlternativeTo »更多有关亲和力照片的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/10/serif-makes-affinity-ipad-apps-free-amid-sudden-changes-and-upcoming-major-announcement/</guid>
-      <pubDate>Fri, 03 Oct 2025 08:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft使用Office Apps＆Copilot Pro启动新的高级计划，以及更新的应用程序图标</title>
-      <link>https://alternativeto.net/news/2025/10/microsoft-launches-new-premium-plan-with-office-apps-and-copilot-pro-plus-updated-app-icons/</link>
-      <description><![CDATA[ Microsoft引入了一个新的$ 19.99-每月计划，称为 Microsoft 365 使用Copilot Pro的应用程序和服务。 It includes Microsoft Word, Microsoft Excel,  Microsoft PowerPoint ， Microsoft Outlook 带有 desktop apps模型，较高的使用限制，副业实验室以及像研究人员和分析师这样的推理代理，它们将很快扩展到Word，PowerPoint和Excel。
- premium还支持最多六个用户，每个用户 Microsoft Defender ，尽管只有主要帐户持有人当前只能解锁Copilot AI功能。该计划为功能提供了最高的限制，例如 gpt-4o  图像生成，播客，深度研究，视觉，视觉，动作，动作，动作和即将出现的语音支持。新的照片代理也是副应用程序的一部分。
-Alongside this new Premium tier, Microsoft is also launching refreshed Office icons for all 10 core apps, featuring a more colorful, gradient-rich, and curvier Fluent design inspired by the Copilot icon.他们将在接下来的几周内跨越网络，桌面和移动设备。
-View article on AlternativeTo »有关Microsoft 365 Copilot ＆nbsp; |替代方案 ]]></description>
-      <guid>https://alternativeto.net/news/2025/10/microsoft-launches-new-premium-plan-with-office-apps-and-copilot-pro-plus-updated-app-icons/</guid>
-      <pubDate>Thu, 02 Oct 2025 21:54:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
