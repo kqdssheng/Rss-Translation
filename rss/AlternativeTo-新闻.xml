@@ -4,7 +4,17 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Sun, 05 Oct 2025 12:35:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 01:23:23 GMT</lastBuildDate>
+    <item>
+      <title>Discord最近的支持数据泄露事件公开了用户信息，ID照片和信用卡详细信息</title>
+      <link>https://alternativeto.net/news/2025/10/discord-s-recent-support-data-breach-exposes-user-info-id-photos-and-credit-card-details/</link>
+      <description><![CDATA[Discord has recently confirmed a big data违规涉及其第三方客户服务提供商之一。虽然公司自己的系统没有直接妥协，但攻击者可以访问外部支持伙伴，从而揭示了与Discord的客户支持或Trust＆amp＆amp; amp; amp; amp; amp; amp; amp; amp; to;安全团队。泄漏的信息包括名称，用户名，电子邮件地址和信用卡的最后四位数。
+值得注意的是，访问了少数政府发行的身份证图像，例如护照和驾驶执照。这些ID照片是由吸引Discord年龄验证过程的用户提交的，最近介绍了
+ Discord表示没有影响密码，身份验证数据或完整的信用卡详细信息。该公司正在通过电子邮件发送受影响的用户，指定是否涉及ID图像，并撤销了供应商的访问权限，通知数据保护机构并参与执法部门。它还加强了威胁检测和第三方安全措施。最近未从事客户支持的用户可能不会受到影响。
+  href =“ https://alternativeto.net/software/discord-app/about/”&gt;更多有关Discord ＆nbsp; | |＆nbsp; &lt;A href =“ https://alternatativeto.net/software/software/software/discord-app-parkopord-comport-]]></description>
+      <guid>https://alternativeto.net/news/2025/10/discord-s-recent-support-data-breach-exposes-user-info-id-photos-and-credit-card-details/</guid>
+      <pubDate>Sun, 05 Oct 2025 17:26:39 GMT</pubDate>
+    </item>
     <item>
       <title>AI编码代理Google启动Jules Tools CLI直接终端访问和公共API</title>
       <link>https://alternativeto.net/news/2025/10/ai-coding-agent-google-launches-jules-tools-cli-for-direct-terminal-access-and-public-api/</link>
@@ -105,7 +115,7 @@ View article on AlternativeTo »更多关于Raspberry pi os ＆nbsp; | | |]]></d
       <link>https://alternativeto.net/news/2025/10/signal-announces-advancements-in-post-quantum-security-for-the-encrypted-signal-protocol/</link>
       <description><![CDATA[  Signal 正在通过引入稀疏的量子棘轮（SPQR）（SPQR）来增强量子安全性，这标志着其Cryptographic协议安全性的实质性增强。通过集成SPQR，Signal旨在更好地保护用户免受量子计算的预期威胁，同时保持建立的隐私保护完整，包括远期保密和后副业安全性。
 随着SPQR在其现有的双棘轮机制中添加，信号正在转移到新的三重棘轮结构。这种方法提供了量子安全消息传递，以确保对话现在和在密码相关的量子计算机成为现实的情况下保持安全。根据信号，用户无需采取任何行动；该更新将缓慢而仔细地部署，以确保所有对话都会自动过渡到新协议而不会中断。
-信号开始努力，开始努力促进该协议在2023 中的量子抵抗，并在2023 中的量子抗性，并参与了SPQR的整合。开源信号协议 2013年发布，是一套广泛采用的端到端加密通信规格，是信号和大型通信平台中的私人信息的基础， href =“ https://alternativeto.net/software/whatsapp/about/”&gt; whatsapp 。
+信号开始努力，开始努力促进该协议在2023 中的量子抵抗，并在2023 中的量子抗性，并参与了SPQR的整合。开源信号协议 2013年发布，是一套广泛采用的端到端加密通信规格，是信号和大型通信平台的基础，是信号和大型通信平台的基础。 href =“ https://alternativeto.net/software/whatsapp/about/”&gt; whatsapp 。
  有关信号的更多信息]]></description>
       <guid>https://alternativeto.net/news/2025/10/signal-announces-advancements-in-post-quantum-security-for-the-encrypted-signal-protocol/</guid>
       <pubDate>Fri, 03 Oct 2025 12:40:00 GMT</pubDate>
@@ -140,15 +150,6 @@ Alongside this new Premium tier, Microsoft is also launching refreshed Office ic
 View article on AlternativeTo »有关Microsoft 365 Copilot ＆nbsp; |替代方案 ]]></description>
       <guid>https://alternativeto.net/news/2025/10/microsoft-launches-new-premium-plan-with-office-apps-and-copilot-pro-plus-updated-app-icons/</guid>
       <pubDate>Thu, 02 Oct 2025 21:54:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国重新发行要求苹果解锁英国公民的加密iCloud数据</title>
-      <link>https://alternativeto.net/news/2025/10/uk-reissues-demand-for-apple-to-unlock-encrypted-icloud-data-of-british-citizens/</link>
-      <description><![CDATA[   href =“ https://www.ft.com/content/d101fd62-14f9-4f9-4f51-beff-ea41e8794265”&gt; Financial Times现在报告href =“ https://feed.alternativeto.net/software/icloud/about/”&gt; iCloud 英国公民的备份。 Unlike the earlier request from January, which sought worldwide access, this technical capability notice is limited to UK users and is intended to support对恐怖主义和儿童性虐待的调查（是的，一月份的命令引发了与美国的外交紧张局势，因为它要求访问全球所有Apple用户的加密数据。 在压力下，英国最终同意在8月对美国公民的需求。 苹果在公共部落中，同时向反对派申请，同时又有一个行为，同时申请了一个公共部落，同时又有一个行为。政府的立场。
-高级数据保护是一种选择加入功能，可将端到端加密应用于iCloud备份，因此即使Apple也无法访问它们。苹果发言人对英国用户不可用的功能仍然令人失望，而隐私提倡则警告说，遵守最新订单可以通过为其他政府设定类似访问权限的先例在全球范围内削弱全球保护措施。 
- 更多有关icloud ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/10/uk-reissues-demand-for-apple-to-unlock-encrypted-icloud-data-of-british-citizens/</guid>
-      <pubDate>Thu, 02 Oct 2025 21:14:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
