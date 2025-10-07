@@ -4,7 +4,28 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Tue, 07 Oct 2025 01:23:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 12:41:02 GMT</lastBuildDate>
+    <item>
+      <title>JetBrains 将与 Zed 合作，将代理客户端协议 (ACP) 引入他们的 IDE</title>
+      <link>https://alternativeto.net/news/2025/10/jetbrains-will-collaborate-with-zed-to-bring-the-agent-client-protocol-acp-to-their-ides/</link>
+      <description><![CDATA[ Jetbrains已宣布与 zed  
+从此范围内，Jetbrains计划为其完整的IDE提供ACP支持，包括 Intellij ivea href =“ https://alternativeto.net/software/pycharm/about/”&gt; pycharm ， webstorm 以及其生态系统中的其他工具。此举将使开发人员灵活地使用他们已经使用的编辑器中的任何ACP兼容代理，从而扩大了本机集成以外的选择。
+在探索了对自己的代理商的代理支持标准方法后， junie 和第三方代理人 href=&quot;https://alternativeto.net/software/openai-codex/about/&quot;&gt;Codex and Gemini CLI, JetBrains determined — following discussions with Zed — that ACP was the preferred path forward.使用Jetbrains载板，ACP准备成为与代码编辑和其他开发人员工具集成的代理商的标准。
+协议本身将代理与编辑器分开。开发人员构建一个 acp 实现，确保与采用协议的任何编辑器的兼容性。这减少了对重复的自定义集成的需求，并消除了用户的供应商锁定，从而在熟悉的开发环境中可以选择的代理。
+View article on AlternativeTo »更多关于代理客户端协议的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/10/jetbrains-will-collaborate-with-zed-to-bring-the-agent-client-protocol-acp-to-their-ides/</guid>
+      <pubDate>Tue, 07 Oct 2025 07:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows 11删除了Microsoft帐户设置的所有旁路方法，删除本地帐户</title>
+      <link>https://alternativeto.net/news/2025/10/windows-11-now-blocks-all-microsoft-account-bypasses-during-setup/</link>
+      <description><![CDATA[最近 Windows 11 设置，完全 block block Microsoft帐户需求在最初的安装过程中，请封锁剩余的方法。在最新的预览构建中，公司禁用了先前的解决方法，例如注册表编辑和 start MS-CXH：localonly 命令，该命令允许用户在开箱即用的经验中创建本地帐户。。
+从现在开始，用户将需要一个活动的Internet连接和Microsoft帐户来完成安装，而在设置过程中无需创建本地帐户。微软表示，删除仅本地方法可以防止跳过配置步骤，并确保设备正确设置并安全。此更改是该公司更广泛的“仅本地命令删除”计划的一部分，强化了绕过帐户创建可能导致不完整的设置或潜在的安全问题。
+随便用户没有剩余的简单旁路，但是高级用户仍然可以通过在通过无人值守的设置安装之前编辑Windows图像来配置本地帐户，这是大多数不适合的复杂方法。 Microsoft还添加了一个小型自定义选项，使用setDefaultUserFolder.cmd命令在OOBE期间重命名默认用户文件夹，并在现在强制性的在线设置过程中提供有限的个性化。
+ 交流中的文章href =“ https://alternativeto.net/software/windows-11/about/”&gt;有关Windows 11 ＆nbsp; |＆nbsp; &lt;A href =“ https://alternatativeto.net/software/software/software/windows-11/]]></description>
+      <guid>https://alternativeto.net/news/2025/10/windows-11-now-blocks-all-microsoft-account-bypasses-during-setup/</guid>
+      <pubDate>Tue, 07 Oct 2025 05:19:25 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI启动交互式Chatgpt应用程序和用于构建AI代理的新代理商工具包</title>
       <link>https://alternativeto.net/news/2025/10/openai-launches-interactive-chatgpt-apps-and-the-new-agentkit-toolkit-for-building-ai-agents/</link>
@@ -17,15 +38,14 @@
     <item>
       <title>GIMP 3.0.6改善主题集成，过滤器工作流和文件支持</title>
       <link>https://alternativeto.net/news/2025/10/gimp-3-0-6-improves-theme-integration-filter-workflows-and-file-support/</link>
-      <description><![CDATA[GIMP 3.0.6 现已适用于 Linux、macOS 和 Windows，为开源图像编辑器带来了界面、性能和兼容性方面的改进。此更新在“画笔和字体”对话框中添加了一个新选项，以将预览与颜色主题相匹配，以及可缩放网格和列表视图以及用于更顺畅导航的精致缩放算法。
-通过可直接应用于频道的非破坏性滤镜、自动禁用不可用的滤镜以及更好地撤消锁定内容操作的跟踪，增强了编辑工作流程。图像大小调整现在独立于选择，Adobe Photoshop 画笔兼容性得到改进，调色板导入功能获得 Alpha 值支持，并通过更清晰的文件过滤更好地处理 Lab 和 CMYK ACB 调色板。
-导入和导出功能得到扩展，改进了对 JPEG 2000、TIFF、DDS、SVG 等格式的处理，并修复了影响蒙版创建、颜色编辑和多层转换的错误。
-查看有关 AlternativeTo 的文章有关 GIMP 的更多信息 | GIMP 替代品]]></description>
+      <description><![CDATA[  gimp  3.0.6现在可用于Linux，macOS和Windows，带来界面，性能和相当性改进开放源图像Image Image Image Editor。该更新在“刷子和字体”对话框中添加了一个新选项，以与颜色主题匹配预览，以及可缩放的网格和列表视图以及一个用于更平滑的导航的精制变焦算法。
+通过非破坏性过滤器增强了编辑工作流，这些过滤器可以直接应用于通道，自动禁用不可用的过滤器以及更好的撤消跟踪来进行锁定内容操作。图像调整大小现在独立于选择， adobe photoshop 提高了刷子的兼容性，并改善了刷子的兼容性，并提高了PALETTE的功能gains alpha alpha alpha alpha alpha alpha alpha alpha alpha alpha alpha alpha alpha alpha alpha alpha alpha alpha clear a clear a clear a clear a clear acm cmyk acb palets 进口和出口功能通过改进的jpeg 2000，TIFF，DDS，SVG等格式进行了改进的处理，以及影响蒙版创建，颜色编辑和多层转换的错误修复。
+ 有关Gimp ＆nbsp; |＆nbsp; &lt;A href =“ https：//alternativeto.net/software/software/gimpp;]]></description>
       <guid>https://alternativeto.net/news/2025/10/gimp-3-0-6-improves-theme-integration-filter-workflows-and-file-support/</guid>
       <pubDate>Mon, 06 Oct 2025 18:36:01 GMT</pubDate>
     </item>
     <item>
-      <title>Cairo-Dock 3.6 发布，支持 Wayland 和 HiDPI，并改进了 systemd 集成</title>
+      <title>开罗 - 狄克3.6与Wayland和Hidpi支持一起发布，以及改进的SystemD集成</title>
       <link>https://alternativeto.net/news/2025/10/cairo-dock-3-6-released-with-wayland-and-hidpi-support-plus-improved-systemd-integration/</link>
       <description><![CDATA[Cairo-Dock 3.6 brings significant improvements for Linux desktop users by introducing initial support for the Wayland display protocol.该码头现在在几个Wayland组合中工作，例如 wayfire ， labwc ，and  gnome 尚未支持。此外，此版本还通过整数缩放添加了高分辨率（HIDPI）屏幕支持。这样可以确保所有开罗巨头元素看起来清晰明确，避免了现代高分辨率监视器上的模糊性。
 构建这些显示增强功能，开罗 -  dock 3.6与
@@ -57,7 +77,7 @@ View article on AlternativeTo »更多有关Junit ＆nbsp; |＆nbsp; |]]></descr
       <pubDate>Mon, 06 Oct 2025 09:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>Wine 10.16 添加了 NTSync 快速同步、WoW64 16 位应用程序和 D3DKMT 对象支持等</title>
+      <title>Wine 10.16添加了NTSYNC快速同步，WOW64 16位应用程序和D3DKMT对象支持等等</title>
       <link>https://alternativeto.net/news/2025/10/wine-10-16-adds-ntsync-fast-sync-wow64-16-bit-apps-and-d3dkmt-objects-support-and-more/</link>
       <description><![CDATA[  Wine&gt; Wine  10.16现在可用，增强了在Posix-Compliant操作系统（包括Linux，MacOS和BSD）上运行Windows应用程序的能力。此更新包括与兼容性层用户相关的几个核心功能进步。
 葡萄酒中的关键补充10.16专注于改善同步和传统应用支持。该版本引入了与NTSYNC快速同步，旨在提高应用程序性能和响应能力。此外，Wine现在还支持在Windows-Windows 64位（WOW64）模式下运行16位应用程序，帮助依靠较旧软件的用户在现代硬件上保持生产力。
@@ -132,27 +152,6 @@ View article on AlternativeTo »更多有关Junit ＆nbsp; |＆nbsp; |]]></descr
  有关Gmail的更多信息]]></description>
       <guid>https://alternativeto.net/news/2025/10/gmail-s-end-to-end-encryption-for-enterprises-now-works-with-external-email-providers/</guid>
       <pubDate>Fri, 03 Oct 2025 19:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>格兰诺拉麦片添加了上下文感知的AI提示和自定义工作流个性化的食谱</title>
-      <link>https://alternativeto.net/news/2025/10/granola-adds-recipes-for-context-aware-ai-prompts-and-custom-workflow-personalization/</link>
-      <description><![CDATA[会议的AI笔记助手 granola 已引入食谱，它是重新设计的 href =“ https://alternativeto.net/news/2025/5/granola-adds-cross-meeting-cross-meeting-chat-c​​hat-and-reasoning-with-thinking-mode/&gt; granola chat 。
-食谱提供了使用成绩单，对话和注释来生成更相关的响应，提供了与用户工作环境链接的预先构建的AI提示。可以通过键入“/”打开以工作流程为中心的选项菜单，直接在格兰诺拉麦聊天中访问它们。
-用户可以创建自己的食谱，无论是私人的还是与同事共享的食谱，但是该平台已经提供了一些来自发布会的专业食谱，包括从集思广益会议中起草产品需求文档，为与过去的讨论背景的会议做准备，并从设计批评中收集结构化的反馈。其他选项支持基于1：1反馈的教练，撰写战略讨论的摘要或分析销售要求改进过程。
- 更多关于granola  ＆nbsp; | |＆nbsp;  granola &lt;/]]></description>
-      <guid>https://alternativeto.net/news/2025/10/granola-adds-recipes-for-context-aware-ai-prompts-and-custom-workflow-personalization/</guid>
-      <pubDate>Fri, 03 Oct 2025 17:17:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Raspberry Pi OS更新了Debian 13的新外观和统一控制中心应用程序</title>
-      <link>https://alternativeto.net/news/2025/10/raspberry-pi-os-updates-to-debian-13-with-fresh-new-look-and-unified-control-center-app/</link>
-      <description><![CDATA[  raspberry pi os 已移至Debian 13“ Trixie”基金会，同时继续使用Linux 6.12长期支持Kernel。此基础更新为提高覆盖物PI设备的兼容性和未来增强功能奠定了基础。
-随着核心系统的更改，此版本引入了重新设计的桌面主题。用户会注意到一套全新的图标，新的现代字体，更新的桌面背景以及旨在现代化视觉体验的小型接口调整。
-在接口改进的构建中，一个新的控制中心应用程序整合了系统的首选项。它替换了单个工具，例如Raspberry Pi配置，外观设置，鼠标和键盘设置，屏幕配置以及打印机，使对用户的系统设置的管理更有效。
-在捆绑软件中，书架应用程序现在重点介绍了最新的标题，这些标题将通过挂锁图标免费，从而为用户提供有关即将到来的内容可访问性的视觉提示。同时，对包装管理的增强功能提高了性能，现在可以在纤细的Raspberry Pi Os Lite中获得其他包裹。这些更改为运行轻量级设置的用户扩展了选项。
-View article on AlternativeTo »更多关于Raspberry pi os ＆nbsp; | | |]]></description>
-      <guid>https://alternativeto.net/news/2025/10/raspberry-pi-os-updates-to-debian-13-with-fresh-new-look-and-unified-control-center-app/</guid>
-      <pubDate>Fri, 03 Oct 2025 15:50:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
