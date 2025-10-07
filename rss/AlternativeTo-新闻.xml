@@ -4,9 +4,38 @@
     <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Mon, 06 Oct 2025 12:40:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 01:23:46 GMT</lastBuildDate>
     <item>
-      <title>NotesNook 3.3已发布搜索过滤器，编辑统计数据和新的定价计划</title>
+      <title>OpenAI启动交互式Chatgpt应用程序和用于构建AI代理的新代理商工具包</title>
+      <link>https://alternativeto.net/news/2025/10/openai-launches-interactive-chatgpt-apps-and-the-new-agentkit-toolkit-for-building-ai-agents/</link>
+      <description><![CDATA[ OpenAi引入了交互式 chatgpt apps ，让用户让用户访问外部服务，例如 coursera ， booking.com ， canva 直接在构建基于模型上下文context协议（MCP），这些应用程序将这些应用程序牢固地连接到外部数据源，并在聊天响应中提供交互式交互式。该启动以
+用户可以通过自然语言与这些应用程序进行交互，例如要求Spotify根据个人音乐偏好为特定事件创建播放列表，或要求Coursera解释主题。 CHATGPT还可以根据对话自动层面相关的应用程序。为了支持开发人员，OpenAI发布了其应用程序SDK 用于构建和测试自定义ChatGpt应用程序的预览。该公司计划启用集成登录，介绍 doordash ， uber 和与此相同，Openai启动了 AgentKit ，一种工具箱，可简化AI代理的创建和部署，可与&lt;&lt; href =“ https://feed.alternativeto.net/software/n8n-io/about/”&gt; n8n.io 或
+  href =“ https://alternativeto.net/software/chatgpt/about/”&gt;更多关于chatgpt ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/10/openai-launches-interactive-chatgpt-apps-and-the-new-agentkit-toolkit-for-building-ai-agents/</guid>
+      <pubDate>Mon, 06 Oct 2025 20:48:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>GIMP 3.0.6改善主题集成，过滤器工作流和文件支持</title>
+      <link>https://alternativeto.net/news/2025/10/gimp-3-0-6-improves-theme-integration-filter-workflows-and-file-support/</link>
+      <description><![CDATA[GIMP 3.0.6 现已适用于 Linux、macOS 和 Windows，为开源图像编辑器带来了界面、性能和兼容性方面的改进。此更新在“画笔和字体”对话框中添加了一个新选项，以将预览与颜色主题相匹配，以及可缩放网格和列表视图以及用于更顺畅导航的精致缩放算法。
+通过可直接应用于频道的非破坏性滤镜、自动禁用不可用的滤镜以及更好地撤消锁定内容操作的跟踪，增强了编辑工作流程。图像大小调整现在独立于选择，Adobe Photoshop 画笔兼容性得到改进，调色板导入功能获得 Alpha 值支持，并通过更清晰的文件过滤更好地处理 Lab 和 CMYK ACB 调色板。
+导入和导出功能得到扩展，改进了对 JPEG 2000、TIFF、DDS、SVG 等格式的处理，并修复了影响蒙版创建、颜色编辑和多层转换的错误。
+查看有关 AlternativeTo 的文章有关 GIMP 的更多信息 | GIMP 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/gimp-3-0-6-improves-theme-integration-filter-workflows-and-file-support/</guid>
+      <pubDate>Mon, 06 Oct 2025 18:36:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cairo-Dock 3.6 发布，支持 Wayland 和 HiDPI，并改进了 systemd 集成</title>
+      <link>https://alternativeto.net/news/2025/10/cairo-dock-3-6-released-with-wayland-and-hidpi-support-plus-improved-systemd-integration/</link>
+      <description><![CDATA[Cairo-Dock 3.6 brings significant improvements for Linux desktop users by introducing initial support for the Wayland display protocol.该码头现在在几个Wayland组合中工作，例如 wayfire ， labwc ，and  gnome 尚未支持。此外，此版本还通过整数缩放添加了高分辨率（HIDPI）屏幕支持。这样可以确保所有开罗巨头元素看起来清晰明确，避免了现代高分辨率监视器上的模糊性。
+构建这些显示增强功能，开罗 -  dock 3.6与
+随着小程序的更改，天气小部件现在使用新的提供商。结果，用户需要重新进入其位置作为坐标。开发人员为下一个版本计划了一种更具用户友好的位置选择方法。开罗 - 借口3.6还包括几种语言的更新翻译，以及其他增强功能和错误修复。
+ 在交流中的文章href =“ https://alternativeto.net/software/cairo-dock/about/”&gt;更多有关Cairo-Dock ＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/10/cairo-dock-3-6-released-with-wayland-and-hidpi-support-plus-improved-systemd-integration/</guid>
+      <pubDate>Mon, 06 Oct 2025 12:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Notesnook 3.3 已发布，包含搜索过滤器、编辑器统计信息和新的定价计划</title>
       <link>https://alternativeto.net/news/2025/10/notesnook-3-3-has-been-released-with-search-filters-editor-stats-and-new-pricing-plans/</link>
       <description><![CDATA[  notesnook ，开源的Note-Taking应用程序已启动了3.3.0版。此版本带来了新的搜索过滤器，编辑统计信息以及一系列旨在提高编辑器性能和可靠性的错误修复。
 除了这些功能添加之外，更新还包括对NotesNook的定价结构进行的全面大修。 NotesNook的主要开发商之一Abdullah Atta说，尽管没有人喜欢价格上涨，但目前的定价计划是不可持续的，他们必须提高价格才能继续前进。
@@ -28,7 +57,7 @@ View article on AlternativeTo »更多有关Junit ＆nbsp; |＆nbsp; |]]></descr
       <pubDate>Mon, 06 Oct 2025 09:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>Wine 10.16添加了NTSYNC快速同步，WOW64 16位应用程序和D3DKMT对象支持等等</title>
+      <title>Wine 10.16 添加了 NTSync 快速同步、WoW64 16 位应用程序和 D3DKMT 对象支持等</title>
       <link>https://alternativeto.net/news/2025/10/wine-10-16-adds-ntsync-fast-sync-wow64-16-bit-apps-and-d3dkmt-objects-support-and-more/</link>
       <description><![CDATA[  Wine&gt; Wine  10.16现在可用，增强了在Posix-Compliant操作系统（包括Linux，MacOS和BSD）上运行Windows应用程序的能力。此更新包括与兼容性层用户相关的几个核心功能进步。
 葡萄酒中的关键补充10.16专注于改善同步和传统应用支持。该版本引入了与NTSYNC快速同步，旨在提高应用程序性能和响应能力。此外，Wine现在还支持在Windows-Windows 64位（WOW64）模式下运行16位应用程序，帮助依靠较旧软件的用户在现代硬件上保持生产力。
@@ -124,33 +153,6 @@ View article on AlternativeTo »更多有关Junit ＆nbsp; |＆nbsp; |]]></descr
 View article on AlternativeTo »更多关于Raspberry pi os ＆nbsp; | | |]]></description>
       <guid>https://alternativeto.net/news/2025/10/raspberry-pi-os-updates-to-debian-13-with-fresh-new-look-and-unified-control-center-app/</guid>
       <pubDate>Fri, 03 Oct 2025 15:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>勇敢的钱包将Cardano整合到ADA和本地资产</title>
-      <link>https://alternativeto.net/news/2025/10/brave-wallet-integrates-cardano-for-ada-and-native-assets/</link>
-      <description><![CDATA[Brave Wallet now allows users to store and manage ADA and Cardano native assets directly within the browser, removing需要扩展。用户还可以发送和接收Cardano交易，执行令牌掉期和本地参与Cardano治理。
-这些功能可通过Brave的钱包图标立即为所有桌面用户提供。
- 查看文章href =“ https://alternativeto.net/software/software/brave-wallet/about/”&gt;更多关于Brave Wallet ＆nbsp; | |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/10/brave-wallet-integrates-cardano-for-ada-and-native-assets/</guid>
-      <pubDate>Fri, 03 Oct 2025 15:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>粘贴6推出了MacOS，iOS和iPados的液体玻璃重新设计</title>
-      <link>https://alternativeto.net/news/2025/10/paste-6-launches-liquid-glass-redesign-for-macos-ios-and-ipados/</link>
-      <description><![CDATA[  paste  6介绍了MacOS，iOS和iPados的完整重新设计，其中包含新型Liquid Glass Interface构建了苹果最新框架的新液体玻璃界面。 MacOS应用程序现在提供了一个浮动，半透明的窗口和精制剪贴板预览，可针对MacOS 26 Tahoe进行了优化。
- iOS和iPados版本获得新的导航控件，类似玻璃的视觉效果和改进的多任务支持。
- 在交流中查看文章href =“ https://alternativeto.net/software/paste-for-mac/about/”&gt;更多关于粘贴的信息]]></description>
-      <guid>https://alternativeto.net/news/2025/10/paste-6-launches-liquid-glass-redesign-for-macos-ios-and-ipados/</guid>
-      <pubDate>Fri, 03 Oct 2025 14:52:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>MyMind介绍了无限无限的视觉书签的更实惠的计划</title>
-      <link>https://alternativeto.net/news/2025/10/mymind-introduces-more-affordable-plan-for-unlimited-visual-bookmarks/</link>
-      <description><![CDATA[  myMind 已启动了新的&#39;The Bookmarker&#39;计划，可在台式机和移动设备上使用，以每月4.99美元的价格提供无限的书签。该计划着重于直接的视觉书签，不包括AI功能。
-它加入了现有的“生命学生”和“策划”订阅选项。
- 查看文章href =“ https://alternativeto.net/software/mymind/about/”&gt;更多有关mymind ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/10/mymind-introduces-more-affordable-plan-for-unlimited-visual-bookmarks/</guid>
-      <pubDate>Fri, 03 Oct 2025 14:46:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
