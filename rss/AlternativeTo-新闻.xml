@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 - AlternativeTo.net</title>
+    <title>新闻 - 替代品</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Wed, 08 Oct 2025 01:23:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 12:41:16 GMT</lastBuildDate>
+    <item>
+      <title>Google将蛋白石AI应用程序构建器扩展到另外15个国家，并提高性能</title>
+      <link>https://alternativeto.net/news/2025/10/google-expands-opal-ai-app-builder-to-15-more-countries-and-boosts-performance/</link>
+      <description><![CDATA[Google 已将其用于构建、编辑和共享 AI 迷你应用的自然语言驱动工具 Opal 的使用范围扩大到另外 15 个国家/地区。此次推出覆盖加拿大、印度、日本、韩国、越南、印度尼西亚、巴西、新加坡、哥伦比亚、萨尔瓦多、哥斯达黎加、巴拿马、洪都拉斯、阿根廷和巴基斯坦，扩大了该平台在几大洲的覆盖范围。
+除了地域扩张之外，Google 还推出了关键的工作流程升级。用户现在可以在可视化编辑器中逐步运行其工作流程，或专注于控制台面板中的各个步骤。错误会被实时标记，并与相关步骤精确关联，从而提供即时上下文并减少故障排除期间的猜测。
+此外，Opal的核心性能也得到了增强。创建新项目现在明显比以前更快，因为 Google 大幅减少了启动等待时间。此外，Opal 可以并行执行多个工作流程步骤，从而实现更复杂的自动化并减少整体处理延迟。
+查看有关 AlternativeTo 的文章有关 Opal AI 的更多信息 | Opal AI 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/google-expands-opal-ai-app-builder-to-15-more-countries-and-boosts-performance/</guid>
+      <pubDate>Wed, 08 Oct 2025 11:25:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft延迟Xbox游戏通过了当前订户的终极价格上涨</title>
+      <link>https://alternativeto.net/news/2025/10/microsoft-delays-xbox-game-pass-ultimate-price-hikes-for-current-subscribers/</link>
+      <description><![CDATA[微软将推迟对部分国家/地区（包括德国、爱尔兰、南非）现有订阅者的 Xbox Game Pass Ultimate 涨价 韩国、波兰和意大利。宣布的较高费率目前仅适用于新购买的商品，而当前自动续订的订阅者将在至少两个月内维持旧的月费率。取消并重新购买的订阅者将按新价格付费。
+查看有关 AlternativeTo 的文章有关 Xbox Game Pass 的更多信息 | Xbox Game Pass 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/microsoft-delays-xbox-game-pass-ultimate-price-hikes-for-current-subscribers/</guid>
+      <pubDate>Wed, 08 Oct 2025 08:12:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ente Photos 现在允许用户在外部网站上嵌入公共相册，并自动更新</title>
+      <link>https://alternativeto.net/news/2025/10/ente-photos-now-lets-users-embed-public-albums-on-external-websites-with-auto-updates/</link>
+      <description><![CDATA[Ente，开源的端到端加密照片存储平台，现在允许用户将公共相册直接嵌入到自己的网站上。 Active Ente 订阅者可以使用此功能在网络上的任何位置展示照片集或作品集。
+要启用嵌入，用户可以为其选择的相册生成一个公共链接，该链接提供了可在任何外部网站上使用的嵌入代码。嵌入式相册复制了标准的观看者体验，让访问者可以在主机网站内浏览缩略图、查看全尺寸图像以及观看视频。嵌入的图库会自动更新以反映任何添加或删除的照片。
+嵌入功能支持受密码保护的相册，因此如果相册受到保护，访问者将需要输入正确的密码才能访问内容。
+查看有关 AlternativeTo 的文章有关 Ente 照片的更多信息 | Ente 照片替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/ente-photos-now-lets-users-embed-public-albums-on-external-websites-with-auto-updates/</guid>
+      <pubDate>Wed, 08 Oct 2025 07:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hana by Spline 添加了徽标叠加和图像变化功能</title>
+      <link>https://alternativeto.net/news/2025/10/hana-by-spline-adds-logo-overlay-and-image-variation-features/</link>
+      <description><![CDATA[  by spline 现在让用户将任何徽标或向量放在图片上，从而提高了设计项目的灵活性。该更新还引入了生成现有图像变化的能力，支持扩展的创意工作流程。
+ 有关Spline ＆nbsp; | | | &lt;a href =“]]></description>
+      <guid>https://alternativeto.net/news/2025/10/hana-by-spline-adds-logo-overlay-and-image-variation-features/</guid>
+      <pubDate>Wed, 08 Oct 2025 07:47:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Inoreader 与 n8n 集成以实现高级工作流程自动化</title>
+      <link>https://alternativeto.net/news/2025/10/inoreader-integrates-with-n8n-for-advanced-workflow-automation/</link>
+      <description><![CDATA[  inoreader 现在提供与
+ 更多有关inoreader ＆nbsp; | |]]></description>
+      <guid>https://alternativeto.net/news/2025/10/inoreader-integrates-with-n8n-for-advanced-workflow-automation/</guid>
+      <pubDate>Wed, 08 Oct 2025 07:36:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>MyMind介绍并搜索Instagram画廊帖子</title>
+      <link>https://alternativeto.net/news/2025/10/mymind-introduces-saving-and-search-for-instagram-gallery-posts/</link>
+      <description><![CDATA[  myMind 用户现在可以将Instagram画廊帖子直接保存到其帐户中，其中帖子以熟悉的格式显示。保存的帖子会自动标记并索引以增强可搜索性。每个保存的帖子将成为一个私人副本，即使删除了原始Instagram帖子，也可以访问。
+ 更多有关mymind ＆nbsp; |＆nbsp; |]]></description>
+      <guid>https://alternativeto.net/news/2025/10/mymind-introduces-saving-and-search-for-instagram-gallery-posts/</guid>
+      <pubDate>Wed, 08 Oct 2025 07:29:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>TestFlight 更新推出液态玻璃设计并添加辅助功能</title>
+      <link>https://alternativeto.net/news/2025/10/testflight-update-launches-liquid-glass-design-and-adds-accessibility-features/</link>
+      <description><![CDATA[ Apple已更新 Testflight  带有刷新设计的设计，该设计具有跨多个平台的液体玻璃界面。该版本还增加了可访问性改进，例如配音，语音控制和较大的文本选项。
+看来Apple还在研究测试人员匹配功能，旨在帮助用户找到合适的Beta应用程序，尽管尚未宣布。 
+View article on AlternativeTo »更多关于testflight  |]]></description>
+      <guid>https://alternativeto.net/news/2025/10/testflight-update-launches-liquid-glass-design-and-adds-accessibility-features/</guid>
+      <pubDate>Wed, 08 Oct 2025 07:21:37 GMT</pubDate>
+    </item>
     <item>
       <title>Anthropic推出Petri，一款用于LLM模型评估的开源AI安全审计工具</title>
       <link>https://alternativeto.net/news/2025/10/anthropic-launches-petri-an-open-source-ai-safety-audit-tool-for-llm-model-evaluation/</link>
@@ -43,7 +104,7 @@ ClamAV 1.5.0 还将外部签名支持扩展到 Freshclam、ClamD、ClamScan 和 
       <pubDate>Tue, 07 Oct 2025 15:18:58 GMT</pubDate>
     </item>
     <item>
-      <title>Instagram 推出 Rings 奖项以表彰富有创意的冒险家</title>
+      <title>Instagram介绍了戒指奖，以纪念创造性的冒险者</title>
       <link>https://alternativeto.net/news/2025/10/instagram-introduces-rings-awards-to-honor-creative-risk-takers/</link>
       <description><![CDATA[Instagram 宣布推出“Rings”奖项，旨在表彰勇于承担创意风险并塑造文化的创作者。获奖者由国际创意评审小组选出，并获得实体戒指和数字个人资料奖。
 这种认可包括在他们的故事周围佩戴一个特殊的金环，以及用于定制他们的个人资料的新选项。
@@ -52,15 +113,15 @@ ClamAV 1.5.0 还将外部签名支持扩展到 Freshclam、ClamD、ClamScan 和 
       <pubDate>Tue, 07 Oct 2025 14:59:22 GMT</pubDate>
     </item>
     <item>
-      <title>苹果在 iPadOS 26.1 beta 2 中恢复了 Slide Over 多任务处理</title>
+      <title>苹果带回iPados中的多任务处理26.1 Beta 2</title>
       <link>https://alternativeto.net/news/2025/10/apple-brings-back-slide-over-multitasking-in-ipados-26-1-beta-2/</link>
-      <description><![CDATA[Apple 在 iPadOS 26.1 Beta 2 中重新引入了 Slide Over 多任务处理功能，让用户可以在现有的窗口应用程序上叠加可调整大小的应用程序窗口。此更新部分恢复了 iPadOS 26 中删除的功能，但 Slide Over 目前一次仅支持一个应用。
-查看有关 AlternativeTo 的文章有关 iPadOS 的更多信息 | iPadOS 替代品]]></description>
+      <description><![CDATA[ Apple在 26.1 beta 2，让用户在现有窗口窗口上放置一个可重新设定的应用程序。此更新部分恢复了iPados 26中删除的功能，尽管幻灯片当前一次仅支持一个应用程序。
+ 有关iPados的更多信息]]></description>
       <guid>https://alternativeto.net/news/2025/10/apple-brings-back-slide-over-multitasking-in-ipados-26-1-beta-2/</guid>
       <pubDate>Tue, 07 Oct 2025 14:48:20 GMT</pubDate>
     </item>
     <item>
-      <title>ElevenLabs推出高级代理对话设计的代理工作流程</title>
+      <title>ElevenLabs 推出用于高级座席对话设计的座席工作流程</title>
       <link>https://alternativeto.net/news/2025/10/elevenlabs-launches-agent-workflows-for-advanced-agent-conversation-design/</link>
       <description><![CDATA[  Elevenlabs 已经启动了Agent Workflows，这是一个视觉编辑器，该视觉编辑器使用户能够设计代理平台中的复杂对话流。工作流让用户将对话路由到专业的子代理，每个子代理都有独特的提示，工具和知识库。
 此更新支持业务逻辑集成，安全的系统连接以及对人类运营商的更容易交接。
@@ -77,78 +138,6 @@ ClamAV 1.5.0 还将外部签名支持扩展到 Freshclam、ClamD、ClamScan 和 
  有关Ladybird ＆nbsp; |替代方案 ]]></description>
       <guid>https://alternativeto.net/news/2025/10/ladybird-passes-the-apple-90-thresholf-on-web-platform-tests-marking-a-major-milestone/</guid>
       <pubDate>Tue, 07 Oct 2025 14:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenSSH 10.1 增强了证书日志记录并禁止用户名中使用控制字符</title>
-      <link>https://alternativeto.net/news/2025/10/openssh-10-1-enhances-certificate-logging-and-disallows-control-characters-in-usernames/</link>
-      <description><![CDATA[OpenSSH 10.1 已作为 Secure Shell 协议套件的最新版本发布，带来了多项以用户为中心的增强功能和安全保障措施。此版本阻止命令行上提供的用户名中的控制字符或从配置 % 序列扩展的控制字符。它还不允许在 ssh:// 统一资源标识符 (URI) 中使用 NUL \0 字符，从而降低格式错误或恶意输入的风险。
-基于核心功能，OpenSSH 现在支持存储在 PKCS#11 兼容加密令牌上的 Ed25519 密钥。使用图形转发的用户将看到与 X11DisplayOffset 相关的 X11 显示编号检查，允许更高的端口范围而不影响默认值。对于诊断，SIGINFO 信号处理程序现在启用活动通道和会话日志记录。
-在故障排除更新之后，证书身份验证失败会在日志中提供证书识别信息和拒绝原因，从而简化对授权问题的调查。管理员使用 ssh_config 中的 RefuseConnection 选项获得新的配置灵活性，立即结束会话并显示指定的错误消息。
-为了协助持续的质量保证，单元测试框架获得了基本的基准测试功能。 OpenSSH 10.1 还包括可移植性增强功能并解决了大约十几个错误修复，从而提高了跨平台的可靠性。
-查看有关 AlternativeTo 的文章有关 OpenSSH 的更多信息 | OpenSSH 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/openssh-10-1-enhances-certificate-logging-and-disallows-control-characters-in-usernames/</guid>
-      <pubDate>Tue, 07 Oct 2025 12:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jetbrains将与ZED合作，将代理客户协议（ACP）带到其IDE</title>
-      <link>https://alternativeto.net/news/2025/10/jetbrains-will-collaborate-with-zed-to-bring-the-agent-client-protocol-acp-to-their-ides/</link>
-      <description><![CDATA[ Jetbrains已宣布与 zed  
-从此范围内，Jetbrains计划为其完整的IDE提供ACP支持，包括 Intellij ivea href =“ https://alternativeto.net/software/pycharm/about/”&gt; pycharm ， webstorm 以及其生态系统中的其他工具。此举将使开发人员灵活地使用他们已经使用的编辑器中的任何ACP兼容代理，从而扩大了本机集成以外的选择。
-在探索了对自己的代理商的代理支持标准方法后， junie 和第三方代理人 href=&quot;https://alternativeto.net/software/openai-codex/about/&quot;&gt;Codex and Gemini CLI, JetBrains determined — following discussions with Zed — that ACP was the preferred path forward.使用Jetbrains载板，ACP准备成为与代码编辑和其他开发人员工具集成的代理商的标准。
-协议本身将代理与编辑器分开。开发人员构建一个 acp 实现，确保与采用协议的任何编辑器的兼容性。这减少了重复自定义集成的需求，并消除了用户的供应商锁定，从而在熟悉的开发环境中可以选择的代理。
-View article on AlternativeTo »更多关于代理客户端协议的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/10/jetbrains-will-collaborate-with-zed-to-bring-the-agent-client-protocol-acp-to-their-ides/</guid>
-      <pubDate>Tue, 07 Oct 2025 07:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 11删除了Microsoft帐户设置的所有旁路方法，删除本地帐户</title>
-      <link>https://alternativeto.net/news/2025/10/windows-11-now-blocks-all-microsoft-account-bypasses-during-setup/</link>
-      <description><![CDATA[最近 Windows 11 设置，完全 block block Microsoft帐户需求 block  start MS-CXH：localonly 命令，该命令允许用户在开箱即用的经验中创建本地帐户。。
-从现在开始，用户将需要一个活动的Internet连接和Microsoft帐户来完成安装，而在设置过程中无需创建本地帐户。微软表示，删除仅本地方法可以防止跳过配置步骤，并确保设备正确设置并安全。此更改是该公司更广泛的“仅本地命令删除”计划的一部分，强化了绕过帐户创建可能导致不完整的设置或潜在的安全问题。
-随便用户没有剩余的简单旁路，但是高级用户仍然可以通过在通过无人值守的设置安装之前编辑Windows图像来配置本地帐户，这是大多数不适合的复杂方法。 Microsoft还添加了一个小型自定义选项，使用setDefaultUserFolder.cmd命令在OOBE期间重命名默认用户文件夹，并在现在强制性的在线设置过程中提供有限的个性化。
- 交流中的文章href =“ https://alternativeto.net/software/windows-11/about/”&gt;有关Windows 11 ＆nbsp; |＆nbsp; &lt;A href =“ https://alternatativeto.net/software/software/software/windows-11/]]></description>
-      <guid>https://alternativeto.net/news/2025/10/windows-11-now-blocks-all-microsoft-account-bypasses-during-setup/</guid>
-      <pubDate>Tue, 07 Oct 2025 05:19:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI启动交互式Chatgpt应用程序和用于构建AI代理的新代理商工具包</title>
-      <link>https://alternativeto.net/news/2025/10/openai-launches-interactive-chatgpt-apps-and-the-new-agentkit-toolkit-for-building-ai-agents/</link>
-      <description><![CDATA[ OpenAi引入了交互式 chatgpt apps ，让用户让用户访问外部服务，例如 coursera ， booking.com ， canva 直接在构建基于模型上下文context协议（MCP），这些应用程序将这些应用程序牢固地连接到外部数据源，并在聊天响应中提供交互式交互式。该启动以
-用户可以通过自然语言与这些应用程序进行交互，例如要求Spotify根据个人音乐偏好为特定事件创建播放列表，或要求Coursera解释主题。 CHATGPT还可以根据对话自动层面相关的应用程序。为了支持开发人员，OpenAI发布了其应用程序SDK 用于构建和测试自定义ChatGpt应用程序的预览。该公司计划启用集成登录，介绍 doordash ， uber 和与此相同，Openai启动了 AgentKit ，一种工具箱，可简化AI代理的创建和部署，可与&lt;&lt; href =“ https://feed.alternativeto.net/software/n8n-io/about/”&gt; n8n.io 或
-  href =“ https://alternativeto.net/software/chatgpt/about/”&gt;更多关于chatgpt ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/10/openai-launches-interactive-chatgpt-apps-and-the-new-agentkit-toolkit-for-building-ai-agents/</guid>
-      <pubDate>Mon, 06 Oct 2025 20:48:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>GIMP 3.0.6改善主题集成，过滤器工作流和文件支持</title>
-      <link>https://alternativeto.net/news/2025/10/gimp-3-0-6-improves-theme-integration-filter-workflows-and-file-support/</link>
-      <description><![CDATA[GIMP 3.0.6 现已适用于 Linux、macOS 和 Windows，为开源图像编辑器带来了界面、性能和兼容性方面的改进。此更新在“画笔和字体”对话框中添加了一个新选项，以将预览与颜色主题相匹配，以及可缩放网格和列表视图以及用于更顺畅导航的精致缩放算法。
-通过可直接应用于频道的非破坏性滤镜、自动禁用不可用的滤镜以及更好地撤消锁定内容操作的跟踪，增强了编辑工作流程。图像大小调整现在独立于选择，Adobe Photoshop 画笔兼容性得到改进，调色板导入功能获得 Alpha 值支持，并通过更清晰的文件过滤更好地处理 Lab 和 CMYK ACB 调色板。
-导入和导出功能得到扩展，改进了对 JPEG 2000、TIFF、DDS、SVG 等格式的处理，并修复了影响蒙版创建、颜色编辑和多层转换的错误。
-查看有关 AlternativeTo 的文章有关 GIMP 的更多信息 | GIMP 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/gimp-3-0-6-improves-theme-integration-filter-workflows-and-file-support/</guid>
-      <pubDate>Mon, 06 Oct 2025 18:36:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cairo-Dock 3.6 发布，支持 Wayland 和 HiDPI，并改进了 systemd 集成</title>
-      <link>https://alternativeto.net/news/2025/10/cairo-dock-3-6-released-with-wayland-and-hidpi-support-plus-improved-systemd-integration/</link>
-      <description><![CDATA[Cairo-Dock 3.6 brings significant improvements for Linux desktop users by introducing initial support for the Wayland display protocol.该码头现在在几个Wayland组合中工作，例如 wayfire ， labwc ，and  gnome 尚未支持。此外，此版本还通过整数缩放添加了高分辨率（HIDPI）屏幕支持。这样可以确保所有开罗巨头元素看起来清晰明确，避免了现代高分辨率监视器上的模糊性。
-构建这些显示增强功能，开罗 -  dock 3.6与
-随着小程序的更改，天气小部件现在使用新的提供商。结果，用户需要重新进入其位置作为坐标。开发人员为下一个版本计划了一种更具用户友好的位置选择方法。开罗 - 借口3.6还包括几种语言的更新翻译，以及其他增强功能和错误修复。
- 在交流中的文章href =“ https://alternativeto.net/software/cairo-dock/about/”&gt;更多有关Cairo-Dock ＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/10/cairo-dock-3-6-released-with-wayland-and-hidpi-support-plus-improved-systemd-integration/</guid>
-      <pubDate>Mon, 06 Oct 2025 12:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Notesnook 3.3 已发布，包含搜索过滤器、编辑器统计信息和新的定价计划</title>
-      <link>https://alternativeto.net/news/2025/10/notesnook-3-3-has-been-released-with-search-filters-editor-stats-and-new-pricing-plans/</link>
-      <description><![CDATA[  notesnook ，开源的Note-Taking应用程序已启动了3.3.0版。此版本带来了新的搜索过滤器，编辑统计信息以及一系列旨在提高编辑器性能和可靠性的错误修复。
-除了这些功能添加之外，更新还包括对NotesNook的定价结构进行的全面大修。 NotesNook的主要开发商之一Abdullah Atta说，尽管没有人喜欢价格上涨，但目前的定价计划是不可持续的，他们必须提高价格才能继续前进。
-先前的单计划方法已退休。取而代之的是三个新的订阅层：基本，专业和信徒。该基本计划每月提供1 GB的存储空间，并以每月1.99美元或每年$ 19.99的价格解锁所有编辑器功能。虽然Pro计划将存储空间增加到每月10 GB，并且允许最高1 GB的文件，每月6.99美元或每年69.99美元，但信徒计划的目标是重度用户，以每月8.99美元的价格提供25 GB的存储空间，或每年89.99美元。 
-对于当前的专业订户，无论更新如何，现有的定价和功能访问都保持不变。但是，新用户和有非活动订阅的用户将需要以新的价格订阅以访问PRO功能。开发人员指出，需要这些价格上涨，以使Notes Nock Nock Nopple Noply Privation，无投资者和无广告。订阅更改后，该版本还完善了免费计划，并因事先滥用而没有信用卡中止免费试用。
-  href =“ https://alternativeto.net/software/notesnook/about/”&gt;有关NotesNook   |]]></description>
-      <guid>https://alternativeto.net/news/2025/10/notesnook-3-3-has-been-released-with-search-filters-editor-stats-and-new-pricing-plans/</guid>
-      <pubDate>Mon, 06 Oct 2025 11:05:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

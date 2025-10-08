@@ -3,49 +3,49 @@
   <channel>
     <title>新版本 - 备用</title>
     <link>https://alternativeto.net/releases/all</link>
-    <description>添加到替代的最新软件</description>
-    <lastBuildDate>Wed, 08 Oct 2025 01:23:04 GMT</lastBuildDate>
+    <description>最新软件添加到 AlternativeTo</description>
+    <lastBuildDate>Wed, 08 Oct 2025 12:40:52 GMT</lastBuildDate>
+    <item>
+      <title>Wailbrew</title>
+      <link>https://alternativeto.net/software/wailbrew/about/</link>
+      <description><![CDATA[极简主义的自制gui用go，wails和react。 href =“ https://alternativeto.net/software/wailbrew/”&gt; wailbrew替代品 ]]></description>
+      <guid>https://alternativeto.net/software/wailbrew/about/</guid>
+      <pubDate>Wed, 08 Oct 2025 12:39:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>附属机构水獭</title>
+      <link>https://alternativeto.net/software/affiliateotter/about/</link>
+      <description><![CDATA[策划的软件存储库，SaaS＆amp;应用程序会员计划。验证＆amp;定期更新的列表包括佣金费率，链接＆amp;更多的。从领先的提供商那里发现新程序。  在Alternativeto＆raquo;       farsiateotter替代方案 ]]></description>
+      <guid>https://alternativeto.net/software/affiliateotter/about/</guid>
+      <pubDate>Wed, 08 Oct 2025 12:39:08 GMT</pubDate>
+    </item>
     <item>
       <title>Launchos</title>
       <link>https://alternativeto.net/software/launchos/about/</link>
-      <description><![CDATA[模拟原生 macOS Launchpad，具有可调整的图标网格、垂直滚动、可自定义的设置面板和右键单击快捷方式支持。在 AlternativeTo 上查看LaunchOS 替代方案]]></description>
+      <description><![CDATA[使用可调节的图标网格，垂直滚动，可自定义的设置面板和右CLICK快捷方式支持。  启动替代品 ]]></description>
       <guid>https://alternativeto.net/software/launchos/about/</guid>
-      <pubDate>Wed, 08 Oct 2025 01:22:48 GMT</pubDate>
+      <pubDate>Wed, 08 Oct 2025 12:39:08 GMT</pubDate>
     </item>
     <item>
       <title>我好吗？</title>
       <link>https://alternativeto.net/software/am-i-good-/about/</link>
       <description><![CDATA[注重隐私的预算应用程序，具有轻松跟踪、本地数据存储、极简设计、无需注册和每日余额可视化功能，可实现清晰的现金流。在 AlternativeTo 上查看我好吗？替代方案]]></description>
       <guid>https://alternativeto.net/software/am-i-good-/about/</guid>
-      <pubDate>Wed, 08 Oct 2025 01:22:48 GMT</pubDate>
+      <pubDate>Wed, 08 Oct 2025 12:39:08 GMT</pubDate>
     </item>
     <item>
       <title>出行方式</title>
       <link>https://alternativeto.net/software/trip-way/about/</link>
       <description><![CDATA[ Trip Way是一个旅行计划应用程序，可帮助用户设计和组织个性化的行程。它允许旅行者在每个停靠站中添加时间，笔记，图像，链接和位置，创建每天清晰的时间表。   Trip Way替代方案 ]]></description>
       <guid>https://alternativeto.net/software/trip-way/about/</guid>
-      <pubDate>Wed, 08 Oct 2025 01:22:48 GMT</pubDate>
+      <pubDate>Wed, 08 Oct 2025 12:39:08 GMT</pubDate>
     </item>
     <item>
       <title>雕塑家</title>
       <link>https://alternativeto.net/software/sculptor/about/</link>
-      <description><![CDATA[在容器中安全地运行并行 Claudes。在环境之间跳转以立即测试更改。随时获取解决关键问题的建议。在 AlternativeTo 上查看Sculptor 替代方案]]></description>
+      <description><![CDATA[在容器中安全地运行并行claud。在他们的环境之间跳跃以立即测试更改。获取建议在您出发时遇到关键问题的建议。替代方案 ]]></description>
       <guid>https://alternativeto.net/software/sculptor/about/</guid>
-      <pubDate>Wed, 08 Oct 2025 01:22:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>卡吉新闻</title>
-      <link>https://alternativeto.net/software/kagi-news/about/</link>
-      <description><![CDATA[在五分钟内提供每日新闻审查，从没有ADS或跟踪器的全球来源提供基于事实的摘要，亮点，报价和上下文。   kagi新闻替代方案 ]]></description>
-      <guid>https://alternativeto.net/software/kagi-news/about/</guid>
-      <pubDate>Wed, 08 Oct 2025 01:22:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>文件夹快速查看</title>
-      <link>https://alternativeto.net/software/folder-quick-look/about/</link>
-      <description><![CDATA[Folder Quick Look 是一个 macOS 扩展，它增强了系统的 Quick Look 功能，允许用户即时预览文件夹和压缩档案的内容，而无需打开它们。安装后，您只需选择一个文件夹或支持的存档格式（例如...在 AlternativeTo 上查看文件夹快速查看替代方案]]></description>
-      <guid>https://alternativeto.net/software/folder-quick-look/about/</guid>
-      <pubDate>Wed, 08 Oct 2025 01:22:48 GMT</pubDate>
+      <pubDate>Wed, 08 Oct 2025 12:39:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
