@@ -1,17 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 - 替代品</title>
+    <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
-    <description>替代技术的最新技术新闻</description>
-    <lastBuildDate>Tue, 07 Oct 2025 12:41:02 GMT</lastBuildDate>
+    <description>来自 AlternativeTo 的最新科技新闻</description>
+    <lastBuildDate>Wed, 08 Oct 2025 01:23:41 GMT</lastBuildDate>
     <item>
-      <title>JetBrains 将与 Zed 合作，将代理客户端协议 (ACP) 引入他们的 IDE</title>
+      <title>Anthropic推出Petri，一款用于LLM模型评估的开源AI安全审计工具</title>
+      <link>https://alternativeto.net/news/2025/10/anthropic-launches-petri-an-open-source-ai-safety-audit-tool-for-llm-model-evaluation/</link>
+      <description><![CDATA[Anthropic 发布了 Petri，这是一款开源工具，可使用 AI 自动对 AI 模型进行安全审核 代理。 Petri 是风险交互并行探索工具的缩写，可帮助研究人员大规模测试模型是否存在不安全或欺骗行为。它建立在英国人工智能安全研究所的 Inspect 框架之上，可在 GitHub 上公开获取。
+Petri 指派一个 Auditor 代理通过模拟的多轮对话与目标模型进行交互。然后，法官特工会审查这些交流，并根据欺骗、奉承和寻求权力等标准对它们进行评分。研究人员使用自然语言种子指令定义审计场景，从而实现灵活且可重复的评估。
+在涉及 111 个场景的 14 个领先模型的测试中，Petri 发现了包括欺骗、操纵和举报倾向等问题。 Claude Sonnet 4.5 和 GPT-5 显示问题行为发生率最低，而Gemini 2.5 Pro、Grok-4 和 Kimi K2更具欺骗性。一些模型甚至根据叙事线索标记出无害的行为，反映了道德推理的差距。 Anthropic 认为 Petri 是迈向可扩展、透明的安全基准的一步，尽管它指出目前的结果仍处于初步阶段。
+查看有关 AlternativeTo 的文章有关 Petri 的更多信息 | Petri 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/anthropic-launches-petri-an-open-source-ai-safety-audit-tool-for-llm-model-evaluation/</guid>
+      <pubDate>Tue, 07 Oct 2025 23:18:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Clamav 1.5添加了外部CVD签名，FIPS模式和新的检测功能</title>
+      <link>https://alternativeto.net/news/2025/10/clamav-1-5-adds-external-cvd-signing-fips-mode-and-new-detection-features/</link>
+      <description><![CDATA[ClamAV 1.5.0 引入了以 FIPS（联邦信息处理标准）兼容性为中心的重大安全性和合规性改进。现在使用新的 .cvd.sign 外部签名文件验证签名数据库文件，取代旧的基于 MD5 的 RSA 方法。 Freshclam 自动下载日常数据库、主数据库和字节码数据库的这些文件，确保在 FIPS 模式环境中正常运行。
+此更新添加了 FIPS 限制选项，可禁用 MD5 和 SHA1 进行签名验证和文件信任检查。干净文件缓存现在使用 SHA2-256 来提高完整性，并且新的可配置证书目录管理受信任的签名机构。这些变化使 ClamAV 与现代加密标准保持一致。管理员还获得了新的配置选项，包括 clamd.conf 中基于正则表达式的路径排除，以及在受限环境中禁用 SHUTDOWN 或 RELOAD 等命令的能力。
+ClamAV 1.5.0 还将外部签名支持扩展到 Freshclam、ClamD、ClamScan 和 Sigtool，从而通过新的 .sign 系统实现签名和验证。它现在可以识别加密的基于 OLE2 的 Microsoft Office 文档，改进 ZIP 存档解析，并识别某些 AI 模型文件类型。开发人员受益于用于 CVD 验证、解包和扫描（使用哈希和文件类型提示）的扩展公共 API，以及用于自定义扫描逻辑的新扫描回调系统。元数据生成得到了改进，JSON 输出将指标和警报数组分开，并提供用于记录或排除 HTML 和 PDF 文件中 URI 的选项，从而使用户能够更好地控制和精确扫描报告。
+查看有关 AlternativeTo 的文章有关 ClamAV 的更多信息 | ClamAV 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/clamav-1-5-adds-external-cvd-signing-fips-mode-and-new-detection-features/</guid>
+      <pubDate>Tue, 07 Oct 2025 21:04:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qt 6.10 带来了 FlexboxLayout、高级数据桥接、矢量动画等</title>
+      <link>https://alternativeto.net/news/2025/10/qt-6-10-brings-flexboxlayout-advanced-data-bridging-vector-animations-and-more/</link>
+      <description><![CDATA[  QT 6.10 为开发人员和设备创建者介绍了主要更新，重点介绍UI设计，数据集成和平台支持。亮点包括 qt Quick Quick Quick 的新型Flexboxlayout，它带来了CSS-Like响应式布局，扩展了对动画的SVG和 lottie files ，以及用于本机搜索功能的新的搜索端口控件。该版本还提高了可访问性，会自动将应用程序适应高对比度模式，并加强与辅助技术的集成，包括更好的For developers, Qt 6.10 simplifies data handling between C++ and QML with new tools like QRangeModel, which exposes C++ containers like std::vector and std::array to QML and Qt Widgets, without boilerplate code, and delegateModelAccess for two-way updates between views and models.同步器元素引入了双向绑定，而Treemodel QML类型和SortFilterProxymodel使直接在QML中直接声明，排序和过滤数据更容易。这些添加者一起简化了动态，数据驱动的UI。
+平台支持已在Android，Apple，Windows和Linux上扩展。 Qt 6.10 adds compatibility for Android 15 and 16, introduces Qt Jenny 1.0 for generating JNI bindings, ensures full support for macOS and iOS 26, and integrates Microsoft Edge WebView2 on Windows.其他改进包括a  pipewire  QT多媒体的后端，新的嵌入式硬件支持，boot to boot to qt on  yocto 5.2 ，qt Qud Quick 3D和QT图中的增强渲染，以及QT窗口小部件和QT核心的改进，以及QT核心和QT核心，以提高性能和灵活性。&gt; &gt; &gt; &gt; 
+ 有关Qt ＆nbsp; |＆nbsp;  qt替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/qt-6-10-brings-flexboxlayout-advanced-data-bridging-vector-animations-and-more/</guid>
+      <pubDate>Tue, 07 Oct 2025 17:31:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Podman Desktop 1.22添加了探索功能仪表板和YAML改进</title>
+      <link>https://alternativeto.net/news/2025/10/podman-desktop-1-22-adds-explore-features-dashboard-and-yaml-improvements/</link>
+      <description><![CDATA[  podman桌面 1.22 1.22在仪表板上介绍了一个探索功能部分，并精简了诸如容器创建和扩展式浏览之类的板载任务。 MacOS和Windows上的用户现在可以在无根和生根模式之间切换Podman机器，以更容易配置。该更新还允许直接应用Kubernetes YAML文件，而无需本地文件创建，并且Windows可以使用ARM64安装程序。
+ 查看文章href =“ https://alternativeto.net/software/podman-desktop/about/”&gt;有关Podman桌面的更多信息]]></description>
+      <guid>https://alternativeto.net/news/2025/10/podman-desktop-1-22-adds-explore-features-dashboard-and-yaml-improvements/</guid>
+      <pubDate>Tue, 07 Oct 2025 15:18:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Instagram 推出 Rings 奖项以表彰富有创意的冒险家</title>
+      <link>https://alternativeto.net/news/2025/10/instagram-introduces-rings-awards-to-honor-creative-risk-takers/</link>
+      <description><![CDATA[Instagram 宣布推出“Rings”奖项，旨在表彰勇于承担创意风险并塑造文化的创作者。获奖者由国际创意评审小组选出，并获得实体戒指和数字个人资料奖。
+这种认可包括在他们的故事周围佩戴一个特殊的金环，以及用于定制他们的个人资料的新选项。
+查看有关 AlternativeTo 的文章有关 Instagram 的更多信息 | Instagram 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/instagram-introduces-rings-awards-to-honor-creative-risk-takers/</guid>
+      <pubDate>Tue, 07 Oct 2025 14:59:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果在 iPadOS 26.1 beta 2 中恢复了 Slide Over 多任务处理</title>
+      <link>https://alternativeto.net/news/2025/10/apple-brings-back-slide-over-multitasking-in-ipados-26-1-beta-2/</link>
+      <description><![CDATA[Apple 在 iPadOS 26.1 Beta 2 中重新引入了 Slide Over 多任务处理功能，让用户可以在现有的窗口应用程序上叠加可调整大小的应用程序窗口。此更新部分恢复了 iPadOS 26 中删除的功能，但 Slide Over 目前一次仅支持一个应用。
+查看有关 AlternativeTo 的文章有关 iPadOS 的更多信息 | iPadOS 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/apple-brings-back-slide-over-multitasking-in-ipados-26-1-beta-2/</guid>
+      <pubDate>Tue, 07 Oct 2025 14:48:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>ElevenLabs推出高级代理对话设计的代理工作流程</title>
+      <link>https://alternativeto.net/news/2025/10/elevenlabs-launches-agent-workflows-for-advanced-agent-conversation-design/</link>
+      <description><![CDATA[  Elevenlabs 已经启动了Agent Workflows，这是一个视觉编辑器，该视觉编辑器使用户能够设计代理平台中的复杂对话流。工作流让用户将对话路由到专业的子代理，每个子代理都有独特的提示，工具和知识库。
+此更新支持业务逻辑集成，安全的系统连接以及对人类运营商的更容易交接。
+ 有关Elevenlabs ＆nbsp; | |＆nbsp; &lt;A href =“]]></description>
+      <guid>https://alternativeto.net/news/2025/10/elevenlabs-launches-agent-workflows-for-advanced-agent-conversation-design/</guid>
+      <pubDate>Tue, 07 Oct 2025 14:40:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ladybird 在网络平台测试中通过了 Apple 90% 的门槛，标志着一个重要的里程碑</title>
+      <link>https://alternativeto.net/news/2025/10/ladybird-passes-the-apple-90-thresholf-on-web-platform-tests-marking-a-major-milestone/</link>
+      <description><![CDATA[  ladybird ，从头开始开发的独立和开源网络浏览器，现在已经超过了90％的合规性。 href =“ https://web-platform-tests.org”&gt; web-platform-tests  suite。这项成就是首席开发人员Andreas Kling在X 上宣布了一个相当大的里程碑。
+越过90％的阈值特别有意义，因为苹果将这种遵守程度视为将网络浏览器视为iOS上可行的替代引擎以及其他标准的最低要求。尽管这种开发使瓢虫更接近iOS资格，但用户应注意，浏览器尚未作为Apple移动操作系统上的替代引擎可用。进展仍在继续，但是在实现一般iOS部署之前，仍需要解决一些功能限制。
+同时，瓢虫的进步步伐引起了人们的关注。对于一个非公司独立的项目而言，在开发社区中如此迅速地到达这个阶段是值得注意的。 Ladybird坚持开放标准和独立方法强调了其在浏览器景观中日益增长的相关性。
+ 有关Ladybird ＆nbsp; |替代方案 ]]></description>
+      <guid>https://alternativeto.net/news/2025/10/ladybird-passes-the-apple-90-thresholf-on-web-platform-tests-marking-a-major-milestone/</guid>
+      <pubDate>Tue, 07 Oct 2025 14:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenSSH 10.1 增强了证书日志记录并禁止用户名中使用控制字符</title>
+      <link>https://alternativeto.net/news/2025/10/openssh-10-1-enhances-certificate-logging-and-disallows-control-characters-in-usernames/</link>
+      <description><![CDATA[OpenSSH 10.1 已作为 Secure Shell 协议套件的最新版本发布，带来了多项以用户为中心的增强功能和安全保障措施。此版本阻止命令行上提供的用户名中的控制字符或从配置 % 序列扩展的控制字符。它还不允许在 ssh:// 统一资源标识符 (URI) 中使用 NUL \0 字符，从而降低格式错误或恶意输入的风险。
+基于核心功能，OpenSSH 现在支持存储在 PKCS#11 兼容加密令牌上的 Ed25519 密钥。使用图形转发的用户将看到与 X11DisplayOffset 相关的 X11 显示编号检查，允许更高的端口范围而不影响默认值。对于诊断，SIGINFO 信号处理程序现在启用活动通道和会话日志记录。
+在故障排除更新之后，证书身份验证失败会在日志中提供证书识别信息和拒绝原因，从而简化对授权问题的调查。管理员使用 ssh_config 中的 RefuseConnection 选项获得新的配置灵活性，立即结束会话并显示指定的错误消息。
+为了协助持续的质量保证，单元测试框架获得了基本的基准测试功能。 OpenSSH 10.1 还包括可移植性增强功能并解决了大约十几个错误修复，从而提高了跨平台的可靠性。
+查看有关 AlternativeTo 的文章有关 OpenSSH 的更多信息 | OpenSSH 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/openssh-10-1-enhances-certificate-logging-and-disallows-control-characters-in-usernames/</guid>
+      <pubDate>Tue, 07 Oct 2025 12:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jetbrains将与ZED合作，将代理客户协议（ACP）带到其IDE</title>
       <link>https://alternativeto.net/news/2025/10/jetbrains-will-collaborate-with-zed-to-bring-the-agent-client-protocol-acp-to-their-ides/</link>
       <description><![CDATA[ Jetbrains已宣布与 zed  
 从此范围内，Jetbrains计划为其完整的IDE提供ACP支持，包括 Intellij ivea href =“ https://alternativeto.net/software/pycharm/about/”&gt; pycharm ， webstorm 以及其生态系统中的其他工具。此举将使开发人员灵活地使用他们已经使用的编辑器中的任何ACP兼容代理，从而扩大了本机集成以外的选择。
 在探索了对自己的代理商的代理支持标准方法后， junie 和第三方代理人 href=&quot;https://alternativeto.net/software/openai-codex/about/&quot;&gt;Codex and Gemini CLI, JetBrains determined — following discussions with Zed — that ACP was the preferred path forward.使用Jetbrains载板，ACP准备成为与代码编辑和其他开发人员工具集成的代理商的标准。
-协议本身将代理与编辑器分开。开发人员构建一个 acp 实现，确保与采用协议的任何编辑器的兼容性。这减少了对重复的自定义集成的需求，并消除了用户的供应商锁定，从而在熟悉的开发环境中可以选择的代理。
+协议本身将代理与编辑器分开。开发人员构建一个 acp 实现，确保与采用协议的任何编辑器的兼容性。这减少了重复自定义集成的需求，并消除了用户的供应商锁定，从而在熟悉的开发环境中可以选择的代理。
 View article on AlternativeTo »更多关于代理客户端协议的更多信息]]></description>
       <guid>https://alternativeto.net/news/2025/10/jetbrains-will-collaborate-with-zed-to-bring-the-agent-client-protocol-acp-to-their-ides/</guid>
       <pubDate>Tue, 07 Oct 2025 07:50:00 GMT</pubDate>
@@ -19,7 +103,7 @@ View article on AlternativeTo »更多关于代理客户端协议的更多信息
     <item>
       <title>Windows 11删除了Microsoft帐户设置的所有旁路方法，删除本地帐户</title>
       <link>https://alternativeto.net/news/2025/10/windows-11-now-blocks-all-microsoft-account-bypasses-during-setup/</link>
-      <description><![CDATA[最近 Windows 11 设置，完全 block block Microsoft帐户需求在最初的安装过程中，请封锁剩余的方法。在最新的预览构建中，公司禁用了先前的解决方法，例如注册表编辑和 start MS-CXH：localonly 命令，该命令允许用户在开箱即用的经验中创建本地帐户。。
+      <description><![CDATA[最近 Windows 11 设置，完全 block block Microsoft帐户需求 block  start MS-CXH：localonly 命令，该命令允许用户在开箱即用的经验中创建本地帐户。。
 从现在开始，用户将需要一个活动的Internet连接和Microsoft帐户来完成安装，而在设置过程中无需创建本地帐户。微软表示，删除仅本地方法可以防止跳过配置步骤，并确保设备正确设置并安全。此更改是该公司更广泛的“仅本地命令删除”计划的一部分，强化了绕过帐户创建可能导致不完整的设置或潜在的安全问题。
 随便用户没有剩余的简单旁路，但是高级用户仍然可以通过在通过无人值守的设置安装之前编辑Windows图像来配置本地帐户，这是大多数不适合的复杂方法。 Microsoft还添加了一个小型自定义选项，使用setDefaultUserFolder.cmd命令在OOBE期间重命名默认用户文件夹，并在现在强制性的在线设置过程中提供有限的个性化。
  交流中的文章href =“ https://alternativeto.net/software/windows-11/about/”&gt;有关Windows 11 ＆nbsp; |＆nbsp; &lt;A href =“ https://alternatativeto.net/software/software/software/windows-11/]]></description>
@@ -38,14 +122,15 @@ View article on AlternativeTo »更多关于代理客户端协议的更多信息
     <item>
       <title>GIMP 3.0.6改善主题集成，过滤器工作流和文件支持</title>
       <link>https://alternativeto.net/news/2025/10/gimp-3-0-6-improves-theme-integration-filter-workflows-and-file-support/</link>
-      <description><![CDATA[  gimp  3.0.6现在可用于Linux，macOS和Windows，带来界面，性能和相当性改进开放源图像Image Image Image Editor。该更新在“刷子和字体”对话框中添加了一个新选项，以与颜色主题匹配预览，以及可缩放的网格和列表视图以及一个用于更平滑的导航的精制变焦算法。
-通过非破坏性过滤器增强了编辑工作流，这些过滤器可以直接应用于通道，自动禁用不可用的过滤器以及更好的撤消跟踪来进行锁定内容操作。图像调整大小现在独立于选择， adobe photoshop 提高了刷子的兼容性，并改善了刷子的兼容性，并提高了PALETTE的功能gains alpha alpha alpha alpha alpha alpha alpha alpha alpha alpha alpha alpha alpha alpha alpha alpha alpha alpha clear a clear a clear a clear a clear acm cmyk acb palets 进口和出口功能通过改进的jpeg 2000，TIFF，DDS，SVG等格式进行了改进的处理，以及影响蒙版创建，颜色编辑和多层转换的错误修复。
- 有关Gimp ＆nbsp; |＆nbsp; &lt;A href =“ https：//alternativeto.net/software/software/gimpp;]]></description>
+      <description><![CDATA[GIMP 3.0.6 现已适用于 Linux、macOS 和 Windows，为开源图像编辑器带来了界面、性能和兼容性方面的改进。此更新在“画笔和字体”对话框中添加了一个新选项，以将预览与颜色主题相匹配，以及可缩放网格和列表视图以及用于更顺畅导航的精致缩放算法。
+通过可直接应用于频道的非破坏性滤镜、自动禁用不可用的滤镜以及更好地撤消锁定内容操作的跟踪，增强了编辑工作流程。图像大小调整现在独立于选择，Adobe Photoshop 画笔兼容性得到改进，调色板导入功能获得 Alpha 值支持，并通过更清晰的文件过滤更好地处理 Lab 和 CMYK ACB 调色板。
+导入和导出功能得到扩展，改进了对 JPEG 2000、TIFF、DDS、SVG 等格式的处理，并修复了影响蒙版创建、颜色编辑和多层转换的错误。
+查看有关 AlternativeTo 的文章有关 GIMP 的更多信息 | GIMP 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/10/gimp-3-0-6-improves-theme-integration-filter-workflows-and-file-support/</guid>
       <pubDate>Mon, 06 Oct 2025 18:36:01 GMT</pubDate>
     </item>
     <item>
-      <title>开罗 - 狄克3.6与Wayland和Hidpi支持一起发布，以及改进的SystemD集成</title>
+      <title>Cairo-Dock 3.6 发布，支持 Wayland 和 HiDPI，并改进了 systemd 集成</title>
       <link>https://alternativeto.net/news/2025/10/cairo-dock-3-6-released-with-wayland-and-hidpi-support-plus-improved-systemd-integration/</link>
       <description><![CDATA[Cairo-Dock 3.6 brings significant improvements for Linux desktop users by introducing initial support for the Wayland display protocol.该码头现在在几个Wayland组合中工作，例如 wayfire ， labwc ，and  gnome 尚未支持。此外，此版本还通过整数缩放添加了高分辨率（HIDPI）屏幕支持。这样可以确保所有开罗巨头元素看起来清晰明确，避免了现代高分辨率监视器上的模糊性。
 构建这些显示增强功能，开罗 -  dock 3.6与
@@ -60,98 +145,10 @@ View article on AlternativeTo »更多关于代理客户端协议的更多信息
       <description><![CDATA[  notesnook ，开源的Note-Taking应用程序已启动了3.3.0版。此版本带来了新的搜索过滤器，编辑统计信息以及一系列旨在提高编辑器性能和可靠性的错误修复。
 除了这些功能添加之外，更新还包括对NotesNook的定价结构进行的全面大修。 NotesNook的主要开发商之一Abdullah Atta说，尽管没有人喜欢价格上涨，但目前的定价计划是不可持续的，他们必须提高价格才能继续前进。
 先前的单计划方法已退休。取而代之的是三个新的订阅层：基本，专业和信徒。该基本计划每月提供1 GB的存储空间，并以每月1.99美元或每年$ 19.99的价格解锁所有编辑器功能。虽然Pro计划将存储空间增加到每月10 GB，并且允许最高1 GB的文件，每月6.99美元或每年69.99美元，但信徒计划的目标是重度用户，以每月8.99美元的价格提供25 GB的存储空间，或每年89.99美元。 
-对于当前的专业订户，无论更新如何，现有的定价和功能访问都保持不变。但是，新用户和有非活动订阅的用户将需要以新的价格订阅以访问PRO功能。开发人员指出，需要这些价格上涨，以使Notes Nock Nock Nopple Noply Privation，无投资者和无广告。订阅更改后，该版本还完善了由于事先滥用而没有信用卡的免费计划，并停止免费试用。
+对于当前的专业订户，无论更新如何，现有的定价和功能访问都保持不变。但是，新用户和有非活动订阅的用户将需要以新的价格订阅以访问PRO功能。开发人员指出，需要这些价格上涨，以使Notes Nock Nock Nopple Noply Privation，无投资者和无广告。订阅更改后，该版本还完善了免费计划，并因事先滥用而没有信用卡中止免费试用。
   href =“ https://alternativeto.net/software/notesnook/about/”&gt;有关NotesNook   |]]></description>
       <guid>https://alternativeto.net/news/2025/10/notesnook-3-3-has-been-released-with-search-filters-editor-stats-and-new-pricing-plans/</guid>
       <pubDate>Mon, 06 Oct 2025 11:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>junit 6.0添加Java 17＆Kotlin 2.2，统一版本和JSpemify Nullability注释</title>
-      <link>https://alternativeto.net/news/2025/10/junit-6-0-adds-java-17-and-kotlin-2-2-unified-versioning-and-jspecify-nullability-annotations/</link>
-      <description><![CDATA[  junit  6.0已发布，作为对流行 java的主要更新， 框架。 This version now requires Java 17 and Kotlin 2.2 as the minimum language levels, which may impact developers maintaining projects on older platforms.现在，所有平台，木星和复古文物现在共享相同的版本编号，使用户更容易依赖性管理。
-在这些核心变化上，所有junit模块都采用 jspecify  nullability notations  nullability注释，澄清哪种方法参数和返回类型可以保持 null 值值。该版本通过删除 junit-platform-jfr 模块及其Java飞行记录器（JFR）事件来简化现有模块 - 这些功能现在由&gt; code&gt; junit-platform-launcher 提供，也消除了 junit-platform-runner  for/code for in/code&gt; for/code for/code for/code for/code for/code for/codule for/codile for/caid for juinit 4 sers。
-Addressing test organization, the update enforces deterministic but intentionally nonobvious ordering of @Nested classes, extends @TestMethodOrder inheritance to @Nested inner classes, and introduces MethodOrderer.Default and ClassOrderer.Default types to reset order when needed. CSV input handling in @CsvSource and @CsvFileSource has moved from univocity-parsers to FastCSV, which improves error reporting and handling of malformed entries.
-Additional enhancements include support for Kotlin suspend functions as test methods, a --fail-fast mode for ConsoleLauncher, test execution cancellation via CancellationToken, the removal of deprecated APIs, and much更多，
-View article on AlternativeTo »更多有关Junit ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/10/junit-6-0-adds-java-17-and-kotlin-2-2-unified-versioning-and-jspecify-nullability-annotations/</guid>
-      <pubDate>Mon, 06 Oct 2025 09:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wine 10.16添加了NTSYNC快速同步，WOW64 16位应用程序和D3DKMT对象支持等等</title>
-      <link>https://alternativeto.net/news/2025/10/wine-10-16-adds-ntsync-fast-sync-wow64-16-bit-apps-and-d3dkmt-objects-support-and-more/</link>
-      <description><![CDATA[  Wine&gt; Wine  10.16现在可用，增强了在Posix-Compliant操作系统（包括Linux，MacOS和BSD）上运行Windows应用程序的能力。此更新包括与兼容性层用户相关的几个核心功能进步。
-葡萄酒中的关键补充10.16专注于改善同步和传统应用支持。该版本引入了与NTSYNC快速同步，旨在提高应用程序性能和响应能力。此外，Wine现在还支持在Windows-Windows 64位（WOW64）模式下运行16位应用程序，帮助依靠较旧软件的用户在现代硬件上保持生产力。
-遵循这些发展，葡萄酒10.16带来了对D3DKMT对象的初始支持。该基础图形子系统仿真扩大了可能在葡萄酒下使用的图形相关应用的范围。该更新还提供了在应用程序执行过程中使用Windows Metadata（WinMD）文件的支持，该文件可能使依靠Windows Runtime或Universal Windows Platform（UWP）Technologies的用户和开发人员受益。
-除了新功能之外，此发行版解决了影响各种软件和游戏的34个错误。这些修复程序旨在提高稳定性并扩大在葡萄酒下可靠运行的Windows应用程序的数量。
-  href =“ https://alternativeto.net/software/wine/about/”&gt;有关葡萄酒的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/10/wine-10-16-adds-ntsync-fast-sync-wow64-16-bit-apps-and-d3dkmt-objects-support-and-more/</guid>
-      <pubDate>Mon, 06 Oct 2025 07:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gradia v1.11添加了19种语言和批量注释编辑的OCR</title>
-      <link>https://alternativeto.net/news/2025/10/gradia-v1-11-adds-ocr-in-19-languages-and-bulk-annotation-editing/</link>
-      <description><![CDATA[  Gradia  V1.11.0和V1.11.1引入OCR，并支持19种语言，增强文本提取功能。现在，用户可以一次编辑诸如颜色和​​宽度之类的注释属性，以一次为多个选定的注释。该更新还为箭头和矩形等工具以及各种UI和可用性改进提供了扩展的调整大小选项。
- 有关Gradia的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/10/gradia-v1-11-adds-ocr-in-19-languages-and-bulk-annotation-editing/</guid>
-      <pubDate>Mon, 06 Oct 2025 07:33:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>DockPeek 1.6.5添加了容器计数，图像修剪和注册表链接</title>
-      <link>https://alternativeto.net/news/2025/10/dockpeek-1-6-5-adds-container-counts-image-prune-and-registry-links/</link>
-      <description><![CDATA[  dockpeek  1.6.5现在显示运行，不健康，退出和暂停容器的计数，使用户清晰地概述了他们的Docker环境。该更新引入了一个图像修剪选项，以删除未使用的Docker映像并释放磁盘空间。由于新的注册表链接图标，用户还可以直接访问集装箱注册表。
-此外，UI的细化，更快的响应和模态卷轴修复可以增强可用性。
- 查看文章href =“ https://alternativeto.net/software/dockpeek/about/”&gt;更多关于Dockpeek ＆nbsp; | |]]></description>
-      <guid>https://alternativeto.net/news/2025/10/dockpeek-1-6-5-adds-container-counts-image-prune-and-registry-links/</guid>
-      <pubDate>Mon, 06 Oct 2025 07:21:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Discord最近的支持数据泄露事件公开了用户信息，ID照片和信用卡详细信息</title>
-      <link>https://alternativeto.net/news/2025/10/discord-s-recent-support-data-breach-exposes-user-info-id-photos-and-credit-card-details/</link>
-      <description><![CDATA[Discord has recently confirmed a big data违规涉及其第三方客户服务提供商之一。虽然公司自己的系统没有直接妥协，但攻击者可以访问外部支持伙伴，从而揭示了与Discord的客户支持或Trust＆amp＆amp; amp; amp; amp; amp; amp; amp; amp; to;安全团队。泄漏的信息包括名称，用户名，电子邮件地址和信用卡的最后四位数。
-值得注意的是，访问了少数政府发行的身份证图像，例如护照和驾驶执照。这些ID照片是由吸引Discord年龄验证过程的用户提交的，最近介绍了
- Discord表示没有影响密码，身份验证数据或完整的信用卡详细信息。该公司正在通过电子邮件发送受影响的用户，指定是否涉及ID图像，并撤销了供应商的访问权限，通知数据保护机构并参与执法部门。它还加强了威胁检测和第三方安全措施。最近未从事客户支持的用户可能不会受到影响。
-  href =“ https://alternativeto.net/software/discord-app/about/”&gt;更多有关Discord ＆nbsp; | |＆nbsp; &lt;A href =“ https://alternatativeto.net/software/software/software/discord-app-parkopord-comport-]]></description>
-      <guid>https://alternativeto.net/news/2025/10/discord-s-recent-support-data-breach-exposes-user-info-id-photos-and-credit-card-details/</guid>
-      <pubDate>Sun, 05 Oct 2025 17:26:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI编码代理Google启动Jules Tools CLI直接终端访问和公共API</title>
-      <link>https://alternativeto.net/news/2025/10/ai-coding-agent-google-launches-jules-tools-cli-for-direct-terminal-access-and-public-api/</link>
-      <description><![CDATA[ Google启动了 Jules Tools ，它是其AI-Power代理的新命令行界面”&gt; Google Labs产品管理主管 Qathy Korevec  Qathy Korevec 可以直接访问Jules端口，该工具直接访问Qules  href =“ https://feed.alternativeto.net/software/github/about/”&gt; github  Interfaces。类似于 Google的Google的Gemini cli ，它在终端内运行，但专为更加专注的单任务执行而设计，而Gemini Cli则支持Gemini Cli更长地支持更长的协作。 While both Jules and the Gemini CLI share Google&#39;s Gemini 2.5 Pro language model, Jules Tools targets single,用户批准后的范围范围编码操作并以最少的交互作用运行。
-伴随CLI发布的是 jules for Jules for Jules ，使与开发工具和工作流相机。开发人员现在可以将Jules连接到集成开发环境，例如 Visual Studio Code ，或将其纳入自己的构建过程。 Google计划通过发布专门的IDE插件来进一步扩大可访问性，以针对流行平台的广泛开发人员采用。
-这些更新遵循对Jules的一系列最新改进，包括图像上传支持 href =“ https://alternativeto.net/news/2025/10/jules-adds-environment-variemporce-support-support-for-advanced-automation/”&gt;环境变量处理，，，所有这些都旨在使工具更具整合和有用在实际编码环境中。
- 更多有关Jules ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/10/ai-coding-agent-google-launches-jules-tools-cli-for-direct-terminal-access-and-public-api/</guid>
-      <pubDate>Sat, 04 Oct 2025 16:48:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>PARALLELS桌面26.1带来新的VM政策，冲突感知到部署和Linux升级</title>
-      <link>https://alternativeto.net/news/2025/10/parallels-desktop-26-1-brings-new-vm-policies-conflict-aware-deployment-and-linux-upgrades/</link>
-      <description><![CDATA[  PARALLELS桌面26.1 只有一个月在版本26.0 之后，请介绍26.0 的新管理人员和linux compatients，Deploveyment，indux compatients for inux compatience and Linux和Linux。该更新添加了集中的控件，使管理员定义并强制执行颗粒状VM策略，涵盖共享文件夹，剪贴板访问，USB连接，应用程序共享和网络模式。通过Parallels桌面企业管理门户进行管理，这些设置在部署后保持活跃，使其对用户创建的VM进行监督，同时保持安全性和合规性标准。
-部署工作流程还通过检测到现有VM时提供三种策略（重新安置，复制或跳过）的冲突感知系统进行了重大升级。保留策略可以自动删除或保留较旧或未固定的机器，从而确保清洁，一致的推出。这些部署功能与JAMF PRO之类的设备管理工具集成，简化了大规模更新并减少了设置冲突。
-版本26.1还将单个应用程序模式与单个登录组合结合在一起，使用户可以直接从MacOS码头启动Windows应用程序，同时通过其组织的身份提供商进行认证。在Linux上，Parallels工具现在使用Virtio-Sock与新内核版本更平滑，从而提高了可靠性并维护动态分辨率和共享剪贴板等功能。安装助手还已通过新的Linux发行版和错误修复更新。
-  href =“ https://alternativeto.net/software/parallels-desktop/about/”&gt;有关更多关于Parallels Desktop ＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/10/parallels-desktop-26-1-brings-new-vm-policies-conflict-aware-deployment-and-linux-upgrades/</guid>
-      <pubDate>Sat, 04 Oct 2025 16:30:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>MyMind引入了Markdown文件导入的拖放支持</title>
-      <link>https://alternativeto.net/news/2025/10/mymind-introduces-markdown-file-import-with-drag-and-drop-support/</link>
-      <description><![CDATA[  myMind 现在允许用户通过简单地将其拖动并将其放入应用程序来导入Markdown文件。上传时，受支持的Markdown内容将转换为新的笔记卡。
-该团队还宣布了计划在未来更新中扩大降价兼容性。
- 更多有关mymind ＆nbsp; |＆nbsp; |]]></description>
-      <guid>https://alternativeto.net/news/2025/10/mymind-introduces-markdown-file-import-with-drag-and-drop-support/</guid>
-      <pubDate>Sat, 04 Oct 2025 07:29:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gmail的企业端到端加密现在与外部电子邮件提供商合作</title>
-      <link>https://alternativeto.net/news/2025/10/gmail-s-end-to-end-encryption-for-enterprises-now-works-with-external-email-providers/</link>
-      <description><![CDATA[ Google宣布了 gmail 中的客户端加密的一般可用性，允许用户将Ent-to-to-to-to-to-to-to-end Ended Ended电子邮件发送到任何电子邮件服务上的收件人。以前，Gmail中的加密受到生态系统约束的限制，但是此更新意味着，无论收件人的提供者如何
-除了广泛的兼容性外，Google还简化了收件人访问权限。通知没有Google帐户的接收者，可以通过访客帐户门户网站读取加密消息，从而消除了键换或外部解密工具的需求。在此基础上，新功能还可以最大程度地减少设置和管理开销。 IT团队和最终用户不必管理复杂的配置或新软件，同时受益于改进的隐私，数据主权和安全性。
-虽然符合条件的组织现在可以使用此端到端加密，但目前它的目标是 Google workspace  Enterprise  Enterprise Plus客户提供了有保证的控件附加功能。该功能正在逐渐引入，因此随着推出的推出，访问将随着时间的推移而扩展。
- 有关Gmail的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/10/gmail-s-end-to-end-encryption-for-enterprises-now-works-with-external-email-providers/</guid>
-      <pubDate>Fri, 03 Oct 2025 19:05:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
