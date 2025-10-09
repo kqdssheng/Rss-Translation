@@ -1,12 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 - 替代品</title>
+    <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Wed, 08 Oct 2025 12:41:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 01:23:46 GMT</lastBuildDate>
     <item>
-      <title>Google将蛋白石AI应用程序构建器扩展到另外15个国家，并提高性能</title>
+      <title>OneDrive 添加了 Copilot 集成、新的 AI 工具，并默认将 Word 文件保存在云中</title>
+      <link>https://alternativeto.net/news/2025/10/onedrive-adds-copilot-integration-new-ai-tools-and-makes-word-cloud-saved-by-default/</link>
+      <description><![CDATA[微软正在将 Copilot 集成到 OneDrive 中，并添加几个新的人工智能驱动的 工具，包括 Web 界面上的浮动 Copilot 图标，以及文件摘要、比较和音频概述选项。新的 Hero 链接现在允许具有可调整权限的永久共享链接，并且收件人可以请求 Copilot 即时生成的共享内容摘要。
+OneDrive 的搜索栏现在支持自然语言查询，根据存储的文档返回 ChatGPT 样式的响应。用户还可以创建与特定文件夹绑定的知识代理来回答问题和总结文件。 M365 Copilot Researcher 代理也将登陆 OneDrive 网页版，以协助进行多步骤研究。在 Windows 11 上，微软正在开发一款重新设计的 OneDrive 应用，其中包含更新的“照片”选项卡，其中包含图库和人物视图、人工智能驱动的幻灯片以及编辑工具。新的照片代理使用自然语言来查找、组织和共享照片，而照片堆栈会自动对重复图像和模糊图像进行分组。
+具有讽刺意味的是，最重要但简要提到的变化之一肯定会让许多用户感到沮丧，从今天开始，桌面上的所有新 Microsoft Word 文档将默认保存到 OneDrive，并启用自动保存，尽管用户可以 如果他们愿意（或注意到），仍然禁用此设置并选择在本地保存文件。这意味着文档和编辑现在将在设备之间自动同步，并从一开始就启用实时协作和备份功能。然而，向云存储的转变也可能会促使一些用户在可用空间耗尽后升级其 OneDrive 计划。
+查看有关 AlternativeTo 的文章有关 Microsoft OneDrive 的更多信息 | Microsoft OneDrive 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/onedrive-adds-copilot-integration-new-ai-tools-and-makes-word-cloud-saved-by-default/</guid>
+      <pubDate>Wed, 08 Oct 2025 23:46:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google 推出 Gemini 2.5 Computer Use，这是一种自动执行基于浏览器的操作的新模型</title>
+      <link>https://alternativeto.net/news/2025/10/google-launches-gemini-2-5-computer-use-a-browser-based-model-for-websites-interactions/</link>
+      <description><![CDATA[Google 推出了 Gemini 2.5 Computer Use，这是一种全新设计的 AI 模型 直接与网络浏览器中的用户界面交互，绕过传统应用程序编程接口的需要。此版本使人工智能代理能够执行类似人类的操作，例如在浏览器窗口中单击、键入、滚动和填写表单。 Gemini 2.5 计算机使用利用视觉理解和推理能力来解释请求和操作网页上的元素。
+它可以在没有 API 的情况下自动执行网站上的工作流程，支持 UI 测试、数据检索和表单提交等任务。 Google 报告称，Gemini 2.5 Computer Use 超越了 OpenAI 的 ChatGPT Agent 和 Anthropic 的网络和移动基准测试中的计算机使用工具，尽管目前仅限于基于浏览器的控制，而且尚未实现 针对桌面系统级操作进行了优化。该模型可处理多达 13 个 UI 操作，包括在浏览器中键入、单击和拖动元素。
+开发人员提供上下文的屏幕截图和操作历史记录，模型逐步执行 UI 命令，请求用户确认购买等敏感操作。它还允许自定义支持的操作，并且可以通过 Google AI Studio 和 Vertex AI。
+查看有关 AlternativeTo 的文章有关 Google Gemini 的更多信息 | Google Gemini 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/google-launches-gemini-2-5-computer-use-a-browser-based-model-for-websites-interactions/</guid>
+      <pubDate>Wed, 08 Oct 2025 18:29:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Evernote v11 首次推出人工智能助手、语义搜索和更智能的会议笔记</title>
+      <link>https://alternativeto.net/news/2025/10/evernote-v11-debuts-ai-assistant-semantic-search-and-smarter-meeting-notes/</link>
+      <description><![CDATA[Evernote 版本 11 引入了以 AI 为中心的重大更新，其中包括三个新工具：AI 助手、语义搜索和AI 会议笔记。 AI 助手由 OpenAI 开发，可充当应用内对话助手，无需离开 Evernote 即可总结文本、提取操作项、移动笔记、生成内容和浏览网页。
+语义搜索允许用户使用自然语言而不是关键字来查找信息，在搜索“英国假期”时显示“伦敦旅行”或“爱丁堡旅行”等相关内容。新的人工智能会议笔记功能增强了 Evernote 的转录工具，自动总结讨论内容并识别面对面和在线会议的发言人，将转录内容直接集成到笔记中，这与其他人工智能会议助手（如 Granola 或 最近在 ChatGPT 中添加了记录模式。
+版本 11 还引入了重新设计的界面，具有更清晰的布局、现代的排版和改进的导航，以便更快地访问笔记本和任务。自 2024 年初以来，我们进行了 200 多项产品变更，包括对同步速度、笔记渲染和离线稳定性的改进，从而在桌面和移动设备上提供更加一致和响应迅速的体验。
+查看有关 AlternativeTo 的文章有关 Evernote 的更多信息| Evernote 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/evernote-v11-debuts-ai-assistant-semantic-search-and-smarter-meeting-notes/</guid>
+      <pubDate>Wed, 08 Oct 2025 17:58:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>WordPress.com集成MCP，使AI助手能够安全地访问网站数据</title>
+      <link>https://alternativeto.net/news/2025/10/wordpress-com-integrates-mcp-enabling-ai-assistants-to-access-site-data-securely/</link>
+      <description><![CDATA[Automattic 宣布 WordPress.com 现在支持开放标准模型上下文协议 (MCP) 允许人工智能助手访问站点上下文和数据。此更新涉及 AI 工具，例如 Claude、ChatGPT 和 Cursor 可以直接与 WordPress.com 网站交互，检索内容和实时分析，无需用户手动输入。
+通过实施 MCP，WordPress.com 为 AI 助手提供了一种与网站通信的安全方式，提供对内容、统计数据和设置的访问，同时保护用户凭据。发布后，付费 WordPress.com 计划中的每个网站都已支持 MCP，但用户必须启用集成才能开始将其与其首选的 AI 代理一起使用。
+目前，MCP 集成提供只读访问权限，允许 AI 助手无需登录步骤即可显示站点信息和见解。 Automattic 还表示，未来的版本将扩展到写入访问，从而扩大站点管理的自动化可能性。除了主要工具之外，各种支持 AI 的应用程序（例如 Claude Desktop、Cursor 和 Visual Studio Code）都可以通过 MCP 连接，让用户可以通过他们选择的 AI 工具直接灵活地访问数据。
+查看有关 AlternativeTo 的文章有关 WordPress 的更多信息 | WordPress 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/wordpress-com-integrates-mcp-enabling-ai-assistants-to-access-site-data-securely/</guid>
+      <pubDate>Wed, 08 Oct 2025 15:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenProject 16.5 改进了会议部分、颜色模式、项目过滤器和可访问性</title>
+      <link>https://alternativeto.net/news/2025/10/openproject-16-5-improves-meeting-section-color-modes-project-filters-and-accessibility/</link>
+      <description><![CDATA[OpenProject 16.5 已作为该开源项目管理软件的最新版本发布。此更新通过从“会议”选项卡启用工作包的直接部分分配，对会议和工作流程效率带来了重大改进。用户现在可以直接将工作包添加到目标部分或待办事项中，而改进的选择器可以更轻松地查找相关会议，包括重复事件。
+基于早期的辅助功能更新，颜色模式选择现在更加实用。用户可以在浅色、深色或自动模式之间进行选择，并根据当前偏好切换“增加对比度”复选框。此更改简化了视障用户的定制并简化了整体主题管理。
+在这些增强之后，项目列表现在具有“更新日期”列和过滤器，允许用户对标准进行排序和组合，以有效地识别和跟踪最近更改的项目。深层链接也得到了改进，不仅可以打开页面，还可以直接滚动并突出显示特定项目以加快导航速度。
+通过添加 ARIA 语义，可访问性也得到了进一步的提高。屏幕阅读器现在可以宣布确认复选框和操作按钮之间的关系，使使用辅助技术的人更容易浏览表单。帮助菜单也进行了重组，更新了链接和本地化内容，使所有用户更容易找到文档和支持资源。
+查看有关 AlternativeTo 的文章有关 OpenProject 的更多信息 | OpenProject 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/openproject-16-5-improves-meeting-section-color-modes-project-filters-and-accessibility/</guid>
+      <pubDate>Wed, 08 Oct 2025 14:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Organic Maps 添加了 Android Auto 速度限制、GeoJSON 导入、记录轨迹统计数据等</title>
+      <link>https://alternativeto.net/news/2025/10/organic-maps-adds-android-auto-speed-limits-geojson-import-recording-track-stats-and-more/</link>
+      <description><![CDATA[Organic Maps 开源 GPS 导航应用程序已推出更新，为跨平台用户提供了多项关键增强功能。最值得注意的是，Android Auto 现在会在导航过程中显示速度限制，这一功能旨在提高驾驶员的态势感知能力。 GeoJSON 导入和跟踪统计记录的添加扩展了所有活动的功能，支持更灵活的数据集成和跟踪。
+在这些核心升级之后，用户现在可以通过在搜索框中输入 ?description 来访问 OpenStreetMap 描述标签，从而使底层地图数据更易于访问。在 iOS 上，此版本提供了直接在录制轨道上保存书签以及删除录制轨道而无需先保存的功能，从而简化了录制工作流程。
+通过此更新，用户界面和 OpenStreetMap 编辑工具都受益于可用性改进和各种错误修复。同时，影响部分 Android 设备的启动崩溃问题已得到解决。
+此外，当前的 OpenStreetMap 和 Wikipedia 地图数据已更新，并支持 西雅图的轻轨位于公共交通层。该版本还包括各种小错误修复和改进，有助于增强所有用户的稳定性和性能。
+查看有关 AlternativeTo 的文章有关有机地图的更多信息 | 有机地图替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/organic-maps-adds-android-auto-speed-limits-geojson-import-recording-track-stats-and-more/</guid>
+      <pubDate>Wed, 08 Oct 2025 12:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google 将 Opal AI 应用构建器扩展到另外 15 个国家并提高性能</title>
       <link>https://alternativeto.net/news/2025/10/google-expands-opal-ai-app-builder-to-15-more-countries-and-boosts-performance/</link>
       <description><![CDATA[Google 已将其用于构建、编辑和共享 AI 迷你应用的自然语言驱动工具 Opal 的使用范围扩大到另外 15 个国家/地区。此次推出覆盖加拿大、印度、日本、韩国、越南、印度尼西亚、巴西、新加坡、哥伦比亚、萨尔瓦多、哥斯达黎加、巴拿马、洪都拉斯、阿根廷和巴基斯坦，扩大了该平台在几大洲的覆盖范围。
 除了地域扩张之外，Google 还推出了关键的工作流程升级。用户现在可以在可视化编辑器中逐步运行其工作流程，或专注于控制台面板中的各个步骤。错误会被实时标记，并与相关步骤精确关联，从而提供即时上下文并减少故障排除期间的猜测。
@@ -16,7 +78,7 @@
       <pubDate>Wed, 08 Oct 2025 11:25:00 GMT</pubDate>
     </item>
     <item>
-      <title>Microsoft延迟Xbox游戏通过了当前订户的终极价格上涨</title>
+      <title>微软推迟当前订阅者的 Xbox Game Pass 最终价格上涨</title>
       <link>https://alternativeto.net/news/2025/10/microsoft-delays-xbox-game-pass-ultimate-price-hikes-for-current-subscribers/</link>
       <description><![CDATA[微软将推迟对部分国家/地区（包括德国、爱尔兰、南非）现有订阅者的 Xbox Game Pass Ultimate 涨价 韩国、波兰和意大利。宣布的较高费率目前仅适用于新购买的商品，而当前自动续订的订阅者将在至少两个月内维持旧的月费率。取消并重新购买的订阅者将按新价格付费。
 查看有关 AlternativeTo 的文章有关 Xbox Game Pass 的更多信息 | Xbox Game Pass 替代方案]]></description>
@@ -36,108 +98,56 @@
     <item>
       <title>Hana by Spline 添加了徽标叠加和图像变化功能</title>
       <link>https://alternativeto.net/news/2025/10/hana-by-spline-adds-logo-overlay-and-image-variation-features/</link>
-      <description><![CDATA[  by spline 现在让用户将任何徽标或向量放在图片上，从而提高了设计项目的灵活性。该更新还引入了生成现有图像变化的能力，支持扩展的创意工作流程。
- 有关Spline ＆nbsp; | | | &lt;a href =“]]></description>
+      <description><![CDATA[Hana by Spline 现在允许用户在图片上放置任何徽标或矢量形状，从而提高设计项目的灵活性。此更新还引入了生成现有图像变体的功能，支持扩展的创意工作流程。
+查看有关 AlternativeTo 的文章有关 Hana by Spline 的更多信息 | Hana by Spline 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/10/hana-by-spline-adds-logo-overlay-and-image-variation-features/</guid>
       <pubDate>Wed, 08 Oct 2025 07:47:27 GMT</pubDate>
     </item>
     <item>
       <title>Inoreader 与 n8n 集成以实现高级工作流程自动化</title>
       <link>https://alternativeto.net/news/2025/10/inoreader-integrates-with-n8n-for-advanced-workflow-automation/</link>
-      <description><![CDATA[  inoreader 现在提供与
- 更多有关inoreader ＆nbsp; | |]]></description>
+      <description><![CDATA[Inoreader 现在提供与 n8n 的集成，允许用户将该服务与 1,000 多个其他应用和平台连接 用于全面的工作流程自动化。该集成支持自动标记、保存和检索文章，以及在自定义自动化中管理提要、文件夹和标签。
+需要订阅 Inoreader Pro 才能访问集成，某些高级功能需要自定义插件。
+查看有关 AlternativeTo 的文章有关 Inoreader 的更多信息 | Inoreader 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/10/inoreader-integrates-with-n8n-for-advanced-workflow-automation/</guid>
       <pubDate>Wed, 08 Oct 2025 07:36:14 GMT</pubDate>
     </item>
     <item>
-      <title>MyMind介绍并搜索Instagram画廊帖子</title>
+      <title>mymind 推出保存和搜索 Instagram 画廊帖子的功能</title>
       <link>https://alternativeto.net/news/2025/10/mymind-introduces-saving-and-search-for-instagram-gallery-posts/</link>
-      <description><![CDATA[  myMind 用户现在可以将Instagram画廊帖子直接保存到其帐户中，其中帖子以熟悉的格式显示。保存的帖子会自动标记并索引以增强可搜索性。每个保存的帖子将成为一个私人副本，即使删除了原始Instagram帖子，也可以访问。
- 更多有关mymind ＆nbsp; |＆nbsp; |]]></description>
+      <description><![CDATA[mymind 用户现在可以将 Instagram 图库帖子直接保存到他们的帐户，帖子以熟悉的格式显示。保存的帖子会自动标记和索引，以增强可搜索性。每个保存的帖子都会成为私人副本，即使原始 Instagram 帖子被删除，仍然可以访问。
+查看有关 AlternativeTo 的文章有关 mymind 的更多信息 | mymind 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/10/mymind-introduces-saving-and-search-for-instagram-gallery-posts/</guid>
       <pubDate>Wed, 08 Oct 2025 07:29:27 GMT</pubDate>
     </item>
     <item>
-      <title>TestFlight 更新推出液态玻璃设计并添加辅助功能</title>
+      <title>TestFlight 更新推出液体玻璃设计并添加辅助功能</title>
       <link>https://alternativeto.net/news/2025/10/testflight-update-launches-liquid-glass-design-and-adds-accessibility-features/</link>
-      <description><![CDATA[ Apple已更新 Testflight  带有刷新设计的设计，该设计具有跨多个平台的液体玻璃界面。该版本还增加了可访问性改进，例如配音，语音控制和较大的文本选项。
-看来Apple还在研究测试人员匹配功能，旨在帮助用户找到合适的Beta应用程序，尽管尚未宣布。 
-View article on AlternativeTo »更多关于testflight  |]]></description>
+      <description><![CDATA[Apple 更新了 TestFlight，采用全新设计，采用跨多个平台的 Liquid Glass 界面。该版本还增加了辅助功能改进，例如 VoiceOver、语音控制和更大的文本选项。
+苹果似乎还在开发测试人员匹配功能，旨在帮助用户找到合适的测试版应用程序，尽管尚未宣布。
+查看有关 AlternativeTo 的文章有关 TestFlight 的更多信息 | TestFlight 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/10/testflight-update-launches-liquid-glass-design-and-adds-accessibility-features/</guid>
       <pubDate>Wed, 08 Oct 2025 07:21:37 GMT</pubDate>
     </item>
     <item>
-      <title>Anthropic推出Petri，一款用于LLM模型评估的开源AI安全审计工具</title>
+      <title>Anthropic 推出 Petri，一款用于 LLM 模型评估的开源 AI 安全审计工具</title>
       <link>https://alternativeto.net/news/2025/10/anthropic-launches-petri-an-open-source-ai-safety-audit-tool-for-llm-model-evaluation/</link>
       <description><![CDATA[Anthropic 发布了 Petri，这是一款开源工具，可使用 AI 自动对 AI 模型进行安全审核 代理。 Petri 是风险交互并行探索工具的缩写，可帮助研究人员大规模测试模型是否存在不安全或欺骗行为。它建立在英国人工智能安全研究所的 Inspect 框架之上，可在 GitHub 上公开获取。
 Petri 指派一个 Auditor 代理通过模拟的多轮对话与目标模型进行交互。然后，法官特工会审查这些交流，并根据欺骗、奉承和寻求权力等标准对它们进行评分。研究人员使用自然语言种子指令定义审计场景，从而实现灵活且可重复的评估。
-在涉及 111 个场景的 14 个领先模型的测试中，Petri 发现了包括欺骗、操纵和举报倾向等问题。 Claude Sonnet 4.5 和 GPT-5 显示问题行为发生率最低，而Gemini 2.5 Pro、Grok-4 和 Kimi K2更具欺骗性。一些模型甚至根据叙事线索标记出无害的行为，反映了道德推理的差距。 Anthropic 认为 Petri 是迈向可扩展、透明的安全基准的一步，尽管它指出目前的结果仍处于初步阶段。
+在涉及 111 个场景的 14 个领先模型的测试中，Petri 发现了包括欺骗、操纵和举报倾向等问题。 Claude Sonnet 4.5 和 GPT-5 显示问题行为发生率最低，而 Gemini 2.5 Pro、Grok-4 和 Kimi K2更具欺骗性。一些模型甚至根据叙事线索标记出无害的行为，反映了道德推理的差距。 Anthropic 认为 Petri 是迈向可扩展、透明的安全基准的一步，尽管它指出目前的结果仍处于初步阶段。
 查看有关 AlternativeTo 的文章有关 Petri 的更多信息 | Petri 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/10/anthropic-launches-petri-an-open-source-ai-safety-audit-tool-for-llm-model-evaluation/</guid>
       <pubDate>Tue, 07 Oct 2025 23:18:14 GMT</pubDate>
     </item>
     <item>
-      <title>Clamav 1.5添加了外部CVD签名，FIPS模式和新的检测功能</title>
+      <title>ClamAV 1.5 添加了外部 CVD 签名、FIPS 模式和新的检测功能</title>
       <link>https://alternativeto.net/news/2025/10/clamav-1-5-adds-external-cvd-signing-fips-mode-and-new-detection-features/</link>
       <description><![CDATA[ClamAV 1.5.0 引入了以 FIPS（联邦信息处理标准）兼容性为中心的重大安全性和合规性改进。现在使用新的 .cvd.sign 外部签名文件验证签名数据库文件，取代旧的基于 MD5 的 RSA 方法。 Freshclam 自动下载日常数据库、主数据库和字节码数据库的这些文件，确保在 FIPS 模式环境中正常运行。
 此更新添加了 FIPS 限制选项，可禁用 MD5 和 SHA1 进行签名验证和文件信任检查。干净文件缓存现在使用 SHA2-256 来提高完整性，并且新的可配置证书目录管理受信任的签名机构。这些变化使 ClamAV 与现代加密标准保持一致。管理员还获得了新的配置选项，包括 clamd.conf 中基于正则表达式的路径排除，以及在受限环境中禁用 SHUTDOWN 或 RELOAD 等命令的能力。
 ClamAV 1.5.0 还将外部签名支持扩展到 Freshclam、ClamD、ClamScan 和 Sigtool，从而通过新的 .sign 系统实现签名和验证。它现在可以识别加密的基于 OLE2 的 Microsoft Office 文档，改进 ZIP 存档解析，并识别某些 AI 模型文件类型。开发人员受益于用于 CVD 验证、解包和扫描（使用哈希和文件类型提示）的扩展公共 API，以及用于自定义扫描逻辑的新扫描回调系统。元数据生成得到了改进，JSON 输出将指标和警报数组分开，并提供用于记录或排除 HTML 和 PDF 文件中 URI 的选项，从而使用户能够更好地控制和精确扫描报告。
-查看有关 AlternativeTo 的文章有关 ClamAV 的更多信息 | ClamAV 替代方案]]></description>
+查看有关 AlternativeTo 的文章有关 ClamAV 的更多信息 | ClamAV 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/10/clamav-1-5-adds-external-cvd-signing-fips-mode-and-new-detection-features/</guid>
       <pubDate>Tue, 07 Oct 2025 21:04:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qt 6.10 带来了 FlexboxLayout、高级数据桥接、矢量动画等</title>
-      <link>https://alternativeto.net/news/2025/10/qt-6-10-brings-flexboxlayout-advanced-data-bridging-vector-animations-and-more/</link>
-      <description><![CDATA[  QT 6.10 为开发人员和设备创建者介绍了主要更新，重点介绍UI设计，数据集成和平台支持。亮点包括 qt Quick Quick Quick 的新型Flexboxlayout，它带来了CSS-Like响应式布局，扩展了对动画的SVG和 lottie files ，以及用于本机搜索功能的新的搜索端口控件。该版本还提高了可访问性，会自动将应用程序适应高对比度模式，并加强与辅助技术的集成，包括更好的For developers, Qt 6.10 simplifies data handling between C++ and QML with new tools like QRangeModel, which exposes C++ containers like std::vector and std::array to QML and Qt Widgets, without boilerplate code, and delegateModelAccess for two-way updates between views and models.同步器元素引入了双向绑定，而Treemodel QML类型和SortFilterProxymodel使直接在QML中直接声明，排序和过滤数据更容易。这些添加者一起简化了动态，数据驱动的UI。
-平台支持已在Android，Apple，Windows和Linux上扩展。 Qt 6.10 adds compatibility for Android 15 and 16, introduces Qt Jenny 1.0 for generating JNI bindings, ensures full support for macOS and iOS 26, and integrates Microsoft Edge WebView2 on Windows.其他改进包括a  pipewire  QT多媒体的后端，新的嵌入式硬件支持，boot to boot to qt on  yocto 5.2 ，qt Qud Quick 3D和QT图中的增强渲染，以及QT窗口小部件和QT核心的改进，以及QT核心和QT核心，以提高性能和灵活性。&gt; &gt; &gt; &gt; 
- 有关Qt ＆nbsp; |＆nbsp;  qt替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/qt-6-10-brings-flexboxlayout-advanced-data-bridging-vector-animations-and-more/</guid>
-      <pubDate>Tue, 07 Oct 2025 17:31:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Podman Desktop 1.22添加了探索功能仪表板和YAML改进</title>
-      <link>https://alternativeto.net/news/2025/10/podman-desktop-1-22-adds-explore-features-dashboard-and-yaml-improvements/</link>
-      <description><![CDATA[  podman桌面 1.22 1.22在仪表板上介绍了一个探索功能部分，并精简了诸如容器创建和扩展式浏览之类的板载任务。 MacOS和Windows上的用户现在可以在无根和生根模式之间切换Podman机器，以更容易配置。该更新还允许直接应用Kubernetes YAML文件，而无需本地文件创建，并且Windows可以使用ARM64安装程序。
- 查看文章href =“ https://alternativeto.net/software/podman-desktop/about/”&gt;有关Podman桌面的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/10/podman-desktop-1-22-adds-explore-features-dashboard-and-yaml-improvements/</guid>
-      <pubDate>Tue, 07 Oct 2025 15:18:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Instagram介绍了戒指奖，以纪念创造性的冒险者</title>
-      <link>https://alternativeto.net/news/2025/10/instagram-introduces-rings-awards-to-honor-creative-risk-takers/</link>
-      <description><![CDATA[Instagram 宣布推出“Rings”奖项，旨在表彰勇于承担创意风险并塑造文化的创作者。获奖者由国际创意评审小组选出，并获得实体戒指和数字个人资料奖。
-这种认可包括在他们的故事周围佩戴一个特殊的金环，以及用于定制他们的个人资料的新选项。
-查看有关 AlternativeTo 的文章有关 Instagram 的更多信息 | Instagram 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/instagram-introduces-rings-awards-to-honor-creative-risk-takers/</guid>
-      <pubDate>Tue, 07 Oct 2025 14:59:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果带回iPados中的多任务处理26.1 Beta 2</title>
-      <link>https://alternativeto.net/news/2025/10/apple-brings-back-slide-over-multitasking-in-ipados-26-1-beta-2/</link>
-      <description><![CDATA[ Apple在 26.1 beta 2，让用户在现有窗口窗口上放置一个可重新设定的应用程序。此更新部分恢复了iPados 26中删除的功能，尽管幻灯片当前一次仅支持一个应用程序。
- 有关iPados的更多信息]]></description>
-      <guid>https://alternativeto.net/news/2025/10/apple-brings-back-slide-over-multitasking-in-ipados-26-1-beta-2/</guid>
-      <pubDate>Tue, 07 Oct 2025 14:48:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>ElevenLabs 推出用于高级座席对话设计的座席工作流程</title>
-      <link>https://alternativeto.net/news/2025/10/elevenlabs-launches-agent-workflows-for-advanced-agent-conversation-design/</link>
-      <description><![CDATA[  Elevenlabs 已经启动了Agent Workflows，这是一个视觉编辑器，该视觉编辑器使用户能够设计代理平台中的复杂对话流。工作流让用户将对话路由到专业的子代理，每个子代理都有独特的提示，工具和知识库。
-此更新支持业务逻辑集成，安全的系统连接以及对人类运营商的更容易交接。
- 有关Elevenlabs ＆nbsp; | |＆nbsp; &lt;A href =“]]></description>
-      <guid>https://alternativeto.net/news/2025/10/elevenlabs-launches-agent-workflows-for-advanced-agent-conversation-design/</guid>
-      <pubDate>Tue, 07 Oct 2025 14:40:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ladybird 在网络平台测试中通过了 Apple 90% 的门槛，标志着一个重要的里程碑</title>
-      <link>https://alternativeto.net/news/2025/10/ladybird-passes-the-apple-90-thresholf-on-web-platform-tests-marking-a-major-milestone/</link>
-      <description><![CDATA[  ladybird ，从头开始开发的独立和开源网络浏览器，现在已经超过了90％的合规性。 href =“ https://web-platform-tests.org”&gt; web-platform-tests  suite。这项成就是首席开发人员Andreas Kling在X 上宣布了一个相当大的里程碑。
-越过90％的阈值特别有意义，因为苹果将这种遵守程度视为将网络浏览器视为iOS上可行的替代引擎以及其他标准的最低要求。尽管这种开发使瓢虫更接近iOS资格，但用户应注意，浏览器尚未作为Apple移动操作系统上的替代引擎可用。进展仍在继续，但是在实现一般iOS部署之前，仍需要解决一些功能限制。
-同时，瓢虫的进步步伐引起了人们的关注。对于一个非公司独立的项目而言，在开发社区中如此迅速地到达这个阶段是值得注意的。 Ladybird坚持开放标准和独立方法强调了其在浏览器景观中日益增长的相关性。
- 有关Ladybird ＆nbsp; |替代方案 ]]></description>
-      <guid>https://alternativeto.net/news/2025/10/ladybird-passes-the-apple-90-thresholf-on-web-platform-tests-marking-a-major-milestone/</guid>
-      <pubDate>Tue, 07 Oct 2025 14:15:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
