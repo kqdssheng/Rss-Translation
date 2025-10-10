@@ -4,7 +4,85 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Thu, 09 Oct 2025 12:39:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 01:24:38 GMT</lastBuildDate>
+    <item>
+      <title>Wireshark 4.6 添加了散点图视觉效果、实时捕获压缩和协议解码</title>
+      <link>https://alternativeto.net/news/2025/10/wireshark-4-6-adds-scatter-plot-visuals-live-capture-compression-and-protocol-decoding/</link>
+      <description><![CDATA[Wireshark 4.6 引入了主要更新，重点关注 Linux、macOS 和 Windows 上的分析精度、捕获效率和协议覆盖范围。新的绘图对话框添加了散点图可视化效果，可显示原始数据包字段值（例如 DNS 查询长度），并支持多绘图和实时滚动。与随时间聚合数据的 I/O 图表相比，这提供了更详细的流量行为视图。现在可以在写入时压缩实时捕获，从而减少长时间或高容量会话期间的磁盘空间使用。
+加密流量分析已得到扩展，支持解密由网络时间安全 (NTS) 保护的 NTP 数据包，并使用其他密钥源改进了 MACsec 解密。该版本还增加了对非对称密钥包 (AKP)、二进制 HTTP、蓝牙 HCI 变体、BIST TotalView-ITCH、BPSec COSE Con​​text、Commsignia 捕获协议 (C2P) 以及 DECT、DLMS/COSEM 和 GSMA RSP 生态系统中其他协议的解码。
+在 Linux 上，新的 BPF 过滤器扩展允许按方向或接口索引捕获流量，以实现更精细的控制。自定义列现在镜像数据包详细信息格式以保持一致性，新的界面选项包括“复制为 HTML”、手动重新剖析、SI 前缀的 TCP 流图以及支持 Intel 和 Apple Silicon 的统一 macOS 安装程序。 AirPcap、WinPcap 和较旧的 libnl 版本等旧版依赖项已被弃用。 可在此处获取包含详细技术信息和错误修复的完整发行说明。
+查看有关 AlternativeTo 的文章有关 Wireshark 的更多信息 | Wireshark 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/wireshark-4-6-adds-scatter-plot-visuals-live-capture-compression-and-protocol-decoding/</guid>
+      <pubDate>Thu, 09 Oct 2025 21:55:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ubuntu 25.10 发布，配备 GNOME 49、Linux 内核 6.17、TPM 支持的加密等</title>
+      <link>https://alternativeto.net/news/2025/10/ubuntu-25-10-launches-with-gnome-49-linux-kernel-6-17-tpm-backed-encryption-and-more/</link>
+      <description><![CDATA[Ubuntu 25.10“Questing Quokka” 作为短期版本发布，支持时间截至 2026 年 7 月，明年 4 月可直接升级到 Ubuntu 26.04 LTS。该版本引入了 GNOME 49 作为默认桌面，仅在 带有 NVIDIA 驱动程序的 Wayland 现在支持暂停和恢复，具有更流畅的动画、改进的设置面板以及锁定和登录屏幕上更好的辅助选项。 Nautilus 添加了带有过滤器、日期选择器和更好的键盘导航的刷新搜索。 Loupe 取代了 Eye of GNOME 作为图像查看器，并且 Ptyxis 接管作为新的 GPU 加速终端，在提升的会话期间提供选项卡、远程连接和红色标题栏。
+系统通知现在的侵入性较小，通过警报和托盘图标显示更新，而不是打开新窗口。通过可选的 TPM 支持的全磁盘加密，安全性向前迈出了一大步，允许通过 TPM 2.0 或密码自动解锁，并在安全中心和固件更新程序中处理恢复密钥管理。
+在底层，Ubuntu 25.10 采用 dracut 进行启动管理，引入基于 Rust 的 sudo-rs 以实现更安全的权限处理，并用 rust-coreutils 替换 GNU coreutils。它附带 Linux 内核 6.17，带来更好的 SSD 耐用性、改进的 EXT4 性能以及跨 ARM64 和更广泛的兼容性 RISC-V 系统。 Mesa 25.2.3 通过更快的着色器编译、更好的 AMD RDNA3 光线追踪和完整的 Arm Mali GPU 的 Vulkan 1.4 合规性。
+查看有关 AlternativeTo 的文章有关 Ubuntu 的更多信息 | Ubuntu 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/ubuntu-25-10-launches-with-gnome-49-linux-kernel-6-17-tpm-backed-encryption-and-more/</guid>
+      <pubDate>Thu, 09 Oct 2025 17:29:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>PipeWire 1.4.9 修复了节点未准备错误并改进了 libcamera 支持</title>
+      <link>https://alternativeto.net/news/2025/10/pipewire-1-4-9-fixes-node-unprepare-bug-and-improves-libcamera-support/</link>
+      <description><![CDATA[PipeWire 1.4.9 解决了节点未准备中的回归问题，该问题先前导致节点运行错误。该版本还从 systemd 文件中删除了 RestrictNamespaces，恢复了 libcamera 加载沙盒 IPA 模块的能力。
+其他更新改进了 ALSA 恢复，并通过将 SOF 卡设置为最小周期大小来优化 SOF 卡的空间。
+查看有关 AlternativeTo 的文章有关 PipeWire 的更多信息 | PipeWire 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/pipewire-1-4-9-fixes-node-unprepare-bug-and-improves-libcamera-support/</guid>
+      <pubDate>Thu, 09 Oct 2025 15:03:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sora 2 和 Nano Banana AI 图像工具现已面向 Opera Neon 用户推出</title>
+      <link>https://alternativeto.net/news/2025/10/sora-2-and-nano-banana-ai-image-tools-now-live-for-opera-neon-users/</link>
+      <description><![CDATA[Opera Neon 现在支持 OpenAI 的 Sora 2，允许用户直接启用它以实现无缝连接 人工智能驱动的任务和共享。 Opera Neon 用户现在可以直接从浏览器通过 OpenAI 访问 Sora 2。
+Opera Neon 还添加了 Google 的 Nano Banana，这是一种文本到图像模型，可确保场景和角色的一致性。该模型已成为 AI 图像生成和编辑的默认工具，取代了仍然可用的 Imagen 4.0 和 Ultra 模型。
+查看有关 AlternativeTo 的文章有关 Opera Neon 的更多信息 | Opera Neon 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/sora-2-and-nano-banana-ai-image-tools-now-live-for-opera-neon-users/</guid>
+      <pubDate>Thu, 09 Oct 2025 14:56:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lottielab 在 Figma 上推出 Magic Animator beta 2.0，速度和 UI 升级</title>
+      <link>https://alternativeto.net/news/2025/10/lottielab-launches-magic-animator-beta-2-0-on-figma-with-speed-and-ui-upgrades/</link>
+      <description><![CDATA[Lottielab 已推出Magic Animator beta 2.0，适用于Figma，引入更快的动画生成、改进的结果和刷新的界面。该版本为用户添加了免费使用积分和独特的推荐代码。
+更新的重点是通过错误修复和更智能、更快的处理来增强可靠性。
+查看有关 AlternativeTo 的文章有关 Magic Animator 的更多信息 | Magic Animator 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/lottielab-launches-magic-animator-beta-2-0-on-figma-with-speed-and-ui-upgrades/</guid>
+      <pubDate>Thu, 09 Oct 2025 14:29:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vivaldi 7.6 在 iOS 和 Android 上带来读者视图、自定义搜索引擎和链接预览</title>
+      <link>https://alternativeto.net/news/2025/10/vivaldi-7-6-brings-reader-view-custom-search-engines-and-link-previews-on-ios-and-android/</link>
+      <description><![CDATA[Vivaldi 7.6 面向桌面用户发布三周后，现已面向 iOS 和 Android 推出， 对其移动网络浏览器进行了一系列重点改进。在 iOS 上，用户可以获得新的阅读器视图，只需轻轻一按即可提供干净的页面和改进的排版，从而提供舒适的阅读体验，不受干扰。自定义搜索引擎也已到来，让您可以添加具有友好名称或短昵称的服务，并将任何服务设置为默认值以加快搜索速度。
+随着阅读器和搜索的升级，iOS 上的标签管理受到关注。更新后的选项卡切换器引入了选项卡堆栈窗格，将每个堆栈显示为整齐的卡片。点击堆栈一目了然地显示所有包含的选项卡，并允许用户立即选择他们需要的选项卡。此外，iOS 现在提供链接预览：长按任何链接都会显示页面的实时预览，从而简化导航。
+Vivaldi 浏览器的 Android 用户在添加书签时会看到升级。如果保存书签，现在可以直接在保存对话框中创建一个新文件夹，从一开始就将书签放置在正确的位置。 iOS 和 Android 版本还包括幕后改进和错误修复，这有助于提高跨设备的稳定性和响应能力。
+查看有关 AlternativeTo 的文章有关 Vivaldi 的更多信息 | Vivaldi 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/vivaldi-7-6-brings-reader-view-custom-search-engines-and-link-previews-on-ios-and-android/</guid>
+      <pubDate>Thu, 09 Oct 2025 14:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Julia 1.12 发布，具有实验性代码修剪、改进的多线程等功能</title>
+      <link>https://alternativeto.net/news/2025/10/julia-1-12-released-with-experimental-code-trimming-improved-multi-threading-and-more/</link>
+      <description><![CDATA[Julia 1.12 已发布，提供了多项针对性能和开发人员生产力的增强功能。此更新引入了一项实验性 --trim 功能，在系统映像编译期间使用该功能时，会删除静态无法访问的代码。这会加快编译时间并减少二进制大小。
+为了实现运行时灵活性，绑定现在参与“世界时代”机制（以前仅限于方法），从而可以正确重新定义常量和结构。除此之外，Julia 1.12 还提供了新的多线程改进：默认情况下启用交互式线程，线程设置现在尊重 CPU 亲和性，并且 @atomic 宏系列获得了对引用分配语法的支持。
+在这些核心语言更改之后，用户可以从用于检查编译事件的添加跟踪标志和宏中受益，从而可以更轻松地找到昂贵的编译步骤。现在支持 libLLVM、libjulia-internal 和 libjulia-codegen 的 BOLT 优化构建，利用 LLVM 的链接后优化来提高运行速度。生成的 LLVM 中间表示 (IR) 现在直接使用指针类型，取代了之前使用的整数编码。
+在处理任务时，开发人员可以利用两个新的每任务计时指标。在 @testset 失败期间自动打印随机数生成器种子可帮助测试工作流程，从而提高可重复性。此版本还提供了 Pkg 的其他增强功能和其他杂项改进。
+查看有关 AlternativeTo 的文章有关 Julia 的更多信息 | Julia 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/julia-1-12-released-with-experimental-code-trimming-improved-multi-threading-and-more/</guid>
+      <pubDate>Thu, 09 Oct 2025 12:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Python 3.14 带来了模板字符串文字、自由线程和 stdlib 子解释器</title>
+      <link>https://alternativeto.net/news/2025/10/python-3-14-brings-template-string-literals-free-threading-and-stdlib-subinterpreters/</link>
+      <description><![CDATA[Python 3.14 现在是最新的稳定版本，对编程语言、其实现和核心库带来了重大变化。主要更新包括引入模板字符串文字、类型注释的延迟评估以及对标准库中子解释器的官方支持。自由线程 Python 现在也得到正式支持，为应用程序开发人员释放了新的并发和并行可能性。
+在这些主要功能的基础上，开发人员将受益于 asyncio 模块中增强的自省功能以及添加的 compression.zstd 模块，该模块可实现开箱即用的 Zstandard 算法支持。读取-评估-打印循环 (REPL) 还获得了语法突出显示，而弃用和删除则继续完善语言并提高所有经验级别的用户的可用性。
+此外，标准库中现在可以直接使用多个解释器。 unittest、argparse、json 和 calendar 等命令行工具获得颜色支持，提高输出清晰度。对于那些开发外部工具的人来说，CPython 现在提供了零开销调试器接口，并且 C API 已升级以简化配置。 uuid 模块将支持扩展到版本 6 至 8，并将版本 3 至 5 的生成速度加快了 40%。与往常一样，此版本还引入了其他一些增强功能和错误修复。
+查看有关 AlternativeTo 的文章有关 Python 的更多信息 | Python 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/python-3-14-brings-template-string-literals-free-threading-and-stdlib-subinterpreters/</guid>
+      <pubDate>Thu, 09 Oct 2025 11:05:00 GMT</pubDate>
+    </item>
     <item>
       <title>WordPress Studio 1.60 引入了蓝图，可以更轻松、更快地进行本地站点开发</title>
       <link>https://alternativeto.net/news/2025/10/wordpress-studio-1-60-introduces-blueprints-for-easier-and-faster-local-site-development/</link>
@@ -75,79 +153,6 @@ OneDrive 的搜索栏现在支持自然语言查询，根据存储的文档返�
 查看有关 AlternativeTo 的文章有关 OpenProject 的更多信息 | OpenProject 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/10/openproject-16-5-improves-meeting-section-color-modes-project-filters-and-accessibility/</guid>
       <pubDate>Wed, 08 Oct 2025 14:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Organic Maps 添加了 Android Auto 速度限制、GeoJSON 导入、记录轨迹统计数据等</title>
-      <link>https://alternativeto.net/news/2025/10/organic-maps-adds-android-auto-speed-limits-geojson-import-recording-track-stats-and-more/</link>
-      <description><![CDATA[Organic Maps 开源 GPS 导航应用程序已推出更新，为跨平台用户提供了多项关键增强功能。最值得注意的是，Android Auto 现在会在导航过程中显示速度限制，这一功能旨在提高驾驶员的态势感知能力。 GeoJSON 导入和跟踪统计记录的添加扩展了所有活动的功能，支持更灵活的数据集成和跟踪。
-在这些核心升级之后，用户现在可以通过在搜索框中输入 ?description 来访问 OpenStreetMap 描述标签，从而使底层地图数据更易于访问。在 iOS 上，此版本提供了直接在录制轨道上保存书签以及删除录制轨道而无需先保存的功能，从而简化了录制工作流程。
-通过此更新，用户界面和 OpenStreetMap 编辑工具都受益于可用性改进和各种错误修复。同时，影响部分 Android 设备的启动崩溃问题已得到解决。
-此外，当前的 OpenStreetMap 和 Wikipedia 地图数据已更新，并支持 西雅图的轻轨位于公共交通层。该版本还包括各种小错误修复和改进，有助于增强所有用户的稳定性和性能。
-查看有关 AlternativeTo 的文章有关有机地图的更多信息 | 有机地图替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/organic-maps-adds-android-auto-speed-limits-geojson-import-recording-track-stats-and-more/</guid>
-      <pubDate>Wed, 08 Oct 2025 12:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google 将 Opal AI 应用构建器扩展到另外 15 个国家并提高性能</title>
-      <link>https://alternativeto.net/news/2025/10/google-expands-opal-ai-app-builder-to-15-more-countries-and-boosts-performance/</link>
-      <description><![CDATA[Google 已将其用于构建、编辑和共享 AI 迷你应用的自然语言驱动工具 Opal 的使用范围扩大到另外 15 个国家/地区。此次推出覆盖加拿大、印度、日本、韩国、越南、印度尼西亚、巴西、新加坡、哥伦比亚、萨尔瓦多、哥斯达黎加、巴拿马、洪都拉斯、阿根廷和巴基斯坦，扩大了该平台在几大洲的覆盖范围。
-除了地域扩张之外，Google 还推出了关键的工作流程升级。用户现在可以在可视化编辑器中逐步运行其工作流程，或专注于控制台面板中的各个步骤。错误会被实时标记，并与相关步骤精确关联，从而提供即时上下文并减少故障排除期间的猜测。
-此外，Opal的核心性能也得到了增强。创建新项目现在明显比以前更快，因为 Google 大幅减少了启动等待时间。此外，Opal 可以并行执行多个工作流程步骤，从而实现更复杂的自动化并减少整体处理延迟。
-查看有关 AlternativeTo 的文章有关 Opal AI 的更多信息 | Opal AI 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/google-expands-opal-ai-app-builder-to-15-more-countries-and-boosts-performance/</guid>
-      <pubDate>Wed, 08 Oct 2025 11:25:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软推迟当前订阅者的 Xbox Game Pass 最终价格上涨</title>
-      <link>https://alternativeto.net/news/2025/10/microsoft-delays-xbox-game-pass-ultimate-price-hikes-for-current-subscribers/</link>
-      <description><![CDATA[微软将推迟对部分国家/地区（包括德国、爱尔兰、南非）现有订阅者的 Xbox Game Pass Ultimate 涨价 韩国、波兰和意大利。宣布的较高费率目前仅适用于新购买的商品，而当前自动续订的订阅者将在至少两个月内维持旧的月费率。取消并重新购买的订阅者将按新价格付费。
-查看有关 AlternativeTo 的文章有关 Xbox Game Pass 的更多信息 | Xbox Game Pass 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/microsoft-delays-xbox-game-pass-ultimate-price-hikes-for-current-subscribers/</guid>
-      <pubDate>Wed, 08 Oct 2025 08:12:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ente Photos 现在允许用户在外部网站上嵌入公共相册，并自动更新</title>
-      <link>https://alternativeto.net/news/2025/10/ente-photos-now-lets-users-embed-public-albums-on-external-websites-with-auto-updates/</link>
-      <description><![CDATA[Ente，开源的端到端加密照片存储平台，现在允许用户将公共相册直接嵌入到自己的网站上。 Active Ente 订阅者可以使用此功能在网络上的任何位置展示照片集或作品集。
-要启用嵌入，用户可以为其选择的相册生成一个公共链接，该链接提供了可在任何外部网站上使用的嵌入代码。嵌入式相册复制了标准的观看者体验，让访问者可以在主机网站内浏览缩略图、查看全尺寸图像以及观看视频。嵌入的图库会自动更新以反映任何添加或删除的照片。
-嵌入功能支持受密码保护的相册，因此如果相册受到保护，访问者将需要输入正确的密码才能访问内容。
-查看有关 AlternativeTo 的文章有关 Ente 照片的更多信息 | Ente 照片替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/ente-photos-now-lets-users-embed-public-albums-on-external-websites-with-auto-updates/</guid>
-      <pubDate>Wed, 08 Oct 2025 07:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hana by Spline 添加了徽标叠加和图像变化功能</title>
-      <link>https://alternativeto.net/news/2025/10/hana-by-spline-adds-logo-overlay-and-image-variation-features/</link>
-      <description><![CDATA[Hana by Spline 现在允许用户在图片上放置任何徽标或矢量形状，从而提高设计项目的灵活性。此更新还引入了生成现有图像变体的功能，支持扩展的创意工作流程。
-查看有关 AlternativeTo 的文章有关 Hana by Spline 的更多信息 | Hana by Spline 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/hana-by-spline-adds-logo-overlay-and-image-variation-features/</guid>
-      <pubDate>Wed, 08 Oct 2025 07:47:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Inoreader 与 n8n 集成以实现高级工作流程自动化</title>
-      <link>https://alternativeto.net/news/2025/10/inoreader-integrates-with-n8n-for-advanced-workflow-automation/</link>
-      <description><![CDATA[Inoreader 现在提供与 n8n 的集成，允许用户将该服务与 1,000 多个其他应用和平台连接 用于全面的工作流程自动化。该集成支持自动标记、保存和检索文章，以及在自定义自动化中管理提要、文件夹和标签。
-需要订阅 Inoreader Pro 才能访问集成，某些高级功能需要自定义插件。
-查看有关 AlternativeTo 的文章有关 Inoreader 的更多信息 | Inoreader 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/inoreader-integrates-with-n8n-for-advanced-workflow-automation/</guid>
-      <pubDate>Wed, 08 Oct 2025 07:36:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>mymind 推出保存和搜索 Instagram 画廊帖子的功能</title>
-      <link>https://alternativeto.net/news/2025/10/mymind-introduces-saving-and-search-for-instagram-gallery-posts/</link>
-      <description><![CDATA[mymind 用户现在可以将 Instagram 图库帖子直接保存到他们的帐户，帖子以熟悉的格式显示。保存的帖子会自动标记和索引，以增强可搜索性。每个保存的帖子都会成为私人副本，即使原始 Instagram 帖子被删除，仍然可以访问。
-查看有关 AlternativeTo 的文章有关 mymind 的更多信息 | mymind 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/mymind-introduces-saving-and-search-for-instagram-gallery-posts/</guid>
-      <pubDate>Wed, 08 Oct 2025 07:29:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>TestFlight 更新推出液态玻璃设计并添加辅助功能</title>
-      <link>https://alternativeto.net/news/2025/10/testflight-update-launches-liquid-glass-design-and-adds-accessibility-features/</link>
-      <description><![CDATA[Apple 更新了 TestFlight，采用全新设计，采用跨多个平台的 Liquid Glass 界面。该版本还增加了辅助功能改进，例如 VoiceOver、语音控制和更大的文本选项。
-苹果似乎还在开发测试人员匹配功能，旨在帮助用户找到合适的测试版应用程序，尽管尚未宣布。
-查看有关 AlternativeTo 的文章有关 TestFlight 的更多信息 | TestFlight 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/testflight-update-launches-liquid-glass-design-and-adds-accessibility-features/</guid>
-      <pubDate>Wed, 08 Oct 2025 07:21:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
