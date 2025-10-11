@@ -4,7 +4,18 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sat, 11 Oct 2025 01:19:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Oct 2025 12:34:56 GMT</lastBuildDate>
+    <item>
+      <title>Telegram 更新添加了通话实时评论、联系人备注、AI 机器人升级等</title>
+      <link>https://alternativeto.net/news/2025/10/telegram-update-adds-live-comments-for-calls-contact-notes-ai-bot-upgrades-and-more/</link>
+      <description><![CDATA[Telegram 最新更新为群组通话和视频聊天添加了实时评论和表情符号反应，让参与者无需取消静音即可分享快速反馈。该功能适用​​于参与者少于 1000 人的团体。 iOS 用户还可以获得新的 Liquid Glass 界面，具有符合 iOS 26 设计标准的半透明导航栏、键盘和贴纸面板。
+用户现在可以向联系人添加私人注释，以记住他们如何见面或某人在哪里工作等详细信息。 Telegram 还引入了建议生日功能，让用户可以提议日期或将日期添加到联系人个人资料中，以接收提醒并启用赠送礼物。
+人工智能机器人现在支持线程对话和实时响应流，提高了多主题聊天的可用性。开发人员可以创建基于订阅的机器人，而高级用户则可以使用可收藏的礼物作为主题来获得扩展的个人资料定制。此更新还通过匿名模式改进了礼物选项，通过 Fragment 添加了基于区块链的礼物显示，并引入了用于应用内反馈的错误和建议迷你应用。
+最后，Telegram 的创始人 Pavel Durov 在他 41 岁生日时分享了一条忧郁的消息，警告称“我们已经没有时间来拯救免费互联网了”，对日益增长的数字控制措施（例如 英国的年龄验证系统和其他地区的在线身份识别法是对隐私和言论自由的主要威胁。
+查看有关 AlternativeTo 的文章有关 Telegram 的更多信息 | Telegram 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/telegram-update-adds-live-comments-for-calls-contact-notes-ai-bot-upgrades-and-more/</guid>
+      <pubDate>Sat, 11 Oct 2025 05:19:04 GMT</pubDate>
+    </item>
     <item>
       <title>Visual Studio Code 1.105 添加了 AI 合并帮助、MCP 市场和 macOS 登录</title>
       <link>https://alternativeto.net/news/2025/10/visual-studio-code-1-105-adds-ai-merge-help-mcp-marketplace-and-macos-sign-in/</link>
@@ -28,7 +39,7 @@
     <item>
       <title>Dia 浏览器推出内存搜索并向所有 macOS 用户开放访问权限</title>
       <link>https://alternativeto.net/news/2025/10/dia-browser-launches-memory-search-and-opens-access-to-all-macos-users/</link>
-      <description><![CDATA[Dia 浏览器引入了内存搜索，允许用户使用查询 @memory 在正确的时刻检索上下文。
+      <description><![CDATA[Dia 浏览器引入了内存搜索，允许用户使用查询@memory在适当的时候检索上下文。
 此外，Dia 还宣布该浏览器现在可供所有 macOS 用户使用，不受任何限制。
 查看有关 AlternativeTo 的文章有关 Dia 浏览器的更多信息 | Dia 浏览器替代品]]></description>
       <guid>https://alternativeto.net/news/2025/10/dia-browser-launches-memory-search-and-opens-access-to-all-macos-users/</guid>
@@ -47,7 +58,7 @@
     <item>
       <title>格兰诺拉麦片在聊天中添加@提及会议记录</title>
       <link>https://alternativeto.net/news/2025/10/granola-adds--mention-for-meeting-notes-in-chat/</link>
-      <description><![CDATA[Granola 引入了直接在聊天中@提及以前会议的功能，允许用户提示 AI 助手执行与这些会议期间所做笔记相关的操作、摘要或列表。
+      <description><![CDATA[Granola 引入了直接在聊天中 @提及以前会议的功能，允许用户提示 AI 助手执行与这些会议期间所做笔记相关的操作、摘要或列表。
 此功能现已在 Granola Chat 中上线。
 查看有关 AlternativeTo 的文章有关格兰诺拉麦片的更多信息 | 格兰诺拉麦片替代品]]></description>
       <guid>https://alternativeto.net/news/2025/10/granola-adds--mention-for-meeting-notes-in-chat/</guid>
@@ -137,16 +148,6 @@ Opera Neon 还添加了 Google 的 Nano Banana，这是一种文本到图像模�
 查看有关 AlternativeTo 的文章有关 Magic Animator 的更多信息 | Magic Animator 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/10/lottielab-launches-magic-animator-beta-2-0-on-figma-with-speed-and-ui-upgrades/</guid>
       <pubDate>Thu, 09 Oct 2025 14:29:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vivaldi 7.6 在 iOS 和 Android 上带来读者视图、自定义搜索引擎和链接预览</title>
-      <link>https://alternativeto.net/news/2025/10/vivaldi-7-6-brings-reader-view-custom-search-engines-and-link-previews-on-ios-and-android/</link>
-      <description><![CDATA[Vivaldi 7.6 面向桌面用户发布三周后，现已面向 iOS 和 Android 推出， 对其移动网络浏览器进行了一系列重点改进。在 iOS 上，用户可以获得新的阅读器视图，只需轻轻一按即可提供干净的页面和改进的排版，从而提供舒适的阅读体验，不受干扰。自定义搜索引擎也已到来，让您可以添加具有友好名称或短昵称的服务，并将任何服务设置为默认值以加快搜索速度。
-随着阅读器和搜索的升级，iOS 上的标签管理受到关注。更新后的选项卡切换器引入了选项卡堆栈窗格，将每个堆栈显示为整齐的卡片。点击堆栈一目了然地显示所有包含的选项卡，并允许用户立即选择他们需要的选项卡。此外，iOS 现在提供链接预览：长按任何链接都会显示页面的实时预览，从而简化导航。
-Vivaldi 浏览器的 Android 用户在添加书签时会看到升级。如果保存书签，现在可以直接在保存对话框中创建一个新文件夹，从一开始就将书签放置在正确的位置。 iOS 和 Android 版本还包括幕后改进和错误修复，这有助于提高跨设备的稳定性和响应能力。
-查看有关 AlternativeTo 的文章有关 Vivaldi 的更多信息 | Vivaldi 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/vivaldi-7-6-brings-reader-view-custom-search-engines-and-link-previews-on-ios-and-android/</guid>
-      <pubDate>Thu, 09 Oct 2025 14:15:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
