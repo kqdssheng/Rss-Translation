@@ -4,7 +4,83 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Fri, 10 Oct 2025 12:40:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Oct 2025 01:19:19 GMT</lastBuildDate>
+    <item>
+      <title>Visual Studio Code 1.105 添加了 AI 合并帮助、MCP 市场和 macOS 登录</title>
+      <link>https://alternativeto.net/news/2025/10/visual-studio-code-1-105-adds-ai-merge-help-mcp-marketplace-and-macos-sign-in/</link>
+      <description><![CDATA[2025 年 9 月更新的 Visual Studio Code 版本 1.105 对聊天、MCP 集成、AI 辅助编码、身份验证和可访问性进行了重大改进。 AI 现在可以直接在编辑器中解决 Git 合并冲突，提出用户可以根据需要调整的解决方案。两个新的 AI 模型：OpenAI 的 GPT-5-Codex 和 Anthropic 的 Claude Sonnet 4.5 可用于基于聊天的编码，具有实验性的思维链功能，显示模型的推理步骤 步骤。
+新的 MCP 市场（预览版） 允许用户从扩展视图或使用 @mcp 过滤器浏览和安装多组件协议 (MCP) 服务器。 MCP 服务器现在会在聊天会话开始时自动启动，从而消除了激活提示并提高了性能。
+其他更新包括通过 Microsoft MSAL 库使用 GitHub PKCE 进行本机 macOS 身份验证 支持、可访问性增强（例如详细聊天更新和改进的屏幕阅读器集成）以及支持嵌套 AGENTS.md 文件以定义每个子文件夹的代理行为。聊天会话现在更易于管理，允许用户查看过去的对话、在代理循环期间撤消或保留编辑，以及接收已完成任务或代理操作的操作系统通知。
+查看有关 AlternativeTo 的文章有关 Visual Studio Code 的更多信息 | Visual Studio Code 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/visual-studio-code-1-105-adds-ai-merge-help-mcp-marketplace-and-macos-sign-in/</guid>
+      <pubDate>Fri, 10 Oct 2025 21:47:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>YouTube将为一些之前被禁止的创作者提供“第二次机会”</title>
+      <link>https://alternativeto.net/news/2025/10/youtube-will-give-a-second-chance-to-some-previously-banned-creators/</link>
+      <description><![CDATA[YouTube 推出了一项试点计划，允许一些之前终止的创作者请求创建新频道。这标志着 YouTube 政策的转变，因为该平台旨在为某些用户提供贡献的“第二次机会”，并指出创作者和 YouTube 多年来都在不断发展。
+随着未来几周的推出，符合条件的创作者在使用已终止的帐户访问桌面版 YouTube Studio 时，将看到请求新频道的选项。如果他们的请求被接受，这些创作者可以重新开始并重建他们的观众，并有机会重新上传以前的视频，前提是内容符合当前的社区准则。
+不过，该试点项目明确排除了因侵犯版权或违反 YouTube 创作者责任政策而被终止合作的创作者。通过以这种方式限制资格，YouTube 为该计划划定了明确的界限，同时从最初的推出中吸取教训，并在未来几个月审查请求。
+查看有关 AlternativeTo 的文章有关 YouTube 的更多信息 | YouTube 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/youtube-will-give-a-second-chance-to-some-previously-banned-creators/</guid>
+      <pubDate>Fri, 10 Oct 2025 19:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dia 浏览器推出内存搜索并向所有 macOS 用户开放访问权限</title>
+      <link>https://alternativeto.net/news/2025/10/dia-browser-launches-memory-search-and-opens-access-to-all-macos-users/</link>
+      <description><![CDATA[Dia 浏览器引入了内存搜索，允许用户使用查询 @memory 在正确的时刻检索上下文。
+此外，Dia 还宣布该浏览器现在可供所有 macOS 用户使用，不受任何限制。
+查看有关 AlternativeTo 的文章有关 Dia 浏览器的更多信息 | Dia 浏览器替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/dia-browser-launches-memory-search-and-opens-access-to-all-macos-users/</guid>
+      <pubDate>Fri, 10 Oct 2025 15:53:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tiny Tiny RSS 将关闭，因为开发人员将于 2025 年 11 月 1 日完全结束项目</title>
+      <link>https://alternativeto.net/news/2025/10/tiny-tiny-rss-to-shut-down-as-developer-ends-project-entirely-by-november-1st-2025/</link>
+      <description><![CDATA[Tiny Tiny RSS 是一款流行的基于网络的开源 RSS 阅读器，其开发人员将停止该项目，并计划在 2025 年 11 月 1 日之前停止该项目的所有工作并完全拆除该项目。该决定已于 项目论坛，并将影响支持 tt-rss.org、cgit、项目论坛和所有相关网站的整个基础设施，因为这些服务将在同一天离线。
+在此公告发布后，用户已收到通知，他们有一个月的时间来镜像任何感兴趣的存储库，然后再将其永久删除。支持 Tiny Tiny RSS 的论坛将在剩余时间内以只读模式保持访问状态，直至最终关闭。
+开发人员解释说，采取这一举措的主要原因是缺乏维护面向公众的项目和网站的乐趣。他还表示，Tiny Tiny RSS 的功能已经完成好几年了，更新基本 PHP 版本和修复损坏等例行活动不再提供足够的参与度。这些因素促成了结束该项目并拆除其场地的决定。
+查看有关 AlternativeTo 的文章有关 Tiny Tiny RSS 的更多信息 | Tiny Tiny RSS 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/tiny-tiny-rss-to-shut-down-as-developer-ends-project-entirely-by-november-1st-2025/</guid>
+      <pubDate>Fri, 10 Oct 2025 15:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>格兰诺拉麦片在聊天中添加@提及会议记录</title>
+      <link>https://alternativeto.net/news/2025/10/granola-adds--mention-for-meeting-notes-in-chat/</link>
+      <description><![CDATA[Granola 引入了直接在聊天中@提及以前会议的功能，允许用户提示 AI 助手执行与这些会议期间所做笔记相关的操作、摘要或列表。
+此功能现已在 Granola Chat 中上线。
+查看有关 AlternativeTo 的文章有关格兰诺拉麦片的更多信息 | 格兰诺拉麦片替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/granola-adds--mention-for-meeting-notes-in-chat/</guid>
+      <pubDate>Fri, 10 Oct 2025 15:45:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google Stitch 推出提示变体以实现可定制的设计迭代</title>
+      <link>https://alternativeto.net/news/2025/10/google-stitch-introduces-prompted-variants-for-customizable-design-iterations/</link>
+      <description><![CDATA[Stitch by Google 引入了提示变体，使用户能够通过自定义提示来指导他们的设计迭代。设计人员可以指定 UI 更改或描述更高级别的目标，以快速探索不同的选项。或者，将提示留空可以让 Stitch 独立地重新想象屏幕。
+查看有关 AlternativeTo 的文章有关 Google Stitch 的更多信息 | Google Stitch 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/google-stitch-introduces-prompted-variants-for-customizable-design-iterations/</guid>
+      <pubDate>Fri, 10 Oct 2025 14:45:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>TrailBase 0.19 首次推出仅 WASM 运行时、索引文件 API 更改和新的 Kotlin 客户端</title>
+      <link>https://alternativeto.net/news/2025/10/trailbase-0-19-debuts-wasm-only-runtime-index-file-api-changes-and-new-kotlin-client/</link>
+      <description><![CDATA[TrailBase 0.19 是开源 Firebase 替代方案的最新更新，具有类型安全的 REST 和 实时 API。此版本引入了重大的后端更改，使其成为第一个专门使用 WebAssembly (WASM) 的版本，并放弃了对 V8 运行时。虽然自定义二进制构建可以暂时重新启用 V8，但计划完全删除。根据这些后端转变，默认的 Linux 构建现在是使用 MUSL 而不是 GLibc 生成的，提供静态 以及适用于不同环境的便携式二进制文件。
+除了这些技术变化之外，该版本还对文件处理进行了重大修改。不再支持基于索引的文件读取，取而代之的是独特的文件名约定，例如 {original_stem}_{rand#10}.{suffix}，解决先写后读访问模式中出现的陈旧缓存问题。这些调整会影响新部署和维护持久文件存储的部署。
+在此基础上，TrailBase 0.19 还推出了官方 Kotlin 客户端，添加了基于记录的订阅过滤器，并推出了重新设计的 WASM 执行模型。此修订版允许执行程序的组件共享，以提高可扩展性和工作窃取。此外，访问规则验证现在更加全面，增强了管理员和开发人员的控制。
+查看有关 AlternativeTo 的文章有关 TrailBase 的更多信息 | TrailBase 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/trailbase-0-19-debuts-wasm-only-runtime-index-file-api-changes-and-new-kotlin-client/</guid>
+      <pubDate>Fri, 10 Oct 2025 12:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mozilla 推出改进的 Firefox 配置文件管理，以保持浏览活动独立</title>
+      <link>https://alternativeto.net/news/2025/10/mozilla-rolls-out-improved-firefox-profile-management-to-keep-browsing-activities-separate/</link>
+      <description><![CDATA[Mozilla 将于 10 月 14 日开始在 Firefox 中推出新的个人资料管理功能，让所有用户都能够创建多个单独的空间。每个配置文件都带有自己的书签、登录名、历史记录、扩展程序和主题，帮助需要单独浏览工作、学校或个人的用户。此前，个人资料管理仅限于 Firefox 的 about:profiles 页面，对大多数用户来说不太明显，尽管该功能至少自 2018 年以来就已存在。
+随着 Firefox 138 于 2025 年 4 月发布，Mozilla 引入了改进的配置文件管理工具，但这些变化最初只是 可供一部分用户使用。该公司指出，这种逐步推出是有意为之的，但到 10 月中旬，增强的个人资料管理将向所有人开放。
+除了这些更新之外，Mozilla 还与残障人士合作设计了更易于访问的界面，旨在使个人资料管理真正易于所有人使用。这些改进可帮助用户设定明确的界限、保护个人信息并减轻在线体验的负担。
+查看有关 AlternativeTo 的文章有关 Mozilla Firefox 的更多信息 | Mozilla Firefox 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/mozilla-rolls-out-improved-firefox-profile-management-to-keep-browsing-activities-separate/</guid>
+      <pubDate>Fri, 10 Oct 2025 09:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Anthropic 在公共测试版中推出对 Claude Code 的统一插件支持</title>
       <link>https://alternativeto.net/news/2025/10/anthropic-launches-unified-plugin-support-for-claude-code-in-public-beta/</link>
@@ -40,7 +116,7 @@
       <link>https://alternativeto.net/news/2025/10/pipewire-1-4-9-fixes-node-unprepare-bug-and-improves-libcamera-support/</link>
       <description><![CDATA[PipeWire 1.4.9 解决了节点未准备中的回归问题，该问题先前导致节点运行错误。该版本还从 systemd 文件中删除了 RestrictNamespaces，恢复了 libcamera 加载沙盒 IPA 模块的能力。
 其他更新改进了 ALSA 恢复，并通过将 SOF 卡设置为最小周期大小来优化 SOF 卡的空间。
-查看有关 AlternativeTo 的文章有关 PipeWire 的更多信息 | PipeWire 替代品]]></description>
+查看有关 AlternativeTo 的文章有关 PipeWire 的更多信息 | PipeWire 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/10/pipewire-1-4-9-fixes-node-unprepare-bug-and-improves-libcamera-support/</guid>
       <pubDate>Thu, 09 Oct 2025 15:03:31 GMT</pubDate>
     </item>
@@ -71,87 +147,6 @@ Vivaldi 浏览器的 Android 用户在添加书签时会看到升级。如果保
 查看有关 AlternativeTo 的文章有关 Vivaldi 的更多信息 | Vivaldi 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/10/vivaldi-7-6-brings-reader-view-custom-search-engines-and-link-previews-on-ios-and-android/</guid>
       <pubDate>Thu, 09 Oct 2025 14:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Julia 1.12 发布，具有实验性代码修剪、改进的多线程等功能</title>
-      <link>https://alternativeto.net/news/2025/10/julia-1-12-released-with-experimental-code-trimming-improved-multi-threading-and-more/</link>
-      <description><![CDATA[Julia 1.12 已发布，提供了多项针对性能和开发人员生产力的增强功能。此更新引入了一项实验性 --trim 功能，在系统映像编译期间使用该功能时，会删除静态无法访问的代码。这会加快编译时间并减少二进制大小。
-为了实现运行时灵活性，绑定现在参与“世界时代”机制（以前仅限于方法），从而可以正确重新定义常量和结构。除此之外，Julia 1.12 还提供了新的多线程改进：默认情况下启用交互式线程，线程设置现在尊重 CPU 亲和性，并且 @atomic 宏系列获得了对引用分配语法的支持。
-在这些核心语言更改之后，用户可以从用于检查编译事件的添加跟踪标志和宏中受益，从而可以更轻松地找到昂贵的编译步骤。现在支持 libLLVM、libjulia-internal 和 libjulia-codegen 的 BOLT 优化构建，利用 LLVM 的链接后优化来提高运行速度。生成的 LLVM 中间表示 (IR) 现在直接使用指针类型，取代了之前使用的整数编码。
-在处理任务时，开发人员可以利用两个新的每任务计时指标。在 @testset 失败期间自动打印随机数生成器种子可帮助测试工作流程，从而提高可重复性。此版本还提供了对 Pkg 的其他增强功能和其他杂项改进。
-查看有关 AlternativeTo 的文章有关 Julia 的更多信息 | Julia 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/julia-1-12-released-with-experimental-code-trimming-improved-multi-threading-and-more/</guid>
-      <pubDate>Thu, 09 Oct 2025 12:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 3.14 带来了模板字符串文字、自由线程和 stdlib 子解释器</title>
-      <link>https://alternativeto.net/news/2025/10/python-3-14-brings-template-string-literals-free-threading-and-stdlib-subinterpreters/</link>
-      <description><![CDATA[Python 3.14 现在是最新的稳定版本，对编程语言、其实现和核心库带来了重大变化。主要更新包括引入模板字符串文字、类型注释的延迟评估以及对标准库中子解释器的官方支持。自由线程 Python 现在也得到正式支持，为应用程序开发人员释放了新的并发和并行可能性。
-在这些主要功能的基础上，开发人员将受益于 asyncio 模块中增强的自省功能以及添加的 compression.zstd 模块，该模块可实现开箱即用的 Zstandard 算法支持。读取-评估-打印循环 (REPL) 还获得了语法突出显示，而弃用和删除则继续完善语言并提高所有经验级别的用户的可用性。
-此外，标准库中现在可以直接使用多个解释器。 unittest、argparse、json 和 calendar 等命令行工具获得颜色支持，提高输出清晰度。对于那些开发外部工具的人来说，CPython 现在提供了零开销调试器接口，并且 C API 已升级以简化配置。 uuid 模块将支持扩展到版本 6 到 8，并将版本 3 到 5 的生成速度加快了 40%。与往常一样，此版本还引入了其他一些增强功能和错误修复。
-查看有关 AlternativeTo 的文章有关 Python 的更多信息 | Python 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/python-3-14-brings-template-string-literals-free-threading-and-stdlib-subinterpreters/</guid>
-      <pubDate>Thu, 09 Oct 2025 11:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>WordPress Studio 1.60 引入了蓝图，可以更轻松、更快地进行本地站点开发</title>
-      <link>https://alternativeto.net/news/2025/10/wordpress-studio-1-60-introduces-blueprints-for-easier-and-faster-local-site-development/</link>
-      <description><![CDATA[Automattic 更新了其免费开源本地 WordPress 开发工具 WordPress Studio，其中包括 从 1.60 版本开始支持蓝图。通过此更新，用户不再需要从头开始每个新站点。新的蓝图功能可让您预先定义首选 WordPress 配置一次，然后重复使用它，从而为依赖标准脚手架的个人和团队简化网站创建过程。
-通过扩展工作流程，Studio 现在允许用户根据自己的自定义蓝图构建网站，或从精选的集合中快速启动新项目。这些蓝图充当轻量级 JSON“食谱”，指定 WordPress 版本、插件和设置以按需重建相同的环境。
-为了立即使用，Studio 1.60 包括三个特色蓝图：快速启动、专为专注于主题和插件工作的开发而设计的设置，以及利用 WooCommerce 和相关插件的商务蓝图。采用蓝图可以提高速度和一致性，使重复的​​站点启动或团队范围的标准更加易于管理。
-查看有关 AlternativeTo 的文章有关 WordPress Studio 的更多信息 | WordPress Studio 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/wordpress-studio-1-60-introduces-blueprints-for-easier-and-faster-local-site-development/</guid>
-      <pubDate>Thu, 09 Oct 2025 09:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deezer 推出具有自动歌曲匹配功能的跨平台播放列表共享</title>
-      <link>https://alternativeto.net/news/2025/10/deezer-launches-cross-platform-playlist-sharing-with-automatic-song-matching/</link>
-      <description><![CDATA[Deezer 推出了通用共享功能，使用户能够与朋友共享音乐，无论他们使用哪种音乐流媒体服务。此更新旨在通过允许跨平台共享播放列表来打破不同平台上用户之间的障碍。
-当从 Deezer 共享播放列表时，该平台会创建一个可以在多个其他流媒体服务上打开的链接。自动歌曲识别技术可确保播放列表中的每首曲目与接收者服务上的对应曲目相匹配，无论是 Spotify、TIDAL，或 Apple Music。该技术将用户重定向到每首歌曲的正确版本，从而创造无缝的聆听体验。
-根据 Deezer 的说法，播放列表是平台上仅次于单曲的第二大共享内容。虽然此功能满足了经常请求的功能，但它也支持音乐消费日益增长的社交方面。通过专注于互操作性，Deezer 应对了那些希望联系和分享的乐迷的长期挑战，无论他们或他们的朋友使用哪种服务。
-查看有关 AlternativeTo 的文章有关 Deezer 的更多信息 | Deezer 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/deezer-launches-cross-platform-playlist-sharing-with-automatic-song-matching/</guid>
-      <pubDate>Thu, 09 Oct 2025 07:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OneDrive 添加了 Copilot 集成、新的 AI 工具，并默认将 Word 文件保存在云中</title>
-      <link>https://alternativeto.net/news/2025/10/onedrive-adds-copilot-integration-new-ai-tools-and-makes-word-cloud-saved-by-default/</link>
-      <description><![CDATA[微软正在将 Copilot 集成到 OneDrive 中，并添加几个新的人工智能驱动的 工具，包括 Web 界面上的浮动 Copilot 图标，以及文件摘要、比较和音频概述选项。新的 Hero 链接现在允许具有可调整权限的永久共享链接，并且收件人可以请求 Copilot 即时生成的共享内容摘要。
-OneDrive 的搜索栏现在支持自然语言查询，根据存储的文档返回 ChatGPT 样式的响应。用户还可以创建与特定文件夹绑定的知识代理来回答问题和总结文件。 M365 Copilot Researcher 代理也将登陆 OneDrive 网页版，以协助进行多步骤研究。在 Windows 11 上，微软正在开发一款重新设计的 OneDrive 应用，其中包含更新的“照片”选项卡，其中包含图库和人物视图、人工智能驱动的幻灯片以及编辑工具。新的照片代理使用自然语言来查找、组织和共享照片，而照片堆栈会自动对重复图像和模糊图像进行分组。
-具有讽刺意味的是，最重要但简要提到的变化之一肯定会让许多用户感到沮丧，从今天开始，桌面上的所有新 Microsoft Word 文档将默认保存到 OneDrive，并启用自动保存，尽管用户可以 如果他们愿意（或注意到），仍然禁用此设置并选择在本地保存文件。这意味着文档和编辑现在将在设备之间自动同步，并从一开始就启用实时协作和备份功能。然而，向云存储的转变也可能会促使一些用户在可用空间耗尽后升级其 OneDrive 计划。
-查看有关 AlternativeTo 的文章有关 Microsoft OneDrive 的更多信息 | Microsoft OneDrive 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/onedrive-adds-copilot-integration-new-ai-tools-and-makes-word-cloud-saved-by-default/</guid>
-      <pubDate>Wed, 08 Oct 2025 23:46:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google 推出 Gemini 2.5 Computer Use，这是一种自动执行基于浏览器的操作的新模型</title>
-      <link>https://alternativeto.net/news/2025/10/google-launches-gemini-2-5-computer-use-a-browser-based-model-for-websites-interactions/</link>
-      <description><![CDATA[Google 推出了 Gemini 2.5 Computer Use，这是一种全新设计的 AI 模型 直接与网络浏览器中的用户界面交互，绕过传统应用程序编程接口的需要。此版本使人工智能代理能够执行类似人类的操作，例如在浏览器窗口中单击、键入、滚动和填写表单。 Gemini 2.5 计算机使用利用视觉理解和推理能力来解释请求和操作网页上的元素。
-它可以在没有 API 的情况下自动执行网站上的工作流程，支持 UI 测试、数据检索和表单提交等任务。 Google 报告称，Gemini 2.5 Computer Use 超越了 OpenAI 的 ChatGPT Agent 和 Anthropic 的网络和移动基准测试中的计算机使用工具，尽管目前仅限于基于浏览器的控制，而且尚未实现 针对桌面系统级操作进行了优化。该模型可处理多达 13 个 UI 操作，包括在浏览器中键入、单击和拖动元素。
-开发人员提供上下文的屏幕截图和操作历史记录，模型逐步执行 UI 命令，请求用户确认购买等敏感操作。它还允许自定义支持的操作，并且可以通过 Google AI Studio 和 Vertex AI。
-查看有关 AlternativeTo 的文章有关 Google Gemini 的更多信息 | Google Gemini 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/google-launches-gemini-2-5-computer-use-a-browser-based-model-for-websites-interactions/</guid>
-      <pubDate>Wed, 08 Oct 2025 18:29:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Evernote v11 首次推出人工智能助手、语义搜索和更智能的会议笔记</title>
-      <link>https://alternativeto.net/news/2025/10/evernote-v11-debuts-ai-assistant-semantic-search-and-smarter-meeting-notes/</link>
-      <description><![CDATA[Evernote 版本 11 引入了以 AI 为中心的重大更新，其中包括三个新工具：AI 助手、语义搜索和AI 会议笔记。 AI 助手由 OpenAI 开发，可充当应用内对话助手，无需离开 Evernote 即可总结文本、提取操作项、移动笔记、生成内容和浏览网页。
-语义搜索允许用户使用自然语言而不是关键字来查找信息，在搜索“英国假期”时显示“伦敦旅行”或“爱丁堡旅行”等相关内容。新的人工智能会议笔记功能增强了 Evernote 的转录工具，自动总结讨论内容并识别面对面和在线会议的发言人，将转录内容直接集成到笔记中，这与其他人工智能会议助手（如 Granola 或 最近在 ChatGPT 中添加了记录模式。
-版本 11 还引入了重新设计的界面，具有更清晰的布局、现代的排版和改进的导航，以便更快地访问笔记本和任务。自 2024 年初以来，我们进行了 200 多项产品变更，包括对同步速度、笔记渲染和离线稳定性的改进，从而在桌面和移动设备上提供更加一致和响应迅速的体验。
-查看有关 AlternativeTo 的文章有关 Evernote 的更多信息| Evernote 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/evernote-v11-debuts-ai-assistant-semantic-search-and-smarter-meeting-notes/</guid>
-      <pubDate>Wed, 08 Oct 2025 17:58:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>WordPress.com集成MCP，使AI助手能够安全地访问网站数据</title>
-      <link>https://alternativeto.net/news/2025/10/wordpress-com-integrates-mcp-enabling-ai-assistants-to-access-site-data-securely/</link>
-      <description><![CDATA[Automattic 宣布 WordPress.com 现在支持开放标准模型上下文协议 (MCP) 允许人工智能助手访问站点上下文和数据。此更新涉及 AI 工具，例如 Claude、ChatGPT 和 Cursor 可以直接与 WordPress.com 网站交互，检索内容和实时分析，无需用户手动输入。
-通过实施 MCP，WordPress.com 为 AI 助手提供了一种与网站通信的安全方式，提供对内容、统计数据和设置的访问，同时保护用户凭据。发布后，付费 WordPress.com 计划中的每个网站都已支持 MCP，但用户必须启用集成才能开始将其与其首选的 AI 代理一起使用。
-目前，MCP 集成提供只读访问权限，允许 AI 助手无需登录步骤即可显示站点信息和见解。 Automattic 还表示，未来的版本将扩展到写入访问，从而扩大站点管理的自动化可能性。除了主要工具之外，各种支持 AI 的应用程序（例如 Claude Desktop、Cursor 和 Visual Studio Code）都可以通过 MCP 连接，让用户可以通过他们选择的 AI 工具直接灵活地访问数据。
-查看有关 AlternativeTo 的文章有关 WordPress 的更多信息 | WordPress 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/wordpress-com-integrates-mcp-enabling-ai-assistants-to-access-site-data-securely/</guid>
-      <pubDate>Wed, 08 Oct 2025 15:50:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
