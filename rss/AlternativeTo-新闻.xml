@@ -4,7 +4,17 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sat, 11 Oct 2025 12:34:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 01:27:05 GMT</lastBuildDate>
+    <item>
+      <title>《魂斗罗》重新推出社区功能，转变为完整的创意网络</title>
+      <link>https://alternativeto.net/news/2025/10/contra-relaunches-with-community-feature-transforming-into-a-full-creative-network/</link>
+      <description><![CDATA[Contra，在线设计社区和作品集平台，推出了名为“新 Contra，” 引入了一项社区功能，将其从诸如 Dribbble、Layers 或 Behance 进入类似于 X，但专为设计师、开发人员和创作者而构建。
+重新设计的基石是新的 Contra feed，它充当用户发布工作、分享想法以及与合作者或客户联系的中心枢纽，有点像常规的 Twitter feed，但充满了闪亮的设计框。设计师现在可以展示项目和工具，而其他人则可以直接通过该平台发现社区和潜在客户机会并与之互动。
+Contra 通过提供经过验证的创意和经过验证的项目历史来强调真实性，并取消佣金，以便用户保留 100% 的收入。此外，它还允许创作者在免佣金系统内处理提案、合同和付款，从而消除了佣金。
+查看有关 AlternativeTo 的文章有关魂斗罗的更多信息 | 魂斗罗替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/contra-relaunches-with-community-feature-transforming-into-a-full-creative-network/</guid>
+      <pubDate>Sat, 11 Oct 2025 14:09:31 GMT</pubDate>
+    </item>
     <item>
       <title>Telegram 更新添加了通话实时评论、联系人备注、AI 机器人升级等</title>
       <link>https://alternativeto.net/news/2025/10/telegram-update-adds-live-comments-for-calls-contact-notes-ai-bot-upgrades-and-more/</link>
@@ -12,7 +22,7 @@
 用户现在可以向联系人添加私人注释，以记住他们如何见面或某人在哪里工作等详细信息。 Telegram 还引入了建议生日功能，让用户可以提议日期或将日期添加到联系人个人资料中，以接收提醒并启用赠送礼物。
 人工智能机器人现在支持线程对话和实时响应流，提高了多主题聊天的可用性。开发人员可以创建基于订阅的机器人，而高级用户则可以使用可收藏的礼物作为主题来获得扩展的个人资料定制。此更新还通过匿名模式改进了礼物选项，通过 Fragment 添加了基于区块链的礼物显示，并引入了用于应用内反馈的错误和建议迷你应用。
 最后，Telegram 的创始人 Pavel Durov 在他 41 岁生日时分享了一条忧郁的消息，警告称“我们已经没有时间来拯救免费互联网了”，对日益增长的数字控制措施（例如 英国的年龄验证系统和其他地区的在线身份识别法是对隐私和言论自由的主要威胁。
-查看有关 AlternativeTo 的文章有关 Telegram 的更多信息 | Telegram 替代方案]]></description>
+查看有关 AlternativeTo 的文章有关 Telegram 的更多信息 | Telegram 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/10/telegram-update-adds-live-comments-for-calls-contact-notes-ai-bot-upgrades-and-more/</guid>
       <pubDate>Sat, 11 Oct 2025 05:19:04 GMT</pubDate>
     </item>
@@ -32,7 +42,7 @@
       <description><![CDATA[YouTube 推出了一项试点计划，允许一些之前终止的创作者请求创建新频道。这标志着 YouTube 政策的转变，因为该平台旨在为某些用户提供贡献的“第二次机会”，并指出创作者和 YouTube 多年来都在不断发展。
 随着未来几周的推出，符合条件的创作者在使用已终止的帐户访问桌面版 YouTube Studio 时，将看到请求新频道的选项。如果他们的请求被接受，这些创作者可以重新开始并重建他们的观众，并有机会重新上传以前的视频，前提是内容符合当前的社区准则。
 不过，该试点项目明确排除了因侵犯版权或违反 YouTube 创作者责任政策而被终止合作的创作者。通过以这种方式限制资格，YouTube 为该计划划定了明确的界限，同时从最初的推出中吸取教训，并在未来几个月审查请求。
-查看有关 AlternativeTo 的文章有关 YouTube 的更多信息 | YouTube 替代品]]></description>
+查看有关 AlternativeTo 的文章有关 YouTube 的更多信息 | YouTube 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/10/youtube-will-give-a-second-chance-to-some-previously-banned-creators/</guid>
       <pubDate>Fri, 10 Oct 2025 19:05:00 GMT</pubDate>
     </item>
@@ -127,7 +137,7 @@
       <link>https://alternativeto.net/news/2025/10/pipewire-1-4-9-fixes-node-unprepare-bug-and-improves-libcamera-support/</link>
       <description><![CDATA[PipeWire 1.4.9 解决了节点未准备中的回归问题，该问题先前导致节点运行错误。该版本还从 systemd 文件中删除了 RestrictNamespaces，恢复了 libcamera 加载沙盒 IPA 模块的能力。
 其他更新改进了 ALSA 恢复，并通过将 SOF 卡设置为最小周期大小来优化 SOF 卡的空间。
-查看有关 AlternativeTo 的文章有关 PipeWire 的更多信息 | PipeWire 替代方案]]></description>
+查看有关 AlternativeTo 的文章有关 PipeWire 的更多信息 | PipeWire 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/10/pipewire-1-4-9-fixes-node-unprepare-bug-and-improves-libcamera-support/</guid>
       <pubDate>Thu, 09 Oct 2025 15:03:31 GMT</pubDate>
     </item>
@@ -139,15 +149,6 @@ Opera Neon 还添加了 Google 的 Nano Banana，这是一种文本到图像模�
 查看有关 AlternativeTo 的文章有关 Opera Neon 的更多信息 | Opera Neon 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/10/sora-2-and-nano-banana-ai-image-tools-now-live-for-opera-neon-users/</guid>
       <pubDate>Thu, 09 Oct 2025 14:56:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lottielab 在 Figma 上推出 Magic Animator beta 2.0，速度和 UI 升级</title>
-      <link>https://alternativeto.net/news/2025/10/lottielab-launches-magic-animator-beta-2-0-on-figma-with-speed-and-ui-upgrades/</link>
-      <description><![CDATA[Lottielab 已推出Magic Animator beta 2.0，适用于Figma，引入更快的动画生成、改进的结果和刷新的界面。该版本为用户添加了免费使用积分和独特的推荐代码。
-更新的重点是通过错误修复和更智能、更快的处理来增强可靠性。
-查看有关 AlternativeTo 的文章有关 Magic Animator 的更多信息 | Magic Animator 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/lottielab-launches-magic-animator-beta-2-0-on-figma-with-speed-and-ui-upgrades/</guid>
-      <pubDate>Thu, 09 Oct 2025 14:29:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
