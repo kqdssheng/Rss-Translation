@@ -4,7 +4,18 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Tue, 14 Oct 2025 01:23:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 12:42:47 GMT</lastBuildDate>
+    <item>
+      <title>谷歌将 Gemini 的 Nano Banana 引入 NotebookLM 的视频概述和 Google Lens</title>
+      <link>https://alternativeto.net/news/2025/10/google-is-bringing-gemini-s-nano-banana-to-notebooklm-s-video-overviews-and-google-lens/</link>
+      <description><![CDATA[Google 宣布对 NotebookLM 中的视频概述进行重大更新，现在允许用户将笔记和文档转换为具有更大视觉灵活性的解说视频。此增强功能的核心是集成了 Gemini 的 Nano Banana 图像生成模型，该模型为用户提供了关于视频概览外观的扩展选项 并感受。
+在这些改进的基础上，Nano Banana 可以根据用户上传的来源生成上下文插图。这一补充意味着视频概述不仅可以叙述文档内容，还可以通过相关的自动生成的视觉效果来支持更好的理解和记忆保留。同时，该平台引入了六种新的视频视觉风格：水彩、纸艺、动漫、白板、复古印刷和传统。
+除了新的图像功能外，NotebookLM 现在还提供两种视频格式以满足不同的用户需求。 Explainer 格式为深入学习提供了结构化、全面的概述，而新的 Brief 格式提供了简洁的视频，专注于快速传达文档的核心思想。
+虽然这些视频概述本周以所有支持的语言面向专业用户推出，但计划在未来几周内分阶段向所有用户推出。此外，Google 还宣布 Gemini 的 Nano Banana 也将登陆 Google 搜索 和 Google Lens，Google 相册即将推出。
+查看有关 AlternativeTo 的文章有关 NotebookLM 的更多信息 | NotebookLM 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/google-is-bringing-gemini-s-nano-banana-to-notebooklm-s-video-overviews-and-google-lens/</guid>
+      <pubDate>Tue, 14 Oct 2025 09:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Apple 停止使用其长期被遗忘的 iOS 视频编辑应用程序 Clips</title>
       <link>https://alternativeto.net/news/2025/10/apple-discontinues-clips-its-long-forgotten-video-editing-app-for-ios/</link>
@@ -49,7 +60,7 @@
     <item>
       <title>Goodnotes 更新带来了新的计划、AI 功能、白板和文本文档</title>
       <link>https://alternativeto.net/news/2025/10/goodnotes-update-brings-new-plans-ai-features-whiteboards-and-text-documents/</link>
-      <description><![CDATA[GoodNotes 已推出下一个主要版本，实际上是上次主要更新后的 Goodnotes 7 Goodnotes 6，不过这次没有版本号。该版本引入了名为 Essential、Pro 和 Special Edition 的新订阅级别，以及用于数学支持和会议摘要的白板、文本文档和人工智能驱动的工具等主要新增内容。现有 Goodnotes 6 用户和终身购买者将自动免费升级。终身用户转向特别版计划，通过有限的人工智能和云同步保留一次性购买，而年度订阅者则转向具有完整平台访问权限的基本计划。
+      <description><![CDATA[GoodNotes 已推出下一个主要版本，实际上是上次主要更新后的 Goodnotes 7 Goodnotes 6，不过这次没有版本号。该版本引入了名为 Essential、Pro 和 Special Edition 的新订阅级别，以及用于数学支持和会议摘要的白板、文本文档和人工智能驱动的工具等主要新增功能。现有 Goodnotes 6 用户和终身购买者将自动免费升级。终身用户转向特别版计划，通过有限的人工智能和云同步保留一次性购买，而年度订阅者则转向具有完整平台访问权限的基本计划。
 Goodnotes Essential 现在包括可提供无限创意空间的白板和可在多媒体支持下灵活书写的文本文档。 Goodnotes Pro 添加了实时协作、私人共享、评论以及与 Google 日历、Google 云端硬盘、Microsoft OneDrive，以及用于自动会议的 AI 会议助手 录音和转录。界面也得到了改进，包括重新设计的工具栏、新的对象菜单、改进的选择工具、便于组织的形状功能以及新的徽标。
 免费用户现在可以访问白板和文本文档，而团队和企业计划则增加了管理控制和更强的安全性。包括 Pro 和 AI Pass 在内的部分功能最初在 Apple 设备上提供，并将于 2025 年晚些时候扩展到 Android 和 Windows。
 查看有关 AlternativeTo 的文章有关 GoodNotes 的更多信息 | GoodNotes 替代品]]></description>
@@ -144,14 +155,6 @@ Contra 通过提供经过验证的创意和经过验证的项目历史来强调�
 查看有关 AlternativeTo 的文章有关格兰诺拉麦片的更多信息 | 格兰诺拉麦片替代品]]></description>
       <guid>https://alternativeto.net/news/2025/10/granola-adds--mention-for-meeting-notes-in-chat/</guid>
       <pubDate>Fri, 10 Oct 2025 15:45:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Stitch 推出提示变体以实现可定制的设计迭代</title>
-      <link>https://alternativeto.net/news/2025/10/google-stitch-introduces-prompted-variants-for-customizable-design-iterations/</link>
-      <description><![CDATA[Stitch by Google 引入了提示变体，使用户能够通过自定义提示来指导他们的设计迭代。设计人员可以指定 UI 更改或描述更高级别的目标，以快速探索不同的选项。或者，将提示留空可以让 Stitch 独立地重新想象屏幕。
-查看有关 AlternativeTo 的文章有关 Google Stitch 的更多信息 | Google Stitch 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/google-stitch-introduces-prompted-variants-for-customizable-design-iterations/</guid>
-      <pubDate>Fri, 10 Oct 2025 14:45:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
