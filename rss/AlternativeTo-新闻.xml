@@ -4,7 +4,53 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Wed, 15 Oct 2025 01:24:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 12:43:19 GMT</lastBuildDate>
+    <item>
+      <title>Instagram默认为青少年账户设置PG-13设置，加强家长控制</title>
+      <link>https://alternativeto.net/news/2025/10/instagram-sets-pg-13-settings-by-default-for-teen-accounts-strengthens-parental-controls/</link>
+      <description><![CDATA[Meta 宣布 Instagram 现在将使用类似于 PG-13 电影分级的标准来指导青少年帐户。此更改意味着 18 岁以下的青少年将默认看到符合 PG-13 准则的内容。在此基础上，青少年将自动进入更新的 13 岁以上内容设置。他们只有在获得父母明确许可的情况下才能摆脱这种限制模式。
+为了支持家长参与，Meta 为喜欢更严格内容控制的监护人引入了更严格的设置。除了切换这些设置之外，家长还将拥有提供反馈的新工具，包括报告他们认为青少年不应访问的内容的能力。
+由于青少年可能会试图规避这些保护措施，Instagram 正在升级其年龄预测技术，以便即使用户报告已年满 18 岁也能强制执行保护措施。根据 Meta 的说法，这些措施代表了青少年帐户控制的最重大变化自去年推出该功能以来。
+查看有关 AlternativeTo 的文章有关 Instagram 的更多信息 | Instagram 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/instagram-sets-pg-13-settings-by-default-for-teen-accounts-strengthens-parental-controls/</guid>
+      <pubDate>Wed, 15 Oct 2025 11:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Joomla 6 发布，带有自动核心更新、新的子模板和改进的版本控制</title>
+      <link>https://alternativeto.net/news/2025/10/joomla-6-released-with-automatic-core-updates-new-child-template-and-improved-versioning/</link>
+      <description><![CDATA[Joomla 6.0“Kuimarisha”（和 Joomla 5.4“Kutegemea”）已作为该开源内容管理系统 (CMS) 的最新版本发布。最重要的是，Joomla 现在支持自动核心更新，让站点管理员无需手动干预即可保持安装最新。此更新增加了额外的安全层并简化了日常维护任务。
+基于用户体验的改进，Joomla 6 引入了带有额外颜色和字体自定义功能的 Cassiopeia 子模板。管理员可以定义更多配色方案和字体大小，而无需编辑 CSS 文件。此外，Cassiopeia 前端和 Atum 后端模板现在都使用 CSS 过渡，确保页面之间的导航更加顺畅。
+Joomla 6 还改进了内容管理功能。版本控制系统现在包括以前未跟踪的自定义字段数据，从而改进了内容历史记录管理和编辑灵活性。添加了两种新的自定义字段类型：“注释”支持内联说明或上下文提示，而“数字”允许输入具有可选货币格式的专用数字。
+此更新进一步提供了向后兼容性改进、新的日期和日期时间字段、更新的 TinyMCE 文本编辑器（版本 8.0.1）以及缓存语言文件的改进性能等。
+查看有关 AlternativeTo 的文章有关 Joomla 的更多信息 | Joomla 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/joomla-6-released-with-automatic-core-updates-new-child-template-and-improved-versioning/</guid>
+      <pubDate>Wed, 15 Oct 2025 09:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Procreate 5.4.6 更新：文本滑块、增强的可见性和性能提升</title>
+      <link>https://alternativeto.net/news/2025/10/procreate-5-4-6-update-text-sliders-enhanced-visibility-and-performance-boost/</link>
+      <description><![CDATA[Procreate 5.4.6 引入了现在支持负值的文本滑块，让用户可以更好地控制设计调整。此更新还提高了图层缩略图的可见性，并为拥有大量画笔库的用户增强了画笔面板的性能。多个错误修复解决了与最新 iPadOS 版本的兼容性问题。
+查看有关 AlternativeTo 的文章有关 Procreate 的更多信息 | Procreate 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/procreate-5-4-6-update-text-sliders-enhanced-visibility-and-performance-boost/</guid>
+      <pubDate>Wed, 15 Oct 2025 08:17:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>DaVinci Resolve 20.2.2 改进了色彩管理和音频播放</title>
+      <link>https://alternativeto.net/news/2025/10/davinci-resolve-20-2-2-improves-color-management-and-audio-playback/</link>
+      <description><![CDATA[DaVinci Resolve 20.2.2 改进了 Mac 上 Rec.709 文件的查看器色彩管理，为视频编辑器提供更准确的视觉输出。该版本还解决了 Fairlight 中的播放抖动问题，并解决了时间线修剪、波纹删除和链接音频操作等几个关键问题。 AI IntelliScript 现在支持多机位剪辑，并且还包含用于工作流程自动化的其他脚本 API 增强功能。
+查看有关 AlternativeTo 的文章有关 DaVinci Resolve 的更多信息 | DaVinci Resolve 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/davinci-resolve-20-2-2-improves-color-management-and-audio-playback/</guid>
+      <pubDate>Wed, 15 Oct 2025 08:14:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Figma 在 Sites 中引入了 15 个新的辅助功能和 ARIA 支持</title>
+      <link>https://alternativeto.net/news/2025/10/figma-introduces-15-new-accessibility-features-and-aria-support-in-sites/</link>
+      <description><![CDATA[Figma 推出了超过 15 项新的辅助功能，为画布元素和评论添加了扩展的键盘控件。此更新还增强了屏幕阅读器的可靠性，并引入了禁用快捷方式和自动跟随的切换功能。
+Figma Sites 现在包含 ARIA 属性，并允许用户从属性面板编辑辅助功能选项，例如替代文本和角色。
+查看有关 AlternativeTo 的文章有关Figma的更多信息 | Figma替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/figma-introduces-15-new-accessibility-features-and-aria-support-in-sites/</guid>
+      <pubDate>Wed, 15 Oct 2025 08:10:18 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 很快将允许经过验证的成年人在 ChatGPT 中看到色情内容</title>
       <link>https://alternativeto.net/news/2025/10/openai-to-allow-erotic-content-in-chatgpt-for-verified-adults-soon/</link>
@@ -50,7 +96,7 @@ Zorin OS 18 Pro 通过新工具扩展了其应用程序集合，例如用于跨�
       <link>https://alternativeto.net/news/2025/10/whatsapp-most-recent-features-live-photos-meta-ai-chat-themes-and-improved-group-search/</link>
       <description><![CDATA[WhatsApp 在过去几个月推出了多项新功能。该应用程序现在允许用户在 iOS 上共享实时照片，在 Android 上共享动态照片，为这两个平台带来更丰富的声音和运动照片体验。此外，还引入了 Meta AI 功能，用于生成自定义聊天主题和独特的视频通话背景，但可用性可能有所不同。
 最后，现在还支持新的贴纸包、改进的群组搜索和 Android 文档扫描。
-查看有关 AlternativeTo 的文章有关 WhatsApp 的更多信息 | WhatsApp 替代品]]></description>
+查看有关 AlternativeTo 的文章有关 WhatsApp 的更多信息 | WhatsApp 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/10/whatsapp-most-recent-features-live-photos-meta-ai-chat-themes-and-improved-group-search/</guid>
       <pubDate>Tue, 14 Oct 2025 16:08:24 GMT</pubDate>
     </item>
@@ -77,7 +123,7 @@ Firefox 现在在桌面上包含由 Google Lens 提供支持的视觉搜索，�
       <link>https://alternativeto.net/news/2025/10/runway-launches-apps-with-five-new-creative-ai-workflows/</link>
       <description><![CDATA[Runway 推出了 Runway Apps，为特定的创意任务（例如视频对象删除和产品图像生成）提供基于 Web 的工作流程。最初的推出包括五个工具：从视频中删除、重新拍摄产品、添加对话、升级视频和更改图像样式。
 这些应用程序使用户能够使用简单的文本提示执行 4K 升级和样式更改等编辑任务。
-查看有关 AlternativeTo 的文章有关 Runway 的更多信息 | 跑道替代品]]></description>
+查看有关 AlternativeTo 的文章有关 Runway 的更多信息 | 跑道替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/10/runway-launches-apps-with-five-new-creative-ai-workflows/</guid>
       <pubDate>Tue, 14 Oct 2025 15:55:44 GMT</pubDate>
     </item>
@@ -99,52 +145,6 @@ Firefox 现在在桌面上包含由 Google Lens 提供支持的视觉搜索，�
 查看有关 AlternativeTo 的文章有关 Apple TV 的更多信息 | Apple TV 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/10/apple-tv-plus-rebrands-to--apple-tv/</guid>
       <pubDate>Tue, 14 Oct 2025 15:39:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Slack 将 ChatGPT 应用程序与用于 AI 任务的专用侧边栏集成</title>
-      <link>https://alternativeto.net/news/2025/10/slack-integrates-chatgpt-app-with-dedicated-sidebar-for-ai-tasks/</link>
-      <description><![CDATA[Slack 推出了 ChatGPT 应用程序，为平台添加了专用侧边栏，允许用户直接访问 AI 功能 在 Slack 内。该应用程序利用 Slack 的新实时搜索 API 来促进问题回答、想法生成、内容起草和问题解决。
-它还支持关键字和语义搜索，适用于启用 AI 的 Business+ 和 Enterprise+ 计划。
-查看有关 AlternativeTo 的文章有关 Slack 的更多信息 | Slack 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/slack-integrates-chatgpt-app-with-dedicated-sidebar-for-ai-tasks/</guid>
-      <pubDate>Tue, 14 Oct 2025 15:19:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux Mint 发布基于 Debian 13 的 LMDE 7 “Gigi”</title>
-      <link>https://alternativeto.net/news/2025/10/lmde-7-gigi-debuts-as-debian-based-alternative-to-linux-mint/</link>
-      <description><![CDATA[LMDE 7，Linux Mint Debian 版“Gigi”已发布，为标准 Linux Mint 提供基于 Debian 的替代方案，同时旨在提供熟悉的用户体验。 LMDE 7 旨在镜像 Linux Mint 体验而不依赖于 Ubuntu，它构建于 Debian 13 “特里克西”。
-此版本具有 Cinnamon 6.4.13 桌面环境、Linux 6.12 LTS 内核，并支持 OEM 安装。它还改进了指纹身份验证、libadwaita 兼容性和 Wayland 会话。
-查看有关 AlternativeTo 的文章有关 Linux Mint 的更多信息 | Linux Mint 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/lmde-7-gigi-debuts-as-debian-based-alternative-to-linux-mint/</guid>
-      <pubDate>Tue, 14 Oct 2025 15:06:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deezer 用户现在可以直接向 TikTok 分享音乐和个人统计数据</title>
-      <link>https://alternativeto.net/news/2025/10/deezer-users-can-now-share-music-and-personal-stats-directly-to-tiktok/</link>
-      <description><![CDATA[Deezer 与 TikTok 合作，让音乐分享变得更轻松、更具吸引力。用户现在可以将喜爱的歌曲、专辑、播放列表、播客、歌词和个人统计数据（例如“我的 Deezer 月”和“我的 Deezer 年”）直接分享到 TikTok。
-此功能自 2025 年 10 月起在全球推出。
-查看有关 AlternativeTo 的文章有关 Deezer 的更多信息 | Deezer 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/deezer-users-can-now-share-music-and-personal-stats-directly-to-tiktok/</guid>
-      <pubDate>Tue, 14 Oct 2025 14:55:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gallery 4.0.0 提供更快的媒体加载和加密流媒体</title>
-      <link>https://alternativeto.net/news/2025/10/gallery-4-0-0-delivers-faster-media-loading-and-encrypted-streaming/</link>
-      <description><![CDATA[Gallery 4.0.0 现已推出，通过新的性能优化引入了更快的媒体网格加载和更流畅的滚动。该更新增加了加密媒体流架构，为安全视频流奠定了基础。
-重新设计的用户界面增强了大屏幕上的可访问性，并提供灵活的相册布局切换。
-查看有关 AlternativeTo 的文章有关图库的更多信息（作者：Ionut Iacob） | 图库 （作者：Ionut Iacob）替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/gallery-4-0-0-delivers-faster-media-loading-and-encrypted-streaming/</guid>
-      <pubDate>Tue, 14 Oct 2025 14:50:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>聊天应用 Revolt 更名为 Stoat，所有服务、功能和核心价值保持不变</title>
-      <link>https://alternativeto.net/news/2025/10/chat-app-revolt-rebrands-to-stoat-keeps-all-services-features-and-core-values-unchanged/</link>
-      <description><![CDATA[Revolt 是一款开源聊天服务，定位为 Discord 的注重隐私的替代方案，已更名为 Stoat 收到关于其前名的停止通知后。尽管发生了这一法律驱动的变化，Stoat 仍向用户保证所有核心服务均保持不间断。服务器、消息、好友列表和自定义表情符号仍然像以前一样可用，并且所有社区仍位于同一平台上。
-虽然品牌重塑带来了新名称，但用户无需采取任何操作。登录照常运行，社区功能正常运行。即将推出的视觉形象将以白鼬为灵感的吉祥物，白鼬是一种以敏捷和聪明而闻名的动物，代表了白鼬的预期个性。
-在此次品牌重塑的基础上，Stoat 重申其对用户驱动平台的承诺，没有高管或股东，保持其原有的精神。开发人员强调，只有名称和视觉效果发生了变化，所有用户内容和技术功能都完整保留。
-查看有关 AlternativeTo 的文章有关 Stoat 聊天的更多信息 | Stoat 聊天替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/chat-app-revolt-rebrands-to-stoat-keeps-all-services-features-and-core-values-unchanged/</guid>
-      <pubDate>Tue, 14 Oct 2025 14:15:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
