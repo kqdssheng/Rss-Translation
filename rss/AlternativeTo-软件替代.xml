@@ -4,48 +4,48 @@
     <title>新版本 – AlternativeTo.net</title>
     <link>https://alternativeto.net/releases/all</link>
     <description>最新软件添加到 AlternativeTo</description>
-    <lastBuildDate>Wed, 15 Oct 2025 12:42:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 01:24:40 GMT</lastBuildDate>
     <item>
       <title>安比</title>
       <link>https://alternativeto.net/software/ambi/about/</link>
-      <description><![CDATA[无广告的应用程序，用于混合精选的环境声音，提供自定义音量控制、简约的界面以及离线使用来集中注意力、放松和睡眠。在 AlternativeTo 上查看Ambi 替代方案]]></description>
+      <description><![CDATA[无广告的应用程序，用于混合精选的环境声音，提供自定义音量控制、简约的界面以及离线使用来集中注意力、放松和睡眠。在 AlternativeTo 上查看Ambi 替代品]]></description>
       <guid>https://alternativeto.net/software/ambi/about/</guid>
-      <pubDate>Wed, 15 Oct 2025 12:42:21 GMT</pubDate>
+      <pubDate>Thu, 16 Oct 2025 01:24:07 GMT</pubDate>
     </item>
     <item>
       <title>码头配置文件</title>
       <link>https://alternativeto.net/software/dockprofiles/about/</link>
       <description><![CDATA[不再混乱。每次更改上下文时，不再需要重新排列 Dock。在 AlternativeTo 上查看DockProfiles 替代方案]]></description>
       <guid>https://alternativeto.net/software/dockprofiles/about/</guid>
-      <pubDate>Wed, 15 Oct 2025 12:42:21 GMT</pubDate>
+      <pubDate>Thu, 16 Oct 2025 01:24:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>飞行吧</title>
+      <link>https://alternativeto.net/software/flightbar/about/</link>
+      <description><![CDATA[适用于 macOS 的菜单栏应用程序，可通过实时状态更新、交互式地图、可自定义显示和谨慎通知来实现实时航班跟踪。在 AlternativeTo 上查看FlightBar 替代品]]></description>
+      <guid>https://alternativeto.net/software/flightbar/about/</guid>
+      <pubDate>Thu, 16 Oct 2025 01:24:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scraib.app</title>
+      <link>https://alternativeto.net/software/scraib-app/about/</link>
+      <description><![CDATA[适用于 Mac 的菜单栏工具，可使用 AI 驱动的快捷方式在所有应用程序中立即重写或更正所选文本的语法、拼写和清晰度。在 AlternativeTo 上查看Scraib.app 替代品]]></description>
+      <guid>https://alternativeto.net/software/scraib-app/about/</guid>
+      <pubDate>Thu, 16 Oct 2025 01:24:07 GMT</pubDate>
     </item>
     <item>
       <title>会议精神</title>
       <link>https://alternativeto.net/software/meetingmind/about/</link>
       <description><![CDATA[在 Mac 上自动捕获和转录 Zoom 通话、混合麦克风和系统音频、生成人工智能驱动的 Markdown 摘要，并在本地存储数据以保护隐私。在 AlternativeTo 上查看 »会议头脑替代方案]]></description>
       <guid>https://alternativeto.net/software/meetingmind/about/</guid>
-      <pubDate>Wed, 15 Oct 2025 12:42:21 GMT</pubDate>
+      <pubDate>Thu, 16 Oct 2025 01:24:07 GMT</pubDate>
     </item>
     <item>
       <title>很棒的副本</title>
       <link>https://alternativeto.net/software/awesome-copy/about/</link>
       <description><![CDATA[Awesome Copy 是一款 macOS 菜单栏剪贴板管理器，可记录您复制的所有内容，包括文本、图像和文件路径。它提供了带有预览的清晰、带时间戳的历史记录，并允许您固定重要项目以便快速访问。在 AlternativeTo 上查看很棒的复制替代方案]]></description>
       <guid>https://alternativeto.net/software/awesome-copy/about/</guid>
-      <pubDate>Wed, 15 Oct 2025 12:42:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>像素剪辑</title>
-      <link>https://alternativeto.net/software/pixsnip/about/</link>
-      <description><![CDATA[具有本地存储、捕获后编辑、精确工具、分组、拼贴创建和完整历史记录的屏幕截图工具，无需登录或云。在 AlternativeTo 上查看Pixsnip 替代品]]></description>
-      <guid>https://alternativeto.net/software/pixsnip/about/</guid>
-      <pubDate>Wed, 15 Oct 2025 12:42:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>附属机构水獭</title>
-      <link>https://alternativeto.net/software/affiliateotter/about/</link>
-      <description><![CDATA[精选的软件、SaaS 和云存储库应用程序联属计划。已验证&amp;定期更新的列表包括佣金率、链接和信息。更多的。发现来自领先提供商的新计划。查看 AlternativeTo AffiliateOtter 替代品]]></description>
-      <guid>https://alternativeto.net/software/affiliateotter/about/</guid>
-      <pubDate>Wed, 15 Oct 2025 12:42:21 GMT</pubDate>
+      <pubDate>Thu, 16 Oct 2025 01:24:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
