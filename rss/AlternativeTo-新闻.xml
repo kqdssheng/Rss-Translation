@@ -4,7 +4,84 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Thu, 16 Oct 2025 01:24:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 12:41:12 GMT</lastBuildDate>
+    <item>
+      <title>Immich 2.1.0 改进了幻灯片随机播放顺序、改进了堆栈上传等</title>
+      <link>https://alternativeto.net/news/2025/10/immich-2-10-refines-slideshow-shuffle-order-improves-stack-uploads-and-more/</link>
+      <description><![CDATA[Immich 2.1.0 于 2.0 稳定里程碑，继续推进这个开源、自托管照片和视频管理平台的开发步伐。
+网络界面受益于幻灯片功能中更智能的随机播放算法。照片现在以分布更均匀、重复性更少的顺序显示。编辑者可以更精确地控制照片元数据，因为日期更改模式现在支持秒和毫秒的输入。
+在工作流程增强功能中，与堆栈交互的用户将看到新的“添加上传到堆栈”菜单。此功能会启动文件选择器，从而可以将项目直接上传到堆栈中 - 简化照片组织。
+在这些改进之后，新的应用内通知类型会提醒用户共享相册邀请和更新。单击这些通知会将用户直接带到引用的相册，支持及时与群组库互动。
+移动用户会注意到，加载新内​​容时，搜索页面无限滚动不再重置到顶部，从而减少大型集合浏览的干扰。该版本还包括一些细微的增强、大量错误修复、更新的翻译和改进的文档。
+查看有关 AlternativeTo 的文章有关 Immich 的更多信息 | Immich 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/immich-2-10-refines-slideshow-shuffle-order-improves-stack-uploads-and-more/</guid>
+      <pubDate>Thu, 16 Oct 2025 09:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLM-4.6 和 Qwen3-coder-480B 通过新更新加入 Ollama 云</title>
+      <link>https://alternativeto.net/news/2025/10/glm-4-6-and-qwen3-coder-480b-join-ollama-cloud-with-new-updates/</link>
+      <description><![CDATA[GLM-4.6 和 Qwen3-coder-480B 编码模型现已在 Ollama 的云服务上提供，并且可以 也可以直接通过 ollama.com 云 API 访问。 Qwen3-Coder-30B 已更新，可以更快、更可靠地调用 Ollama 新引擎的工具。
+这些模型支持与熟悉的开发工具集成。
+查看有关 AlternativeTo 的文章有关 Ollama 的更多信息 | Ollama 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/glm-4-6-and-qwen3-coder-480b-join-ollama-cloud-with-new-updates/</guid>
+      <pubDate>Thu, 16 Oct 2025 09:16:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thunderbird 144.0 添加安全更新、错误修复和 Flatpak SDK 升级</title>
+      <link>https://alternativeto.net/news/2025/10/thunderbird-144-0-adds-security-updates-bug-fixes-and-flatpak-sdk-upgrade/</link>
+      <description><![CDATA[Thunderbird 桌面版本 144.0 引入了重要的安全性和视觉改进。此更新还将 Flatpak 运行时升级到 Freedesktop SDK 24.08，有助于未来的兼容性。修复了电子邮件签名、证书处理、日历任务、S/MIME 和 OpenPGP 支持、导入用户配置文件以及多个工作流程问题。
+查看有关 AlternativeTo 的文章有关 Thunderbird 的更多信息 | Thunderbird 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/thunderbird-144-0-adds-security-updates-bug-fixes-and-flatpak-sdk-upgrade/</guid>
+      <pubDate>Thu, 16 Oct 2025 09:08:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 增强了 Plus 和 Pro 用户的内存管理</title>
+      <link>https://alternativeto.net/news/2025/10/chatgpt-enhances-memory-management-for-plus-and-pro-users/</link>
+      <description><![CDATA[ChatGPT 现在可以自动管理保存的内存并消除以前的限制。用户还可以按最近发生的时间搜索和排序记忆，并通过设置重新排列它们的优先级。
+从今天开始，此更新将在全球范围内向网络上的 Plus 和 Pro 用户推出。
+查看有关 AlternativeTo 的文章有关 ChatGPT 的更多信息 | ChatGPT 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/chatgpt-enhances-memory-management-for-plus-and-pro-users/</guid>
+      <pubDate>Thu, 16 Oct 2025 08:56:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stitch by Google 推出只读项目链接的公开共享</title>
+      <link>https://alternativeto.net/news/2025/10/stitch-by-google-introduces-public-sharing-for-read-only-project-links/</link>
+      <description><![CDATA[Stitch by Google 现在允许用户公开共享其项目的只读链接，让任何人无需登录即可立即查看。此更新简化了项目共享并加快了反馈速度。
+该功能还为即将推出的协作工具（例如未来的“Remix”功能）准备了平台。
+查看有关 AlternativeTo 的文章有关 Google Stitch 的更多信息 | Google Stitch 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/stitch-by-google-introduces-public-sharing-for-read-only-project-links/</guid>
+      <pubDate>Thu, 16 Oct 2025 08:51:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qt Design Studio 4.8 推出新的 QML 代码模型和项目存储</title>
+      <link>https://alternativeto.net/news/2025/10/qt-design-studio-4-8-debuts-new-qml-code-model-and-project-storage/</link>
+      <description><![CDATA[Qt Design Studio 4.8 引入了新的内部 QML 代码模型，专门用于增强所见即所得 GUI 创建工作流程。该版本还首次推出了 Project Storage，这是一项专注于性能和简化可视化 GUI 开发的后端升级。
+Qt Design Studio 4.8 还改进了用户身份验证。它现在使用系统网络浏览器，而不是依赖嵌入式登录窗口。
+此版本被标记为长期支持版本。
+查看有关 AlternativeTo 的文章有关 Qt Design Studio 的更多信息 | Qt Design Studio 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/qt-design-studio-4-8-debuts-new-qml-code-model-and-project-storage/</guid>
+      <pubDate>Thu, 16 Oct 2025 08:33:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google 在 Gmail 中添加了由 Gemini 支持的日程安排功能，以便更轻松地组织会议</title>
+      <link>https://alternativeto.net/news/2025/10/google-adds-gemini-powered-scheduling-feature-to-gmail-for-easier-meeting-organization/</link>
+      <description><![CDATA[Google 在 Gmail 中推出了由Gemini驱动的“帮助我安排日程”功能， 旨在简化安排会议的流程。当 Gmail 检测到用户尝试在电子邮件中协调会议时间时，工具栏中会出现“帮助我安排会议时间”按钮。点击此按钮将触发 Gemini 分析您的 Google 日历可用性和电子邮件的上下文，以建议最佳时段。
+这些建议时间不是静态的。用户可以通过删除不起作用的选项或添加替代时间来进一步完善它们。选择首选时间后，用户可以将其直接插入 Gmail 邮件中。收到电子邮件后，收件人可以选择适合其日程安排的时间。做出选择后，Google 日历邀请会自动发送给两位参与者并添加到他们的日历中。
+虽然 Gemini 的调度工具引入了高效的、人工智能驱动的协调，但它目前仅支持两个人之间的调度。启动时不提供群组安排功能，这为定期组织多人会议的用户设置了一些限制。
+查看有关 AlternativeTo 的文章有关 Gmail 的更多信息 | Gmail 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/google-adds-gemini-powered-scheduling-feature-to-gmail-for-easier-meeting-organization/</guid>
+      <pubDate>Thu, 16 Oct 2025 07:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anthropic 推出 Claude Haiku 4.5：为所有用户提供更快、更安全、低成本的人工智能</title>
+      <link>https://alternativeto.net/news/2025/10/anthropic-launches-claude-haiku-4-5-faster-safer-low-cost-ai-for-all-users/</link>
+      <description><![CDATA[Anthropic 发布了 Claude Haiku 4.5，这是迄今为止最快、最实惠、最安全的型号，提供接近前沿水平的情报。新模型现已在 Claude.ai 上免费提供，并且也成为付费用户最便宜的选择，定价为每百万个输入代币 1 美元和每百万个输出代币 5 美元，使其成为 Anthropic 迄今为止最具成本效益的模型。
+Haiku 4.5 的编码和推理性能接近 Claude Sonnet 4.5，但运行速度是后者的两倍，成本却是后者的三分之一 一样多。它在 SWE-bench Verified 上的得分为 73.3%，略低于 Sonnet 的 77.2%。它专为聊天助理、客户支持和结对编程等实时应用程序而设计，还添加了子代理编排，允许多个 Haiku 代理管理子任务，同时 Sonnet 模型监督更广泛的工作流程。
+该模型提高了安全性，减少了错位行为，并符合 AI 安全 2 级标准，与应用于大型模型的更严格的 ASL-3 相比，提供了更大的灵活性。开发人员可以通过 Claude API、Amazon Bedrock 和 Google Cloud 的 Vertex 使用 Haiku 4.5 AI，向后兼容 Haiku 3.5 和 Sonnet 4 模型。
+查看有关 AlternativeTo 的文章有关克劳德的更多信息 | 克劳德替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/anthropic-launches-claude-haiku-4-5-faster-safer-low-cost-ai-for-all-users/</guid>
+      <pubDate>Thu, 16 Oct 2025 04:51:13 GMT</pubDate>
+    </item>
     <item>
       <title>Spark for Desktop 为 Microsoft 365 添加了 Slack 集成和共享收件箱</title>
       <link>https://alternativeto.net/news/2025/10/spark-for-desktop-adds-slack-integration-and-shared-inboxes-for-microsoft-365/</link>
@@ -76,82 +153,6 @@ Zed 与 Windows Linux 子系统 (WSL) 和 SSH 深度集成，允许开发人员�
 查看有关 AlternativeTo 的文章有关 Instagram 的更多信息 | Instagram 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/10/instagram-sets-pg-13-settings-by-default-for-teen-accounts-strengthens-parental-controls/</guid>
       <pubDate>Wed, 15 Oct 2025 11:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Joomla 6 发布，带有自动核心更新、新的子模板和改进的版本控制</title>
-      <link>https://alternativeto.net/news/2025/10/joomla-6-released-with-automatic-core-updates-new-child-template-and-improved-versioning/</link>
-      <description><![CDATA[Joomla 6.0“Kuimarisha”（和 Joomla 5.4“Kutegemea”）已作为该开源内容管理系统 (CMS) 的最新版本发布。最重要的是，Joomla 现在支持自动核心更新，让站点管理员无需手动干预即可保持安装最新。此更新增加了额外的安全层并简化了日常维护任务。
-基于用户体验的改进，Joomla 6 引入了带有额外颜色和字体自定义功能的 Cassiopeia 子模板。管理员可以定义更多配色方案和字体大小，而无需编辑 CSS 文件。此外，Cassiopeia 前端和 Atum 后端模板现在都使用 CSS 过渡，确保页面之间的导航更加顺畅。
-Joomla 6 还改进了内容管理功能。版本控制系统现在包括以前未跟踪的自定义字段数据，从而改进了内容历史记录管理和编辑灵活性。添加了两种新的自定义字段类型：“注释”支持内联说明或上下文提示，而“数字”允许输入具有可选货币格式的专用数字。
-此更新进一步提供了向后兼容性改进、新的日期和日期时间字段、更新的 TinyMCE 文本编辑器（版本 8.0.1）以及缓存语言文件的改进性能等。
-查看有关 AlternativeTo 的文章有关 Joomla 的更多信息 | Joomla 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/joomla-6-released-with-automatic-core-updates-new-child-template-and-improved-versioning/</guid>
-      <pubDate>Wed, 15 Oct 2025 09:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Procreate 5.4.6 更新：文本滑块、增强的可见性和性能提升</title>
-      <link>https://alternativeto.net/news/2025/10/procreate-5-4-6-update-text-sliders-enhanced-visibility-and-performance-boost/</link>
-      <description><![CDATA[Procreate 5.4.6 引入了现在支持负值的文本滑块，让用户可以更好地控制设计调整。此更新还提高了图层缩略图的可见性，并为拥有大量画笔库的用户增强了画笔面板的性能。多个错误修复解决了与最新 iPadOS 版本的兼容性问题。
-查看有关 AlternativeTo 的文章有关 Procreate 的更多信息 | Procreate 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/procreate-5-4-6-update-text-sliders-enhanced-visibility-and-performance-boost/</guid>
-      <pubDate>Wed, 15 Oct 2025 08:17:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>DaVinci Resolve 20.2.2 改进了色彩管理和音频播放</title>
-      <link>https://alternativeto.net/news/2025/10/davinci-resolve-20-2-2-improves-color-management-and-audio-playback/</link>
-      <description><![CDATA[DaVinci Resolve 20.2.2 改进了 Mac 上 Rec.709 文件的查看器色彩管理，为视频编辑器提供更准确的视觉输出。该版本还解决了 Fairlight 中的播放抖动问题，并解决了时间线修剪、波纹删除和链接音频操作等几个关键问题。 AI IntelliScript 现在支持多机位剪辑，并且还包含用于工作流程自动化的其他脚本 API 增强功能。
-查看有关 AlternativeTo 的文章有关 DaVinci Resolve 的更多信息 | DaVinci Resolve 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/davinci-resolve-20-2-2-improves-color-management-and-audio-playback/</guid>
-      <pubDate>Wed, 15 Oct 2025 08:14:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Figma 在 Sites 中引入了 15 个新的辅助功能和 ARIA 支持</title>
-      <link>https://alternativeto.net/news/2025/10/figma-introduces-15-new-accessibility-features-and-aria-support-in-sites/</link>
-      <description><![CDATA[Figma 推出了超过 15 项新的辅助功能，为画布元素和评论添加了扩展的键盘控件。该更新还增强了屏幕阅读器的可靠性，并引入了禁用快捷方式和自动跟随的切换功能。
-Figma Sites 现在包含 ARIA 属性，并允许用户从属性面板编辑辅助功能选项，例如替代文本和角色。
-查看有关 AlternativeTo 的文章有关Figma的更多信息 | Figma替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/figma-introduces-15-new-accessibility-features-and-aria-support-in-sites/</guid>
-      <pubDate>Wed, 15 Oct 2025 08:10:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 很快将允许经过验证的成年人在 ChatGPT 中看到色情内容</title>
-      <link>https://alternativeto.net/news/2025/10/openai-to-allow-erotic-content-in-chatgpt-for-verified-adults-soon/</link>
-      <description><![CDATA[OpenAI 很快将允许经过验证的成年人在 ChatGPT 中进行色情和露骨的性对话，如 首席执行官 Sam Altman 确认年龄验证定于 12 月进行。奥特曼表示，这一变化遵循了公司“将成人用户视为成年人”的原则，让经过验证的用户能够访问成人内容。一旦安全和验证系统到位，开发者还可以创建面向成人的 ChatGPT 应用，从而扩展 “18+ 体验”框架首次在 DevDay 2025 上概述。
-用户可以期待新的 ChatGPT 版本，该版本的设计感觉更加个性化，更接近用户对早期模型的喜爱。 OpenAI 此前曾加强控制以降低心理健康风险，但该公司承认，这些变化使聊天机器人对许多用户来说不太愉快。针对这些担忧，OpenAI 表示它已经开发了更好的工具来识别处于精神困扰的用户，并将实施新的安全功能以减少阿谀奉承，从而限制 ChatGPT 倾向于同意有害的言论。
-为了监督敏感场景，OpenAI 成立了一个由心理健康和技术专家组成的福祉和人工智能委员会，尽管目前尚不清楚即将推出的年龄验证系统将如何运作，也不清楚成熟的内容是否也会扩展到语音或图像模型。还值得注意的是，OpenAI 并不是第一家采用人工智能驱动的成人内容的公司，其他平台如 character.ai 甚至 Grok 已经提供浪漫和角色扮演互动。
-查看有关 AlternativeTo 的文章有关 ChatGPT 的更多信息 | ChatGPT 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/openai-to-allow-erotic-content-in-chatgpt-for-verified-adults-soon/</guid>
-      <pubDate>Tue, 14 Oct 2025 21:25:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zorin OS 18 发布，带有新的桌面、网络应用工具和改进的 Windows 兼容性</title>
-      <link>https://alternativeto.net/news/2025/10/zorin-os-18-debuts-with-new-desktop-web-apps-tool-and-improved-windows-compatibility/</link>
-      <description><![CDATA[Windows 10 今天终于结束了生命周期（为欧盟用户提供额外一年的免费安全更新），Zorin OS 借此机会正式发布了其预期的版本 18，作为寻求兼容和最新操作系统的用户的现代替代方案。它引入了重新设计的桌面，具有圆形主题、更柔和的颜色、有色侧边栏以及刷新整体外观和感觉的浮动面板。
-核心应用程序，例如文件、设置、日历、相机和Evolution 已更新，具有更简单的布局和一致的侧边栏。 “活动”按钮被反应式工作区指示器取代，新的窗口平铺管理器可以通过预定义和自定义布局、智能建议和快捷方式选项来快速排列应用程序。该版本还添加了一个网络应用工具，可将任何网站转变为桌面应用程序，并支持 Google Chrome、Mozilla Firefox 和 Microsoft Edge、适用于 Microsoft 365 用户的 Microsoft OneDrive 集成和安装程序 它可以识别超过 170 个 Windows 应用程序来建议 Linux 或基于 Web 的替代方案 🐧。
-Zorin OS 18 Pro 通过新工具扩展了其应用程序集合，例如用于跨设备共享鼠标和键盘的 Deskflow、Warp 用于安全文件传输，Valot 用于时间跟踪，以及 EasyEffects 用于专业音频控制。教育版添加了用于跟踪成绩的成绩簿、用于快速阅读的 Spedread 以及用于快速阅读的 TurboWarp， 基于 Scratch 的儿童编码应用。其他升级包括改进的性能、通过 WINE 10 扩展的 Windows 应用程序支持、通过 PipeWire 提供更好的音频、远程桌面访问以及 长期支持直至 2029 年 6 月。
-查看有关 AlternativeTo 的文章有关 Zorin 操作系统的更多信息 | Zorin 操作系统替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/zorin-os-18-debuts-with-new-desktop-web-apps-tool-and-improved-windows-compatibility/</guid>
-      <pubDate>Tue, 14 Oct 2025 20:37:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spotify 为儿童添加了托管帐户，提供家长控制和单独推荐</title>
-      <link>https://alternativeto.net/news/2025/10/spotify-adds-managed-accounts-for-kids-with-parental-controls-and-separate-recommendations/</link>
-      <description><![CDATA[Spotify 正在推出托管 帐户功能，允许高级家庭计划的父母和监护人为 13 岁以下的儿童创建专用子帐户。以早期试点为基础 国家，此更新现已扩展到主要市场，包括美国、英国、加拿大、澳大利亚、德国、法国和荷兰。
-通过管理帐户，每个孩子都会获得有关推荐、播放列表和收听历史记录的个人资料。这种分离可以防止孩子的音乐品味影响父母的 Spotify Wrapped 和算法建议。家长可以通过强大的家长控制来增强安全性，例如明确的内容过滤器、阻止特定的艺术家或歌曲以及关闭视频和 Canvas 视觉效果。
-托管帐户禁用消息传递和其他交互功能，以创建一个更安全的空间，同时保留“探索每周”和“日列表”等熟悉的工具，并且内容现在根据个人收听情况量身定制。该功能仅适用于 Premium Family 订阅者，他们可以通过选择“添加 13 岁以下的听众”，在 Premium Family 下的“设置和隐私”中进行设置。
-查看有关 AlternativeTo 的文章有关 Spotify 的更多信息 | Spotify 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/spotify-adds-managed-accounts-for-kids-with-parental-controls-and-separate-recommendations/</guid>
-      <pubDate>Tue, 14 Oct 2025 20:16:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Slack 首次推出人工智能驱动的 Slackbot 和企业搜索以及 Salesforce AI 代理</title>
-      <link>https://alternativeto.net/news/2025/10/slack-debuts-ai-powered-slackbot-and-enterprise-search-with-salesforce-ai-agents/</link>
-      <description><![CDATA[Slack 推出了一项重大更新，将其平台转变为 Salesforce 所谓的 Agentic OS，一个对话式 AI 工作区，智能代理可以在其中与团队实时协作。此次更新由重新设计的人工智能驱动的 Slackbot 主导，现在可以在搜索栏旁边看到一个图标。它充当个人助理，帮助计划任务、安排会议、查找文件和总结关键信息。用户可以输入自然语言提示，例如“我今天的首要任务是什么？”并接收从消息、文件和工作区数据中提取的上下文响应，从而使 Slackbot 能够协助复杂的工作流程，例如组织发布或创建活动。
-除此之外，新的企业搜索可让用户以自然语言查询公司知识，从 Slack 和连接的应用（例如 Google）检索结果 工作区、Outlook.com、Dropbox 和 概念。 Salesforce 还推出了 Agentforce 360​​，将 Salesforce AI 代理直接嵌入到 Slack 中，以便团队可以访问 CRM 数据并在聊天中请求见解或操作。新的渠道专家代理在对话中添加了实时专业知识，从共享知识中提供答案或在需要时让队友参与进来。
-所有人工智能功能都在Amazon Web Services虚拟私有云中运行，以确保公司数据的安全。为了使外部开发人员能够构建更强大的上下文感知代理，Salesforce 还通过新的连接器、实时搜索 API 和 模型上下文协议 服务器与诸如 Google，OpenAI，以及Anthropic 已经创建了在平台内协作工作的人工智能代理。
-查看有关 AlternativeTo 的文章有关 Slack 的更多信息 | Slack 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/slack-debuts-ai-powered-slackbot-and-enterprise-search-with-salesforce-ai-agents/</guid>
-      <pubDate>Tue, 14 Oct 2025 16:30:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
