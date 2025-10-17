@@ -4,7 +4,47 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Fri, 17 Oct 2025 01:24:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 12:40:59 GMT</lastBuildDate>
+    <item>
+      <title>Threads 推出群聊并扩展整个欧盟的消息传递</title>
+      <link>https://alternativeto.net/news/2025/10/threads-launches-group-chats-and-expands-messaging-across-the-eu/</link>
+      <description><![CDATA[Meta 在 Threads 上引入群聊，标志着该平台消息传递功能的最新更新。此次推出是在早期版本的直接消息传递和线程突出显示观点之后推出的。虽然现在可以使用群聊，但 Meta 还在向欧盟各地的用户扩展完整的消息传递功能。在接下来的几天里，欧盟用户将获得完整的消息传递体验，其中包括个人和群组聊天、隐私控制、媒体支持、增强的消息传递设置以及用于增加隐私的隐藏文件夹。
+在之前的改进基础上，Meta 设计了群聊，以简化用户将联系人收集到正在进行的对话中的方式，从而更轻松地围绕特定兴趣进行联系、共享和深入讨论。这些升级是在 Threads 消息传递不断增强之后进行的，这些增强使更广泛的全球受众可以使用该功能集。对于用户来说，这种集成方法意味着他们可以维持和加强连接，而无需在应用程序之间切换。
+查看有关 AlternativeTo 的文章有关线程的更多信息 | 线程替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/threads-launches-group-chats-and-expands-messaging-across-the-eu/</guid>
+      <pubDate>Fri, 17 Oct 2025 09:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软在 Windows 上扩展了 Copilot 的 AI 代理功能、视觉和语音唤醒功能</title>
+      <link>https://alternativeto.net/news/2025/10/microsoft-expands-copilot-on-windows-with-ai-agent-capabilities-vision-and-voice-wake-up/</link>
+      <description><![CDATA[Microsoft 正在将 Copilot 扩展到 Windows 11，并在全球推出 Copilot Vision，“嘿副驾驶”语音激活，以及Copilot Actions，将助手的 AI 代理功能带到桌面。 Copilot Actions 允许助手通过语音直接在设备上执行任务，例如打开应用程序、打字、滚动或完成编辑文件或发送电子邮件等多步骤操作。它在权限受限的安全“代理工作区”内运行，并且在访问本地文件或进行更改之前始终请求用户确认。
+“Hey Copilot”唤醒功能还允许用户通过说出短语来免提激活助手，然后是一声提示音和一个准备好命令的小麦克风窗口。该功能默认关闭，必须手动启用，需要麦克风和互联网连接。
+Copilot Vision 现已在所有市场推出，让用户可以共享桌面或应用程序以进行实时分析和上下文帮助。它可以解释屏幕内容、回答问题并使用“亮点”功能指导用户完成操作。与 Microsoft 365 应用（例如 Word 或 PowerPoint，Copilot 可以分析完整文档，而不仅仅是可见部分。微软还在 Vision 会话期间测试用于键入交互的“文本输入文本输出”模式。
+最后，Windows 11 现在将 Copilot 集成到任务栏的搜索栏中，可快速打开应用程序、文件和设置的结果以及 Copilot 工具的快捷方式。微软指出，这些新增内容并不能让 Copilot 直接访问个人数据，因为它们依赖于现有的 Windows Search API，并且仅在用户明确许可时才与文件或应用进行交互。
+查看有关 AlternativeTo 的文章有关 Microsoft Copilot 的更多信息 | Microsoft Copilot 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/microsoft-expands-copilot-on-windows-with-ai-agent-capabilities-vision-and-voice-wake-up/</guid>
+      <pubDate>Fri, 17 Oct 2025 05:15:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rebelle 8 正式发布，带有新的画笔引擎、照明工具和导出选项</title>
+      <link>https://alternativeto.net/news/2025/10/rebelle-8-officially-released-with-new-brush-engine-lighting-tools-and-export-options/</link>
+      <description><![CDATA[Rebelle 8 已正式退出抢先体验并以 8.1 版本发布，引入了 40 多项新功能和改进。此更新添加了具有基于粒子的线模拟的鬃毛画笔、具有 SoftShadows 的 RealShader，以提供更真实的照明和绘画行为，以及 NanoPixel 2，用于在保留精细细节的同时导出高达 2000% 的图稿。
+鬃毛刷复制每根线的运动，让笔触对压力、颜色和混合产生自然的反应。 RealShader 使用环境贴图来模拟厚油漆上的光线，而 SoftShadows 则提供笔触实时深度和体积。用户可以自定义内置画笔或使用画笔创建器创建新画笔。
+其他新增功能包括平滑缩放、高级 PSD 导入和导出、自定义反射率纹理、对称工具、即时纸张预览、更大的画笔以及更新的 Escape Motions Connect 和 WebSocket 控制输入。 Rebelle 8 还引入了新的许可模式，提供一年的免费更新，并永久访问收到的最新版本。 Rebelle 7 的所有者可以享受 50% 的折扣升级，而在 2025 年 5 月 28 日之后购买版本 7 的用户可以免费升级。
+查看有关 AlternativeTo 的文章有关 Rebelle 的更多信息 | Rebelle 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/rebelle-8-officially-released-with-new-brush-engine-lighting-tools-and-export-options/</guid>
+      <pubDate>Fri, 17 Oct 2025 04:25:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Forgejo v13.0 添加了内容报告、更强的安全性和改进的 Actions 工作流程</title>
+      <link>https://alternativeto.net/news/2025/10/forgejo-v13-0-adds-content-reporting-stronger-security-and-improved-actions-workflows/</link>
+      <description><![CDATA[Forgejo v13.0 引入了内容报告系统，作为联盟审核的第一步。用户和管理员现在可以标记有问题的用户、组织、存储库、问题、拉取请求或评论，然后在管理界面中进行审核。对相同内容的报告进行分组并显示开放的报告计数器，提高版主的可见性。这些更新与正在进行的 ActivityPub 集成工作一起发布。
+Pagure 上托管的存储库现在可以迁移到 Forgejo，从而简化 Fedora。测试该版本的用户可以在公共实例上尝试，但建议在升级之前进行完整备份并检查重大更改。
+安全性和可用性也得到了提高。 Forgejo Actions 现在依赖于更安全的机密模块，管理员可以在全局或仅针对管理员强制执行双因素身份验证。上传的头像会自动删除 EXIF 元数据，并使用 CLI 工具来清理现有文件。工作流程在 Web UI 中进行静态验证，以尽早捕获常见语法或上下文错误，并且所有过去的操作运行都可见，CI 状态现在直接显示在强制推送后提交 SHA 旁边。
+查看有关 AlternativeTo 的文章有关 Forgejo 的更多信息 | Forgejo 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/forgejo-v13-0-adds-content-reporting-stronger-security-and-improved-actions-workflows/</guid>
+      <pubDate>Fri, 17 Oct 2025 04:12:43 GMT</pubDate>
+    </item>
     <item>
       <title>Element 推出 Element Pro，这是一款面向组织的基于 Matrix 的企业消息传递客户端</title>
       <link>https://alternativeto.net/news/2025/10/element-launches-element-pro-a-matrix-based-enterprise-messaging-client-for-organizations/</link>
@@ -72,10 +112,10 @@ Element Pro 建立在 Element X 的基础上，引入了服务器管理的品牌
       <link>https://alternativeto.net/news/2025/10/immich-2-10-refines-slideshow-shuffle-order-improves-stack-uploads-and-more/</link>
       <description><![CDATA[Immich 2.1.0 于 2.0 稳定里程碑，继续推进这个开源、自托管照片和视频管理平台的开发步伐。
 网络界面受益于幻灯片功能中更智能的随机播放算法。照片现在以分布更均匀、重复性更少的顺序显示。编辑者可以更精确地控制照片元数据，因为日期更改模式现在支持秒和毫秒的输入。
-在工作流程增强功能中，与堆栈交互的用户将看到新的“添加上传到堆栈”菜单。此功能会启动文件选择器，从而可以将项目直接上传到堆栈中 - 简化照片组织。
+在工作流程增强功能中，与堆栈交互的用户将看到一个新的“添加上传到堆栈”菜单。此功能会启动文件选择器，从而可以将项目直接上传到堆栈中 - 简化照片组织。
 在这些改进之后，新的应用内通知类型会提醒用户共享相册邀请和更新。单击这些通知会将用户直接带到引用的相册，支持及时与群组库互动。
 移动用户会注意到，加载新内​​容时，搜索页面无限滚动不再重置到顶部，从而减少大型集合浏览的干扰。该版本还包括一些细微的增强、大量错误修复、更新的翻译和改进的文档。
-查看有关 AlternativeTo 的文章有关 Immich 的更多信息 | Immich 替代品]]></description>
+查看有关 AlternativeTo 的文章有关 Immich 的更多信息 | Immich 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/10/immich-2-10-refines-slideshow-shuffle-order-improves-stack-uploads-and-more/</guid>
       <pubDate>Thu, 16 Oct 2025 09:30:00 GMT</pubDate>
     </item>
@@ -113,46 +153,6 @@ Element Pro 建立在 Element X 的基础上，引入了服务器管理的品牌
 查看有关 AlternativeTo 的文章有关 Google Stitch 的更多信息 | Google Stitch 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/10/stitch-by-google-introduces-public-sharing-for-read-only-project-links/</guid>
       <pubDate>Thu, 16 Oct 2025 08:51:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qt Design Studio 4.8 推出新的 QML 代码模型和项目存储</title>
-      <link>https://alternativeto.net/news/2025/10/qt-design-studio-4-8-debuts-new-qml-code-model-and-project-storage/</link>
-      <description><![CDATA[Qt Design Studio 4.8 引入了新的内部 QML 代码模型，专门用于增强所见即所得 GUI 创建工作流程。该版本还首次推出了 Project Storage，这是一项专注于性能和简化可视化 GUI 开发的后端升级。
-Qt Design Studio 4.8 还改进了用户身份验证。它现在使用系统网络浏览器，而不是依赖嵌入式登录窗口。
-此版本被标记为长期支持版本。
-查看有关 AlternativeTo 的文章有关 Qt Design Studio 的更多信息 | Qt Design Studio 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/qt-design-studio-4-8-debuts-new-qml-code-model-and-project-storage/</guid>
-      <pubDate>Thu, 16 Oct 2025 08:33:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google 在 Gmail 中添加了由 Gemini 支持的日程安排功能，以便更轻松地组织会议</title>
-      <link>https://alternativeto.net/news/2025/10/google-adds-gemini-powered-scheduling-feature-to-gmail-for-easier-meeting-organization/</link>
-      <description><![CDATA[Google 在 Gmail 中推出了由Gemini驱动的“帮助我安排日程”功能， 旨在简化安排会议的流程。当 Gmail 检测到用户尝试在电子邮件中协调会议时间时，工具栏中会出现“帮助我安排会议时间”按钮。点击此按钮将触发 Gemini 分析您的 Google 日历可用性和电子邮件的上下文，以建议最佳时段。
-这些建议时间不是静态的。用户可以通过删除不起作用的选项或添加替代时间来进一步完善它们。选择首选时间后，用户可以将其直接插入 Gmail 邮件中。收到电子邮件后，收件人可以选择适合其日程安排的时间。做出选择后，Google 日历邀请会自动发送给两位参与者并添加到他们的日历中。
-虽然 Gemini 的调度工具引入了高效的、人工智能驱动的协调，但它目前仅支持两个人之间的调度。启动时不提供群组安排功能，这为定期组织多人会议的用户设置了一些限制。
-查看有关 AlternativeTo 的文章有关 Gmail 的更多信息 | Gmail 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/google-adds-gemini-powered-scheduling-feature-to-gmail-for-easier-meeting-organization/</guid>
-      <pubDate>Thu, 16 Oct 2025 07:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anthropic 推出 Claude Haiku 4.5：为所有用户提供更快、更安全、低成本的人工智能</title>
-      <link>https://alternativeto.net/news/2025/10/anthropic-launches-claude-haiku-4-5-faster-safer-low-cost-ai-for-all-users/</link>
-      <description><![CDATA[Anthropic 发布了 Claude Haiku 4.5，这是迄今为止最快、最实惠、最安全的型号，提供接近前沿水平的情报。新模型现已在 Claude.ai 上免费提供，并且也成为付费用户最便宜的选择，定价为每百万个输入代币 1 美元和每百万个输出代币 5 美元，使其成为 Anthropic 迄今为止最具成本效益的模型。
-Haiku 4.5 的编码和推理性能接近 Claude Sonnet 4.5，但运行速度是后者的两倍，成本却是后者的三分之一 一样多。它在 SWE-bench Verified 上的得分为 73.3%，略低于 Sonnet 的 77.2%。它专为聊天助理、客户支持和结对编程等实时应用程序而设计，还添加了子代理编排，允许多个 Haiku 代理管理子任务，同时 Sonnet 模型监督更广泛的工作流程。
-该模型提高了安全性，减少了错位行为，并符合 AI 安全 2 级标准，与应用于大型模型的更严格的 ASL-3 相比，提供了更大的灵活性。开发人员可以通过 Claude API、Amazon Bedrock 和 Google Cloud 的 Vertex 使用 Haiku 4.5 AI，向后兼容 Haiku 3.5 和 Sonnet 4 模型。
-查看有关 AlternativeTo 的文章有关克劳德的更多信息 | 克劳德替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/anthropic-launches-claude-haiku-4-5-faster-safer-low-cost-ai-for-all-users/</guid>
-      <pubDate>Thu, 16 Oct 2025 04:51:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spark for Desktop 为 Microsoft 365 添加了 Slack 集成和共享收件箱</title>
-      <link>https://alternativeto.net/news/2025/10/spark-for-desktop-adds-slack-integration-and-shared-inboxes-for-microsoft-365/</link>
-      <description><![CDATA[Spark Mail for Desktop 引入了 Slack 集成，让用户可以直接将电子邮件共享到 Slack 频道 或个人直接消息。要进行设置，用户可以通过“集成”部分下的 Spark Desktop 设置连接其 Slack 工作区。
-启用后，可以通过在 Mac 上按 CMD + K 或在 Windows 上按 CTRL + K，然后选择“导出到 Slack”将电子邮件共享到 Slack。共享时，用户可以添加额外的上下文或后续步骤，这支持更清晰的团队协调。 Spark 为每封导出的电子邮件生成一个可共享的链接，具有可配置的可见性，其中访问权限可以仅限于发件人、拥有链接的任何人或特定的团队成员。这使得团队能够管理每条共享消息的机密性。
-除了 Slack 更新之外，Spark 的共享收件箱现在还支持 Microsoft 365 和 Outlook 帐户 发送至 Gmail 和 Google Workspace。团队可以在不共享密码的情况下协作处理共享邮箱、讨论电子邮件、共同编辑草稿以及跨设备跟踪更新。
-查看有关 AlternativeTo 的文章有关 Spark Mail 的更多信息 | Spark Mail 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/spark-for-desktop-adds-slack-integration-and-shared-inboxes-for-microsoft-365/</guid>
-      <pubDate>Wed, 15 Oct 2025 21:47:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
