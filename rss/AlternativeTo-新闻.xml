@@ -4,7 +4,65 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Fri, 17 Oct 2025 12:40:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Oct 2025 01:20:14 GMT</lastBuildDate>
+    <item>
+      <title>OPNsense 商业版 25.10 发布，包含 OpenID Connect、改进的 OPNWAF 等</title>
+      <link>https://alternativeto.net/news/2025/10/opnsense-business-edition-25-10-released-with-openid-connect-improved-opnwaf-and-more/</link>
+      <description><![CDATA[OPNsense 商业版 25.10 现已推出，标志着企业防火墙部署的新里程碑。该版本融合了首次在版本 25.7 中提供的改进，例如增强的可用性、模块化功能和增强的安全性。在此基础上，版本 25.10 引入了 OpenID Connect 支持，为组织提供更好的身份联合。此更新还带来了改进的 OPNWAF Web 应用程序防火墙，以及允许在维护窗口内实现精确自动化的预定作业。
+OPNsense 25.10 现在基于 FreeBSD 14.3。这个新的基础增强了兼容性，并为持续开发奠定了基础。更新后的架构旨在满足企业需求，帮助组织提高运营效率、降低支持需求并有效扩展其安全态势。
+这些累积的增强功能强调了对提供适应不断变化的业务需求的企业级网络安全平台的关注。
+查看有关 AlternativeTo 的文章有关 OPNsense 的更多信息 | OPNsense 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/opnsense-business-edition-25-10-released-with-openid-connect-improved-opnwaf-and-more/</guid>
+      <pubDate>Fri, 17 Oct 2025 19:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Proton 推出 Lumo 1.2，具有深色模式、自定义书写风格和新的独立加子</title>
+      <link>https://alternativeto.net/news/2025/10/proton-launches-lumo-1-2-with-dark-mode-custom-writing-styles-and-new-standalone-plus-sub/</link>
+      <description><![CDATA[Proton 发布了其注重隐私的人工智能助手 Lumo 版本 1.2，带来了两项备受期待的功能 - 深色模式和可自定义的聊天书写风格。用户现在可以在浅色和深色主题之间切换，使 Lumo 的外观与其他 Proton 产品保持一致。
+更新还保留了 Proton Drive 集成，让用户可以在 Lumo 的工作内存中附加或删除文档和 PDF，以提供更好的上下文和准确性。它建立在 1.1 版本中引入的推理和知识升级的基础上，改善了日常和专业使用。所有个性化功能均受到零访问加密的保护，确保不会存储或使用任何聊天日志进行培训。
+新功能对所有 Lumo 用户免费，但 Proton 现在提供 Lumo Plus 作为独立订阅或可选附加组件，解锁更快的响应、扩展的工作内存和无限制的聊天使用，所有这些都无需 将其与现有的 Unlimited、Family 或 Duo 计划捆绑在一起。
+查看有关 AlternativeTo 的文章有关 Proton 的 Lumo 的更多信息 | Proton Alternatives 的 Lumo]]></description>
+      <guid>https://alternativeto.net/news/2025/10/proton-launches-lumo-1-2-with-dark-mode-custom-writing-styles-and-new-standalone-plus-sub/</guid>
+      <pubDate>Fri, 17 Oct 2025 18:04:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitLab 18.5 发布，包含 Duo Planner Agent、Duo Security Analyst Agent 等</title>
+      <link>https://alternativeto.net/news/2025/10/gitlab-18-5-released-with-duo-planner-agent-duo-security-analyst-agent-and-much-more/</link>
+      <description><![CDATA[GitLab 18.5 已经发布，为其用户提供了广泛的新功能、增强功能和错误修复。在重大更新中，产品经理现在可以与 GitLab Duo Planner 协作，这是一个直接在平台内提供测试版的 GitLab Duo 代理。
+与此同时，GitLab 引入了安全分析师代理作为 AI Catalog 中的测试版功能。这种人工智能驱动的代理可以自动执行复杂的安全工作流程并处理重复的评估，使工程师能够腾出时间来优先考虑真正的安全威胁。对于那些使用编码助手的人来说，GitLab Duo Chat 现在允许用户选择自己喜欢的 AI 模型，包括新的 OpenAI GPT-5， 直接在 Visual Studio Code 和 JetBrains IDE 中使用。
+为了扩展开发工作流程，GitLab 18.5 添加了一个全面的基于 Web 的界面，用于管理 Maven 虚拟注册表。除此之外，所有用户都可以访问重新设计的个人主页，该主页整合了活动以帮助高效地恢复工作。虽然注重合规性的团队受益于实例范围的策略组来集中安全实践，但自动化工具现在支持持续集成和部署管道中的脚本编写，特别是为了简化动态应用程序安全测试 (DAST) 身份验证工作流程。其他改进和错误修复增强了开发人员和爱好者的体验。
+查看有关 AlternativeTo 的文章有关 GitLab 的更多信息 | GitLab 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/gitlab-18-5-released-with-duo-planner-agent-duo-security-analyst-agent-and-much-more/</guid>
+      <pubDate>Fri, 17 Oct 2025 15:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manus 1.5 发布，提供无代码 AI Web 应用程序构建和无限上下文</title>
+      <link>https://alternativeto.net/news/2025/10/manus-1-5-launches-with-no-code-ai-web-app-building-and-unlimited-context/</link>
+      <description><![CDATA[Manus 已发布 1.5 版，使用户无需编码即可生成全栈、人工智能驱动的 Web 应用程序。该更新提供了无限的应用程序上下文、更快的性能和更高的质量。
+用户可以自动启动、调试和管理他们的应用程序，同时内置警报和分析让他们了解情况并掌控一切。
+查看有关 AlternativeTo 的文章有关 Manus 的更多信息 | Manus 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/manus-1-5-launches-with-no-code-ai-web-app-building-and-unlimited-context/</guid>
+      <pubDate>Fri, 17 Oct 2025 14:31:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dia 浏览器推出 Google 日历、Gmail 和自动填充功能</title>
+      <link>https://alternativeto.net/news/2025/10/dia-browser-launches-google-calendar-gmail-and-autofill-features/</link>
+      <description><![CDATA[Dia 浏览器添加了针对 Google 日历、Gmail 和自动填充工具。用户现在只需按一下按钮即可直接在浏览器中搜索日历或电子邮件、起草邀请或消息以及自动填写重复的表单。
+查看有关 AlternativeTo 的文章有关 Dia 浏览器的更多信息 | Dia 浏览器替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/dia-browser-launches-google-calendar-gmail-and-autofill-features/</guid>
+      <pubDate>Fri, 17 Oct 2025 14:22:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>FurMark 2.10 带来了 UWQHD 预设、Raspberry Pi 5 监控支持和新的 GPU 选项</title>
+      <link>https://alternativeto.net/news/2025/10/furmark-2-10-brings-uwqhd-preset-raspberry-pi-5-monitoring-support-and-new-gpu-options/</link>
+      <description><![CDATA[FurMark 2.10 是跨平台显卡压力测试和基准测试实用程序的最新版本，为 Windows 和 Linux 用户带来了一些值得注意的功能。此次更新的核心是增加了专为分辨率为 3440×1440 的超宽四高清 (UWQHD) 显示器设计的基准预设，以满足高端显示器用户的需求。
+对于那些使用替代硬件的人来说，此版本引入了对在 Raspberry Pi 上运行的 Raspberry Pi 5 设备的监控支持 操作系统。它还改进了在内核 6.16 或更高版本的 Linux 系统上使用 Xe 驱动程序对 Intel Arc GPU 的监控功能。这些进步将软件的范围和功能扩展到更广泛的平台。
+此外，FurMark 2.10 通过支持一系列新显卡来扩展兼容性，包括 NVIDIA GeForce RTX 5090 D v2、多种 AMD Radeon 型号（RX 9060、RX 7700、RX 7400、PRO W7400）和 Intel Arc Pro B50 / B60。在进行这些改进的同时，用户还获得了用于 VRAM 测试的新配置选项，并添加了 10 GB 和 32 GB 设置。
+基于更新的基准测试能力，该版本附带了更新版本的 GPU-Z 2.68、GPU Shark2 2.10.0.0 和 GeeXLab 0.66.0 库。 FurMark 2.10 进一步增强了对现代硬件的支持，包括各种新的板卡合作伙伴型号名称，例如华硕 RTX 5080 Noctua OC、MSI RTX 5080 Expert OC 等。
+查看有关 AlternativeTo 的文章有关 Furmark 的更多信息 | Furmark 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/furmark-2-10-brings-uwqhd-preset-raspberry-pi-5-monitoring-support-and-new-gpu-options/</guid>
+      <pubDate>Fri, 17 Oct 2025 12:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>Threads 推出群聊并扩展整个欧盟的消息传递</title>
       <link>https://alternativeto.net/news/2025/10/threads-launches-group-chats-and-expands-messaging-across-the-eu/</link>
@@ -28,7 +86,7 @@ Copilot Vision 现已在所有市场推出，让用户可以共享桌面或应�
     <item>
       <title>Rebelle 8 正式发布，带有新的画笔引擎、照明工具和导出选项</title>
       <link>https://alternativeto.net/news/2025/10/rebelle-8-officially-released-with-new-brush-engine-lighting-tools-and-export-options/</link>
-      <description><![CDATA[Rebelle 8 已正式退出抢先体验并以 8.1 版本发布，引入了 40 多项新功能和改进。此更新添加了具有基于粒子的线模拟的鬃毛画笔、具有 SoftShadows 的 RealShader，以提供更真实的照明和绘画行为，以及 NanoPixel 2，用于在保留精细细节的同时导出高达 2000% 的图稿。
+      <description><![CDATA[Rebelle 8 已正式退出抢先体验并以 8.1 版本发布，引入了 40 多项新功能和改进。此更新添加了带有基于粒子的线束模拟的鬃毛画笔、带有 SoftShadows 的 RealShader，以提供更真实的光照和绘画行为，以及 NanoPixel 2，用于在保留精细细节的同时导出高达 2000% 的图稿。
 鬃毛刷复制每根线的运动，让笔触对压力、颜色和混合产生自然的反应。 RealShader 使用环境贴图来模拟厚油漆上的光线，而 SoftShadows 则提供笔触实时深度和体积。用户可以自定义内置画笔或使用画笔创建器创建新画笔。
 其他新增功能包括平滑缩放、高级 PSD 导入和导出、自定义反射率纹理、对称工具、即时纸张预览、更大的画笔以及更新的 Escape Motions Connect 和 WebSocket 控制输入。 Rebelle 8 还引入了新的许可模式，提供一年的免费更新，并永久访问收到的最新版本。 Rebelle 7 的所有者可以享受 50% 的折扣升级，而在 2025 年 5 月 28 日之后购买版本 7 的用户可以免费升级。
 查看有关 AlternativeTo 的文章有关 Rebelle 的更多信息 | Rebelle 替代品]]></description>
@@ -95,64 +153,6 @@ Element Pro 建立在 Element X 的基础上，引入了服务器管理的品牌
 查看有关 AlternativeTo 的文章有关 PyTorch 的更多信息 | PyTorch 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/10/pytorch-2-9-adds-easier-install-on-amd-rocm-and-intel-xpus-arm-improvements-and-more/</guid>
       <pubDate>Thu, 16 Oct 2025 14:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ONLYOFFICE Docs 9.1 带来了 PDF 编辑和注释工具、增强的图表等</title>
-      <link>https://alternativeto.net/news/2025/10/onlyoffice-docs-9-1-brings-pdf-redaction-and-annotation-tools-enhanced-charts-and-more/</link>
-      <description><![CDATA[ONLYOFFICE Docs 9.1 为这款广泛使用的办公套件引入了十多项新功能、显着的性能改进以及 500 多个错误修复。此次更新扩展了 PDF 处理功能，编辑器获得了隐藏敏感内容的编辑工具、附加注释功能以及添加图表和 SmartArt 图形的功能。
-除了 PDF 改进之外，电子表格编辑器现在还允许在单元格中使用从左到右和从右到左的文本方向，受益于更快的查找公式，并获得其他可用性增强。在这些更新之后，通过允许用户自定义已解决和开放的评论在左侧面板中的显示方式，协作得到了加强，从而简化了团队工作流程。
-对于那些使用视觉效果的人来说，图表现在可以合并外部数据源，并且可以根据需要启用或禁用图表元素，例如轴标题、数据标签和错误栏。该套件在图表改进的基础上，添加了更新的图表、更多格式选项、分节符以及文档和幻灯片中提供的综合图表编辑器。
-这些核心增强功能还辅以更新的翻译、升级的服务器版本管理仪表板以及跨平台的其他改进和修复。
-查看有关 AlternativeTo 的文章有关 ONLYOFFICE 的更多信息 | ONLYOFFICE 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/onlyoffice-docs-9-1-brings-pdf-redaction-and-annotation-tools-enhanced-charts-and-more/</guid>
-      <pubDate>Thu, 16 Oct 2025 12:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Immich 2.1.0 改进了幻灯片随机播放顺序、改进了堆栈上传等</title>
-      <link>https://alternativeto.net/news/2025/10/immich-2-10-refines-slideshow-shuffle-order-improves-stack-uploads-and-more/</link>
-      <description><![CDATA[Immich 2.1.0 于 2.0 稳定里程碑，继续推进这个开源、自托管照片和视频管理平台的开发步伐。
-网络界面受益于幻灯片功能中更智能的随机播放算法。照片现在以分布更均匀、重复性更少的顺序显示。编辑者可以更精确地控制照片元数据，因为日期更改模式现在支持秒和毫秒的输入。
-在工作流程增强功能中，与堆栈交互的用户将看到一个新的“添加上传到堆栈”菜单。此功能会启动文件选择器，从而可以将项目直接上传到堆栈中 - 简化照片组织。
-在这些改进之后，新的应用内通知类型会提醒用户共享相册邀请和更新。单击这些通知会将用户直接带到引用的相册，支持及时与群组库互动。
-移动用户会注意到，加载新内​​容时，搜索页面无限滚动不再重置到顶部，从而减少大型集合浏览的干扰。该版本还包括一些细微的增强、大量错误修复、更新的翻译和改进的文档。
-查看有关 AlternativeTo 的文章有关 Immich 的更多信息 | Immich 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/immich-2-10-refines-slideshow-shuffle-order-improves-stack-uploads-and-more/</guid>
-      <pubDate>Thu, 16 Oct 2025 09:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLM-4.6 和 Qwen3-coder-480B 通过新更新加入 Ollama 云</title>
-      <link>https://alternativeto.net/news/2025/10/glm-4-6-and-qwen3-coder-480b-join-ollama-cloud-with-new-updates/</link>
-      <description><![CDATA[GLM-4.6 和 Qwen3-coder-480B 编码模型现已在 Ollama 的云服务上提供，并且可以 也可以直接通过 ollama.com 云 API 访问。 Qwen3-Coder-30B 已更新，可以更快、更可靠地调用 Ollama 新引擎的工具。
-这些模型支持与熟悉的开发工具集成。
-查看有关 AlternativeTo 的文章有关 Ollama 的更多信息 | Ollama 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/glm-4-6-and-qwen3-coder-480b-join-ollama-cloud-with-new-updates/</guid>
-      <pubDate>Thu, 16 Oct 2025 09:16:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Thunderbird 144.0 添加安全更新、错误修复和 Flatpak SDK 升级</title>
-      <link>https://alternativeto.net/news/2025/10/thunderbird-144-0-adds-security-updates-bug-fixes-and-flatpak-sdk-upgrade/</link>
-      <description><![CDATA[Thunderbird 桌面版本 144.0 引入了重要的安全性和视觉改进。此更新还将 Flatpak 运行时升级到 Freedesktop SDK 24.08，有助于未来的兼容性。修复了电子邮件签名、证书处理、日历任务、S/MIME 和 OpenPGP 支持、导入用户配置文件以及多个工作流程问题。
-查看有关 AlternativeTo 的文章有关 Thunderbird 的更多信息 | Thunderbird 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/thunderbird-144-0-adds-security-updates-bug-fixes-and-flatpak-sdk-upgrade/</guid>
-      <pubDate>Thu, 16 Oct 2025 09:08:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 增强了 Plus 和 Pro 用户的内存管理</title>
-      <link>https://alternativeto.net/news/2025/10/chatgpt-enhances-memory-management-for-plus-and-pro-users/</link>
-      <description><![CDATA[ChatGPT 现在可以自动管理保存的内存并消除以前的限制。用户还可以按最近发生的时间搜索和排序记忆，并通过设置重新排列它们的优先级。
-从今天开始，此更新将在全球范围内向网络上的 Plus 和 Pro 用户推出。
-查看有关 AlternativeTo 的文章有关 ChatGPT 的更多信息 | ChatGPT 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/chatgpt-enhances-memory-management-for-plus-and-pro-users/</guid>
-      <pubDate>Thu, 16 Oct 2025 08:56:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stitch by Google 推出只读项目链接的公开共享</title>
-      <link>https://alternativeto.net/news/2025/10/stitch-by-google-introduces-public-sharing-for-read-only-project-links/</link>
-      <description><![CDATA[Stitch by Google 现在允许用户公开共享其项目的只读链接，让任何人无需登录即可立即查看。此更新简化了项目共享并加快了反馈速度。
-该功能还为即将推出的协作工具（例如未来的“Remix”功能）准备了平台。
-查看有关 AlternativeTo 的文章有关 Google Stitch 的更多信息 | Google Stitch 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/stitch-by-google-introduces-public-sharing-for-read-only-project-links/</guid>
-      <pubDate>Thu, 16 Oct 2025 08:51:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
