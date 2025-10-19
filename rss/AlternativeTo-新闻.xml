@@ -4,7 +4,17 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sat, 18 Oct 2025 12:36:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Oct 2025 01:40:42 GMT</lastBuildDate>
+    <item>
+      <title>Zed Editor 通过 ACP 和开源适配器集成 OpenAI Codex</title>
+      <link>https://alternativeto.net/news/2025/10/zed-editor-integrates-openai-codex-via-acp-and-open-sources-adapter/</link>
+      <description><![CDATA[Zed Editor 现在使用 Zed Editor 提供官方集成 href=&quot;https://alternativeto.net/software/agent-client-protocol/about/&quot;&gt;代理客户端协议 (ACP)。用户可以直接从“新线程”菜单启动 Codex，加入其他 ACP 支持的代理，例如 Claude Code 和 Gemini CLI。 Anthropic、Google 和 JetBrains 早期采用 ACP 后，社区对此提出了强烈的需求。
+所有 Codex 交互均保持私密，提示和代码直接在用户和 OpenAI 之间发送。 Zed 不会对外部代理的使用进行处理、存储或计费。
+Zed 还开源了 Codex-ACP 适配器，以便开发人员可以在编辑器之外使用它。与以前的代理不同，Codex 在自己的进程中运行终端命令，并以非 PTY 模式将结果传输到客户端，减少了潜在的冻结，但提供的交互性较低。该团队正在评估 PTY 和非 PTY 模式，以指导未来的 ACP 改进。
+查看有关 AlternativeTo 的文章有关 Zed 编辑器的更多信息 | Zed 编辑器替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/zed-editor-integrates-openai-codex-via-acp-and-open-sources-adapter/</guid>
+      <pubDate>Sat, 18 Oct 2025 14:37:15 GMT</pubDate>
+    </item>
     <item>
       <title>OPNsense 商业版 25.10 发布，包含 OpenID Connect、改进的 OPNWAF 等</title>
       <link>https://alternativeto.net/news/2025/10/opnsense-business-edition-25-10-released-with-openid-connect-improved-opnwaf-and-more/</link>
@@ -40,7 +50,7 @@ OPNsense 25.10 现在基于 FreeBSD 14.3。这个新的基础增强了兼容性�
       <link>https://alternativeto.net/news/2025/10/manus-1-5-launches-with-no-code-ai-web-app-building-and-unlimited-context/</link>
       <description><![CDATA[Manus 已发布 1.5 版，使用户无需编码即可生成全栈、人工智能驱动的 Web 应用程序。该更新提供了无限的应用程序上下文、更快的性能和更高的质量。
 用户可以自动启动、调试和管理他们的应用程序，同时内置警报和分析让他们了解情况并掌控一切。
-查看有关 AlternativeTo 的文章有关 Manus 的更多信息 | Manus 替代品]]></description>
+查看有关 AlternativeTo 的文章有关 Manus 的更多信息 | Manus 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/10/manus-1-5-launches-with-no-code-ai-web-app-building-and-unlimited-context/</guid>
       <pubDate>Fri, 17 Oct 2025 14:31:30 GMT</pubDate>
     </item>
@@ -86,7 +96,7 @@ Copilot Vision 现已在所有市场推出，让用户可以共享桌面或应�
     <item>
       <title>Rebelle 8 正式发布，带有新的画笔引擎、照明工具和导出选项</title>
       <link>https://alternativeto.net/news/2025/10/rebelle-8-officially-released-with-new-brush-engine-lighting-tools-and-export-options/</link>
-      <description><![CDATA[Rebelle 8 已正式退出抢先体验并以 8.1 版本发布，引入了 40 多项新功能和改进。此更新添加了具有基于粒子的线模拟的鬃毛画笔、具有 SoftShadows 的 RealShader，以提供更真实的照明和绘画行为，以及 NanoPixel 2，用于在保留精细细节的同时导出高达 2000% 的图稿。
+      <description><![CDATA[Rebelle 8 已正式退出抢先体验并以 8.1 版本发布，引入了 40 多项新功能和改进。此更新添加了带有基于粒子的线束模拟的鬃毛画笔、带有 SoftShadows 的 RealShader，以提供更真实的光照和绘画行为，以及 NanoPixel 2，用于在保留精细细节的同时导出高达 2000% 的图稿。
 鬃毛刷复制每根线的运动，让笔触对压力、颜色和混合产生自然的反应。 RealShader 使用环境贴图来模拟厚油漆上的光线，而 SoftShadows 则提供笔触实时深度和体积。用户可以自定义内置画笔或使用画笔创建器创建新画笔。
 其他新增功能包括平滑缩放、高级 PSD 导入和导出、自定义反射率纹理、对称工具、即时纸张预览、更大的画笔以及更新的 Escape Motions Connect 和 WebSocket 控制输入。 Rebelle 8 还引入了新的许可模式，提供一年的免费更新，并永久访问收到的最新版本。 Rebelle 7 的所有者可以享受 50% 的折扣升级，而在 2025 年 5 月 28 日之后购买版本 7 的用户可以免费升级。
 查看有关 AlternativeTo 的文章有关 Rebelle 的更多信息 | Rebelle 替代品]]></description>
@@ -142,17 +152,6 @@ Element Pro 建立在 Element X 的基础上，引入了服务器管理的品牌
 查看有关 AlternativeTo 的文章有关 Elixir 的更多信息 | Elixir 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/10/elixir-1-19-brings-enhanced-type-checking-broader-type-inference-and-faster-compilation/</guid>
       <pubDate>Thu, 16 Oct 2025 15:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>PyTorch 2.9 增加了在 AMD ROCm 和 Intel XPU 上的更轻松安装、Arm 改进等</title>
-      <link>https://alternativeto.net/news/2025/10/pytorch-2-9-adds-easier-install-on-amd-rocm-and-intel-xpus-arm-improvements-and-more/</link>
-      <description><![CDATA[PyTorch 2.9 现已作为该开源机器学习库的用户的最新版本提供。此更新带来了稳定的 libtorch 应用程序二进制接口 (ABI)，确保改进第三方 C++ 和 CUDA 扩展的兼容性。同时，开发人员可以访问对称内存，从而更轻松地对可通过 NVLink 和远程直接内存访问网络运行的多 GPU 内核进行编程。
-除了这些主要升级之外，PyTorch 2.9 还扩大了其轮子支持范围，包括 AMD ROCm、Intel XPU 和 NVIDIA CUDA 13，为尖端硬件的更广泛采用铺平了道路。现在可以在 torch.compile 中的图形中断处进行错误和恢复切换，从而使开发人员能够更好地控制错误处理和执行流程。
-在扩展平台支持之后，Intel GPU 现在完全支持前向和后向 FlexAttention。这可确保不同 GPU 类型的性能和行为保持一致。同时，利用 FlexAttention 进行闪存解码优化扩展到 X86 CPU 电感器后端，为键值序列处理提供改进的并行性。
-此外，Arm 处理器用户还可受益于此版本增强的性能和测试覆盖范围。
-查看有关 AlternativeTo 的文章有关 PyTorch 的更多信息 | PyTorch 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/pytorch-2-9-adds-easier-install-on-amd-rocm-and-intel-xpus-arm-improvements-and-more/</guid>
-      <pubDate>Thu, 16 Oct 2025 14:15:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
