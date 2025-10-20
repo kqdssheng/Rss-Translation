@@ -4,7 +4,17 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sun, 19 Oct 2025 12:36:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 01:52:51 GMT</lastBuildDate>
+    <item>
+      <title>Meta 取消适用于 macOS 和 Windows 的 Facebook Messenger 桌面应用</title>
+      <link>https://alternativeto.net/news/2025/10/meta-sunsetting-facebook-messenger-desktop-apps-for-macos-and-windows/</link>
+      <description><![CDATA[Meta 将停止推出适用于 Windows 和 macOS 的 https://alternativeto.net/software/facebook-messenger/about/ 应用，将桌面访问完全转移到网络上。该公司尚未宣布替代方案，但可以肯定的是，从现在开始，该服务将只能通过网络访问。
+根据 Meta 的支持页面，macOS 用户在收到应用内通知后将有 60 天的时间继续使用该应用。一旦该期限结束，访问将被阻止，Meta 建议删除该应用程序。 Mac 版本已从 App Store 中下架，而 Windows 版本目前仍保留在 Microsoft Store，没有明确的下架时间表。
+Windows 上的独立 Facebook 应用程序仍然仅作为 Web 包装程序而不是完整的桌面客户端运行，如果您正在寻找其他第三方替代方案来继续在桌面上使用 Messenger，您可能需要查看一些一体化消息中心，例如 Franz、Ferdium 或最近重新推出的蜂鸣器。
+查看有关 AlternativeTo 的文章有关 Messenger 的更多信息 | Messenger 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/meta-sunsetting-facebook-messenger-desktop-apps-for-macos-and-windows/</guid>
+      <pubDate>Sun, 19 Oct 2025 13:56:25 GMT</pubDate>
+    </item>
     <item>
       <title>Zed Editor 通过 ACP 和开源适配器集成 OpenAI Codex</title>
       <link>https://alternativeto.net/news/2025/10/zed-editor-integrates-openai-codex-via-acp-and-open-sources-adapter/</link>
@@ -109,7 +119,7 @@ Copilot Vision 现已在所有市场推出，让用户可以共享桌面或应�
       <description><![CDATA[Forgejo v13.0 引入了内容报告系统，作为联盟审核的第一步。用户和管理员现在可以标记有问题的用户、组织、存储库、问题、拉取请求或评论，然后在管理界面中进行审核。对相同内容的报告进行分组并显示开放的报告计数器，提高版主的可见性。这些更新与正在进行的 ActivityPub 集成工作一起发布。
 Pagure 上托管的存储库现在可以迁移到 Forgejo，从而简化 Fedora。测试该版本的用户可以在公共实例上尝试，但建议在升级之前进行完整备份并检查重大更改。
 安全性和可用性也得到了提高。 Forgejo Actions 现在依赖于更安全的机密模块，管理员可以在全局或仅针对管理员强制执行双因素身份验证。上传的头像会自动删除 EXIF 元数据，并使用 CLI 工具来清理现有文件。工作流程在 Web UI 中进行静态验证，以尽早捕获常见语法或上下文错误，并且所有过去的操作运行都可见，CI 状态现在直接显示在强制推送后提交 SHA 旁边。
-查看有关 AlternativeTo 的文章有关 Forgejo 的更多信息 | Forgejo 替代品]]></description>
+查看有关 AlternativeTo 的文章有关 Forgejo 的更多信息 | Forgejo 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/10/forgejo-v13-0-adds-content-reporting-stronger-security-and-improved-actions-workflows/</guid>
       <pubDate>Fri, 17 Oct 2025 04:12:43 GMT</pubDate>
     </item>
@@ -142,16 +152,6 @@ Element Pro 建立在 Element X 的基础上，引入了服务器管理的品牌
 查看有关 AlternativeTo 的文章有关 Raycast 的更多信息 | Raycast 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/10/raycast-launches-keyboard-for-ios-users-with-dictation-ai-commands-snippets-and-quicklinks/</guid>
       <pubDate>Thu, 16 Oct 2025 17:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Elixir 1.19 带来了增强的类型检查、更广泛的类型推断和更快的编译</title>
-      <link>https://alternativeto.net/news/2025/10/elixir-1-19-brings-enhanced-type-checking-broader-type-inference-and-faster-compilation/</link>
-      <description><![CDATA[Elixir 1.19 为语言类型系统中的匿名函数和协议带来了改进的类型推断和更严格的类型检查。这些变化为开发人员编写和维护代码时提供了更强大的安全保证和更好的工具。
-除了这些类型系统增强之外，新版本还重点关注大型代码库的编译速度。 Elixir 编译器现在集成了两项优化，可以将构建时间缩短多达四倍。另一个值得注意的变化是转向延迟模块加载，这缓解了编译期间代码服务器的瓶颈。这允许更多的并行化，从而导致大型项目的构建速度加快两倍以上。
-在这些性能改进的基础上，Elixir 1.19 引入了一个环境变量 MIX_OS_DEPS_COMPILE_PARTITION_COUNT。这个新选项允许 mix deps.compile 并行运行依赖项编译任务，从而加速具有许多依赖项的项目中的构建。此外，Elixir 现在正式支持 Erlang/OTP 28.1 及更高版本，使生态系统与最新的 Erlang 版本保持一致。该版本还标志着 Elixir 首次遵循 OpenChain 合规性，反映了软件供应链的最佳实践。其他更新包括改进的选项解析、增强的 ExUnit 可调试性、更好的测试性能以及其他一些改进。
-查看有关 AlternativeTo 的文章有关 Elixir 的更多信息 | Elixir 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/elixir-1-19-brings-enhanced-type-checking-broader-type-inference-and-faster-compilation/</guid>
-      <pubDate>Thu, 16 Oct 2025 15:50:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
