@@ -4,7 +4,100 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Tue, 21 Oct 2025 01:27:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 12:41:13 GMT</lastBuildDate>
+    <item>
+      <title>Spotify 添加了场地跟踪功能，以便您可以跟踪并获取即将举行的音乐会的详细信息</title>
+      <link>https://alternativeto.net/news/2025/10/spotify-adds-venue-following-feature-so-you-can-track-and-get-details-on-upcoming-concerts/</link>
+      <description><![CDATA[Spotify 正在扩展其音乐会发现工具，允许免费和付费用户关注他们最喜欢的场地、查找新的本地地点并直接在应用程序中查看即将推出的演出阵容。此更新以 3 月份推出的 Concerts Near You 为基础，提供了一种无需离开 Spotify 即可跟踪场地和活动详细信息的无缝方式。
+除了这些功能之外，现场活动源也经过重新设计，界面焕然一新，现在每天更新。该提要提供更智能的推荐，为寻找即将举行的音乐会提供更量身定制的体验。虽然您附近的音乐会每周刷新一次，但新的源会集成每个听众的流媒体历史记录、位置和首选流派，以显示与他们最相关的音乐会。
+当用户关注某个地点时，它会保存到他们的 Spotify 库中以便于访问。该应用程序还建议可能符合用户兴趣的其他场所。一旦找到感兴趣的音乐会，用户可以通过该活动的官方票务合作伙伴购买门票，所有活动细节均在 Spotify 内确认。用户可以随时返回应用程序查看过去或即将举办的活动并继续发现更多音乐会。
+查看有关 AlternativeTo 的文章有关 Spotify 的更多信息 | Spotify 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/spotify-adds-venue-following-feature-so-you-can-track-and-get-details-on-upcoming-concerts/</guid>
+      <pubDate>Tue, 21 Oct 2025 11:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bat v0.26.0 添加了 Windows/ARM64 支持、分页改进和错误修复</title>
+      <link>https://alternativeto.net/news/2025/10/bat-v0-26-0-adds-windows-arm64-support-paging-improvements-and-bug-fixes/</link>
+      <description><![CDATA[Bat 版本 0.26.0 引入了对 Windows/ARM64 平台的构建支持，显着拓宽了其兼容性。此版本向 --list-themes 命令添加了分页，并提供了内置的“减号”分页器选项。
+值得注意的错误修复包括改进了对 UTF-8 BOM 语法检测的处理、主题环境变量支持以及处理多字节文件路径时的稳定性。
+查看有关 AlternativeTo 的文章有关蝙蝠的更多信息 | 蝙蝠替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/bat-v0-26-0-adds-windows-arm64-support-paging-improvements-and-bug-fixes/</guid>
+      <pubDate>Tue, 21 Oct 2025 08:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>mymind 推出改进的 PDF 搜索和新的视觉卡样式</title>
+      <link>https://alternativeto.net/news/2025/10/mymind-introduces-improved-pdf-search-and-new-visual-card-style/</link>
+      <description><![CDATA[mymind 已更新其 PDF 处理方式，提供更准确的索引和自动标记，使用户能够通过搜索更有效地定位文件。 PDF 卡片现在在网格中具有更独特的视觉样式，使它们更容易一目了然。
+查看有关 AlternativeTo 的文章有关 mymind 的更多信息 | mymind 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/mymind-introduces-improved-pdf-search-and-new-visual-card-style/</guid>
+      <pubDate>Tue, 21 Oct 2025 08:19:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>AnduinOS 1.4 在 Ubuntu 25.10 上首次亮相，放弃 X11 并更新核心应用程序</title>
+      <link>https://alternativeto.net/news/2025/10/anduinos-1-4-debuts-on-ubuntu-25-10-drops-x11-and-updates-core-apps/</link>
+      <description><![CDATA[AnduinOS 1.4 现已基于 Ubuntu 25.10 构建，升级其基础系统以包含 GNOME 49、Linux 内核 6.17 和 sudo-rs 作为默认权限命令。此版本完全删除了 X11 支持，标准化了 Wayland 上的系统显示堆栈。
+其他更新包括新的实时 USB 选项、新的默认应用程序、作为标准浏览器的 Firefox ESR，以及反映向 AnduinOS 作为独立平台的转变的品牌变化。
+查看有关 AlternativeTo 的文章有关 AnduinOS 的更多信息 | AnduinOS 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/anduinos-1-4-debuts-on-ubuntu-25-10-drops-x11-and-updates-core-apps/</guid>
+      <pubDate>Tue, 21 Oct 2025 08:16:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Infuse 8.3 为 Apple Vision Pro 用户引入沉浸式环境</title>
+      <link>https://alternativeto.net/news/2025/10/infuse-8-3-introduces-immersive-environments-for-apple-vision-pro-users/</link>
+      <description><![CDATA[Infuse 8.3 为 Apple Vision Pro 推出沉浸式环境，允许用户自定义影院、房间、太空、日落和虚空模式的设置。播放性能和字幕处理得到改进，包括更好的 SSA/ASS 字幕管理。
+此次更新还为 iOS 26 带来了重新设计的导航栏和更新的 Trakt 徽标，以及多个错误修复。
+查看有关 AlternativeTo 的文章有关 Infuse 的更多信息 | Infuse 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/infuse-8-3-introduces-immersive-environments-for-apple-vision-pro-users/</guid>
+      <pubDate>Tue, 21 Oct 2025 08:11:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Notepad++ v8.8.7 版本通过 GlobalSign 签名确保真实性</title>
+      <link>https://alternativeto.net/news/2025/10/notepad--v8-8-7-release-ensures-authenticity-with-globalsign-signature/</link>
+      <description><![CDATA[Notepad++ v8.8.7 现已使用 GlobalSign 证书进行数字签名，解决了自早期证书过期以来对版本真实性的担忧。该项目建立了一个非营利组织来满足证书颁发机构对数字签名的要求。
+此版本还提供了 Perl FunctionList 改进，并解决了多个用户报告的错误，包括双视图监控、快捷方式映射器内存泄漏和 UDL 对话框重绘问题。
+查看有关 AlternativeTo 的文章有关 Notepad++ 的更多信息 | Notepad++ 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/notepad--v8-8-7-release-ensures-authenticity-with-globalsign-signature/</guid>
+      <pubDate>Tue, 21 Oct 2025 08:04:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>GIMP 推出带有 CI 构建和插件支持的官方 Snap 包</title>
+      <link>https://alternativeto.net/news/2025/10/gimp-introduces-official-snap-package-with-ci-builds-and-plugin-support/</link>
+      <description><![CDATA[GIMP 发布了直接从其持续集成系统构建的新官方 Snap 软件包，使 Linux 用户可以更轻松地跨发行版安装和更新应用程序。官方 Snap 包现在支持 gimp-plugins 插件接口，用于安装外部插件，在保持严格限制的同时允许可扩展性。
+用于创建 GIMP Snap 包的构建脚本也可供社区使用。
+查看有关 AlternativeTo 的文章有关 GIMP 的更多信息 | GIMP 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/gimp-introduces-official-snap-package-with-ci-builds-and-plugin-support/</guid>
+      <pubDate>Tue, 21 Oct 2025 07:51:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>浏览器渲染引擎 Servo 在 GitHub 上发布第一个官方 0.0.1 版本</title>
+      <link>https://alternativeto.net/news/2025/10/browser-rendering-engine-servo-launches-first-official-0-0-1-release-on-github/</link>
+      <description><![CDATA[Servo 项目已发布其第一个正式版本，版本 0.0.1，引入了一种新的方法来分发其浏览器渲染引擎。与夜间构建相比，这些首次标记的版本为开发人员提供了专用下载和更可预测的参考。
+标记 v0.0.1，Servo 团队昨天为所有支持的平台发布了更新的 servoshell 二进制文件。虽然这些构建基于最近的夜间新闻，但它们包括额外的手动测试，以在公开分发之前识别问题并提高可靠性。
+在此里程碑的基础上，Servo 团队将遵循每月发布的节奏。每个版本预计都会包含最近的夜间更改，并接受进一步的手动验证以减少回归。这种方法旨在保持分发过程的轻量级，同时提供比标准夜间活动更高的稳定性。
+目前，标记版本将在 GitHub 上独家发布。团队现阶段不打算通过 Crates.io 或特定于平台的应用商店分发这些版本。该渠道确保对 Servo 进展感兴趣的开发人员可以随着开发的继续轻松访问稳定的参考版本。
+查看有关 AlternativeTo 的文章有关伺服的更多信息 | 伺服替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/browser-rendering-engine-servo-launches-first-official-0-0-1-release-on-github/</guid>
+      <pubDate>Tue, 21 Oct 2025 07:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Coherence X 5.1 提高了 Dock 固定 Mac 应用程序的可靠性</title>
+      <link>https://alternativeto.net/news/2025/10/coherence-x-5-1-improves-reliability-for-dock-pinned-mac-apps/</link>
+      <description><![CDATA[Coherence X 5.1 解决了一个关键的可靠性问题，修复了之前在 Mac 重新启动后停止工作的 Dock 固定应用程序。此更新还添加了视觉提示，以引导用户完成创建和编辑工具中的可滚动步骤，并移动“添加选项卡”按钮以提高可发现性。
+更新中包含一些小错误修复和改进。
+查看有关 AlternativeTo 的文章有关 Coherence X 的更多信息 | Coherence X 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/coherence-x-5-1-improves-reliability-for-dock-pinned-mac-apps/</guid>
+      <pubDate>Tue, 21 Oct 2025 07:42:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anthropic 推出基于 Web 的 Claude Code，为开发人员提供并行任务处理</title>
+      <link>https://alternativeto.net/news/2025/10/anthropic-launches-web-based-claude-code-with-parallel-tasking-for-developers/</link>
+      <description><![CDATA[Anthropic 推出了 AI 编码助手的网页版 Claude Code，允许开发人员直接在浏览器中创建和管理编码代理。此版本标志着原始命令行界面的重大升级，现在为 Pro 和 Max 计划订阅者提供访问权限。用户可以通过新的“代码”选项卡下的 Claude 网站访问它，或者尝试  用于移动工作流程的 Claude iOS 应用。
+开发人员可以将 Claude Code 连接到他们的 GitHub 存储库，允许代理通过类似终端的界面读取问题、提交并执行指令。它现在支持并行多个任务，消除了 CLI 版本中的单任务限制，并支持批量操作，例如同时修复多个错误或更新后端路由。
+这些编码任务在隔离的沙箱中运行，对网络和文件系统访问有严格的限制。 Git 交互通过安全代理传递，确保凭据和代码受到保护。在执行过程中，Claude Code 会提供实时进度更新，用户可以通过附加提示交互式指导或修改代理行为。早期报告表明，基于云的系统比其 CLI 前身更快、更强大，但详细文档仍在发布中。
+查看有关 AlternativeTo 的文章有关克劳德代码的更多信息 | 克劳德代码替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/anthropic-launches-web-based-claude-code-with-parallel-tasking-for-developers/</guid>
+      <pubDate>Tue, 21 Oct 2025 01:25:57 GMT</pubDate>
+    </item>
     <item>
       <title>Jellyfin 10.11 迁移到 EF Core，提高速度，放弃 32 位 ARM 支持</title>
       <link>https://alternativeto.net/news/2025/10/jellyfin-10-11-migrates-to-ef-core-boosts-speed-drops-32-bit-arm-support/</link>
@@ -55,104 +148,6 @@ QUIC 协议由 Google 开发，在传输层运行并利用用户数据报协议 
 查看有关 AlternativeTo 的文章有关 Mullvad 的更多信息 | Mullvad 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/10/mullvad-vpn-adds-quic-obfuscation-on-android-and-ios-to-bypass-firewalls-and-censorship/</guid>
       <pubDate>Mon, 20 Oct 2025 12:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wine 10.17 添加了 Mono 10.3、OpenGL 的默认 EGL 渲染器、COMCTL32 库拆分等</title>
-      <link>https://alternativeto.net/news/2025/10/wine-10-17-adds-mono-10-3-default-egl-renderer-for-opengl-comctl32-library-split-and-more/</link>
-      <description><![CDATA[Wine 10.17 为这个流行的兼容性层带来了多项核心增强功能，以便在 Linux、macOS 和 BSD 系统上运行 Windows 应用程序。这些更新的核心是 Mono 引擎已升级到版本 10.3.0，它扩展了对基于 .NET 的应用程序的支持，并包含与运行时相关的兼容性修复程序。
-除了运行时改进之外，EGL 渲染器现在还作为 OpenGL 应用程序的默认后端运行。这一变化预计将影响图形性能和跨平台的兼容性。为了改进 Windows 应用程序支持，Wine 10.17 将其 COMCTL32 库重新组织为不同的 v5 和 v6 模块，改进了需要不同控制库的软件在 Wine 中交互的方式。
-在这些主要更新之后，该版本为 ANSI ODBC 驱动程序提供了更好的支持，这可以帮助用户依赖数据库支持的应用程序，特别是那些依赖于旧版或关键业务软件的应用程序。在 FreeBSD 上，增强的 CPU 信息报告提高了在该操作系统上运行 Wine 的用户的系统集成度和准确性。最后，Wine 10.17 解决了 17 个错误，提高了与一系列软件的兼容性，包括《Metro 2033》、《So Blonde》和《Throne and Liberty》等著名视频游戏。
-查看有关 AlternativeTo 的文章有关葡萄酒的更多信息 | 葡萄酒替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/wine-10-17-adds-mono-10-3-default-egl-renderer-for-opengl-comctl32-library-split-and-more/</guid>
-      <pubDate>Mon, 20 Oct 2025 11:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>PeaZip 10.7 发布，内置文本和图像查看器，以及图像缩略图显示</title>
-      <link>https://alternativeto.net/news/2025/10/peazip-10-7-released-with-built-in-text-and-image-viewer-and-image-thumbnails-display/</link>
-      <description><![CDATA[PeaZip 10.7.0 是免费的开源文件归档实用程序，引入了一系列旨在提高用户体验和代码质量的增强功能。此版本增强了存档操作期间的错误处理，并扩展了预览存档中项目的能力，帮助用户更自信地管理文件。
-在这些功能更新的基础上，文件管理器获得了大量可用性改进。 macOS 用户受益于更动态的虚拟模式，而所有平台现在都支持显示图像缩略图。一项新功能允许用户根据请求显示这些缩略图，从而简化档案内的导航。此外，还添加了集成的文本查看器和图像查看器工具，可以更轻松地检查压缩文件的内容而无需解压。
-对于开发人员和贡献者来说，源代码已经过广泛的重构。这包括更清晰的单元和变量命名、功能的逻辑分组以及将功能移动到专用模块中以提高可维护性。
-这些进步得到了利用 Pea 1.27 的更新后端的支持。此外，PeaZip 还更新了构建流程，使用 Lazarus 4.2 编译源代码，同时保持与 Lazarus 3.x 和 2.x 的兼容性，使社区开发者更容易做出贡献。
-查看有关 AlternativeTo 的文章有关 PeaZip 的更多信息 | PeaZip 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/peazip-10-7-released-with-built-in-text-and-image-viewer-and-image-thumbnails-display/</guid>
-      <pubDate>Mon, 20 Oct 2025 09:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Alacritty 0.16.0 引入了 Unicode 17 支持、新的 Vi 动作和配置改进</title>
-      <link>https://alternativeto.net/news/2025/10/alacritty-0-16-0-introduces-unicode-17-support-new-vi-motions-and-config-improvements/</link>
-      <description><![CDATA[Alacritty 0.16.0 引入了 Unicode 17 支持，确保与最新字符集和符号的兼容性。此更新通过新动作和用于拉线的 Y 键绑定扩展了 Vi 模式功能。现在支持系统范围的配置回退和基于 IPC 的配置检索，同时解决了 macOS 和其他平台上的几个值得注意的错误和崩溃。
-查看有关 AlternativeTo 的文章有关 Alacritty 的更多信息 | Alacritty 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/alacritty-0-16-0-introduces-unicode-17-support-new-vi-motions-and-config-improvements/</guid>
-      <pubDate>Mon, 20 Oct 2025 08:35:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ripgrep 15.0.0 修复了 gitignore 错误，改进了内存使用和 glob 支持</title>
-      <link>https://alternativeto.net/news/2025/10/ripgrep-15-0-0-fixes-gitignore-bugs-improves-memory-use-and-glob-support/</link>
-      <description><![CDATA[Ripgrep 15.0.0 解决了影响 gitignore 规则处理的多个错误，包括父目录规则的问题。处理大型 gitignore 文件时的内存使用问题已得到修复。
-此版本还引入了对 glob 模式中嵌套花括号的支持，并带来了较小的更新，例如平台支持更改和较小的性能提升。
-查看有关 AlternativeTo 的文章有关 ripgrep 的更多信息 | ripgrep 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/ripgrep-15-0-0-fixes-gitignore-bugs-improves-memory-use-and-glob-support/</guid>
-      <pubDate>Mon, 20 Oct 2025 08:27:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Calibre 8.13 增强了搜索编辑以及与新功能和修复的兼容性</title>
-      <link>https://alternativeto.net/news/2025/10/calibre-8-13-enhances-search-editing-and-compatibility-with-new-features-and-fixes/</link>
-      <description><![CDATA[Calibre 8.13 引入了虚拟库的多行搜索表达式编辑功能，使复杂的搜索更易于管理。 Windows 上的“打开方式”功能现在使用系统 API 来启动外部程序，从而提高了兼容性。
-此更新还解决了数据库覆盖、Linux 导出和 ebooks.com 连接问题。
-查看有关 AlternativeTo 的文章有关 calibre 的更多信息 | calibre 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/calibre-8-13-enhances-search-editing-and-compatibility-with-new-features-and-fixes/</guid>
-      <pubDate>Mon, 20 Oct 2025 08:17:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tor 浏览器的最新 alpha 版本删除了 Firefox 引入的 AI 功能以增强隐私</title>
-      <link>https://alternativeto.net/news/2025/10/tor-browser-s-latest-alpha-removes-ai-features-introduced-by-firefox-for-enhanced-privacy/</link>
-      <description><![CDATA[Tor 项目发布了 Tor 浏览器 15.0a4，这是其以隐私为中心的网络浏览器的最新 Alpha 版本。版本 15.0a4 纳入了来自 Firefox 代码库的关键安全更新，同时通过删除 Mozilla 最近引入的所有人工智能功能来优先考虑隐私。
-这些 AI 删除源于 Tor 项目的立场，即机器学习系统和平台无法针对安全或隐私问题进行适当的审核。为了维护用户信任并避免推广此类不可审计的系统，开发团队已主动将其排除在此浏览器版本之外。
-继这些隐私改进之后，15.0a4 版本还改进了 Tor 浏览器特有的用户界面元素，特别是在启用深色主题时，增强了低光设置下的视觉一致性。此外，最新的 alpha 版本使协议细节更加清晰：桌面用户现在将在 URL 栏中看到 HTTP 或 HTTPS，这与 Tor 对透明度的强调是一致的。在 Android 上，为了节省空间，协议保持隐藏状态，但可以通过与 URL 栏图标交互来显示。
-Tor 浏览器 15.0a4 预计将成为 15.0 版本于 10 月底稳定之前的最终 alpha 版。
-查看有关 AlternativeTo 的文章有关 Tor 浏览器的更多信息 | Tor 浏览器替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/tor-browser-s-latest-alpha-removes-ai-features-introduced-by-firefox-for-enhanced-privacy/</guid>
-      <pubDate>Mon, 20 Oct 2025 07:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 取消适用于 macOS 和 Windows 的 Facebook Messenger 桌面应用</title>
-      <link>https://alternativeto.net/news/2025/10/meta-sunsetting-facebook-messenger-desktop-apps-for-macos-and-windows/</link>
-      <description><![CDATA[Meta 将停止推出适用于 Windows 和 macOS 的 https://alternativeto.net/software/facebook-messenger/about/ 应用，将桌面访问完全转移到网络上。该公司尚未宣布替代方案，但可以肯定的是，从现在开始，该服务将只能通过网络访问。
-根据 Meta 的支持页面，macOS 用户在收到应用内通知后将有 60 天的时间继续使用该应用。一旦该期限结束，访问将被阻止，Meta 建议删除该应用程序。 Mac 版本已从 App Store 中下架，而 Windows 版本目前仍保留在 Microsoft Store，没有明确的下架时间表。
-Windows 上的独立 Facebook 应用程序仍然仅作为 Web 包装程序而不是完整的桌面客户端运行，如果您正在寻找其他第三方替代方案来继续在桌面上使用 Messenger，您可能需要查看一些一体化消息中心，例如 Franz、Ferdium 或最近重新推出的蜂鸣器。
-查看有关 AlternativeTo 的文章有关 Messenger 的更多信息 | Messenger 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/meta-sunsetting-facebook-messenger-desktop-apps-for-macos-and-windows/</guid>
-      <pubDate>Sun, 19 Oct 2025 13:56:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zed Editor 通过 ACP 和开源适配器集成 OpenAI Codex</title>
-      <link>https://alternativeto.net/news/2025/10/zed-editor-integrates-openai-codex-via-acp-and-open-sources-adapter/</link>
-      <description><![CDATA[Zed Editor 现在使用 Zed Editor 提供官方集成 href=&quot;https://alternativeto.net/software/agent-client-protocol/about/&quot;&gt;代理客户端协议 (ACP)。用户可以直接从“新线程”菜单启动 Codex，加入其他 ACP 支持的代理，例如 Claude Code 和 Gemini CLI。 Anthropic、Google 和 JetBrains 早期采用 ACP 后，社区对此提出了强烈的需求。
-所有 Codex 交互均保持私密，提示和代码直接在用户和 OpenAI 之间发送。 Zed 不会对外部代理的使用进行处理、存储或计费。
-Zed 还开源了 Codex-ACP 适配器，以便开发人员可以在编辑器之外使用它。与以前的代理不同，Codex 在自己的进程中运行终端命令，并以非 PTY 模式将结果传输到客户端，减少了潜在的冻结，但提供的交互性较低。该团队正在评估 PTY 和非 PTY 模式，以指导未来的 ACP 改进。
-查看有关 AlternativeTo 的文章有关 Zed 编辑器的更多信息 | Zed 编辑器替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/zed-editor-integrates-openai-codex-via-acp-and-open-sources-adapter/</guid>
-      <pubDate>Sat, 18 Oct 2025 14:37:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>OPNsense 商业版 25.10 发布，包含 OpenID Connect、改进的 OPNWAF 等</title>
-      <link>https://alternativeto.net/news/2025/10/opnsense-business-edition-25-10-released-with-openid-connect-improved-opnwaf-and-more/</link>
-      <description><![CDATA[OPNsense 商业版 25.10 现已推出，标志着企业防火墙部署的新里程碑。该版本融合了首次在版本 25.7 中提供的改进，例如增强的可用性、模块化功能和增强的安全性。在此基础上，版本 25.10 引入了 OpenID Connect 支持，为组织提供更好的身份联合。此更新还带来了改进的 OPNWAF Web 应用程序防火墙，以及允许在维护窗口内实现精确自动化的预定作业。
-OPNsense 25.10 现在基于 FreeBSD 14.3。这个新的基础增强了兼容性，并为持续开发奠定了基础。更新后的架构旨在满足企业需求，帮助组织提高运营效率、降低支持需求并有效扩展其安全态势。
-这些累积的增强功能强调了对提供适应不断变化的业务需求的企业级网络安全平台的关注。
-查看有关 AlternativeTo 的文章有关 OPNsense 的更多信息 | OPNsense 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/opnsense-business-edition-25-10-released-with-openid-connect-improved-opnwaf-and-more/</guid>
-      <pubDate>Fri, 17 Oct 2025 19:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Proton 推出 Lumo 1.2，具有深色模式、自定义书写风格和新的独立加子</title>
-      <link>https://alternativeto.net/news/2025/10/proton-launches-lumo-1-2-with-dark-mode-custom-writing-styles-and-new-standalone-plus-sub/</link>
-      <description><![CDATA[Proton 发布了其注重隐私的人工智能助手 Lumo 版本 1.2，带来了两项备受期待的功能 - 深色模式和可自定义的聊天书写风格。用户现在可以在浅色和深色主题之间切换，使 Lumo 的外观与其他 Proton 产品保持一致。
-更新还保留了 Proton Drive 集成，让用户可以在 Lumo 的工作内存中附加或删除文档和 PDF，以提供更好的上下文和准确性。它建立在 1.1 版本中引入的推理和知识升级的基础上，改善了日常和专业使用。所有个性化功能均受到零访问加密的保护，确保不会存储或使用任何聊天日志进行培训。
-新功能对所有 Lumo 用户免费，但 Proton 现在提供 Lumo Plus 作为独立订阅或可选附加组件，解锁更快的响应、扩展的工作内存和无限制的聊天使用，所有这些都无需 将其与现有的 Unlimited、Family 或 Duo 计划捆绑在一起。
-查看有关 AlternativeTo 的文章有关 Proton 的 Lumo 的更多信息 | Proton Alternatives 的 Lumo]]></description>
-      <guid>https://alternativeto.net/news/2025/10/proton-launches-lumo-1-2-with-dark-mode-custom-writing-styles-and-new-standalone-plus-sub/</guid>
-      <pubDate>Fri, 17 Oct 2025 18:04:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
