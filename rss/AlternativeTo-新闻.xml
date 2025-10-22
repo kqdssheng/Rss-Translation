@@ -4,7 +4,94 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Wed, 22 Oct 2025 01:28:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 12:41:54 GMT</lastBuildDate>
+    <item>
+      <title>OpenBSD 7.8 添加了 Raspberry Pi 5 支持、多个 CPU 上的并行 TCP 堆栈和 AMD SEV-ES</title>
+      <link>https://alternativeto.net/news/2025/10/openbsd-7-8-adds-raspberry-pi-5-support-parallel-tcp-stack-on-multiple-cpus-and-amd-sev-es/</link>
+      <description><![CDATA[Theo de Raadt 宣布发布 OpenBSD 7.8，进一步提升了该操作系统在安全性和硬件支持方面的声誉。 TCP 堆栈现在可在多达 8 个 CPU 内核上并行处理流量，从而增强多核系统的网络性能。除此之外，最多使用 8 个 Softnet 线程来处理网络输入，其限制由 CPU 数量设置。
+谈到硬件支持，ARM64 用户通过串行控制台获得对 Raspberry Pi 5 的支持，以及 ACPICPU 的实现。 AMD64 用户受益于改进的 GPIO 事件处理，包括修复使用 AMD CPU 的 ThinkPad 电源按钮。在 AMD 处理器上，现在支持具有加密状态的安全加密虚拟化 (SEV-ES)，从而能够启动机密虚拟机。直接渲染管理器已更新至 Linux 6.12.50，支持较新的显卡。
+多项改进侧重于笔记本电脑和新架构的可靠性和性能。休眠区域现在在启动期间预先分配，解决了分配失败问题，并且现在通过 GPIO 实现了盖子挂起/恢复功能。 ARM64 和 RISC-V64 系统受益于避免具有重复内存映射的单页上出现过多线程错误的机制。 Snapdragon X Elite 机器现在具有工作 APM 和 CPU 速度报告。对于Apple硬件，当exuart检测到BREAK时可以进入DDB调试器。
+与往常一样，OpenBSD 7.8 还包括各种内核改进、更好的挂起/休眠支持、多项 SMP 增强、更新的 DRM 和图形驱动程序、VMM/VMD 改进、各种新的用户区功能、增强的硬件支持和驱动程序错误修复、安全修复等等。
+查看有关 AlternativeTo 的文章有关 OpenBSD 的更多信息 | OpenBSD 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/openbsd-7-8-adds-raspberry-pi-5-support-parallel-tcp-stack-on-multiple-cpus-and-amd-sev-es/</guid>
+      <pubDate>Wed, 22 Oct 2025 11:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AlmaLinux OS 10.1为新安装启动Btrfs文件系统支持</title>
+      <link>https://alternativeto.net/news/2025/10/almalinux-os-10-1-launches-btrfs-filesystem-support-for-new-installations/</link>
+      <description><![CDATA[AlmaLinux OS 10.1引入了对Btrfs文件系统的支持，允许用户选择 Btrfs 作为安装过程中的分区方案。此更新包括 Btrfs 的内核和用户空间支持，为那些喜欢它而不是默认设置的人简化了部署。
+计划在未来版本中更广泛地支持 AlmaLinux 中的 Btrfs 功能。
+查看有关 AlternativeTo 的文章有关 AlmaLinux 的更多信息 | AlmaLinux 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/almalinux-os-10-1-launches-btrfs-filesystem-support-for-new-installations/</guid>
+      <pubDate>Wed, 22 Oct 2025 09:51:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ultramarine Linux 42：WSL 和 Terra 43 包管理器增强的 GPU 提升</title>
+      <link>https://alternativeto.net/news/2025/10/ultramarine-linux-42-gpu-boost-for-wsl-and-terra-43-package-manager-enhancements/</link>
+      <description><![CDATA[Ultramarine Linux 42 现在为 Linux 的 Windows 子系统提供硬件加速，支持 Windows 内的应用程序使用 GPU。 Taidan 欢迎应用程序得到了增强，提供了更精致的开箱即用体验。
+此外，Terra 43（Ultramarine 更新的软件包管理器）首次亮相，提高了软件包构建速度、ARM 运行器、更小的构建器容器，并结束了 Repology 合作。
+查看有关 AlternativeTo 的文章有关 Ultramarine Linux 的更多信息 | Ultramarine Linux 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/ultramarine-linux-42-gpu-boost-for-wsl-and-terra-43-package-manager-enhancements/</guid>
+      <pubDate>Wed, 22 Oct 2025 09:45:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Next.js 16 发布，包含 Turbopack、新的缓存模型、React 19.2 和 Devtools 升级</title>
+      <link>https://alternativeto.net/news/2025/10/next-js-16-launches-with-turbopack-new-caching-model-react-19-2-and-devtools-upgrades/</link>
+      <description><![CDATA[React Web 框架 Next.js 16 首次推出新的缓存组件模型，该模型使用部分预渲染和客户端缓存，可加快跨应用程序的页面导航速度。 Turbopack 作为稳定的默认捆绑程序退出 Beta 版，其快速刷新速度提高了 5 到 10 倍，构建速度提高了 5 倍。除此之外，Turbopack 在测试版中引入了文件系统缓存，缩短了大型项目的启动和编译时间。
+在这些架构升级之后，Next.js 16 纳入了对模型上下文协议 (MCP) 的 Devtools 支持，为开发人员提供了扩展的调试选项和工作流程可见性。升级还延伸到了开发人员体验，为构建和本地开发会话提供了精细的日志记录。
+虽然主要功能是此版本的基础，但更新将网络边界管理从中间件转移到新的 proxy.ts 方法，使项目结构中的边界更加清晰。增强型路由集成了布局重复数据删除和增量预取，从而实现更快、更高效的站点导航。
+在技术方面，内置的React编译器集成可实现自动记忆，并支持React 19.2 带来了与视图转换和 useEffectEvent() 的兼容性。多项 API 改进包括构建适配器 API（目前处于 Alpha 版）、缓存 API 中的新 updateTag() 以及一些重大更改，例如更新的异步参数行为和 next/image 默认值。
+查看有关 AlternativeTo 的文章有关 Next.js 的更多信息 | Next.js 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/next-js-16-launches-with-turbopack-new-caching-model-react-19-2-and-devtools-upgrades/</guid>
+      <pubDate>Wed, 22 Oct 2025 09:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Valkey 9.0 带来原子槽迁移、每字段哈希过期和集群数据库</title>
+      <link>https://alternativeto.net/news/2025/10/valkey-9-0-brings-atomic-slot-migration-per-field-hash-expiry-and-cluster-databases/</link>
+      <description><![CDATA[Valkey 9.0 引入了原子槽迁移，允许整个槽在节点之间原子移动，并减少以前由键逐键迁移引起的性能问题。该版本还通过新命令带来了每个字段哈希过期的功能，从而实现了更精细的数据管理。
+集群模式现已完全支持编号数据库，提高了数据分离和集群可扩展性。
+查看有关 AlternativeTo 的文章有关 Valkey 的更多信息 | Valkey 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/valkey-9-0-brings-atomic-slot-migration-per-field-hash-expiry-and-cluster-databases/</guid>
+      <pubDate>Wed, 22 Oct 2025 09:15:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>SuperTuxKart 1.5 带来了寻蛋、新足球场、主要图形升级等</title>
+      <link>https://alternativeto.net/news/2025/10/supertuxkart-1-5-brings-egg-hunts-new-soccer-fields-major-graphics-upgrades-and-more/</link>
+      <description><![CDATA[SuperTuxKart 1.5 为寻求多样性和增强视觉效果的玩家提供了广泛的更新。用户现在可以将赛道和卡丁车标记为最爱，从而简化选择并改善他们的跨会话体验。根据用户请求，游戏窗口现在几乎可以在任何屏幕上调整大小，同时改进的选择显示减少了选择卡丁车、赛道或模式时的滚动。
+继这些可用性改进之后，更新添加了新的游戏内容：在黑森林、大帕拉迪西奥岛和老矿井赛道上进行寻蛋活动，足球模式则包含三个新的官方场地：绿洲、Hole Drop和XR-4R3N4。此外，自 1.4 版以来，六个新主题使可用的 UI 皮肤增加了一倍。
+在图形方面，玩家会注意到得益于高级细节和阴影映射逻辑的世界增强和整体视觉效果。高分辨率阴影选项和百分比接近的软阴影减少了分散注意力的视觉弹出。 降落伞和泡泡糖赛道更新了生成动画，夜间赛道引入了卡丁车的聚光灯效果。游戏性能设置现在包括可自定义的帧限制器，范围为每秒 30 到 1000 帧，以及用于比较硬件性能的新基准模式。
+其他更新涵盖了更广泛的辅助功能：菲律宾语、鲁森语和威尔士语的完整翻译、改进的音频处理以及一些小修复，例如更好的宽高比支持、限时模式警告和改进的键盘导航。
+查看有关 AlternativeTo 的文章有关 SuperTuxKart 的更多信息 | SuperTuxKart 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/supertuxkart-1-5-brings-egg-hunts-new-soccer-fields-major-graphics-upgrades-and-more/</guid>
+      <pubDate>Wed, 22 Oct 2025 07:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DuckDuckGo 推出适用于 Windows 和 Mac 浏览器的免费个人信息删除扫描</title>
+      <link>https://alternativeto.net/news/2025/10/duckduckgo-launches-free-personal-info-removal-scans-for-windows-and-mac-browsers/</link>
+      <description><![CDATA[DuckDuckGo 已为其 Windows 和 Mac 推出免费的个人信息删除扫描 浏览器，为桌面用户扩展隐私工具，可以快速检查有多少网站保存了他们的个人数据。
+该功能现已推出，无需订阅。
+查看有关 AlternativeTo 的文章有关 DuckDuckGo 隐私浏览器的更多信息 | DuckDuckGo 隐私浏览器替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/duckduckgo-launches-free-personal-info-removal-scans-for-windows-and-mac-browsers/</guid>
+      <pubDate>Wed, 22 Oct 2025 07:49:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lovable 推出 Shopify 集成，用于人工智能驱动的商店创建</title>
+      <link>https://alternativeto.net/news/2025/10/lovable-launches-shopify-integration-for-ai-driven-store-creation/</link>
+      <description><![CDATA[Lovable 发布了 Shopify 集成，让用户可以通过与 AI 聊天来构建完整的在线商店。工作流程包括商店设置、添加产品、上传图像和生成产品描述。
+Lovable 通过此流程推出了自己的商品商店，展示了新的集成。
+查看有关 AlternativeTo 的文章有关 Lovable 的更多信息 | Lovable 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/lovable-launches-shopify-integration-for-ai-driven-store-creation/</guid>
+      <pubDate>Wed, 22 Oct 2025 07:34:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Inoreader 添加了新的规则触发器和操作，包括翻译和摘要</title>
+      <link>https://alternativeto.net/news/2025/10/inoreader-adds-new-rule-triggers-and-actions-including-translations-and-summaries/</link>
+      <description><![CDATA[Inoreader 通过两个新触发器扩展了其自动化规则 - 从情报报告和文件上传启动规则。添加了四个新操作：自动文章摘要、每日限制的内容翻译、注释附件以及直接保存到 Raindrop.io。
+这些功能现已在 iOS 和 Android 应用程序上为 Pro 计划用户提供 7.9.6 或更高版本。
+查看有关 AlternativeTo 的文章有关 Inoreader 的更多信息 | Inoreader 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/inoreader-adds-new-rule-triggers-and-actions-including-translations-and-summaries/</guid>
+      <pubDate>Wed, 22 Oct 2025 07:27:43 GMT</pubDate>
+    </item>
     <item>
       <title>Clonezilla Live 3.3 已发布，带有 Linux 6.16 内核、Alias 设备和 eMMC 支持</title>
       <link>https://alternativeto.net/news/2025/10/clonezilla-live-3-3-has-been-released-with-linux-6-16-kernel-alias-devices-and-emmc-support/</link>
@@ -66,89 +153,6 @@ ODRA 允许用户通过分析大量来源并将其编译成超出标准在线搜
 查看有关 AlternativeTo 的文章有关 Opera Neon 的更多信息 | Opera Neon 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/10/opera-adds-a-deep-research-agent-to-its-neon-agentic-browser-for-advanced-research-tasks/</guid>
       <pubDate>Tue, 21 Oct 2025 12:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spotify 添加了场地跟踪功能，以便您可以跟踪并获取即将举行的音乐会的详细信息</title>
-      <link>https://alternativeto.net/news/2025/10/spotify-adds-venue-following-feature-so-you-can-track-and-get-details-on-upcoming-concerts/</link>
-      <description><![CDATA[Spotify 正在扩展其音乐会发现工具，允许免费和付费用户关注他们最喜欢的场地、查找新的本地地点并直接在应用程序中查看即将推出的演出阵容。此更新以 3 月份推出的 Concerts Near You 为基础，提供了一种无需离开 Spotify 即可跟踪场地和活动详细信息的无缝方式。
-除了这些功能之外，现场活动源也经过重新设计，界面焕然一新，现在每天更新。该提要提供更智能的推荐，为寻找即将举行的音乐会提供更量身定制的体验。虽然您附近的音乐会每周刷新一次，但新的源会集成每个听众的流媒体历史记录、位置和首选流派，以显示与他们最相关的音乐会。
-当用户关注某个地点时，它会保存到他们的 Spotify 库中以便于访问。该应用程序还建议可能符合用户兴趣的其他场所。一旦找到感兴趣的音乐会，用户可以通过该活动的官方票务合作伙伴购买门票，所有活动细节均在 Spotify 内确认。用户可以随时返回应用程序查看过去或即将举办的活动并继续发现更多音乐会。
-查看有关 AlternativeTo 的文章有关 Spotify 的更多信息 | Spotify 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/spotify-adds-venue-following-feature-so-you-can-track-and-get-details-on-upcoming-concerts/</guid>
-      <pubDate>Tue, 21 Oct 2025 11:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bat v0.26.0 添加了 Windows/ARM64 支持、分页改进和错误修复</title>
-      <link>https://alternativeto.net/news/2025/10/bat-v0-26-0-adds-windows-arm64-support-paging-improvements-and-bug-fixes/</link>
-      <description><![CDATA[Bat 版本 0.26.0 引入了对 Windows/ARM64 平台的构建支持，显着拓宽了其兼容性。此版本向 --list-themes 命令添加了分页，并提供了内置的“减号”分页器选项。
-值得注意的错误修复包括改进了对 UTF-8 BOM 语法检测的处理、主题环境变量支持以及处理多字节文件路径时的稳定性。
-查看有关 AlternativeTo 的文章有关蝙蝠的更多信息 | 蝙蝠替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/bat-v0-26-0-adds-windows-arm64-support-paging-improvements-and-bug-fixes/</guid>
-      <pubDate>Tue, 21 Oct 2025 08:28:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>mymind 推出改进的 PDF 搜索和新的视觉卡样式</title>
-      <link>https://alternativeto.net/news/2025/10/mymind-introduces-improved-pdf-search-and-new-visual-card-style/</link>
-      <description><![CDATA[mymind 已更新其 PDF 处理方式，提供更准确的索引和自动标记，使用户能够通过搜索更有效地定位文件。 PDF 卡片现在在网格中具有更独特的视觉样式，使它们更容易一目了然。
-查看有关 AlternativeTo 的文章有关 mymind 的更多信息 | mymind 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/mymind-introduces-improved-pdf-search-and-new-visual-card-style/</guid>
-      <pubDate>Tue, 21 Oct 2025 08:19:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>AnduinOS 1.4 在 Ubuntu 25.10 上首次亮相，放弃 X11 并更新核心应用程序</title>
-      <link>https://alternativeto.net/news/2025/10/anduinos-1-4-debuts-on-ubuntu-25-10-drops-x11-and-updates-core-apps/</link>
-      <description><![CDATA[AnduinOS 1.4 现已基于 Ubuntu 25.10 构建，升级其基础系统以包含 GNOME 49、Linux 内核 6.17 和 sudo-rs 作为默认权限命令。此版本完全删除了 X11 支持，标准化了 Wayland 上的系统显示堆栈。
-其他更新包括新的实时 USB 选项、新的默认应用程序、作为标准浏览器的 Firefox ESR，以及反映向 AnduinOS 作为独立平台的转变的品牌变化。
-查看有关 AlternativeTo 的文章有关 AnduinOS 的更多信息 | AnduinOS 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/anduinos-1-4-debuts-on-ubuntu-25-10-drops-x11-and-updates-core-apps/</guid>
-      <pubDate>Tue, 21 Oct 2025 08:16:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Infuse 8.3 为 Apple Vision Pro 用户引入沉浸式环境</title>
-      <link>https://alternativeto.net/news/2025/10/infuse-8-3-introduces-immersive-environments-for-apple-vision-pro-users/</link>
-      <description><![CDATA[Infuse 8.3 为 Apple Vision Pro 推出沉浸式环境，允许用户自定义影院、房间、太空、日落和虚空模式的设置。播放性能和字幕处理得到改进，包括更好的 SSA/ASS 字幕管理。
-此次更新还为 iOS 26 带来了重新设计的导航栏和更新的 Trakt 徽标，以及多个错误修复。
-查看有关 AlternativeTo 的文章有关 Infuse 的更多信息 | Infuse 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/infuse-8-3-introduces-immersive-environments-for-apple-vision-pro-users/</guid>
-      <pubDate>Tue, 21 Oct 2025 08:11:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Notepad++ v8.8.7 版本通过 GlobalSign 签名确保真实性</title>
-      <link>https://alternativeto.net/news/2025/10/notepad--v8-8-7-release-ensures-authenticity-with-globalsign-signature/</link>
-      <description><![CDATA[Notepad++ v8.8.7 现已使用 GlobalSign 证书进行数字签名，解决了自早期证书过期以来对版本真实性的担忧。该项目建立了一个非营利组织来满足证书颁发机构对数字签名的要求。
-此版本还提供了 Perl FunctionList 改进，并解决了多个用户报告的错误，包括双视图监控、快捷方式映射器内存泄漏和 UDL 对话框重绘问题。
-查看有关 AlternativeTo 的文章有关 Notepad++ 的更多信息 | Notepad++ 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/notepad--v8-8-7-release-ensures-authenticity-with-globalsign-signature/</guid>
-      <pubDate>Tue, 21 Oct 2025 08:04:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>GIMP 推出带有 CI 构建和插件支持的官方 Snap 包</title>
-      <link>https://alternativeto.net/news/2025/10/gimp-introduces-official-snap-package-with-ci-builds-and-plugin-support/</link>
-      <description><![CDATA[GIMP 发布了直接从其持续集成系统构建的新官方 Snap 软件包，使 Linux 用户可以更轻松地跨发行版安装和更新应用程序。官方 Snap 包现在支持 gimp-plugins 插件接口，用于安装外部插件，在保持严格限制的同时允许可扩展性。
-用于创建 GIMP Snap 包的构建脚本也可供社区使用。
-查看有关 AlternativeTo 的文章有关 GIMP 的更多信息 | GIMP 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/gimp-introduces-official-snap-package-with-ci-builds-and-plugin-support/</guid>
-      <pubDate>Tue, 21 Oct 2025 07:51:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>浏览器渲染引擎 Servo 在 GitHub 上发布第一个官方 0.0.1 版本</title>
-      <link>https://alternativeto.net/news/2025/10/browser-rendering-engine-servo-launches-first-official-0-0-1-release-on-github/</link>
-      <description><![CDATA[Servo 项目已发布其第一个正式版本，版本 0.0.1，引入了一种新的方法来分发其浏览器渲染引擎。与夜间构建相比，这些首次标记的版本为开发人员提供了专用下载和更可预测的参考。
-标记 v0.0.1，Servo 团队昨天为所有支持的平台发布了更新的 servoshell 二进制文件。虽然这些构建基于最近的夜间新闻，但它们包括额外的手动测试，以在公开分发之前识别问题并提高可靠性。
-在此里程碑的基础上，Servo 团队将遵循每月发布的节奏。每个版本预计都会包含最近的夜间更改，并接受进一步的手动验证以减少回归。这种方法旨在保持分发过程的轻量级，同时提供比标准夜间活动更高的稳定性。
-目前，标记版本将在 GitHub 上独家发布。团队现阶段不打算通过 Crates.io 或特定于平台的应用商店分发这些版本。该渠道确保对 Servo 进展感兴趣的开发人员可以随着开发的继续轻松访问稳定的参考版本。
-查看有关 AlternativeTo 的文章有关伺服的更多信息 | 伺服替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/browser-rendering-engine-servo-launches-first-official-0-0-1-release-on-github/</guid>
-      <pubDate>Tue, 21 Oct 2025 07:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Coherence X 5.1 提高了 Dock 固定 Mac 应用程序的可靠性</title>
-      <link>https://alternativeto.net/news/2025/10/coherence-x-5-1-improves-reliability-for-dock-pinned-mac-apps/</link>
-      <description><![CDATA[Coherence X 5.1 解决了一个关键的可靠性问题，修复了之前在 Mac 重新启动后停止工作的 Dock 固定应用程序。此更新还添加了视觉提示，以引导用户完成创建和编辑工具中的可滚动步骤，并移动“添加选项卡”按钮以提高可发现性。
-更新中包含一些小错误修复和改进。
-查看有关 AlternativeTo 的文章有关 Coherence X 的更多信息 | Coherence X 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/coherence-x-5-1-improves-reliability-for-dock-pinned-mac-apps/</guid>
-      <pubDate>Tue, 21 Oct 2025 07:42:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
