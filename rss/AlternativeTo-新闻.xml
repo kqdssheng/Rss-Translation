@@ -4,7 +4,27 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Thu, 23 Oct 2025 01:26:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 12:43:02 GMT</lastBuildDate>
+    <item>
+      <title>ForkLift 4.4.3 添加了 macOS Tahoe 侧边栏样式、AppMover 功能删除和错误修复</title>
+      <link>https://alternativeto.net/news/2025/10/forklift-4-4-3-adds-macos-tahoe-sidebar-style-appmover-feature-removal-and-bug-fixes/</link>
+      <description><![CDATA[BinaryNights 发布了 ForkLift 版本 4.4.3，它是适用于 macOS 的双窗格文件管理器和文件传输客户端。在此更新中，应用程序为侧边栏引入了新的 macOS Tahoe 选择样式，从而更改了所选项目的文本颜色。当侧边栏图标用颜色标记或用自定义颜色标记为收藏夹时，收藏夹的名称现在会在选择后使用相同的颜色突出显示。
+除了视觉更新之外，ForkLift 4.4.3 还删除了 AppMover 功能。开发团队解释说，当下载为 ZIP 文件时，ForkLift 无法摆脱 macOS 施加的隔离。因此，AppMover 无法在内部测试之外发挥作用，现已停产。
+继 UI 调整之后，此版本还修复了与过渡到 macOS Tahoe 相关的多个问题。值得注意的是，此更新解决了界面中的选项卡重新排序错误，并解决了列视图问题，例如重新启动 ForkLift 后列宽无法正确恢复以及“调整列大小以适合”选项处于活动状态时长文件名的不正确截断。
+查看有关 AlternativeTo 的文章有关叉车的更多信息 | 叉车替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/forklift-4-4-3-adds-macos-tahoe-sidebar-style-appmover-feature-removal-and-bug-fixes/</guid>
+      <pubDate>Thu, 23 Oct 2025 07:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Steam推出新的个人日历工具，用于个性化游戏发布推荐</title>
+      <link>https://alternativeto.net/news/2025/10/steam-launches-a-new-personal-calendar-tool-for-personalized-game-release-recommendations/</link>
+      <description><![CDATA[Valve 推出了个人日历，作为一项新的 Steam 实验室实验，旨在帮助用户发现最近发布的和即将推出的符合他们兴趣的游戏。每个日历都会根据用户的游戏时间模式、愿望清单上的游戏以及与其他用户活动的相似性等因素显示一系列游戏的选择。这种方法可确保游戏推荐反映玩家的主要游戏习惯，而不是一次性游戏。
+用户可以按标签过滤日历、隐藏他们已经拥有的游戏、选择类型以及修改显示的推荐数量（默认情况下最多 100 个）。该日历涵盖八周的滚动期，显示周一至周五的发布日期，与大多数游戏的发布时间一致。
+虽然用户可以通过 Steam 桌面客户端的“特殊部分”或直接在网络上访问该功能，但建议每天都会更新。然而，由于该算法借鉴了稳定、长期的用户行为，因此日常变化将很小。用户心愿单上已有的游戏也会自动包含在内，从而简化了发布跟踪。
+查看有关 AlternativeTo 的文章有关 Steam 的更多信息 | Steam 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/steam-launches-a-new-personal-calendar-tool-for-personalized-game-release-recommendations/</guid>
+      <pubDate>Thu, 23 Oct 2025 05:12:04 GMT</pubDate>
+    </item>
     <item>
       <title>Reddit 起诉 Perplexity 未经授权抓取数据用于训练其人工智能系统</title>
       <link>https://alternativeto.net/news/2025/10/reddit-sues-perplexity-ai-for-unauthorized-data-scraping-used-to-train-its-ai-system/</link>
@@ -21,7 +41,7 @@
       <description><![CDATA[HBO Max 宣布新的订阅价格上涨，对新用户立即生效，对现有用户则在 11 月 20 日之后的下一次续订后至少提前 30 天通知。 带有广告的基本计划现在的费用为每月 10.99 美元，上涨了 1 美元，每年费用为 109.99 美元，上涨了 10 美元。值得注意的是，最近一次价格变化发生在一年多前的 2024 年 6 月，尽管当时只有其无广告计划 受影响。
 标准无广告套餐涨至每月 18.49 美元，上涨了 1.50 美元，而包年套餐现在的价格为 184.99 美元，上涨了 15 美元。 Premium 计划涨幅最大，目前每月 22.99 美元和每年 229.99 美元，分别上涨 2 美元和 20 美元。
 似乎这还不够，HBO Max 还收紧密码共享限制，以限制朋友或家人之间的帐户共享。在此之前，其他主要流媒体公司也采取了类似的行动，例如 Disney+ 或 Apple TV。
-查看有关 AlternativeTo 的文章有关 HBO Max 的更多信息 | HBO Max 替代方案]]></description>
+查看有关 AlternativeTo 的文章有关 HBO Max 的更多信息 | HBO Max 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/10/hbo-max-effectively-raises-subscription-prices-across-all-plans-including-basic-with-ads/</guid>
       <pubDate>Wed, 22 Oct 2025 18:33:10 GMT</pubDate>
     </item>
@@ -31,7 +51,7 @@
       <description><![CDATA[YouTube 正在为其合作伙伴计划中的所有创作者推出相似检测技术。通过此次推出，创作者现在能够识别他们的面部相似度出现在平台上的位置，包括他们的图像已被人工智能更改或生成的情况。此功能可以帮助创作者保护自己的身份，使他们能够找到对其图像的潜在未经授权的使用，并保护观看者免受深度假货的误导。
 当系统发现可能包含创作者脸部的视频时，用户可以查看标记的内容并通过 YouTube 的隐私投诉流程请求删除。相似度检测的设计方式与现有的 Content ID 系统类似，但它不是搜索受版权保护的媒体，而是检查上传的视频中是否有创作者的脸部。
 要使用该技术，创作者必须在设置过程中提供面部参考图像。然后，该工具会扫描新上传的视频以寻找其相似之处，即使视频中存在其他人也是如此。虽然该工具可供选择参与的符合条件的创作者使用，但它无意且不能用于识别未给予同意的人。
-查看有关 AlternativeTo 的文章有关 YouTube 的更多信息 | YouTube 替代品]]></description>
+查看有关 AlternativeTo 的文章有关 YouTube 的更多信息 | YouTube 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/10/youtube-rolls-out-likeness-detection-for-all-partner-program-creators-to-fight-deepfakes/</guid>
       <pubDate>Wed, 22 Oct 2025 14:15:00 GMT</pubDate>
     </item>
@@ -61,7 +81,7 @@
       <link>https://alternativeto.net/news/2025/10/almalinux-os-10-1-launches-btrfs-filesystem-support-for-new-installations/</link>
       <description><![CDATA[AlmaLinux OS 10.1引入了对Btrfs文件系统的支持，允许用户选择 Btrfs 作为安装过程中的分区方案。此更新包括 Btrfs 的内核和用户空间支持，为那些喜欢它而不是默认设置的人简化了部署。
 计划在未来版本中更广泛地支持 AlmaLinux 中的 Btrfs 功能。
-查看有关 AlternativeTo 的文章有关 AlmaLinux 的更多信息 | AlmaLinux 替代品]]></description>
+查看有关 AlternativeTo 的文章有关 AlmaLinux 的更多信息 | AlmaLinux 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/10/almalinux-os-10-1-launches-btrfs-filesystem-support-for-new-installations/</guid>
       <pubDate>Wed, 22 Oct 2025 09:51:59 GMT</pubDate>
     </item>
@@ -81,7 +101,7 @@
 在这些架构升级之后，Next.js 16 纳入了对模型上下文协议 (MCP) 的 Devtools 支持，为开发人员提供了扩展的调试选项和工作流程可见性。升级还延伸到了开发人员体验，为构建和本地开发会话提供了精细的日志记录。
 虽然主要功能是此版本的基础，但更新将网络边界管理从中间件转移到新的 proxy.ts 方法，使项目结构中的边界更加清晰。增强型路由集成了布局重复数据删除和增量预取，从而实现更快、更高效的站点导航。
 在技术方面，内置的React编译器集成可实现自动记忆，并支持React 19.2 带来了与视图转换和 useEffectEvent() 的兼容性。多项 API 改进包括构建适配器 API（目前处于 Alpha 版）、缓存 API 中的新 updateTag() 以及一些重大更改，例如更新的异步参数行为和 next/image 默认值。
-查看有关 AlternativeTo 的文章有关 Next.js 的更多信息 | Next.js 替代品]]></description>
+查看有关 AlternativeTo 的文章有关 Next.js 的更多信息 | Next.js 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/10/next-js-16-launches-with-turbopack-new-caching-model-react-19-2-and-devtools-upgrades/</guid>
       <pubDate>Wed, 22 Oct 2025 09:30:00 GMT</pubDate>
     </item>
@@ -95,7 +115,7 @@
       <pubDate>Wed, 22 Oct 2025 09:15:57 GMT</pubDate>
     </item>
     <item>
-      <title>SuperTuxKart 1.5 带来了寻蛋、新足球场、重大图形升级等</title>
+      <title>SuperTuxKart 1.5 带来了寻蛋、新足球场、主要图形升级等</title>
       <link>https://alternativeto.net/news/2025/10/supertuxkart-1-5-brings-egg-hunts-new-soccer-fields-major-graphics-upgrades-and-more/</link>
       <description><![CDATA[SuperTuxKart 1.5 为寻求多样性和增强视觉效果的玩家提供了广泛的更新。用户现在可以将赛道和卡丁车标记为最爱，从而简化选择并改善他们的跨会话体验。根据用户请求，游戏窗口现在几乎可以在任何屏幕上调整大小，同时改进的选择显示减少了选择卡丁车、赛道或模式时的滚动。
 继这些可用性改进之后，更新添加了新的游戏内容：在黑森林、大帕拉迪西奥岛和老矿井赛道上进行寻蛋活动，足球模式则包含三个新的官方场地：绿洲、Hole Drop和XR-4R3N4。此外，自 1.4 版以来，六个新主题使可用的 UI 皮肤增加了一倍。
@@ -131,27 +151,6 @@ Lovable 通过此流程推出了自己的商品商店，展示了新的集成。
 查看有关 AlternativeTo 的文章有关 Inoreader 的更多信息 | Inoreader 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/10/inoreader-adds-new-rule-triggers-and-actions-including-translations-and-summaries/</guid>
       <pubDate>Wed, 22 Oct 2025 07:27:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Clonezilla Live 3.3 已发布，带有 Linux 6.16 内核、Alias 设备和 eMMC 支持</title>
-      <link>https://alternativeto.net/news/2025/10/clonezilla-live-3-3-has-been-released-with-linux-6-16-kernel-alias-devices-and-emmc-support/</link>
-      <description><![CDATA[Clonezilla Live 3.3.0-33 现已推出，基于Linux 6.16 内核 改进了磁盘和分区克隆的硬件兼容性和性能。此更新通过添加在专家模式下克隆内存技术设备块和 eMMC 启动设备的功能来扩展存储支持。
-新工具 ocs-blkdev-sorter 允许 udev 在 /dev/ocs-disks/ 创建别名块设备，以便于选择，而 ocs-sr 和 ocs-live-feed-img 现在允许使用新的 -uoab 选项在文本模式界面中选择这些别名。该版本还包括用于系统时间同步的 ocs-live-time-sync、用于“再次运行”脚本的 ocs-cmd-screen-sample 以及用于以 JSON 格式输出块设备数据的 ocs-blk-dev-info。通过添加 atd 和 cron，后台任务管理得到改进，控制台字体大小现在可以根据终端尺寸自动调整。
-其他更改包括检查 LVM 精简配置、包含用于网络的 dhcpcd-base 以及用于嵌入式工作流程的新 ocs-live-gen-ubrd 工具。 Clonezilla Live 3.3.0-33 现已通过 SourceForge 提供下载，完整详细信息请参见官方公告。
-查看有关 AlternativeTo 的文章有关 Clonezilla 的更多信息 | Clonezilla 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/clonezilla-live-3-3-has-been-released-with-linux-6-16-kernel-alias-devices-and-emmc-support/</guid>
-      <pubDate>Tue, 21 Oct 2025 21:06:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 推出 ChatGPT Atlas，这是自己的 Web 浏览器，在 macOS 上深度集成 AI</title>
-      <link>https://alternativeto.net/news/2025/10/openai-launches-chatgpt-atlas-its-own-web-browser-with-deep-ai-integration-on-macos/</link>
-      <description><![CDATA[OpenAI终于扣动了扳机，正式推出了自己的人工智能驱动的全浏览器ChatGPT Atlas，旨在与Google Chrome 或 Microsoft Edge 通过嵌入 ChatGPT 的整个浏览体验中的对话智能和人工智能代理。 Atlas 现已可供全球 macOS 用户免费下载，Windows、iOS 和 Android 版本也即将推出。虽然所有用户都可以访问核心功能，但高级代理模式目前仅限于 ChatGPT Plus、Pro 和 Business 订阅者。
-Atlas 保留了传统浏览器的熟悉布局，包括选项卡、书签、隐身模式和其他预期功能，但其主要吸引力在于与 ChatGPT 的深度集成，允许用户总结页面、细化文本、与搜索结果聊天，并通过侧边栏或分屏视图直接与网站交互，从而使 ChatGPT 伴侣始终可见。新的“光标聊天”工具还在任何文本字段中提供内联书写帮助，而内存支持使浏览器能够调用会话之间的相关详细信息，用户可以通过设置来管理或禁用这些详细信息。
-Plus 和 Pro 用户还可以与内置的 ChatGPT Agent 交互，在代理模式下执行基于浏览器的小型自动化任务，例如预订或编辑文档。该公司表示，该模式在安全、有限的环境中运行，这意味着它无法运行代码、下载文件、安装扩展或访问本地文件或保存的密码，并且在代理模式下访问的网站将从浏览历史记录中排除。
-随着 Atlas 的推出，OpenAI 不仅要挑战 Google 的主导地位，还要挑战日益壮大的 AI 驱动浏览器浪潮，例如 Perplexity Comet、浏览器公司的 Dia 或 Opera Neon，邀请用户临时试用 7 天 对于那些将其设置为 macOS 上默认浏览器的用户，ChatGPT 速率限制会有所提升。
-查看有关 AlternativeTo 的文章有关 ChatGPT Atlas 的更多信息 | ChatGPT Atlas 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/openai-launches-chatgpt-atlas-its-own-web-browser-with-deep-ai-integration-on-macos/</guid>
-      <pubDate>Tue, 21 Oct 2025 19:57:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
