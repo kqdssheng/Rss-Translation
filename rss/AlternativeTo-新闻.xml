@@ -4,7 +4,96 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Thu, 23 Oct 2025 12:43:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 01:21:45 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Edge 扩展了 Copilot 与操作、旅程和浏览器历史记录访​​问的集成</title>
+      <link>https://alternativeto.net/news/2025/10/microsoft-edge-expands-copilot-integration-with-actions-journeys-and-browser-history-access/</link>
+      <description><![CDATA[关注有关 Windows 新 AI Companion 和其他Microsoft Copilot 更新了 Windows 11，该公司还在 Microsoft Edge 新的副驾驶模式通过添加专注于自动化 href=&quot;https://alternativeto.net/news/2024/11/microsoft-introduces-copilot-actions-for-ai-automated-tasks-in-microsoft-365/&quot;&gt;副驾驶操作，允许用户执行多步骤任务，例如取消订阅新闻通讯或直接在 浏览器。
+新增了Copilot Journeys功能，让用户无需依赖书签即可保存并返回正在进行的研究项目。它可以总结以前阅读的文章，建议后续步骤，并带回相关资源，帮助用户继续项目，而无需再次搜索他们以前访问过的选项卡或网站。
+此外，用户现在可以选择授予 Copilot 访问其浏览历史记录的权限，从而实现更多上下文交互，例如讨论以前查看过的产品或根据过去的活动推荐电影。当 Copilot 处于活动状态时，Edge 会显示清晰的视觉指示器，并且 Microsoft 声明所有数据均根据其隐私政策进行管理。
+更新后的副驾驶模式目前在美国免费提供有限预览。
+查看有关 AlternativeTo 的文章有关 Microsoft Edge 的更多信息 | Microsoft Edge 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/microsoft-edge-expands-copilot-integration-with-actions-journeys-and-browser-history-access/</guid>
+      <pubDate>Fri, 24 Oct 2025 00:28:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软在 Windows 上推出 Mico，这是一款由 Copilot 提供支持的新型 Clippy 人工智能伴侣</title>
+      <link>https://alternativeto.net/news/2025/10/microsoft-introduces-mico-on-windows-a-new-clippy-like-ai-companion-powered-by-copilot/</link>
+      <description><![CDATA[就在一周后，微软宣布了几项新的Copilot 集成在 Windows 11 中，包括 AI Agent 功能和新的唤醒词，该公司现已正式推出 Mico，其全新的动画人工智能助手，专为自然语音交互而设计。
+Mico 显然受到了早已消失的 Clippy 的启发，扮演了一个“有情感意识”的角色。通过面部表情和颜色变化对语气做出反应的伴侣，正如之前在新的副驾驶头像中介绍的那样。该功能将首先在美国推出，并将使用 Copilot 升级后的内存来回忆用户偏好和上下文，以及新的以教育为导向的 Learn Live 模式，通过苏格拉底式问题和视觉工具引导学生理解概念。
+更新还引入了Copilot Groups，允许最多 32 名参与者在共享聊天会话中进行协作，同时连接器扩展了与 Microsoft OneDrive、Outlook.com、Google 云端硬盘和Google 日历。增强的记忆功能让 Copilot 能够保留有关用户工作和偏好的关键详细信息，为新的主动操作预览提供支持，该预览可根据最近的活动建议后续步骤。 Copilot for Health 现在使用可信的医疗来源来回答与健康相关的问题并帮助用户找到附近的专家。
+此外，Microsoft Edge 中的 Copilot 可以恢复之前的会话，根据浏览历史记录提供上下文感知答案，并处理打开页面或管理电子邮件等操作。这些更新已在美国上线，并将在未来几周内扩展到英国、加拿大和其他地区。
+查看有关 AlternativeTo 的文章有关 Microsoft Copilot 的更多信息 | Microsoft Copilot 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/microsoft-introduces-mico-on-windows-a-new-clippy-like-ai-companion-powered-by-copilot/</guid>
+      <pubDate>Thu, 23 Oct 2025 19:57:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌地球增加了新的人工智能聊天并改进了灾难预测的地理空间推理</title>
+      <link>https://alternativeto.net/news/2025/10/google-earth-adds-new-ai-chat-and-improved-geospatial-reasoning-for-disasters-prediction/</link>
+      <description><![CDATA[Google 地球正在推出新的 AI 聊天功能，让用户可以直接查询其模型以进行数据驱动的地理空间分析。该更新基于 2024 年推出的基于聊天的界面构建，允许自然语言提问，例如特定区域的“查找藻华”或“分析洪水风险”。
+该系统通过 Google 的 Gemini 框架集成了多个 AI 模型，结合天气、人口和卫星数据来实现 Google 所谓的“地理空间推理”。这使得人工智能能够将风暴或干旱等事件与其潜在的人类和环境影响联系起来，估计哪些地区可能发生洪水、有多少人可能受到影响，以及哪些基础设施可能首先出现故障。
+这些功能目前可供值得信赖的测试人员以及美国的 Gemini Pro 和 Ultra 用户使用，很快将扩展到更多专业帐户。 GiveDirectly 等组织已经在使用 Earth AI 来定位灾难后最需要帮助的家庭，而 Google 表示，随着推出的继续，它计划扩大对这些工具的访问范围。
+查看有关 AlternativeTo 的文章有关 Google 地球的更多信息 | Google 地球替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/google-earth-adds-new-ai-chat-and-improved-geospatial-reasoning-for-disasters-prediction/</guid>
+      <pubDate>Thu, 23 Oct 2025 18:24:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>PyTorch 推出 Monarch，一个可扩展且容错的分布式编程框架</title>
+      <link>https://alternativeto.net/news/2025/10/pytorch-unveils-monarch-a-scalable-and-fault-tolerant-distributed-programming-framework/</link>
+      <description><![CDATA[PyTorch 推出了 Monarch，这是一个分布式编程框架，旨在简化集群级机器 学习发展。 Monarch 基于可扩展的 Actor 消息传递，让 Python 程序员像在单台机器上工作一样编写分布式系统代码。这种方法旨在通过降低通常涉及的复杂性，使分布式计算可供更广泛的开发人员使用。
+在此基础上，Monarch 结合了基于 Python 的前端，可与现有代码（包括 PyTorch）无缝集成，以及基于 Rust 的后端，支持高性能和系统稳健性。该框架将分布式程序组织成进程、参与者和主机的多维网格。通过简单的 API，用户可以直接对这些网格或其切片进行操作，而 Monarch 会自动管理分布和矢量化。
+Monarch 采用“快速失败”方法，在出现第一个错误时停止所有操作，但允许高级用户根据需要添加细粒度的故障恢复。在分布式环境中，Monarch 分离控制平面和数据平面消息传递。这种分离可以实现 GPU 到 GPU 内存的直接传输以及分片张量的管理，从而使本地张量运算能够在大型 GPU 集群上透明地运行。尽管目前处于实验阶段，Monarch 代表了 PyTorch 生态系统中可扩展分布式编程的新方向。
+查看有关 AlternativeTo 的文章有关 PyTorch Monarch 的更多信息 | PyTorch Monarch 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/pytorch-unveils-monarch-a-scalable-and-fault-tolerant-distributed-programming-framework/</guid>
+      <pubDate>Thu, 23 Oct 2025 15:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Opera Neon 添加了 Google Veo 3.1 视频生成功能</title>
+      <link>https://alternativeto.net/news/2025/10/opera-neon-adds-google-veo-3-1-video-generation/</link>
+      <description><![CDATA[Opera Neon 现在为所有 Founders 计划用户支持 Google 的 Veo 3.1 视频生成模型。此更新带来了更丰富的音频、对多个参考图像的支持以及对视频输出的改进控制。
+用户可以通过在 Neon Make 的视频生成提示中包含“使用 Veo”或“使用 Google”来访问新模型。
+查看有关 AlternativeTo 的文章有关 Opera Neon 的更多信息 | Opera Neon 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/opera-neon-adds-google-veo-3-1-video-generation/</guid>
+      <pubDate>Thu, 23 Oct 2025 15:21:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>X 测试新的 iOS 链接设计，以实现更轻松的后期交互</title>
+      <link>https://alternativeto.net/news/2025/10/x-tests-new-ios-link-design-for-easier-post-interactions/</link>
+      <description><![CDATA[X.com 正在 iOS 上测试新的链接体验，让用户在查看链接时与帖子互动。帖子现在将折叠到页面底部，无需离开网络浏览器即可更轻松地点赞或回复。此次更新的目标是提高包含链接的帖子的参与度。
+查看有关 AlternativeTo 的文章有关 X 的更多信息 | X 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/x-tests-new-ios-link-design-for-easier-post-interactions/</guid>
+      <pubDate>Thu, 23 Oct 2025 14:54:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Desktop 现已正式推出，并提供适用于 Mac 的新屏幕截图功能</title>
+      <link>https://alternativeto.net/news/2025/10/claude-desktop-is-now-generally-available-with-new-screenshot-feature-for-mac/</link>
+      <description><![CDATA[Claude Desktop 现在可在 Mac 和 Windows 上下载，并可直接从 Dock 进行持久访问。该应用程序设计为在后台运行，在需要时保持可用，而不会中断工作流程。
+Mac 用户还获得了用于捕获屏幕截图、共享窗口上下文以及通过按 Caps Lock 启动语音输入的新工具。
+查看有关 AlternativeTo 的文章有关克劳德的更多信息 | 克劳德替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/claude-desktop-is-now-generally-available-with-new-screenshot-feature-for-mac/</guid>
+      <pubDate>Thu, 23 Oct 2025 14:44:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ghost 引入一次性代码以实现灵活的会员登录</title>
+      <link>https://alternativeto.net/news/2025/10/ghost-introduces-one-time-codes-for-flexible-member-sign-in/</link>
+      <description><![CDATA[Ghost 推出了一次性代码作为会员的一种新登录选项，补充了其现有的 Magic Link 系统。现在，会员在登录时会收到一个神奇链接和一次性代码，以便他们选择最适合自己需求的方法。
+此功能还可以在自定义登录表单上使用，并且 Ghost(Pro) 用户可以立即使用，并且自托管网站需要更新。
+查看有关 AlternativeTo 的文章有关 Ghost 的更多信息 | Ghost 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/ghost-introduces-one-time-codes-for-flexible-member-sign-in/</guid>
+      <pubDate>Thu, 23 Oct 2025 14:37:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vitest 4.0 添加了浏览器模式、视觉回归测试和 Playwright Traces 支持</title>
+      <link>https://alternativeto.net/news/2025/10/vitest-4-0-adds-browser-mode-visual-regression-testing-and-playwright-traces-support/</link>
+      <description><![CDATA[Vitest 4.0 是对 Vite 原生测试框架的重大更新，引入了对浏览器模式和 几个显着的增强。删除实验标签后，团队现在可以将浏览器模式集成到生产工作流程中，尽管对公共 API 的某些更改可能需要代码调整。
+在这些更新的基础上，该版本添加了浏览器模式的视觉回归测试。此功能使开发人员能够捕获 UI 屏幕截图并将其与参考图像进行比较，从而帮助检测组件和页面中意外的视觉变化。
+此外，Vitest 4 现在提供 Playwright 跟踪生成功能，跟踪可在测试报告器中作为注释使用。使用 Playwright 的用户还可以从新的 page.frameLocator API 中受益，它可以更轻松地查找 iframe 内的元素并与之交互。 Visual Studio Code 扩展获得了用于浏览器测试的“调试测试”按钮，从而直接从代码编辑器简化了调试。
+使用 test.extend 和生命周期挂钩（例如 beforeEach 和 afterEach）的开发人员现在可以直接在返回的测试对象上引用这些挂钩。另一个功能 expect.schemaMatching 允许断言根据标准架构 v1 对象验证值。
+其他更改包括为了方便起见，在 expect 上公开 Chai 的 assert 方法，删除基本报告器以支持使用 summary: false 的默认报告器，以及提供几个新的高级公共 API 方法以及一些重大更改。
+查看有关 AlternativeTo 的文章有关 Vitest 的更多信息 | Vitest 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/vitest-4-0-adds-browser-mode-visual-regression-testing-and-playwright-traces-support/</guid>
+      <pubDate>Thu, 23 Oct 2025 14:15:00 GMT</pubDate>
+    </item>
     <item>
       <title>ForkLift 4.4.3 添加了 macOS Tahoe 侧边栏样式、AppMover 功能删除和错误修复</title>
       <link>https://alternativeto.net/news/2025/10/forklift-4-4-3-adds-macos-tahoe-sidebar-style-appmover-feature-removal-and-bug-fixes/</link>
@@ -51,7 +140,7 @@
       <description><![CDATA[YouTube 正在为其合作伙伴计划中的所有创作者推出相似检测技术。通过此次推出，创作者现在能够识别他们的面部相似度出现在平台上的位置，包括他们的图像已被人工智能更改或生成的情况。此功能可以帮助创作者保护自己的身份，使他们能够找到对其图像的潜在未经授权的使用，并保护观看者免受深度假货的误导。
 当系统发现可能包含创作者脸部的视频时，用户可以查看标记的内容并通过 YouTube 的隐私投诉流程请求删除。相似度检测的设计方式与现有的 Content ID 系统类似，但它不是搜索受版权保护的媒体，而是检查上传的视频中是否有创作者的脸部。
 要使用该技术，创作者必须在设置过程中提供面部参考图像。然后，该工具会扫描新上传的视频以寻找其相似之处，即使视频中存在其他人也是如此。虽然该工具可供选择参与的符合条件的创作者使用，但它无意且不能用于识别未给予同意的人。
-查看有关 AlternativeTo 的文章有关 YouTube 的更多信息 | YouTube 替代方案]]></description>
+查看有关 AlternativeTo 的文章有关 YouTube 的更多信息 | YouTube 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/10/youtube-rolls-out-likeness-detection-for-all-partner-program-creators-to-fight-deepfakes/</guid>
       <pubDate>Wed, 22 Oct 2025 14:15:00 GMT</pubDate>
     </item>
@@ -64,93 +153,6 @@
 查看有关 AlternativeTo 的文章有关 Ruby on Rails 的更多信息 | Ruby on Rails 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/10/ruby-on-rails-8-1-brings-active-job-continuations-structured-event-reporting-and-local-ci/</guid>
       <pubDate>Wed, 22 Oct 2025 12:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenBSD 7.8 添加了 Raspberry Pi 5 支持、多 CPU 上的并行 TCP 堆栈和 AMD SEV-ES</title>
-      <link>https://alternativeto.net/news/2025/10/openbsd-7-8-adds-raspberry-pi-5-support-parallel-tcp-stack-on-multiple-cpus-and-amd-sev-es/</link>
-      <description><![CDATA[Theo de Raadt 宣布发布 OpenBSD 7.8，进一步提升了该操作系统在安全性和硬件支持方面的声誉。 TCP 堆栈现在可在多达 8 个 CPU 内核上并行处理流量，从而增强多核系统的网络性能。除此之外，最多使用 8 个 Softnet 线程来处理网络输入，其限制由 CPU 数量设置。
-谈到硬件支持，ARM64 用户通过串行控制台获得对 Raspberry Pi 5 的支持，以及 ACPICPU 的实现。 AMD64 用户受益于改进的 GPIO 事件处理，包括修复使用 AMD CPU 的 ThinkPad 电源按钮。在 AMD 处理器上，现在支持具有加密状态的安全加密虚拟化 (SEV-ES)，从而能够启动机密虚拟机。直接渲染管理器已更新至 Linux 6.12.50，支持较新的显卡。
-多项改进侧重于笔记本电脑和新架构的可靠性和性能。休眠区域现在在启动期间预先分配，解决了分配失败问题，并且现在通过 GPIO 实现了盖子挂起/恢复功能。 ARM64 和 RISC-V64 系统受益于避免具有重复内存映射的单页上出现过多线程错误的机制。 Snapdragon X Elite 机器现在具有工作 APM 和 CPU 速度报告。对于Apple硬件，当exuart检测到BREAK时可以进入DDB调试器。
-与往常一样，OpenBSD 7.8 还包括各种内核改进、更好的挂起/休眠支持、多项 SMP 增强、更新的 DRM 和图形驱动程序、VMM/VMD 改进、各种新的用户区功能、增强的硬件支持和驱动程序错误修复、安全修复等等。
-查看有关 AlternativeTo 的文章有关 OpenBSD 的更多信息 | OpenBSD 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/openbsd-7-8-adds-raspberry-pi-5-support-parallel-tcp-stack-on-multiple-cpus-and-amd-sev-es/</guid>
-      <pubDate>Wed, 22 Oct 2025 11:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AlmaLinux OS 10.1为新安装启动Btrfs文件系统支持</title>
-      <link>https://alternativeto.net/news/2025/10/almalinux-os-10-1-launches-btrfs-filesystem-support-for-new-installations/</link>
-      <description><![CDATA[AlmaLinux OS 10.1引入了对Btrfs文件系统的支持，允许用户选择 Btrfs 作为安装过程中的分区方案。此更新包括 Btrfs 的内核和用户空间支持，为那些喜欢它而不是默认设置的人简化了部署。
-计划在未来版本中更广泛地支持 AlmaLinux 中的 Btrfs 功能。
-查看有关 AlternativeTo 的文章有关 AlmaLinux 的更多信息 | AlmaLinux 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/almalinux-os-10-1-launches-btrfs-filesystem-support-for-new-installations/</guid>
-      <pubDate>Wed, 22 Oct 2025 09:51:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ultramarine Linux 42：WSL 和 Terra 43 包管理器增强的 GPU 提升</title>
-      <link>https://alternativeto.net/news/2025/10/ultramarine-linux-42-gpu-boost-for-wsl-and-terra-43-package-manager-enhancements/</link>
-      <description><![CDATA[Ultramarine Linux 42 现在为 Linux 的 Windows 子系统提供硬件加速，支持 Windows 内的应用程序使用 GPU。 Taidan 欢迎应用程序得到了增强，提供了更精致的开箱即用体验。
-此外，Terra 43（Ultramarine 更新的软件包管理器）首次亮相，提高了软件包构建速度、ARM 运行器、更小的构建器容器，并结束了 Repology 合作。
-查看有关 AlternativeTo 的文章有关 Ultramarine Linux 的更多信息 | Ultramarine Linux 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/ultramarine-linux-42-gpu-boost-for-wsl-and-terra-43-package-manager-enhancements/</guid>
-      <pubDate>Wed, 22 Oct 2025 09:45:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Next.js 16 发布，包含 Turbopack、新的缓存模型、React 19.2 和 Devtools 升级</title>
-      <link>https://alternativeto.net/news/2025/10/next-js-16-launches-with-turbopack-new-caching-model-react-19-2-and-devtools-upgrades/</link>
-      <description><![CDATA[React Web 框架 Next.js 16 首次推出新的缓存组件模型，该模型使用部分预渲染和客户端缓存，可加快跨应用程序的页面导航速度。 Turbopack 作为稳定的默认捆绑程序退出 Beta 版，其快速刷新速度提高了 5 到 10 倍，构建速度提高了 5 倍。除此之外，Turbopack 在测试版中引入了文件系统缓存，缩短了大型项目的启动和编译时间。
-在这些架构升级之后，Next.js 16 纳入了对模型上下文协议 (MCP) 的 Devtools 支持，为开发人员提供了扩展的调试选项和工作流程可见性。升级还延伸到了开发人员体验，为构建和本地开发会话提供了精细的日志记录。
-虽然主要功能是此版本的基础，但更新将网络边界管理从中间件转移到新的 proxy.ts 方法，使项目结构中的边界更加清晰。增强型路由集成了布局重复数据删除和增量预取，从而实现更快、更高效的站点导航。
-在技术方面，内置的React编译器集成可实现自动记忆，并支持React 19.2 带来了与视图转换和 useEffectEvent() 的兼容性。多项 API 改进包括构建适配器 API（目前处于 Alpha 版）、缓存 API 中的新 updateTag() 以及一些重大更改，例如更新的异步参数行为和 next/image 默认值。
-查看有关 AlternativeTo 的文章有关 Next.js 的更多信息 | Next.js 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/next-js-16-launches-with-turbopack-new-caching-model-react-19-2-and-devtools-upgrades/</guid>
-      <pubDate>Wed, 22 Oct 2025 09:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Valkey 9.0 带来原子槽迁移、每字段哈希过期和集群数据库</title>
-      <link>https://alternativeto.net/news/2025/10/valkey-9-0-brings-atomic-slot-migration-per-field-hash-expiry-and-cluster-databases/</link>
-      <description><![CDATA[Valkey 9.0 引入了原子槽迁移，允许整个槽在节点之间原子移动，并减少以前由键逐键迁移引起的性能问题。该版本还通过新命令带来了每个字段哈希过期的功能，从而实现了更精细的数据管理。
-集群模式现已完全支持编号数据库，提高了数据分离和集群可扩展性。
-查看有关 AlternativeTo 的文章有关 Valkey 的更多信息 | Valkey 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/valkey-9-0-brings-atomic-slot-migration-per-field-hash-expiry-and-cluster-databases/</guid>
-      <pubDate>Wed, 22 Oct 2025 09:15:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>SuperTuxKart 1.5 带来了寻蛋、新足球场、主要图形升级等</title>
-      <link>https://alternativeto.net/news/2025/10/supertuxkart-1-5-brings-egg-hunts-new-soccer-fields-major-graphics-upgrades-and-more/</link>
-      <description><![CDATA[SuperTuxKart 1.5 为寻求多样性和增强视觉效果的玩家提供了广泛的更新。用户现在可以将赛道和卡丁车标记为最爱，从而简化选择并改善他们的跨会话体验。根据用户请求，游戏窗口现在几乎可以在任何屏幕上调整大小，同时改进的选择显示减少了选择卡丁车、赛道或模式时的滚动。
-继这些可用性改进之后，更新添加了新的游戏内容：在黑森林、大帕拉迪西奥岛和老矿井赛道上进行寻蛋活动，足球模式则包含三个新的官方场地：绿洲、Hole Drop和XR-4R3N4。此外，自 1.4 版以来，六个新主题使可用的 UI 皮肤增加了一倍。
-在图形方面，玩家会注意到得益于高级细节和阴影映射逻辑的世界增强和整体视觉效果。高分辨率阴影选项和百分比接近的软阴影减少了分散注意力的视觉弹出。 降落伞和泡泡糖赛道更新了生成动画，夜间赛道引入了卡丁车的聚光灯效果。游戏性能设置现在包括可自定义的帧限制器，范围为每秒 30 到 1000 帧，以及用于比较硬件性能的新基准模式。
-其他更新涵盖了更广泛的辅助功能：菲律宾语、鲁森语和威尔士语的完整翻译、改进的音频处理以及一些小修复，例如更好的宽高比支持、限时模式警告和改进的键盘导航。
-查看有关 AlternativeTo 的文章有关 SuperTuxKart 的更多信息 | SuperTuxKart 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/supertuxkart-1-5-brings-egg-hunts-new-soccer-fields-major-graphics-upgrades-and-more/</guid>
-      <pubDate>Wed, 22 Oct 2025 07:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DuckDuckGo 推出适用于 Windows 和 Mac 浏览器的免费个人信息删除扫描</title>
-      <link>https://alternativeto.net/news/2025/10/duckduckgo-launches-free-personal-info-removal-scans-for-windows-and-mac-browsers/</link>
-      <description><![CDATA[DuckDuckGo 已为其 Windows 和 Mac 推出免费的个人信息删除扫描 浏览器，为桌面用户扩展隐私工具，可以快速检查有多少网站保存了他们的个人数据。
-该功能现已推出，无需订阅。
-查看有关 AlternativeTo 的文章有关 DuckDuckGo 隐私浏览器的更多信息 | DuckDuckGo 隐私浏览器替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/duckduckgo-launches-free-personal-info-removal-scans-for-windows-and-mac-browsers/</guid>
-      <pubDate>Wed, 22 Oct 2025 07:49:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lovable 推出 Shopify 集成，用于人工智能驱动的商店创建</title>
-      <link>https://alternativeto.net/news/2025/10/lovable-launches-shopify-integration-for-ai-driven-store-creation/</link>
-      <description><![CDATA[Lovable 发布了 Shopify 集成，让用户可以通过与 AI 聊天来构建完整的在线商店。工作流程包括商店设置、添加产品、上传图像和生成产品描述。
-Lovable 通过此流程推出了自己的商品商店，展示了新的集成。
-查看有关 AlternativeTo 的文章有关 Lovable 的更多信息 | Lovable 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/lovable-launches-shopify-integration-for-ai-driven-store-creation/</guid>
-      <pubDate>Wed, 22 Oct 2025 07:34:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Inoreader 添加了新的规则触发器和操作，包括翻译和摘要</title>
-      <link>https://alternativeto.net/news/2025/10/inoreader-adds-new-rule-triggers-and-actions-including-translations-and-summaries/</link>
-      <description><![CDATA[Inoreader 通过两个新触发器扩展了其自动化规则 - 从情报报告和文件上传启动规则。添加了四个新操作：自动文章摘要、每日限制的内容翻译、注释附件以及直接保存到 Raindrop.io。
-这些功能现已在 iOS 和 Android 应用程序上为 Pro 计划用户提供 7.9.6 或更高版本。
-查看有关 AlternativeTo 的文章有关 Inoreader 的更多信息 | Inoreader 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/inoreader-adds-new-rule-triggers-and-actions-including-translations-and-summaries/</guid>
-      <pubDate>Wed, 22 Oct 2025 07:27:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
