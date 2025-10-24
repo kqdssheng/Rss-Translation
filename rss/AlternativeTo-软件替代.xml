@@ -4,48 +4,48 @@
     <title>新版本 – AlternativeTo.net</title>
     <link>https://alternativeto.net/releases/all</link>
     <description>最新软件添加到 AlternativeTo</description>
-    <lastBuildDate>Fri, 24 Oct 2025 01:21:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 12:41:02 GMT</lastBuildDate>
+    <item>
+      <title>计时框架</title>
+      <link>https://alternativeto.net/software/chronoframe/about/</link>
+      <description><![CDATA[自托管个人图库应用程序，具有在线照片管理和相册，支持实时/动态照片、EXIF 解析、地理位置识别和探索地图。在 AlternativeTo 上查看Chronoframe 替代方案]]></description>
+      <guid>https://alternativeto.net/software/chronoframe/about/</guid>
+      <pubDate>Fri, 24 Oct 2025 12:40:21 GMT</pubDate>
+    </item>
     <item>
       <title>斯塔什德.ai</title>
       <link>https://alternativeto.net/software/stashd-ai/about/</link>
       <description><![CDATA[通过人工智能驱动的生成、高级搜索、多片段支持、实时同步、丰富的元数据和基于链接的共享来组织代码片段。在 AlternativeTo 上查看stashd.ai 替代方案]]></description>
       <guid>https://alternativeto.net/software/stashd-ai/about/</guid>
-      <pubDate>Fri, 24 Oct 2025 01:20:16 GMT</pubDate>
+      <pubDate>Fri, 24 Oct 2025 12:40:21 GMT</pubDate>
     </item>
     <item>
       <title>不为人知的小说</title>
       <link>https://alternativeto.net/software/untold-novel/about/</link>
       <description><![CDATA[不为人知的小说是规划下一本畅销书的全新方法。它可以帮助您将所有笔记、想法、人物、地点等内容整理在一个方便的地方。在 AlternativeTo 上查看不为人知的新颖替代品]]></description>
       <guid>https://alternativeto.net/software/untold-novel/about/</guid>
-      <pubDate>Fri, 24 Oct 2025 01:20:16 GMT</pubDate>
+      <pubDate>Fri, 24 Oct 2025 12:40:21 GMT</pubDate>
     </item>
     <item>
       <title>缰绳</title>
       <link>https://alternativeto.net/software/reins/about/</link>
       <description><![CDATA[使 LLM 研究人员和爱好者能够无缝控制自托管模型。远程连接、自定义提示、管理聊天和微调配置。一切尽在一个直观的应用程序中。在 AlternativeTo 上查看Reins 替代方案]]></description>
       <guid>https://alternativeto.net/software/reins/about/</guid>
-      <pubDate>Fri, 24 Oct 2025 01:20:16 GMT</pubDate>
+      <pubDate>Fri, 24 Oct 2025 12:40:21 GMT</pubDate>
     </item>
     <item>
       <title>乔蒂·佩奇</title>
       <link>https://alternativeto.net/software/jotty-page/about/</link>
       <description><![CDATA[用于本地清单和笔记的自托管应用程序，具有所见即所得编辑、拖放重新排序、看板、进度条、Markdown 和共享功能。在 AlternativeTo 上查看 »jotty·page 替代方案]]></description>
       <guid>https://alternativeto.net/software/jotty-page/about/</guid>
-      <pubDate>Fri, 24 Oct 2025 01:20:16 GMT</pubDate>
+      <pubDate>Fri, 24 Oct 2025 12:40:21 GMT</pubDate>
     </item>
     <item>
       <title>ChatGPT Atlas</title>
       <link>https://alternativeto.net/software/chatgpt-atlas/about/</link>
       <description><![CDATA[网络浏览器集成了对话式 AI，可实现即时响应、侧边栏摘要、代理交互、隐私控制、协作工具和多内容搜索。在 AlternativeTo 上查看 »ChatGPT Atlas 替代方案]]></description>
       <guid>https://alternativeto.net/software/chatgpt-atlas/about/</guid>
-      <pubDate>Fri, 24 Oct 2025 01:20:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>卡塔尔人</title>
-      <link>https://alternativeto.net/software/katari/about/</link>
-      <description><![CDATA[离线 Mac 应用程序提供超过 100 种语言的实时私人语音转文本转录功能，可进行本地处理、完整功能解锁且无需订阅费用。在 AlternativeTo 上查看Katari 替代品]]></description>
-      <guid>https://alternativeto.net/software/katari/about/</guid>
-      <pubDate>Fri, 24 Oct 2025 01:20:16 GMT</pubDate>
+      <pubDate>Fri, 24 Oct 2025 12:40:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
