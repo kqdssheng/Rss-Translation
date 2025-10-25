@@ -4,7 +4,85 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Fri, 24 Oct 2025 12:41:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 01:22:43 GMT</lastBuildDate>
+    <item>
+      <title>Sketch 推出新测试版，重新设计的 UI、重建的检查器和改进的图层管理</title>
+      <link>https://alternativeto.net/news/2025/10/sketch-launches-new-beta-with-redesigned-ui-rebuilt-inspector-and-improved-layer-management/</link>
+      <description><![CDATA[Sketch 推出了即将推出的“哥本哈根”大更新的测试版，引入了针对 macOS Tahoe 的重大重新设计和重大界面更改。新界面引入了 600 多个重新绘制的图标、刷新的上下文工具栏以及与 Apple 一致的微妙的Liquid Glass 效果 最新的设计语言。
+更新还带来了重建的检查器，带有可移动面板、精致的滑块和输入，以及专用的原型面板，以实现更好的工作流程。图层列表添加了焦点模式，仅突出显示选定的图层、同级图层和父容器，使复杂文件更易于组织。当内容超过容器大小时，堆栈布局现在可以自动换行，新的背景删除工具使用 Apple 的设备上机器学习来直接隔离应用程序中的主题或人员。
+其他改进包括“调整大小以填充”操作，用于调整图层大小以适合容器、更快的文档加载和更准确的渲染。 CSS 导出生成更清晰的代码，界面更新添加了 90° 旋转按钮、新的图层列表过滤器和记住的角样式。该更新还删除了 Touch Bar 支持并引入了更清晰的符号管理选项。 官方变更日志中详细介绍了其他改进，例如重命名效果、快捷方式更新和较小的菜单更改。
+查看有关 AlternativeTo 的文章有关 Sketch 的更多信息 | Sketch 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/sketch-launches-new-beta-with-redesigned-ui-rebuilt-inspector-and-improved-layer-management/</guid>
+      <pubDate>Fri, 24 Oct 2025 22:25:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Instagram Stories 获得新的生成人工智能功能来“重新设计”你的照片和视频</title>
+      <link>https://alternativeto.net/news/2025/10/instagram-stories-get-new-generative-ai-features-to-restyle-your-photos-and-videos/</link>
+      <description><![CDATA[Meta 为由 Meta AI 提供支持的 Instagram Stories 引入了高级照片和视频重新设计功能。用户可以为他们的故事选择照片或视频，点击重新设计图标，并访问各种预设或进行自定义编辑。这些工具允许进行微妙和戏剧性的改变，使用生成人工智能来删除不需要的背景元素或添加和更改图像和短视频中的对象。
+用户可以从“太阳镜”、“机车夹克”等预设效果中进行选择，也可以选择水彩画和黑色电影等风格变化。只需点击一下即可应用这些，并且用户可以选择在应用预设后描述其他编辑。新的重新设计功能可以快速转换一切，从改变头发颜色，到为庆祝帖子添加气球，或通过创意提示调整整个背景。
+在增强创意表达的同时，Instagram Stories 现在还使用“添加您的”贴纸。这些贴纸使朋友可以轻松地重复使用您的重新设计编辑，从而鼓励病毒式传播或协作趋势。点击重新设计的图像上的贴纸，其他用户可以从自己的照片库中选择照片，应用预设，然后在他们的故事中分享。
+查看有关 AlternativeTo 的文章有关 Instagram 的更多信息 | Instagram 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/instagram-stories-get-new-generative-ai-features-to-restyle-your-photos-and-videos/</guid>
+      <pubDate>Fri, 24 Oct 2025 19:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>v0 iOS 应用程序在 App Store 上发布，用于 AI 驱动的网站建设</title>
+      <link>https://alternativeto.net/news/2025/10/v0-ios-app-launches-on-app-store-for-ai-powered-site-building/</link>
+      <description><![CDATA[v0 iOS 应用程序（Vercel 的人工智能网站构建器）现已可在 App Store 上下载。该版本允许用户直接从 iOS 设备使用协作式 AI 助手来设计、迭代和扩展 Web 应用程序。
+查看有关 AlternativeTo 的文章有关 Vercel v0 的更多信息 | Vercel Alternatives 的 v0]]></description>
+      <guid>https://alternativeto.net/news/2025/10/v0-ios-app-launches-on-app-store-for-ai-powered-site-building/</guid>
+      <pubDate>Fri, 24 Oct 2025 14:53:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Biome 2.3 带来了 Vue、Svelte 和 Astro 文件支持</title>
+      <link>https://alternativeto.net/news/2025/10/biome-2-3-brings-vue-svelte-and-astro-file-support/</link>
+      <description><![CDATA[Biome 2.3 引入了对格式化和 linting 的全面支持 Vue、Svelte 和 Astro 文件，支持以脚本和样式处理 JavaScript、TypeScript 和 CSS 标签。此版本还添加了 HTML 格式的配置选项，包括缩进控制，并带来了与 Tailwind v4 的兼容性。其他更新包括对反应域的更改以及跳过和仅标志的增强灵活性。
+查看有关 AlternativeTo 的文章有关生物群落的更多信息 | 生物群落替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/biome-2-3-brings-vue-svelte-and-astro-file-support/</guid>
+      <pubDate>Fri, 24 Oct 2025 14:49:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google Stitch 利用 Gemini 2.5 Pro 的创意功能增强 UI 设计</title>
+      <link>https://alternativeto.net/news/2025/10/google-stitch-enhances-ui-design-with-gemini-2-5-pro-s-creative-features/</link>
+      <description><![CDATA[Google Stitch 已升级其设计代理，以充分利用 Gemini 2.5 Pro 的创意功能。 Stitch 专为创建网络和移动应用程序的用户界面而设计，引入了增强的布局、更鲜艳的颜色、更清晰的副本以及改进的字体和照片配对。
+查看有关 AlternativeTo 的文章有关 Google Stitch 的更多信息 | Google Stitch 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/google-stitch-enhances-ui-design-with-gemini-2-5-pro-s-creative-features/</guid>
+      <pubDate>Fri, 24 Oct 2025 14:27:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google AI Studio 首次推出注释模式以直接改进应用程序</title>
+      <link>https://alternativeto.net/news/2025/10/google-ai-studio-debuts-annotation-mode-for-direct-app-refinements/</link>
+      <description><![CDATA[Google AI Studio 推出了注释模式，使用户能够直接在应用中突出显示任何组件、按钮或文本以进行细化。 Gemini 自动更改这些元素，旨在减少开发人员的手动调整。
+查看有关 AlternativeTo 的文章详细了解 Google AI Studio | Google AI Studio 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/google-ai-studio-debuts-annotation-mode-for-direct-app-refinements/</guid>
+      <pubDate>Fri, 24 Oct 2025 14:19:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 共享项目现在可供免费、增强版和专业版用户使用</title>
+      <link>https://alternativeto.net/news/2025/10/chatgpt-shared-projects-now-available-to-free-plus-and-pro-users/</link>
+      <description><![CDATA[ChatGPT 的共享项目功能已扩大访问范围，包括免费版、增强版和专业版用户。该功能支持通过在一个统一工作区中共享聊天、文件和指令进行协作。
+查看有关 AlternativeTo 的文章有关 ChatGPT 的更多信息 | ChatGPT 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/chatgpt-shared-projects-now-available-to-free-plus-and-pro-users/</guid>
+      <pubDate>Fri, 24 Oct 2025 14:15:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude 将其内存功能引入 Pro 和 Max 计划</title>
+      <link>https://alternativeto.net/news/2025/10/claude-brings-its-memory-feature-to-pro-and-max-plans/</link>
+      <description><![CDATA[Claude 正在扩展其内存功能，可为 Pro 和 Max 套餐的用户保留跨会话的信息。管理员可以随时选择禁用该功能，确保完全控制内存使用情况，同时保留可自定义的隐私选项。
+查看有关 AlternativeTo 的文章有关克劳德的更多信息 | 克劳德替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/claude-brings-its-memory-feature-to-pro-and-max-plans/</guid>
+      <pubDate>Fri, 24 Oct 2025 14:11:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 收购了 macOS 自然语言界面 Sky，以促进 ChatGPT 集成</title>
+      <link>https://alternativeto.net/news/2025/10/openai-acquires-sky-a-natural-language-interface-for-macos-to-boost-chatgpt-integration/</link>
+      <description><![CDATA[OpenAI 收购了 Sky 的创建者 Software Applications Incorporated，以深化针对 Mac 用户的人工智能集成。 Sky 为 macOS 提供自然语言界面，让 AI 协助编写、规划、编码或管理日常任务。该软件可以理解屏幕上的内容，并可以使用用户现有的应用程序采取行动。
+此次收购后，OpenAI 将把 Sky 先进的 macOS 集成和产品专业知识直接整合到 ChatGPT 中。 Sky 团队的所有成员都将加入 OpenAI，支持将 AI 功能引入日常工作流程中使用的核心工具的努力。 OpenAI 的 Nick Turley 表示，我们的目标是让 ChatGPT 超越对提示的响应，这样它就可以帮助用户在常规应用程序中完成任务。 Sky 的整合被视为这一战略的关键加速器。
+Sky 最初的设计目的是让计算机更加可定制和直观，采用浮动 AI 助手来支持创造力和组织。前 Sky 团队旨在与 OpenAI 合作扩大这一愿景。
+查看有关 AlternativeTo 的文章有关 ChatGPT 的更多信息 | ChatGPT 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/openai-acquires-sky-a-natural-language-interface-for-macos-to-boost-chatgpt-integration/</guid>
+      <pubDate>Fri, 24 Oct 2025 12:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>Astro 5.15 带来了 Netlify 倾斜保护、新的适配器 API 和精细字体预加载</title>
       <link>https://alternativeto.net/news/2025/10/astro-5-15-brings-netlify-skew-protection-new-adapter-apis-and-granular-font-preloading/</link>
@@ -22,7 +100,7 @@
       <description><![CDATA[Runway 推出了工作流，其平台内基于节点的系统，允许用户通过连接多个人工智能模型、模式和生成步骤来构建自定义创意管道。该功能的工作原理与其他 AI 画布工具（例如 FLORA）类似，让创作者能够更好地控制输出，并比标准生成工具实现更个性化的自动化。
 每个节点代表一个特定的函数或生成模型，而链接在输入和输出之间传输数据。用户可以组合和试验节点，以创建可重用的模板或不同的结果。使用橙色表示文本、粉色表示图像、绿色表示视频的颜色编码有助于更直观地组织复杂的设置。
 工作流程包括三种主要节点类型：用于文本或媒体上传的输入节点、用于图像和视频生成的媒体模型节点以及用于基于文本的自动化和提示细化的LLM节点。工作流编辑器支持调整宽高比、分辨率和温度等参数，用户可以运行整个工作流或单个节点进行测试。该功能目前可供创意合作伙伴和企业客户使用，很快就会有更广泛的访问权限。
-查看有关 AlternativeTo 的文章有关 Runway 的更多信息 | 跑道替代方案]]></description>
+查看有关 AlternativeTo 的文章有关 Runway 的更多信息 | 跑道替代品]]></description>
       <guid>https://alternativeto.net/news/2025/10/runway-launches-node-based-workflows-for-building-custom-ai-creative-pipelines/</guid>
       <pubDate>Fri, 24 Oct 2025 01:40:02 GMT</pubDate>
     </item>
@@ -67,93 +145,6 @@ Monarch 采用“快速失败”方法，在出现第一个错误时停止所有
 查看有关 AlternativeTo 的文章有关 PyTorch Monarch 的更多信息 | PyTorch Monarch 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/10/pytorch-unveils-monarch-a-scalable-and-fault-tolerant-distributed-programming-framework/</guid>
       <pubDate>Thu, 23 Oct 2025 15:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Opera Neon 添加了 Google Veo 3.1 视频生成功能</title>
-      <link>https://alternativeto.net/news/2025/10/opera-neon-adds-google-veo-3-1-video-generation/</link>
-      <description><![CDATA[Opera Neon 现在为所有 Founders 计划用户支持 Google 的 Veo 3.1 视频生成模型。此更新带来了更丰富的音频、对多个参考图像的支持以及对视频输出的改进控制。
-用户可以通过在 Neon Make 的视频生成提示中包含“使用 Veo”或“使用 Google”来访问新模型。
-查看有关 AlternativeTo 的文章有关 Opera Neon 的更多信息 | Opera Neon 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/opera-neon-adds-google-veo-3-1-video-generation/</guid>
-      <pubDate>Thu, 23 Oct 2025 15:21:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>X 测试新的 iOS 链接设计，以实现更轻松的后期交互</title>
-      <link>https://alternativeto.net/news/2025/10/x-tests-new-ios-link-design-for-easier-post-interactions/</link>
-      <description><![CDATA[X.com 正在 iOS 上测试新的链接体验，让用户在查看链接时与帖子互动。帖子现在将折叠到页面底部，无需离开网络浏览器即可更轻松地点赞或回复。此次更新的目标是提高包含链接的帖子的参与度。
-查看有关 AlternativeTo 的文章有关 X 的更多信息 | X 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/x-tests-new-ios-link-design-for-easier-post-interactions/</guid>
-      <pubDate>Thu, 23 Oct 2025 14:54:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Desktop 现已正式推出，并提供适用于 Mac 的新屏幕截图功能</title>
-      <link>https://alternativeto.net/news/2025/10/claude-desktop-is-now-generally-available-with-new-screenshot-feature-for-mac/</link>
-      <description><![CDATA[Claude Desktop 现在可在 Mac 和 Windows 上下载，并可直接从 Dock 进行持久访问。该应用程序设计为在后台运行，在需要时保持可用，而不会中断工作流程。
-Mac 用户还获得了用于捕获屏幕截图、共享窗口上下文以及通过按 Caps Lock 启动语音输入的新工具。
-查看有关 AlternativeTo 的文章有关克劳德的更多信息 | 克劳德替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/claude-desktop-is-now-generally-available-with-new-screenshot-feature-for-mac/</guid>
-      <pubDate>Thu, 23 Oct 2025 14:44:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ghost 引入一次性代码以实现灵活的会员登录</title>
-      <link>https://alternativeto.net/news/2025/10/ghost-introduces-one-time-codes-for-flexible-member-sign-in/</link>
-      <description><![CDATA[Ghost 推出了一次性代码作为会员的一种新登录选项，补充了其现有的 Magic Link 系统。现在，会员在登录时会收到一个神奇链接和一次性代码，以便他们选择最适合自己需求的方法。
-此功能还可以在自定义登录表单上使用，并且 Ghost(Pro) 用户可以立即使用，并且自托管网站需要更新。
-查看有关 AlternativeTo 的文章有关 Ghost 的更多信息 | Ghost 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/ghost-introduces-one-time-codes-for-flexible-member-sign-in/</guid>
-      <pubDate>Thu, 23 Oct 2025 14:37:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vitest 4.0 添加了浏览器模式、视觉回归测试和 Playwright Traces 支持</title>
-      <link>https://alternativeto.net/news/2025/10/vitest-4-0-adds-browser-mode-visual-regression-testing-and-playwright-traces-support/</link>
-      <description><![CDATA[Vitest 4.0 是对 Vite 原生测试框架的重大更新，引入了对浏览器模式和 几个显着的增强。删除实验标签后，团队现在可以将浏览器模式集成到生产工作流程中，尽管对公共 API 的某些更改可能需要代码调整。
-在这些更新的基础上，该版本添加了浏览器模式的视觉回归测试。此功能使开发人员能够捕获 UI 屏幕截图并将其与参考图像进行比较，从而帮助检测组件和页面中意外的视觉变化。
-此外，Vitest 4 现在提供 Playwright 跟踪生成功能，跟踪可在测试报告器中作为注释使用。使用 Playwright 的用户还可以从新的 page.frameLocator API 中受益，它可以更轻松地查找 iframe 内的元素并与之交互。 Visual Studio Code 扩展获得了用于浏览器测试的“调试测试”按钮，从而直接从代码编辑器简化了调试。
-使用 test.extend 和生命周期挂钩（例如 beforeEach 和 afterEach）的开发人员现在可以直接在返回的测试对象上引用这些挂钩。另一个功能 expect.schemaMatching 允许断言根据标准架构 v1 对象验证值。
-其他更改包括为了方便起见，在 expect 上公开 Chai 的 assert 方法，删除基本报告器以支持使用 summary: false 的默认报告器，以及提供几个新的高级公共 API 方法以及一些重大更改。
-查看有关 AlternativeTo 的文章有关 Vitest 的更多信息 | Vitest 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/vitest-4-0-adds-browser-mode-visual-regression-testing-and-playwright-traces-support/</guid>
-      <pubDate>Thu, 23 Oct 2025 14:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ForkLift 4.4.3 添加了 macOS Tahoe 侧边栏样式、AppMover 功能删除和错误修复</title>
-      <link>https://alternativeto.net/news/2025/10/forklift-4-4-3-adds-macos-tahoe-sidebar-style-appmover-feature-removal-and-bug-fixes/</link>
-      <description><![CDATA[BinaryNights 发布了 ForkLift 版本 4.4.3，它是适用于 macOS 的双窗格文件管理器和文件传输客户端。在此更新中，应用程序为侧边栏引入了新的 macOS Tahoe 选择样式，从而更改了所选项目的文本颜色。当侧边栏图标用颜色标记或用自定义颜色标记为收藏夹时，收藏夹的名称现在会在选择后使用相同的颜色突出显示。
-除了视觉更新之外，ForkLift 4.4.3 还删除了 AppMover 功能。开发团队解释说，当下载为 ZIP 文件时，ForkLift 无法摆脱 macOS 施加的隔离。因此，AppMover 无法在内部测试之外发挥作用，现已停产。
-继 UI 调整之后，此版本还修复了与过渡到 macOS Tahoe 相关的多个问题。值得注意的是，此更新解决了界面中的选项卡重新排序错误，并解决了列视图问题，例如重新启动 ForkLift 后列宽无法正确恢复以及“调整列大小以适合”选项处于活动状态时长文件名的不正确截断。
-查看有关 AlternativeTo 的文章有关叉车的更多信息 | 叉车替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/forklift-4-4-3-adds-macos-tahoe-sidebar-style-appmover-feature-removal-and-bug-fixes/</guid>
-      <pubDate>Thu, 23 Oct 2025 07:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steam推出新的个人日历工具，用于个性化游戏发布推荐</title>
-      <link>https://alternativeto.net/news/2025/10/steam-launches-a-new-personal-calendar-tool-for-personalized-game-release-recommendations/</link>
-      <description><![CDATA[Valve 推出了个人日历，作为一项新的 Steam 实验室实验，旨在帮助用户发现最近发布的和即将推出的符合他们兴趣的游戏。每个日历都会根据用户的游戏时间模式、愿望清单上的游戏以及与其他用户活动的相似性等因素显示一系列游戏的选择。这种方法可确保游戏推荐反映玩家的主要游戏习惯，而不是一次性游戏。
-用户可以按标签过滤日历、隐藏他们已经拥有的游戏、选择类型以及修改显示的推荐数量（默认情况下最多 100 个）。该日历涵盖八周的滚动期，显示周一至周五的发布日期，与大多数游戏的发布时间一致。
-虽然用户可以通过 Steam 桌面客户端的“特殊部分”或直接在网络上访问该功能，但建议每天都会更新。然而，由于该算法借鉴了稳定、长期的用户行为，因此日常变化将很小。用户心愿单上已有的游戏也会自动包含在内，从而简化了发布跟踪。
-查看有关 AlternativeTo 的文章有关 Steam 的更多信息 | Steam 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/steam-launches-a-new-personal-calendar-tool-for-personalized-game-release-recommendations/</guid>
-      <pubDate>Thu, 23 Oct 2025 05:12:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reddit 起诉 Perplexity 未经授权抓取数据用于训练其人工智能系统</title>
-      <link>https://alternativeto.net/news/2025/10/reddit-sues-perplexity-ai-for-unauthorized-data-scraping-used-to-train-its-ai-system/</link>
-      <description><![CDATA[Reddit 已提起诉讼 Perplexity 和三个数据抓取公司，指控他们未经授权收集 Reddit 内容来训练人工智能系统。该公司声称被告绕过了其保护并大规模获取了受版权保护的材料。 Reddit 表示，它去年向 Perplexity 发送了一封停止函，但据称该公司随后将 Reddit 内容的使用量增加了 40 倍。
-该诉讼称，Perplexity 依赖 Reddit 数据来为其人工智能答案引擎提供动力，并且在未经许可的情况下与至少一项抓取服务进行了合作。 Reddit 寻求金钱赔偿和法院命令，阻止 Perplexity 在未来的培训或产品中使用其数据。该公司强调，其用户生成的内容非常有价值，并且经常出现在人工智能生成的答案中。
-讽刺的是，Reddit 此前已将其数据授权给 Google 和OpenAI 根据协议训练其人工智能模型，因此可以说该公司主要针对那些尚未付费访问的用户。 Perplexity否认这些指控，并表示将在法庭上为自己辩护。此案是继几个月前另一起正在进行的诉讼之后，Reddit 就类似问题对 Anthropic 提起诉讼。
-查看有关 AlternativeTo 的文章有关 Reddit 的更多信息 | Reddit 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/reddit-sues-perplexity-ai-for-unauthorized-data-scraping-used-to-train-its-ai-system/</guid>
-      <pubDate>Wed, 22 Oct 2025 20:57:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>HBO Max 有效提高了所有套餐的订阅价格，包括带广告的基本套餐</title>
-      <link>https://alternativeto.net/news/2025/10/hbo-max-effectively-raises-subscription-prices-across-all-plans-including-basic-with-ads/</link>
-      <description><![CDATA[HBO Max 宣布新的订阅价格上涨，对新用户立即生效，对现有用户则在 11 月 20 日之后的下一次续订后至少提前 30 天通知。 带有广告的基本计划现在的费用为每月 10.99 美元，上涨了 1 美元，每年费用为 109.99 美元，上涨了 10 美元。值得注意的是，最近一次价格变化发生在一年多前的 2024 年 6 月，尽管当时只有其无广告计划 受影响。
-标准无广告套餐涨至每月 18.49 美元，上涨了 1.50 美元，而包年套餐现在的价格为 184.99 美元，上涨了 15 美元。 Premium 计划涨幅最大，目前每月 22.99 美元和每年 229.99 美元，分别上涨 2 美元和 20 美元。
-似乎这还不够，HBO Max 还收紧密码共享限制，以限制朋友或家人之间的帐户共享。在此之前，其他主要流媒体公司也采取了类似的行动，例如 Disney+ 或 Apple TV。
-查看有关 AlternativeTo 的文章有关 HBO Max 的更多信息 | HBO Max 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/hbo-max-effectively-raises-subscription-prices-across-all-plans-including-basic-with-ads/</guid>
-      <pubDate>Wed, 22 Oct 2025 18:33:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
