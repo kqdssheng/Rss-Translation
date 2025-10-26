@@ -4,7 +4,17 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sat, 25 Oct 2025 12:37:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Oct 2025 01:38:46 GMT</lastBuildDate>
+    <item>
+      <title>Stability AI 和 EA 合作构建用于游戏开发的生成式 AI 模型和工具</title>
+      <link>https://alternativeto.net/news/2025/10/stability-ai-and-ea-partner-to-build-generative-ai-models-and-tools-for-game-development/</link>
+      <description><![CDATA[Stability AI 和 Electronic Arts 宣布建立战略合作伙伴关系，旨在改变游戏开发 生成式人工智能。此次合作将使两家公司共同开发针对游戏创建过程不同阶段的新的生成人工智能模型、工具和工作流程。 Stability AI 带来了生成式 AI 方面的技术专长，而 EA 则利用了其在数字互动娱乐方面的经验。这一组合旨在重塑数字游戏的构建方式，为艺术家、设计师和开发者提供新的创意方法。
+在首批举措中，该团队将专注于加速基于物理的渲染 (PBR) 材质的创建。他们计划开发工具，让艺术家能够生成 2D 纹理，确保在不同环境下准确的颜色和照明精度。在这些以资产为中心的改进的基础上，合作伙伴关系还将探索人工智能驱动的系统，根据设计师的提示预先可视化整个 3D 环境，支持创意方向和内容构思。
+这些进步预计将使原型设计和视觉叙事更加高效，使开发团队能够更快、更大规模地可视化和完善游戏概念。
+查看有关 AlternativeTo 的文章有关稳定扩散的更多信息 | 稳定扩散替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/stability-ai-and-ea-partner-to-build-generative-ai-models-and-tools-for-game-development/</guid>
+      <pubDate>Sat, 25 Oct 2025 11:05:00 GMT</pubDate>
+    </item>
     <item>
       <title>Mistral 推出具有开放权重模型目录和可观测性功能的 AI Studio</title>
       <link>https://alternativeto.net/news/2025/10/mistral-launches-ai-studio-with-open-weight-models-catalog-and-observability-features/</link>
@@ -135,16 +145,6 @@ Mico 显然受到了早已消失的 Clippy 的启发，扮演了一个“有情�
 查看有关 AlternativeTo 的文章有关 Microsoft Copilot 的更多信息 | Microsoft Copilot 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/10/microsoft-introduces-mico-on-windows-a-new-clippy-like-ai-companion-powered-by-copilot/</guid>
       <pubDate>Thu, 23 Oct 2025 19:57:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌地球增加了新的人工智能聊天并改进了灾难预测的地理空间推理</title>
-      <link>https://alternativeto.net/news/2025/10/google-earth-adds-new-ai-chat-and-improved-geospatial-reasoning-for-disasters-prediction/</link>
-      <description><![CDATA[Google 地球正在推出新的 AI 聊天功能，让用户可以直接查询其模型以进行数据驱动的地理空间分析。该更新基于 2024 年推出的基于聊天的界面构建，允许自然语言提问，例如特定区域的“查找藻华”或“分析洪水风险”。
-该系统通过 Google 的 Gemini 框架集成了多个 AI 模型，结合天气、人口和卫星数据来实现 Google 所谓的“地理空间推理”。这使得人工智能能够将风暴或干旱等事件与其潜在的人类和环境影响联系起来，估计哪些地区可能发生洪水、有多少人可能受到影响，以及哪些基础设施可能首先出现故障。
-这些功能目前可供值得信赖的测试人员以及美国的 Gemini Pro 和 Ultra 用户使用，很快将扩展到更多专业帐户。 GiveDirectly 等组织已经在使用 Earth AI 来定位灾难后最需要帮助的家庭，而 Google 表示，随着推出的继续，它计划扩大对这些工具的访问范围。
-查看有关 AlternativeTo 的文章有关 Google 地球的更多信息 | Google 地球替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/google-earth-adds-new-ai-chat-and-improved-geospatial-reasoning-for-disasters-prediction/</guid>
-      <pubDate>Thu, 23 Oct 2025 18:24:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
