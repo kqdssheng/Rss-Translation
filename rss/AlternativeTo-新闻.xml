@@ -4,7 +4,27 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sun, 26 Oct 2025 12:37:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 01:42:32 GMT</lastBuildDate>
+    <item>
+      <title>微软宣布新版光环重制版并首次登陆 PlayStation</title>
+      <link>https://alternativeto.net/news/2025/10/microsoft-announces-new-halo-remake-and-its-launch-on-playstation-for-the-first-time/</link>
+      <description><![CDATA[微软已宣布原版光环：战斗进化的全新重制版，名为光环：战役进化，定于 2026 年发布。该游戏将在 Xbox Series X/S、PC、Xbox Game Pass、Xbox Cloud Gaming 和 PlayStation 5，标志着 Halo 主线游戏将首次在 PlayStation 上推出。此举巩固了公司对其全面多平台战略的承诺，该战略始于几年前宣布了四款初始游戏，现在包括一些 Xbox 前最大的独占游戏，例如《极限竞速：地平线》、《战争机器》 战争，最后是光环。
+在这个周年纪念版中，该战役将使用新的图形引擎，并在虚幻引擎 5 中重建，具有更新的动画、重新制作的音乐和新录制的语音作品。电影序列经过重新构思，而不是简单地增强，提供了新的方向和结构。此外，玩家还会发现新的武器、车辆和三个原创的前传任务来扩展故事。经过技术和创意方面的彻底修改，光环：战役进化在战役中加入了四人在线合作模式，但不会提供单独的多人游戏组件，因此重点放在战役上。
+尽管这一决定引发了粉丝们的讨论，因为光环自该品牌成立以来一直被视为微软最具标志性的系列，但该公司与 Xbox 游戏工作室负责人 Matt Booty 一起加强了其跨平台战略转变，他表示这种多平台方法反映了微软为吸引新受众而做出的努力，以与TikTok 和电影而不是其他游戏平台（有点奇怪，但还可以），以及最近推出的 第一款与华硕合作的 Xbox 品牌手持设备（本质上是一台运行稍微修改版本的手持电脑Windows 11），其中还包括 Steam 等第三方商店。
+查看有关 AlternativeTo 的文章有关 Halo 的更多信息 | Halo 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/microsoft-announces-new-halo-remake-and-its-launch-on-playstation-for-the-first-time/</guid>
+      <pubDate>Sun, 26 Oct 2025 18:50:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Typst 0.14 默认提供 PDF 可访问性和原生 PDF 图像</title>
+      <link>https://alternativeto.net/news/2025/10/typst-0-14-brings-pdf-accessibility-by-default-and-native-pdf-images/</link>
+      <description><![CDATA[Typst 0.14 默认添加了辅助功能，确保所有生成的 PDF 均已标记并与屏幕阅读器等辅助技术兼容。可选的 PDF/UA-1 导出模式可以进行更严格的验证，以检测丢失的标题、标题层次结构问题或缺少的替代文本。新的辅助功能指南还提供了有关编写替代文本以及区分图形和图像描述以支持通用辅助功能的清晰说明。
+此更新还允许用户将 PDF 文件作为本机图像格式导入，完全集成到 Typst 的导出系统中，无需外部依赖。 PDF 图像直接嵌入 PDF 中，转换为 SVG 以供 HTML 或 SVG 导出，并光栅化为 PNG 以供 Web 预览。此功能由基于 Rust 的新 hayro 库提供支持，提高了性能和可移植性。扩展的 PDF 支持现在包括版本 1.4 至 2.0 以及所有 PDF/A 子标准，以实现更广泛的专业兼容性。
+Typst 0.14 还添加了字符级对齐方式，通过调整单词和单个字符之间的间距来优化文本对齐，以获得更流畅、更平衡的段落。
+查看有关 AlternativeTo 的文章有关 Typst 的更多信息 | Typst 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/typst-0-14-brings-pdf-accessibility-by-default-and-native-pdf-images/</guid>
+      <pubDate>Sun, 26 Oct 2025 14:23:34 GMT</pubDate>
+    </item>
     <item>
       <title>Stability AI 和 EA 合作构建用于游戏开发的生成式 AI 模型和工具</title>
       <link>https://alternativeto.net/news/2025/10/stability-ai-and-ea-partner-to-build-generative-ai-models-and-tools-for-game-development/</link>
@@ -80,13 +100,13 @@ AI Studio 的架构以三大支柱为中心：可观测性、代理运行时和 
     <item>
       <title>ChatGPT 共享项目现在可供免费、增强版和专业版用户使用</title>
       <link>https://alternativeto.net/news/2025/10/chatgpt-shared-projects-now-available-to-free-plus-and-pro-users/</link>
-      <description><![CDATA[ChatGPT 的共享项目功能已扩大访问范围，包括免费、增强版和专业版用户。该功能支持通过在一个统一工作区中共享聊天、文件和指令进行协作。
+      <description><![CDATA[ChatGPT 的共享项目功能已扩大访问范围，包括免费版、增强版和专业版用户。该功能支持通过在一个统一工作区中共享聊天、文件和指令进行协作。
 查看有关 AlternativeTo 的文章有关 ChatGPT 的更多信息 | ChatGPT 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/10/chatgpt-shared-projects-now-available-to-free-plus-and-pro-users/</guid>
       <pubDate>Fri, 24 Oct 2025 14:15:38 GMT</pubDate>
     </item>
     <item>
-      <title>Claude 将其内存功能引入 Pro 和 Max 计划</title>
+      <title>Claude 将其内存功能引入 Pro 和 Max 套餐</title>
       <link>https://alternativeto.net/news/2025/10/claude-brings-its-memory-feature-to-pro-and-max-plans/</link>
       <description><![CDATA[Claude 正在扩展其内存功能，可为 Pro 和 Max 套餐的用户保留跨会话的信息。管理员可以随时选择禁用该功能，确保完全控制内存使用情况，同时保留可自定义的隐私选项。
 查看有关 AlternativeTo 的文章有关克劳德的更多信息 | 克劳德替代品]]></description>
@@ -123,28 +143,6 @@ Sky 最初的设计目的是让计算机更加可定制和直观，采用浮动 
 查看有关 AlternativeTo 的文章有关 Runway 的更多信息 | 跑道替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/10/runway-launches-node-based-workflows-for-building-custom-ai-creative-pipelines/</guid>
       <pubDate>Fri, 24 Oct 2025 01:40:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Edge 扩展了 Copilot 与操作、旅程和浏览器历史记录访​​问的集成</title>
-      <link>https://alternativeto.net/news/2025/10/microsoft-edge-expands-copilot-integration-with-actions-journeys-and-browser-history-access/</link>
-      <description><![CDATA[关注有关 Windows 新 AI Companion 和其他Microsoft Copilot 更新了 Windows 11，该公司还在 Microsoft Edge 新的副驾驶模式通过添加专注于自动化 href=&quot;https://alternativeto.net/news/2024/11/microsoft-introduces-copilot-actions-for-ai-automated-tasks-in-microsoft-365/&quot;&gt;副驾驶操作，允许用户执行多步骤任务，例如取消订阅新闻通讯或直接在 浏览器。
-新增了Copilot Journeys功能，让用户无需依赖书签即可保存并返回正在进行的研究项目。它可以总结以前阅读的文章，建议后续步骤，并带回相关资源，帮助用户继续项目，而无需再次搜索他们以前访问过的选项卡或网站。
-此外，用户现在可以选择授予 Copilot 访问其浏览历史记录的权限，从而实现更多上下文交互，例如讨论以前查看过的产品或根据过去的活动推荐电影。当 Copilot 处于活动状态时，Edge 会显示清晰的视觉指示器，并且 Microsoft 声明所有数据均根据其隐私政策进行管理。
-更新后的副驾驶模式目前在美国免费提供有限预览。
-查看有关 AlternativeTo 的文章有关 Microsoft Edge 的更多信息 | Microsoft Edge 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/microsoft-edge-expands-copilot-integration-with-actions-journeys-and-browser-history-access/</guid>
-      <pubDate>Fri, 24 Oct 2025 00:28:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软在 Windows 上推出 Mico，这是一款由 Copilot 提供支持的新型 Clippy 人工智能伴侣</title>
-      <link>https://alternativeto.net/news/2025/10/microsoft-introduces-mico-on-windows-a-new-clippy-like-ai-companion-powered-by-copilot/</link>
-      <description><![CDATA[就在一周后，微软宣布了几项新的Copilot 集成在 Windows 11 中，包括 AI Agent 功能和新的唤醒词，该公司现已正式推出 Mico，其全新的动画人工智能助手，专为自然语音交互而设计。
-Mico 显然受到了早已消失的 Clippy 的启发，扮演了一个“有情感意识”的角色。通过面部表情和颜色变化对语气做出反应的伴侣，正如之前在新的副驾驶头像中介绍的那样。该功能将首先在美国推出，并将使用 Copilot 升级后的内存来回忆用户偏好和上下文，以及新的以教育为导向的 Learn Live 模式，通过苏格拉底式问题和视觉工具引导学生理解概念。
-更新还引入了Copilot Groups，允许最多 32 名参与者在共享聊天会话中进行协作，同时连接器扩展了与 Microsoft OneDrive、Outlook.com、Google 云端硬盘和Google 日历。增强的记忆功能让 Copilot 能够保留有关用户工作和偏好的关键详细信息，为新的主动操作预览提供支持，该预览可根据最近的活动建议后续步骤。 Copilot for Health 现在使用可信的医疗来源来回答与健康相关的问题并帮助用户找到附近的专家。
-此外，Microsoft Edge 中的 Copilot 可以恢复之前的会话，根据浏览历史记录提供上下文感知答案，并处理打开页面或管理电子邮件等操作。这些更新已在美国上线，并将在未来几周内扩展到英国、加拿大和其他地区。
-查看有关 AlternativeTo 的文章有关 Microsoft Copilot 的更多信息 | Microsoft Copilot 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/microsoft-introduces-mico-on-windows-a-new-clippy-like-ai-companion-powered-by-copilot/</guid>
-      <pubDate>Thu, 23 Oct 2025 19:57:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
