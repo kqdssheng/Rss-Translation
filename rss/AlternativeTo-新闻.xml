@@ -4,7 +4,56 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Mon, 27 Oct 2025 01:42:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 12:42:59 GMT</lastBuildDate>
+    <item>
+      <title>Accrescent 0.27 发布，提供新的应用商店 API、后台下载、UI 升级等</title>
+      <link>https://alternativeto.net/news/2025/10/accrescent-0-27-launches-with-new-app-store-api-background-download-ui-upgrades-and-more/</link>
+      <description><![CDATA[Accrescent 0.27 提供了迄今为止最实质性的更新，具有用于获取应用程序信息的新的、稳定的应用程序商店 API。这一核心变化旨在增强整体可靠性和可用性，特别是对于关注安全和隐私的用户。
+在 API 迁移的基础上，存储库元数据现在可以自动更新，从而为依赖精确验证的用户提高数据完整性。即使 Accrescent 应用程序关闭，应用程序下载和安装现在也可以在后台可靠地继续，从而提高安装成功率和便利性。在这些工作流程增强之后，应用程序不再尝试安装不兼容的应用程序，并避免更新最初不是由 Accrescent 安装的应用程序，从而减少不必要的错误和冲突。
+用户还会注意到应用安装的存储要求降低，这对设备资源有限的用户有利。视觉改进包括用于应用程序安装的新加载指示器、用于存档列表的“取消存档”按钮以及支持以用户首选语言获取应用程序列表。其他改进通过 Compose 最佳实践、本地化下载进度百分比以及无需空闲设备来运行更新来带来更好的用户界面性能。此外，应用程序安装现在将等待网络可用后再继续。
+查看有关 AlternativeTo 的文章有关 Accrescent 的更多信息 | Accrescent 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/accrescent-0-27-launches-with-new-app-store-api-background-download-ui-upgrades-and-more/</guid>
+      <pubDate>Mon, 27 Oct 2025 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Flathub 为开发者推出改进的许可证合规工具</title>
+      <link>https://alternativeto.net/news/2025/10/flathub-launches-improved-license-compliance-tools-for-developers/</link>
+      <description><![CDATA[Flathub 已发布增强工具来简化应用程序开发人员的许可证合规性。随着 Flatpak、freedesktop-sdk、GNOME 和 KDE 团队共同开发的更新，新的工具和 基础设施使得在应用程序中包含准确的许可证和版权声明变得更加容易。
+建议开发人员使用更新的运行时并验证其 Flatpak 应用程序中是否包含许可证信息。操作系统维护人员还应该使用 Flathub 的最新运行时重建映像。
+查看有关 AlternativeTo 的文章有关 Flathub 的更多信息 | Flathub 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/flathub-launches-improved-license-compliance-tools-for-developers/</guid>
+      <pubDate>Mon, 27 Oct 2025 08:55:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nuxt 4.2 带来了 TypeScript 插件，更好的错误处理和数据获取的中止控制</title>
+      <link>https://alternativeto.net/news/2025/10/nuxt-4-2-brings-typescript-plugin-better-error-handling-and-abort-control-for-data-fetching/</link>
+      <description><![CDATA[Nuxt 4.2 现已推出，为这个开源全栈框架提供了重大更新Vue.js。最显着的变化是，开发人员现在可以将 AbortController 信号直接传递给 useAsyncData 和 useFetch，从而对请求取消进行更精细的控制。在架构转变中，Nitro 服务器集成已被提取到其自己的包@nuxt/nitro-server中，为用户提供新的服务器端集成模式的灵活性。
+经过这些改进，开发体验得到了显着提升：当发生错误时，Nuxt 现在将同时呈现您的自定义错误页面和详细的技术叠加层。对早期访问功能感兴趣的人也可以选择实验性的 Vite 环境 API。
+性能增强包括渲染器依赖项的预计算、整体框架依赖项的减少以及实验性异步数据处理程序提取，旨在进一步缩短响应时间。 Nuxt 4.2 以开发人员工具为基础，引入了对 @dxup/nuxt 的实验性支持，该模块具有一套 TypeScript 插件，旨在提高类型安全性和 Nuxt 特定功能的使用。
+最后，此版本还提供了一系列其他显着的改进和错误修复，提高了整个框架的稳定性和可用性。
+查看有关 AlternativeTo 的文章有关 Nuxt.js 的更多信息 | Nuxt.js 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/nuxt-4-2-brings-typescript-plugin-better-error-handling-and-abort-control-for-data-fetching/</guid>
+      <pubDate>Mon, 27 Oct 2025 08:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Instagram 推出带有灵活排序选项的 Reels 观看历史记录</title>
+      <link>https://alternativeto.net/news/2025/10/instagram-announces-watch-history-for-reels-with-flexible-sorting-options/</link>
+      <description><![CDATA[Instagram 引入了新的“观看历史记录”功能，允许用户重新访问以前观看过的 Reels。该功能可通过“个人资料”、“设置”和“您的活动”访问。用户可以按时间顺序或按作者对观看历史记录进行排序，这比其他平台上的类似功能提供了更大的灵活性。
+查看有关 AlternativeTo 的文章有关 Instagram 的更多信息 | Instagram 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/instagram-announces-watch-history-for-reels-with-flexible-sorting-options/</guid>
+      <pubDate>Mon, 27 Oct 2025 08:45:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>据报道，苹果明年将在其苹果地图应用中引入搜索广告</title>
+      <link>https://alternativeto.net/news/2025/10/apple-will-reportedly-bring-search-ads-to-its-apple-maps-app-next-year/</link>
+      <description><![CDATA[据彭博社的 Mark Gurman 称，苹果预计将于 2025 年在 Apple 地图 中引入广告。此次更新将允许餐馆和零售商等企业为其详细信息付费，以便在用户搜索结果中更加突出地显示，这标志着苹果地图服务方式的显着转变。
+按照既定模型，Apple 地图广告系统的功能与 App Store 搜索广告类似，公司可以根据特定的用户查询为提升的可见度付费。苹果打算超越竞争对手，并表示其地图广告界面的效果应优于目前在 Google 地图 和 Waze 中提供的选项 设计和可用性方面。
+为了确保搜索结果仍然有用，Apple 将利用人工智能，将促销列表与相关的用户兴趣和查询进行匹配。该技术旨在最大限度地减少不必要的入侵并维护地图对日常用户的价值。
+然而，苹果面临着来自客户的抵制风险，因为他们对整个生态系统中的广告越来越直言不讳。许多用户对更多将广告集成到价格昂贵的设备中的服务表示担忧。苹果面临着平衡新收入来源与客户期望的挑战。
+查看有关 AlternativeTo 的文章有关 Apple 地图的更多信息 | Apple 地图替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/apple-will-reportedly-bring-search-ads-to-its-apple-maps-app-next-year/</guid>
+      <pubDate>Mon, 27 Oct 2025 08:15:26 GMT</pubDate>
+    </item>
     <item>
       <title>微软宣布新版光环重制版并首次登陆 PlayStation</title>
       <link>https://alternativeto.net/news/2025/10/microsoft-announces-new-halo-remake-and-its-launch-on-playstation-for-the-first-time/</link>
@@ -77,7 +126,7 @@ AI Studio 的架构以三大支柱为中心：可观测性、代理运行时和 
       <title>Biome 2.3 带来了 Vue、Svelte 和 Astro 文件支持</title>
       <link>https://alternativeto.net/news/2025/10/biome-2-3-brings-vue-svelte-and-astro-file-support/</link>
       <description><![CDATA[Biome 2.3 引入了对格式化和 linting 的全面支持 Vue、Svelte 和 Astro 文件，支持以脚本和样式处理 JavaScript、TypeScript 和 CSS 标签。此版本还添加了 HTML 格式的配置选项，包括缩进控制，并带来了与 Tailwind v4 的兼容性。其他更新包括对反应域的更改以及跳过和仅标志的增强灵活性。
-查看有关 AlternativeTo 的文章有关生物群落的更多信息 | 生物群落替代方案]]></description>
+查看有关 AlternativeTo 的文章有关生物群落的更多信息 | 生物群落替代品]]></description>
       <guid>https://alternativeto.net/news/2025/10/biome-2-3-brings-vue-svelte-and-astro-file-support/</guid>
       <pubDate>Fri, 24 Oct 2025 14:49:42 GMT</pubDate>
     </item>
@@ -96,53 +145,6 @@ AI Studio 的架构以三大支柱为中心：可观测性、代理运行时和 
 查看有关 AlternativeTo 的文章详细了解 Google AI Studio | Google AI Studio 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/10/google-ai-studio-debuts-annotation-mode-for-direct-app-refinements/</guid>
       <pubDate>Fri, 24 Oct 2025 14:19:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 共享项目现在可供免费、增强版和专业版用户使用</title>
-      <link>https://alternativeto.net/news/2025/10/chatgpt-shared-projects-now-available-to-free-plus-and-pro-users/</link>
-      <description><![CDATA[ChatGPT 的共享项目功能已扩大访问范围，包括免费版、增强版和专业版用户。该功能支持通过在一个统一工作区中共享聊天、文件和指令进行协作。
-查看有关 AlternativeTo 的文章有关 ChatGPT 的更多信息 | ChatGPT 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/chatgpt-shared-projects-now-available-to-free-plus-and-pro-users/</guid>
-      <pubDate>Fri, 24 Oct 2025 14:15:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude 将其内存功能引入 Pro 和 Max 套餐</title>
-      <link>https://alternativeto.net/news/2025/10/claude-brings-its-memory-feature-to-pro-and-max-plans/</link>
-      <description><![CDATA[Claude 正在扩展其内存功能，可为 Pro 和 Max 套餐的用户保留跨会话的信息。管理员可以随时选择禁用该功能，确保完全控制内存使用情况，同时保留可自定义的隐私选项。
-查看有关 AlternativeTo 的文章有关克劳德的更多信息 | 克劳德替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/claude-brings-its-memory-feature-to-pro-and-max-plans/</guid>
-      <pubDate>Fri, 24 Oct 2025 14:11:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 收购了 macOS 自然语言界面 Sky，以促进 ChatGPT 集成</title>
-      <link>https://alternativeto.net/news/2025/10/openai-acquires-sky-a-natural-language-interface-for-macos-to-boost-chatgpt-integration/</link>
-      <description><![CDATA[OpenAI 收购了 Sky 的创建者 Software Applications Incorporated，以深化针对 Mac 用户的人工智能集成。 Sky 为 macOS 提供自然语言界面，让 AI 协助编写、规划、编码或管理日常任务。该软件可以理解屏幕上的内容，并可以使用用户现有的应用程序采取行动。
-此次收购后，OpenAI 将把 Sky 先进的 macOS 集成和产品专业知识直接整合到 ChatGPT 中。 Sky 团队的所有成员都将加入 OpenAI，支持将 AI 功能引入日常工作流程中使用的核心工具的努力。 OpenAI 的 Nick Turley 表示，我们的目标是让 ChatGPT 超越对提示的响应，这样它就可以帮助用户在常规应用程序中完成任务。 Sky 的整合被视为这一战略的关键加速器。
-Sky 最初的设计目的是让计算机更加可定制和直观，采用浮动 AI 助手来支持创造力和组织。前 Sky 团队旨在与 OpenAI 合作扩大这一愿景。
-查看有关 AlternativeTo 的文章有关 ChatGPT 的更多信息 | ChatGPT 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/openai-acquires-sky-a-natural-language-interface-for-macos-to-boost-chatgpt-integration/</guid>
-      <pubDate>Fri, 24 Oct 2025 12:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Astro 5.15 带来了 Netlify 倾斜保护、新的适配器 API 和精细字体预加载</title>
-      <link>https://alternativeto.net/news/2025/10/astro-5-15-brings-netlify-skew-protection-new-adapter-apis-and-granular-font-preloading/</link>
-      <description><![CDATA[Astro 5.15 现已推出，为这个专注于内容驱动网站的开源 Web 框架提供了新功能和后端增强功能。一个主要亮点是针对 Netlify 部署的自动偏差保护。这种机制使客户端和服务器代码在部署时保持同步，从而降低了用户在加载新服务器代码的同时加载过时资源而出现细微错误的风险。
-经过这一改进，Astro 5.15 使托管平台能够利用新的核心 API。这些 API 允许适配器自定义响应标头和资产查询参数。因此，像 Netlify 这样的平台现在可以引入复杂的部署功能，而无需开发人员手动配置设置。
-基于这些核心更新，Astro 5.15 中的实验性字体 API 现在允许开发人员精确定义要预加载的字体粗细、样式和子集。这取代了以前的“全有或全无”方法，并通过将下载限制为仅必要的字体变体来帮助优化加载性能。
-最新版本还包含一系列其他增强功能和错误修复。这些更新继续改善 Astro 框架的开发者体验和稳定性。
-查看有关 AlternativeTo 的文章有关 Astro Web 框架的更多信息 | Astro Web 框架 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/astro-5-15-brings-netlify-skew-protection-new-adapter-apis-and-granular-font-preloading/</guid>
-      <pubDate>Fri, 24 Oct 2025 09:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Runway 推出基于节点的工作流程，用于构建自定义 AI 创意管道</title>
-      <link>https://alternativeto.net/news/2025/10/runway-launches-node-based-workflows-for-building-custom-ai-creative-pipelines/</link>
-      <description><![CDATA[Runway 推出了工作流，其平台内基于节点的系统，允许用户通过连接多个人工智能模型、模式和生成步骤来构建自定义创意管道。该功能的工作原理与其他 AI 画布工具（例如 FLORA）类似，让创作者能够更好地控制输出，并比标准生成工具实现更个性化的自动化。
-每个节点代表一个特定的函数或生成模型，而链接在输入和输出之间传输数据。用户可以组合和试验节点，以创建可重用的模板或不同的结果。使用橙色表示文本、粉色表示图像、绿色表示视频的颜色编码有助于更直观地组织复杂的设置。
-工作流程包括三种主要节点类型：用于文本或媒体上传的输入节点、用于图像和视频生成的媒体模型节点以及用于基于文本的自动化和提示细化的LLM节点。工作流编辑器支持调整宽高比、分辨率和温度等参数，用户可以运行整个工作流或单个节点进行测试。该功能目前可供创意合作伙伴和企业客户使用，很快就会有更广泛的访问权限。
-查看有关 AlternativeTo 的文章有关 Runway 的更多信息 | 跑道替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/runway-launches-node-based-workflows-for-building-custom-ai-creative-pipelines/</guid>
-      <pubDate>Fri, 24 Oct 2025 01:40:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
