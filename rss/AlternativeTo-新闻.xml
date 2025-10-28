@@ -4,7 +4,58 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Mon, 27 Oct 2025 12:42:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 01:25:19 GMT</lastBuildDate>
+    <item>
+      <title>Firefox 在地址栏中测试以隐私为中心的直接结果，并可能提供赞助</title>
+      <link>https://alternativeto.net/news/2025/10/firefox-tests-privacy-focused-direct-answers-in-the-address-bar/</link>
+      <description><![CDATA[Mozilla 正在开发 Firefox 功能，该功能可在地址栏中直接显示结果，让用户无需打开搜索结果页面即可访问答案或网站。这些结果可以包括航班状态更新、直接链接或建议，提供比重定向到搜索引擎页面的传统搜索建议更有用的响应。
+该功能通过忘记了 HTTP，Mozilla 设计的一种加密搜索查询的协议。请求通过 Fastly 进行转发，它可以看到用户的 IP，但看不到内容，而 Mozilla 会收到查询文本，但看不到用户的身份。这确保没有任何一方可以将搜索链接到个人。
+Mozilla 将继续提供定期建议，并仅在对相关性有信心时添加直接结果。该计划首先在美国推出，并计划在测试性能后进行扩展。用户可以在 Firefox 的搜索设置中禁用该功能，或者通过在 about:config 中将 browser.urlbar.quicksuggest.online.enabled 设置为“false”来禁用该功能。该公司表示，还需要注意的是，一些直接结果可能会得到赞助，但前提是它们具有相关性并且隐私得到充分保护，而且赞助商不知道他们是为谁服务的。
+查看有关 AlternativeTo 的文章有关 Mozilla Firefox 的更多信息 | Mozilla Firefox 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/firefox-tests-privacy-focused-direct-answers-in-the-address-bar/</guid>
+      <pubDate>Mon, 27 Oct 2025 22:10:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anthropic 为 Claude 添加了 Excel 集成、财务连接器和代理技能</title>
+      <link>https://alternativeto.net/news/2025/10/anthropic-adds-excel-integration-finance-connectors-and-agent-skills-to-claude/</link>
+      <description><![CDATA[Anthropic 的最新版本引入了 Claude 和 Microsoft 之间的直接集成 Excel，使用户能够在专用侧边栏界面中分析电子表格数据、清理或修改单元格以及生成新电子表格。此实时功能现已向付费 Max、Enterprise 和 Teams 用户提供预览版，并扩展了 Anthropic 与 Microsoft 的持续合作关系，继 Claude 与 Microsoft 365 和 Copilot 的集成。
+除了 Excel 集成之外，Claude 现在还与七个外部平台连接以访问实时财务数据。用户可以从 Aiera 获取收益记录，从 MT Newswires 获取突发财经新闻，从穆迪获取信用数据，从伦敦证券交易所集团 (LSEG) 获取市场信息。其他连接器包括用于安全文档管理的 Egnyte、用于投资组合监控的 Chronograph 以及用于投资研究的 Third Bridge（可通过 Aiera 访问）。每个连接器现在可供 Claude 用户使用，并提供对实时数据的直接访问。
+该公司还推出了六项以财务为重点的代理技能。这些预设行为支持收益报告分析、贴现现金流建模、可比公司分析、数据室处理、公司概况创建和绩效摘要生成等工作流程。新技能目前正在针对 Max、Enterprise 和 Teams 级别的用户进行研究预览。
+查看有关 AlternativeTo 的文章有关克劳德的更多信息 | 克劳德替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/anthropic-adds-excel-integration-finance-connectors-and-agent-skills-to-claude/</guid>
+      <pubDate>Mon, 27 Oct 2025 21:57:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Organic Maps 添加了欧盟 iOS 默认应用程序选项、更新的 OSM 数据、新的 POI</title>
+      <link>https://alternativeto.net/news/2025/10/organic-maps-adds-eu-ios-default-app-option-updated-osm-data-new-pois/</link>
+      <description><![CDATA[有机地图现在允许 iOS 上的欧盟用户通过系统设置将其设置为默认导航应用。该版本还将 OpenStreetMap 数据更新至 2025 年 10 月 21 日，提供最新的地理和路线详细信息。
+在 Android 上，导航方向中会出现道路盾牌，语音指导和启动画面已得到改进，并且兼容性已扩展到一些较旧的 Intel x86 设备。 Android Auto 现在可以恢复取消的路线并解决多个崩溃问题。
+在各个平台上，地图都会显示地铁入口名称，提供更清晰的城市视图，并添加新的兴趣点图标，例如交通岛、露营地和机场航站楼。地址和电动汽车充电站的搜索更加准确，表情符号搜索得到修复，GeoJSON 导入现在可以保留元数据。在 Linux 和 macOS 上，暗模式与系统设置同步，POI 详细信息遵循“名称 | 参考”格式。
+查看有关 AlternativeTo 的文章有关有机地图的更多信息 | 有机地图替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/organic-maps-adds-eu-ios-default-app-option-updated-osm-data-new-pois/</guid>
+      <pubDate>Mon, 27 Oct 2025 21:48:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pi-hole 6.2 发布，安全升级、Alpine Linux 支持和 DNS 增强</title>
+      <link>https://alternativeto.net/news/2025/10/pi-hole-6-2-released-with-security-upgrades-alpine-linux-support-and-dns-enhancements/</link>
+      <description><![CDATA[Pi-hole FTL v6.3、Web v6.3 和 Core v6.2 现已推出，为这个免费、开源的全网络广告拦截解决方案带来了大量更新。关键的安全改进包括缩短自签名 TLS 证书的有效期和更严格的内容安全策略 (CSP)，以增强对跨站点脚本攻击的防护。
+在此版本中，用户还获得了增强的网络功能：智能 DNS 接口检测、netlink ARP 缓存处理、更好地处理特殊域、DNS 本地化和改进的 DHCP API，提供强大的 IPv6 支持和更可靠的 DNS 操作。在核心平台改进的基础上，Pi-hole 现在为 Alpine Linux 提供完整的原生支持。这包括与 Alpine 的 APK 包管理器和 OpenRC init 系统的兼容性，使基于容器的部署的安装和管理变得更加容易。
+在这些更新之后，shell 用户可以从 bash 风格的命令行自动完成功能中受益，而 Web 界面的可用性也得到了增强。 Web 服务器配置现在更加灵活，提供了用于 Web 服务器微调的新选项、增强的 API 端点以及配置文件的在线文档。在底层，组件更新包括 SQLite 3.50.4、dnsmasq v2.92test21、 更新了 CivetWeb 以改进 Web 服务器功能，以及 TOML 库 c17。内存处理和重力数据库稳定性也得到了改进，以减少资源使用并增强错误恢复。还包括其他错误修复和稳定性改进。
+查看有关 AlternativeTo 的文章有关 Pi-hole 的更多信息 | Pi-hole 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/pi-hole-6-2-released-with-security-upgrades-alpine-linux-support-and-dns-enhancements/</guid>
+      <pubDate>Mon, 27 Oct 2025 13:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>您现在可以使用 Apple 的 Swift 编程语言开发本机 Android 应用程序</title>
+      <link>https://alternativeto.net/news/2025/10/you-can-now-develop-native-android-applications-with-apple-s-swift-programming-language/</link>
+      <description><![CDATA[Joannis Orlandos 宣布推出 Swift Android SDK 的首个夜间预览版，这标志着有兴趣使用 Swift 编程语言构建 Android 应用程序的开发人员迈出了重要一步。借助此 SDK，开发人员现在可以为 Android 设备编写和测试 Swift 代码，从而将 Swift 的影响力扩展到 Apple 平台之外。
+在此公告发布后，开发者现在就可以访问适用于 Android 的 Swift SDK。该 SDK 与 Windows 安装程序捆绑在一起，也可以单独在 Linux 和 macOS 上使用。这种灵活性意味着更多的开发者，无论其操作系统如何，都可以开始在 Android 上尝试本机 Swift 代码。
+此预览版反映了 Android 工作组数月来的专注工作，建立在更广泛的 Swift 社区多年努力的基础上。与 SDK 配合使用的“入门”指南现在可以引导新用户在 Android 设备上设置第一个本机 Swift 代码。借助这些工具，开发人员可以开始将现有的 Swift 包移植到 Android，从而为跨平台代码共享开辟新途径。
+虽然 Android SDK 是一个新的里程碑，但它也凸显了 Swift 日益成熟和互操作性。在过去的十年中，Swift 的足迹不断扩大，为云、Windows、网络浏览器和嵌入式设备中的应用程序提供支持。
+查看有关 AlternativeTo 的文章有关 Swift（编程语言）的更多信息 | Swift（编程语言）替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/you-can-now-develop-native-android-applications-with-apple-s-swift-programming-language/</guid>
+      <pubDate>Mon, 27 Oct 2025 12:05:00 GMT</pubDate>
+    </item>
     <item>
       <title>Accrescent 0.27 发布，提供新的应用商店 API、后台下载、UI 升级等</title>
       <link>https://alternativeto.net/news/2025/10/accrescent-0-27-launches-with-new-app-store-api-background-download-ui-upgrades-and-more/</link>
@@ -103,48 +154,6 @@ AI Studio 的架构以三大支柱为中心：可观测性、代理运行时和 
 查看有关 AlternativeTo 的文章有关 Sketch 的更多信息 | Sketch 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/10/sketch-launches-new-beta-with-redesigned-ui-rebuilt-inspector-and-improved-layer-management/</guid>
       <pubDate>Fri, 24 Oct 2025 22:25:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Instagram Stories 获得新的生成人工智能功能来“重新设计”你的照片和视频</title>
-      <link>https://alternativeto.net/news/2025/10/instagram-stories-get-new-generative-ai-features-to-restyle-your-photos-and-videos/</link>
-      <description><![CDATA[Meta 为由 Meta AI 提供支持的 Instagram Stories 引入了高级照片和视频重新设计功能。用户可以为他们的故事选择照片或视频，点击重新设计图标，并访问各种预设或进行自定义编辑。这些工具允许进行微妙和戏剧性的改变，使用生成人工智能来删除不需要的背景元素或添加和更改图像和短视频中的对象。
-用户可以从“太阳镜”、“机车夹克”等预设效果中进行选择，也可以选择水彩画和黑色电影等风格变化。只需点击一下即可应用这些，并且用户可以选择在应用预设后描述其他编辑。新的重新设计功能可以快速转换一切，从改变头发颜色，到为庆祝帖子添加气球，或通过创意提示调整整个背景。
-在增强创意表达的同时，Instagram Stories 现在还使用“添加您的”贴纸。这些贴纸使朋友可以轻松地重复使用您的重新设计编辑，从而鼓励病毒式传播或协作趋势。点击重新设计的图像上的贴纸，其他用户可以从自己的照片库中选择照片，应用预设，然后在他们的故事中分享。
-查看有关 AlternativeTo 的文章有关 Instagram 的更多信息 | Instagram 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/instagram-stories-get-new-generative-ai-features-to-restyle-your-photos-and-videos/</guid>
-      <pubDate>Fri, 24 Oct 2025 19:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>v0 iOS 应用程序在 App Store 上发布，用于 AI 驱动的网站建设</title>
-      <link>https://alternativeto.net/news/2025/10/v0-ios-app-launches-on-app-store-for-ai-powered-site-building/</link>
-      <description><![CDATA[v0 iOS 应用程序（Vercel 的人工智能网站构建器）现已可在 App Store 上下载。该版本允许用户直接从 iOS 设备使用协作式 AI 助手来设计、迭代和扩展 Web 应用程序。
-查看有关 AlternativeTo 的文章有关 Vercel v0 的更多信息 | Vercel Alternatives 的 v0]]></description>
-      <guid>https://alternativeto.net/news/2025/10/v0-ios-app-launches-on-app-store-for-ai-powered-site-building/</guid>
-      <pubDate>Fri, 24 Oct 2025 14:53:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Biome 2.3 带来了 Vue、Svelte 和 Astro 文件支持</title>
-      <link>https://alternativeto.net/news/2025/10/biome-2-3-brings-vue-svelte-and-astro-file-support/</link>
-      <description><![CDATA[Biome 2.3 引入了对格式化和 linting 的全面支持 Vue、Svelte 和 Astro 文件，支持以脚本和样式处理 JavaScript、TypeScript 和 CSS 标签。此版本还添加了 HTML 格式的配置选项，包括缩进控制，并带来了与 Tailwind v4 的兼容性。其他更新包括对反应域的更改以及跳过和仅标志的增强灵活性。
-查看有关 AlternativeTo 的文章有关生物群落的更多信息 | 生物群落替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/biome-2-3-brings-vue-svelte-and-astro-file-support/</guid>
-      <pubDate>Fri, 24 Oct 2025 14:49:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Stitch 利用 Gemini 2.5 Pro 的创意功能增强 UI 设计</title>
-      <link>https://alternativeto.net/news/2025/10/google-stitch-enhances-ui-design-with-gemini-2-5-pro-s-creative-features/</link>
-      <description><![CDATA[Google Stitch 已升级其设计代理，以充分利用 Gemini 2.5 Pro 的创意功能。 Stitch 专为创建网络和移动应用程序的用户界面而设计，引入了增强的布局、更鲜艳的颜色、更清晰的副本以及改进的字体和照片配对。
-查看有关 AlternativeTo 的文章有关 Google Stitch 的更多信息 | Google Stitch 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/google-stitch-enhances-ui-design-with-gemini-2-5-pro-s-creative-features/</guid>
-      <pubDate>Fri, 24 Oct 2025 14:27:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google AI Studio 首次推出注释模式以直接改进应用程序</title>
-      <link>https://alternativeto.net/news/2025/10/google-ai-studio-debuts-annotation-mode-for-direct-app-refinements/</link>
-      <description><![CDATA[Google AI Studio 推出了注释模式，使用户能够直接在应用中突出显示任何组件、按钮或文本以进行细化。 Gemini 自动更改这些元素，旨在减少开发人员的手动调整。
-查看有关 AlternativeTo 的文章详细了解 Google AI Studio | Google AI Studio 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/google-ai-studio-debuts-annotation-mode-for-direct-app-refinements/</guid>
-      <pubDate>Fri, 24 Oct 2025 14:19:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
