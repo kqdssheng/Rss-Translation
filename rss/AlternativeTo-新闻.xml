@@ -4,7 +4,7 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Tue, 28 Oct 2025 01:25:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 12:40:38 GMT</lastBuildDate>
     <item>
       <title>Firefox 在地址栏中测试以隐私为中心的直接结果，并可能提供赞助</title>
       <link>https://alternativeto.net/news/2025/10/firefox-tests-privacy-focused-direct-answers-in-the-address-bar/</link>
@@ -41,7 +41,7 @@ Mozilla 将继续提供定期建议，并仅在对相关性有信心时添加直
       <description><![CDATA[Pi-hole FTL v6.3、Web v6.3 和 Core v6.2 现已推出，为这个免费、开源的全网络广告拦截解决方案带来了大量更新。关键的安全改进包括缩短自签名 TLS 证书的有效期和更严格的内容安全策略 (CSP)，以增强对跨站点脚本攻击的防护。
 在此版本中，用户还获得了增强的网络功能：智能 DNS 接口检测、netlink ARP 缓存处理、更好地处理特殊域、DNS 本地化和改进的 DHCP API，提供强大的 IPv6 支持和更可靠的 DNS 操作。在核心平台改进的基础上，Pi-hole 现在为 Alpine Linux 提供完整的原生支持。这包括与 Alpine 的 APK 包管理器和 OpenRC init 系统的兼容性，使基于容器的部署的安装和管理变得更加容易。
 在这些更新之后，shell 用户可以从 bash 风格的命令行自动完成功能中受益，而 Web 界面的可用性也得到了增强。 Web 服务器配置现在更加灵活，提供了用于 Web 服务器微调的新选项、增强的 API 端点以及配置文件的在线文档。在底层，组件更新包括 SQLite 3.50.4、dnsmasq v2.92test21、 更新了 CivetWeb 以改进 Web 服务器功能，以及 TOML 库 c17。内存处理和重力数据库稳定性也得到了改进，以减少资源使用并增强错误恢复。还包括其他错误修复和稳定性改进。
-查看有关 AlternativeTo 的文章有关 Pi-hole 的更多信息 | Pi-hole 替代品]]></description>
+查看有关 AlternativeTo 的文章有关 Pi-hole 的更多信息 | Pi-hole 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/10/pi-hole-6-2-released-with-security-upgrades-alpine-linux-support-and-dns-enhancements/</guid>
       <pubDate>Mon, 27 Oct 2025 13:40:00 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@ Mozilla 将继续提供定期建议，并仅在对相关性有信心时添加直
       <link>https://alternativeto.net/news/2025/10/flathub-launches-improved-license-compliance-tools-for-developers/</link>
       <description><![CDATA[Flathub 已发布增强工具来简化应用程序开发人员的许可证合规性。随着 Flatpak、freedesktop-sdk、GNOME 和 KDE 团队共同开发的更新，新的工具和 基础设施使得在应用程序中包含准确的许可证和版权声明变得更加容易。
 建议开发人员使用更新的运行时并验证其 Flatpak 应用程序中是否包含许可证信息。操作系统维护人员还应该使用 Flathub 的最新运行时重建映像。
-查看有关 AlternativeTo 的文章有关 Flathub 的更多信息 | Flathub 替代品]]></description>
+查看有关 AlternativeTo 的文章有关 Flathub 的更多信息 | Flathub 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/10/flathub-launches-improved-license-compliance-tools-for-developers/</guid>
       <pubDate>Mon, 27 Oct 2025 08:55:37 GMT</pubDate>
     </item>
