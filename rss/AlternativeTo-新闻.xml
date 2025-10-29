@@ -4,7 +4,92 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Tue, 28 Oct 2025 12:40:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 01:39:07 GMT</lastBuildDate>
+    <item>
+      <title>Fedora 43 与 GNOME 49、Anaconda WebUI 安装程序和最新的 Python 一起发布</title>
+      <link>https://alternativeto.net/news/2025/10/fedora-43-launches-with-gnome-49-anaconda-webui-installer-and-latest-python/</link>
+      <description><![CDATA[Fedora Linux 43 现已推出，为 Fedora Workstation 带来更新，Fedora KDE，以及其他基于 Red Hat Enterprise Linux 最新社区分支的 Spin。该版本提供了广泛的软件包升级和系统改进。
+Fedora Workstation 43 包括 GNOME 49，现在使用 Wayland 在删除 X11 软件包后作为默认显示服务器，尽管 X11 应用程序仍然在 Wayland 中运行。 GNOME 49 引入了重新设计的日历应用程序、更好的键盘导航和新的辅助选项。 Showtime 取代 GNOME Videos (Totem) 作为默认视频播放器，并且Papers 取代 Evince 作为文档查看器。该更新还添加了 HDR 壁纸、远程桌面多点触控支持、锁屏媒体控件以及通过 Noto Color Emoji 的 COLR 字体改进了表情符号渲染。与此同时，Fedora KDE 推出了 Plasma 6.4，其中包含新的按工作空间平铺选项、辅助功能改进和更好的绘图板 支持。
+新的 Anaconda WebUI 安装程序采用 React 和 Cockpit 构建，成为所有 Spin 的默认安装程序，提供引导分区和集成帮助，同时替换旧的基于 GTK 的安装程序。 Fedora 43 包括 Python 3.14，具有性能提升和改进的错误消息、对 Hare 编程语言的支持、更大的 2GB 引导分区、 Fedora Kinoite 中默认启用自动更新。
+查看有关 AlternativeTo 的文章有关 Fedora 的更多信息 | Fedora 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/fedora-43-launches-with-gnome-49-anaconda-webui-installer-and-latest-python/</guid>
+      <pubDate>Tue, 28 Oct 2025 17:33:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zillow 在其应用程序中推出了用于协作家庭购物的消息传递</title>
+      <link>https://alternativeto.net/news/2025/10/zillow-launches-messaging-for-collaborative-home-shopping-in-its-app/</link>
+      <description><![CDATA[Zillow 在其应用程序中引入了消息传递功能，允许家庭购物者与共同购物者聊天、共享列表并保持井井有条。列表对话现在保存在单个线程中，减少了错过的消息以及在应用程序之间切换的需要。
+查看有关 AlternativeTo 的文章有关 Zillow 的更多信息 | Zillow 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/zillow-launches-messaging-for-collaborative-home-shopping-in-its-app/</guid>
+      <pubDate>Tue, 28 Oct 2025 15:52:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Slack 的线性代理支持通过对话创建问题</title>
+      <link>https://alternativeto.net/news/2025/10/linear-agent-for-slack-enables-issue-creation-from-conversations/</link>
+      <description><![CDATA[Linear 推出了 Slack 代理，可以直接从对话中创建问题，从而实现两个平台之间工作流程的自动化。用户可以用自然语言添加问题详细信息，或让代理从聊天上下文中推断出问题的详细信息。
+商务版和企业版套餐提供此功能。
+查看有关 AlternativeTo 的文章有关线性的更多信息 | 线性替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/linear-agent-for-slack-enables-issue-creation-from-conversations/</guid>
+      <pubDate>Tue, 28 Oct 2025 15:46:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>mymind 引入自动笔记摘要和标记</title>
+      <link>https://alternativeto.net/news/2025/10/mymind-introduces-automatic-note-summarization-and-tagging/</link>
+      <description><![CDATA[mymind 引入了由 Claude 4.5 Sonnet 提供支持的自动笔记摘要和标记功能，丰富了笔记 改进的召回率和更广泛的搜索选项。此升级目前仅适用于 Mastermind 会员，适用于满足设定阈值的新笔记或通过手动分析的现有笔记。
+该功能使用 AWS Bedrock 确保笔记内容保持私密性并得到安全处理。
+查看有关 AlternativeTo 的文章有关 mymind 的更多信息 | mymind 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/mymind-introduces-automatic-note-summarization-and-tagging/</guid>
+      <pubDate>Tue, 28 Oct 2025 15:42:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adobe 在 Photoshop、Premiere AI 遮罩和 Firefly 中的生成音频中添加了 AI 聊天机器人</title>
+      <link>https://alternativeto.net/news/2025/10/adobe-adds-ai-chatbots-to-photoshop-premiere-ai-masking-and-generative-audio-in-firefly/</link>
+      <description><![CDATA[Adobe 最近在其大部分 Creative Cloud 产品中宣布了多项新的 AI 功能，其中Adobe Photoshop 和 Adobe Express 是最引人注目的新增功能，允许用户 自动执行重复的编辑任务并通过对话界面获得帮助。新的 Photoshop AI Assistant 目前处于内测阶段，已集成到侧边栏中，除了提供创意建议和教程之外，还可以管理背景去除、颜色更改、对象选择、遮罩和颜色编辑。用户可以通过“代理”模式要求助手执行某些任务，其中人工智能与程序界面实时交互，允许他们随时切换回手动控制。
+除了 AI 聊天机器人之外，Photoshop 还获得了新的 Generative Fill 合作伙伴模型，包括 Google Gemini 2.5 Flash、Black Forest Labs FLUX.1 Kontext 是一项由 Topaz Labs AI 提供支持的生成式升级功能，以及新的Firefly Image Model 5 beta，Adobe 迄今为止最先进的模型，能够生成逼真的 4 兆像素图像而无需升级，以及用于逼真照明和颜色混合的新 Harmonize 工具。
+对于 Premiere Pro，Adobe 添加了用于自动主题隔离的 AI 对象蒙版，以及用于更快跟踪的新矩形、椭圆、钢笔和矢量蒙版工具。该应用还将通过即将在 Premiere 和 YouTube 上推出的新“为 YouTube Shorts 创作”中心与 YouTube Shorts 集成，提供独家模板和效果。 Adobe Lightroom 引入了 AI 辅助剔除测试版，该工具可根据焦点、角度和清晰度过滤图像，帮助从大量照片集中快速选择最佳照片。
+该公司正在预览 Project Moonlight，这是一个实验性的跨应用人工智能助手，它将 Photoshop、Premiere 和 Lightroom 连接到一个统一的创意系统中，该系统链接到 Creative Cloud 库和社交渠道，以了解用户的风格，生成定制的图像、视频和帖子，并根据受众数据提出增长策略建议。与此同时，Adobe Firefly 添加了新的 AI 生成音频工具，类似于 Suno AI，包括生成配乐和生成语音，均经过商业用途授权材料的训练，并由 Adobe 的 Firefly 语音模型和 ElevenLabs 提供支持。该公司还宣布正在开发一款基于网络的 Firefly 视频编辑器，该编辑器结合了所有这些工具，并将于下个月进入私人测试版。
+查看有关 AlternativeTo 的文章有关 Adobe Creative Cloud 的更多信息 | Adobe Creative Cloud 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/adobe-adds-ai-chatbots-to-photoshop-premiere-ai-masking-and-generative-audio-in-firefly/</guid>
+      <pubDate>Tue, 28 Oct 2025 15:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google Stitch 集成了用于设计标记的 tldraw 注释工具</title>
+      <link>https://alternativeto.net/news/2025/10/google-stitch-integrates-tldraw-annotation-tool-for-design-markups/</link>
+      <description><![CDATA[Google Stitch 已集成 tldraw 作为注释工具。 tldraw 用作独立解决方案并集成到 Stich 中，允许用户直接在其设计文件上绘图和做笔记。此功能通过在平台内启用实时标记来增强设计协作。
+查看有关 AlternativeTo 的文章有关 tldraw 的更多信息 | tldraw 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/google-stitch-integrates-tldraw-annotation-tool-for-design-markups/</guid>
+      <pubDate>Tue, 28 Oct 2025 15:34:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify 推出重新设计的 Apple TV 应用，包含视频播客和音乐视频</title>
+      <link>https://alternativeto.net/news/2025/10/spotify-rolls-out-redesigned-apple-tv-app-with-video-podcasts-and-music-videos/</link>
+      <description><![CDATA[Spotify 推出了重新设计的 Apple TV 应用程序，经过重新构建，以获得更好的速度、视觉效果和可用性。它与 tvOS 26 一起发布，采用针对大屏幕优化的全新 Liquid Glass UI。
+此更新添加了视频播客和音乐视频，以前仅限于移动设备。音乐视频播放功能已在美国和加拿大推出，并已在其他 97 个国家/地区推出。当曲目包含视频时，用户会看到“切换到视频”提示，而视频播客现在支持播放速度调整。
+该应用程序还包括用于远程控制、实时歌词、队列管理和跨设备连续播放的 Spotify Connect。 Spotify DJ 推荐现已在电视上提供，虽然自动更新将于 11 月中旬到来，但用户已经可以从 App Store 下载新版本。
+查看有关 AlternativeTo 的文章有关 Spotify 的更多信息 | Spotify 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/spotify-rolls-out-redesigned-apple-tv-app-with-video-podcasts-and-music-videos/</guid>
+      <pubDate>Tue, 28 Oct 2025 15:29:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Slack 工作对象让开发人员构建交互式实时应用程序体验</title>
+      <link>https://alternativeto.net/news/2025/10/slack-work-objects-let-developers-build-interactive-real-time-app-experiences/</link>
+      <description><![CDATA[Slack 工作对象已面向所有用户推出，允许开发人员构建动态和交互式应用程序，将静态预览转变为可操作的空间。此更新引入了实时文件详细信息、嵌入图像以及使用 unfurl 和 flexpane 组件直接从侧边栏执行的新操作。
+与 Google 云端硬盘、OneDrive、体式、PagerDuty、Box 和 Highspot 已上线。
+查看有关 AlternativeTo 的文章有关 Slack 的更多信息 | Slack 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/slack-work-objects-let-developers-build-interactive-real-time-app-experiences/</guid>
+      <pubDate>Tue, 28 Oct 2025 15:27:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>埃隆·马斯克 (Elon Musk) 推出了 Grokipedia，这是一个新的人工智能驱动的维基百科替代品及其“觉醒”</title>
+      <link>https://alternativeto.net/news/2025/10/elon-musk-launches-grokipedia-a-new-ai-driven-alternative-to-wikipedia-and-its-wokeness-/</link>
+      <description><![CDATA[埃隆·马斯克推出了Grokipedia，这是一个基于人工智能助手构建的全新人工智能在线百科全书Grok 并定位为 Wikipedia 的替代品，他形容维基百科受到“觉醒”左翼的影响 观点。 马斯克将其描述为“对文明极其重要”，也是重塑信息在线呈现方式的更广泛努力的一部分。
+Grokipedia 的界面与维基百科非常相似，具有中央搜索栏和带有引文的结构化文章，尽管它目前缺乏图像、视频，甚至平台上不同文章之间的超链接等功能。与维基百科的一个主要区别是，该平台使用人工智能来生成和审查条目，而不是依赖社区编辑，这意味着至少在发布时，所提供的信息没有真正的人类贡献。只有某些页面显示编辑按钮，访问者可以通过弹出表单提出更正建议。大多数条目都声称经过了 Grok 的“事实检查”，鉴于大型语言模型已知的不准确性，引发了人们对可靠性的质疑。
+尽管强调与 Wikipedia 的差异，但不能忽视的是，许多 Grokipedia 文章都是在 Creative Commons Attribution-ShareAlike 4.0 许可下改编自 Wikipedia，其中某些部分是逐字相同的。马斯克表示，他计划在 2025 年底前逐步消除这种依赖。然而，Grokipedia 处理某些主题的方式也存在显着差异，一些页面已经显示出意识形态对比，包括质疑科学共识的气候变化报道，以及有关唐纳德·特朗普和马斯克本人省略了任何有争议的细节。
+到目前为止，维基媒体基金会的回应是重申维基百科的知识“永远是人类的”，是通过合作和共识建立的。该网站推出时约有 885,000 篇文章，远少于维基百科的 710 万篇英文文章，并被标记为版本 0.1。
+查看有关 AlternativeTo 的文章有关 Grokipedia 的更多信息 | Grokipedia 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/elon-musk-launches-grokipedia-a-new-ai-driven-alternative-to-wikipedia-and-its-wokeness-/</guid>
+      <pubDate>Tue, 28 Oct 2025 13:42:51 GMT</pubDate>
+    </item>
     <item>
       <title>Firefox 在地址栏中测试以隐私为中心的直接结果，并可能提供赞助</title>
       <link>https://alternativeto.net/news/2025/10/firefox-tests-privacy-focused-direct-answers-in-the-address-bar/</link>
@@ -41,7 +126,7 @@ Mozilla 将继续提供定期建议，并仅在对相关性有信心时添加直
       <description><![CDATA[Pi-hole FTL v6.3、Web v6.3 和 Core v6.2 现已推出，为这个免费、开源的全网络广告拦截解决方案带来了大量更新。关键的安全改进包括缩短自签名 TLS 证书的有效期和更严格的内容安全策略 (CSP)，以增强对跨站点脚本攻击的防护。
 在此版本中，用户还获得了增强的网络功能：智能 DNS 接口检测、netlink ARP 缓存处理、更好地处理特殊域、DNS 本地化和改进的 DHCP API，提供强大的 IPv6 支持和更可靠的 DNS 操作。在核心平台改进的基础上，Pi-hole 现在为 Alpine Linux 提供完整的原生支持。这包括与 Alpine 的 APK 包管理器和 OpenRC init 系统的兼容性，使基于容器的部署的安装和管理变得更加容易。
 在这些更新之后，shell 用户可以从 bash 风格的命令行自动完成功能中受益，而 Web 界面的可用性也得到了增强。 Web 服务器配置现在更加灵活，提供了用于 Web 服务器微调的新选项、增强的 API 端点以及配置文件的在线文档。在底层，组件更新包括 SQLite 3.50.4、dnsmasq v2.92test21、 更新了 CivetWeb 以改进 Web 服务器功能，以及 TOML 库 c17。内存处理和重力数据库稳定性也得到了改进，以减少资源使用并增强错误恢复。还包括其他错误修复和稳定性改进。
-查看有关 AlternativeTo 的文章有关 Pi-hole 的更多信息 | Pi-hole 替代方案]]></description>
+查看有关 AlternativeTo 的文章有关 Pi-hole 的更多信息 | Pi-hole 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/10/pi-hole-6-2-released-with-security-upgrades-alpine-linux-support-and-dns-enhancements/</guid>
       <pubDate>Mon, 27 Oct 2025 13:40:00 GMT</pubDate>
     </item>
@@ -65,95 +150,6 @@ Mozilla 将继续提供定期建议，并仅在对相关性有信心时添加直
 查看有关 AlternativeTo 的文章有关 Accrescent 的更多信息 | Accrescent 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/10/accrescent-0-27-launches-with-new-app-store-api-background-download-ui-upgrades-and-more/</guid>
       <pubDate>Mon, 27 Oct 2025 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Flathub 为开发者推出改进的许可证合规工具</title>
-      <link>https://alternativeto.net/news/2025/10/flathub-launches-improved-license-compliance-tools-for-developers/</link>
-      <description><![CDATA[Flathub 已发布增强工具来简化应用程序开发人员的许可证合规性。随着 Flatpak、freedesktop-sdk、GNOME 和 KDE 团队共同开发的更新，新的工具和 基础设施使得在应用程序中包含准确的许可证和版权声明变得更加容易。
-建议开发人员使用更新的运行时并验证其 Flatpak 应用程序中是否包含许可证信息。操作系统维护人员还应该使用 Flathub 的最新运行时重建映像。
-查看有关 AlternativeTo 的文章有关 Flathub 的更多信息 | Flathub 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/flathub-launches-improved-license-compliance-tools-for-developers/</guid>
-      <pubDate>Mon, 27 Oct 2025 08:55:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nuxt 4.2 带来了 TypeScript 插件，更好的错误处理和数据获取的中止控制</title>
-      <link>https://alternativeto.net/news/2025/10/nuxt-4-2-brings-typescript-plugin-better-error-handling-and-abort-control-for-data-fetching/</link>
-      <description><![CDATA[Nuxt 4.2 现已推出，为这个开源全栈框架提供了重大更新Vue.js。最显着的变化是，开发人员现在可以将 AbortController 信号直接传递给 useAsyncData 和 useFetch，从而对请求取消进行更精细的控制。在架构转变中，Nitro 服务器集成已被提取到其自己的包@nuxt/nitro-server中，为用户提供新的服务器端集成模式的灵活性。
-经过这些改进，开发体验得到了显着提升：当发生错误时，Nuxt 现在将同时呈现您的自定义错误页面和详细的技术叠加层。对早期访问功能感兴趣的人也可以选择实验性的 Vite 环境 API。
-性能增强包括渲染器依赖项的预计算、整体框架依赖项的减少以及实验性异步数据处理程序提取，旨在进一步缩短响应时间。 Nuxt 4.2 以开发人员工具为基础，引入了对 @dxup/nuxt 的实验性支持，该模块具有一套 TypeScript 插件，旨在提高类型安全性和 Nuxt 特定功能的使用。
-最后，此版本还提供了一系列其他显着的改进和错误修复，提高了整个框架的稳定性和可用性。
-查看有关 AlternativeTo 的文章有关 Nuxt.js 的更多信息 | Nuxt.js 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/nuxt-4-2-brings-typescript-plugin-better-error-handling-and-abort-control-for-data-fetching/</guid>
-      <pubDate>Mon, 27 Oct 2025 08:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Instagram 推出带有灵活排序选项的 Reels 观看历史记录</title>
-      <link>https://alternativeto.net/news/2025/10/instagram-announces-watch-history-for-reels-with-flexible-sorting-options/</link>
-      <description><![CDATA[Instagram 引入了新的“观看历史记录”功能，允许用户重新访问以前观看过的 Reels。该功能可通过“个人资料”、“设置”和“您的活动”访问。用户可以按时间顺序或按作者对观看历史记录进行排序，这比其他平台上的类似功能提供了更大的灵活性。
-查看有关 AlternativeTo 的文章有关 Instagram 的更多信息 | Instagram 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/instagram-announces-watch-history-for-reels-with-flexible-sorting-options/</guid>
-      <pubDate>Mon, 27 Oct 2025 08:45:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>据报道，苹果明年将在其苹果地图应用中引入搜索广告</title>
-      <link>https://alternativeto.net/news/2025/10/apple-will-reportedly-bring-search-ads-to-its-apple-maps-app-next-year/</link>
-      <description><![CDATA[据彭博社的 Mark Gurman 称，苹果预计将于 2025 年在 Apple 地图 中引入广告。此次更新将允许餐馆和零售商等企业为其详细信息付费，以便在用户搜索结果中更加突出地显示，这标志着苹果地图服务方式的显着转变。
-按照既定模型，Apple 地图广告系统的功能与 App Store 搜索广告类似，公司可以根据特定的用户查询为提升的可见度付费。苹果打算超越竞争对手，并表示其地图广告界面的效果应优于目前在 Google 地图 和 Waze 中提供的选项 设计和可用性方面。
-为了确保搜索结果仍然有用，Apple 将利用人工智能，将促销列表与相关的用户兴趣和查询进行匹配。该技术旨在最大限度地减少不必要的入侵并维护地图对日常用户的价值。
-然而，苹果面临着来自客户的抵制风险，因为他们对整个生态系统中的广告越来越直言不讳。许多用户对更多将广告集成到价格昂贵的设备中的服务表示担忧。苹果面临着平衡新收入来源与客户期望的挑战。
-查看有关 AlternativeTo 的文章有关 Apple 地图的更多信息 | Apple 地图替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/apple-will-reportedly-bring-search-ads-to-its-apple-maps-app-next-year/</guid>
-      <pubDate>Mon, 27 Oct 2025 08:15:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软宣布新版光环重制版并首次登陆 PlayStation</title>
-      <link>https://alternativeto.net/news/2025/10/microsoft-announces-new-halo-remake-and-its-launch-on-playstation-for-the-first-time/</link>
-      <description><![CDATA[微软已宣布原版光环：战斗进化的全新重制版，名为光环：战役进化，定于 2026 年发布。该游戏将在 Xbox Series X/S、PC、Xbox Game Pass、Xbox Cloud Gaming 和 PlayStation 5，标志着 Halo 主线游戏将首次在 PlayStation 上推出。此举巩固了公司对其全面多平台战略的承诺，该战略始于几年前宣布了四款初始游戏，现在包括一些 Xbox 前最大的独占游戏，例如《极限竞速：地平线》、《战争机器》 战争，最后是光环。
-在这个周年纪念版中，该战役将使用新的图形引擎，并在虚幻引擎 5 中重建，具有更新的动画、重新制作的音乐和新录制的语音作品。电影序列经过重新构思，而不是简单地增强，提供了新的方向和结构。此外，玩家还会发现新的武器、车辆和三个原创的前传任务来扩展故事。经过技术和创意方面的彻底修改，光环：战役进化在战役中加入了四人在线合作模式，但不会提供单独的多人游戏组件，因此重点放在战役上。
-尽管这一决定引发了粉丝们的讨论，因为光环自该品牌成立以来一直被视为微软最具标志性的系列，但该公司与 Xbox 游戏工作室负责人 Matt Booty 一起加强了其跨平台战略转变，他表示这种多平台方法反映了微软为吸引新受众而做出的努力，以与TikTok 和电影而不是其他游戏平台（有点奇怪，但还可以），以及最近推出的 第一款与华硕合作的 Xbox 品牌手持设备（本质上是一台运行稍微修改版本的手持电脑Windows 11），其中还包括 Steam 等第三方商店。
-查看有关 AlternativeTo 的文章有关 Halo 的更多信息 | Halo 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/microsoft-announces-new-halo-remake-and-its-launch-on-playstation-for-the-first-time/</guid>
-      <pubDate>Sun, 26 Oct 2025 18:50:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Typst 0.14 默认提供 PDF 可访问性和原生 PDF 图像</title>
-      <link>https://alternativeto.net/news/2025/10/typst-0-14-brings-pdf-accessibility-by-default-and-native-pdf-images/</link>
-      <description><![CDATA[Typst 0.14 默认添加了辅助功能，确保所有生成的 PDF 均已标记并与屏幕阅读器等辅助技术兼容。可选的 PDF/UA-1 导出模式可以进行更严格的验证，以检测丢失的标题、标题层次结构问题或缺少的替代文本。新的辅助功能指南还提供了有关编写替代文本以及区分图形和图像描述以支持通用辅助功能的清晰说明。
-此更新还允许用户将 PDF 文件作为本机图像格式导入，完全集成到 Typst 的导出系统中，无需外部依赖。 PDF 图像直接嵌入 PDF 中，转换为 SVG 以供 HTML 或 SVG 导出，并光栅化为 PNG 以供 Web 预览。此功能由基于 Rust 的新 hayro 库提供支持，提高了性能和可移植性。扩展的 PDF 支持现在包括版本 1.4 至 2.0 以及所有 PDF/A 子标准，以实现更广泛的专业兼容性。
-Typst 0.14 还添加了字符级对齐方式，通过调整单词和单个字符之间的间距来优化文本对齐，以获得更流畅、更平衡的段落。
-查看有关 AlternativeTo 的文章有关 Typst 的更多信息 | Typst 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/typst-0-14-brings-pdf-accessibility-by-default-and-native-pdf-images/</guid>
-      <pubDate>Sun, 26 Oct 2025 14:23:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stability AI 和 EA 合作构建用于游戏开发的生成式 AI 模型和工具</title>
-      <link>https://alternativeto.net/news/2025/10/stability-ai-and-ea-partner-to-build-generative-ai-models-and-tools-for-game-development/</link>
-      <description><![CDATA[Stability AI 和 Electronic Arts 宣布建立战略合作伙伴关系，旨在改变游戏开发 生成式人工智能。此次合作将使两家公司共同开发针对游戏创建过程不同阶段的新的生成人工智能模型、工具和工作流程。 Stability AI 带来了生成式 AI 方面的技术专长，而 EA 则利用了其在数字互动娱乐方面的经验。这一组合旨在重塑数字游戏的构建方式，为艺术家、设计师和开发者提供新的创意方法。
-在首批举措中，该团队将专注于加速基于物理的渲染 (PBR) 材质的创建。他们计划开发工具，让艺术家能够生成 2D 纹理，确保在不同环境下准确的颜色和照明精度。在这些以资产为中心的改进的基础上，合作伙伴关系还将探索人工智能驱动的系统，根据设计师的提示预先可视化整个 3D 环境，支持创意方向和内容构思。
-这些进步预计将使原型设计和视觉叙事更加高效，使开发团队能够更快、更大规模地可视化和完善游戏概念。
-查看有关 AlternativeTo 的文章有关稳定扩散的更多信息 | 稳定扩散替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/stability-ai-and-ea-partner-to-build-generative-ai-models-and-tools-for-game-development/</guid>
-      <pubDate>Sat, 25 Oct 2025 11:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mistral 推出具有开放权重模型目录和可观测性功能的 AI Studio</title>
-      <link>https://alternativeto.net/news/2025/10/mistral-launches-ai-studio-with-open-weight-models-catalog-and-observability-features/</link>
-      <description><![CDATA[法国人工智能初创公司Mistral推出了Mistral AI Studio，这是一个基于网络的平台，用于构建、 使用专有模型和开放权重模型观察和部署人工智能应用程序。它取代了之前的 Le Platforme API 中心，将其扩展为支持完整开发生命周期的企业级环境。该平台提供广泛的模型目录，包括 Mistral Large、Mixtral 8x7B、Mistral 8x22B、Pixtral 多模式、Voxtral 语音以及用于代码生成的 Codestral。
-AI Studio 的架构以三大支柱为中心：可观测性、代理运行时和 AI 注册表。可观察性层支持性能监控、数据沿袭可视化和自动评估数据集创建。由 Temporal 提供支持的代理运行时运行持久且上下文丰富的流程，支持检索增强的生成工作流程。 AI 注册表管理所有 AI 资产的版本控制、沿袭跟踪和访问控制，以确保治理和合规性。
-该平台具有一个以开发人员为中心的仪表板，用于评估、微调和批量管理，以及一个用于测试模型和调整参数的 Playground。代码解释器、图像生成和 Web 搜索等集成工具可实现多模式和编程工作流程。部署选项包括托管访问、云集成、自托管和私人托管，所有这些都具有内置的安全过滤器和护栏。 Mistral AI Studio 于 10 月 24 日进入内测版，企业可以抢先体验。
-查看有关 AlternativeTo 的文章有关 Mistral AI Studio 的更多信息 | Mistral AI Studio 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/mistral-launches-ai-studio-with-open-weight-models-catalog-and-observability-features/</guid>
-      <pubDate>Sat, 25 Oct 2025 07:24:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sketch 推出新测试版，重新设计的 UI、重建的检查器和改进的图层管理</title>
-      <link>https://alternativeto.net/news/2025/10/sketch-launches-new-beta-with-redesigned-ui-rebuilt-inspector-and-improved-layer-management/</link>
-      <description><![CDATA[Sketch 推出了即将推出的“哥本哈根”大更新的测试版，引入了针对 macOS Tahoe 的重大重新设计和重大界面更改。新界面引入了 600 多个重新绘制的图标、刷新的上下文工具栏以及与 Apple 一致的微妙的Liquid Glass 效果 最新的设计语言。
-更新还带来了重建的检查器，带有可移动面板、精致的滑块和输入，以及专用的原型面板，以实现更好的工作流程。图层列表添加了焦点模式，仅突出显示选定的图层、同级图层和父容器，使复杂文件更易于组织。当内容超过容器大小时，堆栈布局现在可以自动换行，新的背景删除工具使用 Apple 的设备上机器学习来直接隔离应用程序中的主题或人员。
-其他改进包括“调整大小以填充”操作，用于调整图层大小以适合容器、更快的文档加载和更准确的渲染。 CSS 导出生成更清晰的代码，界面更新添加了 90° 旋转按钮、新的图层列表过滤器和记住的角样式。该更新还删除了 Touch Bar 支持并引入了更清晰的符号管理选项。 官方变更日志中详细介绍了其他改进，例如重命名效果、快捷方式更新和较小的菜单更改。
-查看有关 AlternativeTo 的文章有关 Sketch 的更多信息 | Sketch 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/sketch-launches-new-beta-with-redesigned-ui-rebuilt-inspector-and-improved-layer-management/</guid>
-      <pubDate>Fri, 24 Oct 2025 22:25:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
