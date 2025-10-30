@@ -4,7 +4,17 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Thu, 30 Oct 2025 01:29:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 12:40:39 GMT</lastBuildDate>
+    <item>
+      <title>YouTube 为电视带来 4K 缩略图、人工智能视频升级、改进的搜索和购物工具</title>
+      <link>https://alternativeto.net/news/2025/10/youtube-brings-4k-thumbnails-ai-video-upscaling-improved-search-and-shopping-tools-to-tv/</link>
+      <description><![CDATA[YouTube 即将推出五项新功能，旨在让电视设备上的内容观看和发现更加身临其境。技术亮点之一是，该平台很快将允许创作者上传高达 50 MB 的视频缩略图，较之前的 2 MB 限制大幅增加。这支持推出 4K 分辨率缩略图，为观看者提供更高的视觉质量。
+在这些升级的基础上，YouTube 推出了一款 AI 工具，可以自动升级上传分辨率低于 1080p 的视频。该系统首先会将标清视频增强到高清，长期计划将达到 4K 升级。创作者仍然拥有控制权，可以选择退出此人工智能增强功能，而观众则可以选择观看改进的或原始的视频版本，并在播放设置中清楚地标记。
+电视内容发现的增强功能包括沉浸式预览，允许用户直接从主页翻阅喜爱的频道。此外，从频道页面启动的搜索结果现在将优先考虑该频道自己的视频，从而更容易找到相关内容。对于购物，观看者可以扫描标记视频上的二维码，在手机上打开产品页面，新的实验可以在视频中的特定时刻启用产品功能。
+查看有关 AlternativeTo 的文章有关更多信息YouTube | YouTube 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/youtube-brings-4k-thumbnails-ai-video-upscaling-improved-search-and-shopping-tools-to-tv/</guid>
+      <pubDate>Thu, 30 Oct 2025 08:50:00 GMT</pubDate>
+    </item>
     <item>
       <title>Cursor 2.0 引入了 Composer、其第一个编码模型和并行代理工作流程</title>
       <link>https://alternativeto.net/news/2025/10/cursor-2-0-introduces-composer-its-first-coding-model-and-parallel-agent-workflows/</link>
@@ -18,7 +28,7 @@ Cursor 2.0 支持在单独的 git 工作树或远程计算机上并行运行多�
     <item>
       <title>Grammarly 母公司更名为 Super human，并推出新的人工智能助手</title>
       <link>https://alternativeto.net/news/2025/10/grammarly-s-parent-company-rebrands-as-superhuman-and-launches-a-new-ai-assistant/</link>
-      <description><![CDATA[几个月前收购了电子邮件客户端 Super human 之后，Grammarly 现已宣布将其母公司更名为Super human，整合了整套工具，包括 Grammarly、Super human Mail、Coda.io，以及新推出的人工智能助手，名为 Super human Go，位于 Super human Suite 下。值得注意的是，语法工具 Grammarly 仍将存在并暂时保留其当前名称，尽管更名反映了公司对人工智能驱动的生产力工具的更广泛关注，而不仅仅是公司最初的校对和写作助手。 Super human 套件可供 Grammarly Pro 订阅者使用，Super human Go 在 2026 年 2 月 1 日之前对所有付费用户免费。
+      <description><![CDATA[几个月前收购了电子邮件客户端 Super human 之后，Grammarly 现已宣布将其母公司更名为Super human，整合了整套工具，包括 Grammarly、Super human Mail、Coda.io，以及新推出的名为 Super human Go 的人工智能助手，位于 Super human Suite 下。值得注意的是，语法工具 Grammarly 仍将存在并暂时保留其当前名称，尽管更名反映了公司对人工智能驱动的生产力工具的更广泛关注，而不仅仅是公司最初的校对和写作助手。 Super human 套件可供 Grammarly Pro 订阅者使用，Super human Go 在 2026 年 2 月 1 日之前对所有付费用户免费。
 Super human Go 作为写作、电子邮件和生产力的集成 AI 助手，直接内置于 Grammarly 浏览器扩展中，可以生成写作建议、提供电子邮件反馈和自动化工作流程。该助理可与第三方应用连接，例如 Jira、Gmail、Google 云端硬盘 和 Google 日历 用于记录支持票证、检索会议时间以及在写作环境中访问上下文信息。用户可以通过扩展程序中的切换按钮启用 Super human Go，并使用熟悉的侧边栏界面与其进行交互，该界面提供提示、建议以及对专用 AI 代理的访问。
 新的 Pro 计划每月费用为 12 美元，包括多语言语法和语气校正，以及使用 Coda 中的所有项目管理功能，而商业计划每月费用为 33 美元，除了上述所有内容之外，还提供 Super human Mail 的访问权限。展望未来，SuperHuman 计划扩展 Go 的集成，并向 Coda 和 SuperHuman Mail 引入更多人工智能支持的功能。
 查看有关 AlternativeTo 的文章更多信息语法 | 语法替代品]]></description>
@@ -121,7 +131,7 @@ Fedora Workstation 43 包含 GNOME 49，现在使用 Wayland 作为默认显示�
 除了 AI 聊天机器人之外，Photoshop 还获得了新的 Generative Fill 合作伙伴模型，包括 Google Gemini 2.5 Flash、Black Forest Labs FLUX.1 Kontext（由 Topaz Labs AI，以及新的 Firefly Image Model 5 beta（Adobe 迄今为止最先进的模型），能够生成逼真的 4 兆像素图像而无需升级，以及用于逼真照明和颜色混合的新 Harmonize 工具。
 对于 Premiere Pro，Adobe 添加了用于自动主题隔离的 AI 对象蒙版，以及用于更快跟踪的新矩形、椭圆、钢笔和矢量蒙版工具。该应用还将通过即将在 Premiere 和 YouTube 上推出的新“为 YouTube Shorts 创作”中心与 YouTube Shorts 集成，提供独家模板和效果。 Adobe Lightroom 引入了 AI 辅助剔除测试版，该工具可根据焦点、角度和清晰度过滤图像，帮助从大量照片集中快速选择最佳照片。
 该公司正在预览 Project Moonlight，这是一个实验性的跨应用人工智能助手，它将 Photoshop、Premiere 和 Lightroom 连接到一个统一的创意系统中，该系统链接到 Creative Cloud 库和社交渠道，以了解用户的风格，生成定制的图像、视频和帖子，并根据受众数据提出增长策略建议。与此同时，Adobe Firefly 添加了与 Suno AI 类似的新 AI 生成音频工具，包括生成配乐和生成语音，两者均经过商业用途授权材料的培训，并由 Adobe 的 Firefly 语音模型和 ElevenLabs。该公司还宣布正在开发一款基于网络的 Firefly 视频编辑器，该编辑器结合了所有这些工具，并将于下个月进入私人测试版。
-查看有关 AlternativeTo 的文章更多关于 Adobe Creative Cloud | Adobe Creative Cloud 替代方案]]></description>
+查看有关 AlternativeTo 的文章更多关于 Adobe Creative Cloud | Adobe Creative Cloud 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/10/adobe-adds-ai-chatbots-to-photoshop-premiere-ai-masking-and-generative-audio-in-firefly/</guid>
       <pubDate>Tue, 28 Oct 2025 15:36:00 GMT</pubDate>
     </item>
@@ -142,15 +152,6 @@ Fedora Workstation 43 包含 GNOME 49，现在使用 Wayland 作为默认显示�
 查看有关 AlternativeTo 的文章更多信息Spotify | Spotify 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/10/spotify-rolls-out-redesigned-apple-tv-app-with-video-podcasts-and-music-videos/</guid>
       <pubDate>Tue, 28 Oct 2025 15:29:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Slack 工作对象让开发人员构建交互式实时应用程序体验</title>
-      <link>https://alternativeto.net/news/2025/10/slack-work-objects-let-developers-build-interactive-real-time-app-experiences/</link>
-      <description><![CDATA[Slack 工作对象已面向所有用户推出，允许开发人员构建动态和交互式应用程序，将静态预览转变为可操作的空间。此更新引入了实时文件详细信息、嵌入图像以及使用 unfurl 和 flexpane 组件直接从侧边栏执行的新操作。
-与 Google 云端硬盘、OneDrive、Asana、PagerDuty、Box 和 Highspot 已上线。
-查看有关 AlternativeTo 的文章更多信息Slack | Slack 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/slack-work-objects-let-developers-build-interactive-real-time-app-experiences/</guid>
-      <pubDate>Tue, 28 Oct 2025 15:27:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
