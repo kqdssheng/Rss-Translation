@@ -4,7 +4,28 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Fri, 31 Oct 2025 01:27:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Oct 2025 12:41:29 GMT</lastBuildDate>
+    <item>
+      <title>Proton 推出 Lumo for Business，作为其专注于隐私的人工智能助手的新计划</title>
+      <link>https://alternativeto.net/news/2025/10/proton-launches-lumo-for-business-as-a-new-plan-for-its-privacy-focused-ai-assistant/</link>
+      <description><![CDATA[Proton 扩展了其以隐私为中心的人工智能助手 Lumo，为商业客户提供服务。这一新产品名为 Lumo for Business，允许组织将人工智能纳入其工作流程，同时保持严格的安全性、合规性和生产力标准。
+基于 Proton 的隐私理念，Lumo for Business 专为保密要求较高的公司而设计，例如管理敏感知识产权的财务顾问、律师事务所和技术公司。该平台支持强大的数据保护：Lumo 从不保留对话记录，团队聊天历史记录受到零访问加密的保护，以确保只有用户才能访问。
+除了保密之外，Proton 表示与 Lumo 共享的所有业务数据（无论是与知识产权还是客户信息相关）仍处于用户的专属控制之下。 Lumo 提供跨网络、iOS 和 Android 的可访问性，每个应用程序完全开源，允许对其安全和隐私声明进行独立验证。
+Lumo for Business 的起价为每月 23 欧元（按年付款）或每月 28 欧元。
+查看有关 AlternativeTo 的文章有关 Lumo 的更多信息Proton | Proton Alternatives 的 Lumo]]></description>
+      <guid>https://alternativeto.net/news/2025/10/proton-launches-lumo-for-business-as-a-new-plan-for-its-privacy-focused-ai-assistant/</guid>
+      <pubDate>Fri, 31 Oct 2025 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rust 1.91 添加了对 ARM64 Windows 平台的第 1 层支持、原始指针警告等</title>
+      <link>https://alternativeto.net/news/2025/10/rust-1-91-adds-tier-1-support-for-arm64-windows-platform-raw-pointer-warnings-and-more/</link>
+      <description><![CDATA[Rust 1.91 现已推出，继续该语言的发展，重点关注可用性和安全性。此更新将 aarch64-pc-windows-msvc 目标提升到第 1 层支持，将 Rust 的最高级别维护和测试扩展到在 Windows 上使用 64 位 ARM 系统的开发人员。
+除了平台改进之外，Rust 1.91 还引入了新的默认警告 lint，当函数返回指向局部变量的原始指针时，它会向开发人员发出警报。虽然 Rust 的借用检查器已经阻止返回悬空引用，但此 lint 解决了涉及检查器不跟踪的原始指针的情况。发行说明表明，未来版本预计将进一步增强原始指针和不安全代码安全性。
+在这些核心更新之后，Rust 1.91 带来了一系列新稳定的 API，帮助开发人员充满信心地访问更多功能。此版本还包含其他细微的增强和修复，有助于提高整体语言稳定性和用户体验。
+查看有关 AlternativeTo 的文章更多信息Rust | Rust 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/rust-1-91-adds-tier-1-support-for-arm64-windows-platform-raw-pointer-warnings-and-more/</guid>
+      <pubDate>Fri, 31 Oct 2025 07:15:00 GMT</pubDate>
+    </item>
     <item>
       <title>Affinity 设计平台现已成为一款免费的一体化应用程序，用于照片、矢量和布局设计</title>
       <link>https://alternativeto.net/news/2025/10/affinity-design-platform-is-now-a-free-all-in-one-app-for-photo-vector-and-layout-design/</link>
@@ -83,7 +104,7 @@
       <title>Unite 6.5 发布，支持 macOS 26 Tahoe 并更新设计</title>
       <link>https://alternativeto.net/news/2025/10/unite-6-5-launches-with-macos-26-tahoe-support-and-updated-design/</link>
       <description><![CDATA[Unite 6.5 引入了对 macOS 26 Tahoe 的完整本机支持、刷新的 UI 元素、新图标和改进的兼容性。该更新对查找栏、密码管理器、广告拦截器、辅助功能和整体稳定性进行了重要增强。 Notion、Threads 和 ChatGPT 的预构建应用配置也得到了增强。
-查看有关 AlternativeTo 的文章更多有关团结 | 团结替代方案]]></description>
+查看有关 AlternativeTo 的文章更多有关团结 | 团结替代品]]></description>
       <guid>https://alternativeto.net/news/2025/10/unite-6-5-launches-with-macos-26-tahoe-support-and-updated-design/</guid>
       <pubDate>Thu, 30 Oct 2025 15:49:48 GMT</pubDate>
     </item>
@@ -125,26 +146,6 @@
 查看有关 AlternativeTo 的文章更多信息Stremio | Stremio 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/10/video-streaming-app-stremio-launches-on-apple-tv-extending-streaming-to-tvos-users/</guid>
       <pubDate>Thu, 30 Oct 2025 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>YouTube 为电视带来 4K 缩略图、人工智能视频升级、改进的搜索和购物工具</title>
-      <link>https://alternativeto.net/news/2025/10/youtube-brings-4k-thumbnails-ai-video-upscaling-improved-search-and-shopping-tools-to-tv/</link>
-      <description><![CDATA[YouTube 即将推出五项新功能，旨在让电视设备上的内容观看和发现更加身临其境。技术亮点之一是，该平台很快将允许创作者上传高达 50 MB 的视频缩略图，较之前的 2 MB 限制大幅增加。这支持推出 4K 分辨率缩略图，为观看者提供更高的视觉质量。
-在这些升级的基础上，YouTube 推出了一款 AI 工具，可以自动升级上传分辨率低于 1080p 的视频。该系统首先会将标清视频增强到高清，长期计划将达到 4K 升级。创作者仍然拥有控制权，可以选择退出此人工智能增强功能，而观众则可以选择观看改进的或原始的视频版本，并在播放设置中清楚地标记。
-电视内容发现的增强功能包括沉浸式预览，允许用户直接从主页翻阅喜爱的频道。此外，从频道页面启动的搜索结果现在将优先考虑该频道自己的视频，从而更容易找到相关内容。对于购物，观看者可以扫描标记视频上的二维码，在手机上打开产品页面，新的实验可以在视频中的特定时刻启用产品功能。
-查看有关 AlternativeTo 的文章有关更多信息YouTube | YouTube 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/youtube-brings-4k-thumbnails-ai-video-upscaling-improved-search-and-shopping-tools-to-tv/</guid>
-      <pubDate>Thu, 30 Oct 2025 08:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cursor 2.0 引入了 Composer、其第一个编码模型和并行代理工作流程</title>
-      <link>https://alternativeto.net/news/2025/10/cursor-2-0-introduces-composer-its-first-coding-model-and-parallel-agent-workflows/</link>
-      <description><![CDATA[Cursor 2.0 通过 Composer 为开发人员引入了重大更新，这是其第一个专为快速、低延迟代理编码而构建的内部编码模型。大多数转弯在 30 秒内完成，并且该模型的运行速度比类似模型快四倍左右。早期测试人员注意到，在代码库范围内的语义搜索等培训工具的支持下，可以更顺利地处理多步骤编码任务，以便更好地理解大型项目。
-该更新还首次推出了以代理而不是文件为中心的重新设计的界面，帮助开发人员在代理管理实施和导航的同时专注于结果。如果用户更喜欢传统的工作流程，他们仍然可以打开文件或切换回经典 IDE 布局。
-Cursor 2.0 支持在单独的 git 工作树或远程计算机上并行运行多个代理，从而在多个模型处理同一任务时减少冲突并提高输出质量。为了简化审查和测试，它添加了一个工具来检查代理所做的更改，以及一个内置浏览器，使代理可以测试和完善自己的代码。该更新可供下载，完整详细信息请参见官方变更日志
-查看有关 AlternativeTo 的文章更多信息光标 | 光标替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/cursor-2-0-introduces-composer-its-first-coding-model-and-parallel-agent-workflows/</guid>
-      <pubDate>Wed, 29 Oct 2025 22:11:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
