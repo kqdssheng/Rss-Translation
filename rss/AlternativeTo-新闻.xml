@@ -4,7 +4,43 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sat, 01 Nov 2025 01:39:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Nov 2025 12:37:48 GMT</lastBuildDate>
+    <item>
+      <title>Granola 增加了语音激活和 CMD+T 快捷键的聊天功能</title>
+      <link>https://alternativeto.net/news/2025/10/granola-adds-chat-feature-with-voice-activation-and-cmd-t-shortcut/</link>
+      <description><![CDATA[Granola推出了一项新的聊天功能，允许用户直接与平台对话。可以通过单击麦克风或使用 CMD+T 键盘快捷键来访问聊天。
+此更新旨在简化用户与 Granola 的交互。
+查看有关 AlternativeTo 的文章更多信息格兰诺拉麦片 | 格兰诺拉麦片替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/granola-adds-chat-feature-with-voice-activation-and-cmd-t-shortcut/</guid>
+      <pubDate>Sat, 01 Nov 2025 09:50:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deezer 推出强调色、应用程序图标和贴纸定制</title>
+      <link>https://alternativeto.net/news/2025/10/deezer-rolls-out-accent-color-app-icon-and-sticker-customization/</link>
+      <description><![CDATA[Deezer 用户现在可以使用新的强调色选项对应用进行个性化设置，为 iOS、Android 和 Web 上的浅色和深色模式提供 14 种色调。该平台还推出了适用于 iOS 的自定义应用程序图标，Android 支持将于 11 月中旬推出。
+此外，主题贴纸现在可用于 iOS 和 Android 上的播放列表自定义。
+查看有关 AlternativeTo 的文章有关 Deezer 的更多信息 | Deezer 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/deezer-rolls-out-accent-color-app-icon-and-sticker-customization/</guid>
+      <pubDate>Sat, 01 Nov 2025 09:50:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Opera Neon 推出 ODRA，一种先进的浏览器原生深度研究人工智能</title>
+      <link>https://alternativeto.net/news/2025/10/opera-neon-introduces-odra-an-advanced-browser-native-deep-research-ai/</link>
+      <description><![CDATA[Opera Deep Research Agent (ODRA) 现已在 Opera Neon 中提供，直接在浏览器中引入多代理 AI 支持的研究。该工具集成了多种语言模型，并使用Opera的RACE框架进行可靠的信息合成和评估。
+用户还可以将研究会议导出为 PDF 文件，以便于共享和引文管理。
+查看有关 AlternativeTo 的文章有关 Opera 的更多信息霓虹灯 | Opera 霓虹灯替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/opera-neon-introduces-odra-an-advanced-browser-native-deep-research-ai/</guid>
+      <pubDate>Sat, 01 Nov 2025 09:49:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于 Linux 的 Proton VPN CLI 现已在 Ubuntu、Debian 和 Fedora 上可用</title>
+      <link>https://alternativeto.net/news/2025/10/proton-vpn-cli-for-linux-now-available-on-ubuntu-debian-and-fedora/</link>
+      <description><![CDATA[Proton VPN 推出了适用于 Linux 的命令行界面，现已在 Ubuntu、Debian 和 Fedora。初始版本包括对 WireGuard 协议的支持，提供连接和断开 VPN 服务器的选项，以及按国家、城市或付费用户的特定服务器选择服务器的选项。
+尚未包含 NetShield 和 Kill Switch 等高级功能，必须使用配置文件编辑设置。
+查看有关 AlternativeTo 的文章有关 Proton 的更多信息VPN | Proton VPN 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/proton-vpn-cli-for-linux-now-available-on-ubuntu-debian-and-fedora/</guid>
+      <pubDate>Sat, 01 Nov 2025 09:49:44 GMT</pubDate>
+    </item>
     <item>
       <title>WhatsApp 为加密聊天备份添加了密钥支持，以提高数据安全性</title>
       <link>https://alternativeto.net/news/2025/10/whatsapp-adds-passkey-support-to-encrypted-chat-backups-for-improved-data-security/</link>
@@ -114,41 +150,6 @@ Lumo for Business 的起价为每月 23 欧元（按年付款）或每月 28 欧
 查看有关 AlternativeTo 的文章详细了解朱尔斯 | 朱尔斯替代品]]></description>
       <guid>https://alternativeto.net/news/2025/10/google-unveils-jules-for-gemini-cli-bringing-autonomous-coding-tasks-to-the-terminal/</guid>
       <pubDate>Thu, 30 Oct 2025 18:50:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gitea 1.25.0 删除了已弃用的身份验证、流式传输档案、添加了 3D 预览</title>
-      <link>https://alternativeto.net/news/2025/10/gitea-1-25-0-removes-deprecated-auth-streams-archives-adds-3d-previews/</link>
-      <description><![CDATA[Gitea 1.25.0 引入了身份验证、性能和协作工作流程方面的重大更新。已弃用的身份验证源已被删除，要求用户在升级之前更新配置以保持访问权限。
-该版本添加了支持 STL 和 OBJ 格式的内置 3D 和 CAD 文件预览，允许团队直接在浏览器中查看模型。存储库存档现在默认传输 ZIP、TAR.GZ 和捆绑文件，从而提高了速度并减少了大型下载期间的内存使用量。存档下载还支持基本身份验证，以便更轻松地与自动化工具集成。
-工作流程改进包括新的编辑文件功能，该功能可以自动为没有写访问权限的用户分叉存储库，从而允许快速创建拉取请求。 Gitea Actions 现在支持成功或失败运行的电子邮件通知，身份验证更新带来了更好的 SSH 提交签名以及 SSH 密钥和用户配置文件的 OpenID Connect 同步。用户可以在官方 Gitea 1.25.0 发行说明中查看完整的变更日志和完整的修复列表。
-查看有关 AlternativeTo 的文章更多信息Gitea | Gitea 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/gitea-1-25-0-removes-deprecated-auth-streams-archives-adds-3d-previews/</guid>
-      <pubDate>Thu, 30 Oct 2025 18:29:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub Copilot 现已在 Slack Marketplace 中提供，并提供线程内代码洞察</title>
-      <link>https://alternativeto.net/news/2025/10/github-copilot-now-available-in-slack-marketplace-with-in-thread-code-insights/</link>
-      <description><![CDATA[GitHub Copilot 现已在 Slack Marketplace 中提供，允许用户直接在 Slack 线程中访问 AI 生成的代码建议和见解。这种集成支持实时协作，并将代码审查和反馈与 Slack 联系起来，以实现无缝上下文保留。
-查看有关 AlternativeTo 的文章更多信息Slack | Slack 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/github-copilot-now-available-in-slack-marketplace-with-in-thread-code-insights/</guid>
-      <pubDate>Thu, 30 Oct 2025 16:24:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wispr Flow 按应用程序类型引入了个性化文本格式</title>
-      <link>https://alternativeto.net/news/2025/10/wispr-flow-introduces-personalized-text-formatting-by-app-type/</link>
-      <description><![CDATA[Wispr Flow 现在允许用户使用其新的个性化样式功能按应用类别个性化文本格式。用户可以为消息、电子邮件和其他应用类型选择不同的语气，例如“非常休闲”、“休闲”、“兴奋”或“正式”。
-此功能目前在 Mac 和 Windows 上提供英文版本，并计划支持 iPhone。
-查看有关 AlternativeTo 的文章有关 Wispr 的更多信息Flow | Wispr Flow 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/wispr-flow-introduces-personalized-text-formatting-by-app-type/</guid>
-      <pubDate>Thu, 30 Oct 2025 16:20:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gradle 9.2.0带来了Windows ARM支持和稳定的Daemon工具链</title>
-      <link>https://alternativeto.net/news/2025/10/gradle-9-2-0-brings-windows-arm-support-and-stable-daemon-toolchain/</link>
-      <description><![CDATA[Gradle 9.2.0 现在支持在 Windows ARM (ARM64) 设备上运行，扩展了平台兼容性。守护程序工具链功能现已稳定，提供更可靠的构建工具链管理。此版本还为自定义软件组件提供了发布 API 增强功能，并改进了依赖性验证和 Antlr 任务分组的诊断功能。
-查看有关 AlternativeTo 的文章更多信息Gradle | Gradle 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/gradle-9-2-0-brings-windows-arm-support-and-stable-daemon-toolchain/</guid>
-      <pubDate>Thu, 30 Oct 2025 16:08:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
