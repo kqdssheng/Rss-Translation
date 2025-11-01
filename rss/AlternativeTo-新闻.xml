@@ -4,7 +4,75 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Fri, 31 Oct 2025 12:41:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Nov 2025 01:39:03 GMT</lastBuildDate>
+    <item>
+      <title>WhatsApp 为加密聊天备份添加了密钥支持，以提高数据安全性</title>
+      <link>https://alternativeto.net/news/2025/10/whatsapp-adds-passkey-support-to-encrypted-chat-backups-for-improved-data-security/</link>
+      <description><![CDATA[WhatsApp 通过引入密钥加密备份来增强用户聊天备份的安全性。密钥允许用户使用指纹、面部识别或设备屏幕锁定代码来保护备份数据，而不是依赖密码或冗长的加密密钥。这简化了备份保护过程，并且无需记住复杂的凭据。
+在此更改之后，保护个人聊天和通话的相同安全机制现在也适用于聊天备份。用户只需点击一下或浏览一下即可方便地访问受保护的备份，确保他们的消息既私密又可访问。
+此功能将在未来几周和几个月内向所有 WhatsApp 用户推出。逐步推出的目的是在不造成重大干扰的情况下广泛提供增强的备份安全性。
+查看有关 AlternativeTo 的文章更多信息WhatsApp | WhatsApp 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/whatsapp-adds-passkey-support-to-encrypted-chat-backups-for-improved-data-security/</guid>
+      <pubDate>Fri, 31 Oct 2025 20:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>kde Plasma 6.5、gnome 49.1 和 kernel 6.17.5 头条 opensuse tumbleweed 更新</title>
+      <link>https://alternativeto.net/news/2025/10/kde-plasma-6-5-gnome-49-1-and-kernel-6-17-5-headline-opensuse-tumbleweed-updates/</link>
+      <description><![CDATA[openSUSE Tumbleweed 在 10 月份收到了重要的桌面和系统更新。 KDE Gear 25.08.2 和 Plasma 6.5 增强了桌面功能，包括崩溃修复、主题选项和改进的通知。 GNOME 49.1 提供了会话可靠性改进、用户界面修复和更强大的系统保护。
+Kernel 6.17.5、Mesa 25.2.5、PipeWire 1.5.81等核心更新进一步提升了硬件支持和多媒体性能。
+查看有关 AlternativeTo 的文章更多信息openSUSE | openSUSE 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/kde-plasma-6-5-gnome-49-1-and-kernel-6-17-5-headline-opensuse-tumbleweed-updates/</guid>
+      <pubDate>Fri, 31 Oct 2025 16:58:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>经过六个月的社区审查后，Firefox 推出了新的推荐扩展</title>
+      <link>https://alternativeto.net/news/2025/10/firefox-introduces-new-recommended-extensions-after-six-month-community-review/</link>
+      <description><![CDATA[Mozilla 最近完成了一个为期六个月的社区项目，旨在选择符合其安全、功能和用户体验最高标准的新 Firefox 推荐扩展。该计划的新项目包括用于语言学习的Yomitan、用于跨多种格式翻译的沉浸式翻译以及Checker Plus for Gmail简化电子邮件管理。
+其他推荐的扩展程序包括网络使用情况跟踪（时间跟踪器）、内容组织（Raindrop.io）等。
+查看有关 AlternativeTo 的文章有关 Mozilla 的更多信息Firefox | Mozilla Firefox 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/firefox-introduces-new-recommended-extensions-after-six-month-community-review/</guid>
+      <pubDate>Fri, 31 Oct 2025 16:54:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Immich 2.2 发布，包含 OCR 搜索、网页布局增强、移动工作流程更新等</title>
+      <link>https://alternativeto.net/news/2025/10/immich-2-2-released-with-ocr-search-web-layout-boost-mobile-workflow-updates-and-more/</link>
+      <description><![CDATA[Immich 2.2.0 是这个用于管理照片和视频的自托管开源解决方案的最新版本。光学字符识别 (OCR) 搜索是最受欢迎的功能之一，现已推出。用户可以在图像中搜索文本，从而大大提高大型照片集中的可发现性。
+在这些搜索改进之后，网络用户将注意到更快、重新实现的合理布局，该布局计算缩略图大小的速度要快几倍。这会显着提高包含大量照片的相册的性能。
+为了帮助处理重复的图像，网络上的资产信息部分已经过重新设计。现在，它会突出显示日期和时间、位置以及资产包含的相册数量。此 UI 更新使用户可以快速扫描详细信息，从而有助于决定保留哪些重复项。
+在移动设备上，工作流程更新包括访问资产所在的相册，可以直接从信息表中导航。流行的“显示相似照片”功能现已出现在移动设备上，帮助用户随时随地查找相关图像。此外，相册的活动视图采用聊天式布局，更容易查看消息，视频播放器进度条现在可以更精确地报告时长。
+同时，Docker 用户的设置已得到简化：example.env 文件默认为 IMMICH_RELEASE=v2，引用最新的 2.x.x 映像。
+查看有关 AlternativeTo 的文章更多信息Immich | Immich 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/immich-2-2-released-with-ocr-search-web-layout-boost-mobile-workflow-updates-and-more/</guid>
+      <pubDate>Fri, 31 Oct 2025 16:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Signal Desktop 添加了可自定义的聊天文件夹以更好地组织</title>
+      <link>https://alternativeto.net/news/2025/10/signal-desktop-adds-customizable-chat-folders-for-better-organization/</link>
+      <description><![CDATA[Signal Desktop 添加了可自定义的聊天文件夹，使用户能够更清晰地组织消息。聊天可以过滤到单独的文件夹中，以存放一对一消息、群组对话或未读消息。用户还可以创建项目特定的文件夹，并通过聊天设置或右键单击任何聊天来管理它们。
+查看有关 AlternativeTo 的文章更多信息信号 | 信号替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/signal-desktop-adds-customizable-chat-folders-for-better-organization/</guid>
+      <pubDate>Fri, 31 Oct 2025 16:29:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dia 浏览器推出焦点模式、自定义快捷方式和 Google Meet PiP</title>
+      <link>https://alternativeto.net/news/2025/10/dia-browser-launches-focus-mode-custom-shortcuts-and-google-meet-pip/</link>
+      <description><![CDATA[Dia 浏览器引入了焦点模式，让用户通过使用快捷方式将注意力集中在屏幕的特定部分。现在支持自定义键盘快捷键以实现个性化导航。
+最后，还添加了 Google Meet 画中画功能，让视频通话始终可见。
+查看有关 AlternativeTo 的文章有关 Dia 的更多信息浏览器 | Dia 浏览器替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/dia-browser-launches-focus-mode-custom-shortcuts-and-google-meet-pip/</guid>
+      <pubDate>Fri, 31 Oct 2025 16:24:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qt Creator 18 添加了对开发容器的实验性支持和其他改进</title>
+      <link>https://alternativeto.net/news/2025/10/qt-creator-18-adds-experimental-support-for-development-containers-and-other-improvements/</link>
+      <description><![CDATA[Qt Creator 18 现已作为该跨平台代码编辑器的最新版本推出，支持 C++、QML、JavaScript 和 Python 等语言。一个关键亮点是引入了开发容器支持，它通过检测 devcontainer.json 文件并创建针对项目需求量身定制的 Docker 容器来自动化环境设置。
+除此之外，用户还可以选择自动检测套件或为开发容器指定自定义套件，并使用专用的 Qt Creator 设置来控制命令桥等方面。在 UI 方面，在欢迎模式下添加了概述选项卡，整合了其他选项卡的内容并提供定制的教程、示例和以开发人员为中心的博客文章。
+在此版本中，代码编辑中现在提供选项卡式编辑器选项，以方便处理多个文件。对于 C++ 开发，集成的 Clangd/LLVM 工具链已更新至版本 21.1。 QML 开发人员现在可以灵活地使用最新的 QML 语言服务器，无论其项目的 Qt 版本如何。
+使用 GitHub Copilot 的开发人员可以通过 GitHub Enterprise 环境进行连接。这些更新还伴随着对项目模式的增强、用于远程Linux设备的新工具配置选项，以及各种其他改进和错误修复。
+查看有关 AlternativeTo 的文章有关 Qt 的更多信息Creator | Qt Creator 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/10/qt-creator-18-adds-experimental-support-for-development-containers-and-other-improvements/</guid>
+      <pubDate>Fri, 31 Oct 2025 13:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>Proton 推出 Lumo for Business，作为其专注于隐私的人工智能助手的新计划</title>
       <link>https://alternativeto.net/news/2025/10/proton-launches-lumo-for-business-as-a-new-plan-for-its-privacy-focused-ai-assistant/</link>
@@ -61,7 +129,7 @@ Lumo for Business 的起价为每月 23 欧元（按年付款）或每月 28 欧
       <title>GitHub Copilot 现已在 Slack Marketplace 中提供，并提供线程内代码洞察</title>
       <link>https://alternativeto.net/news/2025/10/github-copilot-now-available-in-slack-marketplace-with-in-thread-code-insights/</link>
       <description><![CDATA[GitHub Copilot 现已在 Slack Marketplace 中提供，允许用户直接在 Slack 线程中访问 AI 生成的代码建议和见解。这种集成支持实时协作，并将代码审查和反馈与 Slack 联系起来，以实现无缝上下文保留。
-查看有关 AlternativeTo 的文章更多信息Slack | Slack 替代方案]]></description>
+查看有关 AlternativeTo 的文章更多信息Slack | Slack 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/10/github-copilot-now-available-in-slack-marketplace-with-in-thread-code-insights/</guid>
       <pubDate>Thu, 30 Oct 2025 16:24:16 GMT</pubDate>
     </item>
@@ -81,71 +149,6 @@ Lumo for Business 的起价为每月 23 欧元（按年付款）或每月 28 欧
 查看有关 AlternativeTo 的文章更多信息Gradle | Gradle 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/10/gradle-9-2-0-brings-windows-arm-support-and-stable-daemon-toolchain/</guid>
       <pubDate>Thu, 30 Oct 2025 16:08:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Day One 为 iOS 和 Web 用户推出自动 Strava 活动导入</title>
-      <link>https://alternativeto.net/news/2025/10/day-one-launches-automatic-strava-activity-imports-for-ios-and-web-users/</link>
-      <description><![CDATA[Day One 现在与 Strava 集成，允许用户自动将锻炼导入为日记条目，集成统计数据、地图、照片和个人笔记。所有导入的条目都会捕获活动位置、天气，并进行加密以保护隐私。
-此功能可供 iPhone、iPad 和 Web 上的 Day One Premium 用户使用，并且即将推出 Android 支持。
-查看有关 AlternativeTo 的文章有关 Day 的更多信息一 | 第一天替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/day-one-launches-automatic-strava-activity-imports-for-ios-and-web-users/</guid>
-      <pubDate>Thu, 30 Oct 2025 16:03:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>WinRAR 7.20 Beta 加速了可靠的存档删除和大型 ZIP 处理</title>
-      <link>https://alternativeto.net/news/2025/10/winrar-7-20-beta-accelerates-solid-archive-deletion-and-large-zip-handling/</link>
-      <description><![CDATA[WinRAR 7.20 Beta 在删除固定 RAR 存档中的文件时引入了重大性能改进，减少了重新压缩并直接复制不受影响的块。该更新还改进了 SFX 变量、路径排除，并修复了 ZIP 存档和存档转换期间密码处理的问题。
-添加了按工作日或月份生成存档名称的高级选项，以及用于固定存档的修订命令行开关。
-查看有关 AlternativeTo 的文章更多信息WinRAR | WinRAR 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/winrar-7-20-beta-accelerates-solid-archive-deletion-and-large-zip-handling/</guid>
-      <pubDate>Thu, 30 Oct 2025 15:57:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Unite 6.5 发布，支持 macOS 26 Tahoe 并更新设计</title>
-      <link>https://alternativeto.net/news/2025/10/unite-6-5-launches-with-macos-26-tahoe-support-and-updated-design/</link>
-      <description><![CDATA[Unite 6.5 引入了对 macOS 26 Tahoe 的完整本机支持、刷新的 UI 元素、新图标和改进的兼容性。该更新对查找栏、密码管理器、广告拦截器、辅助功能和整体稳定性进行了重要增强。 Notion、Threads 和 ChatGPT 的预构建应用配置也得到了增强。
-查看有关 AlternativeTo 的文章更多有关团结 | 团结替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/unite-6-5-launches-with-macos-26-tahoe-support-and-updated-design/</guid>
-      <pubDate>Thu, 30 Oct 2025 15:49:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Opera One 使用 Neon Chat Agent 升级浏览器 AI，以获得更好的上下文</title>
-      <link>https://alternativeto.net/news/2025/10/opera-one-upgrades-browser-ai-with-neon-chat-agent-for-better-context/</link>
-      <description><![CDATA[Opera One 已使用基于 Opera Neon 的 Neon Chat Agent 的新引擎升级了其内置浏览器 AI。更新后的人工智能提供了更高的速度、与浏览器选项卡的更深入集成以及增强的上下文感知，使其能够自动编译来自多个选项卡（包括选项卡岛）的信息。
-早期的 Aria AI 及其命令行界面正在逐步淘汰，因为新的 AI 变得始终可访问且具有上下文感知能力。
-查看有关 AlternativeTo 的文章有关 Opera 的更多信息霓虹灯 | Opera 霓虹灯替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/opera-one-upgrades-browser-ai-with-neon-chat-agent-for-better-context/</guid>
-      <pubDate>Thu, 30 Oct 2025 15:45:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>NotebookLM 添加了更大的 Gemini 上下文窗口、聊天自动保存和可自定义的目标设置</title>
-      <link>https://alternativeto.net/news/2025/10/notebooklm-adds-larger-gemini-context-window-chat-auto-save-and-customizable-goal-setting/</link>
-      <description><![CDATA[Google 正在推出 NotebookLM 的重大更新，旨在让该平台从根本上变得更智能、更强大。基于这些改进，NotebookLM 聊天现在利用 Google 最新的 Gemini 模型，在所有计划中启用完整的 100 万个令牌上下文窗口。这一进步可以显着提高性能和质量，尤其是在分析大型文档集合时，并增强系统的上下文理解和信息检索。
-继这些基础性更改之后，NotebookLM 还引入了自动保存对话功能。用户现在可以关闭会话并稍后返回，而不会丢失任何对话历史记录，从而支持更加无缝和灵活的工作流程。同时，聊天定制现在可供所有用户使用。任何人都可以定制聊天的目标、声音或角色——从选项中进行选择，例如博士生分析来源或创意讲故事的人探索想法——扩大用例和个性化。
-由于这些更新，NotebookLM 现在可以提供更精确、更有洞察力和上下文感知的响应，并更有效地适应特定于项目的目标。
-查看有关 AlternativeTo 的文章更多信息NotebookLM | NotebookLM 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/notebooklm-adds-larger-gemini-context-window-chat-auto-save-and-customizable-goal-setting/</guid>
-      <pubDate>Thu, 30 Oct 2025 15:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mastodon 4.5 RC1 添加了引用帖子创作、异步回复获取和 HTTP 消息签名</title>
-      <link>https://alternativeto.net/news/2025/10/mastodon-4-5-rc1-adds-quote-post-authoring-async-reply-fetching-and-http-message-signatures/</link>
-      <description><![CDATA[Mastodon 4.5 候选版本 1 引入了多项针对客户端应用程序开发人员和实例维护人员的更新。该版本强调了对尊重同意的引用帖子的增强支持：新状态，例如blocked_account、blocked_domain和muted_account 现在指示默认情况下何时应隐藏报价，即使技术上允许也是如此。此外，用户可以通过在发帖时提供 quoted_status_id 直接通过 REST API 创建报价帖子。
-基于之前的服务器功能，Mastodon 4.5 现在默认可以获取远程状态的缺失回复。 Web 用户界面包括显示这些回复的新行为，使远程对话线程对于参与者来说更加完整。
-在版本 4.4 中进行实验性试验后，现在运行 Mastodon 4.5 及更高版本的服务器默认永久启用 HTTP 消息签名支持。这意味着包含可验证签名的传入 HTTP 消息将被完全接受，从而简化联合并提高服务器管理员的协议合规性。
-查看有关 AlternativeTo 的文章更多信息乳齿象 | 乳齿象替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/mastodon-4-5-rc1-adds-quote-post-authoring-async-reply-fetching-and-http-message-signatures/</guid>
-      <pubDate>Thu, 30 Oct 2025 13:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>视频流应用程序 Stremio 在 Apple TV 上推出，将流媒体扩展到 tvOS 用户</title>
-      <link>https://alternativeto.net/news/2025/10/video-streaming-app-stremio-launches-on-apple-tv-extending-streaming-to-tvos-users/</link>
-      <description><![CDATA[Stremio 是一款以组织来自不同服务的内容而闻名的视频流应用，现已发布适用于 Apple TV 的 Stremio Lite。通过此次发布，Apple TV 用户可以访问 Stremio 庞大的电影、连续剧、直播电视和视频频道库，现在可以直接从 Apple App Store 中的官方应用程序获取这些内容。
-在此版本中，用户将受益于将视频内容发现与 Apple TV 设备上的播放集成在一起的简化观看体验。 tvOS 支持的增加标志着 Stremio 对多平台可用性承诺的扩展。
-此前，Stremio 可以在 macOS、Windows、Linux、iOS、Android 和 Android TV 上使用。通过添加 Apple TV，该应用现在可以为所有主要桌面、移动和智能电视平台上的用户提供服务。
-查看有关 AlternativeTo 的文章更多信息Stremio | Stremio 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/video-streaming-app-stremio-launches-on-apple-tv-extending-streaming-to-tvos-users/</guid>
-      <pubDate>Thu, 30 Oct 2025 10:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
