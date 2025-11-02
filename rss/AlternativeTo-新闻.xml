@@ -4,7 +4,17 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sun, 02 Nov 2025 01:40:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Nov 2025 12:34:46 GMT</lastBuildDate>
+    <item>
+      <title>Samsung Internet for PC 测试版发布，支持跨设备同步和 Galaxy AI</title>
+      <link>https://alternativeto.net/news/2025/11/samsung-internet-for-pc-beta-launches-with-cross-device-syncing-and-galaxy-ai/</link>
+      <description><![CDATA[还没有厌倦近几个月推出的新一波浏览器，例如 Perplexity Comet 或 ChatGPT Atlas 吗？好吧，你很幸运，因为名单上的下一个是三星，它刚刚发布了其著名的三星互联网浏览器的公共测试版，适用于Windows 10和美国和韩国的 Windows 11 用户。这标志着它首次出现在桌面上，将移动体验带到了更大的屏幕上，并通过三星帐户实现书签、历史记录和 Samsung Pass 凭证的完全跨设备同步。您还可以跨设备从中断处继续浏览会话。
+测试版包括Galaxy AI，具有新的浏览辅助工具，可以直接在应用程序内汇总网页和翻译文本。 Samsung Pass 允许跨设备安全登录和自动填充，保持 Galaxy 手机上已有的相同隐私标准。
+隐私选项包括用于阻止第三方跟踪器和弹出窗口的智能反跟踪，以及用于实时监控和管理保护的隐私仪表板。任何感兴趣的人都可以在 browser.samsung.com/beta 加入测试版，经过进一步测试和改进后，预计会发布更广泛的版本。
+查看有关 AlternativeTo 的文章有关三星的更多信息互联网 | 三星互联网替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/samsung-internet-for-pc-beta-launches-with-cross-device-syncing-and-galaxy-ai/</guid>
+      <pubDate>Sun, 02 Nov 2025 01:31:40 GMT</pubDate>
+    </item>
     <item>
       <title>Canva 推出新的“创意操作系统”以及新的电子邮件生成器和业务计划</title>
       <link>https://alternativeto.net/news/2025/11/canva-launches-new-creative-operating-system-with-a-new-email-builder-and-business-plan/</link>
@@ -139,16 +149,6 @@ Lumo for Business 的起价为每月 23 欧元（按年付款）或每月 28 欧
 查看有关 AlternativeTo 的文章有关 Lumo 的更多信息Proton | Proton Alternatives 的 Lumo]]></description>
       <guid>https://alternativeto.net/news/2025/10/proton-launches-lumo-for-business-as-a-new-plan-for-its-privacy-focused-ai-assistant/</guid>
       <pubDate>Fri, 31 Oct 2025 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rust 1.91 添加了对 ARM64 Windows 平台的第 1 层支持、原始指针警告等</title>
-      <link>https://alternativeto.net/news/2025/10/rust-1-91-adds-tier-1-support-for-arm64-windows-platform-raw-pointer-warnings-and-more/</link>
-      <description><![CDATA[Rust 1.91 现已推出，继续该语言的发展，重点关注可用性和安全性。此更新将 aarch64-pc-windows-msvc 目标提升到第 1 层支持，将 Rust 的最高级别维护和测试扩展到在 Windows 上使用 64 位 ARM 系统的开发人员。
-除了平台改进之外，Rust 1.91 还引入了新的默认警告 lint，当函数返回指向局部变量的原始指针时，它会向开发人员发出警报。虽然 Rust 的借用检查器已经阻止返回悬空引用，但此 lint 解决了涉及检查器不跟踪的原始指针的情况。发行说明表明，未来版本预计将进一步增强原始指针和不安全代码安全性。
-在这些核心更新之后，Rust 1.91 带来了一系列新稳定的 API，帮助开发人员充满信心地访问更多功能。此版本还包含其他细微的增强和修复，有助于提高整体语言稳定性和用户体验。
-查看有关 AlternativeTo 的文章更多信息Rust | Rust 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/rust-1-91-adds-tier-1-support-for-arm64-windows-platform-raw-pointer-warnings-and-more/</guid>
-      <pubDate>Fri, 31 Oct 2025 07:15:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
