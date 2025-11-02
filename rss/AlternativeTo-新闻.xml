@@ -4,7 +4,27 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sat, 01 Nov 2025 12:37:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Nov 2025 01:40:40 GMT</lastBuildDate>
+    <item>
+      <title>Canva 推出新的“创意操作系统”以及新的电子邮件生成器和业务计划</title>
+      <link>https://alternativeto.net/news/2025/11/canva-launches-new-creative-operating-system-with-a-new-email-builder-and-business-plan/</link>
+      <description><![CDATA[同时推出推出全新的“永久免费”一体化Affinity 应用程序，Canva 推出了“创意操作系统”，这是其主平台内的一个集成营销工作区，由以设计为中心的内部人工智能模型提供支持。该平台统一了创意工具、人工智能驱动的功能和工作流程管理，标志着 Canva 从设计应用程序演变为完整的创意管理系统。
+更新包括重新设计的视频编辑器，具有用于修剪、同步和分层素材的简化时间线，以及适合非专家用户的扩展模板库。 Canva 还添加了用于反馈收集的表单，自动将回复同步到 Canva Sheets 以便快速分析。此更新还将 Sheets 与 Canva 代码 连接起来，允许用户将收集的数据转换为交互式、可自定义的项目，这些项目可以在 Canva 中编辑并立即作为独立网页发布。新的 Canva Grow 平台使营销团队能够设计、启动和跟踪广告活动，使用 AI 不断提高绩效，有点类似于 Figma Buzz。
+现在还有一个新的电子邮件设计工具，允许用户无需编码或第三方工具即可创建品牌电子邮件活动，类似于 Mailchimp 或 BeeFree.io 等其他电子邮件构建器。最先进的人工智能功能仍然是 Canva 付费等级的一部分，包括新的 Canva 商业计划。该计划将所有 Pro 功能与团队协作工具、增强的 AI 使用、营销洞察和印刷折扣相结合，而现有 Teams 订阅者则保留当前的计划和定价。
+查看有关 AlternativeTo 的文章更多信息Canva | Canva 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/canva-launches-new-creative-operating-system-with-a-new-email-builder-and-business-plan/</guid>
+      <pubDate>Sat, 01 Nov 2025 15:12:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Proton 推出数据泄露观测站，实时跟踪暗网上的数据泄露情况</title>
+      <link>https://alternativeto.net/news/2025/10/proton-launches-data-breach-observatory-to-track-data-leaks-in-real-time-on-the-dark-web/</link>
+      <description><![CDATA[Proton 推出了数据泄露观察站，这是一个免费的公共中心，报告数据主动泄露到暗网的情况。该平台由 Proton 的滥用团队使用经过验证的情报来源构建和维护，这些情报来源也为其暗网监控服务提供支持。与传统的自我报告违规数据库不同，观察站直接从暗网来源编译信息，网络犯罪分子在暗网中交换被盗数据。
+虽然许多违规行为没有被报告或未被发现，而且企业通常没有被要求或没有动机披露事件，但这种直接方法提供了急需的可见性。通过跟踪主要的暗网泄密事件，该工具可以按行业和公司规模对泄密频率和曝光模式进行分析。与仅依靠自我报告的方法相比，这种方法可确保对现实世界的威胁进行更准确、更公正的评估。
+除了分析功能外，数据泄露观察站还允许用户使用泄露日期、大小、类型或泄露数据的敏感性、国家/地区、公司名称、行业和公司规模等过滤器来搜索泄露事件。这些工具可以帮助组织检查其部门如何受到违规行为的影响，并帮助他们制定有针对性的网络安全策略来应对。
+查看有关 AlternativeTo 的文章有关数据的更多信息数据泄露观测站 | 数据泄露观测站替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/10/proton-launches-data-breach-observatory-to-track-data-leaks-in-real-time-on-the-dark-web/</guid>
+      <pubDate>Sat, 01 Nov 2025 12:05:00 GMT</pubDate>
+    </item>
     <item>
       <title>Granola 增加了语音激活和 CMD+T 快捷键的聊天功能</title>
       <link>https://alternativeto.net/news/2025/10/granola-adds-chat-feature-with-voice-activation-and-cmd-t-shortcut/</link>
@@ -129,27 +149,6 @@ Lumo for Business 的起价为每月 23 欧元（按年付款）或每月 28 欧
 查看有关 AlternativeTo 的文章更多信息Rust | Rust 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/10/rust-1-91-adds-tier-1-support-for-arm64-windows-platform-raw-pointer-warnings-and-more/</guid>
       <pubDate>Fri, 31 Oct 2025 07:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Affinity 设计平台现已成为一款免费的一体化应用程序，用于照片、矢量和布局设计</title>
-      <link>https://alternativeto.net/news/2025/10/affinity-design-platform-is-now-a-free-all-in-one-app-for-photo-vector-and-layout-design/</link>
-      <description><![CDATA[经过漫长的等待，Serif 删除了其主要设计应用程序的下载，并在 iPad 上免费提供了这些应用程序，同时还调侃了一项“重大公告”，现在该公司终于透露，它已经取代了之前的应用程序付费 Affinity 设计套件，带有一个名为“Affinity”的一体化应用程序，现在对所有用户完全免费。新应用程序结合了 Affinity Photo、Affinity Designer 和 Affinity 的核心工具Publisher 将照片编辑、矢量图和页面布局整合到一个工作区中，无需单独购买或订阅。
-此举令许多人感到惊讶，因为用户原本预计该公司会放弃永久许可模式，该模式使该套件成为 Adobe 设计套件 的最佳替代品之一，并在 Canva 去年收购了 Serif。相反，Canva 推出了可免费访问的新 Affinity 套件，并强调其“永远免费”承诺，确保以前的所有照片、矢量和布局工具仍然免费可用。
-新界面引入了可自定义的工作室，让用户可以混合来自像素、矢量和布局环境的工具、排列面板并共享工作区设置。该应用程序支持 PSD、AI、PDF、SVG、TIFF 和 IDML 文件，并引入了通用的 .af 文件格式。它还包括智能母版页、共享文本样式和 GPU 加速实时编辑等功能。新应用程序现已推出适用于 Windows 和 Mac 的版本，iPad 版本也即将推出。
-还需要注意的是，用户需要一个免费的 Canva 帐户才能使用新应用，尽管仅需要订阅 Canva Pro 才能使用高级 AI 支持的功能，例如生成填充和图像生成。从技术上讲，这使得新应用程序比完全免费更“免费增值”，但这些人工智能工具是可选的，对于访问核心创意功能来说不是必需的。至于之前的独立应用程序，该公司确认现有付费客户可以继续使用它们，尽管它们不再可供销售或下载，这表明它们正在转向新的统一平台。
-查看有关 AlternativeTo 的文章更多信息亲和力 | 亲和力替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/affinity-design-platform-is-now-a-free-all-in-one-app-for-photo-vector-and-layout-design/</guid>
-      <pubDate>Thu, 30 Oct 2025 20:14:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌推出 Jules for Gemini CLI，将自主编码任务带到终端</title>
-      <link>https://alternativeto.net/news/2025/10/google-unveils-jules-for-gemini-cli-bringing-autonomous-coding-tasks-to-the-terminal/</link>
-      <description><![CDATA[Google 推出了 Gemini CLI 的 Jules 扩展，添加了在后台运行的自主编码助手。虽然 Gemini CLI 仍然是主动开发的主要工作区，但 Jules 在单独的虚拟机中运行来处理异步任务，例如克隆存储库、安装依赖项和编辑文件，而无需中断终端工作流程。
-开发人员可以通过简单的命令分配任务，例如/jules在主页添加登录按钮或/jules将我的所有依赖项升级到最新版本。 Jules 可以并行处理多个修复或更改，并在完成后自动将它们提交到新的 GitHub 分支，与现有版本控制流程无缝集成。
-用户可以直接从 Gemini CLI 查看任务进度，无需切换工具即可继续工作。该扩展需要 Gemini CLI 版本 0.4.0 或更高版本，并且可以通过终端命令安装，并带有可选的自动更新标志。在使用 Jules 之前，开发者必须通过 Jules 控制台创建一个帐户并连接其 GitHub 存储库。
-查看有关 AlternativeTo 的文章详细了解朱尔斯 | 朱尔斯替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/google-unveils-jules-for-gemini-cli-bringing-autonomous-coding-tasks-to-the-terminal/</guid>
-      <pubDate>Thu, 30 Oct 2025 18:50:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
