@@ -4,7 +4,37 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sun, 02 Nov 2025 12:34:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 01:40:12 GMT</lastBuildDate>
+    <item>
+      <title>Figma收购AI内容平台Weavy，推出基于节点的图像和视频编辑工具</title>
+      <link>https://alternativeto.net/news/2025/11/figma-acquires-ai-content-platform-weavy-launching-node-based-image-and-video-editing-tool/</link>
+      <description><![CDATA[Figma 已收购 Weavy.ai，这是一个围绕基于节点的媒体生成和编辑系统构建的人工智能平台。该平台将更名为Figma Weave，并集成到Figma的生态系统中，以引入人工智能驱动的图像和视频创作工具。目前，Figma 确认 Weavy 在全面转型为 Figma Weave 品牌之前将继续独立运营。
+Weavy 使用基于节点的工作流程，在一个统一的画布中连接多个 AI 模型和编辑工具，使创作者无需切换应用程序即可构建和调整复杂的流程。通过此设置，他们可以实时分支提示、比较模型输出并优化结果。编辑保持完全交互式，具有图层、灯光、颜色和相机调整的控件，可在图像和视频生成过程中无缝工作。创作者可以从简单的文本提示开始，选择他们喜欢的模型，微调结果，然后将它们自然地延伸到运动中。
+该平台支持使用 Seedance、Sora 和 Google 等模型组合提示、模型和修改，以获得有针对性的广告素材结果Veo 用于视频，FLUX.1、表意文字、Nano Banana 和 Seedream 用于图像。此次收购反映了Figma更广泛地扩展到人工智能驱动的设计工作流程，符合FLORA或Runway 的最新工具。
+查看有关 AlternativeTo 的文章更多信息Weavy.ai | Weavy.ai 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/figma-acquires-ai-content-platform-weavy-launching-node-based-image-and-video-editing-tool/</guid>
+      <pubDate>Sun, 02 Nov 2025 18:13:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trakt 推出了针对网络和移动设备的电影和电视跟踪平台的全面重新设计</title>
+      <link>https://alternativeto.net/news/2025/11/trakt-unveils-a-full-redesign-of-its-movie-and-tv-tracking-platform-for-web-and-mobile/</link>
+      <description><![CDATA[Trakt.tv 在 Project LITE 下推出了重新设计的网络体验，现在作为其整个生态系统的基础。此次更新将之前的界面替换为The New Trakt。在过渡期间，Trakt Classic 将在维护模式下保持受支持，所有用户数据（包括帐户、监视列表和历史记录）在两个版本之间完全同步。
+新界面引入了跨 Web、iOS、Android、Apple TV 和 Android TV 的现代且更大的 UI 设计，并为更多地区和设备提供了改进的性能、可靠性和可访问性。此次重建旨在加速未来的功能开发，同时保持共享的社区体验以及与第三方应用程序的集成。这些平台还鼓励第三方开发者构建自己的 Up Next、通知和过滤等功能实现。
+但是，早期社区的反应大多是负面的，用户将 LITE 版本描述为不完整且功能不如 Trakt Classic。投诉包括缺少功能、混乱的布局（例如持续存在的“正在播放”部分）以及桌面和移动设备上的可用性问题。由于 Trakt Classic 的稳定性和更丰富的工具集，许多长期用户和 VIP 用户要求继续使用 Trakt Classic。
+查看有关 AlternativeTo 的文章更多信息Trakt.tv | Trakt.tv 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/trakt-unveils-a-full-redesign-of-its-movie-and-tv-tracking-platform-for-web-and-mobile/</guid>
+      <pubDate>Sun, 02 Nov 2025 17:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Perplexity 推出人工智能驱动的对话式专利研究工具</title>
+      <link>https://alternativeto.net/news/2025/11/perplexity-launches-ai-powered-tool-for-conversational-patent-research/</link>
+      <description><![CDATA[Perplexity 推出了 Perplexity Patents，这是一种人工智能驱动的研究代理，旨在让专利探索变得更容易。它支持自然语言搜索，允许用户提出诸如“用于语言学习的人工智能专利”之类的问题，而无需复杂的关键字语法。通过引用、内联文档预览和直接访问原始来源，结果会立即显示。
+系统保留对话上下文，使用户能够优化或扩展搜索而无需重新开始。它可以识别同义词和相关术语，以揭示关键字工具经常遗漏的现有技术，例如将“健身追踪器”与“活动带”或“健康监测可穿戴设备”链接起来。它由 Perplexity 的 EB 级基础设施上的代理研究系统提供支持，从专利、学术论文、软件存储库和公共数据集中收集信息，以更广泛地展示新兴技术。
+Perplexity Patents 在全球范围内提供测试版，对所有用户免费，并为 Pro 和 Max 订阅者提供附加功能和更高的限制。
+查看有关 AlternativeTo 的文章更多关于困惑 | 困惑替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/perplexity-launches-ai-powered-tool-for-conversational-patent-research/</guid>
+      <pubDate>Sun, 02 Nov 2025 17:35:06 GMT</pubDate>
+    </item>
     <item>
       <title>Samsung Internet for PC 测试版发布，支持跨设备同步和 Galaxy AI</title>
       <link>https://alternativeto.net/news/2025/11/samsung-internet-for-pc-beta-launches-with-cross-device-syncing-and-galaxy-ai/</link>
@@ -118,37 +148,6 @@ Kernel 6.17.5、Mesa 25.2.5、PipeWire 1.5.81等核心更新进一步提升了�
 查看有关 AlternativeTo 的文章更多信息信号 | 信号替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/10/signal-desktop-adds-customizable-chat-folders-for-better-organization/</guid>
       <pubDate>Fri, 31 Oct 2025 16:29:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dia 浏览器推出焦点模式、自定义快捷方式和 Google Meet PiP</title>
-      <link>https://alternativeto.net/news/2025/10/dia-browser-launches-focus-mode-custom-shortcuts-and-google-meet-pip/</link>
-      <description><![CDATA[Dia 浏览器引入了焦点模式，让用户通过使用快捷方式将注意力集中在屏幕的特定部分。现在支持自定义键盘快捷键以实现个性化导航。
-最后，还添加了 Google Meet 画中画功能，让视频通话始终可见。
-查看有关 AlternativeTo 的文章有关 Dia 的更多信息浏览器 | Dia 浏览器替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/dia-browser-launches-focus-mode-custom-shortcuts-and-google-meet-pip/</guid>
-      <pubDate>Fri, 31 Oct 2025 16:24:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qt Creator 18 添加了对开发容器的实验性支持和其他改进</title>
-      <link>https://alternativeto.net/news/2025/10/qt-creator-18-adds-experimental-support-for-development-containers-and-other-improvements/</link>
-      <description><![CDATA[Qt Creator 18 现已作为该跨平台代码编辑器的最新版本推出，支持 C++、QML、JavaScript 和 Python 等语言。一个关键亮点是引入了开发容器支持，它通过检测 devcontainer.json 文件并创建针对项目需求量身定制的 Docker 容器来自动化环境设置。
-除此之外，用户还可以选择自动检测套件或为开发容器指定自定义套件，并使用专用的 Qt Creator 设置来控制命令桥等方面。在 UI 方面，在欢迎模式下添加了概述选项卡，整合了其他选项卡的内容并提供定制的教程、示例和以开发人员为中心的博客文章。
-在此版本中，代码编辑中现在提供选项卡式编辑器选项，以方便处理多个文件。对于 C++ 开发，集成的 Clangd/LLVM 工具链已更新至版本 21.1。 QML 开发人员现在可以灵活地使用最新的 QML 语言服务器，无论其项目的 Qt 版本如何。
-使用 GitHub Copilot 的开发人员可以通过 GitHub Enterprise 环境进行连接。这些更新还伴随着对项目模式的增强、用于远程Linux设备的新工具配置选项，以及各种其他改进和错误修复。
-查看有关 AlternativeTo 的文章有关 Qt 的更多信息Creator | Qt Creator 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/qt-creator-18-adds-experimental-support-for-development-containers-and-other-improvements/</guid>
-      <pubDate>Fri, 31 Oct 2025 13:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Proton 推出 Lumo for Business，作为其专注于隐私的人工智能助手的新计划</title>
-      <link>https://alternativeto.net/news/2025/10/proton-launches-lumo-for-business-as-a-new-plan-for-its-privacy-focused-ai-assistant/</link>
-      <description><![CDATA[Proton 扩展了其以隐私为中心的人工智能助手 Lumo，为商业客户提供服务。这一新产品名为 Lumo for Business，允许组织将人工智能纳入其工作流程，同时保持严格的安全性、合规性和生产力标准。
-基于 Proton 的隐私理念，Lumo for Business 专为保密要求较高的公司而设计，例如管理敏感知识产权的财务顾问、律师事务所和技术公司。该平台支持强大的数据保护：Lumo 从不保留对话记录，团队聊天历史记录受到零访问加密的保护，以确保只有用户才能访问。
-除了保密之外，Proton 表示与 Lumo 共享的所有业务数据（无论是与知识产权还是客户信息相关）仍处于用户的专属控制之下。 Lumo 提供跨网络、iOS 和 Android 的可访问性，每个应用程序完全开源，允许对其安全和隐私声明进行独立验证。
-Lumo for Business 的起价为每月 23 欧元（按年付款）或每月 28 欧元。
-查看有关 AlternativeTo 的文章有关 Lumo 的更多信息Proton | Proton Alternatives 的 Lumo]]></description>
-      <guid>https://alternativeto.net/news/2025/10/proton-launches-lumo-for-business-as-a-new-plan-for-its-privacy-focused-ai-assistant/</guid>
-      <pubDate>Fri, 31 Oct 2025 10:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
