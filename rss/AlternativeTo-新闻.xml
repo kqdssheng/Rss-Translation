@@ -4,7 +4,16 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Tue, 04 Nov 2025 01:28:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 12:44:02 GMT</lastBuildDate>
+    <item>
+      <title>Brave for Android 引入 CSV 密码导入和菜单自定义</title>
+      <link>https://alternativeto.net/news/2025/11/brave-for-android-introduces-csv-password-import-and-menu-customization/</link>
+      <description><![CDATA[Brave for Android 现在允许用户使用 CSV 文件导入密码，从而更轻松地从其他浏览器传输凭据。最新的更新还允许用户通过隐藏不需要的按钮来自定义主菜单。
+这些变化为 Android 用户提供了更多便利和个性化。
+查看有关 AlternativeTo 的文章有关 Brave 的更多信息 | 勇敢的替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/brave-for-android-introduces-csv-password-import-and-menu-customization/</guid>
+      <pubDate>Tue, 04 Nov 2025 08:16:15 GMT</pubDate>
+    </item>
     <item>
       <title>Bottles 52.0 带来了 Windows Vista 支持、沙盒功能、增强的稳定性等</title>
       <link>https://alternativeto.net/news/2025/11/bottles-52-0-brings-windows-vista-support-sandbox-feature-enhanced-stability-and-more/</link>
@@ -140,16 +149,6 @@ Weavy 使用基于节点的工作流程，在一个统一的画布中连接多�
 查看有关 AlternativeTo 的文章更多信息Weavy.ai | Weavy.ai 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/11/figma-acquires-ai-content-platform-weavy-launching-node-based-image-and-video-editing-tool/</guid>
       <pubDate>Sun, 02 Nov 2025 18:13:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trakt 推出了针对网络和移动设备的电影和电视跟踪平台的全面重新设计</title>
-      <link>https://alternativeto.net/news/2025/11/trakt-unveils-a-full-redesign-of-its-movie-and-tv-tracking-platform-for-web-and-mobile/</link>
-      <description><![CDATA[Trakt.tv 在 Project LITE 下推出了重新设计的网络体验，现在作为其整个生态系统的基础。此次更新将之前的界面替换为The New Trakt。在过渡期间，Trakt Classic 将在维护模式下保持受支持，所有用户数据（包括帐户、监视列表和历史记录）在两个版本之间完全同步。
-新界面引入了跨 Web、iOS、Android、Apple TV 和 Android TV 的现代且更大的 UI 设计，并为更多地区和设备提供了改进的性能、可靠性和可访问性。此次重建旨在加速未来的功能开发，同时保持共享的社区体验以及与第三方应用程序的集成。这些平台还鼓励第三方开发者构建自己的 Up Next、通知和过滤等功能实现。
-但是，早期社区的反应大多是负面的，用户将 LITE 版本描述为不完整且功能不如 Trakt Classic。投诉包括缺少功能、混乱的布局（例如持续存在的“正在播放”部分）以及桌面和移动设备上的可用性问题。由于 Trakt Classic 的稳定性和更丰富的工具集，许多长期用户和 VIP 用户要求继续使用 Trakt Classic。
-查看有关 AlternativeTo 的文章更多信息Trakt.tv | Trakt.tv 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/trakt-unveils-a-full-redesign-of-its-movie-and-tv-tracking-platform-for-web-and-mobile/</guid>
-      <pubDate>Sun, 02 Nov 2025 17:41:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
