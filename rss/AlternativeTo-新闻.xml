@@ -4,7 +4,102 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Mon, 03 Nov 2025 12:42:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 01:28:36 GMT</lastBuildDate>
+    <item>
+      <title>Bottles 52.0 带来了 Windows Vista 支持、沙盒功能、增强的稳定性等</title>
+      <link>https://alternativeto.net/news/2025/11/bottles-52-0-brings-windows-vista-support-sandbox-feature-enhanced-stability-and-more/</link>
+      <description><![CDATA[Bottles 52.0“我回来了”继续让 Linux 用户运行 Windows 软件和游戏，在其核心功能的基础上进行了总体稳定性改进和更流畅的用户体验。此版本全面引入了多项修复和用户界面增强功能。
+板载对话框已迁移到 AdwDialog，从而改进了与 libadwaita 的集成。该对话框现在可以提供有关正在进行的操作的清晰、实时的反馈。此外，用户还可以在流程中取消瓶子创建和组件下载，从而获得对工作流程的新控制。
+通过此更新，沙箱功能现在默认启用，提供了额外的安全层。平台兼容性也更广泛，因为添加了对 Windows Vista 和 st 终端 的支持。
+在技术方面，通过基于块的数据传输增强了复制性能，并且该软件解决了包括“是目录”错误和配置加载失败在内的错误。该库现在可以在卸载软件后正确删除孤立的条目。默认情况下启用字体平滑，而 GNOME 已更新至版本 49。 Weblate 翻译再次正常运行，并且更明显的捐赠按钮完善了这个新版本的改进。
+查看有关 AlternativeTo 的文章更多信息瓶子 | 瓶子替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/bottles-52-0-brings-windows-vista-support-sandbox-feature-enhanced-stability-and-more/</guid>
+      <pubDate>Mon, 03 Nov 2025 20:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>KeePass 2.60 发布，具有各种用户界面、集成增强和错误修复</title>
+      <link>https://alternativeto.net/news/2025/11/keepass-2-60-released-with-various-user-interface-integration-enhancements-and-bug-fixes/</link>
+      <description><![CDATA[KeePass 2.60 首次推出了对其搜索和数据显示功能的关键增强功能。用户现在可以启用“在快速搜索中搜索组路径”，并在主条目列表中添加“组路径”和“组名称”作为可选列。多项更新改进了列表管理：在列表视图中，现在可以使用 Ctrl+A 选择所有项目，使用删除键删除多个项目，以及在不存在任何条目时查看空状态消息。
+在这些可用性改进之后，占位符确认对话框现在包含快速访问链接，以获取有关占位符和安全性的帮助页面。对于使用标准 AZERTY 键盘的法语用户，KeePass 会检测涉及 Ctrl+Alt+A 自动键入快捷键的冲突，显示警告，并提供获取更多信息的链接。辅助功能也得到了改进，剪贴板清除倒计时栏具有剩余秒数的工具提示和屏幕阅读器的警报行为。针对屏幕阅读器进行优化时，质量进度条还会获得焦点支持。
+在数据导入方面，KeePass 现在支持 Mozilla Firefox 143+ 密码 CSV 文件并增强Bitwarden JSON 导入。它还以毫秒为单位处理 Unix 时间戳。解决方法解决了从安全桌面返回后的焦点错误。安装程序更改包括在 Visual Studio 2022 中重建 ShInstUtil、ARM64 本机映像支持以及通过 MSI 安装改进启动性能。快速搜索可用性在键盘导航方面得到了改进，同时禁用了自动完成功能以避免出现问题。最后，现在关闭系统时会立即保存配置。
+查看有关 AlternativeTo 的文章更多信息KeePass | KeePass 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/keepass-2-60-released-with-various-user-interface-integration-enhancements-and-bug-fixes/</guid>
+      <pubDate>Mon, 03 Nov 2025 16:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌翻译为文本翻译添加了快速且高级的模型选择器</title>
+      <link>https://alternativeto.net/news/2025/11/google-translate-adds-fast-and-advanced-model-picker-for-text-translation/</link>
+      <description><![CDATA[Google 翻译引入了一个模型选择器，其中包含用于文本翻译的“快速”和“高级”选项。 “高级”模式为复杂翻译提供了更高的准确性，并被设置为默认模式，但仅适用于选定的语言。
+此功能目前出现在 iOS 设备上，尚未确认在 Android 设备上推出。
+查看有关 AlternativeTo 的文章有关 Google 的更多信息翻译 | Google 翻译替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/google-translate-adds-fast-and-advanced-model-picker-for-text-translation/</guid>
+      <pubDate>Mon, 03 Nov 2025 16:39:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linkora 0.14.0 现在支持标签并改进了书签组织</title>
+      <link>https://alternativeto.net/news/2025/11/linkora-0-14-0-now-supports-tags-and-improves-bookmark-organization/</link>
+      <description><![CDATA[Linkora 0.14.0 引入了对标签的支持，让用户可以使用统一集合屏幕中的文件夹和标签来组织链接。现在通过保存期间的搜索和排序增强了文件夹管理，同时保存了标签 UI 首选项以实现更顺畅的工作流程。
+同步服务器用户必须更新到同步服务器版本 0.2.0 才能继续同步。
+查看有关 AlternativeTo 的文章更多信息Linkora | Linkora 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/linkora-0-14-0-now-supports-tags-and-improves-bookmark-organization/</guid>
+      <pubDate>Mon, 03 Nov 2025 16:27:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dioxus 0.7 带来热补丁、WGPU 渲染和 Axum 集成</title>
+      <link>https://alternativeto.net/news/2025/11/dioxus-0-7-brings-hot-patching-wgpu-rendering-and-axum-integration/</link>
+      <description><![CDATA[Dioxus 0.7 现已推出，具有运行时对 Rust 代码进行“亚秒级”热修补的功能。该更新引入了 Dioxus Native，这是一种基于 WGPU 的 HTML/CSS 渲染器，并对服务器功能进行了全面改造，并完全集成了 Axum。
+其他亮点包括 WebAssembly 的代码分割和改进的反应式状态管理。
+查看有关 AlternativeTo 的文章更多信息Dioxus | Dioxus 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/dioxus-0-7-brings-hot-patching-wgpu-rendering-and-axum-integration/</guid>
+      <pubDate>Mon, 03 Nov 2025 16:17:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>MacsyZones v2.0 添加了对捕捉自定义管理的应用程序窗口的支持</title>
+      <link>https://alternativeto.net/news/2025/11/macsyzones-v2-0-adds-support-for-snapping-custom-managed-app-windows/</link>
+      <description><![CDATA[MacsyZones v2.0 现在支持从使用自定义窗口管理的应用程序捕捉窗口，从而提高了对更广泛软件的兼容性。该更新还添加了快速放置按钮和智能间隙填充，以简化布局设计。
+用户现在可以将设置重置为默认值并受益于改进的默认布局。
+查看有关 AlternativeTo 的文章更多信息MacsyZones | MacsyZones 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/macsyzones-v2-0-adds-support-for-snapping-custom-managed-app-windows/</guid>
+      <pubDate>Mon, 03 Nov 2025 16:03:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Perplexity 推出实时航班状态以及出发和登机口更新</title>
+      <link>https://alternativeto.net/news/2025/11/perplexity-launches-real-time-flight-status-with-departure-and-gate-updates/</link>
+      <description><![CDATA[Perplexity推出了实时航班状态搜索，允许用户检查任何航班的出发、到达、延误和登机口变更。
+该功能可供所有用户使用，并将于下周在 iOS 上推出，并很快在 Android 上推出。
+查看有关 AlternativeTo 的文章更多信息困惑 | 困惑替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/perplexity-launches-real-time-flight-status-with-departure-and-gate-updates/</guid>
+      <pubDate>Mon, 03 Nov 2025 15:51:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>PhotoPea 添加了免费背景去除剂并通过链接选项分享</title>
+      <link>https://alternativeto.net/news/2025/11/photopea-adds-free-background-remover-and-share-via-link-options/</link>
+      <description><![CDATA[PhotoPea 现在提供两项新功能：一键式背景去除器，无费用或分辨率限制，以及使用新的文件共享功能通过直接链接共享图像或完成项目的可能性。
+查看有关 AlternativeTo 的文章有关 Photopea 的更多信息 | Photopea 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/photopea-adds-free-background-remover-and-share-via-link-options/</guid>
+      <pubDate>Mon, 03 Nov 2025 15:47:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bluesky 很快将添加“不喜欢”按钮、增强的毒性检测和回复上下文</title>
+      <link>https://alternativeto.net/news/2025/11/bluesky-will-soon-add-a-dislike-button-enhanced-toxicity-detection-and-reply-context/</link>
+      <description><![CDATA[由于 Bluesky 刚刚拥有 4000 万用户，因此概述了一系列即将推出的更新，旨在创建更健康的交互、提高对话质量并让用户更好地控制其环境。作为该计划的一部分，该平台将很快测试私人不喜欢选项，让个人表明他们不喜欢经常看到哪些帖子。此反馈将为“Discover”和其他提要中的内容个性化提供信息，并通过降低低质量回复的可见性来轻微影响回复排名。不喜欢信号保持私密性，主要调整用户自己的体验，并在一定程度上影响到他们直接的社交圈。
+在这些控制的基础上，Bluesky 将通过跟踪自然交互网络来绘制新兴的“社交社区”。通过提高与这些社区关系较近的人的回复，该平台旨在使对话更具相关性并最大限度地减少误解。与此同时，Bluesky 升级了其审核模型，以更好地检测主题、搜索和通知中的有毒、垃圾邮件、离题或恶意回复并对其进行降级，确保有问题的内容不那么突出，但在需要时仍然可以在上下文中看到。
+在这些审核更改之后，顶级帖子上的回复按钮现在将引导用户在允许回复之前进行完整的对话，从而鼓励知情参与。此外，重新设计的回复设置菜单和新的编辑器提示将帮助用户控制谁可以回复他们的帖子，使这些工具更易于查找和使用。
+查看有关 AlternativeTo 的文章更多信息Bluesky | Bluesky 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/bluesky-will-soon-add-a-dislike-button-enhanced-toxicity-detection-and-reply-context/</guid>
+      <pubDate>Mon, 03 Nov 2025 15:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AerynOS 2025.10 更新带来 KDE Plasma 6.5、GNOME 49、COSMIC beta 3 和 GNU libstdc++</title>
+      <link>https://alternativeto.net/news/2025/11/aerynos-2025-10-update-brings-kde-plasma-6-5-gnome-49-cosmic-beta-3-and-gnu-libstdc-/</link>
+      <description><![CDATA[AerynOS 已发布 10 月更新，提供一系列主要软件包升级和性能增强。此版本在 Linux 6.16.12 内核上运行，并引入了更新的桌面环境，包括KDE Plasma 6.5.1 与 KDE Frameworks 6.19 和 KDE Gear 25.08.2，GNOME 49.1，和 COSMIC Beta3。
+除了这些更改之外，还包括 Mesa 25.2.5、LLVM 21.1.4、FFmpeg 8.0、PipeWire 1.4.9、Wine 10.17、Node.js 22.21、Zed 代码编辑器 0.206.6、Virt Manager 5.1.0、Bash 5.3.3、Vim 9.1.1829 和 systemd 257.10 等均已更新。 KDE Plasma 用户体验不断改善，用户反馈强调环境中具有更高的性能和流动性。
+在桌面改进的基础上，AerynOS 现在扩展了其 GNOME 应用程序存储库，包括 Showtime 和 GNOME 联系人。对于 COSMIC 打包，该团队已转向使用 System76 的 repo-release，通过避免依赖上游 git 标签来更及时地采用更新。在出于安全意识的转变中，AerynOS 恢复到 C++ 的 GNU libstdc++ 库来代替 LLVM libcxx。
+在开发人员方面，boulder 工具现在可以检测上游软件包许可证并将其添加到自动生成的配方文件中，而 moss state verify 并行运行选定的任务。此版本还改进了基础设施稳定性，并添加了 moss 系统模型原型功能。
+查看有关 AlternativeTo 的文章有关 AerynOS 的更多信息 | AerynOS 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/aerynos-2025-10-update-brings-kde-plasma-6-5-gnome-49-cosmic-beta-3-and-gnu-libstdc-/</guid>
+      <pubDate>Mon, 03 Nov 2025 13:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>Kodi 21.3 为 Xbox One 带来 HDR 支持，并为 Linux 带来蓝光播放增强功能</title>
       <link>https://alternativeto.net/news/2025/11/kodi-21-3-brings-hdr-support-on-the-xbox-one-and-blu-ray-playback-enhancements-on-linux/</link>
@@ -55,101 +150,6 @@ Weavy 使用基于节点的工作流程，在一个统一的画布中连接多�
 查看有关 AlternativeTo 的文章更多信息Trakt.tv | Trakt.tv 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/11/trakt-unveils-a-full-redesign-of-its-movie-and-tv-tracking-platform-for-web-and-mobile/</guid>
       <pubDate>Sun, 02 Nov 2025 17:41:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Perplexity 推出人工智能驱动的对话式专利研究工具</title>
-      <link>https://alternativeto.net/news/2025/11/perplexity-launches-ai-powered-tool-for-conversational-patent-research/</link>
-      <description><![CDATA[Perplexity 推出了 Perplexity Patents，这是一种人工智能驱动的研究代理，旨在让专利探索变得更容易。它支持自然语言搜索，允许用户提出诸如“用于语言学习的人工智能专利”之类的问题，而无需复杂的关键字语法。通过引用、内联文档预览和直接访问原始来源，结果会立即显示。
-系统保留对话上下文，使用户能够优化或扩展搜索而无需重新开始。它可以识别同义词和相关术语，以揭示关键字工具经常遗漏的现有技术，例如将“健身追踪器”与“活动带”或“健康监测可穿戴设备”链接起来。它由 Perplexity 的 EB 级基础设施上的代理研究系统提供支持，从专利、学术论文、软件存储库和公共数据集中收集信息，以更广泛地展示新兴技术。
-Perplexity Patents 在全球范围内提供测试版，对所有用户免费，并为 Pro 和 Max 订阅者提供附加功能和更高的限制。
-查看有关 AlternativeTo 的文章更多关于困惑 | 困惑替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/perplexity-launches-ai-powered-tool-for-conversational-patent-research/</guid>
-      <pubDate>Sun, 02 Nov 2025 17:35:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Samsung Internet for PC 测试版发布，支持跨设备同步和 Galaxy AI</title>
-      <link>https://alternativeto.net/news/2025/11/samsung-internet-for-pc-beta-launches-with-cross-device-syncing-and-galaxy-ai/</link>
-      <description><![CDATA[还没有厌倦近几个月推出的新一波浏览器，例如 Perplexity Comet 或 ChatGPT Atlas 吗？好吧，你很幸运，因为名单上的下一个是三星，它刚刚发布了其著名的三星互联网浏览器的公共测试版，适用于Windows 10和美国和韩国的 Windows 11 用户。这标志着它首次出现在桌面上，将移动体验带到了更大的屏幕上，并通过三星帐户实现书签、历史记录和 Samsung Pass 凭证的完全跨设备同步。您还可以跨设备从中断处继续浏览会话。
-测试版包括Galaxy AI，具有新的浏览辅助工具，可以直接在应用程序内汇总网页和翻译文本。 Samsung Pass 允许跨设备安全登录和自动填充，保持 Galaxy 手机上已有的相同隐私标准。
-隐私选项包括用于阻止第三方跟踪器和弹出窗口的智能反跟踪，以及用于实时监控和管理保护的隐私仪表板。任何感兴趣的人都可以在 browser.samsung.com/beta 加入测试版，经过进一步测试和改进后，预计会发布更广泛的版本。
-查看有关 AlternativeTo 的文章有关三星的更多信息互联网 | 三星互联网替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/samsung-internet-for-pc-beta-launches-with-cross-device-syncing-and-galaxy-ai/</guid>
-      <pubDate>Sun, 02 Nov 2025 01:31:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Canva 推出新的“创意操作系统”以及新的电子邮件生成器和业务计划</title>
-      <link>https://alternativeto.net/news/2025/11/canva-launches-new-creative-operating-system-with-a-new-email-builder-and-business-plan/</link>
-      <description><![CDATA[同时推出推出全新的“永久免费”一体化Affinity 应用程序，Canva 推出了“创意操作系统”，这是其主平台内的一个集成营销工作区，由以设计为中心的内部人工智能模型提供支持。该平台统一了创意工具、人工智能驱动的功能和工作流程管理，标志着 Canva 从设计应用程序演变为完整的创意管理系统。
-更新包括重新设计的视频编辑器，具有用于修剪、同步和分层素材的简化时间线，以及适合非专家用户的扩展模板库。 Canva 还添加了用于反馈收集的表单，自动将回复同步到 Canva Sheets 以便快速分析。此更新还将 Sheets 与 Canva 代码 连接起来，允许用户将收集的数据转换为交互式、可自定义的项目，这些项目可以在 Canva 中编辑并立即作为独立网页发布。新的 Canva Grow 平台使营销团队能够设计、启动和跟踪广告活动，使用 AI 不断提高绩效，有点类似于 Figma Buzz。
-现在还有一个新的电子邮件设计工具，允许用户无需编码或第三方工具即可创建品牌电子邮件活动，类似于 Mailchimp 或 BeeFree.io 等其他电子邮件构建器。最先进的人工智能功能仍然是 Canva 付费等级的一部分，包括新的 Canva 商业计划。该计划将所有 Pro 功能与团队协作工具、增强的 AI 使用、营销洞察和印刷折扣相结合，而现有 Teams 订阅者则保留当前的计划和定价。
-查看有关 AlternativeTo 的文章更多信息Canva | Canva 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/canva-launches-new-creative-operating-system-with-a-new-email-builder-and-business-plan/</guid>
-      <pubDate>Sat, 01 Nov 2025 15:12:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Proton 推出数据泄露观测站，实时跟踪暗网上的数据泄露情况</title>
-      <link>https://alternativeto.net/news/2025/10/proton-launches-data-breach-observatory-to-track-data-leaks-in-real-time-on-the-dark-web/</link>
-      <description><![CDATA[Proton 推出了数据泄露观察站，这是一个免费的公共中心，报告数据主动泄露到暗网的情况。该平台由 Proton 的滥用团队使用经过验证的情报来源构建和维护，这些情报来源也为其暗网监控服务提供支持。与传统的自我报告违规数据库不同，观察站直接从暗网来源编译信息，网络犯罪分子在暗网中交换被盗数据。
-虽然许多违规行为没有被报告或未被发现，而且企业通常没有被要求或没有动机披露事件，但这种直接方法提供了急需的可见性。通过跟踪主要的暗网泄密事件，该工具可以按行业和公司规模对泄密频率和曝光模式进行分析。与仅依靠自我报告的方法相比，这种方法可确保对现实世界的威胁进行更准确、更公正的评估。
-除了分析功能外，数据泄露观察站还允许用户使用泄露日期、大小、类型或泄露数据的敏感性、国家/地区、公司名称、行业和公司规模等过滤器来搜索泄露事件。这些工具可以帮助组织检查其部门如何受到违规行为的影响，并帮助他们制定有针对性的网络安全策略来应对。
-查看有关 AlternativeTo 的文章有关数据的更多信息数据泄露观测站 | 数据泄露观测站替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/10/proton-launches-data-breach-observatory-to-track-data-leaks-in-real-time-on-the-dark-web/</guid>
-      <pubDate>Sat, 01 Nov 2025 12:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Granola 增加了语音激活和 CMD+T 快捷键的聊天功能</title>
-      <link>https://alternativeto.net/news/2025/10/granola-adds-chat-feature-with-voice-activation-and-cmd-t-shortcut/</link>
-      <description><![CDATA[Granola推出了一项新的聊天功能，允许用户直接与平台对话。可以通过单击麦克风或使用 CMD+T 键盘快捷键来访问聊天。
-此更新旨在简化用户与 Granola 的交互。
-查看有关 AlternativeTo 的文章更多信息格兰诺拉麦片 | 格兰诺拉麦片替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/granola-adds-chat-feature-with-voice-activation-and-cmd-t-shortcut/</guid>
-      <pubDate>Sat, 01 Nov 2025 09:50:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deezer 推出强调色、应用程序图标和贴纸定制</title>
-      <link>https://alternativeto.net/news/2025/10/deezer-rolls-out-accent-color-app-icon-and-sticker-customization/</link>
-      <description><![CDATA[Deezer 用户现在可以使用新的强调色选项对应用进行个性化设置，为 iOS、Android 和 Web 上的浅色和深色模式提供 14 种色调。该平台还推出了适用于 iOS 的自定义应用程序图标，Android 支持将于 11 月中旬推出。
-此外，主题贴纸现在可用于 iOS 和 Android 上的播放列表自定义。
-查看有关 AlternativeTo 的文章有关 Deezer 的更多信息 | Deezer 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/deezer-rolls-out-accent-color-app-icon-and-sticker-customization/</guid>
-      <pubDate>Sat, 01 Nov 2025 09:50:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Opera Neon 推出 ODRA，一种先进的浏览器原生深度研究人工智能</title>
-      <link>https://alternativeto.net/news/2025/10/opera-neon-introduces-odra-an-advanced-browser-native-deep-research-ai/</link>
-      <description><![CDATA[Opera Deep Research Agent (ODRA) 现已在 Opera Neon 中提供，直接在浏览器中引入由 AI 驱动的多代理研究。该工具集成了多种语言模型，并使用Opera的RACE框架进行可靠的信息合成和评估。
-用户还可以将研究会议导出为 PDF 文件，以便于共享和引文管理。
-查看有关 AlternativeTo 的文章有关 Opera 的更多信息霓虹灯 | Opera 霓虹灯替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/opera-neon-introduces-odra-an-advanced-browser-native-deep-research-ai/</guid>
-      <pubDate>Sat, 01 Nov 2025 09:49:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 Linux 的 Proton VPN CLI 现已在 Ubuntu、Debian 和 Fedora 上可用</title>
-      <link>https://alternativeto.net/news/2025/10/proton-vpn-cli-for-linux-now-available-on-ubuntu-debian-and-fedora/</link>
-      <description><![CDATA[Proton VPN 推出了适用于 Linux 的命令行界面，现已在 Ubuntu、Debian 和 Fedora。初始版本包括对 WireGuard 协议的支持，提供连接和断开 VPN 服务器的选项，以及按国家、城市或付费用户的特定服务器选择服务器的选项。
-尚未包含 NetShield 和 Kill Switch 等高级功能，必须使用配置文件编辑设置。
-查看有关 AlternativeTo 的文章有关 Proton 的更多信息VPN | Proton VPN 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/proton-vpn-cli-for-linux-now-available-on-ubuntu-debian-and-fedora/</guid>
-      <pubDate>Sat, 01 Nov 2025 09:49:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp 为加密聊天备份添加了密钥支持，以提高数据安全性</title>
-      <link>https://alternativeto.net/news/2025/10/whatsapp-adds-passkey-support-to-encrypted-chat-backups-for-improved-data-security/</link>
-      <description><![CDATA[WhatsApp 通过引入密钥加密备份来增强用户聊天备份的安全性。密钥允许用户使用指纹、面部识别或设备屏幕锁定代码来保护备份数据，而不是依赖密码或冗长的加密密钥。这简化了备份保护过程，并且无需记住复杂的凭据。
-在此更改之后，保护个人聊天和通话的相同安全机制现在也适用于聊天备份。用户只需点击一下或浏览一下即可方便地访问受保护的备份，确保他们的消息既私密又可访问。
-此功能将在未来几周和几个月内向所有 WhatsApp 用户推出。逐步推出的目的是在不造成重大干扰的情况下广泛提供增强的备份安全性。
-查看有关 AlternativeTo 的文章更多信息WhatsApp | WhatsApp 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/whatsapp-adds-passkey-support-to-encrypted-chat-backups-for-improved-data-security/</guid>
-      <pubDate>Fri, 31 Oct 2025 20:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>kde Plasma 6.5、gnome 49.1 和 kernel 6.17.5 头条 opensuse tumbleweed 更新</title>
-      <link>https://alternativeto.net/news/2025/10/kde-plasma-6-5-gnome-49-1-and-kernel-6-17-5-headline-opensuse-tumbleweed-updates/</link>
-      <description><![CDATA[openSUSE Tumbleweed 在 10 月份收到了重要的桌面和系统更新。 KDE Gear 25.08.2 和 Plasma 6.5 增强了桌面功能，包括崩溃修复、主题选项和改进的通知。 GNOME 49.1 提供了会话可靠性改进、用户界面修复和更强大的系统保护。
-Kernel 6.17.5、Mesa 25.2.5、PipeWire 1.5.81等核心更新进一步提升了硬件支持和多媒体性能。
-查看有关 AlternativeTo 的文章更多信息openSUSE | openSUSE 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/10/kde-plasma-6-5-gnome-49-1-and-kernel-6-17-5-headline-opensuse-tumbleweed-updates/</guid>
-      <pubDate>Fri, 31 Oct 2025 16:58:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
