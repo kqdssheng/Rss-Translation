@@ -4,13 +4,74 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Tue, 04 Nov 2025 12:44:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 01:28:23 GMT</lastBuildDate>
+    <item>
+      <title>WhatsApp 推出官方 Apple Watch 应用，提供消息传递和语音支持</title>
+      <link>https://alternativeto.net/news/2025/11/whatsapp-launches-official-apple-watch-app-with-messaging-and-voice-support/</link>
+      <description><![CDATA[WhatsApp 推出了一款适用于 Apple Watch 的新应用，让用户无需使用 iPhone 即可阅读、回复和管理聊天内容。该应用程序将核心消息传递功能带到手腕上，包括完整消息查看、语音消息记录和表情符号反应。
+它还支持来电通知，因此用户可以一目了然地看到谁来电，以及直接在手表上显示图像和贴纸的更清晰的媒体体验。聊天历史记录也可用，允许用户滚动浏览更多最近的消息。
+所有对话和通话均受到端到端加密的保护。该应用程序需要 Apple Watch Series 4 或更高版本运行 watchOS 10，Meta 确认将在未来的更新中添加更多功能。
+查看有关 AlternativeTo 的文章更多信息WhatsApp | WhatsApp 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/whatsapp-launches-official-apple-watch-app-with-messaging-and-voice-support/</guid>
+      <pubDate>Tue, 04 Nov 2025 22:29:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Perplexity Comet 推出主页隐私小部件和本地数据控件</title>
+      <link>https://alternativeto.net/news/2025/11/perplexity-comet-introduces-homepage-privacy-widget-and-local-data-controls/</link>
+      <description><![CDATA[Perplexity 为其 AI 浏览器 Comet 引入了隐私快照，添加了一个集中隐私控制的主页小部件。新面板允许用户阻止特定网站上的任务，关闭助手的网络操作，并查看其数据的使用方式，默认情况下启用广告和跟踪器阻止。安全浏览、本地密码管理器和定期安全更新等现有保护措施仍然有效。敏感查询将在 30 天后自动删除，用户可以随时手动删除帐户或上传的数据。
+隐私快照允许直接从起始页进行调整，包括浏览历史记录、打开选项卡和站点访问的权限。 Comet 使用混合计算模型，将凭据和类似数据存储在本地，同时在需要时仅向 Perplexity 服务器发送最少的上下文。
+此更新响应了早期用户的反馈，要求针对代理浏览和提示注入风险提供更强有力的保护，通过将所有隐私设置集中到一个位置，使用户能够更清晰、更快速地控制其数据。
+查看有关 AlternativeTo 的文章有关 Perplexity 的更多信息Comet | 困惑彗星替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/perplexity-comet-introduces-homepage-privacy-widget-and-local-data-controls/</guid>
+      <pubDate>Tue, 04 Nov 2025 21:49:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于 Windows 的强大 Git 客户端 Tower 10 引入了全面的 Graphite 支持</title>
+      <link>https://alternativeto.net/news/2025/11/powerful-git-client-tower-10-for-windows-introduces-comprehensive-graphite-support/</link>
+      <description><![CDATA[Tower 10 for Windows 已发布，引入了与 Graphite 工作流程的完全集成，Graphite 工作流程是一个基于堆栈的系统，使开发人员能够通过分层更改并行处理多个功能。通过此更新，用户获得了新功能，包括“工作副本”选项，支持创建堆叠分支、设置父分支、重新堆叠、同步、提交分支以及管理合并队列，所有这些功能都在必要时辅以警告消息。
+在此工作流程增强的基础上，Tower 10 还为 Windows 用户解决了关键的可用性改进问题。此更新解决了 Alt + SPACE 快捷键的问题，改进了应用程序内的可访问性。此外，嵌套子模块的导航也得到了改进，简化了使用复杂存储库的人员的体验。为了兼容性和性能，便携式 Git 已更新至版本 2.51.2，支持更广泛的项目更顺畅的集成。这些更新使 Tower 10 成为开发人员在 Windows 上寻求高效 Git 工作流程管理的高级选项。
+查看有关 AlternativeTo 的文章更多信息塔式 | 塔式替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/powerful-git-client-tower-10-for-windows-introduces-comprehensive-graphite-support/</guid>
+      <pubDate>Tue, 04 Nov 2025 18:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Facebook 现在允许群组管理员从私人切换为公共，并提供一些保护</title>
+      <link>https://alternativeto.net/news/2025/11/facebook-now-lets-group-admins-switch-from-private-to-public-with-some-protections/</link>
+      <description><![CDATA[Meta 正在推出多项更新，旨在增强 Facebook 群组的隐私性和可发现性。群组管理员现在可以直接在群组的设置页面中找到将其私人群组转换为公共群组的选项。此更改允许更轻松的社区发现和更开放的对话。
+当私人群组公开时，Facebook 会提醒所有成员确保隐私转变的透明度。在该组织的知名度不断提高的同时，Meta 也实施了保障措施。在群组公开之前共享的帖子、评论和互动仍然只有管理员、版主和现有成员可以访问，从而保护了历史内容。
+在此更新之后，如果公开的群组后来切换回私有，则只有管理员批准的成员才能加入。这些经过批准的成员可以查看所有群组内容，包括群组公开时和私密时发布的材料，以及完整的成员列表。
+查看有关 AlternativeTo 的文章有关 Facebook 的更多信息 | Facebook 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/facebook-now-lets-group-admins-switch-from-private-to-public-with-some-protections/</guid>
+      <pubDate>Tue, 04 Nov 2025 16:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple 推出基于网络的 App Store，以便更轻松地跨平台浏览和发现应用程序</title>
+      <link>https://alternativeto.net/news/2025/11/apple-launches-web-based-app-store-for-easier-app-browsing-and-discovery-across-platforms/</link>
+      <description><![CDATA[Apple 现在为用户提供基于网络的 App Store 版本，让用户可以直接通过浏览器浏览和探索 iPhone、iPad、Mac、Apple Watch、Apple TV 和 Vision Pro 的应用程序和游戏。此次重大更新将 App Store 的可访问性扩展到 Apple 设备之外，以满足用户和开发人员的需求。
+与原生 App Store 界面一致，基于浏览器的网站提供了熟悉的体验。它具有“今日”选项卡、编辑推荐、图表、Apple Arcade 标题以及在网络环境中无缝运行的搜索栏。随后，该网站引入了一个下拉菜单，用于在不同的 Apple 平台之间导航，布局会根据当前查看的部分动态调整。
+这些增强功能不仅让用户而且让开发者更容易发现应用程序，因为新的 App Store 可以通过搜索引擎建立索引。这解决了长期以来对更好地在线发现应用程序的要求。
+尽管进行了升级，用户仍然可以浏览和共享应用程序，但无法直接从网络界面下载或安装它们，这在这种扩展体验中仍然存在一个关键限制。
+查看有关 AlternativeTo 的文章有关 Apple 应用程序的更多信息商店 | Apple App Store 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/apple-launches-web-based-app-store-for-easier-app-browsing-and-discovery-across-platforms/</guid>
+      <pubDate>Tue, 04 Nov 2025 15:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chrome 现在可以自动填充您的护照号码、驾驶执照详细信息和车辆信息</title>
+      <link>https://alternativeto.net/news/2025/11/chrome-can-now-autofill-your-passport-number-driver-s-license-details-and-vehicle-info/</link>
+      <description><![CDATA[Chrome 已为桌面用户扩展了自动填充功能，现在允许自动填写包含护照号码、驾驶执照详细信息以及包括车牌和 VIN 在内的车辆信息等敏感数据的表单。已启用增强型自动填充功能的用户可以使用此增强功能。
+除了这些数据类型扩展之外，Chrome 现在还能更准确地解释和填写复杂的网络表单，从而适应互联网上的各种格式标准。这样做的目的是减少手动输入，即使在不太标准化的网站上也是如此。
+为了解决隐私和安全问题，Google 构建了具有多种保护措施的增强型自动填充功能。输入的任何敏感信息只有在用户明确同意的情况下才会存储，并受到加密保护。在 Chrome 填充任何已保存的个人数据之前，系统会提示用户进行确认，从而保持对其信息的直接控制。
+这些更新正在全球范围内针对所有受支持的语言发布。 Google 已宣布计划在未来的更新中添加对其他数据类型的支持。
+查看有关 AlternativeTo 的文章有关 Google 的更多信息Chrome | Google Chrome 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/chrome-can-now-autofill-your-passport-number-driver-s-license-details-and-vehicle-info/</guid>
+      <pubDate>Tue, 04 Nov 2025 12:50:00 GMT</pubDate>
+    </item>
     <item>
       <title>Brave for Android 引入 CSV 密码导入和菜单自定义</title>
       <link>https://alternativeto.net/news/2025/11/brave-for-android-introduces-csv-password-import-and-menu-customization/</link>
       <description><![CDATA[Brave for Android 现在允许用户使用 CSV 文件导入密码，从而更轻松地从其他浏览器传输凭据。最新的更新还允许用户通过隐藏不需要的按钮来自定义主菜单。
 这些变化为 Android 用户提供了更多便利和个性化。
-查看有关 AlternativeTo 的文章有关 Brave 的更多信息 | 勇敢的替代方案]]></description>
+查看有关 AlternativeTo 的文章有关 Brave 的更多信息 | 勇敢的替代品]]></description>
       <guid>https://alternativeto.net/news/2025/11/brave-for-android-introduces-csv-password-import-and-menu-customization/</guid>
       <pubDate>Tue, 04 Nov 2025 08:16:15 GMT</pubDate>
     </item>
@@ -76,7 +137,7 @@
       <link>https://alternativeto.net/news/2025/11/perplexity-launches-real-time-flight-status-with-departure-and-gate-updates/</link>
       <description><![CDATA[Perplexity推出了实时航班状态搜索，允许用户检查任何航班的出发、到达、延误和登机口变更。
 该功能可供所有用户使用，并将于下周在 iOS 上推出，并很快在 Android 上推出。
-查看有关 AlternativeTo 的文章更多信息困惑 | 困惑替代方案]]></description>
+查看有关 AlternativeTo 的文章更多信息困惑 | 困惑替代品]]></description>
       <guid>https://alternativeto.net/news/2025/11/perplexity-launches-real-time-flight-status-with-departure-and-gate-updates/</guid>
       <pubDate>Mon, 03 Nov 2025 15:51:59 GMT</pubDate>
     </item>
@@ -87,68 +148,6 @@
 查看有关 AlternativeTo 的文章有关 Photopea 的更多信息 | Photopea 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/11/photopea-adds-free-background-remover-and-share-via-link-options/</guid>
       <pubDate>Mon, 03 Nov 2025 15:47:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bluesky 很快将添加“不喜欢”按钮、增强的毒性检测和回复上下文</title>
-      <link>https://alternativeto.net/news/2025/11/bluesky-will-soon-add-a-dislike-button-enhanced-toxicity-detection-and-reply-context/</link>
-      <description><![CDATA[由于 Bluesky 刚刚拥有 4000 万用户，因此概述了一系列即将推出的更新，旨在创建更健康的交互、提高对话质量并让用户更好地控制其环境。作为该计划的一部分，该平台将很快测试私人不喜欢选项，让个人表明他们不喜欢经常看到哪些帖子。此反馈将为“Discover”和其他提要中的内容个性化提供信息，并通过降低低质量回复的可见性来轻微影响回复排名。不喜欢信号保持私密性，主要调整用户自己的体验，并在一定程度上影响到他们直接的社交圈。
-在这些控制的基础上，Bluesky 将通过跟踪自然交互网络来绘制新兴的“社交社区”。通过提高与这些社区关系较近的人的回复，该平台旨在使对话更具相关性并最大限度地减少误解。与此同时，Bluesky 升级了其审核模型，以更好地检测主题、搜索和通知中的有毒、垃圾邮件、离题或恶意回复并对其进行降级，确保有问题的内容不那么突出，但在需要时仍然可以在上下文中看到。
-在这些审核更改之后，顶级帖子上的回复按钮现在将引导用户在允许回复之前进行完整的对话，从而鼓励知情参与。此外，重新设计的回复设置菜单和新的编辑器提示将帮助用户控制谁可以回复他们的帖子，使这些工具更易于查找和使用。
-查看有关 AlternativeTo 的文章更多信息Bluesky | Bluesky 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/bluesky-will-soon-add-a-dislike-button-enhanced-toxicity-detection-and-reply-context/</guid>
-      <pubDate>Mon, 03 Nov 2025 15:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AerynOS 2025.10 更新带来 KDE Plasma 6.5、GNOME 49、COSMIC beta 3 和 GNU libstdc++</title>
-      <link>https://alternativeto.net/news/2025/11/aerynos-2025-10-update-brings-kde-plasma-6-5-gnome-49-cosmic-beta-3-and-gnu-libstdc-/</link>
-      <description><![CDATA[AerynOS 已发布 10 月更新，提供一系列主要软件包升级和性能增强。此版本在 Linux 6.16.12 内核上运行，并引入了更新的桌面环境，包括KDE Plasma 6.5.1 与 KDE Frameworks 6.19 和 KDE Gear 25.08.2，GNOME 49.1，和 COSMIC Beta3。
-除了这些更改之外，还包括 Mesa 25.2.5、LLVM 21.1.4、FFmpeg 8.0、PipeWire 1.4.9、Wine 10.17、Node.js 22.21、Zed 代码编辑器 0.206.6、Virt Manager 5.1.0、Bash 5.3.3、Vim 9.1.1829 和 systemd 257.10 等均已更新。 KDE Plasma 用户体验不断改善，用户反馈强调环境中具有更高的性能和流动性。
-在桌面改进的基础上，AerynOS 现在扩展了其 GNOME 应用程序存储库，包括 Showtime 和 GNOME 联系人。对于 COSMIC 打包，该团队已转向使用 System76 的 repo-release，通过避免依赖上游 git 标签来更及时地采用更新。在出于安全意识的转变中，AerynOS 恢复到 C++ 的 GNU libstdc++ 库来代替 LLVM libcxx。
-在开发人员方面，boulder 工具现在可以检测上游软件包许可证并将其添加到自动生成的配方文件中，而 moss state verify 并行运行选定的任务。此版本还改进了基础设施稳定性，并添加了 moss 系统模型原型功能。
-查看有关 AlternativeTo 的文章有关 AerynOS 的更多信息 | AerynOS 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/aerynos-2025-10-update-brings-kde-plasma-6-5-gnome-49-cosmic-beta-3-and-gnu-libstdc-/</guid>
-      <pubDate>Mon, 03 Nov 2025 13:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kodi 21.3 为 Xbox One 带来 HDR 支持，并为 Linux 带来蓝光播放增强功能</title>
-      <link>https://alternativeto.net/news/2025/11/kodi-21-3-brings-hdr-support-on-the-xbox-one-and-blu-ray-playback-enhancements-on-linux/</link>
-      <description><![CDATA[Kodi 21.3“Omega”已发布，在视频、音频和其他子系统方面提供了多项功能和改进。对于视频播放，此更新引入了 Xbox One 上的高动态范围 (HDR) 支持，并解决了 Linux 上的蓝光播放问题。它还纠正了恢复蓝光时与音频和字幕同步相关的问题，改进了 HDR10 元数据的处理，并使用 ISO 639-1 语言代码增强了字幕选择。
-在这些视频更改的基础上，Kodi 21.3 提高了视频库重新扫描的速度，防止多集文件覆盖以前的条目，并修复了某些电影版本显示正确信息的问题。对于音乐和音频，用户可以通过 GnuDB 的 API 进行可靠的 CDDB 查找，提高艺术家姓名的专辑搜索准确性，并修复设备更改时涉及 PipeWire 音频的罕见崩溃问题。
-关于外围设备，此版本带来了对 Linux 上的土耳其键盘的支持、更好地处理 Pulse-8 消费电子控制 (CEC) 适配器以及针对 macOS 的键盘修复。用户界面也得到了增强，滑块对话框的触摸输入更加平滑，系统对话框行为更加可预测。网络改进包括对 HTTP 基本身份验证的新支持和升级的安全证书，同时其他更改修复了远程应用程序流并扩展了附加组件的更新窗口。
-查看有关 AlternativeTo 的文章有关 Kodi 的更多信息 | Kodi 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/kodi-21-3-brings-hdr-support-on-the-xbox-one-and-blu-ray-playback-enhancements-on-linux/</guid>
-      <pubDate>Mon, 03 Nov 2025 12:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shotcut 25.10 带来 HTML 视频渲染、注释和字幕 TTS 以及屏幕录制</title>
-      <link>https://alternativeto.net/news/2025/11/shotcut-25-10-brings-html-video-rendering-tts-for-notes-and-subtitles-and-screen-recording/</link>
-      <description><![CDATA[Shotcut 25.10 版为开源视频编辑器提供了多项主要工作流程和内容创建功能。此次发布的主要内容是新的来自 HTML 的图像/视频选项，使用户能够直接从 HTML 代码生成图像和视频。此功能使用 Google Chrome 或 Chromium 作为渲染引擎，并以高达每秒 15 帧的速度运行以平衡性能。
-对于辅助功能和旁白用例，更新引入了注释和字幕的文本转语音功能，由 Kokorodoki 引擎和 Kokoro AI 模型提供支持。继这些进步之后，Shotcut 25.10 实现了跨平台屏幕快照和录制工具。 Windows 用户可以通过 Microsoft 的截图工具使用它，macOS 用户可以依靠 Apple 的屏幕截图实用程序，Linux 用户可以使用适用于 X11 的集成 FFmpeg，或者在 Wayland、GNOME Shell、KDE Spectacle 或 OBS Studio。但是，此录制功能目前不适用于 Linux 上安装了 Flatpak 的版本。
-在可视化编辑功能的基础上，Shotcut 添加了文本打字机过滤器和生成器，帮助创作者添加类似于实时打字的动画文本。为了改进媒体管理，“属性”菜单中的“打开方式”和“重新加载”选项允许用户在外部编辑文件并在 Shotcut 中刷新它们，而无需重新导入。该版本还包括各种其他增强功能和错误修复。
-查看有关 AlternativeTo 的文章有关更多信息快捷键 | 快捷键替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/shotcut-25-10-brings-html-video-rendering-tts-for-notes-and-subtitles-and-screen-recording/</guid>
-      <pubDate>Mon, 03 Nov 2025 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wine 10.18 带来了 WoW64 模式改进、同步屏障 API 和 WinRT 异常支持</title>
-      <link>https://alternativeto.net/news/2025/11/wine-10-18-brings-wow64-mode-improvements-sync-barriers-api-and-winrt-exception-support/</link>
-      <description><![CDATA[Wine 10.18 现已推出，进一步加强了其作为在 Linux、macOS 和 BSD 上运行 Windows 应用程序的关键兼容性层的作用。此版本为跨不同平台操作的用户带来了重大技术改进。
-此更新引入了新的 OpenGL 内存映射功能，在 WoW64 模式下运行时使用 Vulkan，增强依赖 32 位和 64 位互操作性的应用程序的图形处理和性能。除此之外，用户还可以从添加的同步屏障 API 和对 WinRT 异常的支持中受益。这些更改扩展了核心系统行为，从而实现了更广泛的兼容性并改进了多线程功能，特别是对于现代 Windows 运行时 (WinRT) 应用程序。
-继这些增强之后，Wine 10.18 添加了 WoW64 模式下的 SCSI 直通支持。这使得能够与 SCSI 外设直接通信，扩展高级用户的硬件访问选项以及在兼容层下运行的专用软件。
-此外，此版本还解决了影响一系列著名应用程序和游戏的 30 个错误。 《Yukon Trail》、《Sid Meier’s Pirates!》、《Jolly Rover》和《The Witcher 2》等游戏，以及《Autodesk Fusion》和《Autodesk Fusion》等软件href=&quot;https://alternativeto.net/software/keepass/about/&quot;&gt;Keepass 2，已修复以提高整体兼容性和稳定性。
-查看有关 AlternativeTo 的文章更多信息葡萄酒 | 葡萄酒替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/wine-10-18-brings-wow64-mode-improvements-sync-barriers-api-and-winrt-exception-support/</guid>
-      <pubDate>Mon, 03 Nov 2025 08:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Figma收购AI内容平台Weavy，推出基于节点的图像和视频编辑工具</title>
-      <link>https://alternativeto.net/news/2025/11/figma-acquires-ai-content-platform-weavy-launching-node-based-image-and-video-editing-tool/</link>
-      <description><![CDATA[Figma 已收购 Weavy.ai，这是一个围绕基于节点的媒体生成和编辑系统构建的人工智能平台。该平台将更名为Figma Weave，并集成到Figma的生态系统中，以引入人工智能驱动的图像和视频创作工具。目前，Figma 确认 Weavy 在全面转型为 Figma Weave 品牌之前将继续独立运营。
-Weavy 使用基于节点的工作流程，在一个统一的画布中连接多个 AI 模型和编辑工具，使创作者无需切换应用程序即可构建和调整复杂的流程。通过此设置，他们可以实时分支提示、比较模型输出并优化结果。编辑保持完全交互式，具有图层、灯光、颜色和相机调整的控件，可在图像和视频生成过程中无缝工作。创作者可以从简单的文本提示开始，选择他们喜欢的模型，微调结果，然后将它们自然地延伸到运动中。
-该平台支持使用 Seedance、Sora 和 Google 等模型组合提示、模型和修改，以获得有针对性的广告素材结果Veo 用于视频，FLUX.1、表意文字、Nano Banana 和 Seedream 用于图像。此次收购反映了Figma更广泛地扩展到人工智能驱动的设计工作流程，符合FLORA或Runway 的最新工具。
-查看有关 AlternativeTo 的文章更多信息Weavy.ai | Weavy.ai 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/figma-acquires-ai-content-platform-weavy-launching-node-based-image-and-video-editing-tool/</guid>
-      <pubDate>Sun, 02 Nov 2025 18:13:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
