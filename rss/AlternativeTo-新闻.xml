@@ -4,7 +4,103 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Wed, 05 Nov 2025 01:28:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 12:41:21 GMT</lastBuildDate>
+    <item>
+      <title>Storybook 10 首次推出仅 ESM、轻量 29%、模块自动模拟和类型安全 CSF 工厂</title>
+      <link>https://alternativeto.net/news/2025/11/storybook-10-debuts-esm-only-29-lighter-module-automocking-and-typesafe-csf-factories/</link>
+      <description><![CDATA[Storybook 10 是 UI 设计师和前端开发人员的重大更新，重点关注性能和现代工作流程。切换到仅支持 ECMAScript 模块 (ESM) 标志着主要的突破性变化。这次彻底修改将安装大小又减少了 29%，继版本 9 中大幅节省之后。
+除了这些改进之外，Storybook 与 Vitest 的合作推出了下一代模块模拟解决方案。新系统适用于开发和静态生产版本，并且与 Vite 和 Webpack 兼容，使团队能够更轻松地实现工具现代化。
+在组件创作体验中，组件故事格式 (CSF) 得到了重大升级。 CSF Factory 现已从“实验版”升级为“预览版”，为故事编写者提供更好的类型安全性和改进的自动完成功能，同时增强了人体工程学设计。
+工作流程不断改进，故事编辑和共享变得更加简单，标签功能也得到扩展。 Storybook 现在允许用户通过选定的标签排除故事，并直接在配置文件中配置默认 UI 状态。
+对于框架支持，Storybook 10 添加了 Svelte 异步组件支持和模拟状态，为 SvelteKit 用户缩小了关键差距。继这些平台扩展更改之后，此版本还确保与 Next.js 16 和 Vitest 4。
+查看有关 AlternativeTo 的文章更多信息故事书 | 故事书替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/storybook-10-debuts-esm-only-29-lighter-module-automocking-and-typesafe-csf-factories/</guid>
+      <pubDate>Wed, 05 Nov 2025 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ghost(Pro) 添加了免费的 .link 域和 Entri 的自动设置</title>
+      <link>https://alternativeto.net/news/2025/11/ghost-pro-adds-free-link-domains-and-automated-setup-with-entri/</link>
+      <description><![CDATA[Ghost(Pro) 现在通过 Entri.com（一个提供 API 驱动的域管理解决方案的平台）提供更快的域设置。用户只需单击一下即可搜索并注册域，因为 Entri 会自动处理所有 DNS 配置。
+该优惠包括所有 Ghost(Pro) 计划的一年免费 .link 注册。
+查看有关 AlternativeTo 的文章有关 Ghost 的更多信息 | 幽灵替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/ghost-pro-adds-free-link-domains-and-automated-setup-with-entri/</guid>
+      <pubDate>Wed, 05 Nov 2025 09:07:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Proton Drive 为 iOS 用户推出安全文档扫描</title>
+      <link>https://alternativeto.net/news/2025/11/proton-drive-launches-secure-document-scanning-for-ios-users/</link>
+      <description><![CDATA[Proton Drive 正在推出适用于 iOS 的纸质文档扫描功能，允许用户直接在其 Drive 中扫描文件并将其另存为加密的 PDF。这些文档在存储前会安全地保存在设备上，从而增强便利性和隐私性。
+Android 计划在未来版本中支持此功能。
+查看有关 AlternativeTo 的文章有关 Proton Drive 的更多信息 | Proton Drive 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/proton-drive-launches-secure-document-scanning-for-ios-users/</guid>
+      <pubDate>Wed, 05 Nov 2025 08:51:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>YouTube 推出 AI 编辑功能，以简化 iOS 和 Android 上的 Shorts 创作流程</title>
+      <link>https://alternativeto.net/news/2025/11/youtube-rolls-out-edit-with-ai-to-streamline-shorts-creation-on-ios-and-android/</link>
+      <description><![CDATA[YouTube 正在推出使用 AI 进行编辑，这是一项新功能，旨在帮助创作者将相机胶卷中的原始素材转换为 Shorts 视频的初稿。该工具可以识别和排列所选剪辑中的精彩片段，使用户能够专注于精炼故事、完善时机和添加风格，而不是手动对素材进行排序。
+虽然人工智能处理初始编辑，但用户保留进一步自定义草稿的能力。 使用 AI 进行编辑可通过 iOS 和 Android 上的主 YouTube 应用中的 Shorts 创建工具以及 Android 上的 YouTube Create 应用中使用。首次推出后，该工具预计在未来几个月内将在 Shorts 和 YouTube Create 中吸引更多用户。
+首先，创作者可以从其设备上传照片或视频，并从各种人工智能支持的编辑风格中进行选择。其中一些风格包括添加人工智能配音，目前 YouTube Create 应用中提供英语和印地语版本，并计划很快将此功能引入支持 Shorts 的编辑工具。
+查看有关 AlternativeTo 的文章更多有关YouTube | YouTube 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/youtube-rolls-out-edit-with-ai-to-streamline-shorts-creation-on-ios-and-android/</guid>
+      <pubDate>Wed, 05 Nov 2025 08:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Opera One R3 引入了具有自定义名称和颜色的可自定义选项卡岛</title>
+      <link>https://alternativeto.net/news/2025/11/opera-one-r3-introduces-customizable-tab-islands-with-custom-names-and-colors/</link>
+      <description><![CDATA[Opera One R3 引入了个性化选项卡岛的新方法，让用户可以为其选项卡组指定自定义名称并选择手柄颜色。这些自定义功能目前在早期访问版本中可用。
+选项卡岛仍然是 Opera One 中的核心组织工具，可实现高效的选项卡管理。
+查看有关 AlternativeTo 的文章更多信息Opera | Opera 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/opera-one-r3-introduces-customizable-tab-islands-with-custom-names-and-colors/</guid>
+      <pubDate>Wed, 05 Nov 2025 08:46:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shots V1.5 更新带来双倍视频质量和更快的导出</title>
+      <link>https://alternativeto.net/news/2025/11/shots-v1-5-update-brings-double-video-quality-and-faster-exports/</link>
+      <description><![CDATA[Shots 是一款模型生成器，它使用户能够通过直观的拖放界面快速创建和导出精美的专业演示文稿，现已发布 V1.5。
+此新更新引入了改进的视频质量，使渲染视频的清晰度提高了一倍。导出速度也提高了六倍，使用户能够更快地处理视频。
+查看有关 AlternativeTo 的文章更多信息镜头 | 镜头替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/shots-v1-5-update-brings-double-video-quality-and-faster-exports/</guid>
+      <pubDate>Wed, 05 Nov 2025 08:32:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Paste 集成了 Apple Intelligence，用于应用内写作和校对</title>
+      <link>https://alternativeto.net/news/2025/11/paste-integrates-apple-intelligence-for-in-app-writing-and-proofreading/</link>
+      <description><![CDATA[Paste 现在具有 Apple Intelligence 集成功能，使用户能够直接在应用中编写、校对和优化内容。
+此更新整合了 Paste 中的书写工具，简化了创意开发过程。
+查看有关 AlternativeTo 的文章更多关于粘贴 | 粘贴替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/paste-integrates-apple-intelligence-for-in-app-writing-and-proofreading/</guid>
+      <pubDate>Wed, 05 Nov 2025 08:20:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ente 添加了带有地图和相册时间线的交互式旅行布局</title>
+      <link>https://alternativeto.net/news/2025/11/ente-adds-interactive-trip-layout-with-map-and-timeline-for-photo-albums/</link>
+      <description><![CDATA[Ente 现在提供 Trip 布局，允许用户共享相册，其中照片显示在按时间顺序排列的交互式地图上。这项新功能通过使用端到端加密并仅与注重隐私的 Stadia 地图共享近似坐标来确保隐私。
+与其他旅行应用程序不同，Ente 无法访问用户照片或精确位置数据。
+查看有关 AlternativeTo 的文章有关 Ente 的更多信息照片 | Ente 照片替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/ente-adds-interactive-trip-layout-with-map-and-timeline-for-photo-albums/</guid>
+      <pubDate>Wed, 05 Nov 2025 08:15:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>亚马逊将 Alexa+ AI 与对话式搜索集成到 Amazon Music 中</title>
+      <link>https://alternativeto.net/news/2025/11/amazon-integrates-alexa-ai-into-amazon-music-with-conversational-search/</link>
+      <description><![CDATA[亚马逊已在适用于 iOS 和 Android 的 Amazon Music 应用程序中推出了其 AI 助手 Alexa+ 的升级版本，可供 Alexa+ 抢先体验计划。这种集成允许用户使用自然的对话式查询和后续问题来搜索音乐。
+Alexa+ 允许用户按时代、情绪或乐器进行搜索，并筛选出特定的艺术家或流派，同时还可以根据情绪、年代或用户定义的主题创建播放列表，处理“包含以碧昂丝开始的 2000 多首曲目的播放列表”等请求，从歌词或电视节目提及等部分细节中识别歌曲，并提供排行榜表现、节日亮相和歌词背后的故事等见解。
+Alexa+ 最初于今年早些时候推出，是亚马逊更广泛人工智能扩展的一部分，可通过应用程序一角的新“A”按钮进行访问，目前所有 Amazon Music 均提供抢先体验计划在完全发布后对 Amazon Prime 会员免费，并通过每月 20 美元的独立订阅向非 Prime 用户提供。
+查看有关 AlternativeTo 的文章有关亚马逊的更多信息音乐 | 亚马逊音乐替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/amazon-integrates-alexa-ai-into-amazon-music-with-conversational-search/</guid>
+      <pubDate>Wed, 05 Nov 2025 04:06:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Resend 添加了用于基于 Webhooks 的电子邮件接收和处理的入站功能</title>
+      <link>https://alternativeto.net/news/2025/11/resend-adds-inbound-feature-for-webhooks-based-email-receiving-and-processing/</link>
+      <description><![CDATA[Resend 已推出 Inbound，将其平台扩展到发送电子邮件之外，现在支持接收和处理传入消息。入站通过 Webhooks 进行操作，每次电子邮件到达时都会将结构化 JSON 有效负载传递到指定端点。这种方法使开发人员能够通过 Resend 平台立即以编程方式访问已解析的内容、消息元数据和存储的附件。
+每封入站电子邮件都会自动解析，系统会在将其发送到配置的 Webhook 之前保存附件和事件数据。开发人员可以使用 Resend 提供的默认入站域，或为适合其品牌的地址设置自定义域。如果 Webhook 未准备好，重新发送会保留所有入站电子邮件，防止数据丢失，并允许用户在端点可用时访问消息。
+虽然开发人员可以通过专用 API 受益于编程式附件处理，但用户还可以在重新发送仪表板上查看和过滤收到的电子邮件。仪表板以 HTML 或纯文本形式显示内容以及附件预览。典型用例包括启用应用内回复、支持票证系统或自动化文档处理工作流程。
+查看有关 AlternativeTo 的文章更多信息Resend.com | Resend.com 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/resend-adds-inbound-feature-for-webhooks-based-email-receiving-and-processing/</guid>
+      <pubDate>Wed, 05 Nov 2025 04:00:47 GMT</pubDate>
+    </item>
     <item>
       <title>WhatsApp 推出官方 Apple Watch 应用，提供消息传递和语音支持</title>
       <link>https://alternativeto.net/news/2025/11/whatsapp-launches-official-apple-watch-app-with-messaging-and-voice-support/</link>
@@ -54,100 +150,6 @@
 查看有关 AlternativeTo 的文章有关 Apple 应用程序的更多信息商店 | Apple App Store 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/11/apple-launches-web-based-app-store-for-easier-app-browsing-and-discovery-across-platforms/</guid>
       <pubDate>Tue, 04 Nov 2025 15:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chrome 现在可以自动填充您的护照号码、驾驶执照详细信息和车辆信息</title>
-      <link>https://alternativeto.net/news/2025/11/chrome-can-now-autofill-your-passport-number-driver-s-license-details-and-vehicle-info/</link>
-      <description><![CDATA[Chrome 已为桌面用户扩展了自动填充功能，现在允许自动填写包含护照号码、驾驶执照详细信息以及包括车牌和 VIN 在内的车辆信息等敏感数据的表单。已启用增强型自动填充功能的用户可以使用此增强功能。
-除了这些数据类型扩展之外，Chrome 现在还能更准确地解释和填写复杂的网络表单，从而适应互联网上的各种格式标准。这样做的目的是减少手动输入，即使在不太标准化的网站上也是如此。
-为了解决隐私和安全问题，Google 构建了具有多种保护措施的增强型自动填充功能。输入的任何敏感信息只有在用户明确同意的情况下才会存储，并受到加密保护。在 Chrome 填充任何已保存的个人数据之前，系统会提示用户进行确认，从而保持对其信息的直接控制。
-这些更新正在全球范围内针对所有受支持的语言发布。 Google 已宣布计划在未来的更新中添加对其他数据类型的支持。
-查看有关 AlternativeTo 的文章有关 Google 的更多信息Chrome | Google Chrome 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/chrome-can-now-autofill-your-passport-number-driver-s-license-details-and-vehicle-info/</guid>
-      <pubDate>Tue, 04 Nov 2025 12:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Brave for Android 引入 CSV 密码导入和菜单自定义</title>
-      <link>https://alternativeto.net/news/2025/11/brave-for-android-introduces-csv-password-import-and-menu-customization/</link>
-      <description><![CDATA[Brave for Android 现在允许用户使用 CSV 文件导入密码，从而更轻松地从其他浏览器传输凭据。最新的更新还允许用户通过隐藏不需要的按钮来自定义主菜单。
-这些变化为 Android 用户提供了更多便利和个性化。
-查看有关 AlternativeTo 的文章有关 Brave 的更多信息 | 勇敢的替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/brave-for-android-introduces-csv-password-import-and-menu-customization/</guid>
-      <pubDate>Tue, 04 Nov 2025 08:16:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bottles 52.0 带来了 Windows Vista 支持、沙盒功能、增强的稳定性等</title>
-      <link>https://alternativeto.net/news/2025/11/bottles-52-0-brings-windows-vista-support-sandbox-feature-enhanced-stability-and-more/</link>
-      <description><![CDATA[Bottles 52.0“我回来了”继续让 Linux 用户运行 Windows 软件和游戏，在其核心功能的基础上进行了总体稳定性改进和更流畅的用户体验。此版本全面引入了多项修复和用户界面增强功能。
-板载对话框已迁移到 AdwDialog，从而改进了与 libadwaita 的集成。该对话框现在可以提供有关正在进行的操作的清晰、实时的反馈。此外，用户还可以在流程中取消瓶子创建和组件下载，从而获得对工作流程的新控制。
-通过此更新，沙箱功能现在默认启用，提供了额外的安全层。平台兼容性也更广泛，因为添加了对 Windows Vista 和 st 终端 的支持。
-在技术方面，通过基于块的数据传输增强了复制性能，并且该软件解决了包括“是目录”错误和配置加载失败在内的错误。该库现在可以在卸载软件后正确删除孤立的条目。默认情况下启用字体平滑，而 GNOME 已更新至版本 49。 Weblate 翻译再次正常运行，并且更明显的捐赠按钮完善了这个新版本的改进。
-查看有关 AlternativeTo 的文章更多信息瓶子 | 瓶子替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/bottles-52-0-brings-windows-vista-support-sandbox-feature-enhanced-stability-and-more/</guid>
-      <pubDate>Mon, 03 Nov 2025 20:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KeePass 2.60 发布，具有各种用户界面、集成增强和错误修复</title>
-      <link>https://alternativeto.net/news/2025/11/keepass-2-60-released-with-various-user-interface-integration-enhancements-and-bug-fixes/</link>
-      <description><![CDATA[KeePass 2.60 首次推出了对其搜索和数据显示功能的关键增强功能。用户现在可以启用“在快速搜索中搜索组路径”，并在主条目列表中添加“组路径”和“组名称”作为可选列。多项更新改进了列表管理：在列表视图中，现在可以使用 Ctrl+A 选择所有项目，使用删除键删除多个项目，以及在不存在任何条目时查看空状态消息。
-在这些可用性改进之后，占位符确认对话框现在包含快速访问链接，以获取有关占位符和安全性的帮助页面。对于使用标准 AZERTY 键盘的法语用户，KeePass 会检测涉及 Ctrl+Alt+A 自动键入快捷键的冲突，显示警告，并提供获取更多信息的链接。辅助功能也得到了改进，剪贴板清除倒计时栏具有剩余秒数的工具提示和屏幕阅读器的警报行为。针对屏幕阅读器进行优化时，质量进度条还会获得焦点支持。
-在数据导入方面，KeePass 现在支持 Mozilla Firefox 143+ 密码 CSV 文件并增强Bitwarden JSON 导入。它还以毫秒为单位处理 Unix 时间戳。解决方法解决了从安全桌面返回后的焦点错误。安装程序更改包括在 Visual Studio 2022 中重建 ShInstUtil、ARM64 本机映像支持以及通过 MSI 安装改进启动性能。快速搜索可用性在键盘导航方面得到了改进，同时禁用了自动完成功能以避免出现问题。最后，现在关闭系统时会立即保存配置。
-查看有关 AlternativeTo 的文章更多信息KeePass | KeePass 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/keepass-2-60-released-with-various-user-interface-integration-enhancements-and-bug-fixes/</guid>
-      <pubDate>Mon, 03 Nov 2025 16:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌翻译为文本翻译添加了快速且高级的模型选择器</title>
-      <link>https://alternativeto.net/news/2025/11/google-translate-adds-fast-and-advanced-model-picker-for-text-translation/</link>
-      <description><![CDATA[Google 翻译引入了一个模型选择器，其中包含用于文本翻译的“快速”和“高级”选项。 “高级”模式为复杂翻译提供了更高的准确性，并被设置为默认模式，但仅适用于选定的语言。
-此功能目前出现在 iOS 设备上，尚未确认在 Android 设备上推出。
-查看有关 AlternativeTo 的文章有关 Google 的更多信息翻译 | Google 翻译替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/google-translate-adds-fast-and-advanced-model-picker-for-text-translation/</guid>
-      <pubDate>Mon, 03 Nov 2025 16:39:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linkora 0.14.0 现在支持标签并改进了书签组织</title>
-      <link>https://alternativeto.net/news/2025/11/linkora-0-14-0-now-supports-tags-and-improves-bookmark-organization/</link>
-      <description><![CDATA[Linkora 0.14.0 引入了对标签的支持，让用户可以使用统一集合屏幕中的文件夹和标签来组织链接。现在通过保存期间的搜索和排序增强了文件夹管理，同时保存了标签 UI 首选项以实现更顺畅的工作流程。
-同步服务器用户必须更新到同步服务器版本 0.2.0 才能继续同步。
-查看有关 AlternativeTo 的文章更多信息Linkora | Linkora 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/linkora-0-14-0-now-supports-tags-and-improves-bookmark-organization/</guid>
-      <pubDate>Mon, 03 Nov 2025 16:27:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dioxus 0.7 带来热补丁、WGPU 渲染和 Axum 集成</title>
-      <link>https://alternativeto.net/news/2025/11/dioxus-0-7-brings-hot-patching-wgpu-rendering-and-axum-integration/</link>
-      <description><![CDATA[Dioxus 0.7 现已推出，具有运行时对 Rust 代码进行“亚秒级”热修补的功能。该更新引入了 Dioxus Native，这是一种基于 WGPU 的 HTML/CSS 渲染器，并对服务器功能进行了全面改造，并完全集成了 Axum。
-其他亮点包括 WebAssembly 的代码分割和改进的反应式状态管理。
-查看有关 AlternativeTo 的文章更多信息Dioxus | Dioxus 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/dioxus-0-7-brings-hot-patching-wgpu-rendering-and-axum-integration/</guid>
-      <pubDate>Mon, 03 Nov 2025 16:17:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>MacsyZones v2.0 添加了对捕捉自定义管理的应用程序窗口的支持</title>
-      <link>https://alternativeto.net/news/2025/11/macsyzones-v2-0-adds-support-for-snapping-custom-managed-app-windows/</link>
-      <description><![CDATA[MacsyZones v2.0 现在支持从使用自定义窗口管理的应用程序捕捉窗口，从而提高了对更广泛软件的兼容性。该更新还添加了快速放置按钮和智能间隙填充，以简化布局设计。
-用户现在可以将设置重置为默认值并受益于改进的默认布局。
-查看有关 AlternativeTo 的文章更多信息MacsyZones | MacsyZones 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/macsyzones-v2-0-adds-support-for-snapping-custom-managed-app-windows/</guid>
-      <pubDate>Mon, 03 Nov 2025 16:03:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Perplexity 推出实时航班状态以及出发和登机口更新</title>
-      <link>https://alternativeto.net/news/2025/11/perplexity-launches-real-time-flight-status-with-departure-and-gate-updates/</link>
-      <description><![CDATA[Perplexity推出了实时航班状态搜索，允许用户检查任何航班的出发、到达、延误和登机口变更。
-该功能可供所有用户使用，并将于下周在 iOS 上推出，并很快在 Android 上推出。
-查看有关 AlternativeTo 的文章更多信息困惑 | 困惑替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/perplexity-launches-real-time-flight-status-with-departure-and-gate-updates/</guid>
-      <pubDate>Mon, 03 Nov 2025 15:51:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>PhotoPea 添加了免费背景去除剂并通过链接选项分享</title>
-      <link>https://alternativeto.net/news/2025/11/photopea-adds-free-background-remover-and-share-via-link-options/</link>
-      <description><![CDATA[PhotoPea 现在提供两项新功能：一键式背景去除器，无费用或分辨率限制，以及使用新的文件共享功能通过直接链接共享图像或完成项目的可能性。
-查看有关 AlternativeTo 的文章有关 Photopea 的更多信息 | Photopea 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/photopea-adds-free-background-remover-and-share-via-link-options/</guid>
-      <pubDate>Mon, 03 Nov 2025 15:47:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
