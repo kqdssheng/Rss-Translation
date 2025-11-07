@@ -4,7 +4,58 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Fri, 07 Nov 2025 01:27:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 12:41:19 GMT</lastBuildDate>
+    <item>
+      <title>Nuxt Studio 在 alpha 版本中首次亮相，用于通过 GitHub 集成进行生产网站编辑</title>
+      <link>https://alternativeto.net/news/2025/11/nuxt-studio-debuts-in-alpha-for-in-production-website-editing-with-github-integration/</link>
+      <description><![CDATA[Nuxt 宣布推出 Nuxt Studio 的 alpha 版本，这是一个新的免费开源模块，专为网站内容的生产编辑而设计。 Nuxt Studio 将 GitHub 工作流程和实时预览功能直接集成到任何 Nuxt 应用程序中，使团队无需离开自己的环境即可管理实时内容编辑。
+基于从托管服务的转变，Nuxt Studio 现在可以与现有的 Nuxt Content 网站一起自行托管。内容编辑者可以在生产中更新网站材料，而无需本地开发工具或 Git 命令知识，从而降低了非技术贡献者的障碍。
+与以前的版本不同，Studio 现在需要服务器端路由进行身份验证，并需要服务器端渲染的部署支持。然而，混合渲染保持了与静态站点生成的兼容性，确保了部署策略的一定灵活性。 alpha 阶段重点关注基础设施和稳定性，使用 Monaco 编辑器 处理所有文件和 GitHub 操作，同时刻意阻止可视化编辑以最大程度地降低错误风险。
+展望未来，即将推出的测试版将提供可视化内容编辑、Markdown 编辑器、基于表单的工具、Vue 组件支持以及 Google OAuth（作为基于 GitHub 的身份验证的替代方案）。经过进一步优化和全面生产准备的稳定版本计划于今年年底发布。
+查看有关 AlternativeTo 的文章有关 Nuxt 的更多信息Studio | Nuxt Studio 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/nuxt-studio-debuts-in-alpha-for-in-production-website-editing-with-github-integration/</guid>
+      <pubDate>Fri, 07 Nov 2025 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着焦点转向 Roblox 社区，Guild 将于 2025 年 12 月 19 日关闭</title>
+      <link>https://alternativeto.net/news/2025/11/guilded-to-shut-down-on-december-19-2025-as-focus-shifts-to-roblox-communities/</link>
+      <description><![CDATA[Roblox 宣布，专为游戏社区设计的群聊平台 Roblox 将于 2025 年 12 月 19 日停止服务。届时，对网站、桌面和移动应用的访问将停止，所有平台内容将变得无法访问。这一决定伴随着战略的转变：Roblox 现在打算专注于开发 Roblox 社区，而不是支持两种单独的产品。
+在关闭之前，Guild 用户可以继续照常运营，但我们鼓励他们将社区迁移到 Roblox。对于那些已经在使用 Roblox 社区的人来说，计划对服务器公告的支持旨在帮助缓解这一过渡。建议不想切换到 Roblox 的用户考虑替代方案，例如 Discord 或TeamSpeak。
+为了准备关闭，Guilded 提供了一个内容导出工具，以便服务器所有者可以保存消息历史记录。高级用户可以通过 Bot API 访问其服务器的数据，直到服务中断。与此同时，新服务器订阅注册将于下周结束。当前的订阅在 11 月中旬之后将不再续订，从而防止在此之后产生任何额外费用。
+查看有关 AlternativeTo 的文章更多信息公会 | 公会替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/guilded-to-shut-down-on-december-19-2025-as-focus-shifts-to-roblox-communities/</guid>
+      <pubDate>Fri, 07 Nov 2025 07:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux Mint 推出新的系统信息和管理工具</title>
+      <link>https://alternativeto.net/news/2025/11/linux-mint-introduces-new-system-information-and-administration-tools/</link>
+      <description><![CDATA[Linux Mint 团队的 2025 年 10 月更新重点关注重新设计的“系统信息”工具（之前称为“系统报告”）。此次更新的目的不仅限于收集报告，现在还可以通过更清晰的系统数据帮助用户诊断硬件和驱动程序问题。它添加了 USB、GPU、PCI 和 BIOS 页面，可以快速访问设备 ID、电源使用、连接速度和固件详细信息。
+新的“系统管理”应用程序可让用户控制启动菜单的可见性、设置超时并添加启动参数，这对于双启动和硬件故障排除非常有用。
+其他更改包括用于移动搜索栏和系统按钮的新 Cinnamon 菜单选项，以及将 adwaita-icon-theme 替换为 XSI 图标集以实现一致的符号图标。 LMDE 6 将于 2026 年 1 月 1 日终止生命周期，升级仅适用于 64 位系统。
+查看有关 AlternativeTo 的文章有关 Linux Mint 的更多信息 | Linux Mint 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/linux-mint-introduces-new-system-information-and-administration-tools/</guid>
+      <pubDate>Fri, 07 Nov 2025 05:59:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple Music 即将添加对离线歌词和 WhatsApp 歌曲共享的支持</title>
+      <link>https://alternativeto.net/news/2025/11/apple-music-to-add-support-for-offline-lyrics-and-whatsapp-song-sharing-soon/</link>
+      <description><![CDATA[Apple 将在即将推出的 iOS 26.2 更新中为 Apple Music 添加离线歌词支持。用户现在无需 Wi-Fi 或蜂窝数据即可查看同步歌词，解决了即使下载歌曲也需要互联网连接的长期限制。此更新旨在改善低连接环境中用户的播放体验。
+此更新还引入了新的 WhatsApp 集成，让用户可以通过“共享歌词”选项将歌曲或选定的歌词片段直接共享到他们的 WhatsApp 状态。共享的帖子包括专辑封面、歌曲的标题和艺术家以及所选的歌词，提供比以前更精美的视觉效果。
+目前，共享整首歌曲的选项似乎有限，这表明苹果仍在发布前完善该功能。离线歌词和 WhatsApp 共享预计将在 Beta 测试后随 iOS 26.2 公开推出。
+查看有关 AlternativeTo 的文章有关 Apple 的更多信息音乐 | Apple Music 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/apple-music-to-add-support-for-offline-lyrics-and-whatsapp-song-sharing-soon/</guid>
+      <pubDate>Fri, 07 Nov 2025 05:53:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Snapchat 将通过 4 亿美元的合作伙伴关系整合 Perplexity AI 搜索引擎</title>
+      <link>https://alternativeto.net/news/2025/11/snapchat-to-integrate-perplexity-ai-search-engine-via-400m-partnership/</link>
+      <description><![CDATA[Snap 已与 Perplexity 签订价值 4 亿美元的协议，使其人工智能搜索引擎成为 Snapchat 内的默认搜索解决方案，目标是在 2026 年全面推出。该协议包括现金和股权，将带来Perplexity 的技术服务于全球超过 9.4 亿 Snapchat 用户。
+从 2025 年初开始，Perplexity 的 AI 引擎将集成到 Snapchat 现有的我的 AI 聊天机器人中，在应用内提供实时的来源答案。用户将继续使用当前的聊天机器人功能，同时获得网络搜索功能。
+一旦该功能在 2026 年推出，Snap 将开始确认合作伙伴关系带来的收入。Snap 首席执行官 Evan Spiegel 还暗示，类似的人工智能合作伙伴关系可能会随之而来。
+查看有关 AlternativeTo 的文章更多信息Snapchat | Snapchat 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/snapchat-to-integrate-perplexity-ai-search-engine-via-400m-partnership/</guid>
+      <pubDate>Fri, 07 Nov 2025 05:35:01 GMT</pubDate>
+    </item>
     <item>
       <title>Mulvad 将于 2025 年 11 月 27 日关闭其注重隐私的搜索代理 Leta</title>
       <link>https://alternativeto.net/news/2025/11/mullvad-will-shut-down-its-privacy-focused-search-proxy-leta-on-november-27-2025/</link>
@@ -29,7 +80,7 @@
     <item>
       <title>使用 Manus 的新 PowerPoint 模板功能创建品牌幻灯片</title>
       <link>https://alternativeto.net/news/2025/11/create-on-brand-slides-with-manus-new-powerpoint-template-feature/</link>
-      <description><![CDATA[Manus 现在支持上传自定义 PowerPoint 幻灯片模板，允许用户生成自动匹配其品牌字体、颜色和布局的新幻灯片。用户可以选择上传的模板并提示 Manus 按照自己的风格创建幻灯片，从而实现品牌一致性和格式的自动化。
+      <description><![CDATA[Manus 现在支持上传自定义 PowerPoint 幻灯片模板，允许用户生成自动匹配其品牌字体、颜色和布局的新幻灯片。用户可以选择上传的模板并提示 Manus 以自己的风格创建幻灯片，从而实现品牌一致性和格式的自动化。
 查看有关 AlternativeTo 的文章有关 Manus 的更多信息| Manus 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/11/create-on-brand-slides-with-manus-new-powerpoint-template-feature/</guid>
       <pubDate>Thu, 06 Nov 2025 15:31:34 GMT</pubDate>
@@ -80,7 +131,7 @@ PCManFM-Qt 用户受益于在侧窗格上下文菜单中添加“安全删除”
       <description><![CDATA[Google 地图正在 Android 和 iOS 上添加 Gemini 集成，从而实现免提对话式导航。用户可以自然地说话来管理路线、询问上下文问题（例如寻找附近的餐馆）以及获取停车位或热门菜肴等详细信息。 Gemini 还支持语音命令来确认目的地、报告交通事故或在授予权限后将活动添加到 Google 日历。
 在美国，地图方向现在参考现实世界的地标而不仅仅是距离，显示清晰的提示，例如“经过泰国暹罗餐厅后左转”。 Gemini 通过分析来自超过 2.5 亿个地图地点的数据和 Google 街景 图像来生成这些方向，以选择从道路上易于识别的地标。 Android Auto 用户即使没有主动导航，也将开始收到有关交通中断、封闭或严重拥堵的主动通知。
 地图应用很快将在 Android 和 iOS 上推出 Google Lens with Gemini，让用户将相机对准某个地点即可获取该地点的信息。所有新功能将在未来几周内在受支持的区域推出
-查看有关 AlternativeTo 的文章有关 Google 的更多信息地图 | Google 地图替代品]]></description>
+查看有关 AlternativeTo 的文章有关 Google 的更多信息地图 | Google 地图替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/11/google-maps-will-soon-integrate-gemini-to-enable-hands-free-conversational-navigation/</guid>
       <pubDate>Thu, 06 Nov 2025 06:09:27 GMT</pubDate>
     </item>
@@ -103,60 +154,6 @@ PCManFM-Qt 用户受益于在侧窗格上下文菜单中添加“安全删除”
 查看有关 AlternativeTo 的文章更多信息SteamOS | SteamOS 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/11/valve-adds-a-new-low-power-mode-to-steamos-for-downloading-games-with-the-screen-off/</guid>
       <pubDate>Wed, 05 Nov 2025 19:38:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft 在 Edge 上引入了 Passkeys 支持，可在 Windows 上进行无密码登录</title>
-      <link>https://alternativeto.net/news/2025/11/microsoft-introduces-passkeys-support-on-edge-for-passwordless-sign-ins-on-windows/</link>
-      <description><![CDATA[Microsoft Edge 现在允许 Windows 用户通过其内置密码管理器创建、保存和同步密钥。基于 FIDO2 开放标准，密钥可实现由 Meta、Google 和 X。它们以加密形式存储在云端，并受用户定义的 PIN 保护。
-当用户访问支持万能钥匙的网站时，Edge 会提示他们直接在密码管理器中创建万能钥匙。然后可以使用保存的密钥通过指纹、面部识别或 PIN 验证进行登录。从另一台 Windows PC 访问密钥还需要使用 Microsoft 密码管理器 PIN 来验证身份。
-目前仅在 Windows 上可用，Microsoft 计划将密钥支持扩展到其他平台，并发布密码管理器插件，允许在浏览器外部使用密钥。
-查看有关 AlternativeTo 的文章有关 Microsoft 的更多信息Edge | Microsoft Edge 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/microsoft-introduces-passkeys-support-on-edge-for-passwordless-sign-ins-on-windows/</guid>
-      <pubDate>Wed, 05 Nov 2025 18:53:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenProject 16.6 添加了新的项目评估工具和显着的性能改进</title>
-      <link>https://alternativeto.net/news/2025/11/openproject-16-6-adds-new-project-evaluation-tools-and-significant-performance-improvements/</link>
-      <description><![CDATA[OpenProject 16.6 现已作为此开源项目管理平台的最新更新提供。在此版本中，项目组合经理获得了三种新的属性类型 - 层次结构、加权项目和计算值 - 允许组织构建定制的评估模型并使用标准化标准比较项目。
-这些产品组合的增强还辅以显着的性能改进。 OpenProject 16.6 简化了后端处理和数据库查询，从而减少了系统负载并加快了可能包含数千个项目和数百万个工作包的大型安装的响应时间。即使在高要求的环境中，用户也可以获得更流畅的导航和更灵敏的过滤。工作包关系的自动完成器也经过优化，可仅获取所需的最少数据。
-经过这些升级，文档模块迈出了改善协作的第一步。新的索引页面按名称、类型和上次编辑日期组织文件，最近更新的文件始终首先显示。用户可以受益于按文档标题的快速过滤，并可以使用侧面导航按类型细化列表。
-此外，OpenProject 16.6 还改进了可用性，简化了信息管理、会议工具和管理导航。
-查看有关 AlternativeTo 的文章更多信息OpenProject | OpenProject 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/openproject-16-6-adds-new-project-evaluation-tools-and-significant-performance-improvements/</guid>
-      <pubDate>Wed, 05 Nov 2025 16:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软将从 Minecraft Java 版中删除代码混淆，极大地帮助模组制作者</title>
-      <link>https://alternativeto.net/news/2025/11/microsoft-to-remove-code-obfuscation-from-minecraft-java-edition-greatly-helping-modders/</link>
-      <description><![CDATA[微软正在对Minecraft：Java版进行重大更改，删除代码混淆，这是自游戏发布以来一直存在的做法。代码混淆使源代码难以阅读，使依赖混乱、混乱的函数和类名的社区修改者的工作变得复杂。虽然微软之前曾在 2019 年试图通过提供“混淆映射”（帮助模组作者将混淆术语与实际术语进行匹配的列表）来缓解这一挑战，但新举措将消除对此类中介机构的需求。
-通过此更新，模组制作者应该会发现创建、更新和调试模组变得更加轻松快捷。源代码和崩溃日志将是可读的，消除了之前涉及的大部分猜测。然而，这一变化将为那些使用现有修改工具（预期代码会被混淆）的人带来一些暂时的困难。为了解决这个问题，从下一个版本快照开始，微软将与传统的混淆版本并行提供未混淆的实验版本。这种方法将为模组制作者和工具创建者提供一个过渡期，以提前测试和调整他们的工作流程。
-继混乱之山更新之后，第一个发布的我的世界：Java版快照将是第一个没有混淆的正式版本。
-查看有关 AlternativeTo 的文章更多信息我的世界 | 我的世界替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/microsoft-to-remove-code-obfuscation-from-minecraft-java-edition-greatly-helping-modders/</guid>
-      <pubDate>Wed, 05 Nov 2025 15:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 在部分国家/地区推出 Android 版 AI 视频创作应用 Sora</title>
-      <link>https://alternativeto.net/news/2025/11/openai-launches-its-ai-video-creation-app-sora-on-android-in-select-countries/</link>
-      <description><![CDATA[OpenAI 在 Android 上推出了人工智能视频生成应用程序 Sora，将该平台的覆盖范围扩展到网络和 iOS 设备之外。该应用现已在美国、加拿大、日本、韩国、台湾、泰国和越南的 Google Play 商店上架。此次推出扩大了 Sora 的潜在用户群，使其能够进入全球一些最大的 Android 市场。
-继九月份在 iOS 上强势亮相之后，Sora 在第一周就迅速积累了超过 100 万次下载，并登上了 App Store 排行榜的榜首。随着 Android 版本的发布，OpenAI 旨在乘势而上，吸引更多对 AI 短视频创作感兴趣的用户。
-在功能方面，Sora 提供了类似 TikTok 的视频源，展示人工智能生成的剪辑。它还引入了“客串”功能，使用户能够创建以自己或朋友为主角的个性化视频。这些工具迎合了在竞争激烈的短视频生态系统中寻找人工智能驱动选项的内容创作者的需求。
-除了平台扩展之外，Sora 最近还因其对深度伪造品和版权保护的处理而受到审查。在面临公众批评后，OpenAI 修改了权利人的退出政策以解决这些问题。
-查看有关 AlternativeTo 的文章更多信息Sora | Sora 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/openai-launches-its-ai-video-creation-app-sora-on-android-in-select-countries/</guid>
-      <pubDate>Wed, 05 Nov 2025 12:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Storybook 10 首次推出仅 ESM、轻量 29%、模块自动模拟和类型安全 CSF 工厂</title>
-      <link>https://alternativeto.net/news/2025/11/storybook-10-debuts-esm-only-29-lighter-module-automocking-and-typesafe-csf-factories/</link>
-      <description><![CDATA[Storybook 10 是 UI 设计师和前端开发人员的重大更新，重点关注性能和现代工作流程。切换到仅支持 ECMAScript 模块 (ESM) 标志着主要的突破性变化。这次彻底修改将安装大小又减少了 29%，继版本 9 中大幅节省之后。
-除了这些改进之外，Storybook 与 Vitest 的合作推出了下一代模块模拟解决方案。新系统适用于开发和静态生产版本，并且与 Vite 和 Webpack 兼容，使团队能够更轻松地实现工具现代化。
-在组件创作体验中，组件故事格式 (CSF) 得到了重大升级。 CSF Factory 现已从“实验版”升级为“预览版”，为故事编写者提供更好的类型安全性和改进的自动完成功能，同时增强了人体工程学设计。
-工作流程不断改进，故事编辑和共享变得更加简单，标签功能也得到扩展。 Storybook 现在允许用户通过选定的标签排除故事，并直接在配置文件中配置默认 UI 状态。
-对于框架支持，Storybook 10 添加了 Svelte 异步组件支持和模拟状态，为 SvelteKit 用户缩小了关键差距。继这些平台扩展更改之后，此版本还确保与 Next.js 16 和 Vitest 4。
-查看有关 AlternativeTo 的文章更多信息故事书 | 故事书替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/storybook-10-debuts-esm-only-29-lighter-module-automocking-and-typesafe-csf-factories/</guid>
-      <pubDate>Wed, 05 Nov 2025 10:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
