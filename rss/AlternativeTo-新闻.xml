@@ -4,7 +4,56 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Thu, 06 Nov 2025 12:40:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 01:27:49 GMT</lastBuildDate>
+    <item>
+      <title>Mulvad 将于 2025 年 11 月 27 日关闭其注重隐私的搜索代理 Leta</title>
+      <link>https://alternativeto.net/news/2025/11/mullvad-will-shut-down-its-privacy-focused-search-proxy-leta-on-november-27-2025/</link>
+      <description><![CDATA[Mullvad 宣布将于 2025 年 11 月 27 日关闭其 Leta 搜索代理服务。Leta 旨在通过充当代表许多用户的搜索查询、池化和缓存请求的中介来保护用户隐私。这种方法确保个人搜索无法轻易追溯到单个用户，为那些关心在线隐私的人提供了额外的匿名层。
+在决定终止 Leta 后，Mullvad 提到了搜索行业的快速变化。该公司解释说，随着搜索服务的发展，Leta 的效率可能会降低，这将降低其对注重隐私的用户的整体实用性。
+对于那些寻求同等隐私级别的人，Mullvad 建议将虚拟专用网络 (VPN) 与注重隐私的浏览器结合起来作为替代解决方案。 Mulvad 表示，这种方法可以通过屏蔽用户 IP 地址并减少网络跟踪来提供类似的隐私保护。
+基于这一转变，Mullvad 表示打算推进 VPN 和浏览器隐私技术的开发。公司旨在通过内部研究和与合作伙伴的协作努力继续开展这项工作。
+查看有关 AlternativeTo 的文章更多信息Mullvad Leta | Mullvad Leta 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/mullvad-will-shut-down-its-privacy-focused-search-proxy-leta-on-november-27-2025/</guid>
+      <pubDate>Thu, 06 Nov 2025 16:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mastodon 4.5 发布，提供引用帖子、增强的审核和回复获取</title>
+      <link>https://alternativeto.net/news/2025/11/mastodon-4-5-launches-with-quote-posts-enhanced-moderation-and-reply-fetching/</link>
+      <description><![CDATA[Mastodon 4.5 已推出，引入了引用帖子，让用户可以引用他人的帖子，同时让作者通过新的“发帖默认值”页面控制全局或每个帖子禁用或撤销引用。它还通过新的“获取所有回复”功能解决了丢失回复的问题，该功能每 15 分钟和页面加载时自动检索未见过的回复。
+对于服务器管理员来说，更新添加了源管理工具，以禁用访问者或登录用户的特定源，并允许将本地源设置为主页。审核获得了新功能，包括定向阻止，可通过部分匹配或变体过滤用户名，并改进界面，显示链接预览和引用内容，以便在审核期间提供更清晰的上下文。
+网络界面现在支持原生表情符号，让用户可以选择它们的显示方式。 Mastodon 的公共路线图已经更新，以提高透明度，4.6 版本的工作正在进行中，该版本将添加“Packs”、更好的入门和机构工具，并得到 NLNet 和 NGI Zero Commons Fund 的支持。
+查看有关 AlternativeTo 的文章更多信息乳齿象 | 乳齿象替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/mastodon-4-5-launches-with-quote-posts-enhanced-moderation-and-reply-fetching/</guid>
+      <pubDate>Thu, 06 Nov 2025 16:41:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Manus 的新 PowerPoint 模板功能创建品牌幻灯片</title>
+      <link>https://alternativeto.net/news/2025/11/create-on-brand-slides-with-manus-new-powerpoint-template-feature/</link>
+      <description><![CDATA[Manus 现在支持上传自定义 PowerPoint 幻灯片模板，允许用户生成自动匹配其品牌字体、颜色和布局的新幻灯片。用户可以选择上传的模板并提示 Manus 按照自己的风格创建幻灯片，从而实现品牌一致性和格式的自动化。
+查看有关 AlternativeTo 的文章有关 Manus 的更多信息| Manus 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/create-on-brand-slides-with-manus-new-powerpoint-template-feature/</guid>
+      <pubDate>Thu, 06 Nov 2025 15:31:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vite 7.2 带来代理 HTTP2 支持、build.license 选项、ESM 配置功能</title>
+      <link>https://alternativeto.net/news/2025/11/vite-7-2-brings-proxy-http2-support-build-license-option-esm-config-features/</link>
+      <description><![CDATA[Vite 7.2 引入了 HTTP2 支持并启用了代理功能，解决了关键的服务器兼容性需求。该版本添加了 build.license 选项以增强构建配置，现在支持 import.meta.resolve 以在捆绑加载器中进行基于 ESM 的配置。
+多项更新改善了开发者体验，错误修复提高了各种工作流程的可靠性。
+查看有关 AlternativeTo 的文章更多信息Vite | Vite 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/vite-7-2-brings-proxy-http2-support-build-license-option-esm-config-features/</guid>
+      <pubDate>Thu, 06 Nov 2025 15:27:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS 版 Blackmagic Camera 3.2 增加了对 YouTube、Vimeo 和 Twitch 直播的支持</title>
+      <link>https://alternativeto.net/news/2025/11/blackmagic-camera-3-2-for-ios-adds-support-for-live-streaming-to-youtube-vimeo-and-twitch/</link>
+      <description><![CDATA[Blackmagic Design 宣布发布 iOS 版 Blackmagic Camera 3.2，为其移动数码相机应用程序带来扩展的专业功能。此更新引入了针对热门平台的直播功能，使用户能够从其设备直接向 YouTube、Vimeo 和 Twitch 进行直播。
+除了这些新增内容之外，3.2 版还扩展了对 Blackmagic 流处理器的安全可靠传输 (SRT) 流的支持。用户还可以连接到自定义 RTMP 和 SRT 服务器，从而增强各种生产环境的灵活性。
+在这些流媒体改进之后，工作流程增强包括在连接或断开外部存储时提供更好的反馈。该应用程序现在允许用户在使用 iPad 或 Mac 时选择远程摄像头控制的多视角数量，从而对远程设置进行更多自定义。
+其他修复解决了应用启动时与自动白平衡相关的录制问题，并解决了音频监控在使用过程中意外停止的情况。此版本还包含常规性能和稳定性更新。
+查看有关 AlternativeTo 的文章更多信息Blackmagic 相机 | Blackmagic 相机替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/blackmagic-camera-3-2-for-ios-adds-support-for-live-streaming-to-youtube-vimeo-and-twitch/</guid>
+      <pubDate>Thu, 06 Nov 2025 15:15:00 GMT</pubDate>
+    </item>
     <item>
       <title>Flatpak 1.17 添加了 OCI 侧载、目录转发和增强的沙箱功能</title>
       <link>https://alternativeto.net/news/2025/11/flatpak-1-17-adds-oci-sideloading-directory-forwarding-and-enhanced-sandbox-features/</link>
@@ -31,7 +80,7 @@ PCManFM-Qt 用户受益于在侧窗格上下文菜单中添加“安全删除”
       <description><![CDATA[Google 地图正在 Android 和 iOS 上添加 Gemini 集成，从而实现免提对话式导航。用户可以自然地说话来管理路线、询问上下文问题（例如寻找附近的餐馆）以及获取停车位或热门菜肴等详细信息。 Gemini 还支持语音命令来确认目的地、报告交通事故或在授予权限后将活动添加到 Google 日历。
 在美国，地图方向现在参考现实世界的地标而不仅仅是距离，显示清晰的提示，例如“经过泰国暹罗餐厅后左转”。 Gemini 通过分析来自超过 2.5 亿个地图地点的数据和 Google 街景 图像来生成这些方向，以选择从道路上易于识别的地标。 Android Auto 用户即使没有主动导航，也将开始收到有关交通中断、封闭或严重拥堵的主动通知。
 地图应用很快将在 Android 和 iOS 上推出 Google Lens with Gemini，让用户将相机对准某个地点即可获取该地点的信息。所有新功能将在未来几周内在受支持的区域推出
-查看有关 AlternativeTo 的文章有关 Google 的更多信息地图 | Google 地图替代方案]]></description>
+查看有关 AlternativeTo 的文章有关 Google 的更多信息地图 | Google 地图替代品]]></description>
       <guid>https://alternativeto.net/news/2025/11/google-maps-will-soon-integrate-gemini-to-enable-hands-free-conversational-navigation/</guid>
       <pubDate>Thu, 06 Nov 2025 06:09:27 GMT</pubDate>
     </item>
@@ -108,52 +157,6 @@ PCManFM-Qt 用户受益于在侧窗格上下文菜单中添加“安全删除”
 查看有关 AlternativeTo 的文章更多信息故事书 | 故事书替代品]]></description>
       <guid>https://alternativeto.net/news/2025/11/storybook-10-debuts-esm-only-29-lighter-module-automocking-and-typesafe-csf-factories/</guid>
       <pubDate>Wed, 05 Nov 2025 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ghost(Pro) 添加了免费的 .link 域和 Entri 的自动设置</title>
-      <link>https://alternativeto.net/news/2025/11/ghost-pro-adds-free-link-domains-and-automated-setup-with-entri/</link>
-      <description><![CDATA[Ghost(Pro) 现在通过 Entri.com（一个提供 API 驱动的域管理解决方案的平台）提供更快的域设置。用户只需单击一下即可搜索并注册域，因为 Entri 会自动处理所有 DNS 配置。
-该优惠包括所有 Ghost(Pro) 计划的一年免费 .link 注册。
-查看有关 AlternativeTo 的文章有关 Ghost 的更多信息 | 幽灵替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/ghost-pro-adds-free-link-domains-and-automated-setup-with-entri/</guid>
-      <pubDate>Wed, 05 Nov 2025 09:07:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Proton Drive 为 iOS 用户推出安全文档扫描</title>
-      <link>https://alternativeto.net/news/2025/11/proton-drive-launches-secure-document-scanning-for-ios-users/</link>
-      <description><![CDATA[Proton Drive 正在推出适用于 iOS 的纸质文档扫描功能，允许用户直接在其 Drive 中扫描文件并将其另存为加密的 PDF。这些文档在存储前会安全地保存在设备上，从而增强便利性和隐私性。
-Android 计划在未来版本中支持此功能。
-查看有关 AlternativeTo 的文章有关 Proton Drive 的更多信息 | Proton Drive 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/proton-drive-launches-secure-document-scanning-for-ios-users/</guid>
-      <pubDate>Wed, 05 Nov 2025 08:51:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>YouTube 推出 AI 编辑功能，以简化 iOS 和 Android 上的 Shorts 创作流程</title>
-      <link>https://alternativeto.net/news/2025/11/youtube-rolls-out-edit-with-ai-to-streamline-shorts-creation-on-ios-and-android/</link>
-      <description><![CDATA[YouTube 正在推出使用 AI 进行编辑，这是一项新功能，旨在帮助创作者将相机胶卷中的原始素材转换为 Shorts 视频的初稿。该工具可以识别和排列所选剪辑中的精彩片段，使用户能够专注于精炼故事、完善时机和添加风格，而不是手动对素材进行排序。
-虽然人工智能处理初始编辑，但用户保留进一步自定义草稿的能力。 使用 AI 进行编辑可通过 iOS 和 Android 上的主 YouTube 应用中的 Shorts 创建工具以及 Android 上的 YouTube Create 应用中使用。首次推出后，该工具预计在未来几个月内将在 Shorts 和 YouTube Create 中吸引更多用户。
-首先，创作者可以从其设备上传照片或视频，并从各种人工智能支持的编辑风格中进行选择。其中一些风格包括添加人工智能配音，目前 YouTube Create 应用中提供英语和印地语版本，并计划很快将此功能引入支持 Shorts 的编辑工具。
-查看有关 AlternativeTo 的文章更多有关YouTube | YouTube 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/youtube-rolls-out-edit-with-ai-to-streamline-shorts-creation-on-ios-and-android/</guid>
-      <pubDate>Wed, 05 Nov 2025 08:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Opera One R3 引入了具有自定义名称和颜色的可自定义选项卡岛</title>
-      <link>https://alternativeto.net/news/2025/11/opera-one-r3-introduces-customizable-tab-islands-with-custom-names-and-colors/</link>
-      <description><![CDATA[Opera One R3 引入了个性化选项卡岛的新方法，让用户可以为其选项卡组指定自定义名称并选择手柄颜色。这些自定义功能目前在早期访问版本中可用。
-选项卡岛仍然是 Opera One 中的核心组织工具，可实现高效的选项卡管理。
-查看有关 AlternativeTo 的文章更多信息Opera | Opera 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/opera-one-r3-introduces-customizable-tab-islands-with-custom-names-and-colors/</guid>
-      <pubDate>Wed, 05 Nov 2025 08:46:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shots V1.5 更新带来双倍视频质量和更快的导出</title>
-      <link>https://alternativeto.net/news/2025/11/shots-v1-5-update-brings-double-video-quality-and-faster-exports/</link>
-      <description><![CDATA[Shots 是一款模型生成器，它使用户能够通过直观的拖放界面快速创建和导出精美的专业演示文稿，现已发布 V1.5。
-此新更新引入了改进的视频质量，使渲染视频的清晰度提高了一倍。导出速度也提高了六倍，使用户能够更快地处理视频。
-查看有关 AlternativeTo 的文章更多信息镜头 | 镜头替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/shots-v1-5-update-brings-double-video-quality-and-faster-exports/</guid>
-      <pubDate>Wed, 05 Nov 2025 08:32:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
