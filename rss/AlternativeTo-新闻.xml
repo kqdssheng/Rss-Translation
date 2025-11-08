@@ -4,7 +4,91 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Fri, 07 Nov 2025 12:41:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Nov 2025 01:23:15 GMT</lastBuildDate>
+    <item>
+      <title>Meta 向欧洲用户推出人工智能生成的短视频“Vibes”</title>
+      <link>https://alternativeto.net/news/2025/11/meta-launches-its-ai-generated-short-video-feed-vibes-to-users-across-europe/</link>
+      <description><![CDATA[Meta 已将其“Vibes”扩展至通过 Meta AI 应用向欧洲用户提供视频源，将访问范围扩展到美国以外。 Vibes 是 Meta AI 中的一个社交空间，采用短视频格式，类似于 TikTok 或 Instagram Reels，但所有内容完全由 AI 生成，根据文本提示或通过重新混合其他人分享的视频创建。
+Vibes 首次于 9 月下旬在美国推出，Vibes 允许用户执行各种操作，从创建和编辑 AI 短视频到在 Meta AI 应用内的专用源中分享，或直接将其发布到 Instagram 和 Facebook Stories 等卷轴。 Meta 报告称，自首次亮相以来，该应用程序中的媒体生成量增加了十倍多，这反映出人们对基于人工智能的创作工具的参与度不断提高。还值得注意的是，同一个 Meta AI 平台不久前面临争议，当时许多用户在不知情的情况下公开分享了他们与 AI 聊天机器人的私人对话。
+随着在欧洲的推出，Meta AI 还获得了更新的界面，可以更轻松地访问创意和对话工具。用户可以通过分层视觉、音乐和风格来共同创建视频，同时该应用程序还支持图像生成、动画、编辑和人工智能聊天功能。它还集成了用于管理 Meta 人工智能眼镜的工具，让用户可以导入、增强和共享通过它们捕获的照片或视频。
+查看有关 AlternativeTo 的文章有关 Meta 的更多信息人工智能 | 元人工智能替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/meta-launches-its-ai-generated-short-video-feed-vibes-to-users-across-europe/</guid>
+      <pubDate>Fri, 07 Nov 2025 21:44:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Figma 与 ServiceNow 的 AI 平台合作，将设计转化为企业应用程序</title>
+      <link>https://alternativeto.net/news/2025/11/figma-collaborates-with-servicenow-s-ai-platform-to-turn-designs-into-enterprise-apps/</link>
+      <description><![CDATA[Figma 宣布与 ServiceNow 的 AI 驱动的工作流程自动化平台开展新合作，允许组织将 Figma 设计直接转化为企业应用程序。这标志着开发人员第一次可以使用 Figma 设计作为 ServiceNow 构建代理的直接提示，然后自动开发安全且可扩展的业务软件。
+基于这种集成，团队能够从视觉设计无缝过渡到生产就绪的应用程序。此次合作将 Figma 的创意工作流程与 ServiceNow 的平台智能结合在一起，有助于缩小概念与实施之间的差距。通过利用 ServiceNow 构建代理，组织可以缩短应用程序开发周期，并在几分钟内将视觉概念转化为工作产品。
+从技术上讲，集成是由 Figma 的模型上下文协议 (MCP) 服务器启用的。这一开放标准允许构建代理深入解释设计的布局、样式和组件，确保高保真应用程序生成。在 ServiceNow 集成开发环境 (IDE) 中工作的开发人员可以使用 Figma 设计链接来提示构建代理，该链接经过结构解析以实现准确的企业应用程序创建。
+关于安全性，集成使用 OAuth 2.0 身份验证和安全的服务器到服务器通信，并将令牌存储在客户的 ServiceNow 实例内。生成的应用程序继承 ServiceNow 的权限、审计跟踪和版本控制，以实现治理和合规性。
+查看有关 AlternativeTo 的文章更多信息Figma | Figma 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/figma-collaborates-with-servicenow-s-ai-platform-to-turn-designs-into-enterprise-apps/</guid>
+      <pubDate>Fri, 07 Nov 2025 16:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 现在允许用户向实时查询添加上下文，而无需重新启动</title>
+      <link>https://alternativeto.net/news/2025/11/chatgpt-now-lets-users-add-context-to-live-queries-without-restarting/</link>
+      <description><![CDATA[ChatGPT 现在允许用户中断正在进行的查询并添加新上下文，而无需重新启动或丢失进度。此功能对于完善深入研究或 GPT-5 Pro 查询特别有用，因为模型会更新其响应以反映新要求。
+用户可以通过侧边栏访问此功能，并根据需要提供其他详细信息或说明。
+查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/chatgpt-now-lets-users-add-context-to-live-queries-without-restarting/</guid>
+      <pubDate>Fri, 07 Nov 2025 16:16:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Discord 桌面带来更快的表情符号创建和游戏集成</title>
+      <link>https://alternativeto.net/news/2025/11/discord-desktop-brings-faster-emoji-creation-and-game-integration/</link>
+      <description><![CDATA[Discord 的最新桌面更新现在提供集成的表情符号创建工具，让用户可以直接在聊天中裁剪、旋转和上传图像作为自定义表情符号。
+此外，包括《Marvel Rivals》在内的几款主要 PC 游戏已开始集成 Discord 功能，例如游戏内聊天和同步好友列表。
+最后，“设置”页面经过重新设计，采用浮动窗口界面，保留搜索栏以便于导航。
+查看有关 AlternativeTo 的文章更多有关Discord | Discord 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/discord-desktop-brings-faster-emoji-creation-and-game-integration/</guid>
+      <pubDate>Fri, 07 Nov 2025 16:12:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zed Editor 引入了用于 ACP 集成的一键式代理扩展</title>
+      <link>https://alternativeto.net/news/2025/11/zed-editor-introduces-one-click-agent-extensions-for-acp-integration/</link>
+      <description><![CDATA[Zed Editor 推出了代理服务器扩展，允许用户直接从扩展面板一键安装 ACP 代理。第一个可用的扩展是 Auggie、OpenCode 和 Stakpak。开发人员还可以使用新的简化的发布流程来分发 ACP 兼容代理。
+查看有关 AlternativeTo 的文章有关 Zed 的更多信息编辑器 | Zed 编辑器替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/zed-editor-introduces-one-click-agent-extensions-for-acp-integration/</guid>
+      <pubDate>Fri, 07 Nov 2025 15:52:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Calibre 8.14修复了FB2文件漏洞并添加了Tolino固件支持</title>
+      <link>https://alternativeto.net/news/2025/11/calibre-8-14-fixes-fb2-file-vulnerability-and-adds-tolino-firmware-support/</link>
+      <description><![CDATA[Calibre 8.14 解决了 FB2 文件导入中的远程代码执行漏洞，解决了重大安全风险。该版本还增加了对最新 Tolino 电子阅读器固件的支持，并引入了改进的语言完成功能。
+还包括其他错误修复和内容增强。
+查看有关 AlternativeTo 的文章更多信息calibre | calibre 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/calibre-8-14-fixes-fb2-file-vulnerability-and-adds-tolino-firmware-support/</guid>
+      <pubDate>Fri, 07 Nov 2025 15:46:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stitch 现在提供直接图像上传和改进的设计选择</title>
+      <link>https://alternativeto.net/news/2025/11/stitch-now-brings-direct-image-uploads-and-improved-selection-for-designs/</link>
+      <description><![CDATA[Stitch 现在允许用户将图像直接添加到设计画布，并支持拖放、粘贴、上传和提示附件。设计人员可以选择屏幕旁边的图像，以在整个工作流程中提供额外的上下文。
+此外，即将推出的更新将引入在生成的设计中放置徽标或个人资料照片等图像。
+查看有关 AlternativeTo 的文章有关 Google 的更多信息Stitch | Google Stitch 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/stitch-now-brings-direct-image-uploads-and-improved-selection-for-designs/</guid>
+      <pubDate>Fri, 07 Nov 2025 15:34:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>NotebookLM 移动应用推出抽认卡和测验工具</title>
+      <link>https://alternativeto.net/news/2025/11/notebooklm-mobile-app-launches-flashcards-and-quizzes-tools/</link>
+      <description><![CDATA[NotebookLM 正在其移动应用程序上推出抽认卡和测验，为用户提供在手机上学习的新方法。此更新允许用户自定义问题数量、难度级别和测验主题。
+查看有关 AlternativeTo 的文章有关 NotebookLM 的更多信息 | NotebookLM 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/notebooklm-mobile-app-launches-flashcards-and-quizzes-tools/</guid>
+      <pubDate>Fri, 07 Nov 2025 15:30:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Moonshot AI 发布 Kimi K2 Thinking，一种用于复杂推理的开源代理模型</title>
+      <link>https://alternativeto.net/news/2025/11/moonshot-ai-releases-kimi-k2-thinking-an-open-source-agent-model-for-complex-reasoning/</link>
+      <description><![CDATA[Moonshot AI 推出了 Kimi K2 Thinking，这是其最新的开源 AI 模型，旨在充当思维代理。此版本使 Kimi K2 Thinking 成为寻求推理、代理搜索、编码和写作任务中最先进性能的研究人员和开发人员的领先选择。该模型在 Humanity&#39;s Last Exam 和 BrowseComp 等基准测试中取得了最高成绩，展示了总体能力的提高。
+除了这些进步之外，Kimi K2 Thinking 还支持在无需人工参与的情况下自主执行 200 到 300 个连续工具调用，跨数百个步骤进行连贯推理以解决复杂问题。这种代理工作流程突出了模型在扩展交互中维持逻辑和规划的能力。
+在这些功能的基础上，Moonshot AI 通过增加思维代币的数量和工具使用的步骤，继续在测试时间扩展方面开展工作，这是支撑 K2 Thinking 进步的技术方向。对于想要抢先体验的用户，现在可以通过 kimi.com 的聊天模式和 Kimi K2 Thinking API 使用 K2 Thinking。完整代理模式即将发布。
+查看有关 AlternativeTo 的文章更多信息Kimi | Kimi 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/moonshot-ai-releases-kimi-k2-thinking-an-open-source-agent-model-for-complex-reasoning/</guid>
+      <pubDate>Fri, 07 Nov 2025 13:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>Nuxt Studio 在 alpha 版本中首次亮相，用于通过 GitHub 集成进行生产网站编辑</title>
       <link>https://alternativeto.net/news/2025/11/nuxt-studio-debuts-in-alpha-for-in-production-website-editing-with-github-integration/</link>
@@ -32,7 +116,7 @@
       <description><![CDATA[Linux Mint 团队的 2025 年 10 月更新重点关注重新设计的“系统信息”工具（之前称为“系统报告”）。此次更新的目的不仅限于收集报告，现在还可以通过更清晰的系统数据帮助用户诊断硬件和驱动程序问题。它添加了 USB、GPU、PCI 和 BIOS 页面，可以快速访问设备 ID、电源使用、连接速度和固件详细信息。
 新的“系统管理”应用程序可让用户控制启动菜单的可见性、设置超时并添加启动参数，这对于双启动和硬件故障排除非常有用。
 其他更改包括用于移动搜索栏和系统按钮的新 Cinnamon 菜单选项，以及将 adwaita-icon-theme 替换为 XSI 图标集以实现一致的符号图标。 LMDE 6 将于 2026 年 1 月 1 日终止生命周期，升级仅适用于 64 位系统。
-查看有关 AlternativeTo 的文章有关 Linux Mint 的更多信息 | Linux Mint 替代品]]></description>
+查看有关 AlternativeTo 的文章有关 Linux Mint 的更多信息 | Linux Mint 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/11/linux-mint-introduces-new-system-information-and-administration-tools/</guid>
       <pubDate>Fri, 07 Nov 2025 05:59:58 GMT</pubDate>
     </item>
@@ -66,94 +150,6 @@
 查看有关 AlternativeTo 的文章更多信息Mullvad Leta | Mullvad Leta 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/11/mullvad-will-shut-down-its-privacy-focused-search-proxy-leta-on-november-27-2025/</guid>
       <pubDate>Thu, 06 Nov 2025 16:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mastodon 4.5 发布，提供引用帖子、增强的审核和回复获取</title>
-      <link>https://alternativeto.net/news/2025/11/mastodon-4-5-launches-with-quote-posts-enhanced-moderation-and-reply-fetching/</link>
-      <description><![CDATA[Mastodon 4.5 已推出，引入了引用帖子，让用户可以引用他人的帖子，同时让作者通过新的“发帖默认值”页面控制全局或每个帖子禁用或撤销引用。它还通过新的“获取所有回复”功能解决了丢失回复的问题，该功能每 15 分钟和页面加载时自动检索未见过的回复。
-对于服务器管理员来说，更新添加了源管理工具，以禁用访问者或登录用户的特定源，并允许将本地源设置为主页。审核获得了新功能，包括定向阻止，可通过部分匹配或变体过滤用户名，并改进界面，显示链接预览和引用内容，以便在审核期间提供更清晰的上下文。
-网络界面现在支持原生表情符号，让用户可以选择它们的显示方式。 Mastodon 的公共路线图已经更新，以提高透明度，4.6 版本的工作正在进行中，该版本将添加“Packs”、更好的入门和机构工具，并得到 NLNet 和 NGI Zero Commons Fund 的支持。
-查看有关 AlternativeTo 的文章更多信息乳齿象 | 乳齿象替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/mastodon-4-5-launches-with-quote-posts-enhanced-moderation-and-reply-fetching/</guid>
-      <pubDate>Thu, 06 Nov 2025 16:41:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Manus 的新 PowerPoint 模板功能创建品牌幻灯片</title>
-      <link>https://alternativeto.net/news/2025/11/create-on-brand-slides-with-manus-new-powerpoint-template-feature/</link>
-      <description><![CDATA[Manus 现在支持上传自定义 PowerPoint 幻灯片模板，允许用户生成自动匹配其品牌字体、颜色和布局的新幻灯片。用户可以选择上传的模板并提示 Manus 以自己的风格创建幻灯片，从而实现品牌一致性和格式的自动化。
-查看有关 AlternativeTo 的文章有关 Manus 的更多信息| Manus 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/create-on-brand-slides-with-manus-new-powerpoint-template-feature/</guid>
-      <pubDate>Thu, 06 Nov 2025 15:31:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vite 7.2 带来代理 HTTP2 支持、build.license 选项、ESM 配置功能</title>
-      <link>https://alternativeto.net/news/2025/11/vite-7-2-brings-proxy-http2-support-build-license-option-esm-config-features/</link>
-      <description><![CDATA[Vite 7.2 引入了 HTTP2 支持并启用了代理功能，解决了关键的服务器兼容性需求。该版本添加了 build.license 选项以增强构建配置，现在支持 import.meta.resolve 以在捆绑加载器中进行基于 ESM 的配置。
-多项更新改善了开发者体验，错误修复提高了各种工作流程的可靠性。
-查看有关 AlternativeTo 的文章更多信息Vite | Vite 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/vite-7-2-brings-proxy-http2-support-build-license-option-esm-config-features/</guid>
-      <pubDate>Thu, 06 Nov 2025 15:27:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 版 Blackmagic Camera 3.2 增加了对 YouTube、Vimeo 和 Twitch 直播的支持</title>
-      <link>https://alternativeto.net/news/2025/11/blackmagic-camera-3-2-for-ios-adds-support-for-live-streaming-to-youtube-vimeo-and-twitch/</link>
-      <description><![CDATA[Blackmagic Design 宣布发布 iOS 版 Blackmagic Camera 3.2，为其移动数码相机应用程序带来扩展的专业功能。此更新引入了针对热门平台的直播功能，使用户能够从其设备直接向 YouTube、Vimeo 和 Twitch 进行直播。
-除了这些新增内容之外，3.2 版还扩展了对 Blackmagic 流处理器的安全可靠传输 (SRT) 流的支持。用户还可以连接到自定义 RTMP 和 SRT 服务器，从而增强各种生产环境的灵活性。
-在这些流媒体改进之后，工作流程增强包括在连接或断开外部存储时提供更好的反馈。该应用程序现在允许用户在使用 iPad 或 Mac 时选择远程摄像头控制的多视角数量，从而对远程设置进行更多自定义。
-其他修复解决了应用启动时与自动白平衡相关的录制问题，并解决了音频监控在使用过程中意外停止的情况。此版本还包含常规性能和稳定性更新。
-查看有关 AlternativeTo 的文章更多信息Blackmagic 相机 | Blackmagic 相机替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/blackmagic-camera-3-2-for-ios-adds-support-for-live-streaming-to-youtube-vimeo-and-twitch/</guid>
-      <pubDate>Thu, 06 Nov 2025 15:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Flatpak 1.17 添加了 OCI 侧载、目录转发和增强的沙箱功能</title>
-      <link>https://alternativeto.net/news/2025/11/flatpak-1-17-adds-oci-sideloading-directory-forwarding-and-enhanced-sandbox-features/</link>
-      <description><![CDATA[Flatpak 1.17 引入了对此 Linux 应用程序沙箱和分发框架的关键改进。此版本允许通过命令行参数将目录转发到沙箱应用程序，从而扩展了沙箱灵活性，从而简化了高级用户的工作流程。基于集成功能，Flatpak 应用程序被视为操作系统的一部分，现在可以通过将文件放入 preinstall.d 目录来预安装，这对于系统集成商和操作系统供应商非常有用。
-扩展了分发功能，此版本添加了对从开放容器计划 (OCI) 映像直接安装、从 OCI 存储库和档案进行侧载的支持，并使 OCI 远程具有可与 Flatpak 预安装一起使用的集合 ID。接下来，Flatpak 1.17 在安装命令、条件权限、主机根导出（以公开沙箱中的主机根目录）以及针对 Intel Xe GPU 的 VA-API 扩展中引入了对 flatpak+https:// URI 的支持。
-为了解决可用性问题，此更新为许多命令和用户反馈消息引入了 JSON 输出，当 flatpak document-list 或 flatpak uninstall 找不到文档或应用时。 flatpak run 的新选项可清除主机环境变量，从而增强应用程序隔离。其他更改改进了存储库分析、构建隔离、捆绑包重新安装支持、AppStream 元数据导出，并将默认 D-Bus 配置从 /etc 重新定位到 /usr。此版本还包括文档改进、更新的翻译和多个错误修复。
-查看有关 AlternativeTo 的文章更多信息Flatpak | Flatpak 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/flatpak-1-17-adds-oci-sideloading-directory-forwarding-and-enhanced-sandbox-features/</guid>
-      <pubDate>Thu, 06 Nov 2025 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>LXQt 2.3 扩展了 Wayland 支持，增强了 ScreenGrab 和 PCManFM-Qt，并刷新了 wiki</title>
-      <link>https://alternativeto.net/news/2025/11/lxqt-2-3-expands-wayland-support-enhances-screengrab-and-pcmanfm-qt-and-refreshes-the-wiki/</link>
-      <description><![CDATA[LXQt 2.3 引入了增强的 Wayland 支持和新功能，旨在提高这种基于 Qt 的轻量级桌面环境的用户的可用性。 LXQt 面板现在为 Labwc 和 niri 合成器启用桌面切换器，并为 Wayfire 合成器提供专用后端。除了这些改进之外，面板中的自定义命令插件也变得更加灵活，允许跨 Wayland 和 X11 会话无缝使用。
-虽然这些更改增强了兼容性，但进一步的集成来自于在 lxqt-wayland-session 中包含 lxqt-qdbus，这简化了任何 Wayland 合成器的 qdbus 命令使用。对于那些依赖屏幕捕获工具的人来说，ScreenGrab 改进了 X11 上选择矩形的边框颜色，同时使用 wlr screencopy 协议建立对 Wayland 合成器的早期支持。
-PCManFM-Qt 用户受益于在侧窗格上下文菜单中添加“安全删除”功能（如果可用）。他们还可以选择禁用桌面上的文件工具提示，以实现更清晰的工作流程。为了完成这次更新，LXQt 的文档通过新的 wiki 获得了视觉和功能上的提升，提供了改进的搜索和导航。
-查看有关 AlternativeTo 的文章更多关于 LXQt | LXQt 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/lxqt-2-3-expands-wayland-support-enhances-screengrab-and-pcmanfm-qt-and-refreshes-the-wiki/</guid>
-      <pubDate>Thu, 06 Nov 2025 08:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌地图将很快集成 Gemini 以实现免提对话式导航</title>
-      <link>https://alternativeto.net/news/2025/11/google-maps-will-soon-integrate-gemini-to-enable-hands-free-conversational-navigation/</link>
-      <description><![CDATA[Google 地图正在 Android 和 iOS 上添加 Gemini 集成，从而实现免提对话式导航。用户可以自然地说话来管理路线、询问上下文问题（例如寻找附近的餐馆）以及获取停车位或热门菜肴等详细信息。 Gemini 还支持语音命令来确认目的地、报告交通事故或在授予权限后将活动添加到 Google 日历。
-在美国，地图方向现在参考现实世界的地标而不仅仅是距离，显示清晰的提示，例如“经过泰国暹罗餐厅后左转”。 Gemini 通过分析来自超过 2.5 亿个地图地点的数据和 Google 街景 图像来生成这些方向，以选择从道路上易于识别的地标。 Android Auto 用户即使没有主动导航，也将开始收到有关交通中断、封闭或严重拥堵的主动通知。
-地图应用很快将在 Android 和 iOS 上推出 Google Lens with Gemini，让用户将相机对准某个地点即可获取该地点的信息。所有新功能将在未来几周内在受支持的区域推出
-查看有关 AlternativeTo 的文章有关 Google 的更多信息地图 | Google 地图替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/google-maps-will-soon-integrate-gemini-to-enable-hands-free-conversational-navigation/</guid>
-      <pubDate>Thu, 06 Nov 2025 06:09:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>PlayStation Portal 手持设备现在支持 PS Plus Premium 会员的云流媒体播放</title>
-      <link>https://alternativeto.net/news/2025/11/the-playstation-portal-handheld-now-supports-cloud-streaming-for-ps-plus-premium-members/</link>
-      <description><![CDATA[PlayStation 宣布其 PlayStation Portal 手持设备现在支持 PlayStation Plus Premium 会员是去年开始的公开测试版之后的会员。该功能允许用户直接从索尼的服务器流式传输精选的 PS5 游戏，甚至包括一些已经拥有的游戏（类似于 Xbox 最近的方法），无需本地主机或远程游戏。与以前不同的是，当该设备完全依靠 Remote Play 连接到个人 PS5 主机时，它现在可以独立运行，只需要稳定的互联网连接和 PlayStation Plus Premium 套餐，价格为每年 159.99 美元或每月 17.99 美元。
-发布后，数千款 PS5 游戏可供串流，包括《Astro Bot》、《无主之地 4》、《最终幻想 VII 重生》、《堡垒之夜》、《侠盗猎车手 V》和《生化危机 4》。还可以直接从云端访问 PlayStation Plus 游戏目录和经典目录中的数百款游戏。
-更新还引入了重新设计的菜单，其中包含用于远程播放、云流媒体和搜索的选项卡，使您可以更轻松地在不同的播放模式之间切换。其他增强功能包括 3D 音频支持、辅助功能选项、对游戏内商店的访问、新的密码系统以及直接从门户接受邀请和加入多人游戏会话的能力。
-查看有关 AlternativeTo 的文章有关 Playstation 的更多信息Plus | Playstation Plus 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/the-playstation-portal-handheld-now-supports-cloud-streaming-for-ps-plus-premium-members/</guid>
-      <pubDate>Wed, 05 Nov 2025 20:20:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Valve 为 SteamOS 添加了新的低功耗模式，可在屏幕关闭时下载游戏</title>
-      <link>https://alternativeto.net/news/2025/11/valve-adds-a-new-low-power-mode-to-steamos-for-downloading-games-with-the-screen-off/</link>
-      <description><![CDATA[Valve 为 Steam Deck 上的 SteamOS 引入了新的低功耗模式，让用户可以在屏幕关闭的情况下完成游戏下载。此更新在 Beta 和 Preview 通道中提供，允许在显示关闭状态下继续下载，从而有助于减少电池使用和热量积聚。该功能在多年的用户需求后推出，特别是自 Steam Deck OLED 推出以来，解决了空闲下载期间电力浪费的问题。
-要使用它，在下载过程中按电源按钮会打开一个对话框，让用户选择是否在显示屏关闭的情况下继续下载。选择继续会将 Deck 置于低功耗模式，以便在后台安静地完成下载。在此状态下，按下按钮或移动设备会显示一个简单的进度屏幕，用户可以从中唤醒 Deck 或让它继续下载。
-当 Deck 插入电源时，该功能默认开启，但在使用电池运行时也可以手动启用。如果电池电量低于 20%，系统会自动进入完全睡眠状态以保护电量。
-查看有关 AlternativeTo 的文章更多信息SteamOS | SteamOS 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/valve-adds-a-new-low-power-mode-to-steamos-for-downloading-games-with-the-screen-off/</guid>
-      <pubDate>Wed, 05 Nov 2025 19:38:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
