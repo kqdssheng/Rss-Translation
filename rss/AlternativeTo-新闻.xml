@@ -4,7 +4,48 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Mon, 10 Nov 2025 01:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 12:41:31 GMT</lastBuildDate>
+    <item>
+      <title>Hyprland 0.52 带来了自动子图关闭、每设备旋转和新的颜色模式选项</title>
+      <link>https://alternativeto.net/news/2025/11/hyprland-0-52-brings-auto-submap-closing-per-device-rotation-and-new-color-mode-options/</link>
+      <description><![CDATA[Hyprland 0.52 已作为此开源 Wayland 合成器的最新版本发布。此更新引入了重大更改：由于 qtutils 已存档以支持 guiutils，因此设置 misc:disable_hyprland_qtutils_check 已重命名为 misc:disable_hyprland_guiutils_check。依赖早期配置的用户将需要更新其设置以匹配此更改。
+除此之外，还推出了多项工作流程增强功能。现在可以将子图设置为在执行按键绑定后自动关闭，从而简化复杂的按键绑定设置。添加了新的调度程序 forceidle 以改进输入管理。全屏命令现在具有set、unset和toggle操作，以减少进程间通信查询，提高响应能力。
+在显示支持的基础上，引入了新的色彩管理选项 - dcip3、dp3 和 adobe。可以为每个输入设备分配设备旋转，以增加灵活性，并且 noscreenshare 规则现在也可以用作图层规则，从而更好地控制屏幕共享行为。
+在这些更改之后，用户可以访问新的 cursor:zoom_disable_aa 选项，以便在放大光标时在像素化或模糊外观之间进行选择。 Windowrules 现在支持 modal 属性以实现更高级的窗口管理。此版本还提供了各种较小的增强功能和错误修复。
+查看有关 AlternativeTo 的文章有关更多信息Hyprland | Hyprland 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/hyprland-0-52-brings-auto-submap-closing-per-device-rotation-and-new-color-mode-options/</guid>
+      <pubDate>Mon, 10 Nov 2025 12:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify 的收听统计数据提供您喜爱的音乐的每周 Wrapped 风格快照</title>
+      <link>https://alternativeto.net/news/2025/11/spotify-s-listening-stats-offer-a-weekly-wrapped-style-snapshot-of-your-music-favorites/</link>
+      <description><![CDATA[Spotify 正在推出每周收听统计数据，为用户提供了一种重新审视他们最近的音乐习惯的新方法。此功能可供 60 多个国家/地区的免费用户和高级用户使用，提供您在过去四个星期内听过的顶级艺术家和歌曲的快照。除了此概述之外，Spotify 还根据您最近的偏好提供了播放列表，旨在显示您接下来可能想要探索的曲目。
+除了核心统计数据外，每周还包含一个独特的亮点，捕捉您最近收听的难忘内容。这些亮点可以反映您的个人里程碑、最近的发现或您的历史中值得注意的粉丝成就。基于日列表、发布雷达和每周发现等功能中的探索重点，新的统计数据鼓励根据您的喜好进行更深入的参与和发现。
+用户还可以直接从 Spotify 应用轻松分享他们的统计数据。支持与 Spotify 内的朋友以及 Instagram 和 WhatsApp 等外部平台上的朋友分享，让您可以轻松地每周展示您的音乐之旅。
+查看有关 AlternativeTo 的文章更多信息Spotify | Spotify 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/spotify-s-listening-stats-offer-a-weekly-wrapped-style-snapshot-of-your-music-favorites/</guid>
+      <pubDate>Mon, 10 Nov 2025 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Budgie 10.9.4 添加了 libpeas2 支持、ABI 改进和 Raven 插件更改</title>
+      <link>https://alternativeto.net/news/2025/11/budgie-10-9-4-adds-libpeas2-support-abi-bumps-and-raven-plugin-changes/</link>
+      <description><![CDATA[Budgie 10.9.4 添加了对 libpeas2 和 girepository-2.0 的支持，扩展了插件兼容性。开发人员应注意 budgie-2.0 和 budgie-raven-plugin-2.0 所需的 ABI 变更。
+对基于 Python 的 Raven 插件的支持已被删除，但仍支持基于 Python 的面板小部件。
+查看有关 AlternativeTo 的文章更多信息虎皮鹦鹉 | 虎皮鹦鹉替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/budgie-10-9-4-adds-libpeas2-support-abi-bumps-and-raven-plugin-changes/</guid>
+      <pubDate>Mon, 10 Nov 2025 08:50:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>注重隐私的移动操作系统 /e/OS 3.2 现在会警告您应用程序泄露您的数据</title>
+      <link>https://alternativeto.net/news/2025/11/privacy-focused-mobile-os-e-os-3-2-now-warns-you-of-applicaions-leaking-your-data/</link>
+      <description><![CDATA[/e/OS 3.2 的发布为所有官方支持的设备和社区设备提供了这款开源、完全 deGoogle 的移动操作系统的最新版本。该更新以隐私为核心，引入了实时通知，提醒用户注意试图泄露个人数据的应用程序。如果愿意，用户可以直接从通知设置禁用这些警报。
+在这些隐私增强功能之后，App Lounge 应用商店已更新为显示 F-Droid 应用程序的文件大小。此外，它现在将根据区域而不是区域设置推荐常用应用，从而使应用发现与用户的实际位置更加相关。
+关于硬件兼容性，Fairphone Gen. 6 设备现在可以使用开关自定义和 Fairphone 相机应用程序，并且用户可以在设置中设置电池充电限制。无论以前的固件如何，Fairphone 5 支持已扩展到 Android 开源项目 (AOSP) 15，并且 AOSP 15 现在也支持 Google Pixel 7 和 8 型号。
+在软件更新方面，已集成 LineageOS 22.2 的错误和安全修复，网络浏览器现已版本为 141.0.7390.111，并且 microG 已更新至最新的上游版本。 Fairphone Gen. 6 的设备树也已开源。 /e/OS 3.2 中包含的其他几个错误和安全修复程序支持这些新增内容。
+查看有关 AlternativeTo 的文章更多信息/e/ | /e/ 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/privacy-focused-mobile-os-e-os-3-2-now-warns-you-of-applicaions-leaking-your-data/</guid>
+      <pubDate>Mon, 10 Nov 2025 08:50:00 GMT</pubDate>
+    </item>
     <item>
       <title>Perplexity Comet Assistant 添加了高级多任务处理和用户权限控制</title>
       <link>https://alternativeto.net/news/2025/11/perplexity-comet-assistant-adds-advanced-multitasking-and-user-permission-controls/</link>
@@ -111,44 +152,6 @@ Vibes 首次于 9 月下旬在美国推出，Vibes 允许用户执行各种操�
 查看有关 AlternativeTo 的文章更多信息calibre | calibre 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/11/calibre-8-14-fixes-fb2-file-vulnerability-and-adds-tolino-firmware-support/</guid>
       <pubDate>Fri, 07 Nov 2025 15:46:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stitch 现在提供直接图像上传和改进的设计选择</title>
-      <link>https://alternativeto.net/news/2025/11/stitch-now-brings-direct-image-uploads-and-improved-selection-for-designs/</link>
-      <description><![CDATA[Stitch 现在允许用户将图像直接添加到设计画布，并支持拖放、粘贴、上传和提示附件。设计人员可以选择屏幕旁边的图像，以在整个工作流程中提供额外的上下文。
-此外，即将推出的更新将引入在生成的设计中放置徽标或个人资料照片等图像。
-查看有关 AlternativeTo 的文章有关 Google 的更多信息Stitch | Google Stitch 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/stitch-now-brings-direct-image-uploads-and-improved-selection-for-designs/</guid>
-      <pubDate>Fri, 07 Nov 2025 15:34:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>NotebookLM 移动应用推出抽认卡和测验工具</title>
-      <link>https://alternativeto.net/news/2025/11/notebooklm-mobile-app-launches-flashcards-and-quizzes-tools/</link>
-      <description><![CDATA[NotebookLM 正在其移动应用程序上推出抽认卡和测验，为用户提供在手机上学习的新方法。此更新允许用户自定义问题数量、难度级别和测验主题。
-查看有关 AlternativeTo 的文章有关 NotebookLM 的更多信息 | NotebookLM 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/notebooklm-mobile-app-launches-flashcards-and-quizzes-tools/</guid>
-      <pubDate>Fri, 07 Nov 2025 15:30:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Moonshot AI 发布 Kimi K2 Thinking，一个用于复杂推理的开源代理模型</title>
-      <link>https://alternativeto.net/news/2025/11/moonshot-ai-releases-kimi-k2-thinking-an-open-source-agent-model-for-complex-reasoning/</link>
-      <description><![CDATA[Moonshot AI 推出了 Kimi K2 Thinking，这是其最新的开源 AI 模型，旨在充当思维代理。此版本使 Kimi K2 Thinking 成为寻求推理、代理搜索、编码和写作任务中最先进性能的研究人员和开发人员的领先选择。该模型在 Humanity&#39;s Last Exam 和 BrowseComp 等基准测试中取得了最高成绩，展示了总体能力的提高。
-除了这些进步之外，Kimi K2 Thinking 还支持在无需人工参与的情况下自主执行 200 到 300 个连续工具调用，跨数百个步骤进行连贯推理以解决复杂问题。这种代理工作流程突出了模型在扩展交互中维持逻辑和规划的能力。
-在这些功能的基础上，Moonshot AI 通过增加思维代币的数量和工具使用的步骤，继续在测试时间扩展方面开展工作，这是支撑 K2 Thinking 进步的技术方向。对于想要抢先体验的用户，现在可以通过 kimi.com 的聊天模式和 Kimi K2 Thinking API 使用 K2 Thinking。完整代理模式即将发布。
-查看有关 AlternativeTo 的文章更多信息Kimi | Kimi 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/moonshot-ai-releases-kimi-k2-thinking-an-open-source-agent-model-for-complex-reasoning/</guid>
-      <pubDate>Fri, 07 Nov 2025 13:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nuxt Studio 在 alpha 版本中首次亮相，用于通过 GitHub 集成进行生产网站编辑</title>
-      <link>https://alternativeto.net/news/2025/11/nuxt-studio-debuts-in-alpha-for-in-production-website-editing-with-github-integration/</link>
-      <description><![CDATA[Nuxt 宣布推出 Nuxt Studio 的 alpha 版本，这是一个新的免费开源模块，专为网站内容的生产编辑而设计。 Nuxt Studio 将 GitHub 工作流程和实时预览功能直接集成到任何 Nuxt 应用程序中，使团队无需离开自己的环境即可管理实时内容编辑。
-基于从托管服务的转变，Nuxt Studio 现在可以与现有的 Nuxt Content 网站一起自行托管。内容编辑者可以在生产中更新网站材料，而无需本地开发工具或 Git 命令知识，从而降低了非技术贡献者的障碍。
-与以前的版本不同，Studio 现在需要服务器端路由进行身份验证，并需要服务器端渲染的部署支持。然而，混合渲染保持了与静态站点生成的兼容性，确保了部署策略的一定灵活性。 alpha 阶段侧重于基础设施和稳定性，使用 Monaco 编辑器 处理所有文件和 GitHub 操作，同时刻意阻止可视化编辑以最大程度地降低错误风险。
-展望未来，即将推出的测试版将提供可视化内容编辑、Markdown 编辑器、基于表单的工具、Vue 组件支持以及 Google OAuth（作为基于 GitHub 的身份验证的替代方案）。经过进一步优化和全面生产准备的稳定版本计划于今年年底发布。
-查看有关 AlternativeTo 的文章有关 Nuxt 的更多信息Studio | Nuxt Studio 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/nuxt-studio-debuts-in-alpha-for-in-production-website-editing-with-github-integration/</guid>
-      <pubDate>Fri, 07 Nov 2025 10:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
