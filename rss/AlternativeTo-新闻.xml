@@ -4,7 +4,59 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Mon, 10 Nov 2025 12:41:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 01:28:32 GMT</lastBuildDate>
+    <item>
+      <title>MX Linux 25 Infinity 首次亮相，提供 Debian 13、KDE ​​Wayland、systemd/SysVinit 选项</title>
+      <link>https://alternativeto.net/news/2025/11/mx-linux-25-infinity-debuts-with-debian-13-kde-wayland-systemd-sysvinit-options/</link>
+      <description><![CDATA[MX Linux 25“Infinity”现已推出，基于Debian 13“Trixie”。标准版包括Linux 6.12 LTS 内核，而 KDE Plasma 和高级硬件支持版本使用Liquorix 6.16 内核。它有 Xfce 4.20、KDE Plasma 6.3.6 和 Fluxbox 1.3.7 版本。
+Xfce 和 Fluxbox 版本允许用户在 systemd 或 sysvinit，而 KDE Plasma 现在默认为 Wayland 以提高图形性能和安全性。 KDE 版本还在 Dolphin 中添加了新的根操作和服务菜单，并用 power-profiles-daemon 替换了 TLP，以修复电源小部件问题。
+MX Tools 已移植到 Qt 6，新的 mx-updater 取代了 apt-notifier，以获得更可靠的更新。安装程序添加了“替换现有 Linux 安装”选项并支持 64 位 UEFI 安全启动。其他更新包括对 Debian 的 deb822 格式的支持、扩展的 Fluxbox 自定义、更新的 mx-ease 和 mx-matcha 主题、新的 Conky 选项、Xfce 中改进的 Whisker 菜单、更新的 Nvidia 安装程序以及通过 systemd-cryptsetup 提供更强的加密支持。
+查看有关 AlternativeTo 的文章有关 MX 的更多信息Linux | MX Linux 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/mx-linux-25-infinity-debuts-with-debian-13-kde-wayland-systemd-sysvinit-options/</guid>
+      <pubDate>Mon, 10 Nov 2025 23:28:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>BookStack v25.11 统一了内容数据库、提高了速度并添加了 Groovy 支持</title>
+      <link>https://alternativeto.net/news/2025/11/bookstack-v25-11-unifies-content-database-boosts-speed-and-adds-groovy-support/</link>
+      <description><![CDATA[BookStack v25.11 引入了主要的数据库更改，重点关注性能和可扩展性，同时保持 REST API 的稳定。所有层次结构类型（例如书架、书籍、章节和页面）现在都存储在单个表中，从而允许在整个系统中进行更快、更高效的查询。此更新减少了搜索结果、活动日志和图书内容等区域的数据库负载，从而提高了响应能力和可靠性。
+辅助表现在存储特定于类型的数据，为未来的更新保持灵活性。搜索结果获得更准确的分页和更好的跨内容类型的相关性排序。新的 APP_DISPLAY_TIMEZONE 变量可让管理员定义与存储时区分开的显示时区，并且所有时间格式现在都包含清晰的速记指示符。
+对于开发人员来说，此版本为所见即所得和 Markdown 编辑器添加了 Groovy 语法突出显示，以及用于安全自动化设置的新“创建管理”标志。该 API 现在支持完整的评论管理，并在页面响应中包含线程式评论。 BookStack 还迁移到 Laravel 12，提高了性能和依赖处理。管理员应注意，CACHE_PREFIX 取代了缓存键的 APP_NAME。
+查看有关 AlternativeTo 的文章更多信息BookStack | BookStack 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/bookstack-v25-11-unifies-content-database-boosts-speed-and-adds-groovy-support/</guid>
+      <pubDate>Mon, 10 Nov 2025 21:51:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenMW 0.50.0 更新了游戏手柄控件、扩展了 Lua 脚本并添加了波兰语支持</title>
+      <link>https://alternativeto.net/news/2025/11/openmw-0-50-0-updates-gamepad-controls-expands-lua-scripting-and-adds-polish-support/</link>
+      <description><![CDATA[OpenMW 0.50.0 已发布，对开源 Morrowind 引擎进行了重大更新，对游戏手柄控件进行了全面检修，并扩展了 Lua 脚本功能。玩家现在可以完全使用控制器导航菜单、酿造药水和附魔物品，从而无需鼠标模拟。人们期待已久的快速转移选项也已到来，允许按住 Alt 键单击物品在容器之间移动，以实现更快的库存管理。
+此更新为界面、启动器和设置向导添加了波兰语翻译，提高了波兰语玩家的可访问性。 AI 寻路经过改进，可防止 NPC 选择无法到达的地点，而潜行现在通过缓存意识检查来反映原始晨风的时间安排，从而实现更一致的潜行行为。
+Lua 脚本获得了新的能力来拦截战斗事件、操纵地形和天气、访问玩家日志以及创建自定义 NPC。通过修复正常和视差贴图，视觉一致性得到了提高，而游戏玩法修正则解决了监狱技能进展、咒语循环和重复犯罪指控的问题。已保存的游戏仍与 0.49.0 版本兼容，以便安全升级。
+查看有关 AlternativeTo 的文章更多信息OpenMW | OpenMW 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/openmw-0-50-0-updates-gamepad-controls-expands-lua-scripting-and-adds-polish-support/</guid>
+      <pubDate>Mon, 10 Nov 2025 21:18:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Umami v3 推出更新的 UI、改进的过滤器、跟踪链接和像素等</title>
+      <link>https://alternativeto.net/news/2025/11/umami-v3-rolls-out-with-updated-ui-improved-filters-tracking-links-and-pixels-and-more/</link>
+      <description><![CDATA[现代分析平台 Umami v3 进行了重大重新设计，具有用户友好的界面，提供简化的导航、增强的数据可见性以及更快地访问网站内容。用户现在可以使用嵌入式下拉菜单在网站之间轻松切换，而以前的报告则被分离到单独的、可访问的页面上。
+在这些 UI 更新之后，该版本引入了通过查询字符串操作的通用过滤器。此更改使用户只需复制页面 URL 即可共享筛选的视图，从而改善团队协作。过滤器表单现在允许一次添加或编辑多个过滤器。在这些增强功能的基础上，Umami v3 增加了对细分和群组的支持。通过细分，您可以保存过滤器组以供以后重复使用，而同类群组则可以跟踪在特定时间段内共享定义体验的用户组。
+跟踪工具还通过添加链接和像素进行扩展，两者都具有专用的统计页面。链接是用于监控点击或下载的短 URL，像素是可以跟踪访问或电子邮件打开的不可见图像。对于管理工作流程，新的专用管理页面可让管理员直接管理用户、网站和团队。
+最后，Umami v3 停止了 MySQL 支持，要求 PostgreSQL 作为未来唯一的后端数据库。
+查看有关 AlternativeTo 的文章更多信息鲜味 | 鲜味替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/umami-v3-rolls-out-with-updated-ui-improved-filters-tracking-links-and-pixels-and-more/</guid>
+      <pubDate>Mon, 10 Nov 2025 15:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spark Mail 现在拥有内置 AI 助手，可实现更智能的电子邮件编写、搜索和日程安排</title>
+      <link>https://alternativeto.net/news/2025/11/spark-mail-now-has-a-built-in-ai-assistant-for-smarter-email-writing-search-and-scheduling/</link>
+      <description><![CDATA[Spark 推出了跨平台 AI 助手，现已可供 Mac、Windows、iOS 和 Android 上的所有用户使用。该助手扫描电子邮件、附件、日历和会议记录，以显示重要细节、综合信息并建议相关操作。
+人工智能助手以 Spark 的组织和优先级核心功能为基础，引入了对话界面。用户现在只需与助手交互即可搜索、管理和整理收件箱。电子邮件撰写也得到了改进：人工智能会根据用户的语气和风格偏好进行调整，提供写作建议并支持撰写消息。
+经过这些升级，搜索功能获得了自然语言处理能力。用户可以跨帐户查询统一收件箱，包括 Gmail、Outlook、iCloud 和 IMAP，而无需依赖手动关键字或文件夹。此外，助手还可以帮助识别对话中的行动项目、任务所有者和截止日期。
+对于日程安排和组织，人工智能可以显示每日优先事项、列出截止日期、检查同事的会议可用性，并允许用户直接安排或更新活动。 AI 助手是所有 Spark 计划（免费和付费）的一部分，但根据计划类型存在一些使用限制。
+查看有关 AlternativeTo 的文章有关 Spark 的更多信息邮件 | Spark 邮件替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/spark-mail-now-has-a-built-in-ai-assistant-for-smarter-email-writing-search-and-scheduling/</guid>
+      <pubDate>Mon, 10 Nov 2025 13:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>Hyprland 0.52 带来了自动子图关闭、每设备旋转和新的颜色模式选项</title>
       <link>https://alternativeto.net/news/2025/11/hyprland-0-52-brings-auto-submap-closing-per-device-rotation-and-new-color-mode-options/</link>
@@ -105,53 +157,6 @@ Vibes 首次于 9 月下旬在美国推出，Vibes 允许用户执行各种操�
 查看有关 AlternativeTo 的文章有关 Meta 的更多信息人工智能 | 元人工智能替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/11/meta-launches-its-ai-generated-short-video-feed-vibes-to-users-across-europe/</guid>
       <pubDate>Fri, 07 Nov 2025 21:44:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Figma 与 ServiceNow 的 AI 平台合作，将设计转化为企业应用程序</title>
-      <link>https://alternativeto.net/news/2025/11/figma-collaborates-with-servicenow-s-ai-platform-to-turn-designs-into-enterprise-apps/</link>
-      <description><![CDATA[Figma 宣布与 ServiceNow 的 AI 驱动的工作流程自动化平台开展新合作，允许组织将 Figma 设计直接转化为企业应用程序。这标志着开发人员第一次可以使用 Figma 设计作为 ServiceNow 构建代理的直接提示，然后自动开发安全且可扩展的业务软件。
-基于这种集成，团队能够从视觉设计无缝过渡到生产就绪的应用程序。此次合作将 Figma 的创意工作流程与 ServiceNow 的平台智能结合在一起，有助于缩小概念与实施之间的差距。通过利用 ServiceNow 构建代理，组织可以缩短应用程序开发周期，并在几分钟内将视觉概念转化为工作产品。
-从技术上讲，集成是由 Figma 的模型上下文协议 (MCP) 服务器启用的。这一开放标准允许构建代理深入解释设计的布局、样式和组件，确保高保真应用程序生成。在 ServiceNow 集成开发环境 (IDE) 中工作的开发人员可以使用 Figma 设计链接来提示构建代理，该链接经过结构解析以实现准确的企业应用程序创建。
-关于安全性，集成使用 OAuth 2.0 身份验证和安全的服务器到服务器通信，并将令牌存储在客户的 ServiceNow 实例内。生成的应用程序继承 ServiceNow 的权限、审计跟踪和版本控制，以实现治理和合规性。
-查看有关 AlternativeTo 的文章更多信息Figma | Figma 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/figma-collaborates-with-servicenow-s-ai-platform-to-turn-designs-into-enterprise-apps/</guid>
-      <pubDate>Fri, 07 Nov 2025 16:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 现在允许用户向实时查询添加上下文，而无需重新启动</title>
-      <link>https://alternativeto.net/news/2025/11/chatgpt-now-lets-users-add-context-to-live-queries-without-restarting/</link>
-      <description><![CDATA[ChatGPT 现在允许用户中断正在进行的查询并添加新上下文，而无需重新启动或丢失进度。此功能对于完善深入研究或 GPT-5 Pro 查询特别有用，因为模型会更新其响应以反映新要求。
-用户可以通过侧边栏访问此功能，并根据需要提供其他详细信息或说明。
-查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/chatgpt-now-lets-users-add-context-to-live-queries-without-restarting/</guid>
-      <pubDate>Fri, 07 Nov 2025 16:16:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Discord 桌面带来更快的表情符号创建和游戏集成</title>
-      <link>https://alternativeto.net/news/2025/11/discord-desktop-brings-faster-emoji-creation-and-game-integration/</link>
-      <description><![CDATA[Discord 的最新桌面更新现在提供集成的表情符号创建工具，让用户可以直接在聊天中裁剪、旋转和上传图像作为自定义表情符号。
-此外，包括《Marvel Rivals》在内的几款主要 PC 游戏已开始集成 Discord 功能，例如游戏内聊天和同步好友列表。
-最后，“设置”页面经过重新设计，采用浮动窗口界面，保留搜索栏以便于导航。
-查看有关 AlternativeTo 的文章更多有关Discord | Discord 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/discord-desktop-brings-faster-emoji-creation-and-game-integration/</guid>
-      <pubDate>Fri, 07 Nov 2025 16:12:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zed Editor 引入了用于 ACP 集成的一键式代理扩展</title>
-      <link>https://alternativeto.net/news/2025/11/zed-editor-introduces-one-click-agent-extensions-for-acp-integration/</link>
-      <description><![CDATA[Zed Editor 推出了代理服务器扩展，允许用户直接从扩展面板一键安装 ACP 代理。第一个可用的扩展是 Auggie、OpenCode 和 Stakpak。开发人员还可以使用新的简化的发布流程来分发 ACP 兼容代理。
-查看有关 AlternativeTo 的文章有关 Zed 的更多信息编辑器 | Zed 编辑器替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/zed-editor-introduces-one-click-agent-extensions-for-acp-integration/</guid>
-      <pubDate>Fri, 07 Nov 2025 15:52:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Calibre 8.14修复了FB2文件漏洞并添加了Tolino固件支持</title>
-      <link>https://alternativeto.net/news/2025/11/calibre-8-14-fixes-fb2-file-vulnerability-and-adds-tolino-firmware-support/</link>
-      <description><![CDATA[Calibre 8.14 解决了 FB2 文件导入中的远程代码执行漏洞，解决了重大安全风险。该版本还增加了对最新 Tolino 电子阅读器固件的支持，并引入了改进的语言完成功能。
-还包括其他错误修复和内容增强。
-查看有关 AlternativeTo 的文章更多信息calibre | calibre 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/calibre-8-14-fixes-fb2-file-vulnerability-and-adds-tolino-firmware-support/</guid>
-      <pubDate>Fri, 07 Nov 2025 15:46:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
