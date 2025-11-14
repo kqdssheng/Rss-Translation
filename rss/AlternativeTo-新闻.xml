@@ -4,7 +4,131 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Thu, 13 Nov 2025 12:44:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 01:28:50 GMT</lastBuildDate>
+    <item>
+      <title>虚幻引擎 5.7 添加了程序内容生成、Nanite Foliage 和 MetaHuman 更新</title>
+      <link>https://alternativeto.net/news/2025/11/unreal-engine-5-7-adds-procedural-content-generation-nanite-foliage-and-metahuman-updates/</link>
+      <description><![CDATA[虚幻引擎 5.7 推出了可用于生产的程序内容生成 (PCG) 框架，可加快基于规则的世界构建、实时预览和 GPU 驱动的工作流程。 PCG 编辑器模式添加了链接到 PCG 图形的样条线、绘画和体积工具，而新的 Polygon2D 数据类型扩展了创建者定义区域和生成样条线的方式。此更新还包括编辑器内的 AI 助手，可帮助您在不离开工作区的情况下导航工具、生成代码和回答技术问题。
+实验性的程序植被编辑器(PVE)对植被和环境创建进行了重大升级，该编辑器可与 Nanite 骨骼组件和新的 Quixel Megaplants 套件配合使用。 Nanite Foliage 作为高性能渲染系统首次亮相，使用 Nanite 体素、组件和蒙皮来处理茂密的植被，而无需明显的 LOD 过渡。 Substrate 已做好生产准备，为分层和混合表面提供灵活的材质系统，并且 MegaLights 进入测试版，支持更加动态的灯光并改进了效果半透明、头发和粒子阴影。
+MetaHuman 工作流程通过 Linux 和 macOS 插件支持、通过 Python 或蓝图进行批处理、网格符合选项以及移动设备的实时面部捕捉进行扩展。动画工具获得了重构的动画模式、更好的重定向和更新的雕刻功能，而虚拟制作则受益于新的道具约束、更广泛的 Live Link 广播和彻底检修的 Composure 系统。该版本还引入了虚幻编辑器主页面板，用于快速访问文档、教程、社区资源和示例项目。
+查看有关 AlternativeTo 的文章有关 Unreal 的更多信息引擎 | 虚幻引擎替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/unreal-engine-5-7-adds-procedural-content-generation-nanite-foliage-and-metahuman-updates/</guid>
+      <pubDate>Thu, 13 Nov 2025 22:53:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 推出 GPT 5.1 模型，具有更快、“更温暖”和更具对话性的变体</title>
+      <link>https://alternativeto.net/news/2025/11/openai-launches-gpt-5-1-models-with-faster--warmer-and-more-conversational-variants/</link>
+      <description><![CDATA[OpenAI 推出了 GPT 5.1 作为付费 ChatGPT 用户的新默认模型，带来了两种变体：Instant 和 Thinking。 Instant 专注于以“更温暖”的方式进行更快的指令。更具对话性的个性，再加上自适应推理，可以让它决定何时需要对复杂问题进行更深入的思考。
+思维变体提高了高级推理能力，更快地解决简单任务，并保持对复杂任务的关注。现在它使用更简单的语言，并采用更温暖、更有同理心的语气。新的自动模式根据任务将提示路由到即时或思考。个性化现在还包括新的语气选项，例如专业、坦率和古怪，以及对默认、友好和高效设置的更新。如果 ChatGPT 检测到对不同风格的重复请求，它还可能会建议调整您的语气。
+GPT 5.1 首先向 Pro、Plus、Go 和 Business 用户推出，随后将提供免费帐户，GPT 5 模型将在旧版下拉列表中保留三个月，以便用户可以按照自己的节奏进行比较和过渡。由于这些更新是逐步发布的，可用性可能会有所不同。
+查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/openai-launches-gpt-5-1-models-with-faster--warmer-and-more-conversational-variants/</guid>
+      <pubDate>Thu, 13 Nov 2025 22:34:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>ElevenLabs 推出新的“标志性市场”，用于授权人工智能生成的名人声音</title>
+      <link>https://alternativeto.net/news/2025/11/elevenlabs-launches-a-new-iconic-marketplace-for-licensing-ai-generated-celebrity-voices/</link>
+      <description><![CDATA[ElevenLabs 推出了新的“标志性市场”，这是一个新的中心，允许公司将人工智能生成的知名人物的声音授权用于广告和品牌内容。它使用基于同意的、表演者优先的模型，将企业与每种声音的权利持有者联系起来，而 ElevenLabs 则负责许可和合成。
+该市场仅限于经过验证的名人和知识产权所有者，涵盖通过现代克隆技术创建或根据档案录音重建声音的在世和历史人物。发布阵容包括 Liza Minnelli、Mark Twain、Thomas Edison 和 Alan Turing 等 28 位声音，并且还介绍了 Michael Caine 爵士，他是首批加入该项目的在世名人之一，他的声音在市场上都可以找到和 ElevenReader 应用程序。
+凯恩公开认可该项目，认为这是在支持新创作者的同时保留和分享声音的一种方式。 ElevenLabs 还指出，演员 Matthew McConaughey 既是该平台的投资者又是该平台的用户，利用其技术制作了他的时事通讯的西班牙语音频版本，并强调了与 CMG Worldwide 等机构的合作关系，以引入更多资产，并确保所有合作都遵循同意驱动和透明的许可型号。
+查看有关 AlternativeTo 的文章更多信息ElevenLabs | ElevenLabs 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/elevenlabs-launches-a-new-iconic-marketplace-for-licensing-ai-generated-celebrity-voices/</guid>
+      <pubDate>Thu, 13 Nov 2025 20:16:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify 推出有声读物回顾，提供量身定制的音频摘要以重新吸引听众</title>
+      <link>https://alternativeto.net/news/2025/11/spotify-debuts-audiobook-recaps-offering-tailored-audio-summaries-to-reengage-listeners/</link>
+      <description><![CDATA[Spotify 正在推出有声读物重述，该功能可根据每个听众在故事中的最后位置提供简短的音频摘要。这些回顾旨在帮助听众在忙碌的一周后、在会议期间打瞌睡或在继续收听之前需要快速复习时重新阅读他们可能暂停的有声读物。
+与完整摘要不同，重述仅涵盖书中已播放的部分，其功能类似于电视中的“先前播放”片段。这种方法确保用户可以赶上内容，而无需重新访问内容或遇到剧透。 Spotify 强调，重述旨在减少摩擦、简化聆听体验并鼓励无缝沉浸。
+虽然该功能在收听 15 至 20 分钟后激活，并随着用户进度定期更新，但 Spotify 非常谨慎地解决有关内容权利的担忧。 Recaps 利用人工智能，但 Spotify 不使用有声读物内容进行大型语言模型训练或语音生成。新的摘要避免重复原始旁白，并且不会取代主要有声读物。
+此功能在发布时在 iOS 上以测试版形式提供，适用于精选的英语游戏，并计划在未来提供更广泛的可用性。
+查看有关 AlternativeTo 的文章更多信息Spotify | Spotify 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/spotify-debuts-audiobook-recaps-offering-tailored-audio-summaries-to-reengage-listeners/</guid>
+      <pubDate>Thu, 13 Nov 2025 19:23:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>ForkLift 4.4.4 带来了 macOS 上的预览修复、新的侧边栏操作和视觉增强</title>
+      <link>https://alternativeto.net/news/2025/11/forklift-4-4-4-brings-preview-fixes-new-sidebar-actions-and-visual-enhancements-on-macos/</link>
+      <description><![CDATA[ForkLift 4.4.4 发布了多项关键修复和可用性改进，方便 macOS 用户使用此高级双窗格文件管理器管理文件。最新更新解决了一个值得注意的问题，即在文件之间导航时预览窗格的信息部分并不总是刷新。在此版本中，预览窗格中显示的信息不断更新，从而改善了浏览体验。
+除了预览可靠性之外，此更新还解决了多个 macOS 特定的视觉问题。用户在全屏使用期间将不再遇到黑色区域，并且之前在较新的 macOS 版本上预览窗格可见时阻止窗口调整大小的问题现已解决。除了这些界面修正之外，同步工作流程也得到了改进，因为同步现在可以在第一次尝试时可靠地启动，而不需要重复操作。
+此外，侧边栏中的辅助点击行为现在可以按预期工作；支持选项单击和控制单击，使文件夹管理更加直观。喜欢鼠标导航的用户现在可以通过双击直接从“显示设备”、“快速打开设备”和“转到文件夹”弹出窗口中打开项目。最后，该版本包含了一系列额外的小错误修复，以支持整体可用性和稳定性。
+查看有关 AlternativeTo 的文章有关更多信息叉车 | 叉车替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/forklift-4-4-4-brings-preview-fixes-new-sidebar-actions-and-visual-enhancements-on-macos/</guid>
+      <pubDate>Thu, 13 Nov 2025 18:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Facebook 将在 2026 年 2 月之前停止其外部点赞和评论社交插件</title>
+      <link>https://alternativeto.net/news/2025/11/facebook-will-discontinue-its-external-like-and-comment-social-plugins-by-february-2026/</link>
+      <description><![CDATA[Meta 宣布将于 2026 年 2 月 10 日起停止使用两个 Facebook 社交插件 - Facebook 点赞按钮和 Facebook 评论按钮。这些工具允许用户使用其 Facebook 个人资料在外部网站上点赞和评论内容。 Meta 解释说，此举符合其支持现代高效平台、同时关注未来创新的目标。该公司指出，这些插件代表了网络开发的早期时代，随着数字环境的变化，它们的使用量正在稳步下降。
+关闭后，两个插件都将渲染为 0×0 像素元素。这种转变确保现有网站不会遇到错误或功能损坏，因为插件只会变得不可见，而不是中断网站运营。尽管网站所有者或开发人员不需要立即采取行动，但 Meta 建议那些优先考虑代码清洁度的人可以选择删除插件代码。这仍然是可选的，可以在 2026 年 2 月 10 日之前或之后的任何时间完成。
+查看有关 AlternativeTo 的文章更多信息Facebook | Facebook 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/facebook-will-discontinue-its-external-like-and-comment-social-plugins-by-february-2026/</guid>
+      <pubDate>Thu, 13 Nov 2025 16:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Raycast for iOS 1.1.3 推出 90 种语言的更快听写功能</title>
+      <link>https://alternativeto.net/news/2025/11/raycast-for-ios-1-1-3-rolls-out-faster-dictation-in-90-languages/</link>
+      <description><![CDATA[Raycast for iOS 版本 1.1.3 带来更快、更可靠的听写，由 ElevenLabs 的 Scribe v2 实时模型提供支持。用户现在可以通过键盘、AI 聊天或通过 Notes 以 90 多种语言进行听写。
+此更新还解决了登录稳定性问题，并修复了 AI 聊天标题和快速链接的语言准确性问题。
+查看有关 AlternativeTo 的文章更多信息Raycast | Raycast 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/raycast-for-ios-1-1-3-rolls-out-faster-dictation-in-90-languages/</guid>
+      <pubDate>Thu, 13 Nov 2025 15:59:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Discord 引入了用于共享游戏和活动的个人资料小部件</title>
+      <link>https://alternativeto.net/news/2025/11/discord-introduces-profile-widgets-for-sharing-games-and-activities/</link>
+      <description><![CDATA[Discord 正在其桌面应用程序中推出个人资料小部件，让用户可以分享他们正在玩的游戏、接下来要玩的游戏、他们最常玩的游戏以及他们最喜欢的游戏。用户还可以为每款游戏添加标签和简短评论，提供更加个性化和互动的游戏档案体验。
+查看有关 AlternativeTo 的文章更多关于Discord | Discord 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/discord-introduces-profile-widgets-for-sharing-games-and-activities/</guid>
+      <pubDate>Thu, 13 Nov 2025 15:52:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>FLORA 推出创意合作伙伴计划以供订阅推荐</title>
+      <link>https://alternativeto.net/news/2025/11/flora-launches-creative-partner-program-for-subscription-referrals/</link>
+      <description><![CDATA[FLORA 宣布了一项创意合作伙伴计划，使创作者能够为他们推荐的每个新订阅者赚取收入分成。该计划向那些有兴趣将 FLORA 引入世界各地的工作室、学校和机构的人士开放。
+查看有关 AlternativeTo 的文章有关 FLORA 的更多信息 | FLORA 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/flora-launches-creative-partner-program-for-subscription-referrals/</guid>
+      <pubDate>Thu, 13 Nov 2025 15:47:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple Invites 应用程序增加了成人和儿童的宾客计数功能</title>
+      <link>https://alternativeto.net/news/2025/11/apple-invites-app-adds-guest-count-feature-for-adults-and-kids/</link>
+      <description><![CDATA[最新的 iPhone 版 Apple Invites 应用程序更新可让客人指示他们将带多少成人和儿童参加活动，从而为主持人提供更准确的与会者信息。
+该版本还包括错误修复和性能增强。
+查看有关 AlternativeTo 的文章有关 Apple 的更多信息邀请 | Apple 邀请替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/apple-invites-app-adds-guest-count-feature-for-adults-and-kids/</guid>
+      <pubDate>Thu, 13 Nov 2025 15:42:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mobbin 引入动画和新的过滤器选项</title>
+      <link>https://alternativeto.net/news/2025/11/mobbin-introduces-animations-and-new-filter-options/</link>
+      <description><![CDATA[Mobbin 现在可以将带有运动的应用屏幕捕获为短视频，允许用户观看动画而不是静态图像。用户还可以过滤搜索以查找具有动画的屏幕并调整其视频自动播放首选项。
+如果电子邮件域匹配，团队可以通过链接邀请成员或加入公司工作区。
+查看有关 AlternativeTo 的文章有关 Mobbin 的更多信息 | Mobbin 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/mobbin-introduces-animations-and-new-filter-options/</guid>
+      <pubDate>Thu, 13 Nov 2025 15:38:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tails 7.2 带来了 Tor 浏览器 15.0、Linux 6.12 LTS 内核、隐私升级等</title>
+      <link>https://alternativeto.net/news/2025/11/tails-7-2-brings-tor-browser-15-0-linux-6-12-lts-kernel-privacy-upgrades-and-more/</link>
+      <description><![CDATA[Tails 7.2 现已推出，在这款便携式操作系统中提供了多项注重隐私的改进，旨在保护用户免受监视和审查。此版本将 Tor 浏览器更新至版本 15.0.1，该版本基于 Firefox 140 基础构建。使用多个选项卡的用户将受益于新功能，例如垂直选项卡、选项卡分组以及带有增强搜索选项的重新设计的地址栏，使浏览更加有组织和高效。
+除了浏览器增强功能之外，Tails 7.2 还集成了 Linux 6.12.57 LTS 内核，提供最新的安全修复和硬件兼容性。捆绑的 Thunderbird 电子邮件客户端也已更新至版本 140.4.0。在这些核心更新之后，Tails 通过禁用 Thunderbird 之前与 Mozilla 建立的所有遥测连接来改善其隐私状况，从而最大限度地降低意外数据泄露的风险。
+对于高级用户，更新更改了 root 访问的管理方式。 根控制台已被删除。现在，管理会话需要通过在终端中运行 sudo -i 命令来手动调用。此举旨在简化高级用户的访问，同时保持安全性。
+查看有关 AlternativeTo 的文章更多信息尾部 | 尾部替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/tails-7-2-brings-tor-browser-15-0-linux-6-12-lts-kernel-privacy-upgrades-and-more/</guid>
+      <pubDate>Thu, 13 Nov 2025 15:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vivaldi 7.7 带来了跨设备选项卡访问、统一起始页和性能控制</title>
+      <link>https://alternativeto.net/news/2025/11/vivaldi-7-7-brings-cross-device-tab-access-unified-start-page-and-performance-controls/</link>
+      <description><![CDATA[Vivaldi 7.7 为依赖多个设备的用户带来了重大改进。现在，可以通过窗口面板或选项卡菜单直接访问其他桌面的选项卡。当您从其他设备打开选项卡时，整个窗口都会保持其结构，包括选项卡堆栈和工作区排列。
+在此基础上，开始页面经过重新设计，具有统一的体验。天气、RSS 源和邮件预览等小部件现在与快速拨号并排，创建个人仪表板视图，提供实时信息并快速访问喜爱的网站，一目了然。
+除了这些工作流程更改之外，隐私仪表板还采用了更简洁的新布局。此设计阐明了浏览器采取哪些步骤来帮助保护用户的数据。设置菜单通过引入专用性能部分增加了另一层控制，为专注于资源管理的用户提供节省内存的选项。
+经过这些改进，邮件面板现在为使用 Vivaldi 集成邮件客户端 的用户提供了改进的可读性和可用性。关于页面也进行了现代化的重新设计，现在可以更流畅地处理浏览器更新。
+查看有关 AlternativeTo 的文章更多信息维瓦尔第 | 维瓦尔第替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/vivaldi-7-7-brings-cross-device-tab-access-unified-start-page-and-performance-controls/</guid>
+      <pubDate>Thu, 13 Nov 2025 13:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>SparkyLinux 8.1 发布，更新了软件和桌面环境</title>
       <link>https://alternativeto.net/news/2025/11/sparkylinux-8-1-released-with-updated-software-and-desktop-environments/</link>
@@ -24,137 +148,6 @@
 查看有关 AlternativeTo 的文章更多信息缓冲区 | 缓冲区替代品]]></description>
       <guid>https://alternativeto.net/news/2025/11/buffer-launches-community-a-free-hub-to-manage-all-social-media-comments-in-one-place/</guid>
       <pubDate>Thu, 13 Nov 2025 01:02:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dub.co 推出针对合作伙伴和交易推广的电子邮件活动</title>
-      <link>https://alternativeto.net/news/2025/11/dub-co-launches-email-campaigns-for-partner-and-transactional-outreach/</link>
-      <description><![CDATA[Dub.co 推出了电子邮件营销活动，这是一种用于直接向合作伙伴发送营销和交易电子邮件的内置工具。它响应了 Dub 合作伙伴 用户在平台内集成电子邮件推广的长期请求。
-用户可以为公告、促销或更新创建一次性营销电子邮件，或设置由合作伙伴操作触发的交易电子邮件。这些自动消息可以欢迎新合作伙伴、确认首次销售或在他们达到佣​​金里程碑时通知他们。送达率分析显示送达率、打开率和退回率，预计退回率将保持在 4% 以下。
-经过测试期发送了超过四十二万封电子邮件后，电子邮件营销活动现在可供高级和企业客户使用。首先，用户必须连接电子邮件域（最好是子域），并完成预热过程以提高送达率。
-查看有关 AlternativeTo 的文章更多信息Dub.co | Dub.co 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/dub-co-launches-email-campaigns-for-partner-and-transactional-outreach/</guid>
-      <pubDate>Thu, 13 Nov 2025 00:52:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steam 宣布推出运行 SteamOS 的新 Steam Machine，以参与主机游戏市场的竞争</title>
-      <link>https://alternativeto.net/news/2025/11/steam-announces-new-steam-machine-running-steamos-to-compete-in-the-console-gaming-market/</link>
-      <description><![CDATA[出人意料的是，Valve 刚刚宣布推出三款新硬件设备，将其产品阵容扩展到 Steam Deck 之外，其中包括 Steam 控制器、全新 Steam Frame VR 耳机，以及期待已久的 Steam Machines 回归，该产品设计为基于 Linux 的紧凑型SteamOS 具有类似于控制台的可用性的 PC。 Valve 声称，Steam Machine 由半定制 AMD Zen 4 CPU 和 RDNA3 GPU 提供支持，可提供高达 Steam Deck 六倍的性能，通过 AMD FSR 支持 60 FPS 的 4K 游戏，并包括 16GB DDR5 RAM、8GB GDDR6 VRAM 和高达 2TB 的 SSD 存储。它具有 USB-A、microSD、DisplayPort、HDMI 和以太网端口，还可以将游戏流式传输到 Steam Deck、任何 Steam Link 设备或之前提到的 Steam Frame VR 耳机。
-这种来自 Valve 的类似游戏机的新体验旨在打入传统游戏机市场，并为 PlayStation、任天堂提供另一种多功能性Switch 和 Xbox（讽刺的是，新机器看起来有点像半尺寸的 Xbox Series X），这得益于基于 Linux 的 PC 通过 SteamOS 的灵活性，为 Steam Deck 用户提供了熟悉但更强大的体验。新控制台还包括更新的 Steam 控制器，它将 Steam Deck 的混合输入系统调整为独立的无线控制器，具有模拟摇杆、触发器、双触控板和陀螺仪控件，并为每个游戏提供可定制的输入映射。该控制器适用于所有 Steam 硬件，包括 Deck、Machine 和 Frame。
-最后，Valve 还发布了 Steam Frame，这是一款新型无线“流媒体优先”VR 耳机，旨在与 SteamOS 配合使用，同时还支持 Android 游戏。它既可以作为搭载 Snapdragon 8 Gen 3 芯片组和 16GB RAM 的独立设备使用，也可以通过专用 6GHz 无线适配器作为连接 PC 的耳机使用，这使其成为 Meta Quest 和 PlayStation VR 的明显替代品。它配备 144Hz 的双 2160×2160 LCD 面板、眼动追踪、110 度视野以及可实现边缘到边缘清晰度的定制薄饼镜头、Wi-Fi 7 支持和新的 6-DOF 控制器。
-Valve 尚未透露任何新设备的定价，但早期报告表明它们将在与同类游戏机和 VR 耳机的竞争中占据优势。
-查看有关 AlternativeTo 的文章更多信息Steam | Steam 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/steam-announces-new-steam-machine-running-steamos-to-compete-in-the-console-gaming-market/</guid>
-      <pubDate>Wed, 12 Nov 2025 20:45:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>PicView 4.0 发布，具有更新的缩放、图像搜索、导航和打印预览功能</title>
-      <link>https://alternativeto.net/news/2025/11/picview-4-0-launches-with-updated-zoom-image-search-navigation-and-print-preview-features/</link>
-      <description><![CDATA[PicView 4.0 带来了重建的缩放系统，带有预览窗口，可在放大时显示完整图像并允许平移。用户现在可以使用 Ctrl + F 在当前目录中搜索图像，新的交互式进度条会显示文件夹中的位置，并允许通过单击或拖动进行导航。可以切换缩放动画和百分比弹出窗口，并且用户现在可以选择文件删除行为。
-批量调整大小工具经过重新设计，可调整窗口大小并支持添加文件或文件夹。图像信息窗口现在允许用户使用日历或模拟时钟界面编辑 EXIF“拍摄日期”值和其他时间戳。右键单击操作已扩展，可以快速访问搜索和高级跳转选项，而悬停导航工具栏会在全屏或隐藏主工具栏时自动出现。可以在新的“界面配置”选项卡中管理其可见性。
-性能改进包括更快的图像预加载、减少内存使用以及更好地清理未使用的文件。通过改进的错误处理和碰撞保护，稳定性得到了加强。 Windows 获得了一个新的打印预览窗口，其中包含打印机选择和准确的输出，而 macOS 则在“打开方式”视图中获得了重新组织的菜单和更正的浅色主题文本。
-查看有关 AlternativeTo 的文章更多信息PicView | PicView 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/picview-4-0-launches-with-updated-zoom-image-search-navigation-and-print-preview-features/</guid>
-      <pubDate>Wed, 12 Nov 2025 20:39:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft 发布了 .NET 10，具有 AI 集成、更广泛的工作负载支持和 LTS 支持</title>
-      <link>https://alternativeto.net/news/2025/11/microsoft-released-net-10-with-ai-integration-wider-workload-support-and-lts-support-/</link>
-      <description><![CDATA[除了预期的 Visual Studio 2026 版本之外，Microsoft 还推出了 .NET 10，其统一开发平台经过九个月的开发周期后的最新版本。它引入了更快的运行时性能、减少的内存使用、更强的安全默认值以及更新的 C#、F# 和 Visual Basic 编译器优化。
-.NET 10 扩展了对 Web、桌面、移动、云、AI、游戏、物联网和微服务工作负载的支持，并通过更深入的 AI 集成简化了向应用程序添加智能功能的过程。它仍然是一个免费、开源、跨平台的框架，为主要的 Microsoft 服务提供支持，例如 Copilot、Microsoft 365、Bing 和 Xbox。
-作为长期支持 (LTS) 版本，.NET 10 将在 2028 年 11 月之前收到更新，延续 Microsoft 的年度发布节奏。开发人员现在可以下载 SDK、运行时和相关工具以及 Visual Studio 2026 和最新的 Visual Studio Code C# 开发工具包。
-查看有关 AlternativeTo 的文章有关 .NET 的更多信息框架 | .NET Framework 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/microsoft-released-net-10-with-ai-integration-wider-workload-support-and-lts-support-/</guid>
-      <pubDate>Wed, 12 Nov 2025 17:34:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>JetBrains 推出 Rider 和 ReSharper 2025.3，支持 Visual Studio 2026、.NET 10 和 C# 14</title>
-      <link>https://alternativeto.net/news/2025/11/jetbrains-brings-rider-and-resharper-2025-3-with-visual-studio-2026--net-10-and-c-14-support/</link>
-      <description><![CDATA[JetBrains 发布了 Rider 和 ReSharper 的主要新版本，为 .NET 和游戏开发专业人士提供了重大更新。 Rider 2025.3 现在支持 .NET 10 软件开发套件，提供新的Islands UI 默认主题，并包括性能和启动速度方面的增强。此版本引入了对 C# 14 的全面支持，并提供了改进的代码编辑帮助，以简化使用现代代码库的用户的开发。
-除了这些核心更改之外，Rider 2025.3 还提供了 F# 编程语言的更新，通过更好的 ASP.NET 和数据库问题检测扩展了监控工具，并增加了对 Perforce MCP 的支持。对于那些开发游戏的人来说，Rider 增强了与 Unity、Unreal Engine 和 Godot 的集成，旨在改进跨流行引擎的工作流程。检查 OpenTelemetry 跟踪的体验也得到了改进。
-虽然 Rider 推进了跨平台开发，但 ReSharper 2025.3 现在完全支持 Visual Studio 2026 并集成了全面的C# 14 个功能。引入了性能改进，包括 C++ 26 支持，并且该扩展已返回到开放 VSX 注册表以实现更广泛的可访问性。此外，TeamCity 扩展已通过 dotUltimate 安装程序重新集成。
-查看有关 AlternativeTo 的文章有关 JetBrains Rider 的更多信息 | JetBrains Rider 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/jetbrains-brings-rider-and-resharper-2025-3-with-visual-studio-2026--net-10-and-c-14-support/</guid>
-      <pubDate>Wed, 12 Nov 2025 15:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mulvad VPN 推出适用于桌面和 Android 的 LWO，以绕过防火墙和审查制度</title>
-      <link>https://alternativeto.net/news/2025/11/mullvad-vpn-rolls-out-lwo-for-desktop-and-android-to-bypass-firewalls-and-censorship/</link>
-      <description><![CDATA[Mullvad VPN已在所有桌面平台和Android上发布了轻量级WireGuard混淆（LWO），旨在帮助用户绕过防火墙和网络审查制度。此功能专为那些在标准 WireGuard 或其他 VPN 协议被主动阻止的国家或网络中面临限制的用户而设计。
-Mullvad VPN 通过在多次连接尝试失败后自动尝试这种混淆技术来增强可用性。喜欢更多控制的用户可以将应用配置为始终使用 LWO，确保在限制性环境中更可靠地建立 VPN 连接。
-基于技术改进，LWO 通过扰乱每个 WireGuard 数据包的标头来运行，使 VPN 流量更难被防火墙识别和阻止。该协议计算效率高，引入最小的处理开销，甚至在低功耗设备上也能保持快速吞吐量。这使得 LWO 成为其他混淆方法（例如 Shadowsocks）的更快且功耗更低的替代方案。
-继9 月份发布 QUIC 混淆等最新进展之后，LWO 代表了 Mullvad 的第四种 WireGuard 混淆技术。这是 Mulvad 持续努力对抗审查制度并改善限制性网络中的用户体验的一部分。该公司还表示，LWO 混淆将在未来的更新中适用于 iOS。
-查看有关 AlternativeTo 的文章更多信息Mullvad | Mullvad 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/mullvad-vpn-rolls-out-lwo-for-desktop-and-android-to-bypass-firewalls-and-censorship/</guid>
-      <pubDate>Wed, 12 Nov 2025 13:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Visual Studio 2026 发布，具有 AI 集成、重大性能提升和重新设计的 UI</title>
-      <link>https://alternativeto.net/news/2025/11/visual-studio-2026-launches-with-ai-integration-major-performance-boost-and-redesigned-ui/</link>
-      <description><![CDATA[微软推出了 Visual Studio 2026，为软件开发人员提供最新版本的集成开发环境 (IDE)。该版本带来了显着的性能升级，提供了显着更快的启动速度和响应更快的用户界面。即使在处理特别大的项目时，挂起和 UI 冻结也减少了 50% 以上。
-基于这些增强功能，Visual Studio 2026 现在是 AI 原生的。集成的人工智能根据上下文介入，支持开发人员执行调试、性能分析和应用程序现代化任务。这种智能旨在消除摩擦并提供可操作的见解，而无需改变既定的工作流程。此外，该更新还采用了新的 C# 和 C++ 代理，为专业开发人员提供更高的速度和精度，同时允许用户保持控制并避免不必要的复杂性。
-在这些重大变化之后，该版本推出了完全重新设计的现代用户界面，以及灵活的新设置系统和数百项底层改进，旨在使 IDE 整体感觉更加精致。在过去的一年里，微软根据广泛的社区反馈采取了行动，修复了 5,000 多个错误并实现了 300 多个请求的功能。 Visual Studio 2026 仍然与 Visual Studio 2022 的项目和扩展完全兼容，使开发人员更容易升级。
-查看有关 AlternativeTo 的文章有关 Microsoft Visual 的更多信息Studio | Microsoft Visual Studio 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/visual-studio-2026-launches-with-ai-integration-major-performance-boost-and-redesigned-ui/</guid>
-      <pubDate>Wed, 12 Nov 2025 12:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌照片增加了新的人工智能编辑工具，并将“询问照片”扩展到更多国家</title>
-      <link>https://alternativeto.net/news/2025/11/google-photos-adds-new-ai-powered-editing-tools-and-expands-ask-photos-to-more-countries/</link>
-      <description><![CDATA[Google 相册通过推出增强的编辑选项和更广泛的搜索功能，继续扩展人工智能工具。美国 iOS 用户现在可以使用语音或文本提示进行人工智能照片编辑。重新设计的 iOS 照片编辑器支持这些功能，以及新的基于手势的控件和一键式建议。
-在早期人工智能更新的基础上，Google 相册现在利用您私人面孔组中的图像进行个性化编辑。用户可以通过在“帮助我编辑”选项中输入简单的提示来快速修复闭眼或丢失配件等问题。 Nano Banana AI 引擎的推出进一步扩展了创作可能性，因为用户可以为照片描述新的视觉风格，并查看直接在编辑器中应用的转换。
-对于美国和印度的 Android 用户，新的“使用 AI 创建”部分将现成的模板添加到“创建”选项卡。这些模板由 Nano Banana 提供支持，很快将包含基于您的照片库和兴趣的个性化建议。
-除了编辑改进之外，“询问照片”搜索工具正在向 100 多个国家/地区和 17 种语言推出。全球用户现在可以使用自然语言搜索他们的图库或获取有关图像的见解。此外，应用程序中的新“询问”按钮可以启动对话、显示相关时刻或根据请求应用编辑。
-查看有关 AlternativeTo 的文章有关 Google 的更多信息照片 | Google 相册替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/google-photos-adds-new-ai-powered-editing-tools-and-expands-ask-photos-to-more-countries/</guid>
-      <pubDate>Wed, 12 Nov 2025 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Traefik Proxy 3.6 带来多层路由、Knative 集成和 Gateway API v1.4</title>
-      <link>https://alternativeto.net/news/2025/11/traefik-proxy-3-6-brings-multi-layer-routing-knative-integration-and-gateway-api-v1-4/</link>
-      <description><![CDATA[Traefik Proxy 3.6，代号“Ramequin”，现已作为开源云原生应用程序代理的最新版本提供。虽然之前的版本侧重于标准路由技术，但此更新引入了多层路由，使管理员可以使用原始请求中不存在的信息做出路由决策。此功能消除了复杂的路由解决方法，从而简化了配置。
-除此之外，Traefik 在 3.6 版本中获得了 Knative 提供程序支持。这一进步使 Traefik 成为无缝支持云原生容器工作负载、传统虚拟机和无服务器环境的唯一代理。这些转变扩大了 Traefik 可以解决的基础设施范围，满足更复杂的工作负载需求。
-在这些基础更改的基础上，该版本现在完全支持 Gateway API v1.4，并纳入了可用于生产的功能，例如 BackendTLSPolicy 和 SupportedFeatures，这些功能已从实验通道转变为标准通道。这些变化将使在企业设置中使用 Kubernetes 网络的团队受益。
-进一步的改进包括改进的运行状况检查、新的负载平衡策略、提供程序模块更新、性能和安全性增强、更好的可观察性选项以及改进的用户和开发人员体验。这些增强功能共同提高了部署安全性和操作简便性。
-查看有关 AlternativeTo 的文章更多信息Træfik 代理 | Træfik 代理替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/traefik-proxy-3-6-brings-multi-layer-routing-knative-integration-and-gateway-api-v1-4/</guid>
-      <pubDate>Wed, 12 Nov 2025 08:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemini for TV 推出 Google TV Streamer，取代 Assistant</title>
-      <link>https://alternativeto.net/news/2025/11/gemini-for-tv-rolls-out-to-google-tv-streamer-replacing-assistant/</link>
-      <description><![CDATA[Gemini for TV 现已在 Google TV Streamer 设备上推出，并将取代 Google 助理。用户可以发出更自然的语音命令来搜索娱乐、接收教育解释并获得日常任务（例如学习或 DIY 项目）的帮助。
-通过按遥控器上的麦克风按钮可以轻松激活 Gemini。
-查看有关 AlternativeTo 的文章有关 Google 的更多信息Gemini | Google Gemini 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/gemini-for-tv-rolls-out-to-google-tv-streamer-replacing-assistant/</guid>
-      <pubDate>Wed, 12 Nov 2025 08:26:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Buffer 推出深色模式，为所有用户提供自动系统检测</title>
-      <link>https://alternativeto.net/news/2025/11/buffer-introduces-dark-mode-with-automatic-system-detection-for-all-users/</link>
-      <description><![CDATA[Buffer 引入了深色模式，现已向所有用户开放。新模式包括自动系统检测，允许 Buffer 匹配您设备的外观偏好，而无需手动切换。精心设计的调色板可减轻眼睛疲劳并保持界面清晰度。
-查看有关 AlternativeTo 的文章有关 Buffer 的更多信息 | 缓冲区替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/buffer-introduces-dark-mode-with-automatic-system-detection-for-all-users/</guid>
-      <pubDate>Wed, 12 Nov 2025 08:09:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>ElevenLabs 推出 Scribe v2 Realtime，这是其最新的超低延迟语音到文本模型</title>
-      <link>https://alternativeto.net/news/2025/11/elevenlabs-launches-scribe-v2-realtime-its-latest-ultra-low-latency-speech-to-text-model/</link>
-      <description><![CDATA[ElevenLabs 发布了 Scribe v2 Realtime，这是其最新的用于实时转录的低延迟语音到文本模型。它在大约 150 毫秒内处理语音，非常适合需要即时转换的实时应用程序。该公司声称，它为实时 ASR 系统的准确性设立了新标准，在处理具有背景噪音或复杂内容的困难音频时表现尤其出色。
-该模型支持 90 多种语言，包括英语、法语、德语、意大利语、西班牙语、葡萄牙语、印地语和日语。它针对语音代理、会议转录和对话式 AI 进行了优化，扩展了 ElevenLabs 的实时客户交互和自动化工具。
-Scribe v2 Realtime 符合企业安全和隐私标准，例如 SOC 2、ISO27001、PCI DSS Level 1、HIPAA 和 GDPR。它还提供欧盟和印度的数据驻留选项和零保留模式。该模型可以通过 ElevenLabs 的 API 或在 ElevenLabs Agent 中使用，企业计划支持 30 个或更多并发会话。
-查看有关 AlternativeTo 的文章更多信息ElevenLabs | ElevenLabs 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/elevenlabs-launches-scribe-v2-realtime-its-latest-ultra-low-latency-speech-to-text-model/</guid>
-      <pubDate>Tue, 11 Nov 2025 20:51:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fish 4.2 添加了多行自动建议、默认 UTF-8 和选项卡标题控制</title>
-      <link>https://alternativeto.net/news/2025/11/fish-4-2-adds-multi-line-autosuggestions-default-utf-8-and-tab-title-control/</link>
-      <description><![CDATA[fish shell 替代品已发布版本 4.2，引入了对基于历史记录的自动建议的多行支持，让用户可以回忆并接受历史记录中的完整多行命令。可以使用右箭头键或 Ctrl+F 确认建议，而 Alt+右箭头仅接受第一个单词。
-UTF-8 现在是默认编码，即使系统区域设置未设置为 UTF-8，也提高了兼容性。旧文件路径仍然有效，但可能会有所不同。新的 fish_tab_title 函数允许用户独立于主窗口设置选项卡标题，并且现在默认为独立构建模式，直接嵌入辅助函数以避免更新后 shell 损坏。 shell 现在需要 Rust 1.85 或更高版本，继续从版本 4.0 开始的现代化。
-鼠标捕获已重新启用，允许在支持的终端中移动光标并完成选择。该更新还修复了多个问题，包括无效函数命令导致的崩溃、Linux 上的负 PID 处理、VTE 终端上的重绘故障、MSYS2 变量保存问题以及基于 Web 的配置工具中的 Python 3.9 兼容性。
-查看有关 AlternativeTo 的文章更多信息鱼 | 鱼替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/fish-4-2-adds-multi-line-autosuggestions-default-utf-8-and-tab-title-control/</guid>
-      <pubDate>Tue, 11 Nov 2025 18:22:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
