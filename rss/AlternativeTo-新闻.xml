@@ -4,7 +4,112 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Fri, 14 Nov 2025 12:40:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Nov 2025 01:25:52 GMT</lastBuildDate>
+    <item>
+      <title>谷歌推出开发者验证，并为有经验的用户提供绕过它的选项</title>
+      <link>https://alternativeto.net/news/2025/11/google-rolls-out-developer-verification-with-an-option-for-experienced-users-to-bypass-it/</link>
+      <description><![CDATA[Google 已开始实施8 月份宣布的备受争议的 Android 开发者验证计划，该计划要求所有开发者在 Google Play 之外分发应用存储以验证其身份并注册其程序包名称（如果他们希望用户旁加载其应用程序）。最初的计划引起了开发者和用户的强烈反对，他们担心这会限制侧载，其中包括 F-Droid 的强烈批评。随着下一阶段的开始，Google 已开始向仅通过侧载发布的开发者发送早期访问邀请，以便他们可以在 Android 开发者控制台中测试新的身份验证系统。
+但更重要的是，Google 对其最初的方法进行了显着改变，为那些希望继续安装来自选择不参与的开发者的未经验证的应用的“有经验的用户”创建例外。该公司表示，它正在开发一种先进的安装流程，其中包括明确的风险警告和防诈骗保护，同时仍然允许这些用户故意绕过验证。 Google 尚未解释如何确定谁有资格成为“有经验的用户”，但它将在收集反馈时分享更多详细信息。
+Google 还为向小组分发应用且不需要全面验证的学生和爱好者准备了一种更简单的帐户类型。该验证计划将于 2026 年 3 月向所有开发者开放，并于 2026 年 9 月在巴西、印度尼西亚、新加坡和泰国开始实施。
+查看有关 AlternativeTo 的文章详细了解Android | Android 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/google-rolls-out-developer-verification-with-an-option-for-experienced-users-to-bypass-it/</guid>
+      <pubDate>Fri, 14 Nov 2025 23:44:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Homebrew 5.0 默认带来下载并发、Linux ARM64/AArch64 支持等</title>
+      <link>https://alternativeto.net/news/2025/11/homebrew-5-0-brings-download-concurrency-by-default-linux-arm64-aarch64-support-and-more/</link>
+      <description><![CDATA[包管理器Homebrew 5.0引入了对Linux ARM64/AArch64和最新macOS 26 Tahoe的官方平台支持，扩展了用户在新兴硬件上的兼容性。除了这些新增功能之外，该版本还默认为所有安装启用并发下载。此更改旨在加快软件包安装速度，同时用户还可以在设置中实时跟踪进度或恢复为单线程下载。
+随着平台和性能升级，Homebrew 对 macOS 用户实施了更严格的安全标准。没有代码签名的 Casks 现已被弃用，该团队已宣布从 2026 年 9 月开始禁用未通过 macOS Gatekeeper 检查的 casks。作为正在进行的安全路线图的一部分，macOS Intel 支持预计将被弃用，Homebrew 正在删除绕过 Gatekeeper 保护的行为。该项目还弃用了 --no-quarantine 和 --quarantine 标志，以阻止规避 macOS 安全功能。
+这些变化为提高后端性能奠定了基础，因为 Homebrew 现在提供了一个可选的、更小的内部 JSON API。用户可以在这个新 API 成为未来版本中的默认 API 之前尝试它。
+查看有关 AlternativeTo 的文章更多信息自制软件 | 自制软件替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/homebrew-5-0-brings-download-concurrency-by-default-linux-arm64-aarch64-support-and-more/</guid>
+      <pubDate>Fri, 14 Nov 2025 20:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Netflix 推出“游戏之夜”，可使用手机作为控制器玩电视，无需下载</title>
+      <link>https://alternativeto.net/news/2025/11/netflix-launches-game-night-for-tv-play-using-phones-as-controllers-no-downloads-required/</link>
+      <description><![CDATA[Netflix 开始在其游戏产品中探索新方法，引入Game Night，该功能允许订阅者使用手机作为控制器在电视上玩选定的游戏，与The Jackbox Party Pack游戏非常相似。它不需要额外费用，并且可以在兼容的设备和网络浏览器上运行，因此不需要本地下载。玩家首先在电视上选择游戏，然后用手机扫描二维码，手机就会变成控制器。
+初始目录包括《Boggle Party》、《Lego Party!》、《Pictionary: Game Night》、《Tetris Time Warp》和《Party Crashers: Fool Your Friends》。 Netflix 游戏总裁阿兰·塔斯坎 (Alain Tascan) 表示，我们的目标是让用户在同一个应用程序中从观看节目转向玩游戏，而无需单独下载。 Netflix 计划在整个假期期间添加更多影片。
+Netflix 还正在扩展其移动图书馆，其中包括《乐高得宝世界》、《芭比色彩创作》、《狗狗巡逻队学院》和《托卡博卡美发沙龙 4》等游戏，并计划添加《WWE 2K25：Netflix 版》等游戏以及意外推出的原版《红色》死亡救赎。其游戏业务的另一部分是 Netflix Puzzled，旨在提供轻型益智游戏平台的替代方案，例如 NY Times Games 或 Puzzmo 提供每日数独、填字游戏、单词搜索和谜题，主题围绕 Netflix 在 Android、iOS 和 Tudum 博客上的节目，其发布时间定于 11 月 26 日。该公司还在工作日测试 Best Guess Live在美国提供现金奖励的互动问答节目。
+查看有关 AlternativeTo 的文章更多信息Netflix | Netflix 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/netflix-launches-game-night-for-tv-play-using-phones-as-controllers-no-downloads-required/</guid>
+      <pubDate>Fri, 14 Nov 2025 17:14:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>X 开始每月为热门病毒帖子推出新的“Certified Bangers”徽章</title>
+      <link>https://alternativeto.net/news/2025/11/x-starts-rolling-out-a-new-certified-bangers-badges-for-top-viral-posts-each-month/</link>
+      <description><![CDATA[X 推出了Certified Bangers，这是一个每月徽章，突出显示平台上最具吸引力的个人帖子。该徽章会在创作者的用户名旁边显示一个月，并以 X 现有的创作者支出为基础，添加与高参与度相关的可见奖杯表情符号。
+只有个人帐户才有资格，并且帖子是通过真实的互动（例如经过验证的印象、点赞和回复）进行评估的。账户必须信誉良好，没有重复或严重违反政策的行为。符合条件的帖子必须是原创的，不能包含色情内容、广告、赞助材料、骚扰、误导性信息、令人不安的内容或暴力。该计划目前仅考虑用英语撰写的帖子。
+X 指出，尝试操纵指标的帐户将被排除。该功能的目的类似于 Instagram 的 Rings 奖项，后者也旨在以视觉方式表彰杰出的创作者贡献。
+查看有关 AlternativeTo 的文章更多信息X | X 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/x-starts-rolling-out-a-new-certified-bangers-badges-for-top-viral-posts-each-month/</guid>
+      <pubDate>Fri, 14 Nov 2025 16:59:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>VS Code 1.106 添加了 Agent HQ，提高了安全性和 AI 信任，并增强了编码体验</title>
+      <link>https://alternativeto.net/news/2025/11/vs-code-1-106-adds-agent-hq-improves-security-and-ai-trust-and-enhances-coding-experience/</link>
+      <description><![CDATA[Microsoft 发布了 Visual Studio Code 版本 1.106，其中 Agent HQ 是跨本地和远程环境管理、监控和审查代理会话的新中心。此功能与 GitHub Copilot 和 OpenAI Codex 等工具集成，为使用 AI 辅助的用户提供综合视图。
+除此之外，更新还增强了安全性和信任设置。这些改进使用户在将任务移交给人工智能时更容易保持控制，满足开发工作流程中安全委派日益增长的要求。 1.106 版本还包括多项增强功能，旨在改善日常代码编辑体验。这些升级的重点是让代码编写更加流畅，与编辑器的交互更加直观。
+对于 Apple 硬件上的用户，版本 1.106 将是支持 macOS 11.0 Big Sur 的最后一个版本。未来的更新将需要更新版本的操作系统。此次更新还修复了一系列错误，为广大 Visual Studio Code 用户群提高了稳定性和可靠性。
+查看有关 AlternativeTo 的文章更多关于 Visual Studio Code | Visual Studio Code 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/vs-code-1-106-adds-agent-hq-improves-security-and-ai-trust-and-enhances-coding-experience/</guid>
+      <pubDate>Fri, 14 Nov 2025 16:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Helm 4.0.0 发布，带有 wasm 插件系统和服务器端应用</title>
+      <link>https://alternativeto.net/news/2025/11/helm-4-0-0-released-with-wasm-plugin-system-and-server-side-apply/</link>
+      <description><![CDATA[Helm 4.0.0 已作为第一个稳定版本发布，引入了重新设计的插件系统，支持基于 Web Assembly 的插件和服务器端应用。此更新带来了多项工作流程更改，包括对 CLI 标志、输出和 SDK 的重大更新。
+Helm v4 保持对 apiVersion v2 图表的支持，但由于向后不兼容，建议用户测试安装。
+查看有关 AlternativeTo 的文章有关 Helm 的更多信息Kubernetes | Kubernetes 替代方案 Helm]]></description>
+      <guid>https://alternativeto.net/news/2025/11/helm-4-0-0-released-with-wasm-plugin-system-and-server-side-apply/</guid>
+      <pubDate>Fri, 14 Nov 2025 16:35:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>NinjaOne 11.0 添加了操作系统部署、Intune 集成和 Entra Backup</title>
+      <link>https://alternativeto.net/news/2025/11/ninjaone-11-0-adds-os-deployment-intune-integration-and-entra-backup/</link>
+      <description><![CDATA[NinjaOne 11.0 引入了广泛的改进来简化 IT 管理。该版本增加了操作系统部署，让 IT 团队可以使用标准化映像和自动化配置快速加入和恢复设备。新的 Microsoft Intune 集成可实现对所有端点的统一管理以及从 Intune 的直接代理部署。
+此外，Entra Backup 和 Bring Your Own Dropsuite 为 Microsoft Entra ID 和现有 Dropsuite 用户提供扩展保护，增强身份和 SaaS 数据安全性。
+查看有关 AlternativeTo 的文章更多信息NinjaOne | NinjaOne 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/ninjaone-11-0-adds-os-deployment-intune-integration-and-entra-backup/</guid>
+      <pubDate>Fri, 14 Nov 2025 16:32:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android 推出新的唤醒锁指标以减少电池消耗</title>
+      <link>https://alternativeto.net/news/2025/11/android-launches-new-wake-lock-metric-to-reduce-battery-drain/</link>
+      <description><![CDATA[Android 在 Android Vitals 中引入了改进的过度部分唤醒锁定指标，以帮助开发者减少电池消耗。自 2026 年 3 月 1 日起，持续超过新唤醒锁阈值的应用可能会在 Google Play 上失去可见性，或向用户显示电池耗尽警告。
+开发人员现在可以使用详细的唤醒锁名称表来帮助更新的重要仪表板中的调试和优化。
+查看有关 AlternativeTo 的文章有关 Android 的更多信息| Android 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/android-launches-new-wake-lock-metric-to-reduce-battery-drain/</guid>
+      <pubDate>Fri, 14 Nov 2025 16:04:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>F# 10 添加了 #warnon、属性访问器控制和 struct ValueOption</title>
+      <link>https://alternativeto.net/news/2025/11/f-10-adds-warnon-property-accessor-control-and-struct-valueoption/</link>
+      <description><![CDATA[F# 是 .NET 的编程语言，新版本 10 改进了语言、核心库和工具，并提高了清晰度和性能。它引入了 #warnon 指令，使开发人员能够对特定代码部分中的警告抑制进行精细控制。
+该版本还允许属性 getter 和 setter 使用不同的访问修饰符，从而简化了封装。可选参数现在可以使用基于结构的 ValueOption，减少堆分配并提高内存性能。
+查看有关 AlternativeTo 的文章有关 F#（编程）的更多信息语言） | F#（编程语言）替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/f-10-adds-warnon-property-accessor-control-and-struct-valueoption/</guid>
+      <pubDate>Fri, 14 Nov 2025 15:51:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>LibreOffice 25.8.3 发布，适用于 Windows、MacOS 和 Linux</title>
+      <link>https://alternativeto.net/news/2025/11/libreoffice-25-8-3-released-for-windows-macos-and-linux/</link>
+      <description><![CDATA[LibreOffice 25.8.3 是免费办公套件的最新更新，现已适用于 Windows、MacOS 和 Linux。该版本基于 LibreOffice 技术构建，并提供对 ODF 和 Microsoft OOXML 文件格式的全面支持。版本还适用于 ChromeOS、Android、iOS 和云平台。
+对于大规模部署，文档基金会建议使用提供附加功能、SLA 和长期安全支持的企业优化版本。
+查看有关 AlternativeTo 的文章有关 LibreOffice 的更多信息 | LibreOffice 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/libreoffice-25-8-3-released-for-windows-macos-and-linux/</guid>
+      <pubDate>Fri, 14 Nov 2025 15:31:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Flutter 3.38 & Dart 3.10 发布，附带 GenUI、新语言功能和 Gemini AI 工具</title>
+      <link>https://alternativeto.net/news/2025/11/flutter-3-38-and-dart-3-10-released-with-genui-new-language-features-and-gemini-ai-tools/</link>
+      <description><![CDATA[Google 发布了 Flutter 3.38 和 Dart 3.10，为开发者在 iOS、Android、Web 和桌面平台上构建原生界面带来了重大改进。最突出的补充是 Flutter GenUI SDK，它支持自动适应用户意图的动态界面。对于希望添加高级 AI 功能的团队来说，新的示例应用将 Firebase AI 逻辑与多模式内容生成和 Gemini 对话式 API 集成相结合，为实验提供了实用的切入点。
+除了这些功能之外，Gemini CLI 现在还支持多平台应用程序构建。 Dart 3.10 引入了用于更快代码的点简写、用于编译本机代码或在包中捆绑资产的稳定构建挂钩、用于自定义规则和 IDE 修复的改进的分析器插件系统，以及有针对性的弃用注释。
+在框架方面，Flutter 3.38进一步完善了平台集成和开发者工具。 Web 开发人员获得 flutter run 配置文件、代理支持和热重载。持续的 UI 改进增强了 OverlayPortal 并统一了导航手势，而 Material 和 Cupertino 设计也得到了持续的完善。 iOS 支持扩展到 Xcode 26 并提供迁移指南，而 Android 更新包括 NDK r28 支持、内存泄漏修复和 Java 17。开发人员工具通过新小部件接收小部件预览器增强功能和可访问性改进。社区贡献添加了 Windows 显示支持、UI 构造函数、手势改进和各种修复。
+查看有关 AlternativeTo 的文章更多信息Flutter | Flutter 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/flutter-3-38-and-dart-3-10-released-with-genui-new-language-features-and-gemini-ai-tools/</guid>
+      <pubDate>Fri, 14 Nov 2025 13:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>Immutable Linux 发行版 Nitrux 5.0 为 Hyprland 放弃 KDE Plasma 并带来 Linux 6.17 内核</title>
       <link>https://alternativeto.net/news/2025/11/immutable-linux-distro-nitrux-5-0-drops-kde-plasma-for-hyprland-and-brings-linux-6-17-kernel/</link>
@@ -21,7 +126,7 @@
       <description><![CDATA[虚幻引擎 5.7 推出了可用于生产的程序内容生成 (PCG) 框架，可加快基于规则的世界构建、实时预览和 GPU 驱动的工作流程。 PCG 编辑器模式添加了链接到 PCG 图形的样条线、绘画和体积工具，而新的 Polygon2D 数据类型扩展了创建者定义区域和生成样条线的方式。此更新还包括编辑器内的 AI 助手，可帮助您在不离开工作区的情况下导航工具、生成代码和回答技术问题。
 实验性的程序植被编辑器(PVE)对植被和环境创建进行了重大升级，该编辑器可与 Nanite 骨骼组件和新的 Quixel Megaplants 套件配合使用。 Nanite Foliage 作为高性能渲染系统首次亮相，使用 Nanite 体素、组件和蒙皮来处理茂密的植被，而无需明显的 LOD 过渡。 Substrate 已做好生产准备，为分层和混合表面提供灵活的材质系统，并且 MegaLights 进入测试版，支持更加动态的灯光并改进了效果半透明、头发和粒子阴影。
 MetaHuman 工作流程通过 Linux 和 macOS 插件支持、通过 Python 或蓝图进行批处理、网格符合选项以及移动设备的实时面部捕捉进行扩展。动画工具获得了重构的动画模式、更好的重定向和更新的雕刻功能，而虚拟制作则受益于新的道具约束、更广泛的 Live Link 广播和彻底检修的 Composure 系统。该版本还引入了虚幻编辑器主页面板，用于快速访问文档、教程、社区资源和示例项目。
-查看有关 AlternativeTo 的文章有关 Unreal 的更多信息引擎 | 虚幻引擎替代品]]></description>
+查看有关 AlternativeTo 的文章有关 Unreal 的更多信息引擎 | 虚幻引擎替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/11/unreal-engine-5-7-adds-procedural-content-generation-nanite-foliage-and-metahuman-updates/</guid>
       <pubDate>Thu, 13 Nov 2025 22:53:22 GMT</pubDate>
     </item>
@@ -31,7 +136,7 @@ MetaHuman 工作流程通过 Linux 和 macOS 插件支持、通过 Python 或蓝
       <description><![CDATA[OpenAI 推出了 GPT 5.1 作为付费 ChatGPT 用户的新默认模型，带来了两种变体：Instant 和 Thinking。 Instant 专注于以“更温暖”的方式进行更快的指令。更具对话性的个性，再加上自适应推理，可以让它决定何时需要对复杂问题进行更深入的思考。
 思维变体提高了高级推理能力，更快地解决简单任务，并保持对复杂任务的关注。现在它使用更简单的语言，并采用更温暖、更有同理心的语气。新的自动模式根据任务将提示路由到即时或思考。个性化现在还包括新的语气选项，例如专业、坦率和古怪，以及对默认、友好和高效设置的更新。如果 ChatGPT 检测到对不同风格的重复请求，它还可能会建议调整您的语气。
 GPT 5.1 首先向 Pro、Plus、Go 和 Business 用户推出，随后将提供免费帐户，GPT 5 模型将在旧版下拉列表中保留三个月，以便用户可以按照自己的节奏进行比较和过渡。由于这些更新是逐步发布的，可用性可能会有所不同。
-查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代方案]]></description>
+查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/11/openai-launches-gpt-5-1-models-with-faster--warmer-and-more-conversational-variants/</guid>
       <pubDate>Thu, 13 Nov 2025 22:34:03 GMT</pubDate>
     </item>
@@ -44,110 +149,6 @@ GPT 5.1 首先向 Pro、Plus、Go 和 Business 用户推出，随后将提供免
 查看有关 AlternativeTo 的文章更多信息ElevenLabs | ElevenLabs 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/11/elevenlabs-launches-a-new-iconic-marketplace-for-licensing-ai-generated-celebrity-voices/</guid>
       <pubDate>Thu, 13 Nov 2025 20:16:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spotify 推出有声读物回顾，提供量身定制的音频摘要以重新吸引听众</title>
-      <link>https://alternativeto.net/news/2025/11/spotify-debuts-audiobook-recaps-offering-tailored-audio-summaries-to-reengage-listeners/</link>
-      <description><![CDATA[Spotify 正在推出有声读物重述，该功能可根据每个听众在故事中的最后位置提供简短的音频摘要。这些回顾旨在帮助听众在忙碌的一周后、在会议期间打瞌睡或在继续收听之前需要快速复习时重新阅读他们可能暂停的有声读物。
-与完整摘要不同，重述仅涵盖书中已播放的部分，其功能类似于电视中的“先前播放”片段。这种方法确保用户可以赶上内容，而无需重新访问内容或遇到剧透。 Spotify 强调，重述旨在减少摩擦、简化聆听体验并鼓励无缝沉浸。
-虽然该功能在收听 15 至 20 分钟后激活，并随着用户进度定期更新，但 Spotify 非常谨慎地解决有关内容权利的担忧。 Recaps 利用人工智能，但 Spotify 不使用有声读物内容进行大型语言模型训练或语音生成。新的摘要避免重复原始旁白，并且不会取代主要有声读物。
-此功能在发布时在 iOS 上以测试版形式提供，适用于精选的英语游戏，并计划在未来提供更广泛的可用性。
-查看有关 AlternativeTo 的文章更多信息Spotify | Spotify 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/spotify-debuts-audiobook-recaps-offering-tailored-audio-summaries-to-reengage-listeners/</guid>
-      <pubDate>Thu, 13 Nov 2025 19:23:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>ForkLift 4.4.4 带来了 macOS 上的预览修复、新的侧边栏操作和视觉增强</title>
-      <link>https://alternativeto.net/news/2025/11/forklift-4-4-4-brings-preview-fixes-new-sidebar-actions-and-visual-enhancements-on-macos/</link>
-      <description><![CDATA[ForkLift 4.4.4 发布了多项关键修复和可用性改进，方便 macOS 用户使用此高级双窗格文件管理器管理文件。最新更新解决了一个值得注意的问题，即在文件之间导航时预览窗格的信息部分并不总是刷新。在此版本中，预览窗格中显示的信息不断更新，从而改善了浏览体验。
-除了预览可靠性之外，此更新还解决了多个 macOS 特定的视觉问题。用户在全屏使用期间将不再遇到黑色区域，并且之前在较新的 macOS 版本上预览窗格可见时阻止窗口调整大小的问题现已解决。除了这些界面修正之外，同步工作流程也得到了改进，因为同步现在可以在第一次尝试时可靠地启动，而不需要重复操作。
-此外，侧边栏中的辅助点击行为现在可以按预期工作；支持选项单击和控制单击，使文件夹管理更加直观。喜欢鼠标导航的用户现在可以通过双击直接从“显示设备”、“快速打开设备”和“转到文件夹”弹出窗口中打开项目。最后，该版本包含了一系列额外的小错误修复，以支持整体可用性和稳定性。
-查看有关 AlternativeTo 的文章有关更多信息叉车 | 叉车替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/forklift-4-4-4-brings-preview-fixes-new-sidebar-actions-and-visual-enhancements-on-macos/</guid>
-      <pubDate>Thu, 13 Nov 2025 18:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Facebook 将在 2026 年 2 月之前停止其外部点赞和评论社交插件</title>
-      <link>https://alternativeto.net/news/2025/11/facebook-will-discontinue-its-external-like-and-comment-social-plugins-by-february-2026/</link>
-      <description><![CDATA[Meta 宣布将于 2026 年 2 月 10 日起停止使用两个 Facebook 社交插件 - Facebook 点赞按钮和 Facebook 评论按钮。这些工具允许用户使用其 Facebook 个人资料在外部网站上点赞和评论内容。 Meta 解释说，此举符合其支持现代高效平台、同时关注未来创新的目标。该公司指出，这些插件代表了网络开发的早期时代，随着数字环境的变化，它们的使用量正在稳步下降。
-关闭后，两个插件都将渲染为 0×0 像素元素。这种转变确保现有网站不会遇到错误或功能损坏，因为插件只会变得不可见，而不是中断网站运营。尽管网站所有者或开发人员不需要立即采取行动，但 Meta 建议那些优先考虑代码清洁度的人可以选择删除插件代码。这仍然是可选的，可以在 2026 年 2 月 10 日之前或之后的任何时间完成。
-查看有关 AlternativeTo 的文章更多信息Facebook | Facebook 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/facebook-will-discontinue-its-external-like-and-comment-social-plugins-by-february-2026/</guid>
-      <pubDate>Thu, 13 Nov 2025 16:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Raycast for iOS 1.1.3 推出 90 种语言的更快听写功能</title>
-      <link>https://alternativeto.net/news/2025/11/raycast-for-ios-1-1-3-rolls-out-faster-dictation-in-90-languages/</link>
-      <description><![CDATA[Raycast for iOS 版本 1.1.3 带来更快、更可靠的听写，由 ElevenLabs 的 Scribe v2 实时模型提供支持。用户现在可以通过键盘、AI 聊天或通过 Notes 以 90 多种语言进行听写。
-此更新还解决了登录稳定性问题，并修复了 AI 聊天标题和快速链接的语言准确性问题。
-查看有关 AlternativeTo 的文章更多信息Raycast | Raycast 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/raycast-for-ios-1-1-3-rolls-out-faster-dictation-in-90-languages/</guid>
-      <pubDate>Thu, 13 Nov 2025 15:59:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Discord 引入了用于共享游戏和活动的个人资料小部件</title>
-      <link>https://alternativeto.net/news/2025/11/discord-introduces-profile-widgets-for-sharing-games-and-activities/</link>
-      <description><![CDATA[Discord 正在其桌面应用程序中推出个人资料小部件，让用户可以分享他们正在玩的游戏、接下来要玩的游戏、他们最常玩的游戏以及他们最喜欢的游戏。用户还可以为每款游戏添加标签和简短评论，提供更加个性化和互动的游戏档案体验。
-查看有关 AlternativeTo 的文章更多关于Discord | Discord 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/discord-introduces-profile-widgets-for-sharing-games-and-activities/</guid>
-      <pubDate>Thu, 13 Nov 2025 15:52:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>FLORA 推出创意合作伙伴计划以供订阅推荐</title>
-      <link>https://alternativeto.net/news/2025/11/flora-launches-creative-partner-program-for-subscription-referrals/</link>
-      <description><![CDATA[FLORA 宣布了一项创意合作伙伴计划，使创作者能够为他们推荐的每个新订阅者赚取收入分成。该计划向那些有兴趣将 FLORA 引入世界各地的工作室、学校和机构的人士开放。
-查看有关 AlternativeTo 的文章有关 FLORA 的更多信息 | FLORA 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/flora-launches-creative-partner-program-for-subscription-referrals/</guid>
-      <pubDate>Thu, 13 Nov 2025 15:47:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple Invites 应用程序增加了成人和儿童的宾客计数功能</title>
-      <link>https://alternativeto.net/news/2025/11/apple-invites-app-adds-guest-count-feature-for-adults-and-kids/</link>
-      <description><![CDATA[最新的 iPhone 版 Apple Invites 应用程序更新可让客人指示他们将带多少成人和儿童参加活动，从而为主持人提供更准确的与会者信息。
-该版本还包括错误修复和性能增强。
-查看有关 AlternativeTo 的文章有关 Apple 的更多信息邀请 | Apple 邀请替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/apple-invites-app-adds-guest-count-feature-for-adults-and-kids/</guid>
-      <pubDate>Thu, 13 Nov 2025 15:42:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mobbin 引入动画和新的过滤器选项</title>
-      <link>https://alternativeto.net/news/2025/11/mobbin-introduces-animations-and-new-filter-options/</link>
-      <description><![CDATA[Mobbin 现在可以将带有运动的应用屏幕捕获为短视频，允许用户观看动画而不是静态图像。用户还可以过滤搜索以查找具有动画的屏幕并调整其视频自动播放首选项。
-如果电子邮件域匹配，团队可以通过链接邀请成员或加入公司工作区。
-查看有关 AlternativeTo 的文章有关 Mobbin 的更多信息 | Mobbin 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/mobbin-introduces-animations-and-new-filter-options/</guid>
-      <pubDate>Thu, 13 Nov 2025 15:38:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tails 7.2 带来了 Tor 浏览器 15.0、Linux 6.12 LTS 内核、隐私升级等</title>
-      <link>https://alternativeto.net/news/2025/11/tails-7-2-brings-tor-browser-15-0-linux-6-12-lts-kernel-privacy-upgrades-and-more/</link>
-      <description><![CDATA[Tails 7.2 现已推出，在这款便携式操作系统中提供了多项注重隐私的改进，旨在保护用户免受监视和审查。此版本将 Tor 浏览器更新至版本 15.0.1，该版本基于 Firefox 140 基础构建。使用多个选项卡的用户将受益于新功能，例如垂直选项卡、选项卡分组以及带有增强搜索选项的重新设计的地址栏，使浏览更加有组织和高效。
-除了浏览器增强功能之外，Tails 7.2 还集成了 Linux 6.12.57 LTS 内核，提供最新的安全修复和硬件兼容性。捆绑的 Thunderbird 电子邮件客户端也已更新至版本 140.4.0。在这些核心更新之后，Tails 通过禁用 Thunderbird 之前与 Mozilla 建立的所有遥测连接来改善其隐私状况，从而最大限度地降低意外数据泄露的风险。
-对于高级用户，更新更改了 root 访问的管理方式。 根控制台已被删除。现在，管理会话需要通过在终端中运行 sudo -i 命令来手动调用。此举旨在简化高级用户的访问，同时保持安全性。
-查看有关 AlternativeTo 的文章更多信息尾部 | 尾部替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/tails-7-2-brings-tor-browser-15-0-linux-6-12-lts-kernel-privacy-upgrades-and-more/</guid>
-      <pubDate>Thu, 13 Nov 2025 15:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vivaldi 7.7 带来了跨设备选项卡访问、统一起始页和性能控制</title>
-      <link>https://alternativeto.net/news/2025/11/vivaldi-7-7-brings-cross-device-tab-access-unified-start-page-and-performance-controls/</link>
-      <description><![CDATA[Vivaldi 7.7 为依赖多个设备的用户带来了重大改进。现在，可以通过窗口面板或选项卡菜单直接访问其他桌面的选项卡。当您从其他设备打开选项卡时，整个窗口都会保持其结构，包括选项卡堆栈和工作区排列。
-在此基础上，开始页面经过重新设计，具有统一的体验。天气、RSS 源和邮件预览等小部件现在与快速拨号并排，创建个人仪表板视图，提供实时信息并快速访问喜爱的网站，一目了然。
-除了这些工作流程更改之外，隐私仪表板还采用了更简洁的新布局。此设计阐明了浏览器采取哪些步骤来帮助保护用户的数据。设置菜单通过引入专用性能部分增加了另一层控制，为专注于资源管理的用户提供节省内存的选项。
-经过这些改进，邮件面板现在为使用 Vivaldi 集成邮件客户端 的用户提供了改进的可读性和可用性。关于页面也进行了现代化的重新设计，现在可以更流畅地处理浏览器更新。
-查看有关 AlternativeTo 的文章更多信息维瓦尔第 | 维瓦尔第替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/vivaldi-7-7-brings-cross-device-tab-access-unified-start-page-and-performance-controls/</guid>
-      <pubDate>Thu, 13 Nov 2025 13:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>SparkyLinux 8.1 发布，更新了软件和桌面环境</title>
-      <link>https://alternativeto.net/news/2025/11/sparkylinux-8-1-released-with-updated-software-and-desktop-environments/</link>
-      <description><![CDATA[SparkyLinux 8.1 标志着“七姐妹”稳定系列的第一个季度更新，带来了基于 Debian 13“Trixie”构建的增强系统。这种核心一致性确保用户受益于 Debian 项目的持续兼容性、稳定性和上游改进。
-在此版本中，SparkyLinux 采用 Linux 6.12 长期支持 (LTS) 内核作为标准，同时还通过其存储库为需要不同内核版本的用户提供 Linux 6.17 和 6.6 LTS 变体。在这些基础性更改之后，截至 2025 年 11 月 10 日，所有系统软件包均已从 Debian 和 Sparky 存储库刷新到最新的稳定版本。
-在这些更新的基础上，用户将发现主要的软件增强功能：该版本包含用于提高办公效率的 LibreOffice 25.2.3、KDE Plasma 6.3.6、LXQt 2.1.0、MATE 1.26.0、Xfce 4.20 和 Openbox 3.6.1，提供了一系列现代软件和桌面环境。 Web 和通信需求通过 Firefox 140 扩展支持版本 (ESR) 作为标准（存储库中提供了版本 145）和 Thunderbird 140 ESR 来满足。
-查看有关 AlternativeTo 的文章更多信息SparkyLinux | SparkyLinux 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/sparkylinux-8-1-released-with-updated-software-and-desktop-environments/</guid>
-      <pubDate>Thu, 13 Nov 2025 10:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
