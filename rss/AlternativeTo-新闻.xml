@@ -4,7 +4,7 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sat, 15 Nov 2025 01:25:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Nov 2025 12:36:33 GMT</lastBuildDate>
     <item>
       <title>谷歌推出开发者验证，并为有经验的用户提供绕过它的选项</title>
       <link>https://alternativeto.net/news/2025/11/google-rolls-out-developer-verification-with-an-option-for-experienced-users-to-bypass-it/</link>
@@ -48,7 +48,7 @@ X 指出，尝试操纵指标的帐户将被排除。该功能的目的类似于
     <item>
       <title>VS Code 1.106 添加了 Agent HQ，提高了安全性和 AI 信任，并增强了编码体验</title>
       <link>https://alternativeto.net/news/2025/11/vs-code-1-106-adds-agent-hq-improves-security-and-ai-trust-and-enhances-coding-experience/</link>
-      <description><![CDATA[Microsoft 发布了 Visual Studio Code 版本 1.106，其中 Agent HQ 是跨本地和远程环境管理、监控和审查代理会话的新中心。此功能与 GitHub Copilot 和 OpenAI Codex 等工具集成，为使用 AI 辅助的用户提供综合视图。
+      <description><![CDATA[Microsoft 发布了 Visual Studio Code 版本 1.106，其中 Agent HQ 是跨本地和远程环境管理、监控和检查代理会话的新中心。此功能与 GitHub Copilot 和 OpenAI Codex 等工具集成，为使用 AI 辅助的用户提供综合视图。
 除此之外，更新还增强了安全性和信任设置。这些改进使用户在将任务移交给人工智能时更容易保持控制，满足开发工作流程中安全委派日益增长的要求。 1.106 版本还包括多项增强功能，旨在改善日常代码编辑体验。这些升级的重点是让代码编写更加流畅，与编辑器的交互更加直观。
 对于 Apple 硬件上的用户，版本 1.106 将是支持 macOS 11.0 Big Sur 的最后一个版本。未来的更新将需要更新版本的操作系统。此次更新还修复了一系列错误，为广大 Visual Studio Code 用户群提高了稳定性和可靠性。
 查看有关 AlternativeTo 的文章更多关于 Visual Studio Code | Visual Studio Code 替代方案]]></description>
@@ -126,7 +126,7 @@ Helm v4 保持对 apiVersion v2 图表的支持，但由于向后不兼容，建
       <description><![CDATA[虚幻引擎 5.7 推出了可用于生产的程序内容生成 (PCG) 框架，可加快基于规则的世界构建、实时预览和 GPU 驱动的工作流程。 PCG 编辑器模式添加了链接到 PCG 图形的样条线、绘画和体积工具，而新的 Polygon2D 数据类型扩展了创建者定义区域和生成样条线的方式。此更新还包括编辑器内的 AI 助手，可帮助您在不离开工作区的情况下导航工具、生成代码和回答技术问题。
 实验性的程序植被编辑器(PVE)对植被和环境创建进行了重大升级，该编辑器可与 Nanite 骨骼组件和新的 Quixel Megaplants 套件配合使用。 Nanite Foliage 作为高性能渲染系统首次亮相，使用 Nanite 体素、组件和蒙皮来处理茂密的植被，而无需明显的 LOD 过渡。 Substrate 已做好生产准备，为分层和混合表面提供灵活的材质系统，并且 MegaLights 进入测试版，支持更加动态的灯光并改进了效果半透明、头发和粒子阴影。
 MetaHuman 工作流程通过 Linux 和 macOS 插件支持、通过 Python 或蓝图进行批处理、网格符合选项以及移动设备的实时面部捕捉进行扩展。动画工具获得了重构的动画模式、更好的重定向和更新的雕刻功能，而虚拟制作则受益于新的道具约束、更广泛的 Live Link 广播和彻底检修的 Composure 系统。该版本还引入了虚幻编辑器主页面板，用于快速访问文档、教程、社区资源和示例项目。
-查看有关 AlternativeTo 的文章有关 Unreal 的更多信息引擎 | 虚幻引擎替代方案]]></description>
+查看有关 AlternativeTo 的文章有关 Unreal 的更多信息引擎 | 虚幻引擎替代品]]></description>
       <guid>https://alternativeto.net/news/2025/11/unreal-engine-5-7-adds-procedural-content-generation-nanite-foliage-and-metahuman-updates/</guid>
       <pubDate>Thu, 13 Nov 2025 22:53:22 GMT</pubDate>
     </item>
@@ -136,7 +136,7 @@ MetaHuman 工作流程通过 Linux 和 macOS 插件支持、通过 Python 或蓝
       <description><![CDATA[OpenAI 推出了 GPT 5.1 作为付费 ChatGPT 用户的新默认模型，带来了两种变体：Instant 和 Thinking。 Instant 专注于以“更温暖”的方式进行更快的指令。更具对话性的个性，再加上自适应推理，可以让它决定何时需要对复杂问题进行更深入的思考。
 思维变体提高了高级推理能力，更快地解决简单任务，并保持对复杂任务的关注。现在它使用更简单的语言，并采用更温暖、更有同理心的语气。新的自动模式根据任务将提示路由到即时或思考。个性化现在还包括新的语气选项，例如专业、坦率和古怪，以及对默认、友好和高效设置的更新。如果 ChatGPT 检测到对不同风格的重复请求，它还可能会建议调整您的语气。
 GPT 5.1 首先向 Pro、Plus、Go 和 Business 用户推出，随后将提供免费帐户，GPT 5 模型将在旧版下拉列表中保留三个月，以便用户可以按照自己的节奏进行比较和过渡。由于这些更新是逐步发布的，可用性可能会有所不同。
-查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代品]]></description>
+查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/11/openai-launches-gpt-5-1-models-with-faster--warmer-and-more-conversational-variants/</guid>
       <pubDate>Thu, 13 Nov 2025 22:34:03 GMT</pubDate>
     </item>
