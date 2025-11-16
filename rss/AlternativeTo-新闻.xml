@@ -4,7 +4,48 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sat, 15 Nov 2025 12:36:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Nov 2025 01:41:32 GMT</lastBuildDate>
+    <item>
+      <title>谷歌重新推出 Cameyo 虚拟化工具，用于 ChromeOS 上的流式传输旧 Windows 应用程序</title>
+      <link>https://alternativeto.net/news/2025/11/google-relaunches-cameyo-virtualization-tool-for-streamed-legacy-windows-apps-on-chromeos/</link>
+      <description><![CDATA[Google 在 2023 年收购该平台后，以 Cameyo by Google 的名称重新推出了 Cameyo。该服务可让组织直接在 Windows 或 Linux 应用程序中运行旧版应用程序href=&quot;https://feed.alternativeto.net/software/google-chrome/about/&quot;&gt;Google Chrome 或作为网络应用程序，无需虚拟化完整桌面，仅传输所需的特定应用程序。这样，Microsoft Excel 和 Autodesk AutoCAD 等 Windows 工具就可以在同一工作流程中与 Chrome 和其他网络应用一起运行。
+Cameyo by Google 面向希望在不失去对基本 Windows 软件访问权限的情况下过渡到 ChromeOS 的 Windows 组织。该方法减少了对 Microsoft 操作系统的依赖，并支持在企业环境中更广泛地采用 Chromebook 和 ChromeOS。
+该平台与 Chrome Enterprise 集成，还将为旧版应用带来 Google Gemini AI 功能，让它们能够总结文档、从视频中提取信息以及使用选项卡上下文来协助完成任务，从而将这些功能扩展到以前需要在 Windows 上运行的旧版 Windows 程序。
+查看有关 AlternativeTo 的文章有关 Cameyo 的更多信息Google | Cameyo by Google Alternatives]]></description>
+      <guid>https://alternativeto.net/news/2025/11/google-relaunches-cameyo-virtualization-tool-for-streamed-legacy-windows-apps-on-chromeos/</guid>
+      <pubDate>Sat, 15 Nov 2025 16:18:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>1Password 为 Mac 和 Windows 添加了基于设备的解锁和新的安全预设</title>
+      <link>https://alternativeto.net/news/2025/11/1password-adds-device-based-unlock-and-new-security-presets-for-mac-and-windows/</link>
+      <description><![CDATA[1Password 现在为 Mac 和 Windows 提供基于设备的解锁选项，允许应用通过系统的身份验证方法（包括面容 ID、触摸 ID、PIN 或密码）自动打开。该功能是可选的，可减少用户短暂休息后返回时的重复身份验证，同时依靠设备的硬件进行身份验证。
+此更新还添加了三个安全预设，用于控制应用锁定的频率，并在每台设备上单独管理设置。新的安全审查提示解释了这些选项，并可能建议在用户无法访问其密码或受信任设备时创建恢复代码作为备份。
+移动版本已经支持基于设备的解锁，但只能在上次使用后十分钟内自动重新打开。新功能首先向个人和家庭帐户推出，而商业和企业客户稍后将通过需要管理员批准的单独更新来接收它们。
+查看有关 AlternativeTo 的文章更多信息1Password | 1Password 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/1password-adds-device-based-unlock-and-new-security-presets-for-mac-and-windows/</guid>
+      <pubDate>Sat, 15 Nov 2025 16:01:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple 推出数字 ID 功能，可在 iPhone 和 Apple Watch 上存储护照</title>
+      <link>https://alternativeto.net/news/2025/11/apple-launches-digital-id-feature-for-storing-passports-on-iphone-and-apple-watch/</link>
+      <description><![CDATA[Apple 推出了一项新的数字 ID 功能，让用户可以使用美国护照在 Apple Wallet 中创建并存储政府颁发的 ID。要进行设置，用户扫描护照的照片页和嵌入式芯片，然后通过头部动作完成自拍照以验证自己的身份。
+美国 250 多个机场的 TSA 检查站将首先接受数字身份证，用于国内旅行。 Apple 已在 12 个州和波多黎各支持数字驾照，这一新选项适用于那些州不提供移动驾照或没有真实 ID 的人。
+数字身份证可以与 iPhone 或 Apple Watch 一起出示，但不能替代实体护照或用于国际旅行。用户双击侧面或主页按钮，选择 ID，并将设备靠近身份读取器，无需解锁或交出设备。该系统是加密的，苹果表示，随着时间的推移，支持将扩展到更多的企业和组织。
+查看有关 AlternativeTo 的文章有关 Apple 的更多信息钱包 | Apple 钱包替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/apple-launches-digital-id-feature-for-storing-passports-on-iphone-and-apple-watch/</guid>
+      <pubDate>Sat, 15 Nov 2025 15:47:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mozilla 在 Firefox 中引入 AI Window，让用户掌控 AI 浏览</title>
+      <link>https://alternativeto.net/news/2025/11/mozilla-introduces-ai-window-in-firefox-putting-users-in-control-of-ai-browsing/</link>
+      <description><![CDATA[Mozilla 在 Firefox 中引入了 AI Window，该功能允许用户直接在浏览器中与 AI 助手交互。该空间在浏览时提供实时帮助，但完全在用户控制之下 - 参与是严格选择加入的，并且可以根据个人喜好随时禁用该功能。
+虽然 Mozilla 的举动为 Firefox 增加了高级功能，但它有意避免将用户锁定在单一的人工智能生态系统中。与一些需要永久致力于人工智能功能的人工智能驱动的浏览器不同，Firefox 让用户决定何时、如何或是否使用人工智能。这种方法为浏览器的用户群保留了灵活性和自主权。
+AI Window 建立在 Firefox 对可自定义浏览和隐私浏览的既定支持的基础上，增加了另一层选择。用户可以像以前一样继续使用经典或私人模式，或者如果他们想要更具互动性和个性化的网络体验，则启用 AI Window。
+为了支持此次发布，Mozilla 重申了其对透明度、问责制和用户代理的承诺，这些核心原则旨在随着人工智能更广泛地融入日常浏览中，维持一个自由、开放和可访问的网络。
+查看有关 AlternativeTo 的文章有关 Mozilla 的更多信息Firefox | Mozilla Firefox 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/mozilla-introduces-ai-window-in-firefox-putting-users-in-control-of-ai-browsing/</guid>
+      <pubDate>Sat, 15 Nov 2025 12:05:00 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌推出开发者验证，并为有经验的用户提供绕过它的选项</title>
       <link>https://alternativeto.net/news/2025/11/google-rolls-out-developer-verification-with-an-option-for-experienced-users-to-bypass-it/</link>
@@ -48,7 +89,7 @@ X 指出，尝试操纵指标的帐户将被排除。该功能的目的类似于
     <item>
       <title>VS Code 1.106 添加了 Agent HQ，提高了安全性和 AI 信任，并增强了编码体验</title>
       <link>https://alternativeto.net/news/2025/11/vs-code-1-106-adds-agent-hq-improves-security-and-ai-trust-and-enhances-coding-experience/</link>
-      <description><![CDATA[Microsoft 发布了 Visual Studio Code 版本 1.106，其中 Agent HQ 是跨本地和远程环境管理、监控和检查代理会话的新中心。此功能与 GitHub Copilot 和 OpenAI Codex 等工具集成，为使用 AI 辅助的用户提供综合视图。
+      <description><![CDATA[Microsoft 发布了 Visual Studio Code 版本 1.106，其中 Agent HQ 是跨本地和远程环境管理、监控和审查代理会话的新中心。此功能与 GitHub Copilot 和 OpenAI Codex 等工具集成，为使用 AI 辅助的用户提供综合视图。
 除此之外，更新还增强了安全性和信任设置。这些改进使用户在将任务移交给人工智能时更容易保持控制，满足开发工作流程中安全委派日益增长的要求。 1.106 版本还包括多项增强功能，旨在改善日常代码编辑体验。这些升级的重点是让代码编写更加流畅，与编辑器的交互更加直观。
 对于 Apple 硬件上的用户，版本 1.106 将是支持 macOS 11.0 Big Sur 的最后一个版本。未来的更新将需要更新版本的操作系统。此次更新还修复了一系列错误，为广大 Visual Studio Code 用户群提高了稳定性和可靠性。
 查看有关 AlternativeTo 的文章更多关于 Visual Studio Code | Visual Studio Code 替代方案]]></description>
@@ -109,46 +150,6 @@ Helm v4 保持对 apiVersion v2 图表的支持，但由于向后不兼容，建
 查看有关 AlternativeTo 的文章更多信息Flutter | Flutter 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/11/flutter-3-38-and-dart-3-10-released-with-genui-new-language-features-and-gemini-ai-tools/</guid>
       <pubDate>Fri, 14 Nov 2025 13:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Immutable Linux 发行版 Nitrux 5.0 为 Hyprland 放弃 KDE Plasma 并带来 Linux 6.17 内核</title>
-      <link>https://alternativeto.net/news/2025/11/immutable-linux-distro-nitrux-5-0-drops-kde-plasma-for-hyprland-and-brings-linux-6-17-kernel/</link>
-      <description><![CDATA[Nitrux 5.0，一个无 systemd 且不可变的 Linux 发行版，已随 Linux 6.17.7 内核。虽然之前的版本采用 KDE Plasma 桌面，但此版本标志着向 Hyprland 作为默认环境的过渡，影响用户与系统日常交互的方式。
-基于可靠性愿景，Nitrux 5.0 使用 NX Overlayroot 强制实施不可变的根文件系统。新的 Nitrux 更新工具系统对此结构进行了补充，旨在使系统更新更加直接，同时又不牺牲稳定性。除了这些架构举措之外，该发行版还引入了 NX AppHub 和 AppBoxes。这些新增功能可实现以用户为中心的无根应用程序管理，并附带 Flatpak 和 Distrobox 支持。
-随着用户环境的转变，工作区以 Hyprland 为中心，通过 Waybar 以熟悉的布局进行增强，并与 Crystal Dock 集成。 OpenRC 现已全面采用，并且已删除遗留实现以简化后端。用户还可以受益于更新的软件包集，例如 Pipewire 1.4.8、OpenRC 0.63、NetworkManager 1.52.1 等。常规增强、错误修复、代码删除和一些弃用进一步完善了此版本。
-查看有关 AlternativeTo 的文章有关 Nitrux 操作系统的更多信息 | Nitrux 操作系统替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/immutable-linux-distro-nitrux-5-0-drops-kde-plasma-for-hyprland-and-brings-linux-6-17-kernel/</guid>
-      <pubDate>Fri, 14 Nov 2025 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>虚幻引擎 5.7 添加了程序内容生成、Nanite Foliage 和 MetaHuman 更新</title>
-      <link>https://alternativeto.net/news/2025/11/unreal-engine-5-7-adds-procedural-content-generation-nanite-foliage-and-metahuman-updates/</link>
-      <description><![CDATA[虚幻引擎 5.7 推出了可用于生产的程序内容生成 (PCG) 框架，可加快基于规则的世界构建、实时预览和 GPU 驱动的工作流程。 PCG 编辑器模式添加了链接到 PCG 图形的样条线、绘画和体积工具，而新的 Polygon2D 数据类型扩展了创建者定义区域和生成样条线的方式。此更新还包括编辑器内的 AI 助手，可帮助您在不离开工作区的情况下导航工具、生成代码和回答技术问题。
-实验性的程序植被编辑器(PVE)对植被和环境创建进行了重大升级，该编辑器可与 Nanite 骨骼组件和新的 Quixel Megaplants 套件配合使用。 Nanite Foliage 作为高性能渲染系统首次亮相，使用 Nanite 体素、组件和蒙皮来处理茂密的植被，而无需明显的 LOD 过渡。 Substrate 已做好生产准备，为分层和混合表面提供灵活的材质系统，并且 MegaLights 进入测试版，支持更加动态的灯光并改进了效果半透明、头发和粒子阴影。
-MetaHuman 工作流程通过 Linux 和 macOS 插件支持、通过 Python 或蓝图进行批处理、网格符合选项以及移动设备的实时面部捕捉进行扩展。动画工具获得了重构的动画模式、更好的重定向和更新的雕刻功能，而虚拟制作则受益于新的道具约束、更广泛的 Live Link 广播和彻底检修的 Composure 系统。该版本还引入了虚幻编辑器主页面板，用于快速访问文档、教程、社区资源和示例项目。
-查看有关 AlternativeTo 的文章有关 Unreal 的更多信息引擎 | 虚幻引擎替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/unreal-engine-5-7-adds-procedural-content-generation-nanite-foliage-and-metahuman-updates/</guid>
-      <pubDate>Thu, 13 Nov 2025 22:53:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 推出 GPT 5.1 模型，具有更快、“更温暖”和更具对话性的变体</title>
-      <link>https://alternativeto.net/news/2025/11/openai-launches-gpt-5-1-models-with-faster--warmer-and-more-conversational-variants/</link>
-      <description><![CDATA[OpenAI 推出了 GPT 5.1 作为付费 ChatGPT 用户的新默认模型，带来了两种变体：Instant 和 Thinking。 Instant 专注于以“更温暖”的方式进行更快的指令。更具对话性的个性，再加上自适应推理，可以让它决定何时需要对复杂问题进行更深入的思考。
-思维变体提高了高级推理能力，更快地解决简单任务，并保持对复杂任务的关注。现在它使用更简单的语言，并采用更温暖、更有同理心的语气。新的自动模式根据任务将提示路由到即时或思考。个性化现在还包括新的语气选项，例如专业、坦率和古怪，以及对默认、友好和高效设置的更新。如果 ChatGPT 检测到对不同风格的重复请求，它还可能会建议调整您的语气。
-GPT 5.1 首先向 Pro、Plus、Go 和 Business 用户推出，随后将提供免费帐户，GPT 5 模型将在旧版下拉列表中保留三个月，以便用户可以按照自己的节奏进行比较和过渡。由于这些更新是逐步发布的，可用性可能会有所不同。
-查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/openai-launches-gpt-5-1-models-with-faster--warmer-and-more-conversational-variants/</guid>
-      <pubDate>Thu, 13 Nov 2025 22:34:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>ElevenLabs 推出新的“标志性市场”，用于授权人工智能生成的名人声音</title>
-      <link>https://alternativeto.net/news/2025/11/elevenlabs-launches-a-new-iconic-marketplace-for-licensing-ai-generated-celebrity-voices/</link>
-      <description><![CDATA[ElevenLabs 推出了新的“标志性市场”，这是一个新的中心，允许公司将人工智能生成的知名人物的声音授权用于广告和品牌内容。它使用基于同意的、表演者优先的模型，将企业与每种声音的权利持有者联系起来，而 ElevenLabs 则负责许可和合成。
-该市场仅限于经过验证的名人和知识产权所有者，涵盖通过现代克隆技术创建或根据档案录音重建声音的在世和历史人物。发布阵容包括 Liza Minnelli、Mark Twain、Thomas Edison 和 Alan Turing 等 28 位声音，并且还介绍了 Michael Caine 爵士，他是首批加入该项目的在世名人之一，他的声音在市场上都可以找到和 ElevenReader 应用程序。
-凯恩公开认可该项目，认为这是在支持新创作者的同时保留和分享声音的一种方式。 ElevenLabs 还指出，演员 Matthew McConaughey 既是该平台的投资者又是该平台的用户，利用其技术制作了他的时事通讯的西班牙语音频版本，并强调了与 CMG Worldwide 等机构的合作关系，以引入更多资产，并确保所有合作都遵循同意驱动和透明的许可型号。
-查看有关 AlternativeTo 的文章更多信息ElevenLabs | ElevenLabs 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/elevenlabs-launches-a-new-iconic-marketplace-for-licensing-ai-generated-celebrity-voices/</guid>
-      <pubDate>Thu, 13 Nov 2025 20:16:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
