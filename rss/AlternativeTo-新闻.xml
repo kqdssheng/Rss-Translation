@@ -4,7 +4,7 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sun, 16 Nov 2025 01:41:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Nov 2025 12:35:47 GMT</lastBuildDate>
     <item>
       <title>谷歌重新推出 Cameyo 虚拟化工具，用于 ChromeOS 上的流式传输旧 Windows 应用程序</title>
       <link>https://alternativeto.net/news/2025/11/google-relaunches-cameyo-virtualization-tool-for-streamed-legacy-windows-apps-on-chromeos/</link>
@@ -89,7 +89,7 @@ X 指出，尝试操纵指标的帐户将被排除。该功能的目的类似于
     <item>
       <title>VS Code 1.106 添加了 Agent HQ，提高了安全性和 AI 信任，并增强了编码体验</title>
       <link>https://alternativeto.net/news/2025/11/vs-code-1-106-adds-agent-hq-improves-security-and-ai-trust-and-enhances-coding-experience/</link>
-      <description><![CDATA[Microsoft 发布了 Visual Studio Code 版本 1.106，其中 Agent HQ 是跨本地和远程环境管理、监控和审查代理会话的新中心。此功能与 GitHub Copilot 和 OpenAI Codex 等工具集成，为使用 AI 辅助的用户提供综合视图。
+      <description><![CDATA[Microsoft 发布了 Visual Studio Code 版本 1.106，其中 Agent HQ 是跨本地和远程环境管理、监控和检查代理会话的新中心。此功能与 GitHub Copilot 和 OpenAI Codex 等工具集成，为使用 AI 辅助的用户提供综合视图。
 除此之外，更新还增强了安全性和信任设置。这些改进使用户在将任务移交给人工智能时更容易保持控制，满足开发工作流程中安全委派日益增长的要求。 1.106 版本还包括多项增强功能，旨在改善日常代码编辑体验。这些升级的重点是让代码编写更加流畅，与编辑器的交互更加直观。
 对于 Apple 硬件上的用户，版本 1.106 将是支持 macOS 11.0 Big Sur 的最后一个版本。未来的更新将需要更新版本的操作系统。此次更新还修复了一系列错误，为广大 Visual Studio Code 用户群提高了稳定性和可靠性。
 查看有关 AlternativeTo 的文章更多关于 Visual Studio Code | Visual Studio Code 替代方案]]></description>
@@ -147,7 +147,7 @@ Helm v4 保持对 apiVersion v2 图表的支持，但由于向后不兼容，建
       <description><![CDATA[Google 发布了 Flutter 3.38 和 Dart 3.10，为开发者在 iOS、Android、Web 和桌面平台上构建原生界面带来了重大改进。最突出的补充是 Flutter GenUI SDK，它支持自动适应用户意图的动态界面。对于希望添加高级 AI 功能的团队来说，新的示例应用将 Firebase AI 逻辑与多模式内容生成和 Gemini 对话式 API 集成相结合，为实验提供了实用的切入点。
 除了这些功能之外，Gemini CLI 现在还支持多平台应用程序构建。 Dart 3.10 引入了用于更快代码的点简写、用于编译本机代码或在包中捆绑资产的稳定构建挂钩、用于自定义规则和 IDE 修复的改进的分析器插件系统，以及有针对性的弃用注释。
 在框架方面，Flutter 3.38进一步完善了平台集成和开发者工具。 Web 开发人员获得 flutter run 配置文件、代理支持和热重载。持续的 UI 改进增强了 OverlayPortal 并统一了导航手势，而 Material 和 Cupertino 设计也得到了持续的完善。 iOS 支持扩展到 Xcode 26 并提供迁移指南，而 Android 更新包括 NDK r28 支持、内存泄漏修复和 Java 17。开发人员工具通过新小部件接收小部件预览器增强功能和可访问性改进。社区贡献添加了 Windows 显示支持、UI 构造函数、手势改进和各种修复。
-查看有关 AlternativeTo 的文章更多信息Flutter | Flutter 替代品]]></description>
+查看有关 AlternativeTo 的文章更多信息Flutter | Flutter 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/11/flutter-3-38-and-dart-3-10-released-with-genui-new-language-features-and-gemini-ai-tools/</guid>
       <pubDate>Fri, 14 Nov 2025 13:40:00 GMT</pubDate>
     </item>
