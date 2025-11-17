@@ -4,7 +4,17 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sun, 16 Nov 2025 12:35:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 01:28:48 GMT</lastBuildDate>
+    <item>
+      <title>Google NotebookLM 引入深度研究并扩展文件支持</title>
+      <link>https://alternativeto.net/news/2025/11/google-notebooklm-introduces-deep-research-and-expands-file-support/</link>
+      <description><![CDATA[Google 正在为其 AI 研究助手 NotebookLM 推出新的深度研究工具，该工具可以自动执行复杂的在线研究并生成基于来源的报告。它可以解释用户的查询、创建研究计划、浏览网络并返回详细的调查结果以及推荐的文章、论文或网站。
+该工具在后台运行，因此用户可以在完成报告的同时不断添加源。它可以通过源面板访问，方法是选择“Web”并选择“深度研究”作为样式，并提供“快速研究”选项以获得更快的结果。
+此更新还将文件支持扩展到 Google 表格、Google 云端硬盘文件网址、云端硬盘中存储的 PDF 以及 Microsoft Word 文档，启用生成电子表格摘要和粘贴多个云端硬盘 URL 等任务。用户还可以通过基于提示的自定义框创建自定义视频概述样式。所有功能将在一周内推出。
+查看有关 AlternativeTo 的文章详细了解NotebookLM | NotebookLM 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/google-notebooklm-introduces-deep-research-and-expands-file-support/</guid>
+      <pubDate>Sun, 16 Nov 2025 15:57:47 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌重新推出 Cameyo 虚拟化工具，用于 ChromeOS 上的流式传输旧 Windows 应用程序</title>
       <link>https://alternativeto.net/news/2025/11/google-relaunches-cameyo-virtualization-tool-for-streamed-legacy-windows-apps-on-chromeos/</link>
@@ -140,16 +150,6 @@ Helm v4 保持对 apiVersion v2 图表的支持，但由于向后不兼容，建
 查看有关 AlternativeTo 的文章有关 LibreOffice 的更多信息 | LibreOffice 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/11/libreoffice-25-8-3-released-for-windows-macos-and-linux/</guid>
       <pubDate>Fri, 14 Nov 2025 15:31:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Flutter 3.38 & Dart 3.10 发布，附带 GenUI、新语言功能和 Gemini AI 工具</title>
-      <link>https://alternativeto.net/news/2025/11/flutter-3-38-and-dart-3-10-released-with-genui-new-language-features-and-gemini-ai-tools/</link>
-      <description><![CDATA[Google 发布了 Flutter 3.38 和 Dart 3.10，为开发者在 iOS、Android、Web 和桌面平台上构建原生界面带来了重大改进。最突出的补充是 Flutter GenUI SDK，它支持自动适应用户意图的动态界面。对于希望添加高级 AI 功能的团队来说，新的示例应用将 Firebase AI 逻辑与多模式内容生成和 Gemini 对话式 API 集成相结合，为实验提供了实用的切入点。
-除了这些功能之外，Gemini CLI 现在还支持多平台应用程序构建。 Dart 3.10 引入了用于更快代码的点简写、用于编译本机代码或在包中捆绑资产的稳定构建挂钩、用于自定义规则和 IDE 修复的改进的分析器插件系统，以及有针对性的弃用注释。
-在框架方面，Flutter 3.38进一步完善了平台集成和开发者工具。 Web 开发人员获得 flutter run 配置文件、代理支持和热重载。持续的 UI 改进增强了 OverlayPortal 并统一了导航手势，而 Material 和 Cupertino 设计也得到了持续的完善。 iOS 支持扩展到 Xcode 26 并提供迁移指南，而 Android 更新包括 NDK r28 支持、内存泄漏修复和 Java 17。开发人员工具通过新小部件接收小部件预览器增强功能和可访问性改进。社区贡献添加了 Windows 显示支持、UI 构造函数、手势改进和各种修复。
-查看有关 AlternativeTo 的文章更多信息Flutter | Flutter 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/flutter-3-38-and-dart-3-10-released-with-genui-new-language-features-and-gemini-ai-tools/</guid>
-      <pubDate>Fri, 14 Nov 2025 13:40:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
