@@ -4,7 +4,58 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Mon, 17 Nov 2025 01:28:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 12:41:09 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 正在部分地区测试 ChatGPT 群聊</title>
+      <link>https://alternativeto.net/news/2025/11/openai-is-testing-chatgpt-group-chats-in-select-regions/</link>
+      <description><![CDATA[OpenAI 正在试点 ChatGPT 的群聊体验，允许多个用户与 AI 助手一起在共享对话中进行协作。这项新功能使朋友、家人或同事能够实时计划、做出决策或共同思考想法。群聊与私人对话严格分开，个人 ChatGPT 内存永远不会与其他参与者共享，解决了隐私问题。
+虽然群聊的工作方式与标准 ChatGPT 交互类似，但它们允许多个用户加入，ChatGPT 的响应由 GPT-5.1 Auto 系统提供支持。该系统根据特定用户的订阅级别（例如 Free、Go、Plus 或 Pro）为每个回复选择最合适的模型。 ChatGPT 的核心功能，包括搜索、图像和文件上传、图像生成和听写，在群聊中完全可用。速率限制仅在 ChatGPT 响应时适用，并且仅计入请求 AI 回复的用户的配额。
+在这些功能集成之后，ChatGPT 可以在处理或基于上下文时参与群组对话，使用表情符号做出反应，并根据请求使用个人资料照片生成个性化图像。日本、新西兰、韩国和台湾的所有 ChatGPT 订阅计划的登录用户都可以通过网络和移动设备访问该试点项目。
+查看有关 AlternativeTo 的文章有关 ChatGPT 的更多信息 | ChatGPT 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/openai-is-testing-chatgpt-group-chats-in-select-regions/</guid>
+      <pubDate>Mon, 17 Nov 2025 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cal.com 5.9 中的新增功能：路由表单触发器、Docker 支持和 EU 托管</title>
+      <link>https://alternativeto.net/news/2025/11/new-in-cal-com-5-9-routing-form-triggers-docker-support-and-eu-hosting/</link>
+      <description><![CDATA[Cal.com v5.9 现在允许工作流触发器响应路由表单提交，包括未进行预订的情况，从而增强自动化和潜在客户管理。
+主要 monorepo 中正式支持 Docker 配置，带来更可靠的更新和同步文档。
+Cal.eu 还可以立即注册，满足欧盟数据驻留需求。
+其他更新包括用于报告预订的新管理表、改进的见解和增强的入职功能。
+查看有关 AlternativeTo 的文章更多信息Cal.com | Cal.com 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/new-in-cal-com-5-9-routing-form-triggers-docker-support-and-eu-hosting/</guid>
+      <pubDate>Mon, 17 Nov 2025 09:14:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude API Sonnet 4.5 和 Opus 4.1 的结构化输出测试版现已上线</title>
+      <link>https://alternativeto.net/news/2025/11/structured-outputs-beta-now-live-for-claude-api-sonnet-4-5-and-opus-4-1/</link>
+      <description><![CDATA[结构化输出现已在 Claude 开发者平台 API 上提供 Sonnet 4.5 和 Opus 4.1 的公开测试版。此功能可让开发人员确保 API 响应与指定的 JSON 架构或工具定义匹配，从而减少解析错误和失败的工具调用。
+计划很快支持 Haiku 4.5。
+查看有关 AlternativeTo 的文章更多信息克劳德 | 克劳德替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/structured-outputs-beta-now-live-for-claude-api-sonnet-4-5-and-opus-4-1/</guid>
+      <pubDate>Mon, 17 Nov 2025 09:05:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wine 10.19 添加了对重分析点、扩展 WinRT 异常和 JS 类型数组的支持</title>
+      <link>https://alternativeto.net/news/2025/11/wine-10-19-adds-support-for-reparse-points-expanded-winrt-exceptions-and-js-typed-arrays/</link>
+      <description><![CDATA[Wine 10.19 已作为此兼容层的最新更新发布，用于在 Linux、macOS 和 BSD 上运行 Windows 应用程序和游戏。此版本为跨 POSIX 兼容系统运行一系列 Windows 程序的用户进行了多项核心改进。
+此更新引入了对重解析点的支持，这是许多现代应用程序所需的一项关键 Windows 文件系统功能。除此之外，Wine 10.19 通过扩展对 Windows 运行时 (WinRT) 异常的支持，增强了与通用 Windows 平台应用程序的兼容性。这些更改提高了 Wine 运行旧版和当前 Windows 软件的能力。
+在兼容性改进的基础上，通用控件库进行了重大重构，以反映版本 5 和版本 6 之间的分离，从而改进对现代图形用户界面的支持。此外，JavaScript 引擎现在添加了对类型化数组的支持，从而改进了 Web 和混合应用程序功能。
+继这些技术升级之后，Wine 10.19 还解决了影响广泛使用的软件和游戏的 34 个错误。修复了 Lynx Web 浏览器、地平线零之曙光、foobar2000、Microsoft Office 2007、星际争霸、博德之门 3 等目标程序，为最终用户提供更稳定的体验。
+查看有关 AlternativeTo 的文章更多信息葡萄酒 | 葡萄酒替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/wine-10-19-adds-support-for-reparse-points-expanded-winrt-exceptions-and-js-typed-arrays/</guid>
+      <pubDate>Mon, 17 Nov 2025 08:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Twitter 联合创始人 Jack Dorsey 推出开源短视频应用 diVine 重启 Vine</title>
+      <link>https://alternativeto.net/news/2025/11/twitter-co-founder-jack-dorsey-launches-divine-an-open-source-short-video-app-vine-reboot/</link>
+      <description><![CDATA[长期停产的 Vine 短视频共享平台已重新启动，名称为 diVine，由 Twitter 联合创始人 Jack Dorsey 通过他的非营利组织和其他东西支持，以及使用 nostr 协议构建在开源基础上。该项目恢复了 Vine 的六秒循环格式，允许用户创建新剪辑，并恢复原始存档的很大一部分。发布时，该应用提供了超过 100,000 个恢复的 Vine 视频，项目负责人 Rabble 还计划恢复数百万条存档的评论和用户个人资料图片。
+该平台采用类似于 Bluesky 的去中心化社交媒体概念，让用户能够更好地控制审核设置并提供多种提要算法，并计划支持用户创建的选项。与 TikTok 和  等其他社交媒体平台不同，diVine 对人工智能生成的内容采取了强硬立场，它使用检测系统来标记经过验证的人造视频并阻止涉嫌使用人工智能的上传。
+该应用尚未在官方商店上市，但大约 10,000 名用户已经在测试 iOS 测试版，并且可以在网站上查看新的和存档的剪辑，但某些较旧的视频可能仍无法加载。
+查看有关 AlternativeTo 的文章更多信息diVine | diVine 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/twitter-co-founder-jack-dorsey-launches-divine-an-open-source-short-video-app-vine-reboot/</guid>
+      <pubDate>Mon, 17 Nov 2025 04:43:07 GMT</pubDate>
+    </item>
     <item>
       <title>Google NotebookLM 引入深度研究并扩展文件支持</title>
       <link>https://alternativeto.net/news/2025/11/google-notebooklm-introduces-deep-research-and-expands-file-support/</link>
@@ -105,51 +156,6 @@ X 指出，尝试操纵指标的帐户将被排除。该功能的目的类似于
 查看有关 AlternativeTo 的文章更多关于 Visual Studio Code | Visual Studio Code 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/11/vs-code-1-106-adds-agent-hq-improves-security-and-ai-trust-and-enhances-coding-experience/</guid>
       <pubDate>Fri, 14 Nov 2025 16:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Helm 4.0.0 发布，带有 wasm 插件系统和服务器端应用</title>
-      <link>https://alternativeto.net/news/2025/11/helm-4-0-0-released-with-wasm-plugin-system-and-server-side-apply/</link>
-      <description><![CDATA[Helm 4.0.0 已作为第一个稳定版本发布，引入了重新设计的插件系统，支持基于 Web Assembly 的插件和服务器端应用。此更新带来了多项工作流程更改，包括对 CLI 标志、输出和 SDK 的重大更新。
-Helm v4 保持对 apiVersion v2 图表的支持，但由于向后不兼容，建议用户测试安装。
-查看有关 AlternativeTo 的文章有关 Helm 的更多信息Kubernetes | Kubernetes 替代方案 Helm]]></description>
-      <guid>https://alternativeto.net/news/2025/11/helm-4-0-0-released-with-wasm-plugin-system-and-server-side-apply/</guid>
-      <pubDate>Fri, 14 Nov 2025 16:35:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>NinjaOne 11.0 添加了操作系统部署、Intune 集成和 Entra Backup</title>
-      <link>https://alternativeto.net/news/2025/11/ninjaone-11-0-adds-os-deployment-intune-integration-and-entra-backup/</link>
-      <description><![CDATA[NinjaOne 11.0 引入了广泛的改进来简化 IT 管理。该版本增加了操作系统部署，让 IT 团队可以使用标准化映像和自动化配置快速加入和恢复设备。新的 Microsoft Intune 集成可实现对所有端点的统一管理以及从 Intune 的直接代理部署。
-此外，Entra Backup 和 Bring Your Own Dropsuite 为 Microsoft Entra ID 和现有 Dropsuite 用户提供扩展保护，增强身份和 SaaS 数据安全性。
-查看有关 AlternativeTo 的文章更多信息NinjaOne | NinjaOne 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/ninjaone-11-0-adds-os-deployment-intune-integration-and-entra-backup/</guid>
-      <pubDate>Fri, 14 Nov 2025 16:32:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android 推出新的唤醒锁指标以减少电池消耗</title>
-      <link>https://alternativeto.net/news/2025/11/android-launches-new-wake-lock-metric-to-reduce-battery-drain/</link>
-      <description><![CDATA[Android 在 Android Vitals 中引入了改进的过度部分唤醒锁定指标，以帮助开发者减少电池消耗。自 2026 年 3 月 1 日起，持续超过新唤醒锁阈值的应用可能会在 Google Play 上失去可见性，或向用户显示电池耗尽警告。
-开发人员现在可以使用详细的唤醒锁名称表来帮助更新的重要仪表板中的调试和优化。
-查看有关 AlternativeTo 的文章有关 Android 的更多信息| Android 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/android-launches-new-wake-lock-metric-to-reduce-battery-drain/</guid>
-      <pubDate>Fri, 14 Nov 2025 16:04:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>F# 10 添加了 #warnon、属性访问器控制和 struct ValueOption</title>
-      <link>https://alternativeto.net/news/2025/11/f-10-adds-warnon-property-accessor-control-and-struct-valueoption/</link>
-      <description><![CDATA[F# 是 .NET 的编程语言，新版本 10 改进了语言、核心库和工具，并提高了清晰度和性能。它引入了 #warnon 指令，使开发人员能够对特定代码部分中的警告抑制进行精细控制。
-该版本还允许属性 getter 和 setter 使用不同的访问修饰符，从而简化了封装。可选参数现在可以使用基于结构的 ValueOption，减少堆分配并提高内存性能。
-查看有关 AlternativeTo 的文章有关 F#（编程）的更多信息语言） | F#（编程语言）替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/f-10-adds-warnon-property-accessor-control-and-struct-valueoption/</guid>
-      <pubDate>Fri, 14 Nov 2025 15:51:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>LibreOffice 25.8.3 发布，适用于 Windows、MacOS 和 Linux</title>
-      <link>https://alternativeto.net/news/2025/11/libreoffice-25-8-3-released-for-windows-macos-and-linux/</link>
-      <description><![CDATA[LibreOffice 25.8.3 是免费办公套件的最新更新，现已适用于 Windows、MacOS 和 Linux。该版本基于 LibreOffice 技术构建，并提供对 ODF 和 Microsoft OOXML 文件格式的全面支持。版本还适用于 ChromeOS、Android、iOS 和云平台。
-对于大规模部署，文档基金会建议使用提供附加功能、SLA 和长期安全支持的企业优化版本。
-查看有关 AlternativeTo 的文章有关 LibreOffice 的更多信息 | LibreOffice 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/libreoffice-25-8-3-released-for-windows-macos-and-linux/</guid>
-      <pubDate>Fri, 14 Nov 2025 15:31:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
