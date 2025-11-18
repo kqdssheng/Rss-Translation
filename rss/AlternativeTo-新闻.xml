@@ -4,7 +4,40 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Tue, 18 Nov 2025 01:27:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 12:41:11 GMT</lastBuildDate>
+    <item>
+      <title>AlmaLinux 9.7 首次亮相，带来性能增强、更新的开发工具和改进的安全性</title>
+      <link>https://alternativeto.net/news/2025/11/almalinux-9-7-debuts-with-performance-enhancements-updated-dev-tools-and-improved-security/</link>
+      <description><![CDATA[AlmaLinux 9.7，代号“Moss Jungle Cat”，现已作为该企业级 Linux 发行版的最新稳定版本正式发布。它延续了 AlmaLinux 对与 Red Hat Enterprise Linux (RHEL) 二进制兼容性的承诺，使其成为需要稳定性和长期生存能力的用户的直接替代方案。
+此版本引入了跨核心组件的性能优化。开发环境已通过新的编译器工具集和更新的模块流进行了刷新。安全改进突出了更新的 SELinux 策略以及改进的调试和网络工具。这些增强功能面向广泛的用户，从开发人员到寻求最新、稳定基础的管理员。
+在这些更新的基础上，通过最新版本的 Podman 和 Buildah，容器和虚拟化支持得到了提升。 AlmaLinux 9.7中的OpenSSL现在支持后量子密码学，这是随着潜在威胁演变而采取的前瞻性措施。在这些更改之后，更新的以安全为重点的软件包提供了用于身份验证的系统安全服务守护进程 (SSSD) 和用于远程证明的 Keylime 的更新版本。
+除了这些改进之外，AlmaLinux 9.7还包含许多其他更新的软件包、各种增强功能和错误修复，确保此版本的持续可靠性和生态系统支持。
+查看有关 AlternativeTo 的文章更多信息AlmaLinux | AlmaLinux 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/almalinux-9-7-debuts-with-performance-enhancements-updated-dev-tools-and-improved-security/</guid>
+      <pubDate>Tue, 18 Nov 2025 12:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google 推出 Code Wiki，这是一个持续更新且由 Gemini 驱动的文档平台</title>
+      <link>https://alternativeto.net/news/2025/11/google-launches-code-wiki-a-continuously-updated-and-gemini-powered-documentation-platform/</link>
+      <description><![CDATA[Google 推出了Code Wiki，这是一个新平台，为代码存储库提供持续更新的结构化 wiki。该平台利用 Gemini 生成的文档，因此内容会随着代码的发展而更新。每次代码库更改后，Code Wiki 都会自动扫描存储库并重新生成所有文档。这保证了 wiki 内容与最新代码保持紧密同步。
+在这些动态更新的基础上，该平台包括一个集成的聊天代理。该代理引用始终最新的 wiki 作为其知识库，使其能够回答有关代码的高度具体的、存储库感知的问题。开发人员与详细了解其代码库的模型（而不是通用人工智能）进行交互。
+为了更深入地参与，Wiki 的每个部分和每个聊天响应都包含指向相关代码文件和定义的超链接。这种交互性允许用户直接从概念级解释转向精确的文件、类或函数。在探索复杂的模块时，开发人员可以使用实时文档作为上下文，向 Gemini 支持的聊天代理请求澄清。
+在可视化方面，Code Wiki 还生成最新的架构、类和序列图，以帮助用户检查现有的复杂代码关系。 Google 正在进一步开发 Gemini CLI 扩展，让团队可以在内部存储库上本地安全地运行 Code Wiki。
+查看有关 AlternativeTo 的文章有关代码的更多信息Wiki | 代码 Wiki 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/google-launches-code-wiki-a-continuously-updated-and-gemini-powered-documentation-platform/</guid>
+      <pubDate>Tue, 18 Nov 2025 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DietPi 9.19 与 BirdNET-Go 一起发布，并扩展了对关键应用程序的 Debian Trixie 支持</title>
+      <link>https://alternativeto.net/news/2025/11/dietpi-9-19-has-launched-with-birdnet-go-and-expanded-debian-trixie-support-for-key-apps/</link>
+      <description><![CDATA[DietPi 9.19 已发布，继续其作为基于 Debian 的轻量级 Linux 发行版的使命，专为单板计算机设计，重点关注低 CPU 和 RAM 消耗。此次更新带来了 BirdNET-Go 的显着新增功能，这是一个新软件包，可实现持续的鸟类监测和识别，这将吸引对鸟类和环境项目感兴趣的用户。
+为了扩展兼容性，此版本引入了 UrBackup 支持，现在可通过官方 APT 存储库获取软件包。此更改确保用户可以通过标准包管理更新 UrBackup，并帮助为未来版本准备发行版，包括对 Debian Trixie 及更高版本的支持。 ARMv6 支持已提供至 Debian Bookworm，但 Raspbian Trixie 的可用性仍待确定。
+在用户体验方面，添加了一个选项，可以在较小的终端或屏幕上包装横幅输出。在这些可用性增强之后，多个应用程序也启用了对 Debian Trixie 及更高版本的支持。 NAA Daemon 现在可以在最新发行版的 ARMv6 和 ARMv7 系统上运行。 Moonlight 的 GUI 和 Medusa 都与 Debian Trixie 兼容，而 Medusa 则利用了 Python 3.13 支持。此外，Mosquitto 现在利用官方 Debian APT 存储库来简化 Trixie 的更新。
+DietPi 9.19 还包含大量错误修复，增强了用户的稳定性和可用性。
+查看有关 AlternativeTo 的文章更多信息DietPi | DietPi 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/dietpi-9-19-has-launched-with-birdnet-go-and-expanded-debian-trixie-support-for-key-apps/</guid>
+      <pubDate>Tue, 18 Nov 2025 08:50:00 GMT</pubDate>
+    </item>
     <item>
       <title>Debian 13.2“Trixie”发布，包含 123 个错误修复、55 个安全修复和更新的软件包</title>
       <link>https://alternativeto.net/news/2025/11/debian-13-2-trixie-released-with-123-bug-fixes-55-security-fixes-and-updated-packages/</link>
@@ -126,37 +159,6 @@ Cameyo by Google 面向希望在不失去对基本 Windows 软件访问权限的
 查看有关 AlternativeTo 的文章更多信息1Password | 1Password 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/11/1password-adds-device-based-unlock-and-new-security-presets-for-mac-and-windows/</guid>
       <pubDate>Sat, 15 Nov 2025 16:01:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple 推出数字 ID 功能，可在 iPhone 和 Apple Watch 上存储护照</title>
-      <link>https://alternativeto.net/news/2025/11/apple-launches-digital-id-feature-for-storing-passports-on-iphone-and-apple-watch/</link>
-      <description><![CDATA[Apple 推出了一项新的数字 ID 功能，让用户可以使用美国护照在 Apple Wallet 中创建并存储政府颁发的 ID。要进行设置，用户扫描护照的照片页和嵌入式芯片，然后通过头部动作完成自拍照以验证自己的身份。
-美国 250 多个机场的 TSA 检查站将首先接受数字身份证，用于国内旅行。 Apple 已在 12 个州和波多黎各支持数字驾照，这一新选项适用于那些州不提供移动驾照或没有真实 ID 的人。
-数字身份证可以与 iPhone 或 Apple Watch 一起出示，但不能替代实体护照或用于国际旅行。用户双击侧面或主页按钮，选择 ID，并将设备靠近身份读取器，无需解锁或交出设备。该系统是加密的，苹果表示，随着时间的推移，支持将扩展到更多的企业和组织。
-查看有关 AlternativeTo 的文章有关 Apple 的更多信息钱包 | Apple 钱包替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/apple-launches-digital-id-feature-for-storing-passports-on-iphone-and-apple-watch/</guid>
-      <pubDate>Sat, 15 Nov 2025 15:47:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mozilla 在 Firefox 中引入 AI Window，让用户掌控 AI 浏览</title>
-      <link>https://alternativeto.net/news/2025/11/mozilla-introduces-ai-window-in-firefox-putting-users-in-control-of-ai-browsing/</link>
-      <description><![CDATA[Mozilla 在 Firefox 中引入了 AI Window，该功能允许用户直接在浏览器中与 AI 助手交互。该空间在浏览时提供实时帮助，但完全在用户控制之下 - 参与是严格选择加入的，并且可以根据个人喜好随时禁用该功能。
-虽然 Mozilla 的举动为 Firefox 增加了高级功能，但它有意避免将用户锁定在单一的人工智能生态系统中。与一些需要永久致力于人工智能功能的人工智能驱动的浏览器不同，Firefox 让用户决定何时、如何或是否使用人工智能。这种方法为浏览器的用户群保留了灵活性和自主权。
-AI Window 建立在 Firefox 对可自定义浏览和隐私浏览的既定支持的基础上，增加了另一层选择。用户可以像以前一样继续使用经典或私人模式，或者如果他们想要更具互动性和个性化的网络体验，则启用 AI Window。
-为了支持此次发布，Mozilla 重申了其对透明度、问责制和用户代理的承诺，这些核心原则旨在随着人工智能更广泛地融入日常浏览中，维持一个自由、开放和可访问的网络。
-查看有关 AlternativeTo 的文章有关 Mozilla 的更多信息Firefox | Mozilla Firefox 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/mozilla-introduces-ai-window-in-firefox-putting-users-in-control-of-ai-browsing/</guid>
-      <pubDate>Sat, 15 Nov 2025 12:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌推出开发者验证，并为有经验的用户提供绕过它的选项</title>
-      <link>https://alternativeto.net/news/2025/11/google-rolls-out-developer-verification-with-an-option-for-experienced-users-to-bypass-it/</link>
-      <description><![CDATA[Google 已开始实施8 月份宣布的备受争议的 Android 开发者验证计划，该计划要求所有开发者在 Google Play 之外分发应用存储以验证其身份并注册其程序包名称（如果他们希望用户旁加载其应用程序）。最初的计划引起了开发者和用户的强烈反对，他们担心这会限制侧载，其中包括 F-Droid 的强烈批评。随着下一阶段的开始，Google 已开始向仅通过侧载发布的开发者发送早期访问邀请，以便他们可以在 Android 开发者控制台中测试新的身份验证系统。
-但更重要的是，Google 对其最初的方法进行了显着改变，为那些希望继续安装来自选择不参与的开发者的未经验证的应用的“有经验的用户”创建例外。该公司表示，它正在开发一种先进的安装流程，其中包括明确的风险警告和防诈骗保护，同时仍然允许这些用户故意绕过验证。 Google 尚未解释如何确定谁有资格成为“有经验的用户”，但它将在收集反馈时分享更多详细信息。
-Google 还为向小组分发应用且不需要全面验证的学生和爱好者准备了一种更简单的帐户类型。该验证计划将于 2026 年 3 月向所有开发者开放，并于 2026 年 9 月在巴西、印度尼西亚、新加坡和泰国开始实施。
-查看有关 AlternativeTo 的文章详细了解Android | Android 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/google-rolls-out-developer-verification-with-an-option-for-experienced-users-to-bypass-it/</guid>
-      <pubDate>Fri, 14 Nov 2025 23:44:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
