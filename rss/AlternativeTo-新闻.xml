@@ -4,9 +4,87 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Tue, 18 Nov 2025 12:41:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 01:27:37 GMT</lastBuildDate>
     <item>
-      <title>AlmaLinux 9.7 首次亮相，带来性能增强、更新的开发工具和改进的安全性</title>
+      <title>ElevenLabs 首次推出使用音频工具生成图像和视频的统一测试版</title>
+      <link>https://alternativeto.net/news/2025/11/elevenlabs-debuts-unified-beta-for-image-and-video-generation-with-audio-tools/</link>
+      <description><![CDATA[ElevenLabs 发布了图像和视频 的测试版，将视觉和音频生成与其广泛的 AI 语音生成模型结合在一个工作流程中。用户现在可以使用 Google Veo、Sora、KLING AI、 万、种子、纳米香蕉、Flux Kontext、GPT Image 和 Seedream。静态图像可以用作故事板或缩略图，视频创建支持模型选择、细化、剪辑合成和质量改进。
+该平台还提供图像和视频的升级功能，并允许使用 ElevenLabs 语音模型添加口型同步和旁白。项目可以导出到 Studio 进行进一步编辑，用户可以在其中添加画外音、使用自定义语音克隆、创建背景音乐、分层音效、调整时间安排以及在单个时间线上完善旁白。
+这些功能旨在支持创作者、电影制作人、营销人员、教育工作者和内容团队寻找统一的地方来制作多模式内容，ElevenLabs 将测试版定位为迈向集成视觉和音频编辑的一步。
+查看有关 AlternativeTo 的文章更多信息ElevenLabs | ElevenLabs 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/elevenlabs-debuts-unified-beta-for-image-and-video-generation-with-audio-tools/</guid>
+      <pubDate>Wed, 19 Nov 2025 01:08:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Grok 4.1 免费向所有用户发布，准确性更高，性能更快</title>
+      <link>https://alternativeto.net/news/2025/11/grok-4-1-launches-free-for-all-users-with-improved-accuracy-and-faster-performance/</link>
+      <description><![CDATA[xAI 刚刚发布了 Grok 4.1，现在可以在 grok.com、X 以及两者iOS 和 Android。用户可以直接选择它或让自动模式处理它。该模型在发布前悄悄部署了两周，并在 65% 的盲选测试中超越了之前的版本。
+此次更新使 Grok 4.1 在 LMArena 文本排行榜上名列前茅，其推理模式 quasarflux 中的 Elo 为 1483 Elo，快速张量模式中的 Elo 为 1465，比任何非 xAI 模型领先 31 分。它还在 EQ Bench3 上获得 1586 分，在 Creativewriting v3 上获得 1722 分，比 xAI 之前的最佳成绩提高了 600 分。
+Grok 4.1 将事实幻觉减少到之前的三分之一，并在情感角色扮演和写作任务中提供更快的响应、更一致的个性以及更好的输出。 xAI 将其归因于专注于意图检测、个性连贯性和自主奖励建模的培训，旨在增强推理能力、创造力、同理心，并减少无意义的回复。
+查看有关 AlternativeTo 的文章更多信息Grok | Grok 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/grok-4-1-launches-free-for-all-users-with-improved-accuracy-and-faster-performance/</guid>
+      <pubDate>Tue, 18 Nov 2025 23:20:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Git 2.52 加快了 Blame 速度，添加了几何重新打包和实验性 repo 命令</title>
+      <link>https://alternativeto.net/news/2025/11/git-2-52-speeds-up-blame-adds-geometric-repacks-and-experimental-repo-command/</link>
+      <description><![CDATA[Git 2.52 已发布，通过更快的目录范围更改跟踪，大幅提升了大型存储库的速度。新的树级归咎方法计算整个树的最后修改数据，而不是遍历每个文件的提交，这使得历史查询明显更快。
+此更新还添加了一项几何维护任务，该任务检查打包文件并在适当时执行重新打包，仅在需要时回退到标准垃圾收集。引入了实验性 git repo 命令来集中存储库结构检查、报告状态详细信息、列出对象和引用格式以及生成基本存储库统计信息。
+其他更改包括两个新的 git refs 子命令 list 和exists，它们统一了常见的脚本操作。 Git 3.0 的准备工作从一个可选的测试路径开始，用于通过 WITH_BREAKING_CHANGES 标志将默认分支切换到主分支。 Rust 集成作为可选构建功能提供，早期支持基于 Rust 的可变宽度整数编码和解码，为未来版本中更广泛的迁移奠定了基础。
+查看有关 AlternativeTo 的文章更多关于Git | Git 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/git-2-52-speeds-up-blame-adds-geometric-repacks-and-experimental-repo-command/</guid>
+      <pubDate>Tue, 18 Nov 2025 20:29:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌推出具有多模式处理、更强推理和新代理 IDE 的 Gemini 3</title>
+      <link>https://alternativeto.net/news/2025/11/google-launches-gemini-3-with-multimodal-processing-stronger-reasoning-and-new-agentic-ide/</link>
+      <description><![CDATA[Google 推出了 Gemini 3 型号系列，并将其描述为迄今为止最先进、最准确的型号。 Gemini 3 Pro 现已向所有用户开放，第一天即可通过 Gemini 应用以及 Google 搜索中的 AI 模式向所有用户开放，同时也正在向付费订阅者推出。一旦安全审核完成，未来几周内将向 Google AI Ultra 用户推出更高级别的版本 Gemini 3 Deepthink。
+Gemini 3 Pro 引入了针对文本、图像和音频的原生多模式处理，可实现将食谱照片变成食谱或从视频讲座创建抽认卡等任务。在搜索的人工智能模式下，它可以生成图像、表格、网格和模拟，并得到升级的查询扇出系统的支持，该系统可以更好地解释意图并呈现相关内容。该模型在 Humanity’s Last Exam 中以 37.4 分领先于当前基准，并在 LMArena 上排名第一，Google 指出，响应的目标是更直接，而不是专注于奉承。
+该模型改进的推理和长期规划支持更复杂的工作流程，并启用Gemini Agent，这是一项实验性功能，可以为美国的 AI Pro 和 Ultra 订户组织电子邮件、管理信息和预订旅行。用户可以通过选择模型菜单中的“思考”选项来进入AI模式下的Gemini 3 Pro。 Google 还推出了 Antigravity，这是一种新的 Gemini 支持的编码界面，它将提示窗口、命令行和浏览器视图结合在一起，支持多窗格代理编码，类似于 Warp Terminal。
+查看有关 AlternativeTo 的文章有关 Google 的更多信息Gemini | Google Gemini 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/google-launches-gemini-3-with-multimodal-processing-stronger-reasoning-and-new-agentic-ide/</guid>
+      <pubDate>Tue, 18 Nov 2025 17:15:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google 日历添加了直接任务阻止和与提醒同步</title>
+      <link>https://alternativeto.net/news/2025/11/google-calendar-adds-direct-task-blocking-and-syncing-with-reminders/</link>
+      <description><![CDATA[Google 日历用户现在可以直接从日历中选择一个空档并点击任务，为特定任务设置时间。该更新允许自定义可见性和每个任务的请勿打扰设置。通过这种方式添加的任务将显示在用户的任务列表中并触发提醒，直至完成。
+所有 Google Workspace 和个人帐户用户都可以使用这项新功能。
+查看有关 AlternativeTo 的文章有关 Google 的更多信息日历 | Google 日历替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/google-calendar-adds-direct-task-blocking-and-syncing-with-reminders/</guid>
+      <pubDate>Tue, 18 Nov 2025 15:29:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Firefox 最近的更新改进了选项卡组处理</title>
+      <link>https://alternativeto.net/news/2025/11/firefox-recent-updates-improve-tab-group-handling/</link>
+      <description><![CDATA[Firefox 145 引入了悬停预览选项卡组内容的功能，使用户无需展开即可查看组内容。从 Firefox 142 开始，即使组折叠，活动选项卡仍然可见。 Firefox 143 还添加了将选项卡直接拖动到折叠组中的功能，从而简化了选项卡组织。
+查看 AlternativeTo 上的文章有关 Mozilla Firefox 的更多信息 | Mozilla Firefox 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/firefox-recent-updates-improve-tab-group-handling/</guid>
+      <pubDate>Tue, 18 Nov 2025 15:21:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Blocs 6.3 for Mac 添加了 AI 工具、全局查找和替换、新的交互管理器等</title>
+      <link>https://alternativeto.net/news/2025/11/blocs-6-3-for-mac-adds-ai-tools-global-find-and-replace-new-interaction-manager-and-more/</link>
+      <description><![CDATA[Blocs for Mac 6.3 进行了重大更新，引入了 40 项新功能，以加快设计人员和开发人员的网站创建速度。为了解决工作流程速度和功能问题，该版本集成了人工智能，通过分析当前页面内容来生成元页面和社交卡描述。在这些人工智能内容的基础上，资产管理器现在支持Image Playground，允许用户直接使用人工智能工具创建或修改图像。
+另一项重大升级增强了查找和替换实用程序。其重新设计的、更直观的界面现在可以在整个网站上实现一致的文本替换。此外，图层树现在支持文件夹、突出显示主页、同步页面排序，并在页面上存在自定义代码时显示新按钮。
+交互管理器也发生了重大变化，提供了新的选项来聚焦特定表单字段、切换复选框、禁用元素以及通过自定义交互重置或提交表单。资产管理器中的全局 alt 标签功能改进了可访问性，确保图像的替代文本可以设置一次并在整个网站范围内应用。
+其他更新包括一年的版权声明短代码、添加的资源管理器列表布局、新的预览设置、增强的 WordPress 主题工具、升级的 Bootstrap 5 框架、可用性改进和错误修复。
+查看有关 AlternativeTo 的文章更多信息区块 | 区块替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/blocs-6-3-for-mac-adds-ai-tools-global-find-and-replace-new-interaction-manager-and-more/</guid>
+      <pubDate>Tue, 18 Nov 2025 15:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp 将根据 DMA 规则在欧洲推出第三方聊天支持</title>
+      <link>https://alternativeto.net/news/2025/11/whatsapp-is-launching-third-party-chat-support-in-europe-under-dma-rules/</link>
+      <description><![CDATA[在欧盟的推动下，Meta 在欧洲的 WhatsApp 上推出跨平台消息传递选项数字市场法案 (DMA)。该法规要求 Meta 为用户提供一种与选择启用互操作性的第三方消息服务上的人员联系的方式。经过几个月的小规模测试，欧洲的 WhatsApp 用户很快就可以直接与消息应用 BirdyChat 和 Haiket 的用户聊天。
+在扩展互操作性的同时，此次推出还允许 Android 和 iOS 上的用户选择加入并在兼容的应用程序之间交换消息、图像、语音消息、视频和文件。一旦合作平台提供支持，即可与第三方用户创建群聊。 Meta、欧洲消息服务和欧盟监管机构经过三年多的合作才形成了这一解决方案，旨在满足法律要求，同时保护隐私和安全。
+这些互操作性功能维护端到端加密和核心隐私保护。参与是可选的，WhatsApp 用户可以随时启用或禁用第三方聊天连接。在接下来的几个月中，欧洲用户将在 WhatsApp 设置选项卡中看到有关如何选择使用这一新连接功能的指南。
+查看有关 AlternativeTo 的文章更多信息WhatsApp | WhatsApp 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/whatsapp-is-launching-third-party-chat-support-in-europe-under-dma-rules/</guid>
+      <pubDate>Tue, 18 Nov 2025 13:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AlmaLinux 9.7 首次亮相，性能增强，更新的开发工具和改进的安全性</title>
       <link>https://alternativeto.net/news/2025/11/almalinux-9-7-debuts-with-performance-enhancements-updated-dev-tools-and-improved-security/</link>
       <description><![CDATA[AlmaLinux 9.7，代号“Moss Jungle Cat”，现已作为该企业级 Linux 发行版的最新稳定版本正式发布。它延续了 AlmaLinux 对与 Red Hat Enterprise Linux (RHEL) 二进制兼容性的承诺，使其成为需要稳定性和长期生存能力的用户的直接替代方案。
 此版本引入了跨核心组件的性能优化。开发环境已通过新的编译器工具集和更新的模块流进行了刷新。安全改进突出了更新的 SELinux 策略以及改进的调试和网络工具。这些增强功能面向广泛的用户，从开发人员到寻求最新、稳定基础的管理员。
@@ -78,87 +156,6 @@ X 的新加密聊天功能旨在与其他安全消息平台竞争，包括 Signa
 查看有关 AlternativeTo 的文章更多信息Spotube | Spotube 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/11/spotube-5-1-released-with-audio-source-plugins-newpipe-integration-on-desktop-and-more/</guid>
       <pubDate>Mon, 17 Nov 2025 12:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 正在部分地区测试 ChatGPT 群聊</title>
-      <link>https://alternativeto.net/news/2025/11/openai-is-testing-chatgpt-group-chats-in-select-regions/</link>
-      <description><![CDATA[OpenAI 正在试点 ChatGPT 的群聊体验，允许多个用户与 AI 助手一起在共享对话中进行协作。这项新功能使朋友、家人或同事能够实时计划、做出决策或共同思考想法。群聊与私人对话严格分开，个人 ChatGPT 内存永远不会与其他参与者共享，解决了隐私问题。
-虽然群聊的工作方式与标准 ChatGPT 交互类似，但它们允许多个用户加入，ChatGPT 的响应由 GPT-5.1 Auto 系统提供支持。该系统根据特定用户的订阅级别（例如 Free、Go、Plus 或 Pro）为每个回复选择最合适的模型。 ChatGPT 的核心功能，包括搜索、图像和文件上传、图像生成和听写，在群聊中完全可用。速率限制仅在 ChatGPT 响应时适用，并且仅计入请求 AI 回复的用户的配额。
-在这些功能集成之后，ChatGPT 可以在处理或基于上下文时参与群组对话，使用表情符号做出反应，并根据请求使用个人资料照片生成个性化图像。日本、新西兰、韩国和台湾的所有 ChatGPT 订阅计划的登录用户都可以通过网络和移动设备访问该试点项目。
-查看有关 AlternativeTo 的文章有关 ChatGPT 的更多信息 | ChatGPT 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/openai-is-testing-chatgpt-group-chats-in-select-regions/</guid>
-      <pubDate>Mon, 17 Nov 2025 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cal.com 5.9 中的新增功能：路由表单触发器、Docker 支持和 EU 托管</title>
-      <link>https://alternativeto.net/news/2025/11/new-in-cal-com-5-9-routing-form-triggers-docker-support-and-eu-hosting/</link>
-      <description><![CDATA[Cal.com v5.9 现在允许工作流触发器响应路由表单提交，包括未进行预订的情况，从而增强自动化和潜在客户管理。
-主要 monorepo 中正式支持 Docker 配置，带来更可靠的更新和同步文档。
-Cal.eu 还可以立即注册，满足欧盟数据驻留需求。
-其他更新包括用于报告预订的新管理表、改进的见解和增强的入职功能。
-查看有关 AlternativeTo 的文章更多信息Cal.com | Cal.com 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/new-in-cal-com-5-9-routing-form-triggers-docker-support-and-eu-hosting/</guid>
-      <pubDate>Mon, 17 Nov 2025 09:14:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude API Sonnet 4.5 和 Opus 4.1 的结构化输出测试版现已上线</title>
-      <link>https://alternativeto.net/news/2025/11/structured-outputs-beta-now-live-for-claude-api-sonnet-4-5-and-opus-4-1/</link>
-      <description><![CDATA[结构化输出现已在 Claude 开发者平台 API 上提供 Sonnet 4.5 和 Opus 4.1 的公开测试版。此功能可让开发人员确保 API 响应与指定的 JSON 架构或工具定义匹配，从而减少解析错误和失败的工具调用。
-计划很快支持 Haiku 4.5。
-查看有关 AlternativeTo 的文章更多信息克劳德 | 克劳德替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/structured-outputs-beta-now-live-for-claude-api-sonnet-4-5-and-opus-4-1/</guid>
-      <pubDate>Mon, 17 Nov 2025 09:05:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wine 10.19 添加了对重分析点、扩展 WinRT 异常和 JS 类型数组的支持</title>
-      <link>https://alternativeto.net/news/2025/11/wine-10-19-adds-support-for-reparse-points-expanded-winrt-exceptions-and-js-typed-arrays/</link>
-      <description><![CDATA[Wine 10.19 已作为此兼容层的最新更新发布，用于在 Linux、macOS 和 BSD 上运行 Windows 应用程序和游戏。此版本为跨 POSIX 兼容系统运行一系列 Windows 程序的用户进行了多项核心改进。
-此更新引入了对重解析点的支持，这是许多现代应用程序所需的一项关键 Windows 文件系统功能。除此之外，Wine 10.19 通过扩展对 Windows 运行时 (WinRT) 异常的支持，增强了与通用 Windows 平台应用程序的兼容性。这些更改提高了 Wine 运行旧版和当前 Windows 软件的能力。
-在兼容性改进的基础上，通用控件库进行了重大重构，以反映版本 5 和版本 6 之间的分离，从而改进对现代图形用户界面的支持。此外，JavaScript 引擎现在添加了对类型化数组的支持，从而改进了 Web 和混合应用程序功能。
-继这些技术升级之后，Wine 10.19 还解决了影响广泛使用的软件和游戏的 34 个错误。修复了 Lynx Web 浏览器、地平线零之曙光、foobar2000、Microsoft Office 2007、星际争霸、博德之门 3 等目标程序，为最终用户提供更稳定的体验。
-查看有关 AlternativeTo 的文章更多信息葡萄酒 | 葡萄酒替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/wine-10-19-adds-support-for-reparse-points-expanded-winrt-exceptions-and-js-typed-arrays/</guid>
-      <pubDate>Mon, 17 Nov 2025 08:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Twitter 联合创始人 Jack Dorsey 推出开源短视频应用 diVine 重启 Vine</title>
-      <link>https://alternativeto.net/news/2025/11/twitter-co-founder-jack-dorsey-launches-divine-an-open-source-short-video-app-vine-reboot/</link>
-      <description><![CDATA[长期停产的 Vine 短视频共享平台已重新启动，名称为 diVine，由 Twitter 联合创始人 Jack Dorsey 通过他的非营利组织和其他东西支持，以及使用 nostr 协议构建在开源基础上。该项目恢复了 Vine 的六秒循环格式，允许用户创建新剪辑，并恢复原始存档的很大一部分。发布时，该应用提供了超过 100,000 个恢复的 Vine 视频，项目负责人 Rabble 还计划恢复数百万条存档的评论和用户个人资料图片。
-该平台采用类似于 Bluesky 的去中心化社交媒体概念，让用户能够更好地控制审核设置并提供多种提要算法，并计划支持用户创建的选项。与 TikTok 和  等其他社交媒体平台不同，diVine 对人工智能生成的内容采取了强硬立场，它使用检测系统来标记经过验证的人造视频并阻止涉嫌使用人工智能的上传。
-该应用尚未在官方商店上市，但大约 10,000 名用户已经在测试 iOS 测试版，并且可以在网站上查看新的和存档的剪辑，但某些较旧的视频可能仍无法加载。
-查看有关 AlternativeTo 的文章更多信息diVine | diVine 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/twitter-co-founder-jack-dorsey-launches-divine-an-open-source-short-video-app-vine-reboot/</guid>
-      <pubDate>Mon, 17 Nov 2025 04:43:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google NotebookLM 引入深度研究并扩展文件支持</title>
-      <link>https://alternativeto.net/news/2025/11/google-notebooklm-introduces-deep-research-and-expands-file-support/</link>
-      <description><![CDATA[Google 正在为其 AI 研究助手 NotebookLM 推出新的深度研究工具，该工具可以自动执行复杂的在线研究并生成基于来源的报告。它可以解释用户的查询、创建研究计划、浏览网络并返回详细的调查结果以及推荐的文章、论文或网站。
-该工具在后台运行，因此用户可以在完成报告的同时不断添加源。它可以通过源面板访问，方法是选择“Web”并选择“深度研究”作为样式，并提供“快速研究”选项以获得更快的结果。
-此更新还将文件支持扩展到 Google 表格、Google 云端硬盘文件网址、云端硬盘中存储的 PDF 以及 Microsoft Word 文档，启用生成电子表格摘要和粘贴多个云端硬盘 URL 等任务。用户还可以通过基于提示的自定义框创建自定义视频概述样式。所有功能将在一周内推出。
-查看有关 AlternativeTo 的文章详细了解NotebookLM | NotebookLM 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/google-notebooklm-introduces-deep-research-and-expands-file-support/</guid>
-      <pubDate>Sun, 16 Nov 2025 15:57:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌重新推出 Cameyo 虚拟化工具，用于 ChromeOS 上的流式传输旧 Windows 应用程序</title>
-      <link>https://alternativeto.net/news/2025/11/google-relaunches-cameyo-virtualization-tool-for-streamed-legacy-windows-apps-on-chromeos/</link>
-      <description><![CDATA[Google 在 2023 年收购该平台后，以 Cameyo by Google 的名称重新推出了 Cameyo。该服务可让组织直接在 Windows 或 Linux 应用程序中运行旧版应用程序href=&quot;https://feed.alternativeto.net/software/google-chrome/about/&quot;&gt;Google Chrome 或作为网络应用程序，无需虚拟化完整桌面，仅传输所需的特定应用程序。这样，Microsoft Excel 和 Autodesk AutoCAD 等 Windows 工具就可以在同一工作流程中与 Chrome 和其他网络应用一起运行。
-Cameyo by Google 面向希望在不失去对基本 Windows 软件访问权限的情况下过渡到 ChromeOS 的 Windows 组织。该方法减少了对 Microsoft 操作系统的依赖，并支持在企业环境中更广泛地采用 Chromebook 和 ChromeOS。
-该平台与 Chrome Enterprise 集成，还将为旧版应用带来 Google Gemini AI 功能，让它们能够总结文档、从视频中提取信息以及使用选项卡上下文来协助完成任务，从而将这些功能扩展到以前需要在 Windows 上运行的旧版 Windows 程序。
-查看有关 AlternativeTo 的文章有关 Cameyo 的更多信息Google | Cameyo by Google Alternatives]]></description>
-      <guid>https://alternativeto.net/news/2025/11/google-relaunches-cameyo-virtualization-tool-for-streamed-legacy-windows-apps-on-chromeos/</guid>
-      <pubDate>Sat, 15 Nov 2025 16:18:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>1Password 为 Mac 和 Windows 添加了基于设备的解锁和新的安全预设</title>
-      <link>https://alternativeto.net/news/2025/11/1password-adds-device-based-unlock-and-new-security-presets-for-mac-and-windows/</link>
-      <description><![CDATA[1Password 现在为 Mac 和 Windows 提供基于设备的解锁选项，允许应用通过系统的身份验证方法（包括面容 ID、触摸 ID、PIN 或密码）自动打开。该功能是可选的，可减少用户短暂休息后返回时的重复身份验证，同时依靠设备的硬件进行身份验证。
-此更新还添加了三个安全预设，用于控制应用锁定的频率，并在每台设备上单独管理设置。新的安全审查提示解释了这些选项，并可能建议在用户无法访问其密码或受信任设备时创建恢复代码作为备份。
-移动版本已经支持基于设备的解锁，但只能在上次使用后十分钟内自动重新打开。新功能首先向个人和家庭帐户推出，而商业和企业客户稍后将通过需要管理员批准的单独更新来接收它们。
-查看有关 AlternativeTo 的文章更多信息1Password | 1Password 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/1password-adds-device-based-unlock-and-new-security-presets-for-mac-and-windows/</guid>
-      <pubDate>Sat, 15 Nov 2025 16:01:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
