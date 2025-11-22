@@ -4,7 +4,119 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Fri, 21 Nov 2025 12:39:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Nov 2025 01:24:21 GMT</lastBuildDate>
+    <item>
+      <title>GitLab 18.6 添加了重新设计的 UI、精确的代码搜索、新的 CI/CD 功能等等</title>
+      <link>https://alternativeto.net/news/2025/11/gitlab-18-6-adds-redesigned-ui-exact-code-search-new-ci-cd-capabilities-and-much-more/</link>
+      <description><![CDATA[GitLab 18.6 是这个著名的代码托管和 DevOps 平台的最新版本。此次更新的核心是重新设计的用户界面，提供了更直观的并排工作空间。通过添加上下文面板，团队可以最大限度地减少不必要的点击并保持工作流程的重点。
+在工作流程改进的基础上，GitLab 18.6 在有限的可用性中添加了精确的代码搜索。用户可以利用完全匹配和正则表达式模式在整个实例、组或项目中搜索代码，由开源 Zoekt 搜索引擎提供支持。
+GitLab 的 CI/CD 工具也具有更强的灵活性。组件现在可以使用 spec:component 关键字在其配置中引用自己的元数据，例如版本号或提交 SHA。除此之外，该版本还使创建和管理动态 1-1 依赖项变得更加容易，支持更清晰、可扩展的并行：矩阵管道。
+随着安全工作流程的变化，GitLab 安全分析师代理成为 Duo Agentic Chat 的默认部分。这确保了它可以在自我管理和专用设置中开箱即用，无需从 AI 目录中手动添加。同时，新的安全仪表板提供了更新且更清晰的界面。
+除了重大更新之外，GitLab 18.6 还提供了一系列其他增强功能和错误修复。
+查看有关 AlternativeTo 的文章更多信息GitLab | GitLab 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/gitlab-18-6-adds-redesigned-ui-exact-code-search-new-ci-cd-capabilities-and-much-more/</guid>
+      <pubDate>Fri, 21 Nov 2025 20:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌为所有用户推出由 Gemini 3 驱动的 Nano Banana Pro Image 型号</title>
+      <link>https://alternativeto.net/news/2025/11/google-launches-the-gemini-3-powered-nano-banana-pro-image-model-for-all-users/</link>
+      <description><![CDATA[Google 推出了Gemini 3 Pro Image 或 Nano Banana Pro 全新图像创建和编辑模型。它将 Gemini 推理与实时 Google 搜索数据相结合，生成情境感知视觉效果，包括基于实时天气或体育信息的图像。该模型通过更丰富的字体、纹理和书法改进了文本渲染，支持多语言文本，并且可以混合最多 14 个图像，同时保持最多 5 个人的准确相似度。
+与之前的版本相比，新模型提供了精确的编辑工具，让用户可以细化特定区域，调整相机角度、焦点、照明、场景构图以及应用颜色分级，同时与旧模型相比还提高了图像真实感。它支持多种宽高比，输出分辨率高达 4K。 1K 或 2K 的开发者定价为每张图像 0.134 美元，4K 的每张图像为 0.24 美元。
+Gemini 3 Pro Image 正在跨 Google 产品推出，包括 Google Gemini 应用，免费用户可获得有限的代数，而付费的 AI Plus、Pro 和 Ultra 级别则获得更高的限制。全球的 NotebookLM 订阅者、Google Flow 中的 Google AI Ultra 用户以及美国 Google 搜索中的 AI 模式用户也可以使用该功能，即将支持 Google Ads、Google 幻灯片、Google 视频、Gemini API、Google AI Studio，以及最近推出的 Google Antigravity IDE。
+查看有关 AlternativeTo 的文章有关 Gemini 的更多信息图像 | Gemini 图像替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/google-launches-the-gemini-3-powered-nano-banana-pro-image-model-for-all-users/</guid>
+      <pubDate>Fri, 21 Nov 2025 19:19:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kagi 推出 Quick and Research AI 助手，用于高级研究任务和分析</title>
+      <link>https://alternativeto.net/news/2025/11/kagi-launches-quick-and-research-ai-assistants-for-advanced-research-tasks-and-analysis/</link>
+      <description><![CDATA[Kagi 推出了两个专用的研究人工智能助手：快速助手 和研究助手，以简化和改进用户信息检索。 快速助手向所有用户开放，可在五秒内提供直接、简洁的答案，同时成本最低。相比之下，研究助理专门为最终层订阅者提供，专门从事深入、多样化的分析以获得更彻底的结果，每次查询通常需要二十多秒的时间。
+此次发布后，用户可以从 Kagi Assistant Web 应用程序访问这两个助手，也可以通过 Bang 快捷方式直接在搜索栏中访问这两个助手，以更加方便。每个助手的核心优势在于其有效研究的能力：系统自动确定合适的查询，在需要时跨多种语言进行并行搜索，并将结果综合为综合答案。
+Kagi 的人工智能助手以其先进的功能为基础，针对特定任务采用不同的基本模型。该公司对领先的机器学习模型进行基准测试，并动态选择最有能力的模型来满足每个请求。除了网络搜索和检索之外，助手还利用其他工具，例如用于计算的代码执行、图像生成以及直接访问自定义 API，例如 Wolfram Alpha 和实时新闻源。
+查看有关 AlternativeTo 的文章有关 Kagi 的更多信息助理 | Kagi 助理替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/kagi-launches-quick-and-research-ai-assistants-for-advanced-research-tasks-and-analysis/</guid>
+      <pubDate>Fri, 21 Nov 2025 16:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jules 添加了 repoless 会话，允许没有 GitHub repos 的项目</title>
+      <link>https://alternativeto.net/news/2025/11/jules-adds-repoless-sessions-allowing-projects-without-github-repos/</link>
+      <description><![CDATA[Jules 现在允许用户启动会话，而无需 GitHub 存储库，从而更轻松地启动原型或脚本。用户可以上传自己的上下文（例如代码文件或图像），并在会话完成时下载所有结果。
+此更新可立即用于所有新任务。
+查看有关 AlternativeTo 的文章有关 Jules 的更多信息 | 朱尔斯替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/jules-adds-repoless-sessions-allowing-projects-without-github-repos/</guid>
+      <pubDate>Fri, 21 Nov 2025 16:16:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>NotebookLM 添加信息图表以实现高质量的视觉摘要</title>
+      <link>https://alternativeto.net/news/2025/11/notebooklm-adds-infographics-for-high-quality-visual-summaries/</link>
+      <description><![CDATA[NotebookLM 推出了信息图表，允许用户描述所需的输出并根据其来源创建可定制的高质量视觉摘要。
+该功能已向专业版用户开放，免费用户计划在未来几周内使用。
+查看有关 AlternativeTo 的文章有关 NotebookLM 的更多信息 | NotebookLM 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/notebooklm-adds-infographics-for-high-quality-visual-summaries/</guid>
+      <pubDate>Fri, 21 Nov 2025 16:13:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Angular v21 带来实验性 Signal Forms、Aria 预览和 Vitest 支持</title>
+      <link>https://alternativeto.net/news/2025/11/angular-v21-brings-experimental-signal-forms-aria-preview-and-vitest-support/</link>
+      <description><![CDATA[Angular v21 引入了实验性信号表单，允许开发人员使用信号创建可扩展的反应式表单。该版本还在开发者预览版中首次推出了 Angular Aria，提供专注于可访问性的无头组件。 Vitest 现在充当新项目稳定的、可用于生产的默认测试运行程序，而新应用程序中默认不再包含 Zone.js。
+查看有关 AlternativeTo 的文章更多信息Angular | Angular 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/angular-v21-brings-experimental-signal-forms-aria-preview-and-vitest-support/</guid>
+      <pubDate>Fri, 21 Nov 2025 16:06:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deezer 推出快速访问功能以将收藏夹固定在主页选项卡上</title>
+      <link>https://alternativeto.net/news/2025/11/deezer-launches-quick-access-to-pin-favorites-on-home-tab/</link>
+      <description><![CDATA[Deezer 推出了快速访问功能，这是一项新功能，允许用户将最多八个喜爱的播放列表、专辑或播客固定到主页选项卡的顶部。用户可以通过长按“快速访问”部分来自定义这些引脚，并随时重新排列或更新它们。
+此功能简化了对应用程序内经常播放的内容的访问。
+查看有关 AlternativeTo 的文章有关 Deezer 的更多信息 | Deezer 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/deezer-launches-quick-access-to-pin-favorites-on-home-tab/</guid>
+      <pubDate>Fri, 21 Nov 2025 15:58:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Immich v2.3.0 更新 OCR 语言并修复 iOS 冻结问题</title>
+      <link>https://alternativeto.net/news/2025/11/immich-v2-3-0-updates-ocr-languages-and-fixes-ios-freeze/</link>
+      <description><![CDATA[Immich v2.3.0 引入了高级 OCR 增强功能，包括新的特定于语言的模型和用于定制识别的纯英语选项。值得注意的修复解决了 iOS 上恢复时应用程序冻结的问题，提高了 Apple 用户的可靠性。
+此更新还在移动应用中添加了便捷的“添加到”操作，并恢复了 Android 设备的删除同步。
+查看有关 AlternativeTo 的文章更多信息Immich | Immich 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/immich-v2-3-0-updates-ocr-languages-and-fixes-ios-freeze/</guid>
+      <pubDate>Fri, 21 Nov 2025 15:55:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌地图推出热门景点推荐和双子座内部提示</title>
+      <link>https://alternativeto.net/news/2025/11/google-maps-introduces-trending-spot-recommendations-and-gemini-insider-tips/</link>
+      <description><![CDATA[Google 地图更新了“探索”选项卡，提供有关热门地点和值得注意的地点的建议，从而简化了发现过程。
+该平台现在还提供由 Gemini 支持的内部提示，通过快速扫描提供详细的本地见解。
+查看有关 AlternativeTo 的文章有关 Google 的更多信息地图 | Google 地图替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/google-maps-introduces-trending-spot-recommendations-and-gemini-insider-tips/</guid>
+      <pubDate>Fri, 21 Nov 2025 15:47:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Midjourney 推出具有新社交功能的用户个人资料</title>
+      <link>https://alternativeto.net/news/2025/11/midjourney-rolls-out-user-profiles-with-new-social-features/</link>
+      <description><![CDATA[Midjourney 推出了可自定义的用户配置文件，允许用户设置用户名、添加社交链接以及使用横幅个性化其页面。该更新还使用户能够关注朋友并在他们的个人资料上突出显示最喜爱的图像。此版本引入了在 Midjourney 社区中参与和互动的新方式。
+查看有关 AlternativeTo 的文章有关 Midjourney 的更多信息 | 中途替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/midjourney-rolls-out-user-profiles-with-new-social-features/</guid>
+      <pubDate>Fri, 21 Nov 2025 15:39:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google Stitch 向 AI Studio 添加一键导出功能，以加快工作流程</title>
+      <link>https://alternativeto.net/news/2025/11/google-stitch-adds-1-click-export-to-ai-studio-for-faster-workflows/</link>
+      <description><![CDATA[Google Stitch 已推出一键导出到 AI Studio 的功能，使用户能够立即传输 HTML 和屏幕数据，无需手动复制粘贴或文件处理。
+自动导出适用于 11 月 15 日之后创建的所有项目，而可以复制旧项目以更新其文件结构。
+查看有关 AlternativeTo 的文章有关 Google 的更多信息Stitch | Google Stitch 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/google-stitch-adds-1-click-export-to-ai-studio-for-faster-workflows/</guid>
+      <pubDate>Fri, 21 Nov 2025 15:35:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Perplexity 将其代理网络浏览器 Comet 引入 Android，并提供语音和其他人工智能功能</title>
+      <link>https://alternativeto.net/news/2025/11/perplexity-brings-its-agentic-web-browser-comet-to-android-with-voice-and-other-ai-features/</link>
+      <description><![CDATA[Perplexity 已将其代理浏览器 Comet 扩展到 Android，首次为移动用户带来一系列智能功能。 Android 用户现在可以访问集成语音识别，使他们能够直接与 Comet 助手交互，以使用自然语音在所有打开的选项卡中查找信息。
+除此之外，智能摘要允许用户同时从多个打开的选项卡生成内容的简明概述，从而简化移动设备上的研究过程。为了保护隐私和用户体验，Android 版 Comet 集成了内置广告拦截器，有助于避免垃圾邮件和弹出广告，并提供可选的可信站点白名单 — 桌面版本上的镜像功能。
+该浏览器的核心功能是人工智能助手，旨在阻止干扰并为各种任务提供主动支持，同时始终保持用户控制。在这些增强之后，Comet 的进一步目标是支持广泛的活动——无论是研究、简化信息、购物还是学习——允许用户根据个人需求定制浏览器的人工智能驱动功能。
+查看有关 AlternativeTo 的文章有关 Perplexity 的更多信息Comet | 困惑彗星替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/perplexity-brings-its-agentic-web-browser-comet-to-android-with-voice-and-other-ai-features/</guid>
+      <pubDate>Fri, 21 Nov 2025 13:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>Vivaldi 7.7 移动版带来了自定义搜索引擎、书签导入和更好的深色模式</title>
       <link>https://alternativeto.net/news/2025/11/vivaldi-7-7-for-mobile-brings-custom-search-engines-bookmark-import-and-better-dark-mode/</link>
@@ -35,120 +147,6 @@
 查看有关 AlternativeTo 的文章有关 Warp 的更多信息终端 | Warp 终端替代品]]></description>
       <guid>https://alternativeto.net/news/2025/11/warp-launches-agents-3-0-with-full-terminal-use-code-review-planning-and-new-integrations/</guid>
       <pubDate>Thu, 20 Nov 2025 23:16:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>PowerToys 0.96 发布，对高级粘贴、PowerRename 和命令面板进行了重大更新</title>
-      <link>https://alternativeto.net/news/2025/11/powertoys-0-96-arrives-with-major-updates-to-advanced-paste-powerrename-and-command-palette/</link>
-      <description><![CDATA[Microsoft PowerToys 0.96 版已发布，重点改进现有工具。 Advanced Paste 获得重大更新，包括重新设计的设置界面、应用程序窗口中的清理器以及对来自 Azure、OpenAI、Gemini 和 Mistral 的在线 AI 端点的支持。它还通过 Foundry Local 和 Ollama 添加本地模型支持，以实现设备上处理和可选的 NPU 加速。
-用户可以配置多个端点并根据剪贴板内容在模型之间切换。更新后的“高级粘贴”窗口显示当前剪贴板内容，并包含用于快速调整的模型选择器。
-其他模块也得到了改进。 PowerRename 现在支持 EXIF 和 XMP 元数据来访问图像标签。命令面板添加了扩展搜索、改进的标签和新的窗口行为选项。灯开关提高了可靠性，并允许手动输入位置以实现日出和日落自动化。设置仪表板收到修复和新的排序选项，ZoomIt 引入了更平滑的缩放和带有 GIF 导出的屏幕录制功能。
-查看有关 AlternativeTo 的文章有关 Microsoft PowerToys 的更多信息 | Microsoft PowerToys 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/powertoys-0-96-arrives-with-major-updates-to-advanced-paste-powerrename-and-command-palette/</guid>
-      <pubDate>Thu, 20 Nov 2025 16:35:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>C# 14 到来：扩展成员和更清晰的语法引领更新</title>
-      <link>https://alternativeto.net/news/2025/11/c-14-arrives-extension-members-and-cleaner-syntax-lead-the-update/</link>
-      <description><![CDATA[C# 14 与 .NET 10 一起发布，引入了强大的扩展成员（包括扩展属性、静态成员和运算符），同时保留了与现有代码的兼容性。它通过新的 field 关键字简化了样板文件，增强了泛型类型的 nameof，支持 null 条件赋值，改进了 lambda 语法，并添加了部分事件和构造函数。
-查看有关 AlternativeTo 的文章有关更多信息C# | C# 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/c-14-arrives-extension-members-and-cleaner-syntax-lead-the-update/</guid>
-      <pubDate>Thu, 20 Nov 2025 16:19:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Raycast for Windows 推出公开测试版，提供本机搜索和扩展支持</title>
-      <link>https://alternativeto.net/news/2025/11/raycast-for-windows-launches-public-beta-with-native-search-and-extension-support/</link>
-      <description><![CDATA[经过多年的等待，macOS 上最好的第三方工具之一终于来到了 Windows！（好吧，虽然还不是最终版，但也差不多了）。 Raycast 刚刚宣布其通用搜索和系统启动器的 Windows 版本现已进入公开测试版，为该平台引入了原生构建，具有熟悉的键盘快捷键和适应 Windows 惯例的布局。它提供对应用、文件和已安装游戏的统一搜索，由自定义实时索引器提供支持，该索引器是为了弥补 Windows 上缺乏合适的系统范围索引而创建的。
-最明显的替代方案是最近推出的 PowerToys Command Palette，尽管 Raycast 的优势在于可以访问数千个扩展，以执行智能家居控制等任务，Notion 搜索、GitHub 管理等，所有这些都可以通过内置商店获得。由于跨平台 API，大多数扩展都可以在 macOS 和 Windows 上运行，开发人员可以使用 React 和 TypeScript 构建新扩展。 Quick AI 是他们的人工智能驱动工具集，在测试期间也是免费的，通过 GPT 5 mini 提供带有引用的即时答案，并可选择对其他模型进行升级。
-核心功能包括应用程序启动、窗口管理快捷方式、剪贴板历史记录、快速链接、代码片段和完整的系统文件搜索。即将推出的更新将引入 AI 聊天、笔记和 macOS 上已有的其他工具。
-查看有关 AlternativeTo 的文章更多信息Raycast | Raycast 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/raycast-for-windows-launches-public-beta-with-native-search-and-extension-support/</guid>
-      <pubDate>Thu, 20 Nov 2025 16:01:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT Atlas 引入垂直选项卡、默认 Google 搜索和 iCloud 密码</title>
-      <link>https://alternativeto.net/news/2025/11/chatgpt-atlas-introduces-vertical-tabs-default-google-search-and-icloud-passkeys/</link>
-      <description><![CDATA[最新的 ChatGPT Atlas 更新引入了扩展程序导入、iCloud 密钥支持、重新设计的下载界面、可选的 Ctrl+Tab 循环、多选项卡选择、Google 作为默认搜索选项、更快的询问 ChatGPT 侧边栏插入按钮和新的垂直选项卡。
-更多改进即将推出。
-查看有关 AlternativeTo 的文章有关 ChatGPT 的更多信息Atlas | ChatGPT Atlas 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/chatgpt-atlas-introduces-vertical-tabs-default-google-search-and-icloud-passkeys/</guid>
-      <pubDate>Thu, 20 Nov 2025 15:55:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Perplexity 为所有搜索模式添加了幻灯片、工作表和文档编辑</title>
-      <link>https://alternativeto.net/news/2025/11/perplexity-adds-slide-sheet-and-doc-editing-for-all-search-modes/</link>
-      <description><![CDATA[Perplexity 引入了跨所有搜索模式构建和编辑幻灯片、工作表和文档等资产的功能。目前，Perplexity Pro 和 Max 订阅者可以通过网络获取此更新。
-查看有关 AlternativeTo 的文章更多关于困惑 | 困惑替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/perplexity-adds-slide-sheet-and-doc-editing-for-all-search-modes/</guid>
-      <pubDate>Thu, 20 Nov 2025 15:47:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anything 移动应用程序在 App Store 上发布并可免费预订</title>
-      <link>https://alternativeto.net/news/2025/11/anything-mobile-app-launches-on-app-store-with-free-pre-orders/</link>
-      <description><![CDATA[Anything 移动应用现已在 App Store 上提供，使用户能够直接从手机构建可用于生产的应用程序。
-免费预购现已开放，每位早期用户可获得 20,000 个积分。
-查看有关 AlternativeTo 的文章有关任何内容的更多信息 | 任何替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/anything-mobile-app-launches-on-app-store-with-free-pre-orders/</guid>
-      <pubDate>Thu, 20 Nov 2025 15:43:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>AdGuard 推出适用于 Android 和 iOS 的 DNS 移动应用程序，具有加密过滤功能</title>
-      <link>https://alternativeto.net/news/2025/11/adguard-launches-dns-mobile-app-for-android-and-ios-with-encrypted-filtering/</link>
-      <description><![CDATA[AdGuard 发布了适用于 Android 和 iOS 的新 DNS 应用通过加密的 DNS 查询来阻止广告、跟踪器和有害网站，从而提供 DNS 级别的保护。它针对的是想要简单网络过滤而不依赖完整广告拦截工具或 VPN 的用户。
-设置是通过 AdGuard DNS 仪表板中的设置 ID 或 QR 码进行处理的，因此可以轻松地将多个设备添加到同一 DNS 配置文件。这有助于家庭或小型团队以最小的努力配置一致的过滤。
-该应用程序支持 DNS over HTTPS、DNS over TLS 和 DNS over QUIC，并且在 iOS 上，它还可以与 Apple 的本机 DNS 设置配合使用。如果选择基于 VPN 的协议，该应用程序会创建本地 VPN 配置文件并指导用户启用它。该工具仅专注于 DNS 过滤，AdGuard 计划随着时间的推移对其进行扩展，包括目前正在开发的桌面版本。
-查看有关 AlternativeTo 的文章有关 AdGuard 的更多信息DNS | AdGuard DNS 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/adguard-launches-dns-mobile-app-for-android-and-ios-with-encrypted-filtering/</guid>
-      <pubDate>Thu, 20 Nov 2025 15:40:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>GenUI SDK for Flutter alpha 为应用程序带来了由 LLM 驱动的动态 UI</title>
-      <link>https://alternativeto.net/news/2025/11/genui-sdk-for-flutter-alpha-brings-llm-powered-dynamic-ui-to-apps/</link>
-      <description><![CDATA[适用于 Flutter 的 GenUI SDK 现已在 pub.dev 上提供 alpha 版本，允许开发人员根据品牌指南和自定义小部件目录生成动态的、LLM 驱动的用户界面。该 SDK 使用即将推出的 A2UI 协议（与 Google 团队共同开发）来序列化和渲染 AI 生成的 UI。 Gemini 应用程序中新的杂志风格视觉布局可作为这些生成功能的现场演示。
-查看有关 AlternativeTo 的文章更多信息Flutter | Flutter 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/genui-sdk-for-flutter-alpha-brings-llm-powered-dynamic-ui-to-apps/</guid>
-      <pubDate>Thu, 20 Nov 2025 15:36:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Amazon Prime Video 为精选原创剧集推出人工智能驱动的视频回顾</title>
-      <link>https://alternativeto.net/news/2025/11/amazon-prime-video-launches-ai-driven-video-recaps-for-select-original-series/</link>
-      <description><![CDATA[亚马逊在其 Prime Video 流媒体平台上推出了人工智能驱动的视频回顾作为一项新功能。这个最新的工具使用人工智能来确定节目最重要的情节点，然后将它们与同步的语音旁白、对话片段和音乐结合起来，创建一个全面的视觉摘要，帮助观众为新一季做好准备。
-这些视频回顾对 Prime Video 于 2024 年推出的 X-Ray Recaps 进行了扩展，后者提供了由 AI 生成的无剧透文本摘要。 X 射线回顾突出了悬念和以角色为中心的发展，以便于回忆，而新的视频回顾则提供了身临其境的多媒体替代方案。
-当观众导航到受支持剧集的下一季时，他们会在节目的详细信息页面上看到一个回顾按钮。选择此按钮可让用户在可用的回顾格式之间进行选择，例如新的视频回顾或现有的基于文本的 X-Ray 回顾。
-发布时，美国部分精选英语版 Prime Original 系列的视频重述处于测试阶段。支持的游戏包括《Fallout》、《Tom Clancy’s Jack Ryan》、《Upload》、《Bosch》和《The Rig》。
-查看有关 AlternativeTo 的文章有关 Prime 的更多信息视频 | Prime 视频替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/amazon-prime-video-launches-ai-driven-video-recaps-for-select-original-series/</guid>
-      <pubDate>Thu, 20 Nov 2025 13:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Baserow 2.0 推出，包含 Kuma AI 助手、自动化构建器、2FA 和工作区搜索</title>
-      <link>https://alternativeto.net/news/2025/11/baserow-2-0-launches-with-kuma-ai-assistant-automations-builder-2fa-and-workspace-search/</link>
-      <description><![CDATA[Baserow 2.0 是这个用于构建数据库和应用程序的开源无代码平台的最新版本。此更新引入了 Kuma，这是一款人工智能助手，旨在帮助用户通过简单的语言聊天提示创建数据库、编写公式和构建自动化。
-此外，该版本还具有新的自动化构建器。该工具允许用户设置对数据变化做出反应的无代码工作流程，连接触发器、操作、公式和条件以简化任务管理。在自动化改进的基础上，用户现在可以结合自动化和人工智能操作来开发能够自动总结、分类或生成内容的自定义代理。
-Baserow 2.0 包含日期依赖性以同步相关任务和时间表，从而减少手动协调。通过集成双因素身份验证 (2FA)，安全性也得到了加强，为帐户提供了额外的保护层。可用性方面的进步包括工作区级搜索，支持跨所有数据库、表和行的全面搜索。
-最后，AI 字段获得了功能更新：它们现在支持在引用字段发生变化时自动重新生成，提供高级输入选项，并允许用户使用单个命令批量生成所有 AI 驱动的值。
-查看有关 AlternativeTo 的文章更多信息Baserow | Baserow 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/baserow-2-0-launches-with-kuma-ai-assistant-automations-builder-2fa-and-workspace-search/</guid>
-      <pubDate>Thu, 20 Nov 2025 12:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cryptomator 1.18 桌面现在可让您恢复丢失或损坏的主密钥和保管库配置</title>
-      <link>https://alternativeto.net/news/2025/11/cryptomator-1-18-desktop-now-lets-you-restore-lost-or-damaged-master-keys-and-vault-config/</link>
-      <description><![CDATA[Cryptomator 桌面版本 1.18 现已推出，为在云存储服务中加密敏感数据的用户带来增强的安全性和可用性。此更新对恢复密钥功能进行了重大改进。用户现在可以使用现有的恢复密钥完全恢复丢失或损坏的主密钥和保管库配置文件，即使在意外删除、备份问题或内存损坏后也可以重建保管库。
-除了这些恢复增强功能之外，该版本还改善了管理多个保管库的人员的设置体验。创建新保管库时，Cryptomator 现在会自动建议上次使用的文件夹位置，从而简化以类似目录结构组织保管库的用户的工作流程。
-对于 Windows 用户，安装程序和所有二进制文件现在都使用新证书进行签名。此更改旨在防止出现过时的证书警告并减少现代 Windows 系统上的安装中断。除了这些关键更新之外，该版本还解决了多个错误，特别注重提高 macOS 26 Tahoe 用户的兼容性。
-查看有关 AlternativeTo 的文章更多信息Cryptomator | Cryptomator 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/cryptomator-1-18-desktop-now-lets-you-restore-lost-or-damaged-master-keys-and-vault-config/</guid>
-      <pubDate>Thu, 20 Nov 2025 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Unity 和 Epic Games 宣布建立合作伙伴关系，将 Unity 游戏引入 Fortnite</title>
-      <link>https://alternativeto.net/news/2025/11/unity-and-epic-games-have-announced-a-partnership-to-bring-unity-games-to-fortnite/</link>
-      <description><![CDATA[Unity 和 Epic Games 宣布建立合作伙伴关系，允许 Unity 游戏在 Fortnite 中运行，开辟新的为开发者和玩家双方提供机会。使用 Unity 的开发者很快就能将他们的游戏直接发布到 Fortnite 生态系统中，该生态系统拥有超过 5 亿的注册帐户。他们还将获得《堡垒之夜》创作者经济的访问权限，提供更多通过内容获利并覆盖《堡垒之夜》庞大用户群的方式。
-在此集成的基础上，Unity 为其跨平台商务平台引入了虚幻引擎支持。此更新将于明年初推出，让虚幻开发人员可以使用熟悉的工具管理 PC、移动和 Web 项目的数字目录、支付提供商和网上商店。该平台还将简化基于虚幻引擎的游戏的定价、促销和实时运营。
-有关此次合作的更多详细信息以及这些功能的具体时间安排将在明年发布，因为两家公司都在努力扩大合作伙伴关系。
-查看有关 AlternativeTo 的文章更多信息Unity | Unity 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/unity-and-epic-games-have-announced-a-partnership-to-bring-unity-games-to-fortnite/</guid>
-      <pubDate>Thu, 20 Nov 2025 08:50:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
