@@ -4,7 +4,80 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sat, 22 Nov 2025 12:36:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Nov 2025 01:47:48 GMT</lastBuildDate>
+    <item>
+      <title>研究人员揭示 WhatsApp 枚举缺陷影响 35 亿个潜在账户</title>
+      <link>https://alternativeto.net/news/2025/11/researchers-reveal-whatsapp-enumeration-flaw-affecting-3-5-billions-of-potential-accounts/</link>
+      <description><![CDATA[维也纳大学的研究人员最近披露了一项技术，使他们能够枚举 245 个国家/地区 35 亿个可能的WhatsApp 帐号。他们的方法生成了大量电话号码组合，并以每小时超过 1 亿个号码的速度查询 WhatsApp 服务器，绕过了预期的速率限制而没有被阻止。
+他们收集了时间戳和公共加密密钥等数据，从而可以推断帐户年龄、操作系统和链接设备。当用户将这些信息设置为每个人都可以访问时，公共个人资料照片和有关文本也可见，但不会公开任何消息或联系人。
+Meta 澄清说，研究人员并未获得 35 亿个真实数字，而是确定了哪些生成的数字与活跃的 WhatsApp 帐户相匹配。研究还显示，2021 年 Facebook 泄密事件中近一半的数据在 WhatsApp 上仍然活跃。 Meta 报告没有恶意使用的证据，确认研究人员删除了所有数据，并表示服务器端缓解措施于 2025 年 9 月开始推出，并于 10 月添加了更多保护措施。不过，如果这还不够，您可以随时查看我们更安全的 WhatsApp 替代品目录，例如 Signal、Wire 或 Threema。
+查看有关 AlternativeTo 的文章更多信息WhatsApp | WhatsApp 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/researchers-reveal-whatsapp-enumeration-flaw-affecting-3-5-billions-of-potential-accounts/</guid>
+      <pubDate>Sat, 22 Nov 2025 21:17:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp 正在为用户个人资料添加名为“关于”的新活动备注功能</title>
+      <link>https://alternativeto.net/news/2025/11/whatsapp-is-adding-a-new-activity-notes-feature-called-about-for-user-profiles/</link>
+      <description><![CDATA[WhatsApp 正在重新引入其已弃用的“关于”功能，允许用户发布对其联系人可见的简短状态更新，类似于 Instagram Notes。这些更新显示在个人资料和聊天顶部。
+默认情况下，消息会在 24 小时后过期，但用户可以在设置中缩短或延长消息的持续时间。可见性也可以仅限于联系人或向查看个人资料的任何人开放。
+Meta 将于本周在移动版 WhatsApp 上推出此功能，使该应用与 Instagram 和 Facebook 上已有的类似功能保持一致。
+查看有关 AlternativeTo 的文章更多关于WhatsApp | WhatsApp 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/whatsapp-is-adding-a-new-activity-notes-feature-called-about-for-user-profiles/</guid>
+      <pubDate>Sat, 22 Nov 2025 20:54:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Xbox 全屏体验现已在 Windows PC 上提供类似控制台的设置</title>
+      <link>https://alternativeto.net/news/2025/11/the-xbox-full-screen-experience-is-now-available-on-windows-pcs-for-console-like-setups/</link>
+      <description><![CDATA[微软正式发布适用于 Windows 11 游戏电脑的全新 Xbox 全屏体验在公开预览版中，将其扩展到最近与华硕合作推出的 ROG Xbox Ally 手持设备设备之外。该预览版将同时出现在所有基于 Windows 的手持设备和任何 Windows 11 标准游戏系统上，这意味着任何拥有笔记本电脑的人都可以通过 Xbox 应用将其变成更像主机的体验，类似于大图片模式在 Steam 上的工作方式，而无需使用Linux 发行版，例如 Bazzite、ChimeraOS 或 SteamOS。
+新界面提供了控制台风格的主屏幕，专为方便控制器朋友导航而设计，可以访问 Xbox 游戏、Xbox Game Pass、Xbox Play Anywhere 以及来自 其他店面。用户可以通过长按 Xbox 按钮在应用和游戏之间切换，或使用 Windows 键返回桌面。
+新模式必须在 Windows 设置中手动启用，然后可以通过任务视图、Win 加 F11 快捷方式、Xbox 游戏栏 设置或 Xbox 控制器按钮打开。启用此功能需要注册 Windows Insider 和 Xbox Insider 计划，并且它包含在 Dev 和 Beta 渠道的内部版本 26220.7271 中。推出是渐进的，公开发布日期仍有待公布。
+查看有关 AlternativeTo 的文章有关 Xbox 的更多信息应用 | Xbox 应用替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/the-xbox-full-screen-experience-is-now-available-on-windows-pcs-for-console-like-setups/</guid>
+      <pubDate>Sat, 22 Nov 2025 20:26:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>信号为所有平台上的聊天添加固定消息功能</title>
+      <link>https://alternativeto.net/news/2025/11/signal-to-add-pinned-messages-feature-for-chats-on-all-platforms/</link>
+      <description><![CDATA[Signal 正在开发用于聊天的固定消息功能，该功能将在 Android、iOS 和桌面版上提供。固定消息将在一对一和群聊中可用，并在所有参与者的聊天顶部显示选定的消息。
+该功能的早期证据已出现在 Signal 的 iOS 源代码中，但尚未提供发布日期。
+查看有关 AlternativeTo 的文章更多信息信号 | 信号替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/signal-to-add-pinned-messages-feature-for-chats-on-all-platforms/</guid>
+      <pubDate>Sat, 22 Nov 2025 17:01:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adobe Firefly 和 Photoshop 集成 Gemini 3 Nano Banana Pro 进行高级图像编辑</title>
+      <link>https://alternativeto.net/news/2025/11/adobe-firefly-and-photoshop-integrate-gemini-3-nano-banana-pro-for-advanced-image-editing/</link>
+      <description><![CDATA[Adobe Firefly 和 Photoshop 添加了对 Google 的 Gemini 3 (Nano Banana Pro) 图像模型。用户现在可以利用文本驱动的编辑来细化图像细节、更改纵横比、增强分辨率以及操纵相机角度或照明。该模型还可以生成集成文本、支持翻译，并使用 Google 搜索的知识库生成事实上准确的视觉效果。
+查看有关 AlternativeTo 的文章有关 Adobe 的更多信息Firefly | Adobe Firefly 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/adobe-firefly-and-photoshop-integrate-gemini-3-nano-banana-pro-for-advanced-image-editing/</guid>
+      <pubDate>Sat, 22 Nov 2025 16:56:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Proton Mail 应用程序更新增加了 iOS 和 Android 上的导航功能</title>
+      <link>https://alternativeto.net/news/2025/11/proton-mail-apps-update-adds-navigation-features-on-ios-and-android/</link>
+      <description><![CDATA[Proton Mail 的最新移动更新在 iOS 和 Android 上引入了自动跳转到下一条消息和滑动导航功能。该版本还增加了阻止发件人以及将内嵌图像转换为附件的功能。
+此外，此功能删除中还解决了一些错误和性能问题。
+查看有关 AlternativeTo 的文章有关 Proton 的更多信息邮件 | Proton Mail 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/proton-mail-apps-update-adds-navigation-features-on-ios-and-android/</guid>
+      <pubDate>Sat, 22 Nov 2025 14:27:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Proton VPN 之外的顶级隐私 VPN 服务</title>
+      <link>https://alternativeto.net/news/2025/11/top-privacy-vpn-services-beyond-proton-vpn/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://alternativeto.net/news/2025/11/top-privacy-vpn-services-beyond-proton-vpn/</guid>
+      <pubDate>Sat, 22 Nov 2025 12:53:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Astro 5.16 添加了带有 SVGO 的 SVG 优化、交互式快捷方式和更好的代理支持</title>
+      <link>https://alternativeto.net/news/2025/11/astro-5-16-adds-svg-optimization-with-svgo-interactive-shortcuts-and-better-agent-support/</link>
+      <description><![CDATA[Astro 5.16 已发布，为这个以内容为中心的网站框架带来了新功能和增强功能。此版本的重点是使用 SVGO 对自动 SVG 优化的实验性支持，它通过在保持质量的同时减小 SVG 文件大小来简化资产管理。
+基于开发者体验的改进，astro Preview 命令现在支持键盘快捷键。这样可以在开发过程中更有效地控制本地预览服务器。与此同时，随着自动化编码代理和人工智能工具越来越融入工作流程，Astro 更新了 astro add 命令以提供有关 --yes 标志的提示。此添加阐明了如何绕过交互式提示，使代理自动化变得更容易。
+在这些增强之后，Astro Actions 现在具有 ActionInputSchema 实用程序类型。该实用程序简化了从操作定义中提取和重用输入模式的过程，支持抽象和创建可重用操作处理程序。 Astro 5.16 包括额外的增强功能和错误修复，以提高开发人员的整体稳定性和可用性。
+查看有关 AlternativeTo 的文章有关 Astro Web 的更多信息框架 | Astro Web 框架替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/astro-5-16-adds-svg-optimization-with-svgo-interactive-shortcuts-and-better-agent-support/</guid>
+      <pubDate>Sat, 22 Nov 2025 12:05:00 GMT</pubDate>
+    </item>
     <item>
       <title>GitLab 18.6 添加了重新设计的 UI、精确的代码搜索、新的 CI/CD 功能等等</title>
       <link>https://alternativeto.net/news/2025/11/gitlab-18-6-adds-redesigned-ui-exact-code-search-new-ci-cd-capabilities-and-much-more/</link>
@@ -71,82 +144,6 @@ Kagi 的人工智能助手以其先进的功能为基础，针对特定任务采
 查看有关 AlternativeTo 的文章有关 Deezer 的更多信息 | Deezer 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/11/deezer-launches-quick-access-to-pin-favorites-on-home-tab/</guid>
       <pubDate>Fri, 21 Nov 2025 15:58:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Immich v2.3.0 更新 OCR 语言并修复 iOS 冻结问题</title>
-      <link>https://alternativeto.net/news/2025/11/immich-v2-3-0-updates-ocr-languages-and-fixes-ios-freeze/</link>
-      <description><![CDATA[Immich v2.3.0 引入了高级 OCR 增强功能，包括新的特定于语言的模型和用于定制识别的纯英语选项。值得注意的修复解决了 iOS 上恢复时应用程序冻结的问题，提高了 Apple 用户的可靠性。
-此更新还在移动应用中添加了便捷的“添加到”操作，并恢复了 Android 设备的删除同步。
-查看有关 AlternativeTo 的文章更多信息Immich | Immich 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/immich-v2-3-0-updates-ocr-languages-and-fixes-ios-freeze/</guid>
-      <pubDate>Fri, 21 Nov 2025 15:55:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌地图推出热门景点推荐和双子座内部提示</title>
-      <link>https://alternativeto.net/news/2025/11/google-maps-introduces-trending-spot-recommendations-and-gemini-insider-tips/</link>
-      <description><![CDATA[Google 地图更新了“探索”选项卡，提供有关热门地点和值得注意的地点的建议，从而简化了发现过程。
-该平台现在还提供由 Gemini 支持的内部提示，通过快速扫描提供详细的本地见解。
-查看有关 AlternativeTo 的文章有关 Google 的更多信息地图 | Google 地图替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/google-maps-introduces-trending-spot-recommendations-and-gemini-insider-tips/</guid>
-      <pubDate>Fri, 21 Nov 2025 15:47:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Midjourney 推出具有新社交功能的用户个人资料</title>
-      <link>https://alternativeto.net/news/2025/11/midjourney-rolls-out-user-profiles-with-new-social-features/</link>
-      <description><![CDATA[Midjourney 推出了可自定义的用户配置文件，允许用户设置用户名、添加社交链接以及使用横幅个性化其页面。该更新还使用户能够关注朋友并在他们的个人资料上突出显示最喜爱的图像。此版本引入了在 Midjourney 社区中参与和互动的新方式。
-查看有关 AlternativeTo 的文章有关 Midjourney 的更多信息 | 中途替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/midjourney-rolls-out-user-profiles-with-new-social-features/</guid>
-      <pubDate>Fri, 21 Nov 2025 15:39:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Stitch 向 AI Studio 添加一键导出功能，以加快工作流程</title>
-      <link>https://alternativeto.net/news/2025/11/google-stitch-adds-1-click-export-to-ai-studio-for-faster-workflows/</link>
-      <description><![CDATA[Google Stitch 已推出一键导出到 AI Studio 的功能，使用户能够立即传输 HTML 和屏幕数据，无需手动复制粘贴或文件处理。
-自动导出适用于 11 月 15 日之后创建的所有项目，而可以复制旧项目以更新其文件结构。
-查看有关 AlternativeTo 的文章有关 Google 的更多信息Stitch | Google Stitch 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/google-stitch-adds-1-click-export-to-ai-studio-for-faster-workflows/</guid>
-      <pubDate>Fri, 21 Nov 2025 15:35:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Perplexity 将其代理网络浏览器 Comet 引入 Android，并提供语音和其他人工智能功能</title>
-      <link>https://alternativeto.net/news/2025/11/perplexity-brings-its-agentic-web-browser-comet-to-android-with-voice-and-other-ai-features/</link>
-      <description><![CDATA[Perplexity 已将其代理浏览器 Comet 扩展到 Android，首次为移动用户带来一系列智能功能。 Android 用户现在可以访问集成语音识别，使他们能够直接与 Comet 助手交互，以使用自然语音在所有打开的选项卡中查找信息。
-除此之外，智能摘要允许用户同时从多个打开的选项卡生成内容的简明概述，从而简化移动设备上的研究过程。为了保护隐私和用户体验，Android 版 Comet 集成了内置广告拦截器，有助于避免垃圾邮件和弹出广告，并提供可选的可信站点白名单 — 桌面版本上的镜像功能。
-该浏览器的核心功能是人工智能助手，旨在阻止干扰并为各种任务提供主动支持，同时始终保持用户控制。在这些增强之后，Comet 的进一步目标是支持广泛的活动——无论是研究、简化信息、购物还是学习——允许用户根据个人需求定制浏览器的人工智能驱动功能。
-查看有关 AlternativeTo 的文章有关 Perplexity 的更多信息Comet | 困惑彗星替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/perplexity-brings-its-agentic-web-browser-comet-to-android-with-voice-and-other-ai-features/</guid>
-      <pubDate>Fri, 21 Nov 2025 13:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vivaldi 7.7 移动版带来了自定义搜索引擎、书签导入和更好的深色模式</title>
-      <link>https://alternativeto.net/news/2025/11/vivaldi-7-7-for-mobile-brings-custom-search-engines-bookmark-import-and-better-dark-mode/</link>
-      <description><![CDATA[继上周桌面版之后，iOS 和 Android 用户的 Vivaldi 现已收到 7.7 更新发布。此次更新为两个平台提供了显着的新增功能。
-在 Android 上，用户现在可以添加自定义搜索引擎。这不仅支持流行的搜索提供商，还支持专业来源，例如公司内部数据库、学术目录或特定行业的搜索门户。依赖独特或利基搜索引擎的高级用户现在可以将它们直接集成到 Android 版 Vivaldi 上的工作流程中。
-除了搜索增强之外，Android 用户还获得了对书签导入和导出的支持。此更改简化了用户从其他浏览器切换或备份其浏览数据的过程。经过这些改进，用户可以将 Vivaldi 设置为主要浏览器，而不会丢失以前应用程序的书签。
-对于那些注重美观的用户来说，7.7 更新改进了深色模式外观，旨在为整个应用提供更加视觉一致的体验。在此次发布中，iOS 用户获得了与 iOS 26 的改进兼容性，确保 Vivaldi 继续在最新的 Apple 设备上顺利运行。
-查看有关 AlternativeTo 的文章更多信息维瓦尔第 | 维瓦尔第替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/vivaldi-7-7-for-mobile-brings-custom-search-engines-bookmark-import-and-better-dark-mode/</guid>
-      <pubDate>Fri, 21 Nov 2025 10:31:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android 用户终于可以通过 AirDrop 互操作性与 iPhone 共享文件</title>
-      <link>https://alternativeto.net/news/2025/11/android-users-can-finally-share-files-with-iphone-through-airdrop-interoperability/</link>
-      <description><![CDATA[出人意料的是，Google 宣布 Android 用户现在可以通过 Quick Share 在 iPhone、iPad 和 macOS 设备上本机发送和接收文件，该功能现在可与Apple 的 AirDrop。谷歌还强调，它是独立开发互操作性的，没有依赖任何苹果 API 或合作。
-还值得一提的是，该功能目前仅限于 Pixel 10 系列，但发言人证实 Google 计划将其扩展到更多 Android 设备。要传输文件，两台设备都必须将其可见性设置为“任何人 10 分钟”。 Apple 用户通过 AirDrop 首选项启用此功能，而 Pixel 10 用户则使用 Quick Share 的接收模式或使设备可被发现。双向传输工作，允许用户以最小的摩擦在平台之间移动文件。
-该实施方案已经过 Google 隐私和安全团队的内部审核以及独立安全专家的外部审核，预计 Apple 可能会就互操作性提出反对意见。这一举措进一步推动了曾经 Apple 独有的功能向跨平台开放的趋势，包括在 iOS 中添加了 RCS 消息支持
-查看有关 AlternativeTo 的文章有关快速分享的更多信息[Google] | 快速分享 [Google] 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/android-users-can-finally-share-files-with-iphone-through-airdrop-interoperability/</guid>
-      <pubDate>Thu, 20 Nov 2025 23:49:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Warp 推出 Agents 3.0，具有完整的终端使用、代码审查、规划和新集成功能</title>
-      <link>https://alternativeto.net/news/2025/11/warp-launches-agents-3-0-with-full-terminal-use-code-review-planning-and-new-integrations/</link>
-      <description><![CDATA[Warp Terminal 已发布 Agents 3.0，其人工智能驱动的开发助手可直接在终端内工作。此更新引入了四项主要升级：完全终端使用、/plan 命令、交互式代码审查以及与 Slack、Linear 和 GitHub 的新集成通过标记 @warp 进行操作，从而实现快速问题调查和自动拉取请求创建。
-完全终端使用使代理可以在前台操作 REPL、调试器和全屏工具，在代理处理提示、检查实时状态以及运行 GDB 调试或数据库查询等多步命令时为用户提供实时可见性和控制。
-/plan 命令在编码开始之前添加了清晰的对齐步骤。计划可以在 Warp 中进行细化、版本控制和引用或附加到拉取请求中，帮助团队维护一致的文档并提高代码准确性。交互式代码审查允许用户浏览差异、批量注释，并让代理直接在终端中应用修复，从而保持审查流程的连续性和透明性。
-查看有关 AlternativeTo 的文章有关 Warp 的更多信息终端 | Warp 终端替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/warp-launches-agents-3-0-with-full-terminal-use-code-review-planning-and-new-integrations/</guid>
-      <pubDate>Thu, 20 Nov 2025 23:16:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
