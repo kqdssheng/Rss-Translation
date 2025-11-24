@@ -3,8 +3,28 @@
   <channel>
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
-    <description></description>
-    <lastBuildDate>Mon, 24 Nov 2025 01:42:33 GMT</lastBuildDate>
+    <description>来自 AlternativeTo 的最新科技新闻</description>
+    <lastBuildDate>Mon, 24 Nov 2025 12:41:49 GMT</lastBuildDate>
+    <item>
+      <title>Bottles 60.0 带来了原生 Wayland 支持、新的注册表规则和固定的 Steam Deck 控件</title>
+      <link>https://alternativeto.net/news/2025/11/bottles-60-0-brings-native-wayland-support-new-registry-rules-and-fixed-steam-deck-controls/</link>
+      <description><![CDATA[Bottles 60.0 引入了多项核心改进，首先是现在可直接在设置中使用的本机 Wayland 选项。由于用户跟踪已被删除，用户将受益于更高的隐私性，并且 EasyTerm 已升级至 1.0 版以获得更强大的终端体验。此外，用户现在可以使用用户界面更改存储库 URL，而新的注册表规则系统支持可重用的前缀策略，为高级用户提供更大的控制权。
+在管理增强的基础上，该版本提供了使用 Winebridge 生成进程的能力，以实现更深入的集成，并简化了运行程序和 DVXK 的更新。新版本还使用户能够仅继承每瓶选定的系统环境变量，从而提供更精确的配置。为了解决以前的可用性差距，Bottles 现在建议如何安装缺少的 Flatpak 扩展，并且重新引入了期刊浏览器，同时将缓存管理合并到首选项视图中。
+经过一系列错误修复后，Steam Deck 控件现在可以在游戏模式下按预期工作，并且工作目录设置在应用程序启动之间可靠地保持不变。为了完善可用性改进，DLL 组件界面已与 Runners UI 保持一致，包括新的瓶子创建对话框和改进的安装程序日志记录，并且现在在更新 Winebridge 之前需要用户同意。其他增强功能和修复完成了更新。
+查看有关 AlternativeTo 的文章更多信息瓶子 | 瓶子替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/bottles-60-0-brings-native-wayland-support-new-registry-rules-and-fixed-steam-deck-controls/</guid>
+      <pubDate>Mon, 24 Nov 2025 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PHP 8.5 添加了内置 URI 扩展、管道运算符、更新的克隆语法等等</title>
+      <link>https://alternativeto.net/news/2025/11/php-8-5-adds-built-in-uri-extension-pipe-operator-updated-clone-syntax-and-much-more/</link>
+      <description><![CDATA[PHP 8.5 已作为这种广泛使用的脚本语言的最新版本发布，为 Web 开发人员带来了重大更新。最突出的新增功能之一是内置的 URI 扩展，允许开发人员根据 RFC 3986 和 WHATWG URL 标准解析、规范化和处理 URL。新的管道运算符 | 支持从左到右的可调用链接，使函数中的数据流更简单，而无需依赖中间变量。
+在这些核心更改之后，该版本引入了更新的 clone() 语法，提供了一种简化的方法来克隆对象并一步为不可变或只读类设置属性。 API 安全性通过 #[\NoDiscard] 属性受到关注，如果返回值未使用，该属性会生成警告。此外，静态闭包和一流的可调用对象现在可以出现在常量表达式中，例如属性参数，为开发人员提供了更大的灵活性。
+效率改进包括句柄能够跨多个 PHP 请求持久存在，从而减少连接初始化的开销。开发人员还可以通过 array_first() 和 array_last() 函数获得新的实用程序，这些函数可以可靠地从数组中提取第一个或最后一个值或 null。 PHP 8.5 还带来了更多功能添加、弃用以及一些向后兼容性中断。
+查看有关 AlternativeTo 的文章更多信息PHP | PHP 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/php-8-5-adds-built-in-uri-extension-pipe-operator-updated-clone-syntax-and-much-more/</guid>
+      <pubDate>Mon, 24 Nov 2025 08:50:00 GMT</pubDate>
+    </item>
     <item>
       <title>研究人员揭示 WhatsApp 枚举缺陷影响 35 亿个潜在账户</title>
       <link>https://alternativeto.net/news/2025/11/researchers-reveal-whatsapp-enumeration-flaw-affecting-3-5-billions-of-potential-accounts/</link>
@@ -38,7 +58,7 @@ Meta 将于本周在移动版 WhatsApp 上推出此功能，使该应用与 Inst
     <item>
       <title>信号为所有平台上的聊天添加固定消息功能</title>
       <link>https://alternativeto.net/news/2025/11/signal-to-add-pinned-messages-feature-for-chats-on-all-platforms/</link>
-      <description><![CDATA[Signal 正在开发用于聊天的固定消息功能，该功能将在 Android、iOS 和桌面版上提供。固定消息将在一对一和群聊中可用，并在所有参与者的聊天顶部显示选定的消息。
+      <description><![CDATA[Signal 正在开发用于聊天的固定消息功能，该功能将在 Android、iOS 和桌面版上提供。固定消息已在 AboutSignal.com 上得到确认，并将在一对一和群聊中可用，并在所有参与者的聊天顶部显示选定的消息。
 该功能的早期证据已出现在 Signal 的 iOS 源代码中，但尚未提供发布日期。
 查看有关 AlternativeTo 的文章更多信息信号 | 信号替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/11/signal-to-add-pinned-messages-feature-for-chats-on-all-platforms/</guid>
@@ -81,17 +101,17 @@ Meta 将于本周在移动版 WhatsApp 上推出此功能，使该应用与 Inst
     <item>
       <title>GitLab 18.6 添加了重新设计的 UI、精确的代码搜索、新的 CI/CD 功能等等</title>
       <link>https://alternativeto.net/news/2025/11/gitlab-18-6-adds-redesigned-ui-exact-code-search-new-ci-cd-capabilities-and-much-more/</link>
-      <description><![CDATA[GitLab 18.6 是这个著名的代码托管和 DevOps 平台的最新版本。 At its core, the update unveils a redesigned user interface, which offers a more intuitive, side-by-side workspace. With the addition of contextual panels, teams can minimize unnecessary clicks and maintain their workflow focus.
-Building on workflow improvements, GitLab 18.6 adds exact code search in limited availability.用户可以利用完全匹配和正则表达式模式在整个实例、组或项目中搜索代码，由开源 Zoekt 搜索引擎提供支持。
+      <description><![CDATA[GitLab 18.6 是这个著名的代码托管和 DevOps 平台的最新版本。此次更新的核心是重新设计的用户界面，提供了更直观的并排工作空间。通过添加上下文面板，团队可以最大限度地减少不必要的点击并保持工作流程的重点。
+在工作流程改进的基础上，GitLab 18.6 在有限的可用性中添加了精确的代码搜索。用户可以利用完全匹配和正则表达式模式在整个实例、组或项目中搜索代码，由开源 Zoekt 搜索引擎提供支持。
 GitLab 的 CI/CD 工具也具有更强的灵活性。组件现在可以使用 spec:component 关键字在其配置中引用自己的元数据，例如版本号或提交 SHA。除此之外，该版本还使创建和管理动态 1-1 依赖项变得更加容易，支持更清晰、可扩展的并行：矩阵管道。
-Following changes to security workflows, the GitLab Security Analyst Agent becomes a default part of Duo Agentic Chat. This ensures it is available out of the box on self-managed and dedicated setups, removing the need for manual additions from the AI catalog.同时，新的安全仪表板提供了更新且更清晰的界面。
+随着安全工作流程的变化，GitLab 安全分析师代理成为 Duo Agentic Chat 的默认部分。这确保了它可以在自我管理和专用设置中开箱即用，无需从 AI 目录中手动添加。同时，新的安全仪表板提供了更新且更清晰的界面。
 除了重大更新之外，GitLab 18.6 还提供了一系列其他增强功能和错误修复。
-查看有关 AlternativeTo 的文章更多信息 GitLab | GitLab Alternatives]]></description>
+查看有关 AlternativeTo 的文章更多信息GitLab | GitLab 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/11/gitlab-18-6-adds-redesigned-ui-exact-code-search-new-ci-cd-capabilities-and-much-more/</guid>
       <pubDate>Fri, 21 Nov 2025 20:05:00 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>谷歌为所有用户推出由 Gemini 3 驱动的 Nano Banana Pro Image 型号</title>
       <link>https://alternativeto.net/news/2025/11/google-launches-the-gemini-3-powered-nano-banana-pro-image-model-for-all-users/</link>
       <description><![CDATA[Google 推出了Gemini 3 Pro Image 或 Nano Banana Pro 全新图像创建和编辑模型。它将 Gemini 推理与实时 Google 搜索数据相结合，生成情境感知视觉效果，包括基于实时天气或体育信息的图像。该模型通过更丰富的字体、纹理和书法改进了文本渲染，支持多语言文本，并且可以混合最多 14 个图像，同时保持最多 5 个人的准确相似度。
 与之前的版本相比，新模型提供了精确的编辑工具，让用户可以细化特定区域，调整相机角度、焦点、照明、场景构图以及应用颜色分级，同时与旧模型相比还提高了图像真实感。它支持多种宽高比，输出分辨率高达 4K。 1K 或 2K 的开发者定价为每张图像 0.134 美元，4K 的每张图像为 0.24 美元。
@@ -101,21 +121,21 @@ Gemini 3 Pro Image 正在跨 Google 产品推出，包括 Google Gemini 应用�
       <pubDate>Fri, 21 Nov 2025 19:19:08 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>Kagi 推出 Quick and Research AI 助手，用于高级研究任务和分析</title>
       <link>https://alternativeto.net/news/2025/11/kagi-launches-quick-and-research-ai-assistants-for-advanced-research-tasks-and-analysis/</link>
-      <description><![CDATA[Kagi has introduced two dedicated research AI assistants, Quick Assistant and Research Assistant, to streamline and improve user information retrieval. 快速助手向所有用户开放，可在五秒内提供直接、简洁的答案，同时成本最低。 In contrast, the Research Assistant is offered exclusively to ultimate tier subscribers and specializes in in-depth, diverse analysis for more thorough results, typically taking over twenty seconds per query.
-Following this launch, users can access both assistants from the Kagi Assistant web application or directly in their search bar through bang shortcuts for greater convenience. Each assistant’s core benefit lies in its capacity for effective research: the system automatically determines suitable queries, conducts parallel searches across multiple languages when needed, and synthesizes findings into comprehensive answers.
-Kagi 的人工智能助手以其先进的功能为基础，针对特定任务采用不同的基本模型。该公司对领先的机器学习模型进行基准测试，并动态选择最有能力的模型来满足每个请求。 Beyond web search and retrieval, the assistants leverage additional tools such as code execution for calculations, image generation, and direct access to custom APIs, such as Wolfram Alpha and live news feeds.
-View article on AlternativeTo »More about Kagi助理 | Kagi 助理替代方案]]></description>
+      <description><![CDATA[Kagi 推出了两个专用的研究人工智能助手：快速助手 和研究助手，以简化和改进用户信息检索。 快速助手向所有用户开放，可在五秒内提供直接、简洁的答案，同时成本最低。相比之下，研究助理专门为最终层订阅者提供，专门从事深入、多样化的分析以获得更彻底的结果，每次查询通常需要二十多秒的时间。
+此次发布后，用户可以从 Kagi Assistant Web 应用程序访问这两个助手，也可以通过 Bang 快捷方式直接在搜索栏中访问这两个助手，以更加方便。每个助手的核心优势在于其有效研究的能力：系统自动确定合适的查询，在需要时跨多种语言进行并行搜索，并将结果综合为综合答案。
+Kagi 的人工智能助手以其先进的功能为基础，针对特定任务采用不同的基本模型。该公司对领先的机器学习模型进行基准测试，并动态选择最有能力的模型来满足每个请求。除了网络搜索和检索之外，助手还利用其他工具，例如用于计算的代码执行、图像生成以及直接访问自定义 API，例如 Wolfram Alpha 和实时新闻源。
+查看有关 AlternativeTo 的文章有关 Kagi 的更多信息助理 | Kagi 助理替代品]]></description>
       <guid>https://alternativeto.net/news/2025/11/kagi-launches-quick-and-research-ai-assistants-for-advanced-research-tasks-and-analysis/</guid>
       <pubDate>Fri, 21 Nov 2025 16:50:00 GMT</pubDate>
     </item>
     <item>
       <title>Jules 添加了 repoless 会话，允许没有 GitHub repos 的项目</title>
       <link>https://alternativeto.net/news/2025/11/jules-adds-repoless-sessions-allowing-projects-without-github-repos/</link>
-      <description><![CDATA[Jules now lets users start sessions without needing a GitHub repository, making it easier to launch prototypes or scripts.用户可以上传自己的上下文（例如代码文件或图像），并在会话完成时下载所有结果。
+      <description><![CDATA[Jules 现在允许用户启动会话，而无需 GitHub 存储库，从而更轻松地启动原型或脚本。用户可以上传自己的上下文（例如代码文件或图像），并在会话完成时下载所有结果。
 此更新可立即用于所有新任务。
-View article on AlternativeTo »More about Jules | 朱尔斯替代品]]></description>
+查看有关 AlternativeTo 的文章有关 Jules 的更多信息 | 朱尔斯替代品]]></description>
       <guid>https://alternativeto.net/news/2025/11/jules-adds-repoless-sessions-allowing-projects-without-github-repos/</guid>
       <pubDate>Fri, 21 Nov 2025 16:16:52 GMT</pubDate>
     </item>
@@ -124,26 +144,9 @@ View article on AlternativeTo »More about Jules | 朱尔斯替代品]]></desc
       <link>https://alternativeto.net/news/2025/11/notebooklm-adds-infographics-for-high-quality-visual-summaries/</link>
       <description><![CDATA[NotebookLM 推出了信息图表，允许用户描述所需的输出并根据其来源创建可定制的高质量视觉摘要。
 该功能已向专业版用户开放，免费用户计划在未来几周内使用。
-查看有关 AlternativeTo 的文章有关 NotebookLM 的更多信息 | NotebookLM Alternatives]]></description>
+查看有关 AlternativeTo 的文章有关 NotebookLM 的更多信息 | NotebookLM 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/11/notebooklm-adds-infographics-for-high-quality-visual-summaries/</guid>
       <pubDate>Fri, 21 Nov 2025 16:13:26 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
-      <link>https://alternativeto.net/news/2025/11/angular-v21-brings-experimental-signal-forms-aria-preview-and-vitest-support/</link>
-      <description><![CDATA[Angular v21 引入了实验性信号表单，允许开发人员使用信号创建可扩展的反应式表单。该版本还在开发者预览版中首次推出了 Angular Aria，提供专注于可访问性的无头组件。 Vitest 现在充当新项目稳定的、可用于生产的默认测试运行程序，而新应用程序中默认不再包含 Zone.js。
-查看有关 AlternativeTo 的文章更多信息Angular | Angular 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/angular-v21-brings-experimental-signal-forms-aria-preview-and-vitest-support/</guid>
-      <pubDate>Fri, 21 Nov 2025 16:06:08 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
-      <link>https://alternativeto.net/news/2025/11/deezer-launches-quick-access-to-pin-favorites-on-home-tab/</link>
-      <description><![CDATA[Deezer 推出了快速访问功能，这是一项新功能，允许用户将最多八个喜爱的播放列表、专辑或播客固定到主页选项卡的顶部。用户可以通过长按“快速访问”部分来自定义这些引脚，并随时重新排列或更新它们。
-此功能简化了对应用程序内经常播放的内容的访问。
-查看有关 AlternativeTo 的文章有关 Deezer 的更多信息 | Deezer 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/deezer-launches-quick-access-to-pin-favorites-on-home-tab/</guid>
-      <pubDate>Fri, 21 Nov 2025 15:58:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
