@@ -4,7 +4,50 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Tue, 25 Nov 2025 01:28:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 12:42:18 GMT</lastBuildDate>
+    <item>
+      <title>KeePassXC 2.7.11 添加附件预览、KeeShare 组同步和密码自动生成</title>
+      <link>https://alternativeto.net/news/2025/11/keepassxc-2-7-11-adds-attachment-preview-keeshare-group-sync-and-password-auto-generation/</link>
+      <description><![CDATA[KeePassXC 2.7.11 已发布，为这款跨平台开源密码管理器引入了多项新功能和修复。最显着的变化是，用户现在可以直接在内联查看器中查看图像、HTML 和 Markdown 附件。此外，该版本还允许在应用程序内编辑文本文件附件。
+在这些增强功能的基础上，更新添加了一个新的数据库合并确认对话框，以提高合并过程中的安全性，并扩展了 KeeShare 的组支持，进一步支持团队或多用户环境的数据库共享。自动为新条目生成密码的选项还简化了用户的密码创建工作流程。
+在解决用户体验问题时，此版本解决了主窗口在系统托盘中启动后未恢复其先前几何形状等问题，并修复了 macOS 上的安全输入模式。完成这些修复后，macOS 用户将获得新的、特定于平台的窗口和帮助菜单。该版本还包括更新的 Liquid Glass 图标，为 Mac 电脑带来更现代的视觉触感。
+另外，KeePassXC 版本 2.7.9 已获得法国国家网络安全局 (ANSSI) 的 CSPN 安全认证，证明符合一级安全性标准。
+查看有关 AlternativeTo 的文章更多信息KeePassXC | KeePassXC 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/keepassxc-2-7-11-adds-attachment-preview-keeshare-group-sync-and-password-auto-generation/</guid>
+      <pubDate>Tue, 25 Nov 2025 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>截图应用 Shottr 1.9 添加兼容 S3 的云上传和手绘注释样式</title>
+      <link>https://alternativeto.net/news/2025/11/screenshot-app-shottr-1-9-adds-s3-compatible-cloud-uploads-and-hand-drawn-annotation-styles/</link>
+      <description><![CDATA[Shottr 1.9 引入了 S3 兼容的云上传，使用户能够将屏幕截图发送到 Amazon、Cloudflare、Backbaze 和类似服务。这对 Shottr Cloud 进行了扩展，为设计人员和开发人员管理图像工作流程提供了更大的灵活性。
+除了扩展的云选项之外，Shottr 现在还为文本、箭头、椭圆形和矩形对象提供手绘注释样式。用户可以从属性面板访问此功能，并通过按 Cmd+R 随机化手绘效果来进一步改变外观。
+此外，每种箭头类型现在都支持弯曲成拱形，为用户提供了在屏幕截图中突出显示元素的新方法。还添加了可配置的对象捕捉和放大镜工具，帮助用户在注释图像时实现精确的放置并提高可见性。
+对于那些在较大屏幕上工作的人来说，当窗口大小允许时，所有 16 个可用注释工具现在都会显示在工具栏中。现在，可以通过将自定义样式的通知拖出来将其关闭，并且菜单栏图标在复制、保存或上传屏幕截图时提供快速确认动画。
+最后，Shottr 1.9 包含五个错误修复，支持更流畅、更可靠的用户体验。
+查看有关 AlternativeTo 的文章更多信息Shottr | Shottr 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/screenshot-app-shottr-1-9-adds-s3-compatible-cloud-uploads-and-hand-drawn-annotation-styles/</guid>
+      <pubDate>Tue, 25 Nov 2025 08:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 推出新的购物研究工具，用于产品比较和交易跟踪</title>
+      <link>https://alternativeto.net/news/2025/11/chatgpt-launches-new-shopping-research-tool-for-product-comparison-and-deal-tracking/</link>
+      <description><![CDATA[OpenAI 在 ChatGPT 中引入了一项新的购物研究功能，为用户提供了一种直接在聊天中比较产品、查找详细信息和跟踪交易的方法。该功能可供所有登录用户使用，包括免费用户，在假期期间可以延长访问时间，是的，臭名昭著的黑色星期五即将到来。
+用户可以从 + 菜单打开该工具，或者依靠 ChatGPT 在检测到购物意图时发送提示。它可以处理产品比较、礼物创意、交易跟踪以及从上传的图像中进行相似搜索。该模型还提出了澄清问题，以缩小电子产品、电器和时尚等类别的推荐范围。
+该功能由 GPT 5 迷你变体提供支持，该变体经过训练可以读取受信任的网站、引用来源和综合产品信息。 OpenAI 指出引用准确性有所提高，但仍然建议在零售商页面上验证价格和可用性。结果来自公开的零售网站，没有与零售商共享聊天数据。该公司还确认将在稍后的更新中添加对即时结账的支持，该功能允许通过 ChatGPT 从选定的商家直接购买。虽然尚未宣布任何消息，但很容易想象这将成为未来广告投放的主要地点，但只有时间才能证明一切。
+查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/chatgpt-launches-new-shopping-research-tool-for-product-comparison-and-deal-tracking/</guid>
+      <pubDate>Tue, 25 Nov 2025 02:36:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anthropic 推出具有长上下文记忆和 Chrome/Excel 集成的 Claude Opus 4.5</title>
+      <link>https://alternativeto.net/news/2025/11/anthropic-unveils-opus-4-5-with-top-benchmarks-enhanced-context-and-new-integrations/</link>
+      <description><![CDATA[Anthropic 已发布 Claude Opus 4.5 作为其 4.5 系列的最终型号，继 十四行诗 4.5 和 俳句 4.5。它在 SWE Bench、Terminal Bench、tau2 Bench、MCP Atlas、ARC AGI 2 和 GPQA Diamond 等基准测试中提供了最先进的结果，并且是第一个在 SWE Bench 验证上通过 80% 的模型。
+Opus 4.5 带来了长上下文内存改进，使其在处理大型文档、代码库和多步骤工作流程时更加可靠。这些更改支持新的无休止聊天功能，并帮助模型在扩展任务期间更有效地管理信息。
+Anthropic 还更新了其 Google Chrome 和 Microsoft Excel 集成。 Claude for Chrome 现已向所有 Max 用户提供无限聊天功能，而 Claude for Excel 则向 Max、Team 和 Enterprise 用户提供，支持数据透视表、图表和文件上传。该模型增强了代理工作流程，协调俳句驱动的子代理并改进了自己的流程，并提高了对即时注入攻击的抵抗力。它可以通过 Anthropic 的应用程序和 API 获得，起价为每百万代币 5 美元。
+查看有关 AlternativeTo 的文章更多信息克劳德 | 克劳德替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/anthropic-unveils-opus-4-5-with-top-benchmarks-enhanced-context-and-new-integrations/</guid>
+      <pubDate>Tue, 25 Nov 2025 02:08:20 GMT</pubDate>
+    </item>
     <item>
       <title>Files 4.0.20 添加了存档提取升级并改进了操作反馈</title>
       <link>https://alternativeto.net/news/2025/11/files-4-0-20-adds-archive-extraction-upgrades-and-improved-operation-feedback/</link>
@@ -119,40 +162,6 @@ Meta 将于本周在移动版 WhatsApp 上推出此功能，使该应用与 Inst
 查看有关 AlternativeTo 的文章更多信息信号 | 信号替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/11/signal-to-add-pinned-messages-feature-for-chats-on-all-platforms/</guid>
       <pubDate>Sat, 22 Nov 2025 17:01:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adobe Firefly 和 Photoshop 集成 Gemini 3 Nano Banana Pro 进行高级图像编辑</title>
-      <link>https://alternativeto.net/news/2025/11/adobe-firefly-and-photoshop-integrate-gemini-3-nano-banana-pro-for-advanced-image-editing/</link>
-      <description><![CDATA[Adobe Firefly 和 Photoshop 添加了对 Google 的 Gemini 3 (Nano Banana Pro) 图像模型。用户现在可以利用文本驱动的编辑来细化图像细节、更改纵横比、增强分辨率以及操纵相机角度或照明。该模型还可以生成集成文本、支持翻译，并使用 Google 搜索的知识库生成事实上准确的视觉效果。
-查看有关 AlternativeTo 的文章有关 Adobe 的更多信息Firefly | Adobe Firefly 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/adobe-firefly-and-photoshop-integrate-gemini-3-nano-banana-pro-for-advanced-image-editing/</guid>
-      <pubDate>Sat, 22 Nov 2025 16:56:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Proton Mail 应用程序更新增加了 iOS 和 Android 上的导航功能</title>
-      <link>https://alternativeto.net/news/2025/11/proton-mail-apps-update-adds-navigation-features-on-ios-and-android/</link>
-      <description><![CDATA[Proton Mail 的最新移动更新在 iOS 和 Android 上引入了自动跳转到下一条消息和滑动导航功能。该版本还增加了阻止发件人以及将内嵌图像转换为附件的功能。
-此外，此功能删除中还解决了一些错误和性能问题。
-查看有关 AlternativeTo 的文章有关 Proton 的更多信息邮件 | Proton Mail 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/proton-mail-apps-update-adds-navigation-features-on-ios-and-android/</guid>
-      <pubDate>Sat, 22 Nov 2025 14:27:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Proton VPN 之外的顶级隐私 VPN 服务</title>
-      <link>https://alternativeto.net/news/2025/11/top-privacy-vpn-services-beyond-proton-vpn/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://alternativeto.net/news/2025/11/top-privacy-vpn-services-beyond-proton-vpn/</guid>
-      <pubDate>Sat, 22 Nov 2025 12:53:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Astro 5.16 添加了带有 SVGO 的 SVG 优化、交互式快捷方式和更好的代理支持</title>
-      <link>https://alternativeto.net/news/2025/11/astro-5-16-adds-svg-optimization-with-svgo-interactive-shortcuts-and-better-agent-support/</link>
-      <description><![CDATA[Astro 5.16 已发布，为这个以内容为中心的网站框架带来了新功能和增强功能。此版本的重点是使用 SVGO 对自动 SVG 优化的实验性支持，它通过在保持质量的同时减小 SVG 文件大小来简化资产管理。
-基于开发者体验的改进，astro Preview 命令现在支持键盘快捷键。这样可以在开发过程中更有效地控制本地预览服务器。与此同时，随着自动化编码代理和人工智能工具越来越融入工作流程，Astro 更新了 astro add 命令以提供有关 --yes 标志的提示。此添加阐明了如何绕过交互式提示，使代理自动化变得更容易。
-在这些增强之后，Astro Actions 现在具有 ActionInputSchema 实用程序类型。该实用程序简化了从操作定义中提取和重用输入模式的过程，支持抽象和创建可重用操作处理程序。 Astro 5.16 包括额外的增强功能和错误修复，以提高开发人员的整体稳定性和可用性。
-查看有关 AlternativeTo 的文章有关 Astro Web 的更多信息框架 | Astro Web 框架替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/astro-5-16-adds-svg-optimization-with-svgo-interactive-shortcuts-and-better-agent-support/</guid>
-      <pubDate>Sat, 22 Nov 2025 12:05:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
