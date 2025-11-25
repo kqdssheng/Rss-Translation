@@ -4,7 +4,63 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Mon, 24 Nov 2025 12:41:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 01:28:13 GMT</lastBuildDate>
+    <item>
+      <title>Files 4.0.20 添加了存档提取升级并改进了操作反馈</title>
+      <link>https://alternativeto.net/news/2025/11/files-4-0-20-adds-archive-extraction-upgrades-and-improved-operation-feedback/</link>
+      <description><![CDATA[免费的开源Files应用程序已推出4.0.20版，引入了多项改进，特别是针对存档处理和一般工作流程。 “提取存档”对话框现在允许用户输入或粘贴目标路径，并包含一个包含最近使用的位置的下拉列表，使重复提取变得更加容易。
+状态中心添加了一个发现阶段，以显示应用程序在开始操作之前扫描项目的时间，从而取代了旧的冻结状态。 “取消”按钮也已移至弹出菜单中，以减少混乱并避免意外点击。用户现在可以隐藏状态栏以获得更清晰的界面，文件和文件夹具有单独的单击打开设置以实现更灵活的导航。
+现在可以可靠地显示存档提取进度，多部分 RAR 存档提供更清晰的错误消息，并且常见的 shell 位置（例如回收站）在启动时可以正确加载。该应用程序还可以检测环境变量的更改，而无需重新启动，而“列视图”在上下文菜单、滚动和搜索交互方面获得了稳定性改进。还包括其他较小的改进。
+如果您还没有尝试过，文件是本机 Windows 文件资源管理器 的绝佳替代品，尤其是现在即使 该公司本身也承认自己有多么臃肿。
+查看有关 AlternativeTo 的文章更多信息文件 | 文件替代]]></description>
+      <guid>https://alternativeto.net/news/2025/11/files-4-0-20-adds-archive-extraction-upgrades-and-improved-operation-feedback/</guid>
+      <pubDate>Mon, 24 Nov 2025 17:39:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>抛弃 Google 地图和 Waze：我环游世界的旅程</title>
+      <link>https://alternativeto.net/news/2025/11/leaving-google-maps-and-waze-behind-my-journey-to-find-my-way-around-the-world/</link>
+      <description><![CDATA[在意识到 GoogleMaps 和 Waze 不再是“导航伙伴”而更多是“数据猎犬”后，我终于认输了广告业的忙碌”。在不断向你承诺“更快路线”的弹出窗口（同时悄悄地将你的位置发送到十几个谷歌服务）和不断增长的横幅广告之间，我开始感觉自己像一个在自己城市的游客，只有导游也在监视我。因此，我开始寻找一款尊重我的隐私、不需要订阅“Google 生态系统”、并且真正能让我享受旅程的导航应用，无论是开车、骑自行车还是步行。
+我第一个充满希望的替代品是 HEREWeGo，它承诺覆盖全球并提供路线导航，但没有 Google 品牌。然而，在实践中，它被证明是一个隐私灰色区域，一些用户数据被记录，每当我在实际驾驶时尝试导航时，我都会遇到多个错误和崩溃。该应用程序是免费的，没有广告，但它缺乏太多功能，并且有太多烦人的错误，所以我无法在这种状态下继续使用它。
+接下来是 MagicEarth，这是一款时尚、无广告的应用程序，拥有离线地图、实时交通数据和公共交通集成，所有这些均由 OpenStreetMap 提供支持。它感觉像是一股新鲜空气，但遗憾的是，它不是开源的，因此它无法在 F-Droid 上使用，并且最近变成了一款付费应用程序（每年 0.99 美元，但您仍然需要通过 Apple App Store 或 Google Play Store 购买）。突然间，这种便利伴随着（公平的）价格标签，并且有义务通过苹果或谷歌帐户购买，这不是我愿意做的事情。
+进入OrganicMaps，它是基于 OpenStreetMap 数据构建的开源宠儿。它是免费的，隐私至上，包含离线地图、自行车道、远足路线，甚至还有喷泉和山名等小细节。对于我的通勤者来说，唯一缺少的就是实时交通，但我学会了接受一些不可预测性，毕竟，绕道可以是一次冒险。该应用程序的社区氛围就像一个数字篝火，每个人都分享路线、技巧以及对数据饥渴巨头的集体蔑视。但我的旅程并没有就此结束......
+六个月前，由于对项目治理、透明度和真正开放性的担忧，出现了 OrganicMaps 的分支。它被称为 CoMaps，具有相同的坚实基础，但增加了新鲜的徽标、新的色彩以及对社区主导的开发、透明度和非营利管理的坚定承诺。经过一段谨慎的等待期，我终于在几周前做出了转变。如今，CoMaps 已成为我的日常导航器，引导我穿过城市街道、森林小径以及其间的所有地方，而无需询问我的位置历史记录或向我展示沿途的企业广告。对于任何重视隐私、透明度和开源价值观的人来说，CoMaps 感觉就像是完美的副驾驶。
+查看有关 AlternativeTo 的文章更多信息位智 | 位智替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/leaving-google-maps-and-waze-behind-my-journey-to-find-my-way-around-the-world/</guid>
+      <pubDate>Mon, 24 Nov 2025 15:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>X增加了新的原籍国，将数百个亲民族主义账户暴露为外国人运营</title>
+      <link>https://alternativeto.net/news/2025/11/x-adds-new-country-of-origin-exposing-hundreds-of-pro-nationalist-accounts-as-foreign-run/</link>
+      <description><![CDATA[X/Twitter 已开始在周末推出新的“关于此帐户”部分，旨在通过显示用户当前所在的国家/地区（帐户创建的国家/地区）来帮助用户验证真实性并识别可疑帐户。用户名更改历史记录，以及帐户是否通过网络或特定应用商店访问 X，类似于 Facebook 和 Instagram 等平台上的措施。该功能以前仅限于一小部分测试组，但现在可供所有用户使用，由于原籍国数据暴露了数百个据称冒充不属于其国家的公民的帐户，这已经在许多人中引发了混乱。
+例如，许多用户注意到声称美国极端民族主义立场的个人资料实际上是在印度、孟加拉国、巴基斯坦、泰国或东欧部分地区等国家运营的，尽管他们将自己描绘成美国人。其中一些误导性帐户已经聚集了数十万关注者。甚至美国国土安全部也被标记为总部位于以色列特拉维夫，尽管X员工证实该信息是捏造的，并且是尽管有些用户分享屏幕录制作为证据，但从未实际显示过。
+用户可以通过加入按钮查看其扩展的帐户元数据。经过初步测试，该平台添加了隐私切换功能，允许用户选择显示他们的国家/地区或仅显示他们的地区/大陆，但信息还不能完全隐藏。如果 VPN 用户列出的位置可能不反映其真实区域，那么他们也可能会看到警告。还值得注意的是，一些合法用户报告了不准确的国家/地区列表，大部分是在较旧的帐户上，X 已承诺尽快修复该问题。旅行、团队位置、VPN 使用或过时的 IP 数据也可能导致不准确，但许多国家/地区的匹配似乎是准确的，并凸显了对外国影响力和协调活动的持续担忧。
+查看有关 AlternativeTo 的文章更多信息X | X 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/x-adds-new-country-of-origin-exposing-hundreds-of-pro-nationalist-accounts-as-foreign-run/</guid>
+      <pubDate>Mon, 24 Nov 2025 14:27:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Racket 9.0 带来了并行线程、黑盒包装器、AArch64 natipkg 包等</title>
+      <link>https://alternativeto.net/news/2025/11/racket-9-0-brings-parallel-threads-black-box-wrapper-aarch64-natipkg-packages-and-more/</link>
+      <description><![CDATA[Racket 9.0 已作为这种函数式和契约式编程语言的最新版本发布。通过这次重大更新，Racket 引入了对共享内存线程的支持，能够在多核硬件上真正并行执行。这与早期的 Racket 版本不同，其中线程只能并发运行，不能并行运行。
+除了线程检修之外，开发人员还可以访问新的黑盒包装器，该包装器可以防止优化编译器消除某些计算。此功能有助于确保基准测试代表真实的性能特征。此外，添加的 decompile-linklet 功能允许用户将编译的 linklet 映射回 s 表达式，从而在使用 Racket 内部时提供更深入的内省。
+基于平台支持，此版本为 AArch64 带来了“natipkg”软件包，促进了基于 Arm 的系统上的软件包构建和测试。在 BC Racket 上运行时，processor-count 函数现在始终报告系统的并行处理器计数，从而提供更准确的资源信息。检查语法跟踪已得到改进，使其能够识别语法对象中更深层嵌套的标识符。数学库也得到了增强，新增了对威布尔分布的支持。此外，此版本还对文档进行了多项修复和更新。
+查看有关 AlternativeTo 的文章更多信息球拍 | 球拍替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/racket-9-0-brings-parallel-threads-black-box-wrapper-aarch64-natipkg-packages-and-more/</guid>
+      <pubDate>Mon, 24 Nov 2025 13:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软正在测试文件资源管理器的后台预加载以加速Windows11</title>
+      <link>https://alternativeto.net/news/2025/11/microsoft-is-testing-background-preloading-of-the-file-explorer-to-speed-up-windows-11/</link>
+      <description><![CDATA[Microsoft 已向 Dev 和 Beta 渠道发布了 Windows 11 Insider Preview Build 26220.7271。此更新为 Windows 测试人员带来了多项新功能和可用性改进。
+预览版引入了时间点恢复，使用户能够将设备回滚到之前的状态，以便更轻松地进行恢复和故障排除。与此同时，微软正在探索在后台预加载文件资源管理器，旨在使文件资源管理器的启动速度明显加快。这些改进针对核心 Windows 可用性和可靠性。
+虽然这些功能侧重于基础体验，但游戏用户将受益于 Xbox 全屏体验 (FSE) 的扩展可用性。通过此更新，FSE 现在可在更多 Windows 手持设备和其他 Windows 11 电脑上使用，为基于控制器的游戏提供无干扰的游戏界面。
+其他更新包括支持直接从应用商店的库页面卸载 Microsoft Store 管理的应用，以及为具有神经处理单元的设备上的语音输入用户推出流畅听写功能。流畅听写可在用户说话时自动纠正语法、标点符号和填充词，从而提供更流畅的语音输入。
+继这些增强之后，微软还桥接了 Android 和 PC 工作流程。近期 Honor、Huawei、Oppo、Samsung 和 vivo Android 手机的用户现在可以直接在 Windows 电脑上的相关应用中打开在手机上启动的 Microsoft 365 Copilot 文件，或者在默认网络浏览器中（如果需要）。
+微软还在测试和完善点击执行顶部栏体验，以供未来更新。
+查看有关 AlternativeTo 的文章有关 Windows 的更多信息11 | Windows 11 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/microsoft-is-testing-background-preloading-of-the-file-explorer-to-speed-up-windows-11/</guid>
+      <pubDate>Mon, 24 Nov 2025 12:05:00 GMT</pubDate>
+    </item>
     <item>
       <title>Bottles 60.0 带来了原生 Wayland 支持、新的注册表规则和固定的 Steam Deck 控件</title>
       <link>https://alternativeto.net/news/2025/11/bottles-60-0-brings-native-wayland-support-new-registry-rules-and-fixed-steam-deck-controls/</link>
@@ -77,7 +133,7 @@ Meta 将于本周在移动版 WhatsApp 上推出此功能，使该应用与 Inst
       <link>https://alternativeto.net/news/2025/11/proton-mail-apps-update-adds-navigation-features-on-ios-and-android/</link>
       <description><![CDATA[Proton Mail 的最新移动更新在 iOS 和 Android 上引入了自动跳转到下一条消息和滑动导航功能。该版本还增加了阻止发件人以及将内嵌图像转换为附件的功能。
 此外，此功能删除中还解决了一些错误和性能问题。
-查看有关 AlternativeTo 的文章有关 Proton 的更多信息邮件 | Proton Mail 替代方案]]></description>
+查看有关 AlternativeTo 的文章有关 Proton 的更多信息邮件 | Proton Mail 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/11/proton-mail-apps-update-adds-navigation-features-on-ios-and-android/</guid>
       <pubDate>Sat, 22 Nov 2025 14:27:46 GMT</pubDate>
     </item>
@@ -97,56 +153,6 @@ Meta 将于本周在移动版 WhatsApp 上推出此功能，使该应用与 Inst
 查看有关 AlternativeTo 的文章有关 Astro Web 的更多信息框架 | Astro Web 框架替代品]]></description>
       <guid>https://alternativeto.net/news/2025/11/astro-5-16-adds-svg-optimization-with-svgo-interactive-shortcuts-and-better-agent-support/</guid>
       <pubDate>Sat, 22 Nov 2025 12:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitLab 18.6 添加了重新设计的 UI、精确的代码搜索、新的 CI/CD 功能等等</title>
-      <link>https://alternativeto.net/news/2025/11/gitlab-18-6-adds-redesigned-ui-exact-code-search-new-ci-cd-capabilities-and-much-more/</link>
-      <description><![CDATA[GitLab 18.6 是这个著名的代码托管和 DevOps 平台的最新版本。此次更新的核心是重新设计的用户界面，提供了更直观的并排工作空间。通过添加上下文面板，团队可以最大限度地减少不必要的点击并保持工作流程的重点。
-在工作流程改进的基础上，GitLab 18.6 在有限的可用性中添加了精确的代码搜索。用户可以利用完全匹配和正则表达式模式在整个实例、组或项目中搜索代码，由开源 Zoekt 搜索引擎提供支持。
-GitLab 的 CI/CD 工具也具有更强的灵活性。组件现在可以使用 spec:component 关键字在其配置中引用自己的元数据，例如版本号或提交 SHA。除此之外，该版本还使创建和管理动态 1-1 依赖项变得更加容易，支持更清晰、可扩展的并行：矩阵管道。
-随着安全工作流程的变化，GitLab 安全分析师代理成为 Duo Agentic Chat 的默认部分。这确保了它可以在自我管理和专用设置中开箱即用，无需从 AI 目录中手动添加。同时，新的安全仪表板提供了更新且更清晰的界面。
-除了重大更新之外，GitLab 18.6 还提供了一系列其他增强功能和错误修复。
-查看有关 AlternativeTo 的文章更多信息GitLab | GitLab 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/gitlab-18-6-adds-redesigned-ui-exact-code-search-new-ci-cd-capabilities-and-much-more/</guid>
-      <pubDate>Fri, 21 Nov 2025 20:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌为所有用户推出由 Gemini 3 驱动的 Nano Banana Pro Image 型号</title>
-      <link>https://alternativeto.net/news/2025/11/google-launches-the-gemini-3-powered-nano-banana-pro-image-model-for-all-users/</link>
-      <description><![CDATA[Google 推出了Gemini 3 Pro Image 或 Nano Banana Pro 全新图像创建和编辑模型。它将 Gemini 推理与实时 Google 搜索数据相结合，生成情境感知视觉效果，包括基于实时天气或体育信息的图像。该模型通过更丰富的字体、纹理和书法改进了文本渲染，支持多语言文本，并且可以混合最多 14 个图像，同时保持最多 5 个人的准确相似度。
-与之前的版本相比，新模型提供了精确的编辑工具，让用户可以细化特定区域，调整相机角度、焦点、照明、场景构图以及应用颜色分级，同时与旧模型相比还提高了图像真实感。它支持多种宽高比，输出分辨率高达 4K。 1K 或 2K 的开发者定价为每张图像 0.134 美元，4K 的每张图像为 0.24 美元。
-Gemini 3 Pro Image 正在跨 Google 产品推出，包括 Google Gemini 应用，免费用户可获得有限的代数，而付费的 AI Plus、Pro 和 Ultra 级别则获得更高的限制。全球的 NotebookLM 订阅者、Google Flow 中的 Google AI Ultra 用户以及美国 Google 搜索中的 AI 模式用户也可以使用该功能，即将支持 Google Ads、Google 幻灯片、Google 视频、Gemini API、Google AI Studio，以及最近推出的 Google Antigravity IDE。
-查看有关 AlternativeTo 的文章有关 Gemini 的更多信息图像 | Gemini 图像替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/google-launches-the-gemini-3-powered-nano-banana-pro-image-model-for-all-users/</guid>
-      <pubDate>Fri, 21 Nov 2025 19:19:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kagi 推出 Quick and Research AI 助手，用于高级研究任务和分析</title>
-      <link>https://alternativeto.net/news/2025/11/kagi-launches-quick-and-research-ai-assistants-for-advanced-research-tasks-and-analysis/</link>
-      <description><![CDATA[Kagi 推出了两个专用的研究人工智能助手：快速助手 和研究助手，以简化和改进用户信息检索。 快速助手向所有用户开放，可在五秒内提供直接、简洁的答案，同时成本最低。相比之下，研究助理专门为最终层订阅者提供，专门从事深入、多样化的分析以获得更彻底的结果，每次查询通常需要二十多秒的时间。
-此次发布后，用户可以从 Kagi Assistant Web 应用程序访问这两个助手，也可以通过 Bang 快捷方式直接在搜索栏中访问这两个助手，以更加方便。每个助手的核心优势在于其有效研究的能力：系统自动确定合适的查询，在需要时跨多种语言进行并行搜索，并将结果综合为综合答案。
-Kagi 的人工智能助手以其先进的功能为基础，针对特定任务采用不同的基本模型。该公司对领先的机器学习模型进行基准测试，并动态选择最有能力的模型来满足每个请求。除了网络搜索和检索之外，助手还利用其他工具，例如用于计算的代码执行、图像生成以及直接访问自定义 API，例如 Wolfram Alpha 和实时新闻源。
-查看有关 AlternativeTo 的文章有关 Kagi 的更多信息助理 | Kagi 助理替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/kagi-launches-quick-and-research-ai-assistants-for-advanced-research-tasks-and-analysis/</guid>
-      <pubDate>Fri, 21 Nov 2025 16:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jules 添加了 repoless 会话，允许没有 GitHub repos 的项目</title>
-      <link>https://alternativeto.net/news/2025/11/jules-adds-repoless-sessions-allowing-projects-without-github-repos/</link>
-      <description><![CDATA[Jules 现在允许用户启动会话，而无需 GitHub 存储库，从而更轻松地启动原型或脚本。用户可以上传自己的上下文（例如代码文件或图像），并在会话完成时下载所有结果。
-此更新可立即用于所有新任务。
-查看有关 AlternativeTo 的文章有关 Jules 的更多信息 | 朱尔斯替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/jules-adds-repoless-sessions-allowing-projects-without-github-repos/</guid>
-      <pubDate>Fri, 21 Nov 2025 16:16:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>NotebookLM 添加信息图表以实现高质量的视觉摘要</title>
-      <link>https://alternativeto.net/news/2025/11/notebooklm-adds-infographics-for-high-quality-visual-summaries/</link>
-      <description><![CDATA[NotebookLM 推出了信息图表，允许用户描述所需的输出并根据其来源创建可定制的高质量视觉摘要。
-该功能已向专业版用户开放，免费用户计划在未来几周内使用。
-查看有关 AlternativeTo 的文章有关 NotebookLM 的更多信息 | NotebookLM 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/notebooklm-adds-infographics-for-high-quality-visual-summaries/</guid>
-      <pubDate>Fri, 21 Nov 2025 16:13:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
