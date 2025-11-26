@@ -4,7 +4,27 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Wed, 26 Nov 2025 01:28:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 12:42:43 GMT</lastBuildDate>
+    <item>
+      <title>Proton 推出测试版 Proton Pass CLI，可从终端进行安全保险库管理</title>
+      <link>https://alternativeto.net/news/2025/11/proton-introduces-proton-pass-cli-in-beta-for-secure-vault-management-from-the-terminal/</link>
+      <description><![CDATA[Proton 为其 Proton Pass 密码管理器引入了命令行界面 (CLI)，允许用户直接在脚本、部署流程以及持续集成和持续集成中安全地检索机密和项目。持续交付设置。此 CLI 解决了图形界面不可行的场景，例如在服务器上或 CI/CD 管道中。
+在维护 Proton 的端到端加密和隐私标准的同时，Proton Pass CLI 允许用户直接从终端工作，以自动执行任务、检索保管库数据以及管理项目和权限。这些功能为需要安全而灵活的工作流程而无需离开终端环境的 IT 专业人员、开发人员和系统管理员提供支持。
+CLI 目前正针对 Visionary 级别的 Proton Pass 客户进行测试，Proton 计划未来在付费计划中更广泛地使用它。对于在图形用户界面不可用的环境中工作的团队来说，此更新解锁了一种实用且安全的方法来管理密码和自动检索凭据。
+查看有关 AlternativeTo 的文章有关 Proton 的更多信息通行证 | 质子通行证替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/proton-introduces-proton-pass-cli-in-beta-for-secure-vault-management-from-the-terminal/</guid>
+      <pubDate>Wed, 26 Nov 2025 08:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Orion 浏览器 1.0 面向 macOS 推出，采用隐私优先设计和 WebKit 引擎</title>
+      <link>https://alternativeto.net/news/2025/11/orion-1-0-launches-for-macos-with-privacy-first-design-and-webkit-engine/</link>
+      <description><![CDATA[适用于 macOS 的 Orion 浏览器 经过六年的开发，现已推出 1.0 版，结束测试版并加入其 iOS 和 iPadOS 版本作为生产就绪浏览器。该项目以隐私为中心，拒绝广告资助和遥测，提供零数据收集、强大的内容阻止以及无内置跟踪技术。
+该浏览器使用 WebKit 引擎而不是 Chromium 来与 macOS 和 iOS 性能保持一致，并强化其作为 Safari。它还避免在核心中嵌入人工智能代理，仅连接到用户选择的外部人工智能工具，并将它们与浏览环境分开。 1.0 版添加了焦点模式、链接预览、迷你工具栏、扩展页面调整以及作为单独迷你应用程序工作的独立配置文件等功能。这些新增内容建立在社区反馈的基础上，这些反馈改进了选项卡稳定性、内存使用以及与要求苛刻的网络应用程序的兼容性。
+Orion 适用于 macOS、iOS 和 iPadOS，Linux alpha 版正在进行中，计划于 2026 年发布 Windows 版本。该浏览器可免费使用，并包含 200 个免费Kagi 搜索，它还提供 Orion+ 付费版本，起价 5 美元/月，并提供早期功能、可自定义按钮和浮动窗口等福利。
+查看有关 AlternativeTo 的文章有关 Orion 的更多信息浏览器 | Orion 浏览器替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/orion-1-0-launches-for-macos-with-privacy-first-design-and-webkit-engine/</guid>
+      <pubDate>Wed, 26 Nov 2025 01:48:17 GMT</pubDate>
+    </item>
     <item>
       <title>迫于政府压力和法律威胁，GrapheneOS 停止在法国运营</title>
       <link>https://alternativeto.net/news/2025/11/grapheneos-ceases-operations-in-france-amid-pressure-and-legal-threats-by-the-government/</link>
@@ -135,28 +155,6 @@ Anthropic 还更新了其 Google Chrome 和 Microsoft Excel 集成。 Claude for
 查看有关 AlternativeTo 的文章更多信息文件 | 文件替代]]></description>
       <guid>https://alternativeto.net/news/2025/11/files-4-0-20-adds-archive-extraction-upgrades-and-improved-operation-feedback/</guid>
       <pubDate>Mon, 24 Nov 2025 17:39:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>抛弃 Google 地图和 Waze：我环游世界的旅程</title>
-      <link>https://alternativeto.net/news/2025/11/leaving-google-maps-and-waze-behind-my-journey-to-find-my-way-around-the-world/</link>
-      <description><![CDATA[在意识到 GoogleMaps 和 Waze 不再是“导航伙伴”而更多是“数据猎犬”后，我终于认输了广告业的忙碌”。在不断向你承诺“更快路线”的弹出窗口（同时悄悄地将你的位置发送到十几个谷歌服务）和不断增长的横幅广告之间，我开始感觉自己像一个在自己城市的游客，只有导游也在监视我。因此，我开始寻找一款尊重我的隐私、不需要订阅“Google 生态系统”、并且真正能让我享受旅程的导航应用，无论是开车、骑自行车还是步行。
-我第一个充满希望的替代品是 HEREWeGo，它承诺覆盖全球并提供路线导航，但没有 Google 品牌。然而，在实践中，它被证明是一个隐私灰色区域，一些用户数据被记录，每当我在实际驾驶时尝试导航时，我都会遇到多个错误和崩溃。该应用程序是免费的，没有广告，但它缺乏太多功能，并且有太多烦人的错误，所以我无法在这种状态下继续使用它。
-接下来是 MagicEarth，这是一款时尚、无广告的应用程序，拥有离线地图、实时交通数据和公共交通集成，所有这些均由 OpenStreetMap 提供支持。它感觉像是一股新鲜空气，但遗憾的是，它不是开源的，因此它无法在 F-Droid 上使用，并且最近变成了一款付费应用程序（每年 0.99 美元，但您仍然需要通过 Apple App Store 或 Google Play Store 购买）。突然间，这种便利伴随着（公平的）价格标签，并且有义务通过苹果或谷歌帐户购买，这不是我愿意做的事情。
-进入OrganicMaps，它是基于 OpenStreetMap 数据构建的开源宠儿。它是免费的，隐私至上，包含离线地图、自行车道、远足路线，甚至还有喷泉和山名等小细节。对于我的通勤者来说，唯一缺少的就是实时交通，但我学会了接受一些不可预测性，毕竟，绕道可以是一次冒险。该应用程序的社区氛围就像一个数字篝火，每个人都分享路线、技巧以及对数据饥渴巨头的集体蔑视。但我的旅程并没有就此结束......
-六个月前，由于对项目治理、透明度和真正开放性的担忧，出现了 OrganicMaps 的分支。它被称为 CoMaps，具有相同的坚实基础，但增加了新鲜的徽标、新的色彩以及对社区主导的开发、透明度和非营利管理的坚定承诺。经过一段谨慎的等待期，我终于在几周前做出了转变。如今，CoMaps 已成为我的日常导航器，引导我穿过城市街道、森林小径以及其间的所有地方，而无需询问我的位置历史记录或向我展示沿途的企业广告。对于任何重视隐私、透明度和开源价值观的人来说，CoMaps 感觉就像是完美的副驾驶。
-查看有关 AlternativeTo 的文章更多信息位智 | 位智替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/leaving-google-maps-and-waze-behind-my-journey-to-find-my-way-around-the-world/</guid>
-      <pubDate>Mon, 24 Nov 2025 15:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>X增加了新的原籍国，将数百个亲民族主义账户暴露为外国人运营</title>
-      <link>https://alternativeto.net/news/2025/11/x-adds-new-country-of-origin-exposing-hundreds-of-pro-nationalist-accounts-as-foreign-run/</link>
-      <description><![CDATA[X/Twitter 已开始在周末推出新的“关于此帐户”部分，旨在通过显示用户当前所在的国家/地区（帐户创建的国家/地区）来帮助用户验证真实性并识别可疑帐户。用户名更改历史记录，以及帐户是否通过网络或特定应用商店访问 X，类似于 Facebook 和 Instagram 等平台上的措施。该功能以前仅限于一小部分测试组，但现在可供所有用户使用，由于原籍国数据暴露了数百个据称冒充不属于其国家的公民的帐户，这已经在许多人中引发了混乱。
-例如，许多用户注意到声称美国极端民族主义立场的个人资料实际上是在印度、孟加拉国、巴基斯坦、泰国或东欧部分地区等国家运营的，尽管他们将自己描绘成美国人。其中一些误导性帐户已经聚集了数十万关注者。甚至美国国土安全部也被标记为总部位于以色列特拉维夫，尽管X员工证实该信息是捏造的，并且是尽管有些用户分享屏幕录制作为证据，但从未实际显示过。
-用户可以通过加入按钮查看其扩展的帐户元数据。经过初步测试，该平台添加了隐私切换功能，允许用户选择显示他们的国家/地区或仅显示他们的地区/大陆，但信息还不能完全隐藏。如果 VPN 用户列出的位置可能不反映其真实区域，那么他们也可能会看到警告。还值得注意的是，一些合法用户报告了不准确的国家/地区列表，大部分是在较旧的帐户上，X 已承诺尽快修复该问题。旅行、团队位置、VPN 使用或过时的 IP 数据也可能导致不准确，但许多国家/地区的匹配似乎是准确的，并凸显了对外国影响力和协调活动的持续担忧。
-查看有关 AlternativeTo 的文章更多信息X | X 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/x-adds-new-country-of-origin-exposing-hundreds-of-pro-nationalist-accounts-as-foreign-run/</guid>
-      <pubDate>Mon, 24 Nov 2025 14:27:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
