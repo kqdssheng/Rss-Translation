@@ -4,7 +4,84 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Tue, 25 Nov 2025 12:42:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 01:28:32 GMT</lastBuildDate>
+    <item>
+      <title>迫于政府压力和法律威胁，GrapheneOS 停止在法国运营</title>
+      <link>https://alternativeto.net/news/2025/11/grapheneos-ceases-operations-in-france-amid-pressure-and-legal-threats-by-the-government/</link>
+      <description><![CDATA[GrapheneOS宣布完全关闭其在法国的业务，理由是在法国法律施加协调压力后，该国开源隐私项目的风险增加执法和媒体。该项目称，当局威胁称，如果拒绝添加后门，将扣押服务器并逮捕开发人员，而《巴黎人报》等媒体机构也附和了未经证实的说法，将该软件与犯罪用途联系在一起。项目负责人拒绝接受这些关联，并澄清所引用的示例涉及不相关的山寨 Android 系统。
+因此，法国用户仍可访问该操作系统，但之前托管在 OVH 上的所有网站、Mastodon、Discourse 和 Matrix 服务器都将迁移到多伦多的服务器和德国的 Netcup，密钥加密凭据将轮换，DNS 也会迁移到Vultr 和 BuyVM 以及开发人员由于感知到的威胁而被禁止前往法国或在法国工作。该团队表示，法国没有存储机密用户数据或关键更新基础设施，因此签名验证、降级保护、多层更新和启动验证以及安全元件保护等功能不会受到影响，因此无论法律要求如何，从技术上讲，暴力绕过都是不可能的。
+根据开发团队的说法，法国对欧盟拟议的聊天控制立法的支持增加了他们的安全担忧，并强化了法国对注重隐私的项目变得敌对的感觉。他们指出加密后门的政治压力以及将拒绝透露设备 PIN 码定为刑事犯罪的法律，同时还指责其他位于法国的 AOSP 发行版，例如 iodéOS 和 /e/OS 是“诈骗和虚假隐私产品”尽管安全性低得多，但使用不安全的产品误导用户，这些产品在补丁上落后，削弱了设备加密，并从政府资助中受益。
+查看有关 AlternativeTo 的文章更多信息GrapheneOS | GrapheneOS 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/grapheneos-ceases-operations-in-france-amid-pressure-and-legal-threats-by-the-government/</guid>
+      <pubDate>Tue, 25 Nov 2025 23:17:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>气球将于 2025 年 11 月 30 日永久关闭</title>
+      <link>https://alternativeto.net/news/2025/11/balloonary-to-shut-down-permanently-on-november-30-2025/</link>
+      <description><![CDATA[Balloonary 是一个旨在简化广告制作的人工智能驱动平台，已宣布将于 2025 年 11 月 30 日永久关闭。建议用户在该日期之前检索数据并请求未使用积分的退款，因为访问将随着关闭而结束。
+Balloonary 的首选替代方案包括 InVideo Studio、Simplified 和 AdCreative.ai。
+如果您需要了解更多信息，请查看AlternativeTo 的列表。
+查看有关 AlternativeTo 的文章更多信息气球 | 气球替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/balloonary-to-shut-down-permanently-on-november-30-2025/</guid>
+      <pubDate>Tue, 25 Nov 2025 17:15:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ultramarine 43 推荐 Plasma，更新 Raspberry Pi 并添加 Readymade 预览</title>
+      <link>https://alternativeto.net/news/2025/11/ultramarine-43-recommends-plasma-updates-raspberry-pi-and-adds-readymade-preview/</link>
+      <description><![CDATA[Ultramarine 43 淘汰了旗舰 Budgie 标签，但 Budgie 仍然可用，并推出了KDE Plasma 6.5，作为新的推荐桌面环境，改进了应用程序权限管理。
+Readymade 安装程序的公共预览版现已可用于完整磁盘安装，更新的映像增强了 Raspberry Pi 4 支持，同时添加了 Pinebook Pro 兼容性。
+查看有关 AlternativeTo 的文章有关群青的更多信息Linux | Ultramarine Linux 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/ultramarine-43-recommends-plasma-updates-raspberry-pi-and-adds-readymade-preview/</guid>
+      <pubDate>Tue, 25 Nov 2025 16:53:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deezer 推出界面主题和快速访问以实现个性化</title>
+      <link>https://alternativeto.net/news/2025/11/deezer-introduces-interface-themes-and-quick-access-for-personalization/</link>
+      <description><![CDATA[Deezer 现在提供可自定义的主题，让用户可以使用不同的颜色、模式和应用程序图标布局来个性化界面。新的快速访问功能允许用户将喜爱的内容直接固定到主屏幕，以便更快地导航。
+这两项更新均适用于所有设备，提供更加量身定制的聆听体验。
+查看有关 AlternativeTo 的文章更多信息Deezer | Deezer 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/deezer-introduces-interface-themes-and-quick-access-for-personalization/</guid>
+      <pubDate>Tue, 25 Nov 2025 16:35:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adobe将以 19 亿美元收购 Semrush 以扩大品牌知名度工具</title>
+      <link>https://alternativeto.net/news/2025/11/adobe-will-acquire-semrush-for-1-9-billion-to-expand-brand-visibility-tools/</link>
+      <description><![CDATA[Adobe 宣布达成最终协议，将以每股 12.00 美元的全现金交易收购 Semrush，总价值 19 亿美元。此次整合将 Adobe 的客户参与和内容管理解决方案与 Semrush 的 SEO 和生成引擎优化平台相结合，为营销人员提供跨各种渠道的品牌知名度的统一方法。
+查看有关 AlternativeTo 的文章有关更多信息Semrush | Semrush 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/adobe-will-acquire-semrush-for-1-9-billion-to-expand-brand-visibility-tools/</guid>
+      <pubDate>Tue, 25 Nov 2025 16:32:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Raspberry Pi Imager 2.0 使在可启动媒体上安装 Raspberry Pi 操作系统变得更加容易</title>
+      <link>https://alternativeto.net/news/2025/11/raspberry-pi-imager-2-0-makes-it-easier-to-install-raspberry-pi-os-on-bootable-media/</link>
+      <description><![CDATA[Raspberry Pi Imager 2.0 引入了全新重新设计的分步向导界面，改变了用户为其 Raspberry Pi 设备创建映像和自定义操作系统的方式。每个配置阶段现在占据整个窗口并提供详细描述、验证反馈和相关链接。这种方法可以更轻松地导航，并确保用户在每个阶段都有清晰的指导。
+在此界面检修的基础上，更新后的应用程序允许用户在 SD 卡映像过程中使用 Raspberry Pi Connect 进行身份验证。这意味着当 Raspberry Pi 首次启动时，将自动启用通过 Raspberry Pi Connect 的远程屏幕共享或 shell 访问，从而消除安装后配置。
+在这些更新之后，Raspberry Pi Imager 2.0 带来了增强的可访问性。每个控件都标有屏幕阅读器标签，整个应用程序与键盘导航无缝协作，新的树莓红色配色方案提高了清晰度。此外，大量使用空白可以帮助用户在视觉上快速区分界面元素。该更新现已适用于 Raspberry Pi OS、Windows、macOS，并作为便携式 Linux AppImage 提供。
+查看有关 AlternativeTo 的文章更多信息Raspberry Pi 成像器 | Raspberry Pi 成像器替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/raspberry-pi-imager-2-0-makes-it-easier-to-install-raspberry-pi-os-on-bootable-media/</guid>
+      <pubDate>Tue, 25 Nov 2025 15:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AlmaLinux 10.1 带来完整的 Btrfs 安装支持、默认启用 CRB 等</title>
+      <link>https://alternativeto.net/news/2025/11/almalinux-10-1-brings-full-btrfs-installation-support-crb-enabled-by-default-and-more/</link>
+      <description><![CDATA[AlmaLinux 10.1 现已作为该企业级 Linux 发行版的最新版本推出。作为红帽企业 Linux 的二进制兼容替代品，它旨在提供长期稳定性。新的“Heliotrope Lion”版本由 Linux 6.12 LTS 内核提供支持，为企业部署提供了最新的基础。
+以此核心为基础，AlmaLinux 10.1引入了对Btrfs文件系统的完整安装程序和内核支持。这使得用户能够在安装过程中选择Btrfs作为根文件系统，这一功能最初是在AlmaLinux OS Kitten中引入的。虽然计划未来在整个软件系列中更广泛地采用 Btrfs 功能，但当前的支持涵盖内核和核心用户空间组件。
+该版本还扩展了硬件兼容性。显着的改进包括额外的驱动程序和扩展对 x86_64_v2 处理器支持的辅助版本。在虚拟化和系统诊断领域，AlmaLinux 恢复了 SPICE 支持，默认重新启用帧指针，并继续支持 IBM POWER 系统的 KVM。现在，新安装时也会默认启用 CRB 存储库。
+性能和安全性增强包括更新的编译器工具集、更新的模块流以及网络和调试工具的改进。容器和虚拟化工作流程受益于更新的 Podman 和 Buildah，而安全性则受益于更新的 SELinux 策略、采用后量子加密技术的 OpenSSL 以及更新的 SSSD 和 Keylime 版本。
+查看有关 AlternativeTo 的文章更多信息AlmaLinux | AlmaLinux 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/almalinux-10-1-brings-full-btrfs-installation-support-crb-enabled-by-default-and-more/</guid>
+      <pubDate>Tue, 25 Nov 2025 13:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>WinBoat 0.9 添加了 Podman 和 UWP 应用程序支持，以及在 Linux 上运行 Windows 应用程序的更多支持</title>
+      <link>https://alternativeto.net/news/2025/11/winboat-0-9-adds-podman-and-uwp-app-support-and-much-more-for-running-windows-apps-on-linux/</link>
+      <description><![CDATA[WinBoat 0.9 现已推出，增强了其在 Linux 上运行 Windows 应用程序的核心功能，重点是无缝集成。新版本引入了 Podman 作为受支持的容器引擎，用户可以在设置过程中进行选择。但是，Podman 尚无法使用 USB 直通功能。除了这些改进之外，基于 Docker 的安装现在将为所有服务保留端口范围 47270–47370，以防止冲突。由于 compose 文件支持的限制，Podman 用户将看到随机端口分配。
+基于应用程序兼容性，WinBoat 0.9 现在支持通用 Windows 平台 (UWP) 应用程序。所有已安装的 UWP 应用程序都会显示，并且可以直接从软件内启动。对于希望个性化工作流程的用户，现在可以通过修改现有条目来创建自定义应用程序。
+添加了一些可用性功能，包括应用过滤、通过上下文菜单启动、可调整的应用缩放，以及为那些对运动敏感或遇到基于 Electron 的合成器问题的人禁用动画的选项。此更新使用户能够添加 FreeRDP 参数，并包含用于窗口管理自定义的 wm-class 前缀。新安装将受益于 Windows 来宾自动时钟同步和设置为 ~/winboat 的默认安装路径。此版本还包含一些小错误修复，以增强稳定性和可用性。
+查看有关 AlternativeTo 的文章更多信息WinBoat | WinBoat 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/winboat-0-9-adds-podman-and-uwp-app-support-and-much-more-for-running-windows-apps-on-linux/</guid>
+      <pubDate>Tue, 25 Nov 2025 12:05:00 GMT</pubDate>
+    </item>
     <item>
       <title>KeePassXC 2.7.11 添加附件预览、KeeShare 组同步和密码自动生成</title>
       <link>https://alternativeto.net/news/2025/11/keepassxc-2-7-11-adds-attachment-preview-keeshare-group-sync-and-password-auto-generation/</link>
@@ -34,7 +111,7 @@
       <description><![CDATA[OpenAI 在 ChatGPT 中引入了一项新的购物研究功能，为用户提供了一种直接在聊天中比较产品、查找详细信息和跟踪交易的方法。该功能可供所有登录用户使用，包括免费用户，在假期期间可以延长访问时间，是的，臭名昭著的黑色星期五即将到来。
 用户可以从 + 菜单打开该工具，或者依靠 ChatGPT 在检测到购物意图时发送提示。它可以处理产品比较、礼物创意、交易跟踪以及从上传的图像中进行相似搜索。该模型还提出了澄清问题，以缩小电子产品、电器和时尚等类别的推荐范围。
 该功能由 GPT 5 迷你变体提供支持，该变体经过训练可以读取受信任的网站、引用来源和综合产品信息。 OpenAI 指出引用准确性有所提高，但仍然建议在零售商页面上验证价格和可用性。结果来自公开的零售网站，没有与零售商共享聊天数据。该公司还确认将在稍后的更新中添加对即时结账的支持，该功能允许通过 ChatGPT 从选定的商家直接购买。虽然尚未宣布任何消息，但很容易想象这将成为未来广告投放的主要地点，但只有时间才能证明一切。
-查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代品]]></description>
+查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/11/chatgpt-launches-new-shopping-research-tool-for-product-comparison-and-deal-tracking/</guid>
       <pubDate>Tue, 25 Nov 2025 02:36:29 GMT</pubDate>
     </item>
@@ -77,91 +154,9 @@ Anthropic 还更新了其 Google Chrome 和 Microsoft Excel 集成。 Claude for
       <description><![CDATA[X/Twitter 已开始在周末推出新的“关于此帐户”部分，旨在通过显示用户当前所在的国家/地区（帐户创建的国家/地区）来帮助用户验证真实性并识别可疑帐户。用户名更改历史记录，以及帐户是否通过网络或特定应用商店访问 X，类似于 Facebook 和 Instagram 等平台上的措施。该功能以前仅限于一小部分测试组，但现在可供所有用户使用，由于原籍国数据暴露了数百个据称冒充不属于其国家的公民的帐户，这已经在许多人中引发了混乱。
 例如，许多用户注意到声称美国极端民族主义立场的个人资料实际上是在印度、孟加拉国、巴基斯坦、泰国或东欧部分地区等国家运营的，尽管他们将自己描绘成美国人。其中一些误导性帐户已经聚集了数十万关注者。甚至美国国土安全部也被标记为总部位于以色列特拉维夫，尽管X员工证实该信息是捏造的，并且是尽管有些用户分享屏幕录制作为证据，但从未实际显示过。
 用户可以通过加入按钮查看其扩展的帐户元数据。经过初步测试，该平台添加了隐私切换功能，允许用户选择显示他们的国家/地区或仅显示他们的地区/大陆，但信息还不能完全隐藏。如果 VPN 用户列出的位置可能不反映其真实区域，那么他们也可能会看到警告。还值得注意的是，一些合法用户报告了不准确的国家/地区列表，大部分是在较旧的帐户上，X 已承诺尽快修复该问题。旅行、团队位置、VPN 使用或过时的 IP 数据也可能导致不准确，但许多国家/地区的匹配似乎是准确的，并凸显了对外国影响力和协调活动的持续担忧。
-查看有关 AlternativeTo 的文章更多信息X | X 替代方案]]></description>
+查看有关 AlternativeTo 的文章更多信息X | X 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/11/x-adds-new-country-of-origin-exposing-hundreds-of-pro-nationalist-accounts-as-foreign-run/</guid>
       <pubDate>Mon, 24 Nov 2025 14:27:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Racket 9.0 带来了并行线程、黑盒包装器、AArch64 natipkg 包等</title>
-      <link>https://alternativeto.net/news/2025/11/racket-9-0-brings-parallel-threads-black-box-wrapper-aarch64-natipkg-packages-and-more/</link>
-      <description><![CDATA[Racket 9.0 已作为这种函数式和契约式编程语言的最新版本发布。通过这次重大更新，Racket 引入了对共享内存线程的支持，能够在多核硬件上真正并行执行。这与早期的 Racket 版本不同，其中线程只能并发运行，不能并行运行。
-除了线程检修之外，开发人员还可以访问新的黑盒包装器，该包装器可以防止优化编译器消除某些计算。此功能有助于确保基准测试代表真实的性能特征。此外，添加的 decompile-linklet 功能允许用户将编译的 linklet 映射回 s 表达式，从而在使用 Racket 内部时提供更深入的内省。
-基于平台支持，此版本为 AArch64 带来了“natipkg”软件包，促进了基于 Arm 的系统上的软件包构建和测试。在 BC Racket 上运行时，processor-count 函数现在始终报告系统的并行处理器计数，从而提供更准确的资源信息。检查语法跟踪已得到改进，使其能够识别语法对象中更深层嵌套的标识符。数学库也得到了增强，新增了对威布尔分布的支持。此外，此版本还对文档进行了多项修复和更新。
-查看有关 AlternativeTo 的文章更多信息球拍 | 球拍替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/racket-9-0-brings-parallel-threads-black-box-wrapper-aarch64-natipkg-packages-and-more/</guid>
-      <pubDate>Mon, 24 Nov 2025 13:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软正在测试文件资源管理器的后台预加载以加速Windows11</title>
-      <link>https://alternativeto.net/news/2025/11/microsoft-is-testing-background-preloading-of-the-file-explorer-to-speed-up-windows-11/</link>
-      <description><![CDATA[Microsoft 已向 Dev 和 Beta 渠道发布了 Windows 11 Insider Preview Build 26220.7271。此更新为 Windows 测试人员带来了多项新功能和可用性改进。
-预览版引入了时间点恢复，使用户能够将设备回滚到之前的状态，以便更轻松地进行恢复和故障排除。与此同时，微软正在探索在后台预加载文件资源管理器，旨在使文件资源管理器的启动速度明显加快。这些改进针对核心 Windows 可用性和可靠性。
-虽然这些功能侧重于基础体验，但游戏用户将受益于 Xbox 全屏体验 (FSE) 的扩展可用性。通过此更新，FSE 现在可在更多 Windows 手持设备和其他 Windows 11 电脑上使用，为基于控制器的游戏提供无干扰的游戏界面。
-其他更新包括支持直接从应用商店的库页面卸载 Microsoft Store 管理的应用，以及为具有神经处理单元的设备上的语音输入用户推出流畅听写功能。流畅听写可在用户说话时自动纠正语法、标点符号和填充词，从而提供更流畅的语音输入。
-继这些增强之后，微软还桥接了 Android 和 PC 工作流程。近期 Honor、Huawei、Oppo、Samsung 和 vivo Android 手机的用户现在可以直接在 Windows 电脑上的相关应用中打开在手机上启动的 Microsoft 365 Copilot 文件，或者在默认网络浏览器中（如果需要）。
-微软还在测试和完善点击执行顶部栏体验，以供未来更新。
-查看有关 AlternativeTo 的文章有关 Windows 的更多信息11 | Windows 11 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/microsoft-is-testing-background-preloading-of-the-file-explorer-to-speed-up-windows-11/</guid>
-      <pubDate>Mon, 24 Nov 2025 12:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bottles 60.0 带来了原生 Wayland 支持、新的注册表规则和固定的 Steam Deck 控件</title>
-      <link>https://alternativeto.net/news/2025/11/bottles-60-0-brings-native-wayland-support-new-registry-rules-and-fixed-steam-deck-controls/</link>
-      <description><![CDATA[Bottles 60.0 引入了多项核心改进，首先是现在可直接在设置中使用的本机 Wayland 选项。由于用户跟踪已被删除，用户将受益于更高的隐私性，并且 EasyTerm 已升级至 1.0 版以获得更强大的终端体验。此外，用户现在可以使用用户界面更改存储库 URL，而新的注册表规则系统支持可重用的前缀策略，为高级用户提供更大的控制权。
-在管理增强的基础上，该版本提供了使用 Winebridge 生成进程的能力，以实现更深入的集成，并简化了运行程序和 DVXK 的更新。新版本还使用户能够仅继承每瓶选定的系统环境变量，从而提供更精确的配置。为了解决以前的可用性差距，Bottles 现在建议如何安装缺少的 Flatpak 扩展，并且重新引入了期刊浏览器，同时将缓存管理合并到首选项视图中。
-经过一系列错误修复后，Steam Deck 控件现在可以在游戏模式下按预期工作，并且工作目录设置在应用程序启动之间可靠地保持不变。为了完善可用性改进，DLL 组件界面已与 Runners UI 保持一致，包括新的瓶子创建对话框和改进的安装程序日志记录，并且现在在更新 Winebridge 之前需要用户同意。其他增强功能和修复完成了更新。
-查看有关 AlternativeTo 的文章更多信息瓶子 | 瓶子替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/bottles-60-0-brings-native-wayland-support-new-registry-rules-and-fixed-steam-deck-controls/</guid>
-      <pubDate>Mon, 24 Nov 2025 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>PHP 8.5 添加了内置 URI 扩展、管道运算符、更新的克隆语法等等</title>
-      <link>https://alternativeto.net/news/2025/11/php-8-5-adds-built-in-uri-extension-pipe-operator-updated-clone-syntax-and-much-more/</link>
-      <description><![CDATA[PHP 8.5 已作为这种广泛使用的脚本语言的最新版本发布，为 Web 开发人员带来了重大更新。最突出的新增功能之一是内置的 URI 扩展，允许开发人员根据 RFC 3986 和 WHATWG URL 标准解析、规范化和处理 URL。新的管道运算符 | 支持从左到右的可调用链接，使函数中的数据流更简单，而无需依赖中间变量。
-在这些核心更改之后，该版本引入了更新的 clone() 语法，提供了一种简化的方法来克隆对象并一步为不可变或只读类设置属性。 API 安全性通过 #[\NoDiscard] 属性受到关注，如果返回值未使用，该属性会生成警告。此外，静态闭包和一流的可调用对象现在可以出现在常量表达式中，例如属性参数，为开发人员提供了更大的灵活性。
-效率改进包括句柄能够跨多个 PHP 请求持久存在，从而减少连接初始化的开销。开发人员还可以通过 array_first() 和 array_last() 函数获得新的实用程序，这些函数可以可靠地从数组中提取第一个或最后一个值或 null。 PHP 8.5 还带来了更多功能添加、弃用以及一些向后兼容性中断。
-查看有关 AlternativeTo 的文章更多信息PHP | PHP 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/php-8-5-adds-built-in-uri-extension-pipe-operator-updated-clone-syntax-and-much-more/</guid>
-      <pubDate>Mon, 24 Nov 2025 08:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究人员揭示 WhatsApp 枚举缺陷影响 35 亿个潜在账户</title>
-      <link>https://alternativeto.net/news/2025/11/researchers-reveal-whatsapp-enumeration-flaw-affecting-3-5-billions-of-potential-accounts/</link>
-      <description><![CDATA[维也纳大学的研究人员最近披露了一项技术，使他们能够枚举 245 个国家/地区 35 亿个可能的WhatsApp 帐号。他们的方法生成了大量电话号码组合，并以每小时超过 1 亿个号码的速度查询 WhatsApp 服务器，绕过了预期的速率限制而没有被阻止。
-他们收集了时间戳和公共加密密钥等数据，从而可以推断帐户年龄、操作系统和链接设备。当用户将这些信息设置为每个人都可以访问时，公共个人资料照片和有关文本也可见，但不会公开任何消息或联系人。
-Meta 澄清说，研究人员并未获得 35 亿个真实数字，而是确定了哪些生成的数字与活跃的 WhatsApp 帐户相匹配。研究还显示，2021 年 Facebook 泄密事件中近一半的数据在 WhatsApp 上仍然活跃。 Meta 报告没有恶意使用的证据，确认研究人员删除了所有数据，并表示服务器端缓解措施于 2025 年 9 月开始推出，并于 10 月添加了更多保护措施。不过，如果这还不够，您可以随时查看我们更安全的 WhatsApp 替代品目录，例如 Signal、Wire 或 Threema。
-查看有关 AlternativeTo 的文章更多信息WhatsApp | WhatsApp 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/researchers-reveal-whatsapp-enumeration-flaw-affecting-3-5-billions-of-potential-accounts/</guid>
-      <pubDate>Sat, 22 Nov 2025 21:17:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp 正在为用户个人资料添加名为“关于”的新活动备注功能</title>
-      <link>https://alternativeto.net/news/2025/11/whatsapp-is-adding-a-new-activity-notes-feature-called-about-for-user-profiles/</link>
-      <description><![CDATA[WhatsApp 正在重新引入其已弃用的“关于”功能，允许用户发布对其联系人可见的简短状态更新，类似于 Instagram Notes。这些更新显示在个人资料和聊天顶部。
-默认情况下，消息会在 24 小时后过期，但用户可以在设置中缩短或延长消息的持续时间。可见性也可以仅限于联系人或向查看个人资料的任何人开放。
-Meta 将于本周在移动版 WhatsApp 上推出此功能，使该应用与 Instagram 和 Facebook 上已有的类似功能保持一致。
-查看有关 AlternativeTo 的文章更多关于WhatsApp | WhatsApp 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/whatsapp-is-adding-a-new-activity-notes-feature-called-about-for-user-profiles/</guid>
-      <pubDate>Sat, 22 Nov 2025 20:54:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Xbox 全屏体验现已在 Windows PC 上提供类似控制台的设置</title>
-      <link>https://alternativeto.net/news/2025/11/the-xbox-full-screen-experience-is-now-available-on-windows-pcs-for-console-like-setups/</link>
-      <description><![CDATA[微软正式发布适用于 Windows 11 游戏电脑的全新 Xbox 全屏体验在公开预览版中，将其扩展到最近与华硕合作推出的 ROG Xbox Ally 手持设备设备之外。该预览版将同时出现在所有基于 Windows 的手持设备和任何 Windows 11 标准游戏系统上，这意味着任何拥有笔记本电脑的人都可以通过 Xbox 应用将其变成更像主机的体验，类似于大图片模式在 Steam 上的工作方式，而无需使用Linux 发行版，例如 Bazzite、ChimeraOS 或 SteamOS。
-新界面提供了控制台风格的主屏幕，专为方便控制器朋友导航而设计，可以访问 Xbox 游戏、Xbox Game Pass、Xbox Play Anywhere 以及来自 其他店面。用户可以通过长按 Xbox 按钮在应用和游戏之间切换，或使用 Windows 键返回桌面。
-新模式必须在 Windows 设置中手动启用，然后可以通过任务视图、Win 加 F11 快捷方式、Xbox 游戏栏 设置或 Xbox 控制器按钮打开。启用此功能需要注册 Windows Insider 和 Xbox Insider 计划，并且它包含在 Dev 和 Beta 渠道的内部版本 26220.7271 中。推出是渐进的，公开发布日期仍有待公布。
-查看有关 AlternativeTo 的文章有关 Xbox 的更多信息应用 | Xbox 应用替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/the-xbox-full-screen-experience-is-now-available-on-windows-pcs-for-console-like-setups/</guid>
-      <pubDate>Sat, 22 Nov 2025 20:26:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>信号为所有平台上的聊天添加固定消息功能</title>
-      <link>https://alternativeto.net/news/2025/11/signal-to-add-pinned-messages-feature-for-chats-on-all-platforms/</link>
-      <description><![CDATA[Signal 正在开发用于聊天的固定消息功能，该功能将在 Android、iOS 和桌面版上提供。固定消息已在 AboutSignal.com 上得到确认，并将在一对一和群聊中可用，并在所有参与者的聊天顶部显示选定的消息。
-该功能的早期证据已出现在 Signal 的 iOS 源代码中，但尚未提供发布日期。
-查看有关 AlternativeTo 的文章更多信息信号 | 信号替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/signal-to-add-pinned-messages-feature-for-chats-on-all-platforms/</guid>
-      <pubDate>Sat, 22 Nov 2025 17:01:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
