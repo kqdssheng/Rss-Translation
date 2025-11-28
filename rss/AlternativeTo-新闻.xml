@@ -4,7 +4,27 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Fri, 28 Nov 2025 01:26:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Nov 2025 12:40:30 GMT</lastBuildDate>
+    <item>
+      <title>Perplexity 添加了新的即时购买购物功能，支持 PayPal 和虚拟试穿</title>
+      <link>https://alternativeto.net/news/2025/11/perplexity-adds-a-new-instant-buy-shopping-feature-with-paypal-and-virtual-try-on/</link>
+      <description><![CDATA[Perplexity 为所有美国用户发布了一项新的人工智能购物功能，该功能基于 PayPal 集成而构建。类似于“即时结账”功能。通过 ChatGPT 的功能，用户现在可以通过“即时购买”在 Perplexity 内完成购买，该功能适用于任何接受 PayPal 的商家。
+购物者可以根据位置、生活方式和个人喜好进行上下文产品搜索。助手保留对话上下文，并使用之前共享的详细信息来个性化结果，以结构化卡片的形式展示产品，并包含优点、缺点和基于评论的见解。 Perplexity 指出，商家仍然会收到完整的客户信息、可以处理退货并维护购买后关系。
+除了新的购物功能外，Perplexity 还宣布为 Pro 和 Max 用户提供新的虚拟试穿功能，允许他们从照片生成头像，以便在自己复制的身体上预览任何商店的服装。该公司尚未确认这是否会融入新的购物流程，但有理由期待某种形式的整合。
+查看有关 AlternativeTo 的文章更多信息困惑 | 困惑替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/perplexity-adds-a-new-instant-buy-shopping-feature-with-paypal-and-virtual-try-on/</guid>
+      <pubDate>Fri, 28 Nov 2025 02:12:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 报告 Mixpanel 重大数据泄露，暴露了有限的 ChatGPT API 用户数据</title>
+      <link>https://alternativeto.net/news/2025/11/openai-reports-mixpanel-major-data-breach-exposing-limited-chatgpt-api-users-data/</link>
+      <description><![CDATA[OpenAI 披露，第三方分析提供商 Mixpanel 的漏洞暴露了一些 ChatGPT API 客户的有限识别信息。该事件仅限于 Mixpanel 收集的分析数据，OpenAI 确认其系统或核心用户数据均未受到访问。 ChatGPT 最终用户或其他 OpenAI 产品的用户没有受到影响。
+暴露的数据可能包括 API 帐户名称、电子邮件地址、浏览器和设备元数据、引用站点以及组织或用户 ID。不涉及密码、API 密钥、聊天、使用数据、付款详细信息或政府 ID。 OpenAI 指出，此次泄露源于 Mixpanel 于 11 月 8 日检测到的网络钓鱼攻击，并于 11 月 25 日收到了受影响数据集的确认。
+OpenAI 已将 Mixpanel 从生产中删除，展开了自己的调查，并正在通知可能受影响的用户和组织。 Mixpanel 保护了受影响的帐户、撤销了会话、重置了凭据并添加了新的保护措施。其他 Mixpanel 客户，包括 CoinTracker、报告了类似的曝光，涉及设备元数据和有限的交易数据。 OpenAI 建议用户留意网络钓鱼尝试、验证可疑消息、使用两因素身份验证并避免共享敏感信息。
+查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/openai-reports-mixpanel-major-data-breach-exposing-limited-chatgpt-api-users-data/</guid>
+      <pubDate>Fri, 28 Nov 2025 01:46:39 GMT</pubDate>
+    </item>
     <item>
       <title>Collabora 推出适用于 Linux、Mac 和 Windows 的全新开源 Collabora Office 桌面套件</title>
       <link>https://alternativeto.net/news/2025/11/collabora-launches-new-open-source-collabora-office-desktop-suite-for-linux-mac-and-windows/</link>
@@ -125,26 +145,6 @@ Tor 的 Rust 实现 Arti 已经在进行过渡，并且正在将 CGO 集成到�
 查看有关 AlternativeTo 的文章更多信息塔式 | 塔式替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/11/tower-15-for-mac-debuts-automatic-branch-management-and-macos-26-tahoe-support/</guid>
       <pubDate>Thu, 27 Nov 2025 02:34:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Black Forest Labs 发布具有开放权重和高分辨率功能的 Flux 2 图像模型</title>
-      <link>https://alternativeto.net/news/2025/11/black-forest-labs-releases-flux-2-image-models-with-open-weights-and-high-res-features/</link>
-      <description><![CDATA[Black Forest Labs 推出了 FLUX.2，这是一系列新的图像生成模型，与最近推出的Google 的 Nano Banana Pro。该系列可实现高达 4 兆像素的图像输出，支持高分辨率的生成和编辑。虽然多图像工作流程是焦点，但 Flux 2 可以同时处理多达十个参考图像，以确保输出的字符和样式保持一致。
-文本渲染经过重新设计，以改进依赖于精确排版、UI 模型和结构化布局的任务。及时依从性也得到了改善，尤其是在处理复杂的指令或密集的视觉组合时。从技术上讲，Flux 2 采用混合架构，将 Mistral 3 24B 视觉语言模型与整流流变压器相结合，以实现精确布局。包含一个变分自动编码器，允许以最小的质量损失有效地保存和恢复图像数据。
-该系列包括 pro、flex、dev 和 klein 版本。 Pro 模型通过 BFL Playground 和 BFL API 提供最高质量，而开发模型则提供开放权重、320 亿个参数范围以及托管在 拥抱脸部，并使用 GitHub 上的参考代码。使用 NVIDIA 进行优化构建，并在 GeForce RTX 卡等消费者 GPU 上运行 ComfyUI，并且 klein 将在 Apache 2.0 下发布，测试版已经开放。
-查看有关 AlternativeTo 的文章更多信息FLUX.1 | FLUX.1 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/black-forest-labs-releases-flux-2-image-models-with-open-weights-and-high-res-features/</guid>
-      <pubDate>Thu, 27 Nov 2025 02:09:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gradio 6 发布，具有更快的性能，可用于使用 Python 创建机器学习应用程序</title>
-      <link>https://alternativeto.net/news/2025/11/gradio-6-released-with-faster-performance-for-creating-machine-learning-apps-in-python/</link>
-      <description><![CDATA[Gradio 6 已发布，提供了新版本的平台，使用户能够使用 Python 为机器学习模型创建 Web 界面。与以前的版本相比，此更新带来了性能上的显着提升、更小的封装占用空间以及简化的定制。
-除了这些改进之外，Gradio 6 还引入了几项因 Python API 标准化而产生的重大更改。计划升级的开发人员应查看迁移步骤以确保与现有项目的兼容性。虽然新版本侧重于核心改进，但它也从根本上改变了开发人员构建交互式应用程序的方式：纯 HTML 和 JavaScript 中的自定义 Web 组件现在可以用 Python 内联编写，无需外部构建工具或框架。
-在此版本之后，只有 Gradio 6 将获得持续支持。开发团队强烈鼓励迁移到 6.x 系列。为了实现无缝升级，开发者可以运行pip install --upgrade gradio命令来访问最新版本。
-查看有关 AlternativeTo 的文章更多信息Gradio.app | Gradio.app 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/gradio-6-released-with-faster-performance-for-creating-machine-learning-apps-in-python/</guid>
-      <pubDate>Wed, 26 Nov 2025 22:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
