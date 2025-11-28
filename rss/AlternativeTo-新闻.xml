@@ -4,7 +4,71 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Thu, 27 Nov 2025 12:41:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Nov 2025 01:26:09 GMT</lastBuildDate>
+    <item>
+      <title>Collabora 推出适用于 Linux、Mac 和 Windows 的全新开源 Collabora Office 桌面套件</title>
+      <link>https://alternativeto.net/news/2025/11/collabora-launches-new-open-source-collabora-office-desktop-suite-for-linux-mac-and-windows/</link>
+      <description><![CDATA[Collabora 推出了一款名为 Collabora Office 的新桌面套件，该套件围绕 Collabora Online 的现代界面构建，但打包为适用于 Linux、Windows 和 macOS 的完全离线独立应用程序。它带来了与 Web 编辑器相同的选项卡式浏览器样式布局，支持 DOCX、XLSX、PPTX 和 OpenDocument 格式，并删除了 Java 组件以提供更轻松的安装。此版本侧重于更清晰的默认设置、更少的设置和更现代的外观，类似于 Collabora Online，甚至在某些方面类似于 Microsoft Office。
+现有的桌面企业套件不会被替换。相反，它已更名为 Collabora Office Classic，并继续作为一个单独的独立产品，具有基于传统 LibreOffice 的 VCL 界面。两个版本都提供 Writer、Calc、Impress 和 矢量图形工具，两者都是完全本地桌面应用程序。 Classic 保留了 Base 数据库应用程序、BASIC、Python 和 UNO 中的完整宏编辑以及长期企业支持等功能，而这款新的 Collabora Office for Desktop 应用程序则放弃了 Base，只能运行宏而不能编辑宏，并且仍在为计划于 2026 年实现企业准备就绪而构建。
+Collabora Office 用基于 JavaScript、CSS、WebGL 和 Canvas 的设计取代了 VCL 界面，引入了更清晰的布局、颜色编码的功能区和依赖性更少的深色模式。该公司计划让两个版本共存，每个版本都满足不同的偏好和要求。
+查看有关 AlternativeTo 的文章有关 Collabora 的更多信息在线 | Collabora 在线替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/collabora-launches-new-open-source-collabora-office-desktop-suite-for-linux-mac-and-windows/</guid>
+      <pubDate>Thu, 27 Nov 2025 22:20:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>FL Studio 2025.2 添加了 Fruity Slicer 2、Emphasizer、新流派和更智能的工具</title>
+      <link>https://alternativeto.net/news/2025/11/fl-studio-2025-2-adds-fruity-slicer-2-emphasizer-new-genres-and-smarter-tools/</link>
+      <description><![CDATA[FL Studio 2025.2 在每个版本中引入了 Fruity Slicer 2 和 Emphasizer，无需额外费用即可扩展核心工具集，并延续终身免费更新政策。 Loop Starter 添加了新的流派，包括 Boom Bap、Reggaeton、phonk 和 Afrobeats，以及对以所选调或匹配现有项目启动会话的关键支持。 Fruity Slicer 2 还带来了重新设计的界面，具有更快的切片速度和每片包络，可实现更精确的控制。
+Emphasizer 作为快速声音增强的简化工具而出现，而完整的 Emphasis 插件则获得即时恢复模式、更流畅的预览和取消点击的硬度控制。声音浏览通过“查找相似声音”得到改进，只需单击一下即可从库中进行智能匹配。
+Mixer FX 插槽添加了 Patcherize 选项，用于将整个链转换为 Patcher 模块。此更新还在 DirectWave、侧链路由、MIDI 工具、音频剪辑编辑、主干提取、键盘快捷键以及对导入 FL Studio Web 项目的支持方面提供了较小的改进。
+查看有关 AlternativeTo 的文章更多信息FL Studio | FL Studio 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/fl-studio-2025-2-adds-fruity-slicer-2-emphasizer-new-genres-and-smarter-tools/</guid>
+      <pubDate>Thu, 27 Nov 2025 21:49:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Proton Authenticator 在 F-Droid 上发布，版本为 1.3.4</title>
+      <link>https://alternativeto.net/news/2025/11/proton-authenticator-launches-on-f-droid-with-version-1-3-4/</link>
+      <description><![CDATA[Proton Authenticator 现已在 F-Droid 上使用，从版本 1.3.4 开始，将访问权限扩展到 Google Play 之外。该应用程序无需 Proton 帐户即可免费使用，并且不包含广告。主要功能包括离线支持、端到端加密同步、自动备份和开源代码。
+查看有关 AlternativeTo 的文章有关 Proton 的更多信息身份验证器 | 质子身份验证器替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/proton-authenticator-launches-on-f-droid-with-version-1-3-4/</guid>
+      <pubDate>Thu, 27 Nov 2025 17:24:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Unison 1.0 发布，语言稳定，云部署，工具改进</title>
+      <link>https://alternativeto.net/news/2025/11/unison-1-0-released-with-stable-language-cloud-deployment-and-improved-tools/</link>
+      <description><![CDATA[Unison 1.0已正式发布，经过广泛开发，引入了稳定的语言、分布式运行时和成熟的工具链。该版本带来了改进的编程工作流程、改进的开发人员体验以及运行时优化以获得更好的性能。 Unison Cloud 现在支持在任何基于容器的基础架构上进行部署，并且 Unison Share 等协作功能可简化团队工作流程和代码发现。
+查看有关 AlternativeTo 的文章有关 Unison 编程的更多信息语言 | Unison 编程语言替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/unison-1-0-released-with-stable-language-cloud-deployment-and-improved-tools/</guid>
+      <pubDate>Thu, 27 Nov 2025 16:40:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>ReScript 12 发布，提供新的构建系统、统一的操作符和改进的运行时</title>
+      <link>https://alternativeto.net/news/2025/11/rescript-12-launches-with-new-build-system-unified-operators-and-improved-runtime/</link>
+      <description><![CDATA[ReScript 12 现已推出，具有完全重新设计的构建系统，可提高性能和开发人员工作流程。该版本引入了独立的运行时和直接内置于编译器中的更新的标准库，从而简化了项目依赖性。统一的运算符支持、增强的字典处理和新的类型系统功能简化了编码和代码维护。
+查看有关 AlternativeTo 的文章更多信息ReScript | ReScript 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/11/rescript-12-launches-with-new-build-system-unified-operators-and-improved-runtime/</guid>
+      <pubDate>Thu, 27 Nov 2025 16:38:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Plex 开始对免费远程流媒体实施限制，从本周的 Roku 开始</title>
+      <link>https://alternativeto.net/news/2025/11/plex-begins-enforcing-restrictions-on-free-remote-streaming-starting-with-roku-this-week/</link>
+      <description><![CDATA[3 月份，Plex 宣布了双重转变：价格上涨和家庭网络外流媒体的新政策。虽然本地播放保持不变，但该公司现在要求用户为远程访问付费。现有的 PlexPass 订阅者（每月 6.99 美元或每年 69.99 美元）能够通过互联网将其图书馆流式传输给外部观众。相反，非 Pass 所有者可以每月 1.99 美元（或每年 19.99 美元）购买“远程监视通行证”来查看远程 Plex 服务器，而服务器所有者无需 PlexPass。
+计划于 4 月 29 日推出，但本周首次在 Roku 设备上实施。 Plex 在 11 月 20 日的论坛帖子中确认了这一变化。该公司警告说，虽然该要求目前仅适用于 Roku，但明年将扩展到所有主要平台，包括 AndroidTV、AppleTV、 FireTV 以及使用 Plex API 进行远程流传输的任何第三方客户端。
+这些调整仅影响对 Plex 服务器的远程访问。仅使用 Plex 进行本地家庭流媒体播放的用户可以免收新费用，从而保留本地播放的免费体验。希望改用更适合自己需求的替代解决方案的用户还可以查看 Jellyfin、Emby 以及此处列出的其他替代方案。
+查看有关 AlternativeTo 的文章更多信息Plex | Plex 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/plex-begins-enforcing-restrictions-on-free-remote-streaming-starting-with-roku-this-week/</guid>
+      <pubDate>Thu, 27 Nov 2025 15:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tor 转向 Counter Galois Onion：重大加密升级以增强安全性</title>
+      <link>https://alternativeto.net/news/2025/11/tor-switches-to-counter-galois-onion-a-major-encryption-upgrade-for-enhanced-security/</link>
+      <description><![CDATA[Tor 匿名网络的开发团队披露了对用户数据在穿越网络中继时的加密方式的重大升级。传统的“tor1”方案最初于 2002 年推出，依赖于 AES-128-CTR 和短 4 字节 SHA-1 身份验证器，这两种身份验证器都容易受到流量标记等现代攻击。在标记攻击中，对手会改变网络中某一点的流量，并监视其他地方的可预测变化，从而使他们能够链接用户的唯一标识符，而无需解决概率难题。
+新协议被称为“Counter Galois Onion (CGO)”，建立在名为“Rugged Pseudorandom Permutation”的加密结构之上，该结构由 Jean-Paul Degabriele、AlessandroMelloni、Jean-PierreMünch 和 MartijnStam 设计。 CGO 将可变的 AES 密钥替换为在发送或接收每个单元后不可撤销地转换的密钥，并将验证器扩展到 16 字节（128 位）。这种设计保证了立即持久的机密性：对加密单元的一部分的任何篡改都会使整个单元以及任何后续单元不可恢复，从而有效地抵消标记攻击。
+Tor 的 Rust 实现 Arti 已经在进行过渡，并且正在将 CGO 集成到基于 C 的经典代码库中。虽然升级承诺提供更强的前向保密性以及对重放或修改尝试的抵抗力，但 Tor 团队尚未宣布 Tor 浏览器本身的推出时间表。随着更新的中继软件通过网络传播，用户可以预期更改将逐步推出。
+查看有关 AlternativeTo 的文章更多信息Tor | Tor 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/tor-switches-to-counter-galois-onion-a-major-encryption-upgrade-for-enhanced-security/</guid>
+      <pubDate>Thu, 27 Nov 2025 13:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>Blackmagic Camera 3.2 在 Android 上发布，提供扩展的流媒体支持和 H.265 支持</title>
       <link>https://alternativeto.net/news/2025/11/blackmagic-camera-3-2-launches-on-android-with-expanded-streaming-support-and-h-265-support/</link>
@@ -81,74 +145,6 @@
 查看有关 AlternativeTo 的文章更多信息Gradio.app | Gradio.app 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/11/gradio-6-released-with-faster-performance-for-creating-machine-learning-apps-in-python/</guid>
       <pubDate>Wed, 26 Nov 2025 22:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找一个不从我的照片中获利的私人自托管 Google Photos 替代方案</title>
-      <link>https://alternativeto.net/news/2025/11/finding-a-private-self-hosted-google-photos-alternative-that-doesn-t-profit-from-my-photos/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://alternativeto.net/news/2025/11/finding-a-private-self-hosted-google-photos-alternative-that-doesn-t-profit-from-my-photos/</guid>
-      <pubDate>Wed, 26 Nov 2025 21:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rocky Linux 10.1 发布，具有软重启、后量子加密和 XFS 增强功能</title>
-      <link>https://alternativeto.net/news/2025/11/rocky-linux-10-1-launches-with-soft-reboots-post-quantum-cryptography-and-xfs-enhancements/</link>
-      <description><![CDATA[Rocky Linux 10.1 现已推出，继续致力于与红帽企业 Linux 逐个错误地兼容。此版本基于 Linux 内核 6.12 LTS 构建，带来了最新的核心系统稳定性和硬件支持。
-随着全平台的进步，Rocky Linux 10.1 引入了 systemd 软重启功能。这允许仅用户空间重新启动，这可以显着减少应用更新或补丁时的停机时间。基于最近的安全进展，该发行版现在优先考虑 OpenSSL 中的后量子加密算法而不是经典算法，并将对后量子算法的支持扩展到 GnuTLS 和其他库，从而扩展了针对未来加密威胁的保护。
-在存储方面，用户现在可以在已安装的 XFS 文件系统上运行 xfs_scrub，并在某些情况下使用 xfs_growfs 缩小 XFS 卷，从而为管理员提供改进的管理和灵活性。
-为了满足开发人员的需求，该版本提供了更新的堆栈，包括 .NET 10、Node.js 24、OpenJDK 25、Valkey 8、GCC 15、Go 1.24、LLVM 20 和 Rust 1.88。这些更新为面向企业环境的应用程序构建者提供了最新的编程语言功能和性能改进。
-查看有关 AlternativeTo 的文章有关 Rocky 的更多信息Linux | Rocky Linux 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/rocky-linux-10-1-launches-with-soft-reboots-post-quantum-cryptography-and-xfs-enhancements/</guid>
-      <pubDate>Wed, 26 Nov 2025 16:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Signal 在 iOS 上推出带有加密消息和媒体历史记录的安全备份</title>
-      <link>https://alternativeto.net/news/2025/11/signal-launches-secure-backups-with-encrypted-message-and-media-history-on-ios/</link>
-      <description><![CDATA[Signal 的加密消息备份功能之前针对 Android 推出，现在可供 iOS 用户使用。这一跨平台的推出解决了最常见的问题之一：到目前为止，丢失或损坏手机会永久删除所有 Signal 对话。使用新系统，每天都会生成加密备份，包括所有短信和最近 45 天的媒体文件。
-Signal 将消息和最近媒体的免费存储层设置为 100 MB。对于需要更大容量的用户，每月 1.99 美元的订阅可将可用存储空间增加至 100 GB。这一付费选项标志着该公司迈出了将其服务货币化的第一步，以支付管理大型媒体文件的成本，同时仍然保持其无广告和无数据挖掘的方法。
-在安全方面，备份采用零知识加密，并需要直接在用户设备上生成的唯一的 64 字符恢复密钥。该密钥永远不会存储或传输到 Signal 的服务器。备份中的媒体文件受益于双重加密和填充，以最大程度地减少元数据暴露，并且根据策略，消失和查看一次的消息不包含在备份中。
-查看有关 AlternativeTo 的文章更多信息信号 | 信号替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/signal-launches-secure-backups-with-encrypted-message-and-media-history-on-ios/</guid>
-      <pubDate>Wed, 26 Nov 2025 15:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Proton 推出测试版 Proton Pass CLI，可从终端进行安全保险库管理</title>
-      <link>https://alternativeto.net/news/2025/11/proton-introduces-proton-pass-cli-in-beta-for-secure-vault-management-from-the-terminal/</link>
-      <description><![CDATA[Proton 为其 Proton Pass 密码管理器引入了命令行界面 (CLI)，允许用户直接在脚本、部署流程以及持续集成和持续集成中安全地检索机密和项目。持续交付设置。此 CLI 解决了图形界面不可行的场景，例如在服务器上或 CI/CD 管道中。
-在维护 Proton 的端到端加密和隐私标准的同时，Proton Pass CLI 允许用户直接从终端工作，以自动执行任务、检索保管库数据以及管理项目和权限。这些功能为需要安全而灵活的工作流程而无需离开终端环境的 IT 专业人员、开发人员和系统管理员提供支持。
-CLI 目前正针对 Visionary 级别的 Proton Pass 客户进行测试，Proton 计划未来在付费计划中更广泛地使用它。对于在图形用户界面不可用的环境中工作的团队来说，此更新解锁了一种实用且安全的方法来管理密码和自动检索凭据。
-查看有关 AlternativeTo 的文章有关 Proton 的更多信息通行证 | 质子通行证替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/proton-introduces-proton-pass-cli-in-beta-for-secure-vault-management-from-the-terminal/</guid>
-      <pubDate>Wed, 26 Nov 2025 08:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Orion 浏览器 1.0 面向 macOS 推出，采用隐私优先设计和 WebKit 引擎</title>
-      <link>https://alternativeto.net/news/2025/11/orion-1-0-launches-for-macos-with-privacy-first-design-and-webkit-engine/</link>
-      <description><![CDATA[适用于 macOS 的 Orion 浏览器 经过六年的开发，现已推出 1.0 版，结束测试版并加入其 iOS 和 iPadOS 版本作为生产就绪浏览器。该项目以隐私为中心，拒绝广告资助和遥测，提供零数据收集、强大的内容阻止以及无内置跟踪技术。
-该浏览器使用 WebKit 引擎而不是 Chromium 来与 macOS 和 iOS 性能保持一致，并强化其作为 Safari。它还避免在核心中嵌入人工智能代理，仅连接到用户选择的外部人工智能工具，并将它们与浏览环境分开。 1.0 版添加了焦点模式、链接预览、迷你工具栏、扩展页面调整以及作为单独迷你应用程序工作的独立配置文件等功能。这些新增内容建立在社区反馈的基础上，这些反馈改进了选项卡稳定性、内存使用以及与要求苛刻的网络应用程序的兼容性。
-Orion 适用于 macOS、iOS 和 iPadOS，Linux alpha 版正在进行中，计划于 2026 年发布 Windows 版本。该浏览器可免费使用，并包含 200 个免费Kagi 搜索，它还提供 Orion+ 付费版本，起价 5 美元/月，并提供早期功能、可自定义按钮和浮动窗口等福利。
-查看有关 AlternativeTo 的文章有关 Orion 的更多信息浏览器 | Orion 浏览器替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/orion-1-0-launches-for-macos-with-privacy-first-design-and-webkit-engine/</guid>
-      <pubDate>Wed, 26 Nov 2025 01:48:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>迫于政府压力和法律威胁，GrapheneOS 停止在法国运营</title>
-      <link>https://alternativeto.net/news/2025/11/grapheneos-ceases-operations-in-france-amid-pressure-and-legal-threats-by-the-government/</link>
-      <description><![CDATA[GrapheneOS宣布完全关闭其在法国的业务，理由是在法国法律施加协调压力后，该国开源隐私项目的风险增加执法和媒体。该项目称，当局威胁称，如果拒绝添加后门，将扣押服务器并逮捕开发人员，而《巴黎人报》等媒体机构也附和了未经证实的说法，将该软件与犯罪用途联系在一起。项目负责人拒绝接受这些关联，并澄清所引用的示例涉及不相关的山寨 Android 系统。
-因此，法国用户仍可访问该操作系统，但之前托管在 OVH 上的所有网站、Mastodon、Discourse 和 Matrix 服务器都将迁移到多伦多的服务器和德国的 Netcup，密钥加密凭据将轮换，DNS 也会迁移到Vultr 和 BuyVM 以及开发人员由于感知到的威胁而被禁止前往法国或在法国工作。该团队表示，法国没有存储机密用户数据或关键更新基础设施，因此签名验证、降级保护、多层更新和启动验证以及安全元件保护等功能不会受到影响，因此无论法律要求如何，从技术上讲，暴力绕过都是不可能的。
-根据开发团队的说法，法国对欧盟拟议的聊天控制立法的支持增加了他们的安全担忧，并强化了法国对注重隐私的项目变得敌对的感觉。他们指出加密后门的政治压力以及将拒绝透露设备 PIN 码定为刑事犯罪的法律，同时还指责其他位于法国的 AOSP 发行版，例如 iodéOS 和 /e/OS 是“诈骗和虚假隐私产品”尽管安全性低得多，但使用不安全的产品误导用户，这些产品在补丁上落后，削弱了设备加密，并从政府资助中受益。
-查看有关 AlternativeTo 的文章更多信息GrapheneOS | GrapheneOS 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/grapheneos-ceases-operations-in-france-amid-pressure-and-legal-threats-by-the-government/</guid>
-      <pubDate>Tue, 25 Nov 2025 23:17:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>气球将于 2025 年 11 月 30 日永久关闭</title>
-      <link>https://alternativeto.net/news/2025/11/balloonary-to-shut-down-permanently-on-november-30-2025/</link>
-      <description><![CDATA[Balloonary 是一个旨在简化广告制作的人工智能驱动平台，已宣布将于 2025 年 11 月 30 日永久关闭。建议用户在该日期之前检索数据并请求未使用积分的退款，因为访问将随着关闭而结束。
-Balloonary 的首选替代方案包括 InVideo Studio、Simplified 和 AdCreative.ai。
-如果您需要了解更多信息，请查看AlternativeTo 的列表。
-查看有关 AlternativeTo 的文章更多信息气球 | 气球替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/balloonary-to-shut-down-permanently-on-november-30-2025/</guid>
-      <pubDate>Tue, 25 Nov 2025 17:15:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
