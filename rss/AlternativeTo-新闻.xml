@@ -4,7 +4,28 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sat, 29 Nov 2025 01:27:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Nov 2025 12:38:03 GMT</lastBuildDate>
+    <item>
+      <title>eXo Platform 7.1 推出，提供新的管理工具和增强的团队协作</title>
+      <link>https://alternativeto.net/news/2025/11/exo-platform-7-1-launches-with-new-management-tools-and-enhanced-team-collaboration/</link>
+      <description><![CDATA[eXo Platform 7.1 作为该开源数字工作场所套件的最新版本推出，建立在版本引入的技术检修基础上7.0。此更新的重点是通过对用户界面和日常工作流程进行显着更改来提供更直观、以人为本的体验。
+一个主要亮点是重新设计的管理系统，它支持缩略图和树视图、拖放文件夹导入、离线功能和网络驱动器连接。这些改进支持不间断的生产力，无论位置如何。除了这些升级之外，用户还可以受益于可定制的个人工作区、统一搜索、增强的应用程序中心以及旨在简化日常操作并节省时间的新快捷方式。
+此后，团队沟通能力通过基于Matrix的聊天集成得到扩展。用户现在可以访问反应、线程消息回复、语音消息、推送和声音通知以及全屏模式以改善交互协作。此更新还添加了论坛式提要、分散式参与活动以及有助于增强团队动力和凝聚力的任务小工具。
+从技术角度来看，eXo 7.1 采用了更新的软件组件，包括 JDK 21、Tomcat 10、Spring 6、Spring Boot 3.1、ElasticSearch 8.14.3 和 OnlyOffice 9.1，以确保更好的稳定性和兼容性。管理员现在拥有平台自定义、高级用户管理和身份验证页面无代码配置的新选项，以增强控制。
+查看有关 AlternativeTo 的文章有关 eXo 的更多信息平台 | eXo 平台替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/exo-platform-7-1-launches-with-new-management-tools-and-enhanced-team-collaboration/</guid>
+      <pubDate>Sat, 29 Nov 2025 12:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Whonix 18.0 采用 LXQt，启用全球 IPv6，并首次推出 Wayland-only Kloak</title>
+      <link>https://alternativeto.net/news/2025/11/whonix-18-0-adopts-lxqt-enables-global-ipv6-and-debuts-wayland-only-kloak/</link>
+      <description><![CDATA[Whonix 18.0 对桌面体验进行了重大更改，将所有映像从 Xfce 切换到 LXQt 环境并相应更新其核心组件。 PCManFM Qt 中禁用了缩略图，修订了 Waybar 配置，swaylock 取代了以前的屏幕锁定器，并且不必要小部件被删除。 Loupe 成为默认图像查看器，并且不再包含 USBGuard。
+该版本支持系统范围内的 IPv6 支持、更新网关端口、VirtualAddrNetworkIPv6、Tor 初始化例程和防火墙逻辑。 Tor 浏览器现在使用可用的 IPv6，并且 uwt 包装器等工具添加了 IPv6 感知代理处理和新的 IPC 路径。通过 systemd networkd wait online 和 tmpfiles 对匿名器配置进行的更改提高了可靠性和启动行为。
+Kloak 被重写为 Wayland 专用工具，具有改进的鼠标混淆、自然滚动、较低的空闲 CPU 使用率和强化沙箱。 Qubes Whonix 模板采用 Debian 的 deb822 格式，删除已弃用的单元，并集成更新的 IPv6 脚本。 Qubes 事件缓冲在 Qubes R4.3 及更高版本中默认启用，并且新映像可用于 VirtualBox 和 KVM，并支持 Whonix 17 用户进行就地升级。
+查看有关 AlternativeTo 的文章更多信息Whonix | Whonix 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/whonix-18-0-adopts-lxqt-enables-global-ipv6-and-debuts-wayland-only-kloak/</guid>
+      <pubDate>Sat, 29 Nov 2025 12:03:56 GMT</pubDate>
+    </item>
     <item>
       <title>iodéOS 7 Beta 版发布，基于 Android 16、增强的电池续航时间和更新的应用程序</title>
       <link>https://alternativeto.net/news/2025/11/iodeos-7-beta-launches-with-android-16-base-enhanced-battery-life-and-updated-apps/</link>
@@ -130,24 +151,6 @@ Tor 的 Rust 实现 Arti 已经在进行过渡，并且正在将 CGO 集成到�
 查看有关 AlternativeTo 的文章有关 Blackmagic 的更多信息相机 | Blackmagic 相机替代品]]></description>
       <guid>https://alternativeto.net/news/2025/11/blackmagic-camera-3-2-launches-on-android-with-expanded-streaming-support-and-h-265-support/</guid>
       <pubDate>Thu, 27 Nov 2025 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>第一天添加了 Zapier 集成，以安全地自动化日记账分录</title>
-      <link>https://alternativeto.net/news/2025/11/day-one-adds-zapier-integration-to-automate-journal-entries-securely/</link>
-      <description><![CDATA[Day One 现在与 Zapier 集成，使用户能够通过连接数千个受支持的应用程序来自动化日记条目。 Zapier 根据您的活动创建新条目，但无法访问或读取现有日记内容，从而保持端到端加密。
-要使用此功能，需要在 iPhone 或 iPad 上订阅 Day One Premium 且应用程序版本为 2025.23 或更高版本。
-查看有关 AlternativeTo 的文章有关第一天的更多信息 | 第一天替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/day-one-adds-zapier-integration-to-automate-journal-entries-securely/</guid>
-      <pubDate>Thu, 27 Nov 2025 09:51:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 将语音聊天集成到正在进行的对话中</title>
-      <link>https://alternativeto.net/news/2025/11/chatgpt-integrates-voice-chat-in-ongoing-conversations/</link>
-      <description><![CDATA[OpenAI 更新了 ChatGPT，以便语音对话现在直接在正在进行的聊天中进行，无需单独的纯语音会话。用户可以说话、观看实时显示的响应、查看以前的消息以及查看图像或地图等视觉内容。
-此更新正在向移动和网络平台上的所有用户推出，并可以在设置中选择恢复到原始的单独语音模式。
-查看有关 AlternativeTo 的文章有关 ChatGPT 的更多信息 | ChatGPT 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/chatgpt-integrates-voice-chat-in-ongoing-conversations/</guid>
-      <pubDate>Thu, 27 Nov 2025 09:09:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
