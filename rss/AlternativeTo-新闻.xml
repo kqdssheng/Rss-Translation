@@ -4,7 +4,63 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Mon, 01 Dec 2025 01:54:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 12:43:08 GMT</lastBuildDate>
+    <item>
+      <title>CachyOS 的最新更新带来了辅助工具、更轻松的安装等等</title>
+      <link>https://alternativeto.net/news/2025/11/cachyos-latest-update-brings-accessibility-tools-easier-installation-and-much-more/</link>
+      <description><![CDATA[CachyOS 的 11 月更新重点是辅助功能改进并扩大了对用户的硬件支持。值得注意的是，安装程序现在包括 Orca 屏幕阅读器和 espeak-ng 语音合成器，使视障用户能够更轻松地导航安装过程。
+与此同时，该发行版的安装程序扩展了对登录管理器的支持。 Cosmic Greeter 已针对 COSMIC 桌面安装启用，同时正在开发对 Plasma Login Manager 的支持，但在 KDE 设置集成完成之前仍处于搁置状态。为了帮助具有特定存储需求的用户，mkinitcpio“systemd”挂钩现在默认启用，并在由于不兼容而选择 ZFS 或 Bcachefs 文件系统时自动禁用。 Bcachefs 用户还受益于新的默认包含的 bcachefs-dkms，替换了标准内核模块以改进集成。
+基于系统兼容性，CachyOS 现在为受支持的 Intel GPU 安装 intel-media-sdk 和 vpl-gpu-rt，结束了对 NVIDIA 390xx 驱动程序的支持，将 Fermi GPU 用户转移到 Nouveau NvBoost，并引入了对 Xbox ROG Ally 和 ROG Ally X 手持设备的支持。
+随着用户体验的改进，CachyOS-Hello 通过“安装应用程序”按钮启动 PackageInstaller，现在支持命令行操作。在游戏方面，Proton-CachyOS 引入了 dxvk-gplasync 来支持 Direct3D，并通过 FSR4 升级禁用 AMD 的 Anti-Lag，以获得更高的稳定性。最后，更新修复了某些 UEFI 系统上的 Limine 引导加载程序问题，并将 btrfs-overlayfs 挂钩切换到 systemd 版本以实现兼容性。
+查看有关 AlternativeTo 的文章更多信息CachyOS | CachyOS 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/cachyos-latest-update-brings-accessibility-tools-easier-installation-and-much-more/</guid>
+      <pubDate>Mon, 01 Dec 2025 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>4MLinux 50.0 稳定版发布，更新了应用程序并改进了网络摄像头支持</title>
+      <link>https://alternativeto.net/news/2025/12/4mlinux-50-0-stable-released-with-updated-apps-and-improved-webcam-support/</link>
+      <description><![CDATA[4MLinux 50.0 已作为稳定版本发布，标志着该发行版的一个重要里程碑。用户可以访问重要的软件更新，包括 LibreOffice 25.8、Firefox 145.0 和 GIMP 3.1.4。
+该版本通过 Zbar 和 V4L2 Viewer 等工具增加了改进的网络摄像头设备支持，并扩展了游戏选项。此外，4MLinux 现在支持其源代码的完全再现性。
+查看有关 AlternativeTo 的文章更多信息4MLinux | 4MLinux 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/4mlinux-50-0-stable-released-with-updated-apps-and-improved-webcam-support/</guid>
+      <pubDate>Mon, 01 Dec 2025 09:04:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oracle Linux 9.7 发布，包含后量子密码学和更新的工具链</title>
+      <link>https://alternativeto.net/news/2025/12/oracle-linux-9-7-released-with-post-quantum-cryptography-and-updated-toolchain/</link>
+      <description><![CDATA[Oracle Linux 9.7 现已普遍适用于 64 位 Intel、AMD 和 Arm 系统。该版本引入了增强的加密功能，支持下一代后量子算法、更新的OpenSSL以及优先考虑混合和纯PQC的系统范围加密策略。开发人员受益于升级的 GCC、LLVM 和 Rust 2024 工具集，而新的 Valkey 键值存储和改进的 Cockpit 管理工具扩展了平台功能。
+查看有关 AlternativeTo 的文章有关 Oracle 的更多信息Linux | Oracle Linux 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/12/oracle-linux-9-7-released-with-post-quantum-cryptography-and-updated-toolchain/</guid>
+      <pubDate>Mon, 01 Dec 2025 08:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wine 10.20 与 VKD3D 1.18 一起发布，改进了重解析点和通用控件重构</title>
+      <link>https://alternativeto.net/news/2025/11/wine-10-20-released-with-vkd3d-1-18-improved-reparse-points-and-common-controls-refactoring/</link>
+      <description><![CDATA[Wine 10.20 现已推出，进一步支持用户在 Linux、macOS 和 BSD 系统上运行 Windows 应用程序。此版本重点关注多个领域的兼容性和用户体验改进。
+Wine 10.20 的一个关键增强功能是 VKD3D 的升级，该组件将 Direct3D 12 调用转换为 Vulkan 图形 API，现已更新至版本 1.18。除此之外，Wine 用户还受益于对重解析点的扩展支持，提高了与复杂 Windows 文件系统功能的兼容性。
+继正在进行的界面工作之后，公共控件组件在版本 5 和版本 6 拆分后接受了额外的重构，这增强了各种用户界面元素的可维护性和兼容性。在这些增强功能的基础上，文档扫描工作流程中添加了进度对话框，在扫描过程中为用户提供视觉反馈。
+除了核心更改之外，Wine 10.20 还针对游戏和生产力软件修复了 31 个错误。这些修复提高了《文明》、《星际争霸》、《洛克人 X DiVE》等游戏以及 QuarkXPress 2024、PlayOnline Viewer 和 TomTom MyDrive Connect 等程序的稳定性和兼容性。
+查看有关 AlternativeTo 的文章更多关于葡萄酒 | 葡萄酒替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/wine-10-20-released-with-vkd3d-1-18-improved-reparse-points-and-common-controls-refactoring/</guid>
+      <pubDate>Mon, 01 Dec 2025 08:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>有机地图添加了维基百科的新语言和区域突出显示</title>
+      <link>https://alternativeto.net/news/2025/12/organic-maps-adds-wikipedia-in-new-languages-and-region-highlighting/</link>
+      <description><![CDATA[有机地图现在提供土耳其语、日语和中文地点的维基百科文章，以及突出显示已下载地图区域的新选项。
+此更新包括更新的 OSM 数据、iOS 和 Android 可用性修复，例如添加的滚动条和更稳定的下载、改进的路由、更好的导入和更新的翻译。
+查看有关 AlternativeTo 的文章有关有机的更多信息地图 | 有机地图替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/organic-maps-adds-wikipedia-in-new-languages-and-region-highlighting/</guid>
+      <pubDate>Mon, 01 Dec 2025 08:42:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>AV Linux 25 和 MX Moksha 25 发布，更新了文件和 VM 功能</title>
+      <link>https://alternativeto.net/news/2025/12/av-linux-25-and-mx-moksha-25-released-with-updated-file-and-vm-features/</link>
+      <description><![CDATA[AV Linux 25 和 MX Moksha 25 已发布，均使用 MX Linux 25/Debian Trixie 基础和 Liquorix内核。 Thunar 文件管理器现在支持“打开方式”功能，可通过 Quickemu 运行虚拟机并使用 YT-DLP 下载视频。 MX Moksha 通过 Moksha 0.4.1 提供轻量级设置，而 AV Linux 通过 Enlightenment 0.27.1 继续专注于内容创建。
+查看有关 AlternativeTo 的文章有关 AV 的更多信息Linux | AV Linux 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/12/av-linux-25-and-mx-moksha-25-released-with-updated-file-and-vm-features/</guid>
+      <pubDate>Mon, 01 Dec 2025 08:26:10 GMT</pubDate>
+    </item>
     <item>
       <title>Telegram 增加了 Live Stories 实时流媒体、礼物拍卖和重复安排</title>
       <link>https://alternativeto.net/news/2025/11/telegram-adds-live-stories-real-time-streaming-gifts-auction-and-repeat-scheduling/</link>
@@ -42,7 +98,7 @@
 一个主要亮点是重新设计的管理系统，它支持缩略图和树视图、拖放文件夹导入、离线功能和网络驱动器连接。这些改进支持不间断的生产力，无论位置如何。除了这些升级之外，用户还可以受益于可定制的个人工作区、统一搜索、增强的应用程序中心以及旨在简化日常操作并节省时间的新快捷方式。
 此后，团队沟通能力通过基于Matrix的聊天集成得到扩展。用户现在可以访问反应、线程消息回复、语音消息、推送和声音通知以及全屏模式以改善交互协作。此更新还添加了论坛式提要、分散式参与活动以及有助于增强团队动力和凝聚力的任务小工具。
 从技术角度来看，eXo 7.1 采用了更新的软件组件，包括 JDK 21、Tomcat 10、Spring 6、Spring Boot 3.1、ElasticSearch 8.14.3 和 OnlyOffice 9.1，以确保更好的稳定性和兼容性。管理员现在拥有平台自定义、高级用户管理和身份验证页面无代码配置的新选项，以增强控制。
-查看有关 AlternativeTo 的文章有关 eXo 的更多信息平台 | eXo 平台替代品]]></description>
+查看有关 AlternativeTo 的文章有关 eXo 的更多信息平台 | eXo 平台替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/11/exo-platform-7-1-launches-with-new-management-tools-and-enhanced-team-collaboration/</guid>
       <pubDate>Sat, 29 Nov 2025 12:05:00 GMT</pubDate>
     </item>
@@ -97,60 +153,6 @@ Kloak 被重写为 Wayland 专用工具，具有改进的鼠标混淆、自然�
 查看有关 AlternativeTo 的文章更多信息困惑 | 困惑替代品]]></description>
       <guid>https://alternativeto.net/news/2025/11/perplexity-adds-a-new-instant-buy-shopping-feature-with-paypal-and-virtual-try-on/</guid>
       <pubDate>Fri, 28 Nov 2025 02:12:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 报告 Mixpanel 重大数据泄露，暴露了有限的 ChatGPT API 用户数据</title>
-      <link>https://alternativeto.net/news/2025/11/openai-reports-mixpanel-major-data-breach-exposing-limited-chatgpt-api-users-data/</link>
-      <description><![CDATA[OpenAI 披露，第三方分析提供商 Mixpanel 的漏洞暴露了一些 ChatGPT API 客户的有限识别信息。该事件仅限于 Mixpanel 收集的分析数据，OpenAI 确认其系统或核心用户数据均未受到访问。 ChatGPT 最终用户或其他 OpenAI 产品的用户没有受到影响。
-暴露的数据可能包括 API 帐户名称、电子邮件地址、浏览器和设备元数据、引用站点以及组织或用户 ID。不涉及密码、API 密钥、聊天、使用数据、付款详细信息或政府 ID。 OpenAI 指出，此次泄露源于 Mixpanel 于 11 月 8 日检测到的网络钓鱼攻击，并于 11 月 25 日收到了受影响数据集的确认。
-OpenAI 已将 Mixpanel 从生产中删除，展开了自己的调查，并正在通知可能受影响的用户和组织。 Mixpanel 保护了受影响的帐户、撤销了会话、重置了凭据并添加了新的保护措施。其他 Mixpanel 客户，包括 CoinTracker、报告了类似的曝光，涉及设备元数据和有限的交易数据。 OpenAI 建议用户留意网络钓鱼尝试、验证可疑消息、使用两因素身份验证并避免共享敏感信息。
-查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/openai-reports-mixpanel-major-data-breach-exposing-limited-chatgpt-api-users-data/</guid>
-      <pubDate>Fri, 28 Nov 2025 01:46:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Collabora 推出适用于 Linux、Mac 和 Windows 的全新开源 Collabora Office 桌面套件</title>
-      <link>https://alternativeto.net/news/2025/11/collabora-launches-new-open-source-collabora-office-desktop-suite-for-linux-mac-and-windows/</link>
-      <description><![CDATA[Collabora 推出了一款名为 Collabora Office 的新桌面套件，该套件围绕 Collabora Online 的现代界面构建，但打包为适用于 Linux、Windows 和 macOS 的完全离线独立应用程序。它带来了与 Web 编辑器相同的选项卡式浏览器样式布局，支持 DOCX、XLSX、PPTX 和 OpenDocument 格式，并删除了 Java 组件以提供更轻松的安装。此版本侧重于更清晰的默认设置、更少的设置和更现代的外观，类似于 Collabora Online，甚至在某些方面类似于 Microsoft Office。
-现有的桌面企业套件不会被替换。相反，它已更名为 Collabora Office Classic，并继续作为一个单独的独立产品，具有基于传统 LibreOffice 的 VCL 界面。两个版本都提供 Writer、Calc、Impress 和 矢量图形工具，两者都是完全本地桌面应用程序。 Classic 保留了 Base 数据库应用程序、BASIC、Python 和 UNO 中的完整宏编辑以及长期企业支持等功能，而这款新的 Collabora Office for Desktop 应用程序则放弃了 Base，只能运行宏而不能编辑宏，并且仍在为计划于 2026 年实现企业准备就绪而构建。
-Collabora Office 用基于 JavaScript、CSS、WebGL 和 Canvas 的设计取代了 VCL 界面，引入了更清晰的布局、颜色编码的功能区和依赖性更少的深色模式。该公司计划让两个版本共存，每个版本都满足不同的偏好和要求。
-查看有关 AlternativeTo 的文章有关 Collabora 的更多信息在线 | Collabora 在线替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/collabora-launches-new-open-source-collabora-office-desktop-suite-for-linux-mac-and-windows/</guid>
-      <pubDate>Thu, 27 Nov 2025 22:20:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>FL Studio 2025.2 添加了 Fruity Slicer 2、Emphasizer、新流派和更智能的工具</title>
-      <link>https://alternativeto.net/news/2025/11/fl-studio-2025-2-adds-fruity-slicer-2-emphasizer-new-genres-and-smarter-tools/</link>
-      <description><![CDATA[FL Studio 2025.2 在每个版本中引入了 Fruity Slicer 2 和 Emphasizer，无需额外费用即可扩展核心工具集，并延续终身免费更新政策。 Loop Starter 添加了新的流派，包括 Boom Bap、Reggaeton、phonk 和 Afrobeats，以及对以所选调或匹配现有项目启动会话的关键支持。 Fruity Slicer 2 还带来了重新设计的界面，具有更快的切片速度和每片包络，可实现更精确的控制。
-Emphasizer 作为快速声音增强的简化工具而出现，而完整的 Emphasis 插件则获得即时恢复模式、更流畅的预览和取消点击的硬度控制。声音浏览通过“查找相似声音”得到改进，只需单击一下即可从库中进行智能匹配。
-Mixer FX 插槽添加了 Patcherize 选项，用于将整个链转换为 Patcher 模块。此更新还在 DirectWave、侧链路由、MIDI 工具、音频剪辑编辑、主干提取、键盘快捷键以及对导入 FL Studio Web 项目的支持方面提供了较小的改进。
-查看有关 AlternativeTo 的文章更多信息FL Studio | FL Studio 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/fl-studio-2025-2-adds-fruity-slicer-2-emphasizer-new-genres-and-smarter-tools/</guid>
-      <pubDate>Thu, 27 Nov 2025 21:49:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Proton Authenticator 在 F-Droid 上发布，版本为 1.3.4</title>
-      <link>https://alternativeto.net/news/2025/11/proton-authenticator-launches-on-f-droid-with-version-1-3-4/</link>
-      <description><![CDATA[Proton Authenticator 现已在 F-Droid 上使用，从版本 1.3.4 开始，将访问权限扩展到 Google Play 之外。该应用程序无需 Proton 帐户即可免费使用，并且不包含广告。主要功能包括离线支持、端到端加密同步、自动备份和开源代码。
-查看有关 AlternativeTo 的文章有关 Proton 的更多信息身份验证器 | 质子身份验证器替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/proton-authenticator-launches-on-f-droid-with-version-1-3-4/</guid>
-      <pubDate>Thu, 27 Nov 2025 17:24:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Unison 1.0 发布，语言稳定，云部署，工具改进</title>
-      <link>https://alternativeto.net/news/2025/11/unison-1-0-released-with-stable-language-cloud-deployment-and-improved-tools/</link>
-      <description><![CDATA[Unison 1.0已正式发布，经过广泛开发，引入了稳定的语言、分布式运行时和成熟的工具链。该版本带来了改进的编程工作流程、改进的开发人员体验以及运行时优化以获得更好的性能。 Unison Cloud 现在支持在任何基于容器的基础架构上进行部署，并且 Unison Share 等协作功能可简化团队工作流程和代码发现。
-查看有关 AlternativeTo 的文章有关 Unison 编程的更多信息语言 | Unison 编程语言替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/unison-1-0-released-with-stable-language-cloud-deployment-and-improved-tools/</guid>
-      <pubDate>Thu, 27 Nov 2025 16:40:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>ReScript 12 发布，提供新的构建系统、统一的操作符和改进的运行时</title>
-      <link>https://alternativeto.net/news/2025/11/rescript-12-launches-with-new-build-system-unified-operators-and-improved-runtime/</link>
-      <description><![CDATA[ReScript 12 现已推出，具有完全重新设计的构建系统，可提高性能和开发人员工作流程。该版本引入了独立的运行时和直接内置于编译器中的更新的标准库，从而简化了项目依赖性。统一的运算符支持、增强的字典处理和新的类型系统功能简化了编码和代码维护。
-查看有关 AlternativeTo 的文章更多信息ReScript | ReScript 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/rescript-12-launches-with-new-build-system-unified-operators-and-improved-runtime/</guid>
-      <pubDate>Thu, 27 Nov 2025 16:38:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
