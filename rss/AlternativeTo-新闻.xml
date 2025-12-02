@@ -4,7 +4,74 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Tue, 02 Dec 2025 01:39:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 12:43:22 GMT</lastBuildDate>
+    <item>
+      <title>KaOS 2025.11 添加了 Limine 引导加载程序、Linux 6.17 内核、KDE ​​Plasma 6.5 和更新的软件包</title>
+      <link>https://alternativeto.net/news/2025/12/kaos-2025-11-adds-limine-bootloader-linux-6-17-kernel-kde-plasma-6-5-and-updated-packages/</link>
+      <description><![CDATA[KaOS 2025.11 是一个专注于 Qt 和 KDE 的独立 Linux 发行版，它对其安装过程进行了重大更改，提供 Limine 作为使用 Calamares 安装程序进行 UEFI 安装的可选引导加载程序。虽然 Limine 尚未设置为默认值，但计划在更广泛的测试后取代 systemd-boot。此版本由 Linux 6.17.9 内核提供支持，具有KDE Plasma 6.5.3 以及 KDE Gear 25.08.3 和 Frameworks 6.20.0，为用户提供现代化的桌面环境。
+KaOS 2025.11 继续强调最新的系统软件，附带了 systemd 257.10 和许多更新的核心软件包。其中包括 Boost 1.89.0、ICU 77.1、Glib2 2.86.2、Opencv 4.12.0、Poppler 25.11.0、Gstreamer 1.26.8、Pipewire 1.4.9、ZFS 2.3.5、Cmake 4.2、OpenSSH 10.2、Bash 5.3、Protobuf 33.1 和梅萨 25.2.7。
+新软件包包括 Niri，一个可滚动平铺的 Wayland 合成器； Quickshell，一个使用 QtQuick for Wayland 开发桌面 shell 的工具包；和 Noctalia，Wayland 的最小 shell。基于 Qt6 生态系统的进步，默认的 Phonon 声音后端现在使用 phonon-mpv 而不是 VLC，确保完全兼容 Qt6。此外，SDDM 0.20.0 引入了在 Wayland 模式下运行显示管理器的测试版支持，与 X11 相比更进一步。此版本还包括用于通过图形界面查看日志的 Kjournald，并应用了其他一些小的增强功能。
+查看有关 AlternativeTo 的文章更多关于 KaOS | KaOS 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/kaos-2025-11-adds-limine-bootloader-linux-6-17-kernel-kde-plasma-6-5-and-updated-packages/</guid>
+      <pubDate>Tue, 02 Dec 2025 12:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rocky Linux 9.7 发布，具有更新的图像和后量子安全性</title>
+      <link>https://alternativeto.net/news/2025/12/rocky-linux-9-7-released-with-updated-images-and-post-quantum-security/</link>
+      <description><![CDATA[Rocky Linux 9.7 现已全面发布，并提供更新的安装介质、容器、云和实时映像。此版本引入了加密策略的重大更新，包括增强的后量子加密支持。
+开发工具链得到重大升级，增加了 GCC Toolset 15、GCC 15.1、Binutils 2.44、LLVM Toolset 20.1.8 等。
+查看有关 AlternativeTo 的文章有关 Rocky 的更多信息Linux | Rocky Linux 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/rocky-linux-9-7-released-with-updated-images-and-post-quantum-security/</guid>
+      <pubDate>Tue, 02 Dec 2025 10:40:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>PhotoPrism 增加了批量元数据编辑、更好的面部识别和 Ollama/OpenAI 支持</title>
+      <link>https://alternativeto.net/news/2025/12/photoprism-adds-batch-metadata-editing-better-facial-recognition-and-ollama-openai-support/</link>
+      <description><![CDATA[PhotoPrism 最新的 11 月更新引入了几项备受期待的功能和性能增强。对于管理大型照片集的用户，新的批量编辑对话框允许同时编辑多张图片的元数据，从而简化组织流程。
+在人工智能方面，升级后的人脸识别流程现在可以生成更多更好的匹配，从而提高自动识别的准确性。在这些人工智能进步的基础上，PhotoPrism 增加了与 Ollama 和 OpenAI 服务的直接集成，从而实现图像的自动标题和标签生成。
+此版本进一步扩展了 AI 灵活性，包括对自定义 TensorFlow 模型的支持、更精细的配置设置以及新的调度选项，使高级用户能够更好地控制其工作流程。
+在这些核心升级之后，用户还将注意到一系列可用性改进。其中包括一个用于更改与人员条目关联的封面图像的新选项，以及更新的软件依赖项和更广泛的语言翻译集。总的来说，这些变化增强了性能并使 PhotoPrism 更容易被国际受众所接受。
+查看有关 AlternativeTo 的文章更多信息PhotoPrism | PhotoPrism 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/photoprism-adds-batch-metadata-editing-better-facial-recognition-and-ollama-openai-support/</guid>
+      <pubDate>Tue, 02 Dec 2025 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kling 推出用于统一编辑的多模式创意引擎</title>
+      <link>https://alternativeto.net/news/2025/12/kling-launches-multimodal-creative-engine-for-unified-editing/</link>
+      <description><![CDATA[Kling 推出了 Kling O1，这是一款能够真正多模式理解文本、图像和视频的创意引擎。该平台提供先进的视频编辑功能，包括多镜头角度生成、项目和背景去除、修复、换脸和换衣服。
+用户还可以使用简单的提示快速更改视频内容中的背景、环境或天气。
+查看 AlternativeTo 上的文章有关 KLING AI 的更多信息 | KLING AI 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/12/kling-launches-multimodal-creative-engine-for-unified-editing/</guid>
+      <pubDate>Tue, 02 Dec 2025 09:03:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek-V3.2 模型专注于推理和代理性能提升</title>
+      <link>https://alternativeto.net/news/2025/12/deepseek-v3-2-models-focus-on-reasoning-and-agent-performance-advances/</link>
+      <description><![CDATA[DeepSeek 发布了 V3.2 和 V3.2-Speciale，这是专注于代理应用程序高级推理的 AI 模型。 V3.2 可在应用程序、网络和 API 上广泛使用，而 V3.2-Speciale 仅限于 API 访问，并针对复杂的推理任务进行了优化，匹配或超过了全球数学和编程竞赛中领先竞争对手的表现。新模型引入了大规模代理训练方法，并将推理直接集成到工具使用工作流程中。
+查看有关 AlternativeTo 的文章更多信息DeepSeek | DeepSeek 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/12/deepseek-v3-2-models-focus-on-reasoning-and-agent-performance-advances/</guid>
+      <pubDate>Tue, 02 Dec 2025 08:54:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>NixOS 25.11“Xantusia”发布，包含 7k 个新软件包、GNOME 49、COSMIC beta 等</title>
+      <link>https://alternativeto.net/news/2025/12/nixos-25-11-xantusia-released-with-7k-new-packages-gnome-49-cosmic-beta-and-more/</link>
+      <description><![CDATA[NixOS 25.11“Xantusia”已作为围绕 Nix 包管理器构建的 Linux 发行版的最新版本发布。此更新现在由 Linux 6.12 LTS 内核提供支持，带来了重大的软件包集更新，引入了 7002 个新软件包，更新了 25252 个现有软件包，并删除了 6338 个过时软件包帮助维护系统安全性和可管理性。
+除了软件包更改之外，NixOS 25.11 还通过添加 107 个配置模块和 1778 个新配置选项来扩展系统自定义。该版本还淘汰了 41 个过时的模块和 807 个过时的选项，以提供更清晰的配置体验。这些更新建立在 NixOS 对可组合配置模块和针对分布式系统的集成测试的现有支持的基础上。
+GNOME 已更新至版本 49“Brescia”，带来了重大的桌面更改。该更新放弃了 X11 会话支持，并引入了新的视频播放器、新的文档查看器和重新设计的日历应用程序，以及进一步的改进。在用户受益于 GNOME 更新的同时，COSMIC beta 也可用，开发人员还可以获得改进的工具链。 LLVM 已升级至版本 21，CMake 目前为版本 4，GCC 仍为版本 14。
+查看有关 AlternativeTo 的文章更多信息NixOS | NixOS 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/nixos-25-11-xantusia-released-with-7k-new-packages-gnome-49-cosmic-beta-and-more/</guid>
+      <pubDate>Tue, 02 Dec 2025 08:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Telegram 在 TON 区块链上推出 Cocoon，一个去中心化的机密人工智能网络</title>
+      <link>https://alternativeto.net/news/2025/12/telegram-launches-cocoon-a-decentralized-confidential-ai-network-on-ton-blockchain/</link>
+      <description><![CDATA[Telegram 在 TON 区块链上推出了一个名为 Cocoon 的去中心化机密 AI 计算网络。该项目被认为是 Microsoft 和 Amazon 等提供商的集中式 AI 计算服务的一种更加私密且更具成本效益的替代方案，根据 Telegram 创始人 Pavel Durov 的说法，充当减少隐私的昂贵中介，而 Cocoon 的推出是为了避免这些限制，让应用程序在不暴露数据的情况下运行 AI 模型。数据传输到外部基础设施，同时还允许 GPU 所有者出租未使用的硬件并赚取 toncoin。
+Cocoon 使用三部分模型，其中客户端提交付费请求，代理选择合适的工作人员，工作人员在其 GPU 上执行任务。支付和结算发生在 TON 区块链上，开发人员表示请求和响应对客户保密。该网络定位为以私有处理为中心的替代计算层。
+Telegram 预计在未来几周内将带来更多 GPU 供应和开发者需求，但目前规模尚未公布。一些业界人士质疑 Cocoon 对一小部分英特尔处理器的依赖，其中不包括 AMD、ARM 和其他架构。与此同时，Durov 强调，Cocoon 向任何对私有 AI 计算感兴趣的开发者或 GPU 提供商开放，而不仅仅是 Telegram 用户，这留下了一个问题：它最终是否允许在网络上运行用户自己的本地 AI 模型。
+查看有关 AlternativeTo 的文章更多信息Telegram | Telegram 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/telegram-launches-cocoon-a-decentralized-confidential-ai-network-on-ton-blockchain/</guid>
+      <pubDate>Mon, 01 Dec 2025 19:16:03 GMT</pubDate>
+    </item>
     <item>
       <title>ONLYOFFICE Docs 9.2引入AI语法检查、快捷方式自定义、宏等</title>
       <link>https://alternativeto.net/news/2025/12/onlyoffice-docs-9-2-introduces-ai-grammar-checks-shortcut-customization-macros-and-more/</link>
@@ -85,72 +152,6 @@ Netflix 指导用户使用遥控器在电视或流媒体设备上打开本机 Ne
 查看有关 AlternativeTo 的文章更多信息4MLinux | 4MLinux 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/12/4mlinux-50-0-stable-released-with-updated-apps-and-improved-webcam-support/</guid>
       <pubDate>Mon, 01 Dec 2025 09:04:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Oracle Linux 9.7 发布，包含后量子密码学和更新的工具链</title>
-      <link>https://alternativeto.net/news/2025/12/oracle-linux-9-7-released-with-post-quantum-cryptography-and-updated-toolchain/</link>
-      <description><![CDATA[Oracle Linux 9.7 现已普遍适用于 64 位 Intel、AMD 和 Arm 系统。该版本引入了增强的加密功能，支持下一代后量子算法、更新的OpenSSL以及优先考虑混合和纯PQC的系统范围加密策略。开发人员受益于升级的 GCC、LLVM 和 Rust 2024 工具集，而新的 Valkey 键值存储和改进的 Cockpit 管理工具扩展了平台功能。
-查看有关 AlternativeTo 的文章有关 Oracle 的更多信息Linux | Oracle Linux 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/oracle-linux-9-7-released-with-post-quantum-cryptography-and-updated-toolchain/</guid>
-      <pubDate>Mon, 01 Dec 2025 08:55:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wine 10.20 与 VKD3D 1.18 一起发布，改进了重解析点和通用控件重构</title>
-      <link>https://alternativeto.net/news/2025/11/wine-10-20-released-with-vkd3d-1-18-improved-reparse-points-and-common-controls-refactoring/</link>
-      <description><![CDATA[Wine 10.20 现已推出，进一步支持用户在 Linux、macOS 和 BSD 系统上运行 Windows 应用程序。此版本重点关注多个领域的兼容性和用户体验改进。
-Wine 10.20 的一个关键增强功能是 VKD3D 的升级，该组件将 Direct3D 12 调用转换为 Vulkan 图形 API，现已更新至版本 1.18。除此之外，Wine 用户还受益于对重解析点的扩展支持，提高了与复杂 Windows 文件系统功能的兼容性。
-继正在进行的界面工作之后，公共控件组件在版本 5 和版本 6 拆分后接受了额外的重构，这增强了各种用户界面元素的可维护性和兼容性。在这些增强功能的基础上，文档扫描工作流程中添加了进度对话框，在扫描过程中为用户提供视觉反馈。
-除了核心更改之外，Wine 10.20 还针对游戏和生产力软件修复了 31 个错误。这些修复提高了《文明》、《星际争霸》、《洛克人 X DiVE》等游戏以及 QuarkXPress 2024、PlayOnline Viewer 和 TomTom MyDrive Connect 等程序的稳定性和兼容性。
-查看有关 AlternativeTo 的文章更多关于葡萄酒 | 葡萄酒替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/wine-10-20-released-with-vkd3d-1-18-improved-reparse-points-and-common-controls-refactoring/</guid>
-      <pubDate>Mon, 01 Dec 2025 08:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>有机地图添加了维基百科的新语言和区域突出显示</title>
-      <link>https://alternativeto.net/news/2025/12/organic-maps-adds-wikipedia-in-new-languages-and-region-highlighting/</link>
-      <description><![CDATA[有机地图现在提供有关土耳其语、日语和中文地点的维基百科文章，以及突出显示已下载地图区域的新选项。
-更新包括更新的 OSM 数据、iOS 和 Android 可用性修复，例如添加的滚动条和更稳定的下载、改进的路由、更好的导入和更新的翻译。
-查看有关 AlternativeTo 的文章有关有机的更多信息地图 | 有机地图替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/organic-maps-adds-wikipedia-in-new-languages-and-region-highlighting/</guid>
-      <pubDate>Mon, 01 Dec 2025 08:42:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>AV Linux 25 和 MX Moksha 25 发布，更新了文件和 VM 功能</title>
-      <link>https://alternativeto.net/news/2025/12/av-linux-25-and-mx-moksha-25-released-with-updated-file-and-vm-features/</link>
-      <description><![CDATA[AV Linux 25 和 MX Moksha 25 已发布，均使用 MX Linux 25/Debian Trixie 基础和 Liquorix内核。 Thunar 文件管理器现在支持“打开方式”功能，可通过 Quickemu 运行虚拟机并使用 YT-DLP 下载视频。 MX Moksha 通过 Moksha 0.4.1 提供轻量级设置，而 AV Linux 通过 Enlightenment 0.27.1 继续专注于内容创建。
-查看有关 AlternativeTo 的文章有关 AV 的更多信息Linux | AV Linux 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/12/av-linux-25-and-mx-moksha-25-released-with-updated-file-and-vm-features/</guid>
-      <pubDate>Mon, 01 Dec 2025 08:26:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Telegram 增加了 Live Stories 实时流媒体、礼物拍卖和重复安排</title>
-      <link>https://alternativeto.net/news/2025/11/telegram-adds-live-stories-real-time-streaming-gifts-auction-and-repeat-scheduling/</link>
-      <description><![CDATA[Telegram 最新更新添加了实时故事，让用户可以直接在个人帐户、群组或增强频道的故事中启动实时流。观众可以评论、用星星突出显示消息，并查看主持人获得了多少颗星星。主持人可以调整评论设置、为突出显示的消息设置价格、通过 RTMP 密钥使用外部流媒体工具以及为主持人分配视频聊天权限。实时故事保留与常规故事相同的受众控制，包括每个人、我的联系人、亲密朋友和选定用户。
-此更新还引入了重复的计划消息，允许用户通过按住“发送”按钮并选择“重复”来设置消息发送间隔，例如每天或每月两次。 Telegram 正在添加一个新的收藏礼品拍卖系统，用户可以在多轮中使用星星进行竞价。礼物数量与出价排名相对应，出价较低的自动结转，所有礼物分发完毕后，未使用的星星将被退还。这些礼物仍然可以作为一种身份佩戴、分组收藏、转移到区块链钱包或进行交易。
-界面更新完善了该版本，iOS 获得了更多液体玻璃设计、更新的配置文件、更新的设置页面和新的附件菜单。 Android 用户在滚动时会收到简约的输入字段和新的模糊效果。
-查看有关 AlternativeTo 的文章更多信息Telegram | Telegram 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/telegram-adds-live-stories-real-time-streaming-gifts-auction-and-repeat-scheduling/</guid>
-      <pubDate>Sun, 30 Nov 2025 12:03:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>EndeavourOS Ganymede ISO 与 KDE Plasma 6.5 一起发布，并改进了 NVIDIA 处理能力</title>
-      <link>https://alternativeto.net/news/2025/11/endeavouros-ganymede-iso-launches-with-kde-plasma-6-5-and-improved-nvidia-handling/</link>
-      <description><![CDATA[EndeavourOS 发布了新的Ganymede 稳定 ISO，这是八个月来的首次重大更新，并提供了全面更新的Arch Linux 基础。该更新包括 KDE Plasma 6.5.3、Calamares 25.11、Firefox 145，Linux 内核 6.17、Mesa 25.2、xorg-server 21.1.20 和 nvidia-utils 580.105。
-该版本引入了改进的 NVIDIA 处理功能，可在实时系统和已安装系统中自动选择专有的 nvidia 驱动程序和 nvidia 开放变体。默认情况下不再启用 Broadcom 无线模块以避免冲突。当找到兼容硬件时，系统会提示用户，并且仅当用户选择启用驱动程序时才会安装驱动程序。
-该团队指出，尽管自 Mercury Neo 以来存在很长的差距，但开发仍然活跃。当使用 systemd 启动安装在单独的驱动器上时，一个已知问题可能会阻止 Windows 11 启动，但同一驱动器上的设置和 GRUB 用户不受影响。其他更改包括更新 GTK 桌面的图标命名、在 Plasma 中切换到 SDDM 的 Qt6 虚拟键盘、对 LXDE 和 i3 版本进行较小的调整，以及用于全新安装的新 ISO 的可用性，并通过 pacman -Syu 提供升级。
-查看有关 AlternativeTo 的文章更多信息EndeavourOS | EndeavourOS 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/endeavouros-ganymede-iso-launches-with-kde-plasma-6-5-and-improved-nvidia-handling/</guid>
-      <pubDate>Sun, 30 Nov 2025 11:34:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 SmartTube YouTube 客户端在安全漏洞后被删除，需要重新安装</title>
-      <link>https://alternativeto.net/news/2025/11/open-source-smarttube-youtube-client-removed-after-security-breach-new-install-needed/</link>
-      <description><![CDATA[开源 YouTube 电视客户端 SmartTube 最近其数字签名被暴露，导致 Google 和 Amazon 在Fire TV 和 Android TV 设备。这会带来重大风险，因为暴露的签名可能会让攻击者以开发者的名义分发恶意更新，而 Google Play Protect 会通过禁用受影响的安装来响应以确保用户安全。
-作为回应，开发人员放弃了受损的签名密钥并生成了一个新的签名密钥，这迫使 SmartTube 采用新的应用程序标识符。现有安装现已弃用，并且不会收到进一步的更新，但用户不需要删除它们。新的 SmartTube 版本已经可用，但必须侧载并完全重新配置为单独的安装。
-由于新版本尚未出现在 SmartTube GitHub 页面上，因此安装需要下载器应用以及用于稳定通道的代码 28544 或用于测试版的代码 79015。开发者警告用户不要禁用Google Play Protect，强调这是真正的安全风险，而不是与谷歌的冲突。旧的 SmartTube 版本将作为非活动软件保留在设备上，而安全签名的新版本将成为唯一受支持的选项。
-查看有关 AlternativeTo 的文章更多信息SmartTube | SmartTube 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/open-source-smarttube-youtube-client-removed-after-security-breach-new-install-needed/</guid>
-      <pubDate>Sat, 29 Nov 2025 19:55:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
