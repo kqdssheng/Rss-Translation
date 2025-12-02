@@ -4,7 +4,68 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Mon, 01 Dec 2025 12:43:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 01:39:04 GMT</lastBuildDate>
+    <item>
+      <title>ONLYOFFICE Docs 9.2引入AI语法检查、快捷方式自定义、宏等</title>
+      <link>https://alternativeto.net/news/2025/12/onlyoffice-docs-9-2-introduces-ai-grammar-checks-shortcut-customization-macros-and-more/</link>
+      <description><![CDATA[ONLYOFFICE Docs 9.2 已发布，具有新的 AI 支持功能，包括通过AI 插件进行内置拼写和语法检查。用户现在可以完整或选择地检查文本中的错误，并直接在编辑器中接收解释和更正建议。
+此更新还在高级设置中添加了可自定义的键盘快捷键，以及宏录制工具，让用户可以录制、保存和重播一系列操作，以更快地处理重复性任务。
+PDF 编辑在隐藏敏感信息时获得了对自定义密文颜色的支持，并且通过复选框和单选按钮的文本标签改进了表单创建。添加新表单字段时，用户还可以分配角色以更清晰地指导预期输入和结构表单。您可以在此处的官方发行说明中查看完整的更改列表。
+查看有关 AlternativeTo 的文章更多信息ONLYOFFICE | ONLYOFFICE 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/onlyoffice-docs-9-2-introduces-ai-grammar-checks-shortcut-customization-macros-and-more/</guid>
+      <pubDate>Mon, 01 Dec 2025 19:06:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Netflix 悄悄放弃了对较新 Chromecast 设备和 TV Streamer 的电话投射支持</title>
+      <link>https://alternativeto.net/news/2025/12/netflix-quietly-dropped-phone-casting-support-for-newer-chromecast-devices-and-tv-streamer/</link>
+      <description><![CDATA[Netflix 已悄然从 Google 上删除了其移动应用中向大多数现代电视和流媒体设备提供的投射功能。这一变化会影响较新的 Chromecast 型号、Google TV Streamer 和类似硬件，与 Netflix 在 2019 年放弃AirPlay 支持。
+根据 Netflix 更新的支持页面，唯一的例外是不带遥控器的旧版 Chromecast 设备和内置 Google Cast 的电视，在这些设备上进行投射仅限于使用无广告计划的用户，而使用广告支持计划的用户根本无法投射。
+Netflix 指导用户使用遥控器在电视或流媒体设备上打开本机 Netflix 应用，而不是通过手机进行投射。这些变化似乎自 11 月中旬以来逐渐展开。 Netflix 没有提前通知，客户服务人员非正式地表示，该决定旨在改善使用遥控器的设备的体验。
+查看有关 AlternativeTo 的文章有关更多信息Netflix | Netflix 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/netflix-quietly-dropped-phone-casting-support-for-newer-chromecast-devices-and-tv-streamer/</guid>
+      <pubDate>Mon, 01 Dec 2025 17:22:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Solus 4.8 带来了 Usr-Merge 完成、Python 2 删除、更新的桌面版本等</title>
+      <link>https://alternativeto.net/news/2025/12/solus-4-8-brings-usr-merge-completion-python-2-removal-updated-desktop-editions-and-more/</link>
+      <description><![CDATA[Solus 4.8，代号为“Opportunity”，已作为该独立 Linux 发行版的最新版本发布。通过此版本，Solus 团队完成了长期运行的 Usr-Merge 过渡，并切换到 Polaris 软件包存储库。这一战略举措允许删除兼容性符号链接并允许升级，例如 systemd 257.10。同时，所有工具都迁移到 Python 3，从而可以完全放弃 Python 2 支持。
+在此平台更新的基础上，Solus 4.8 默认引入了 Plymouth 启动屏幕，在系统启动过程中提供焕然一新的视觉体验。在后台，所有存储库包现在都依赖于较新的 libgirepository 2.0 API 版本，有助于在平台上进行面向未来的应用程序开发。该版本由 Linux 内核 6.17.8 提供支持，支持 6.12 LTS 版本，并提供更新的软件，包括Firefox 145，LibreOffice 25.2.6，Thunderbird 140 和 Mesa 25.2.6。
+关于桌面环境，Solus 4.8 具有 Budgie 10.9.4、GNOME 49.1，KDE Plasma 6.5.3 具有更新的 KDE 框架和 Gear，并移动了Xfce 4.20 已结束测试版。 KDE Plasma 的用户会发现 Plasma 上不再默认包含 X11 会话。
+查看有关 AlternativeTo 的文章更多信息Solus | Solus 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/solus-4-8-brings-usr-merge-completion-python-2-removal-updated-desktop-editions-and-more/</guid>
+      <pubDate>Mon, 01 Dec 2025 16:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DaVinci Resolve 20.3 增加了 32K 支持、改进的时间线版本控制和新的元数据选项</title>
+      <link>https://alternativeto.net/news/2025/12/davinci-resolve-20-3-adds-32k-support-improved-timeline-versioning-and-new-metadata-options/</link>
+      <description><![CDATA[Blackmagic Design 发布了 DaVinci Resolve 20.3，专注于高端硬件和工作流程改进。新版本在 Apple M5 处理器上运行时支持高达 32K 的分辨率。用户还可以受益于 Resolve FX 降噪工具的更高性能，该工具简化了要求较高的后期制作任务。
+除了这些增强功能之外，时间线备份现在还允许命名快照，为编辑者在协作环境中提供更有效的版本控制工具。该版本以元数据管理为基础，允许用户将元数据字段添加为媒体池中的列、导入和导出 ALE 元数据，以及在导入期间定义自定义元数据字段。导出的元数据文件现在包含这些自定义字段。媒体池视图和项目状态单独保留，确保跨多个项目工作的人员获得一致的体验。
+对于编辑工作流程，在播放头插入间隙等操作已进入编辑菜单，可分配的快捷键现在可以方便地搜索媒体池并使用源查看器在时间轴中打开剪辑。速度和持续时间的变化现在遵循同步锁定，并且匹配帧可以在负速度剪辑下可靠地工作。
+此更新还支持 HDR Vivid 和 Audio Vivid 的 IMF 工作流程，允许在 QuickTime 和 MP4 文件中嵌入 HDR10+ 元数据，并提供稳定性和总体性能更新。此外，iPad 版本现在可以在采用 M4 和更新芯片的 iPadOS 26 上进行后台渲染，并增加了对电影外观创建器、电影损坏和模拟损坏的支持。
+查看有关 AlternativeTo 的文章更多关于 DaVinci Resolve | DaVinci Resolve 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/davinci-resolve-20-3-adds-32k-support-improved-timeline-versioning-and-new-metadata-options/</guid>
+      <pubDate>Mon, 01 Dec 2025 15:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 内核 6.18 发布，包含 BPF 安全、SLUB 和网络升级</title>
+      <link>https://alternativeto.net/news/2025/12/linux-kernel-6-18-released-with-bpf-security-slub-and-networking-upgrades/</link>
+      <description><![CDATA[Linux 内核 6.18 现已推出，具有扩展的架构支持、主要的 BPF 更新、基于 PSP 的 TCP 加密、更快的平板分配器和更广泛的硬件支持。该版本还引入了命名空间文件句柄改进。此更新的重点是发布标签之前的最终错误修复和稳定性工作。
+一个关键的变化是 SLUB 分配器的彻底修改，它增加了每个 CPU 轮的缓存，以减少争用并改善 RCU 繁重的工作负载。交换还通过新交换表抽象的第一阶段得到改进，使交换缓存查找更加高效。合并说明中引用的基准显示吞吐量和请求率提高了 5% 到 20%，并且大页面分配行为更加可预测。
+存储改进包括使用持久内存作为快速缓存层的 dm pcache，并且 NFS 服务器现在可以在需要时禁用服务器端 IO 缓存。用户空间通过 name_to_handle_at 和 open_by_handle_at 获得可靠的命名空间编码和解码，而网络则获得准确的 ECN 支持和重新设计的 NUMA 感知 UDP 接收路径，可将性能提升高达 50%。 BPF 子系统增加了对加密签名程序加载的支持，硬件支持扩展到更新的 GPU、SoC 显示面板和各种传感器。对于那些想要了解完整技术细节的人，可以在官方公告中查看所有更改。
+查看有关 AlternativeTo 的文章有关 Linux 的更多信息内核 | Linux 内核替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/linux-kernel-6-18-released-with-bpf-security-slub-and-networking-upgrades/</guid>
+      <pubDate>Mon, 01 Dec 2025 14:56:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wayland 合成器 niri 25.11 发布，带有 alt-tab 切换器、新窗口动画等</title>
+      <link>https://alternativeto.net/news/2025/11/wayland-compositor-niri-25-11-launches-with-alt-tab-switcher-new-window-animations-and-more/</link>
+      <description><![CDATA[niri 25.11 为这款可滚动平铺的 Wayland 合成器带来了多项工作流程和可用性改进。突出的增强功能是新的 Alt-Tab 最近窗口切换器，具有实时预览以及淡入淡出的窗口标题。为了隐私起见，被截屏视频阻止的窗口将显示为黑色矩形，其标题在选择过程中隐藏。除了这些改进之外，全屏与全屏之间的窗口转换现在是完全动画的，消除了以前的不和谐效果并增强了视觉平滑度。
+此版本的另一个重点是对 Wayland 原生最大化的支持。这一熟悉的功能可通过最大化按钮或双击标题栏访问，使 niri 符合用户对其他环境的期望。为了进一步简化交互，通过标题栏水平拖动平铺窗口现在可以滚动视图而不是移动窗口，而垂直拖动则继续移动窗口：基于 PaperWM 的方法。
+基于这些界面更改，该版本通过允许针对特定输出和命名工作区覆盖布局部分，引入了配置灵活性。用户还可以在其配置中包含其他文件以进行更好的管理。 niri 25.11 通过支持使用 DisplayLink 扩展坞的显示器来扩展硬件兼容性，使 Asahi Mac 用户受益。该更新还包括减少屏幕消隐、自定义输出模式、屏幕阅读器增强功能以及各种其他修复。
+查看有关 AlternativeTo 的文章更多信息niri | niri 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/11/wayland-compositor-niri-25-11-launches-with-alt-tab-switcher-new-window-animations-and-more/</guid>
+      <pubDate>Mon, 01 Dec 2025 12:05:00 GMT</pubDate>
+    </item>
     <item>
       <title>CachyOS 的最新更新带来了辅助工具、更轻松的安装等等</title>
       <link>https://alternativeto.net/news/2025/11/cachyos-latest-update-brings-accessibility-tools-easier-installation-and-much-more/</link>
@@ -29,7 +90,7 @@
       <title>Oracle Linux 9.7 发布，包含后量子密码学和更新的工具链</title>
       <link>https://alternativeto.net/news/2025/12/oracle-linux-9-7-released-with-post-quantum-cryptography-and-updated-toolchain/</link>
       <description><![CDATA[Oracle Linux 9.7 现已普遍适用于 64 位 Intel、AMD 和 Arm 系统。该版本引入了增强的加密功能，支持下一代后量子算法、更新的OpenSSL以及优先考虑混合和纯PQC的系统范围加密策略。开发人员受益于升级的 GCC、LLVM 和 Rust 2024 工具集，而新的 Valkey 键值存储和改进的 Cockpit 管理工具扩展了平台功能。
-查看有关 AlternativeTo 的文章有关 Oracle 的更多信息Linux | Oracle Linux 替代方案]]></description>
+查看有关 AlternativeTo 的文章有关 Oracle 的更多信息Linux | Oracle Linux 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/12/oracle-linux-9-7-released-with-post-quantum-cryptography-and-updated-toolchain/</guid>
       <pubDate>Mon, 01 Dec 2025 08:55:33 GMT</pubDate>
     </item>
@@ -47,8 +108,8 @@ Wine 10.20 的一个关键增强功能是 VKD3D 的升级，该组件将 Direct3
     <item>
       <title>有机地图添加了维基百科的新语言和区域突出显示</title>
       <link>https://alternativeto.net/news/2025/12/organic-maps-adds-wikipedia-in-new-languages-and-region-highlighting/</link>
-      <description><![CDATA[有机地图现在提供土耳其语、日语和中文地点的维基百科文章，以及突出显示已下载地图区域的新选项。
-此更新包括更新的 OSM 数据、iOS 和 Android 可用性修复，例如添加的滚动条和更稳定的下载、改进的路由、更好的导入和更新的翻译。
+      <description><![CDATA[有机地图现在提供有关土耳其语、日语和中文地点的维基百科文章，以及突出显示已下载地图区域的新选项。
+更新包括更新的 OSM 数据、iOS 和 Android 可用性修复，例如添加的滚动条和更稳定的下载、改进的路由、更好的导入和更新的翻译。
 查看有关 AlternativeTo 的文章有关有机的更多信息地图 | 有机地图替代品]]></description>
       <guid>https://alternativeto.net/news/2025/12/organic-maps-adds-wikipedia-in-new-languages-and-region-highlighting/</guid>
       <pubDate>Mon, 01 Dec 2025 08:42:27 GMT</pubDate>
@@ -67,7 +128,7 @@ Wine 10.20 的一个关键增强功能是 VKD3D 的升级，该组件将 Direct3
       <description><![CDATA[Telegram 最新更新添加了实时故事，让用户可以直接在个人帐户、群组或增强频道的故事中启动实时流。观众可以评论、用星星突出显示消息，并查看主持人获得了多少颗星星。主持人可以调整评论设置、为突出显示的消息设置价格、通过 RTMP 密钥使用外部流媒体工具以及为主持人分配视频聊天权限。实时故事保留与常规故事相同的受众控制，包括每个人、我的联系人、亲密朋友和选定用户。
 此更新还引入了重复的计划消息，允许用户通过按住“发送”按钮并选择“重复”来设置消息发送间隔，例如每天或每月两次。 Telegram 正在添加一个新的收藏礼品拍卖系统，用户可以在多轮中使用星星进行竞价。礼物数量与出价排名相对应，出价较低的自动结转，所有礼物分发完毕后，未使用的星星将被退还。这些礼物仍然可以作为一种身份佩戴、分组收藏、转移到区块链钱包或进行交易。
 界面更新完善了该版本，iOS 获得了更多液体玻璃设计、更新的配置文件、更新的设置页面和新的附件菜单。 Android 用户在滚动时会收到简约的输入字段和新的模糊效果。
-查看有关 AlternativeTo 的文章更多信息Telegram | Telegram 替代方案]]></description>
+查看有关 AlternativeTo 的文章更多信息Telegram | Telegram 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/11/telegram-adds-live-stories-real-time-streaming-gifts-auction-and-repeat-scheduling/</guid>
       <pubDate>Sun, 30 Nov 2025 12:03:33 GMT</pubDate>
     </item>
@@ -90,69 +151,6 @@ Wine 10.20 的一个关键增强功能是 VKD3D 的升级，该组件将 Direct3
 查看有关 AlternativeTo 的文章更多信息SmartTube | SmartTube 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/11/open-source-smarttube-youtube-client-removed-after-security-breach-new-install-needed/</guid>
       <pubDate>Sat, 29 Nov 2025 19:55:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>eXo Platform 7.1 推出，提供新的管理工具和增强的团队协作</title>
-      <link>https://alternativeto.net/news/2025/11/exo-platform-7-1-launches-with-new-management-tools-and-enhanced-team-collaboration/</link>
-      <description><![CDATA[eXo Platform 7.1 作为该开源数字工作场所套件的最新版本推出，建立在版本引入的技术检修基础上7.0。此更新的重点是通过对用户界面和日常工作流程进行显着更改来提供更直观、以人为本的体验。
-一个主要亮点是重新设计的管理系统，它支持缩略图和树视图、拖放文件夹导入、离线功能和网络驱动器连接。这些改进支持不间断的生产力，无论位置如何。除了这些升级之外，用户还可以受益于可定制的个人工作区、统一搜索、增强的应用程序中心以及旨在简化日常操作并节省时间的新快捷方式。
-此后，团队沟通能力通过基于Matrix的聊天集成得到扩展。用户现在可以访问反应、线程消息回复、语音消息、推送和声音通知以及全屏模式以改善交互协作。此更新还添加了论坛式提要、分散式参与活动以及有助于增强团队动力和凝聚力的任务小工具。
-从技术角度来看，eXo 7.1 采用了更新的软件组件，包括 JDK 21、Tomcat 10、Spring 6、Spring Boot 3.1、ElasticSearch 8.14.3 和 OnlyOffice 9.1，以确保更好的稳定性和兼容性。管理员现在拥有平台自定义、高级用户管理和身份验证页面无代码配置的新选项，以增强控制。
-查看有关 AlternativeTo 的文章有关 eXo 的更多信息平台 | eXo 平台替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/11/exo-platform-7-1-launches-with-new-management-tools-and-enhanced-team-collaboration/</guid>
-      <pubDate>Sat, 29 Nov 2025 12:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Whonix 18.0 采用 LXQt，启用全球 IPv6，并首次推出 Wayland-only Kloak</title>
-      <link>https://alternativeto.net/news/2025/11/whonix-18-0-adopts-lxqt-enables-global-ipv6-and-debuts-wayland-only-kloak/</link>
-      <description><![CDATA[Whonix 18.0 对桌面体验进行了重大更改，将所有映像从 Xfce 切换到 LXQt 环境并相应更新其核心组件。 PCManFM Qt 中禁用了缩略图，修订了 Waybar 配置，swaylock 取代了以前的屏幕锁定器，并且不必要小部件被删除。 Loupe 成为默认图像查看器，并且不再包含 USBGuard。
-该版本支持系统范围内的 IPv6 支持、更新网关端口、VirtualAddrNetworkIPv6、Tor 初始化例程和防火墙逻辑。 Tor 浏览器现在使用可用的 IPv6，并且 uwt 包装器等工具添加了 IPv6 感知代理处理和新的 IPC 路径。通过 systemd networkd wait online 和 tmpfiles 对匿名器配置进行的更改提高了可靠性和启动行为。
-Kloak 被重写为 Wayland 专用工具，具有改进的鼠标混淆、自然滚动、较低的空闲 CPU 使用率和强化沙箱。 Qubes Whonix 模板采用 Debian 的 deb822 格式，删除已弃用的单元，并集成更新的 IPv6 脚本。 Qubes 事件缓冲在 Qubes R4.3 及更高版本中默认启用，并且新映像可用于 VirtualBox 和 KVM，并支持 Whonix 17 用户进行就地升级。
-查看有关 AlternativeTo 的文章更多信息Whonix | Whonix 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/whonix-18-0-adopts-lxqt-enables-global-ipv6-and-debuts-wayland-only-kloak/</guid>
-      <pubDate>Sat, 29 Nov 2025 12:03:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>iodéOS 7 Beta 版发布，基于 Android 16、增强的电池续航时间和更新的应用程序</title>
-      <link>https://alternativeto.net/news/2025/11/iodeos-7-beta-launches-with-android-16-base-enhanced-battery-life-and-updated-apps/</link>
-      <description><![CDATA[iodéOS 7 beta 版已发布，为该 Android 操作系统版本引入了新版本，该版本删除了 Google 跟踪器，以优先考虑用户隐私。该更新基于 Android 16 构建，目前适用于 34 种设备，并计划在不久的将来提供更多硬件支持。该版本运行在 LineageOS 23 和 Android 16 QPR0 之上，旨在为寻求开源替代方案的用户提供性能提升、隐私增强和强大的安全性。
-除了向现代 Android 基础的过渡之外，iodéOS 7 还实现了更智能的资源调度和后台应用管理。这些增强功能有助于延长电池寿命，无需用户干预或养成新习惯。此版本中的可访问性提升也很显着。 TalkBack 中的手势导航现在更加自然，扩展的助听器集成简化了直接从设备进行的音频路由。
-在这些系统级升级之后，关键预装应用程序得到了重大改进。 Aperture 相机应用程序已完全重建，支持 RAW 和 JPEG Ultra HDR 模式，以实现更好的摄影控制和图像质量。默认的 12 音频播放器现在提供 MIDI 播放支持、更快的媒体库扫描以及增强的播放列表和收藏夹建议和管理。
-查看有关 AlternativeTo 的文章更多信息iodéOS | iodéOS 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/iodeos-7-beta-launches-with-android-16-base-enhanced-battery-life-and-updated-apps/</guid>
-      <pubDate>Fri, 28 Nov 2025 20:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pi-hole 发布 FTL & Web v6.4 和 Core v6.3，用于全网广告和跟踪器拦截</title>
-      <link>https://alternativeto.net/news/2025/11/pi-hole-releases-ftl-and-web-v6-4-and-core-v6-3-for-network-wide-ad-and-tracker-blocking/</link>
-      <description><![CDATA[Pi-hole 已发布协调更新，提供 FTL v6.4、Web v6.4 和 Core v6.3。这组更新为用户管理网络范围内的广告和跟踪器拦截引入了重要的改进和新功能。
-在此版本中，FTL 引擎受益于字符串处理和内存管理的优化，以及新编译器标志（如 -march=native 和 -funroll-loops 的激活）。这些增强功能旨在提高性能。此外，数据库操作期间的 DNS 解析器锁定也已减少，从而在负载下实现更高效的 DNS 处理。
-在后端优化之后，Web 界面现在简化了双因素身份验证过程。 TOTP（基于时间的一次性密码）输入字段支持自动完成，允许浏览器和密码管理器直接建议代码。 TOTP 验证现在的速率也限制为每秒一次尝试，从而提供更强大的保护来抵御暴力攻击。
-为了更轻松地进行长期监控，“所有时间”查询日志范围现在可以准确反映数据库的最早时间戳。在API方面，Gravity API默认为纯文本输出，仅在明确请求时使用ANSI代码，解决了与某些API使用者的兼容性问题。
-扩展了硬件支持，API 现在可以识别超过 48 位的硬件地址，例如 InfiniBand 使用的硬件地址。最后，搜索 API 引入了简单的部分正则表达式匹配，使您可以更轻松地在阻止列表中查找域。
-查看有关 AlternativeTo 的文章更多信息Pi-hole | Pi-hole 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/pi-hole-releases-ftl-and-web-v6-4-and-core-v6-3-for-network-wide-ad-and-tracker-blocking/</guid>
-      <pubDate>Fri, 28 Nov 2025 16:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stremio v5 在 macOS Intel 和 ARM 上发布，添加了 Usenet 和存档流媒体等</title>
-      <link>https://alternativeto.net/news/2025/11/stremio-v5-launches-on-macos-intel-and-arm-adds-usenet-and-archive-streaming-and-more/</link>
-      <description><![CDATA[Stremio v5 已正式面向 macOS 用户推出，为 ARM 和 Intel 处理器提供专用版本。此更新扩展了兼容性，并将 Stremio v5 的完整功能集引入了 Apple 的桌面生态系统。此外，适用于 macOS 的 Stremio Lite 已进入适用于 Intel 的 TestFlight，此前仅适用于 ARM 设备。但是，Stremio Lite 仍然是一个有限版本，仅支持 HTTP 和 HTTPS 流，除非设备上安装了单独的 Stremio 服务服务器。
-与 macOS 版本同步，Stremio v5 桌面版引入了对其他流媒体协议和存档格式的支持。用户现在可以从 Usenet、FTP 源访问媒体，并打开 RAR、ZIP、7ZIP、TGZ 和 TAR 等压缩档案内的视频文件。开发团队指出，这些扩展的流媒体源目前仅限于桌面版本，未来计划逐步推出其他平台。
-在这些更新之后，Stremio 的应用程序的可用性得到了增强。 Web 用户界面得到了改进，同时还为 Android TV 和 Android 移动应用程序提供了小幅更新。用户还会注意到应用程序中新增的“喜欢”和“喜爱”按钮，以及可用于对喜欢的内容进行分类的相应插件。
-查看有关 AlternativeTo 的文章更多信息Stremio | Stremio 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/stremio-v5-launches-on-macos-intel-and-arm-adds-usenet-and-archive-streaming-and-more/</guid>
-      <pubDate>Fri, 28 Nov 2025 13:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Perplexity 添加了新的即时购买购物功能，支持 PayPal 和虚拟试穿</title>
-      <link>https://alternativeto.net/news/2025/11/perplexity-adds-a-new-instant-buy-shopping-feature-with-paypal-and-virtual-try-on/</link>
-      <description><![CDATA[Perplexity 为所有美国用户发布了一项新的人工智能购物功能，该功能基于 PayPal 集成而构建。类似于“即时结账”功能。通过 ChatGPT 的功能，用户现在可以通过“即时购买”在 Perplexity 内完成购买，该功能适用于任何接受 PayPal 的商家。
-购物者可以根据位置、生活方式和个人喜好进行上下文产品搜索。助手保留对话上下文，并使用之前共享的详细信息来个性化结果，以结构化卡片的形式展示产品，其中包含优点、缺点和基于评论的见解。 Perplexity 指出，商家仍然会收到完整的客户信息、可以处理退货并维护购买后关系。
-除了新的购物功能外，Perplexity 还宣布为 Pro 和 Max 用户提供新的虚拟试穿功能，允许他们从照片生成头像，以便在自己复制的身体上预览任何商店的服装。该公司尚未确认这是否会融入新的购物流程，但有理由期待某种形式的整合。
-查看有关 AlternativeTo 的文章更多信息困惑 | 困惑替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/11/perplexity-adds-a-new-instant-buy-shopping-feature-with-paypal-and-virtual-try-on/</guid>
-      <pubDate>Fri, 28 Nov 2025 02:12:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
