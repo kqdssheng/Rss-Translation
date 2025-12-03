@@ -4,7 +4,46 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Wed, 03 Dec 2025 01:38:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 12:43:54 GMT</lastBuildDate>
+    <item>
+      <title>非营利性环保搜索引擎 Ecosia 带来人工智能驱动的概述和聊天搜索</title>
+      <link>https://alternativeto.net/news/2025/12/non-profit-and-eco-friendly-search-engine-ecosia-brings-ai-powered-overviews-and-chat-search/</link>
+      <description><![CDATA[Ecosia，资助全球重新造林的搜索引擎，正在推出两项新功能以及全新的视觉设计。这些新增内容旨在加强其任务驱动方法，同时增强用户体验。
+在搜索结果的顶部，用户现在将看到概述，这是包含对原始来源的引用的简短摘要。此功能简化了研究并保持透明度，如果用户更喜欢直接搜索结果，则只需单击一下即可将其禁用。
+对于更深入的问题或持续的探索，AI搜索引入了交互式聊天模式。用户可以询问食谱或旅行技巧等主题，并可以选择接收植根于当前环境科学的生态建议。这些增强功能扩大了搜索灵活性，并为感兴趣的人纳入了环保意识。
+基于其环境承诺，Ecosia 的人工智能功能依赖于更小、更高效的人工智能模型，并有意避免视频生成等能源密集型技术。该公司使用 100% 清洁能源（如太阳能和风能）生产超出其人工智能功能所需的可再生能源。 AI 能源评分和Ecologits等工具可帮助 Ecosia 跟踪和报告能源使用情况，保持透明度和问责制。隐私仍然是重中之重；仅收集必要的数据来支持这些新功能。
+查看有关 AlternativeTo 的文章更多信息Ecosia | Ecosia 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/non-profit-and-eco-friendly-search-engine-ecosia-brings-ai-powered-overviews-and-chat-search/</guid>
+      <pubDate>Wed, 03 Dec 2025 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Proton Pass 1.33 引入了剪贴板清除和改进的离线模式</title>
+      <link>https://alternativeto.net/news/2025/12/proton-pass-1-33-introduces-clipboard-clearing-and-improved-offline-mode/</link>
+      <description><![CDATA[Proton Pass 1.33 版在扩展程序中引入了自动剪贴板清除功能，以增强安全性。此更新还改进了离线模式检测，支持管理重复项目和刷新的侧边栏 UI 元素。
+查看有关 AlternativeTo 的文章有关 Proton 的更多信息通行证 | 质子通行证替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/proton-pass-1-33-introduces-clipboard-clearing-and-improved-offline-mode/</guid>
+      <pubDate>Wed, 03 Dec 2025 09:12:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux Mint 22.3 Zena beta 首次亮相，带来新的系统工具和 Cinnamon 菜单</title>
+      <link>https://alternativeto.net/news/2025/12/linux-mint-22-3-zena-beta-to-debut-with-new-system-tools-and-cinnamon-menu/</link>
+      <description><![CDATA[Linux Mint 22.3“Zena”测试版预计在本月上半月发布，引入新的系统信息和管理工具。此次更新还带来了重新设计的 Cinnamon 菜单，其中包含符号类别图标。
+其他改进包括兼容 Wayland 的键盘处理和改进的屏幕键盘。
+查看有关 AlternativeTo 的文章有关 Linux 的更多信息Mint | Linux Mint 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/linux-mint-22-3-zena-beta-to-debut-with-new-system-tools-and-cinnamon-menu/</guid>
+      <pubDate>Wed, 03 Dec 2025 09:00:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Let's Encrypt 将于 2028 年将 SSL 证书有效期从 90 天减少到 45 天</title>
+      <link>https://alternativeto.net/news/2025/12/let-s-encrypt-will-decrease-ssl-certificate-validity-from-90-to-45-days-by-2028/</link>
+      <description><![CDATA[Let&#39;s Encrypt（由互联网安全研究小组运营）已宣布计划到 2028 年将其 SSL/TLS 证书的有效期从 90 天缩短至 45 天。这一转变意味着任何依赖 Let&#39;s Encrypt 证书的人都需要将证书更新频率是以前的两倍。
+此调整是全行业举措的一部分，因为所有公众信任的证书颁发机构都需要遵循 CA/浏览器论坛基准要求。这些技术标准要求缩短证书的有效期，影响全球的组织和网站管理员。
+这一变化背后的主要驱动力是提高互联网安全性。较短的证书有效期限制了攻击者利用受损证书的时间窗口，并增强了证书吊销过程的有效性。在证书颁发发生变化之后，Let&#39;s Encrypt 还将收紧其域验证流程。目前的 30 天授权重用期（允许在不重新检查域控制的情况下颁发证书）到 2028 年将减少到仅 7 小时。
+为了帮助用户适应，Let&#39;s Encrypt 将分几个阶段逐步实施这些更改。更多详细信息请参阅官方公告。
+查看有关 AlternativeTo 的文章更多信息让我们加密 | 让我们加密替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/12/let-s-encrypt-will-decrease-ssl-certificate-validity-from-90-to-45-days-by-2028/</guid>
+      <pubDate>Wed, 03 Dec 2025 08:50:00 GMT</pubDate>
+    </item>
     <item>
       <title>法国人工智能初创公司 Mistral 推出了 Mistral 3，这是其新的开放式多模式模型套件</title>
       <link>https://alternativeto.net/news/2025/12/french-ai-startup-mistral-launches-mistral-3-its-new-suite-of-open-multimodal-ai-models/</link>
@@ -21,7 +60,7 @@
       <description><![CDATA[Runway 宣布推出 Gen 4.5，这是其最新的文本转视频 AI 模型，据报道超越了 Google Veo 等竞争对手3 和 OpenAI 的 Sora。该模型目前在独立的 Video Arena 排行榜上位居榜首，它通过盲目的人类基准测试（在不透露模型来源的情况下对模型进行比较）来确保其排名。
 这个最新版本根据书面提示生成高清视频，并改进了对物理、人体运动和摄像机动力学的理解。 Gen 4.5 的目标是电影般的真实感，物体和液体的运动具有准确的重量、动量，并且在各种视觉风格中具有更好的一致性。
 虽然该模型逐渐向用户推出，但 Runway 确认生成速度仍然与以前的版本一样高效。然而，该技术仍然存在局限性，包括对象持久性偶尔会出现失误，以及因果推理中的错误（结果可能先于原因）。
-查看有关 AlternativeTo 的文章更多信息跑道 | 跑道替代品]]></description>
+查看有关 AlternativeTo 的文章更多信息跑道 | 跑道替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/12/runway-unveils-gen-4-5-ai-model-with-realistic-text-to-video-and-benchmark-lead/</guid>
       <pubDate>Tue, 02 Dec 2025 19:44:12 GMT</pubDate>
     </item>
@@ -112,47 +151,6 @@ Telegram 预计在未来几周内将带来更多 GPU 供应和开发人员需求
 查看有关 AlternativeTo 的文章更多信息Telegram | Telegram 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/12/telegram-launches-cocoon-a-decentralized-confidential-ai-network-on-ton-blockchain/</guid>
       <pubDate>Mon, 01 Dec 2025 19:16:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>ONLYOFFICE Docs 9.2引入AI语法检查、快捷方式自定义、宏等</title>
-      <link>https://alternativeto.net/news/2025/12/onlyoffice-docs-9-2-introduces-ai-grammar-checks-shortcut-customization-macros-and-more/</link>
-      <description><![CDATA[ONLYOFFICE Docs 9.2 已发布，具有新的 AI 支持功能，包括通过AI 插件进行内置拼写和语法检查。用户现在可以完整或选择地检查文本中的错误，并直接在编辑器中接收解释和更正建议。
-此更新还在高级设置中添加了可自定义的键盘快捷键，以及宏录制工具，让用户可以录制、保存和重播一系列操作，以更快地处理重复性任务。
-PDF 编辑在隐藏敏感信息时获得了对自定义密文颜色的支持，并且通过复选框和单选按钮的文本标签改进了表单创建。添加新表单字段时，用户还可以分配角色以更清晰地指导预期输入和结构表单。您可以在此处的官方发行说明中查看完整的更改列表。
-查看有关 AlternativeTo 的文章更多信息ONLYOFFICE | ONLYOFFICE 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/onlyoffice-docs-9-2-introduces-ai-grammar-checks-shortcut-customization-macros-and-more/</guid>
-      <pubDate>Mon, 01 Dec 2025 19:06:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Netflix 悄悄放弃了对较新 Chromecast 设备和 TV Streamer 的电话投射支持</title>
-      <link>https://alternativeto.net/news/2025/12/netflix-quietly-dropped-phone-casting-support-for-newer-chromecast-devices-and-tv-streamer/</link>
-      <description><![CDATA[Netflix 已悄然从 Google 上删除了其移动应用中向大多数现代电视和流媒体设备提供的投射功能。这一变化会影响较新的 Chromecast 型号、Google TV Streamer 和类似硬件，与 Netflix 在 2019 年放弃AirPlay 支持。
-根据 Netflix 更新的支持页面，唯一的例外是不带遥控器的旧版 Chromecast 设备和内置 Google Cast 的电视，在这些设备上进行投射仅限于使用无广告计划的用户，而使用广告支持计划的用户根本无法投射。
-Netflix 指导用户使用遥控器在电视或流媒体设备上打开本机 Netflix 应用，而不是通过手机进行投射。这些变化似乎自 11 月中旬以来逐渐展开。 Netflix 没有提前通知，客户服务人员非正式地表示，该决定旨在改善使用遥控器的设备的体验。
-查看有关 AlternativeTo 的文章有关更多信息Netflix | Netflix 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/netflix-quietly-dropped-phone-casting-support-for-newer-chromecast-devices-and-tv-streamer/</guid>
-      <pubDate>Mon, 01 Dec 2025 17:22:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Solus 4.8 带来了 Usr-Merge 完成、Python 2 删除、更新的桌面版本等</title>
-      <link>https://alternativeto.net/news/2025/12/solus-4-8-brings-usr-merge-completion-python-2-removal-updated-desktop-editions-and-more/</link>
-      <description><![CDATA[Solus 4.8，代号为“Opportunity”，已作为该独立 Linux 发行版的最新版本发布。通过此版本，Solus 团队完成了长期运行的 Usr-Merge 过渡，并切换到 Polaris 软件包存储库。这一战略举措允许删除兼容性符号链接并允许升级，例如 systemd 257.10。同时，所有工具都迁移到 Python 3，从而可以完全放弃 Python 2 支持。
-在此平台更新的基础上，Solus 4.8 默认引入了 Plymouth 启动屏幕，在系统启动过程中提供焕然一新的视觉体验。在后台，所有存储库包现在都依赖于较新的 libgirepository 2.0 API 版本，有助于在平台上进行面向未来的应用程序开发。该版本由 Linux 内核 6.17.8 提供支持，支持 6.12 LTS 版本，并提供更新的软件，包括Firefox 145，LibreOffice 25.2.6，Thunderbird 140 和 Mesa 25.2.6。
-关于桌面环境，Solus 4.8 具有 Budgie 10.9.4、GNOME 49.1，KDE Plasma 6.5.3 具有更新的 KDE 框架和 Gear，并移动了 Xfce 4.20 已结束测试版。 KDE Plasma 的用户会发现 Plasma 上不再默认包含 X11 会话。
-查看有关 AlternativeTo 的文章更多信息Solus | Solus 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/solus-4-8-brings-usr-merge-completion-python-2-removal-updated-desktop-editions-and-more/</guid>
-      <pubDate>Mon, 01 Dec 2025 16:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DaVinci Resolve 20.3 增加了 32K 支持、改进的时间线版本控制和新的元数据选项</title>
-      <link>https://alternativeto.net/news/2025/12/davinci-resolve-20-3-adds-32k-support-improved-timeline-versioning-and-new-metadata-options/</link>
-      <description><![CDATA[Blackmagic Design 发布了 DaVinci Resolve 20.3，专注于高端硬件和工作流程改进。新版本在 Apple M5 处理器上运行时支持高达 32K 的分辨率。用户还可以受益于 Resolve FX 降噪工具的更高性能，该工具简化了要求较高的后期制作任务。
-除了这些增强功能之外，时间线备份现在还允许命名快照，为编辑者在协作环境中提供更有效的版本控制工具。该版本以元数据管理为基础，允许用户将元数据字段添加为媒体池中的列、导入和导出 ALE 元数据，以及在导入期间定义自定义元数据字段。导出的元数据文件现在包含这些自定义字段。媒体池视图和项目状态单独保留，确保跨多个项目工作的人员获得一致的体验。
-对于编辑工作流程，在播放头插入间隙等操作已进入编辑菜单，可分配的快捷键现在可以方便地搜索媒体池并使用源查看器在时间轴中打开剪辑。速度和持续时间的变化现在遵循同步锁定，并且匹配帧可以在负速度剪辑下可靠地工作。
-此更新还支持 HDR Vivid 和 Audio Vivid 的 IMF 工作流程，允许在 QuickTime 和 MP4 文件中嵌入 HDR10+ 元数据，并提供稳定性和总体性能更新。此外，iPad 版本现在可以在采用 M4 和更新芯片的 iPadOS 26 上进行后台渲染，并增加了对电影外观创建器、电影损坏和模拟损坏的支持。
-查看有关 AlternativeTo 的文章更多关于 DaVinci Resolve | DaVinci Resolve 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/davinci-resolve-20-3-adds-32k-support-improved-timeline-versioning-and-new-metadata-options/</guid>
-      <pubDate>Mon, 01 Dec 2025 15:15:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
