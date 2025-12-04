@@ -4,48 +4,48 @@
     <title>新版本 – AlternativeTo.net</title>
     <link>https://alternativeto.net/releases/all</link>
     <description>最新软件添加到 AlternativeTo</description>
-    <lastBuildDate>Wed, 03 Dec 2025 12:43:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 01:39:22 GMT</lastBuildDate>
     <item>
-      <title>诺克塔利亚</title>
-      <link>https://alternativeto.net/software/noctalia/about/</link>
-      <description><![CDATA[专为 Wayland 精心打造的时尚简约桌面外壳。在 AlternativeTo 上查看Noctalia Alternatives]]></description>
-      <guid>https://alternativeto.net/software/noctalia/about/</guid>
-      <pubDate>Wed, 03 Dec 2025 12:43:05 GMT</pubDate>
+      <title>汽水</title>
+      <link>https://alternativeto.net/software/fizzy/about/</link>
+      <description><![CDATA[基于现代看板的工具，用于跟踪问题、想法和项目，具有自动关闭、公共看板、网络挂接、通知堆栈和最多 1000 张免费卡片。查看 AlternativeTo Fizzy替代方案]]></description>
+      <guid>https://alternativeto.net/software/fizzy/about/</guid>
+      <pubDate>Thu, 04 Dec 2025 01:38:56 GMT</pubDate>
     </item>
     <item>
       <title>启动我</title>
       <link>https://alternativeto.net/software/launchme/about/</link>
       <description><![CDATA[适用于您的 Mac 的可自定义应用程序启动器。自定义、设置壁纸，让它按照您的方式工作。在 AlternativeTo 上查看LaunchMe Alternatives]]></description>
       <guid>https://alternativeto.net/software/launchme/about/</guid>
-      <pubDate>Wed, 03 Dec 2025 12:43:05 GMT</pubDate>
+      <pubDate>Thu, 04 Dec 2025 01:38:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>诺克塔利亚</title>
+      <link>https://alternativeto.net/software/noctalia/about/</link>
+      <description><![CDATA[专为 Wayland 精心打造的时尚简约桌面外壳。在 AlternativeTo 上查看Noctalia Alternatives]]></description>
+      <guid>https://alternativeto.net/software/noctalia/about/</guid>
+      <pubDate>Thu, 04 Dec 2025 01:38:56 GMT</pubDate>
     </item>
     <item>
       <title>特鲁迪多</title>
       <link>https://alternativeto.net/software/trudido/about/</link>
       <description><![CDATA[离线优先的应用程序，用于组织任务和笔记，具有智能创建、日历视图、Markdown 和加密、您设计的材料，并且无跟踪或广告。在 AlternativeTo 上查看Trudido Alternatives]]></description>
       <guid>https://alternativeto.net/software/trudido/about/</guid>
-      <pubDate>Wed, 03 Dec 2025 12:43:05 GMT</pubDate>
+      <pubDate>Thu, 04 Dec 2025 01:38:56 GMT</pubDate>
     </item>
     <item>
       <title>阿塔斯</title>
       <link>https://alternativeto.net/software/athas/about/</link>
       <description><![CDATA[具有 Vim 模式、Git 集成、人工智能驱动的代码编辑、语法突出显示、LSP 支持和跨平台兼容性的轻量级代码编辑器。查看 AlternativeTo Athas Alternatives]]></description>
       <guid>https://alternativeto.net/software/athas/about/</guid>
-      <pubDate>Wed, 03 Dec 2025 12:43:05 GMT</pubDate>
+      <pubDate>Thu, 04 Dec 2025 01:38:56 GMT</pubDate>
     </item>
     <item>
       <title>流行剪贴板</title>
       <link>https://alternativeto.net/software/pop-clipboard/about/</link>
       <description><![CDATA[通过 iCloud 在 Apple 设备之间同步剪贴板历史记录、存储 3 天的副本、高级搜索、通用键盘、批量粘贴和多任务支持。在 AlternativeTo 上查看Pop 剪贴板替代方案]]></description>
       <guid>https://alternativeto.net/software/pop-clipboard/about/</guid>
-      <pubDate>Wed, 03 Dec 2025 12:43:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>无摩擦</title>
-      <link>https://alternativeto.net/software/unfriction/about/</link>
-      <description><![CDATA[通过一个快捷方式可在 400 毫秒内打开，提供叠加注释、屏幕截图 OCR、离线优先存储、锁定时自动暂停，并提供整洁的书写表面。在 AlternativeTo 上查看无摩擦替代品]]></description>
-      <guid>https://alternativeto.net/software/unfriction/about/</guid>
-      <pubDate>Wed, 03 Dec 2025 12:43:05 GMT</pubDate>
+      <pubDate>Thu, 04 Dec 2025 01:38:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
