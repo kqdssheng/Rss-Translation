@@ -4,7 +4,91 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Thu, 04 Dec 2025 12:43:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 01:39:39 GMT</lastBuildDate>
+    <item>
+      <title>AWS 通过 Nova 2 型号扩展 AI 产品阵容，并推出用于定制 AI 的 Nova Forge</title>
+      <link>https://alternativeto.net/news/2025/12/aws-expands-ai-lineup-with-nova-2-models-and-launches-nova-forge-for-custom-ai/</link>
+      <description><![CDATA[Amazon Web Services 通过 Nova 2 模型系列扩展了其专有的 AI 产品阵容，添加了四种专注于推理、多模态和语音的模型，以满足企业需求。
+该系列产品包括用于经济高效的文本、图像和视频任务的 Nova 2 Lite，用于更复杂工作的 Nova 2 Pro，例如支持语音的编码，Nova 2 Sonic 用于语音到语音会话 AI，Nova 2 Omni 用于跨文本、图像、视频和语音的多模式推理和生成。
+AWS 还推出了 Nova Forge，这是一个用于创建名为 Novellas 的自定义前沿规模 Nova 变体的平台。它的定价为每年 10 万美元起，提供预训练、训练中期或训练后模型的访问权限，企业可以利用专有数据来适应这些模型，同时保留核心推理能力。
+查看有关 AlternativeTo 的文章有关 Amazon 的更多信息Nova | 亚马逊 Nova 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/aws-expands-ai-lineup-with-nova-2-models-and-launches-nova-forge-for-custom-ai/</guid>
+      <pubDate>Thu, 04 Dec 2025 21:09:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Quad9 将于 2025 年 12 月终止 DNS-over-HTTPS HTTP/1.1 支持</title>
+      <link>https://alternativeto.net/news/2025/12/quad9-dns-to-end-dns-over-https-http-1-1-support-by-december-2025/</link>
+      <description><![CDATA[Quad9 宣布将于 2025 年 12 月 15 日停止通过 HTTP/1.1 提供 DNS-over-HTTPS 支持。大多数运行 Chrome、Firefox、Safari 或最新操作系统的用户预计不会受到影响。但是，依赖 HTTP/1.1 进行 DNS-over-HTTPS 的传统设备（例如 MikroTik 路由器）可能需要升级或更改协议。
+此次更新将使 Quad9 能够推出更新的协议支持并继续平台现代化。
+查看有关 AlternativeTo 的文章更多信息Quad9 | Quad9 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/quad9-dns-to-end-dns-over-https-http-1-1-support-by-december-2025/</guid>
+      <pubDate>Thu, 04 Dec 2025 16:52:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>亚马逊现在允许 Fire TV 用户通过向 Alexa+ 描述特定的电影场景来跳转到特定的电影场景</title>
+      <link>https://alternativeto.net/news/2025/12/amazon-now-lets-fire-tv-users-jump-to-specific-movie-scenes-by-describing-them-to-alexa-/</link>
+      <description><![CDATA[亚马逊为 Fire TV 用户推出了一项新功能，让他们只需向Prime Video 描述场景即可直接跳至电影中的特定时刻Alexa+。观众可以使用自然语言，而不是搜索或快进，类似于他们向朋友解释场景的方式。这样，即使不记得电影标题，也可以通过提及角色名称、演员或标志性台词等细节来更轻松地找到令人难忘的电影时刻。
+该工具以 Fire TV 的 AI 功能为基础，利用 Amazon Bedrock 和大型语言模型的组合，包括 Amazon Nova 和 Anthropic克劳德。在 Prime Video 的 X-Ray 技术的支持下，Alexa+ 可以解读视觉数据和电影字幕，以了解上下文、人物和情节，帮助其在几秒钟内确定所需的场景。
+虽然该功能目前涵盖数千部电影和数万个单独场景，但亚马逊计划在不久的将来通过添加更多影片和扩展功能以包括电视节目来扩大覆盖范围。要使用此工具，用户需要 Prime 会员资格，或者必须在 Prime Video 上拥有或租借电影。这种基于场景的搜索还与个性化推荐相结合，使观看者的内容发现更加简化。
+查看有关 AlternativeTo 的文章更多关于 Prime 视频 | Prime 视频替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/12/amazon-now-lets-fire-tv-users-jump-to-specific-movie-scenes-by-describing-them-to-alexa-/</guid>
+      <pubDate>Thu, 04 Dec 2025 16:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Opera GX 推出更快的人工智能、新的侧面板和更广泛的文件支持</title>
+      <link>https://alternativeto.net/news/2025/12/opera-gx-rolls-out-faster-ai-new-side-panel-and-broader-file-support/</link>
+      <description><![CDATA[Opera GX 引入了重新设计的 AI 界面，带有专用侧面板和浏览器工具栏上的新访问按钮。此次更新带来了新的基于代理的引擎，响应速度提高了 20%。
+此外，用户现在可以上传各种文件类型以在人工智能聊天中进行分析，并受益于上下文响应、YouTube 视频摘要和新的隐私控制。
+查看有关 AlternativeTo 的文章有关 Opera 的更多信息GX | Opera GX 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/opera-gx-rolls-out-faster-ai-new-side-panel-and-broader-file-support/</guid>
+      <pubDate>Thu, 04 Dec 2025 16:42:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pixel Composer 1.20.1 beta 添加了可自定义面板、新节点和错误修复</title>
+      <link>https://alternativeto.net/news/2025/12/pixel-composer-1-20-1-beta-adds-customizable-panels-new-nodes-and-bug-fixes/</link>
+      <description><![CDATA[Pixel Composer 1.20.1 beta 引入了可自定义面板工具栏和新热键，以简化用户工作流程。此更新添加了几个新节点 - 包括颜色选择和 MK IsoCube/IsoExtrude - 并扩展了画笔和绘图功能。影响导出、节点复制和网格处理的多个错误也已得到解决。
+查看有关 AlternativeTo 的文章有关 Pixel 的更多信息Composer | Pixel Composer 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/12/pixel-composer-1-20-1-beta-adds-customizable-panels-new-nodes-and-bug-fixes/</guid>
+      <pubDate>Thu, 04 Dec 2025 16:35:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Raycast for Windows 引入导出/导入设置，提高扩展速度</title>
+      <link>https://alternativeto.net/news/2025/12/raycast-for-windows-introduces-export-import-settings-boosts-extension-speed/</link>
+      <description><![CDATA[Raycast for Windows 版本 0.39 引入了用户设置和数据的导出和导入命令，提供更轻松的备份和恢复。此更新还提高了应用程序启动速度，减少了 RAM 使用量，并使扩展程序的启动速度提高了四倍。
+开发人员还获得了新的管理扩展命令，并且多个错误已得到解决。
+查看有关 AlternativeTo 的文章有关更多信息Raycast | Raycast 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/12/raycast-for-windows-introduces-export-import-settings-boosts-extension-speed/</guid>
+      <pubDate>Thu, 04 Dec 2025 16:24:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brave 宣布推出 Leo Skills，用于桌面和 Android 上的自定义 AI 快捷方式</title>
+      <link>https://alternativeto.net/news/2025/12/brave-announces-leo-skills-for-custom-ai-shortcuts-on-desktop-and-android/</link>
+      <description><![CDATA[Brave 推出了 Leo Skills，这是其 Leo AI 助手的一项新功能，可让用户使用快捷方式保存和激活常用提示。用户可以创建和编辑自定义技能或使用多个内置选项，例如总结、解释主题和改进文本。
+该功能可在运行 Brave 1.85 或更高版本的桌面和 Android 设备上使用，并计划支持 iOS。
+查看有关 AlternativeTo 的文章更多信息勇敢 | 勇敢替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/brave-announces-leo-skills-for-custom-ai-shortcuts-on-desktop-and-android/</guid>
+      <pubDate>Thu, 04 Dec 2025 16:18:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Proton 推出 Sheets，这是 Excel 和 Google Sheets 的隐私优先加密替代品</title>
+      <link>https://alternativeto.net/news/2025/12/proton-launches-sheets-a-privacy-first-encrypted-alternative-to-excel-and-google-sheets/</link>
+      <description><![CDATA[Proton 推出了 Proton Sheets，这是一款全新的端到端加密电子表格应用，适合寻求注重隐私的 Google 表格 或 Microsoft Excel。与主要竞争对手不同的是，Proton Sheets 中的所有电子表格内容（包括文件名和元数据）均默认加密，并且 Proton 声明这些数据均不会用于人工智能训练，这与大型科技工具形成了鲜明的隐私对比。
+这款新的 Proton Sheets 提供了熟悉的电子表格功能，例如公式、图表和图形。实现实时协作，所有数据交换均保持完全加密。用户可以导入 CSV 或 XLS 文件，这些文件在上传后立即加密，以维护跨格式的安全性。访问管理工具允许用户指定和撤销每个电子表格的查看或编辑权限。
+这些功能可通过网络浏览器和 Proton Drive 应用程序使用，该应用程序现在提供电子邮件、日历、文档和加密电子表格，作为其扩展生产力套件的一部分。
+查看有关 AlternativeTo 的文章有关 Proton 的更多信息床单 | Proton 床单替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/proton-launches-sheets-a-privacy-first-encrypted-alternative-to-excel-and-google-sheets/</guid>
+      <pubDate>Thu, 04 Dec 2025 16:04:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>代码编辑器 Zed 添加了期待已久的彩虹括号，以提高嵌套代码的可读性</title>
+      <link>https://alternativeto.net/news/2025/12/code-editor-zed-adds-long-awaited-rainbow-brackets-for-improved-nested-code-readability/</link>
+      <description><![CDATA[Zed 背后的软件工程师之一 Kirill Bulatov 宣布推出彩虹括号，这是用户三年多来一直要求的功能。它现已在代码编辑器的稳定版本中提供，面向使用复杂或深度嵌套函数的用户。
+通过此功能，每一层嵌套括号都会获得独特的颜色，使开发人员更容易一目了然地跟踪代码块并匹配括号。虽然此增强功能提高了每个人的代码可读性，但对于任何浏览具有挑战性的代码库或维护大型文件的人来说尤其重要。
+默认情况下，彩虹括号处于关闭状态。要使用它，用户需要在应用程序的设置中搜索“Colorize Brackets”并激活该选项。此设置可以进一步自定义：用户可以为特定编程语言启用彩虹括号，使用主题感知的括号颜色以获得更好的视觉集成，甚至根据需要排除某些括号类型。
+查看有关 AlternativeTo 的文章有关 Zed 的更多信息编辑器 | Zed 编辑器替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/12/code-editor-zed-adds-long-awaited-rainbow-brackets-for-improved-nested-code-readability/</guid>
+      <pubDate>Thu, 04 Dec 2025 13:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>Django 6.0 带来了模板部分、后台任务、内容安全策略等</title>
       <link>https://alternativeto.net/news/2025/12/django-6-0-brings-template-partials-background-tasks-content-security-policy-and-more/</link>
@@ -64,98 +148,6 @@ Opera 指出，用户可以控制与 AI 共享的浏览上下文，并且 Opera 
 查看有关 AlternativeTo 的文章更多信息Superwhisper | Superwhisper 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/12/ai-powered-transcription-tool-superwhisper-has-officially-launched-a-windows-version/</guid>
       <pubDate>Thu, 04 Dec 2025 00:40:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>37signals 推出 Fizzy，一款现代开源看板软件，可与 Trello 和 Asana 竞争</title>
-      <link>https://alternativeto.net/news/2025/12/37signals-launches-fizzy-a-modern-open-source-kanban-software-to-rival-trello-and-asana/</link>
-      <description><![CDATA[37signals 推出了 Fizzy，这是一款开源看板应用程序，旨在为管理错误、问题、想法和小型项目等任务提供现代体验。 Fizzy 旨在作为 Trello、Jira 和 Asana 等常用工具的快速、直接替代方案，强调简单性和充满活力的用户界面。
-Fizzy 扩展了典型的看板工作流程，包括自动关闭旧卡片、用于与 Slack 或 Campfire 共享更新的 Webhook 以及用于快速查看的通知堆栈等功能。当卡片被忽略时，相关信息就会浮出水面，帮助团队保持正轨。用户还可以创建公共看板以提高可见性，并查看显示谁提交内容以及何时提交的标记。
-虽然 Fizzy 对于那些喜欢自托管的人来说是免费的开源软件，但也提供了托管版本。托管层使团队能够免费跟踪最多 1000 张卡片，并且对用户数量或持续时间没有限制。需要更多容量的用户可以每月支付 20 美元升级为无限卡。存储选项包括 1 GB 免费计划、5 GB 付费计划以及购买 50 GB 块的额外存储的能力。
-查看有关 AlternativeTo 的文章更多信息碳酸饮料 | 碳酸饮料替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/37signals-launches-fizzy-a-modern-open-source-kanban-software-to-rival-trello-and-asana/</guid>
-      <pubDate>Wed, 03 Dec 2025 13:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>FreeBSD 15.0 引入了 pkg 管理的基础系统、可重复的构建和更新的软件</title>
-      <link>https://alternativeto.net/news/2025/12/freebsd-15-0-introduces-pkg-managed-base-system-reproducible-builds-and-updated-software/</link>
-      <description><![CDATA[FreeBSD 15.0 现已推出，为服务器、桌面和嵌入式硬件上的用户带来了大量更新。此版本中最显着的变化是支持使用 pkg 包管理器管理和安装系统基础。此开关简化了更新并允许与其他 FreeBSD 软件包保持一致的系统维护工作流程。
-此外，现在无需 root 权限即可构建发布映像（包括虚拟机工件）。可重现的构建也正在通过，提高了开发人员和发行版维护人员的可靠性和可验证性。
-虽然基础设施的变化增强了工作流程，但 FreeBSD 15.0 添加了原生 inotify API。此功能简化了对系统进程的目录监视，并使开发人员更容易移植以 Linux 为中心的软件。存储管理员可以利用更新的 OpenZFS 2.4.0-rc4，提供额外的文件系统功能。
-安全性得到重大改进，因为 FreeBSD 现在包含 OpenSSL 3.5.4，它支持 QUIC 协议和抗量子加密算法，例如 ML-KEM、ML-DSA 和 SLH-DSA。 OpenSSH 10.0p2 默认引入抗量子密钥协议，从而提升管理员和最终用户等的安全通信。
-最后，FreeBSD 15.0 通过针对 amd64、aarch64、armv7、powerpc64、powerpc64le 和 riscv64 平台的构建扩展了硬件范围。
-查看有关 AlternativeTo 的文章更多信息FreeBSD | FreeBSD 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/freebsd-15-0-introduces-pkg-managed-base-system-reproducible-builds-and-updated-software/</guid>
-      <pubDate>Wed, 03 Dec 2025 12:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>非营利性环保搜索引擎 Ecosia 带来人工智能驱动的概述和聊天搜索</title>
-      <link>https://alternativeto.net/news/2025/12/non-profit-and-eco-friendly-search-engine-ecosia-brings-ai-powered-overviews-and-chat-search/</link>
-      <description><![CDATA[Ecosia，资助全球重新造林的搜索引擎，正在推出两项新功能以及全新的视觉设计。这些新增内容旨在加强其任务驱动方法，同时增强用户体验。
-在搜索结果的顶部，用户现在将看到概述，这是包含对原始来源的引用的简短摘要。此功能简化了研究并保持透明度，如果用户更喜欢直接搜索结果，则只需单击一下即可将其禁用。
-对于更深入的问题或持续的探索，AI搜索引入了交互式聊天模式。用户可以询问食谱或旅行技巧等主题，并可以选择接收植根于当前环境科学的生态建议。这些增强功能扩大了搜索灵活性，并为感兴趣的人纳入了环保意识。
-基于其环境承诺，Ecosia 的人工智能功能依赖于更小、更高效的人工智能模型，并有意避免视频生成等能源密集型技术。该公司使用 100% 清洁能源（如太阳能和风能）生产超出其人工智能功能所需的可再生能源。 AI 能源评分和Ecologits等工具可帮助 Ecosia 跟踪和报告能源使用情况，保持透明度和问责制。隐私仍然是重中之重；仅收集必要的数据来支持这些新功能。
-查看有关 AlternativeTo 的文章更多信息Ecosia | Ecosia 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/non-profit-and-eco-friendly-search-engine-ecosia-brings-ai-powered-overviews-and-chat-search/</guid>
-      <pubDate>Wed, 03 Dec 2025 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Proton Pass 1.33 引入了剪贴板清除和改进的离线模式</title>
-      <link>https://alternativeto.net/news/2025/12/proton-pass-1-33-introduces-clipboard-clearing-and-improved-offline-mode/</link>
-      <description><![CDATA[Proton Pass 1.33 版在扩展程序中引入了自动剪贴板清除功能，以增强安全性。此更新还改进了离线模式检测，支持管理重复项目和刷新的侧边栏 UI 元素。
-查看有关 AlternativeTo 的文章有关 Proton 的更多信息通行证 | 质子通行证替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/12/proton-pass-1-33-introduces-clipboard-clearing-and-improved-offline-mode/</guid>
-      <pubDate>Wed, 03 Dec 2025 09:12:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux Mint 22.3 Zena beta 首次亮相，带来新的系统工具和 Cinnamon 菜单</title>
-      <link>https://alternativeto.net/news/2025/12/linux-mint-22-3-zena-beta-to-debut-with-new-system-tools-and-cinnamon-menu/</link>
-      <description><![CDATA[Linux Mint 22.3“Zena”测试版预计在本月上半月发布，引入新的系统信息和管理工具。此次更新还带来了重新设计的 Cinnamon 菜单，其中包含符号类别图标。
-其他改进包括兼容 Wayland 的键盘处理和改进的屏幕键盘。
-查看有关 AlternativeTo 的文章有关 Linux 的更多信息Mint | Linux Mint 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/linux-mint-22-3-zena-beta-to-debut-with-new-system-tools-and-cinnamon-menu/</guid>
-      <pubDate>Wed, 03 Dec 2025 09:00:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Let's Encrypt 将于 2028 年将 SSL 证书有效期从 90 天减少到 45 天</title>
-      <link>https://alternativeto.net/news/2025/12/let-s-encrypt-will-decrease-ssl-certificate-validity-from-90-to-45-days-by-2028/</link>
-      <description><![CDATA[Let&#39;s Encrypt（由互联网安全研究小组运营）已宣布计划到 2028 年将其 SSL/TLS 证书的有效期从 90 天缩短至 45 天。这一转变意味着任何依赖 Let&#39;s Encrypt 证书的人都需要将证书更新频率是以前的两倍。
-此调整是全行业举措的一部分，因为所有公众信任的证书颁发机构都需要遵循 CA/浏览器论坛基准要求。这些技术标准要求缩短证书的有效期，影响全球的组织和网站管理员。
-这一变化背后的主要驱动力是提高互联网安全性。较短的证书有效期限制了攻击者利用受损证书的时间窗口，并增强了证书吊销过程的有效性。在证书颁发发生变化之后，Let&#39;s Encrypt 还将收紧其域验证流程。目前的 30 天授权重用期（允许在不重新检查域控制的情况下颁发证书）到 2028 年将减少到仅 7 小时。
-为了帮助用户适应，Let&#39;s Encrypt 将分几个阶段逐步实施这些更改。更多详细信息请参阅官方公告。
-查看有关 AlternativeTo 的文章更多信息让我们加密 | 让我们加密替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/12/let-s-encrypt-will-decrease-ssl-certificate-validity-from-90-to-45-days-by-2028/</guid>
-      <pubDate>Wed, 03 Dec 2025 08:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>法国人工智能初创公司 Mistral 推出了 Mistral 3，这是其新的开放式多模式模型套件</title>
-      <link>https://alternativeto.net/news/2025/12/french-ai-startup-mistral-launches-mistral-3-its-new-suite-of-open-multimodal-ai-models/</link>
-      <description><![CDATA[法国人工智能公司 Mistral 推出了 Mistral 3 系列，这是一套新的开源多语言和多模式模型套件。该系列包括具有 3、8 和 140 亿个参数的 Ministral 模型，基础、指令和推理版本均具有图像理解支持。这些较小的模型针对本地和边缘使用，并以较低的代币生成量提供有竞争力的性能。
-旗舰产品 Mistral Large 3 使用稀疏的专家混合架构，在大约 3,000 个 Nvidia H200 GPU 上进行训练。它包含 6750 亿个活动参数中的 410 亿个，与该系列的其他产品一样，是在 Apache 2.0 许可证下发布的。基准测试在开源非推理模型中排名第二，在 LMArena 排行榜上推理任务排名第六，其性能与 Qwen 和 DeepSeek 类似，尽管 Deepseek V3.2 在最近的测试中显示出改进。
-所有模型均可通过 Mistral AI Studio、Hugging Face 以及包括 Amazon 在内的云平台获取Bedrock、Azure Foundry、IBM WatsonX 和 Together AI。
-查看有关 AlternativeTo 的文章有关 Mistral Le 的更多信息聊天 | Mistral Le Chat 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/12/french-ai-startup-mistral-launches-mistral-3-its-new-suite-of-open-multimodal-ai-models/</guid>
-      <pubDate>Tue, 02 Dec 2025 20:05:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Runway 推出具有真实文本到视频和基准领先优势的 Gen 4.5 AI 模型</title>
-      <link>https://alternativeto.net/news/2025/12/runway-unveils-gen-4-5-ai-model-with-realistic-text-to-video-and-benchmark-lead/</link>
-      <description><![CDATA[Runway 宣布推出 Gen 4.5，这是其最新的文本转视频 AI 模型，据报道超越了 Google Veo 等竞争对手3 和 OpenAI 的 Sora。该模型目前在独立的 Video Arena 排行榜上位居榜首，它通过盲目的人类基准测试（在不透露模型来源的情况下对模型进行比较）来确保其排名。
-这个最新版本根据书面提示生成高清视频，并改进了对物理、人体运动和摄像机动力学的理解。 Gen 4.5 的目标是电影般的真实感，物体和液体的运动具有准确的重量、动量，并且在各种视觉风格中具有更好的一致性。
-虽然该模型逐渐向用户推出，但 Runway 确认生成速度仍然与以前的版本一样高效。然而，该技术仍然存在局限性，包括对象持久性偶尔会出现失误，以及因果推理中的错误（结果可能先于原因）。
-查看有关 AlternativeTo 的文章更多信息跑道 | 跑道替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/12/runway-unveils-gen-4-5-ai-model-with-realistic-text-to-video-and-benchmark-lead/</guid>
-      <pubDate>Tue, 02 Dec 2025 19:44:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sigil & PageEdit 2.7.0 与 Qt 6.9.3 一起发布，动态自动化菜单、UI 调整等</title>
-      <link>https://alternativeto.net/news/2025/12/sigil-and-pageedit-2-7-0-released-with-qt-6-9-3-dynamic-automation-menu-ui-tweaks-and-more/</link>
-      <description><![CDATA[Sigil（开源 EPUB 编辑器）及其配套应用 PageEdit 均已升级到版本 2.7.0。在此版本中，两个应用程序现在都利用带有补充补丁的 Qt 6.9.3。 Sigil 还将其 Perl 兼容正则表达式 (PCRE2) 库升级到版本 10.46。
-除了这些核心更新之外，WebProfileMgr 已更新为使用 QWebEngneProfileBuilder，从而改进了磁盘缓存设置。为了增强工作流程，“标题更改”和“大小写更改”等工具按钮现在会记住上次使用的操作。 Windows 用户受益于专用清单文件，该文件可确保正确的“打开方式”功能。
-新的面向用户的功能包括动态自动化菜单，它取代了以前的工具栏，并且可以根据偏好隐藏。 Sigil 的文件菜单现在可跟踪最多九个最新文件，以便于访问。元数据编辑器支持用于快速导航的上下文菜单，并按预期处理左右箭头键导航。现在可以通过 SIGIL_ONLY_USE_LANGCODES 环境变量自定义语言代码选择。
-为了进一步扩展自动化，两个新工具允许用户根据之前搜索的结果有条件地运行已保存的搜索。这些改进通过多个错误修复得以完善。
-查看有关 AlternativeTo 的文章更多信息印记 | 印记替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/sigil-and-pageedit-2-7-0-released-with-qt-6-9-3-dynamic-automation-menu-ui-tweaks-and-more/</guid>
-      <pubDate>Tue, 02 Dec 2025 15:15:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
