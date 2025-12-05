@@ -4,7 +4,38 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Fri, 05 Dec 2025 01:39:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 12:41:52 GMT</lastBuildDate>
+    <item>
+      <title>Alpine Linux 3.23 带来 Linux 6.18 内核、KDE ​​Plasma 6.5、GNOME 49 和 APK 工具 3.0</title>
+      <link>https://alternativeto.net/news/2025/12/alpine-linux-3-23-brings-linux-6-18-kernel-kde-plasma-6-5-gnome-49-and-apk-tools-3-0/</link>
+      <description><![CDATA[Alpine Linux 3.23 已发布，标志着这个注重安全的轻量级 Linux 发行版的最新更新。此版本引入了 Linux 6.18 内核，它为所有用户带来了现代驱动程序支持和上游改进。包括更新的桌面环境：KDE Plasma 6.5.3、GNOME 49，LXQt 2.3.0，和Sway 1.11 拓宽了图形界面选项。
+除了桌面增强之外，Alpine 3.23 还刷新了一系列核心开发和运行时包。其中包括 GCC 15、LLVM 21、Node.js 24.11 LTS、Rust 1.91、Valkey 9.0、ZFS 2.4.0-rc4、Crystal 1.18、Docker 29、.NET 10.0，Go 1.25、ISC Kea 3.0、OpenJDK 25、Perl 5.42、PHP 8.5，PostgreSQL 18，和 Qt 6.10。
+在这些软件升级之后，APK 包管理器已升级至版本 3。现有用户可以从 v2 无缝升级，但依赖 libapk 库的管理员应检查是否存在可能的重大更改。对于内核管理，linux-stable 现在取代了 linux-edge，镜像了 linux-lts 配置，但跟踪稳定版本而不是长期版本。运行 linux-edge 的系统将接收 linux-stable 作为自动替换。
+查看有关 AlternativeTo 的文章有关 Alpine Linux 的更多信息 | Alpine Linux 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/12/alpine-linux-3-23-brings-linux-6-18-kernel-kde-plasma-6-5-gnome-49-and-apk-tools-3-0/</guid>
+      <pubDate>Fri, 05 Dec 2025 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Home Assistant 2025.12 带来了实验室、特定用途触发器、改进的仪表板等</title>
+      <link>https://alternativeto.net/news/2025/12/home-assistant-2025-12-brings-labs-purpose-specific-triggers-improved-dashboards-and-more/</link>
+      <description><![CDATA[Home Assistant 2025.12 现已推出，为这个开源家庭自动化平台提供了重要的增强功能。最值得注意的新增功能之一是家庭助理实验室，这是一项新功能，可让用户尝试完全开发的预览。这些功能已经过测试，但可能会根据反馈进行更改或删除，第一个预览版“冬季模式”将添加界面降雪效果。
+此版本中的自动化功能得到了大幅升级。现在，触发器和条件为核心领域提供了更直观、专门构建的选项，例如灯光、气候和风扇。现在，在自动化中定位设备变得更加容易：用户可以针对所有客厅灯等组触发自动化，而无需单独列出每个设备。
+在这些工作流程改进之后，出现了多项仪表板升级。用户能够为所有用户设置系统范围的默认仪表板、重新排序区域和楼层、访问新的侧边栏以及在仪表板编辑器中使用撤消或重做。能源仪表板还获得了实时电力监控和对下游水跟踪的新支持。
+对于那些专注于集成的用户，此版本引入了 12 个新选项，包括 Backblaze B2、Google Weather 和 Google 天气。空气质量和Philips Hue BLE。它还添加了两个虚拟集成并对现有集成进行了改进。
+查看有关 AlternativeTo 的文章更多信息家庭助理 | 家庭助理替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/12/home-assistant-2025-12-brings-labs-purpose-specific-triggers-improved-dashboards-and-more/</guid>
+      <pubDate>Fri, 05 Dec 2025 07:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>VLC 3.0.22 添加了 Dark Qt 模式、AMD 帧速率倍增器和编解码器改进</title>
+      <link>https://alternativeto.net/news/2025/12/vlc-3-0-22-adds-dark-qt-mode-amd-frame-rate-doubler-and-codec-improvements/</link>
+      <description><![CDATA[VLC 3.0.22 经过十八个月的开发，为 Windows 和 Linux 上的 Qt 界面引入了深色调色板选项。此更新增加了对 Qt6 的构建支持，同时保持 Qt5 兼容性，以确保 3.0 分支在现代系统上仍然可用。
+Windows 用户获得本机 ARM64 构建并恢复对 Windows XP SP3 等旧平台的支持，以及重命名、移动或删除当前正在播放的文件的能力。通过适用于 Direct3D11 的 AMD 帧速率加倍器扩展了硬件支持，并通过更新对 Matroska 容器中的 A_ATRAC 和 AT1 的支持以及默认转向 libavcodec 来改进编解码器处理。
+播放可靠性得到修复，包括 FLAC 搜索、JPEG 渲染、VOB 和 LPCM 检测以及非常短的 ASF 文件。其他改进包括纠正 macOS 上的 XVID MPEG 4 硬件解码、更好的 ProRes 和 Matroska 处理、提高的解复用器稳定性以及 KDE 和 UPnP 集成的改进。
+查看有关 AlternativeTo 的文章有关 VLC 的更多信息媒体播放器 | VLC 媒体播放器替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/vlc-3-0-22-adds-dark-qt-mode-amd-frame-rate-doubler-and-codec-improvements/</guid>
+      <pubDate>Fri, 05 Dec 2025 03:37:14 GMT</pubDate>
+    </item>
     <item>
       <title>AWS 通过 Nova 2 型号扩展 AI 产品阵容，并推出用于定制 AI 的 Nova Forge</title>
       <link>https://alternativeto.net/news/2025/12/aws-expands-ai-lineup-with-nova-2-models-and-launches-nova-forge-for-custom-ai/</link>
@@ -118,36 +149,6 @@ AWS 还推出了 Nova Forge，这是一个用于创建名为 Novellas 的自定�
 查看有关 AlternativeTo 的文章更多信息包子 | 包子替代品]]></description>
       <guid>https://alternativeto.net/news/2025/12/anthropic-acquires-bun-to-accelerate-its-development-and-integration-into-claude-code/</guid>
       <pubDate>Thu, 04 Dec 2025 08:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Opera 与 Google 合作，将 Gemini 集成到公司的整个浏览器产品系列中</title>
-      <link>https://alternativeto.net/news/2025/12/opera-partners-with-google-to-integrate-gemini-across-the-company-s-entire-browser-lineup/</link>
-      <description><![CDATA[Opera 宣布已与 Google 达成协议，将 Google Gemini 纳入其完整的浏览器产品阵容，重新推出之前的新“Opera AI”下的 Aria 助手品牌推广。新系统通过侧面板直接集成到 Opera One、Opera GX 和 Opera Neon，让用户可以与网页内容、总结页面、研究主题，以及通过由 Gemini 提供支持的上下文感知响应来比较跨选项卡的信息。
-Opera AI 还添加了语音输入和输出，以及对分析图像和视频等文件的支持。它运行在改编自代理 Neon 浏览器的新架构上，Opera 表示，与之前的实现相比，该架构可显着提高约 20% 的速度。
-Opera 指出，用户可以控制与 AI 共享的浏览上下文，并且 Opera Neon 为那些想要使用最先进模型的用户提供了 Gemini 3 Pro 的访问权限。
-查看有关 AlternativeTo 的文章更多信息Opera | Opera 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/opera-partners-with-google-to-integrate-gemini-across-the-company-s-entire-browser-lineup/</guid>
-      <pubDate>Thu, 04 Dec 2025 02:38:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>WordPress 6.9 添加了块级注释、仪表板范围的命令面板和功能 API</title>
-      <link>https://alternativeto.net/news/2025/12/wordpress-6-9-adds-block-level-notes-dashboard-wide-command-palette-and-abilities-api/</link>
-      <description><![CDATA[WordPress 6.9“Gene” 已发布，并进行了多项功能升级，首先是 Notes，这是一个新的块级评论系统，允许编辑者直接在单个文本、布局、媒体或设计块上留下反馈，而无需离开编辑器。 命令面板现在可在整个仪表板中使用，使用户能够从任何屏幕通过键盘命令触发操作、切换视图和打开工具。
-段落和标题块添加了“使文本适合容器”选项，该选项可自动调整版式以填充可用空间，这在创建横幅或其他突出文本部分时很有帮助。对于开发人员来说，更新引入了 Abilities API，这是一个统一的权限系统，可标准化 PHP、REST 端点和 AI 驱动工具的功能处理。超过 30 个辅助功能修复还优化了屏幕阅读器行为、输入光标放置、CSS 内容可见性和焦点一致性。
-通过优化块样式、减少内联 CSS 和调整脚本优先级，性能改进涵盖了经典主题和块主题。后端更改包括更高效的数据库查询、精细的缓存、增强的 WP Cron 生成以及用于模板处理的新输出缓冲区。
-查看有关 AlternativeTo 的文章更多信息WordPress | WordPress 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/wordpress-6-9-adds-block-level-notes-dashboard-wide-command-palette-and-abilities-api/</guid>
-      <pubDate>Thu, 04 Dec 2025 02:21:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI驱动的转录工具Superwhisper正式推出Windows版本</title>
-      <link>https://alternativeto.net/news/2025/12/ai-powered-transcription-tool-superwhisper-has-officially-launched-a-windows-version/</link>
-      <description><![CDATA[继二月份宣布之后，经过大约十个月的 Beta 测试，Superwhisper 已发布其第一个 Windows 版本。该应用以前仅限于 macOS 和 iOS，现在支持 x64 和 ARM64 格式的 Windows 10 及更高版本，从系统托盘运行，并使用 Ctrl 加空格快捷键进行语音输入。
-这款人工智能听写应用程序采用语音识别和大型语言模型来转录语音、管理标点符号和格式。该应用程序与 macOS 上的大多数主要功能保持一致，例如支持 100 多种语言、即时翻译成英语、音频文件转录以及适应写作风格的 AI 模式。
-这些功能在免费套餐中提供，而专业版订阅则可以解锁离线转录、多种 AI 输出模式和一般文件转录。 Windows 版本从 1.0.2 版开始包含 Pro 功能的免费试用版。 Superwhisper 是过去一年中 macOS 上最受欢迎的 AI 转录应用程序之一，它在 Windows 上的推出使其与 Microsoft 内置语音工具以及第三方选项（例如 Dragon NaturallySpeaking、Braina，以及较新的 AI 转录应用程序，例如 Wispr Flow 或 Otter.ai。
-查看有关 AlternativeTo 的文章更多信息Superwhisper | Superwhisper 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/ai-powered-transcription-tool-superwhisper-has-officially-launched-a-windows-version/</guid>
-      <pubDate>Thu, 04 Dec 2025 00:40:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
