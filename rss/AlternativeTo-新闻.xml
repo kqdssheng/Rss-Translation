@@ -4,7 +4,39 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Fri, 05 Dec 2025 12:41:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Dec 2025 01:26:18 GMT</lastBuildDate>
+    <item>
+      <title>Drupal 推出 Canvas，这是一个可视化构建器，可实现更轻松、更灵活的网站设计</title>
+      <link>https://alternativeto.net/news/2025/12/drupal-introduces-canvas-a-visual-builder-for-easier-and-more-flexible-website-design/</link>
+      <description><![CDATA[Drupal 推出了 Canvas，这是一种可视化构建体验，旨在帮助网站构建者和内容团队更轻松地创建网站，同时又不失去 Drupal 定义的灵活性。借助 Canvas，更多用户可以直观地构建和调整网站布局，减少对深厚开发专业知识的依赖，同时为开发人员保留高级自定义选项。
+在此更新的基础上，Drupal Canvas 是社区驱动的努力的一部分，旨在实现网站开发方式的现代化。该界面使用户能够使用拖放工具来排列和调整页面组件，支持非开发人员更独立的工作，并在需要时释放技术人员进行更深入的定制。
+从技术上讲，Canvas 使用由 React 驱动的前端，直接与 Drupal 的核心 API 集成。这种方法支持更加简化和交互式的网站构建工作流程，将熟悉的 Drupal 灵活性与最新技术相结合。
+在其核心功能中，Canvas 支持基于组件的可视页面构建、浏览器内拖放编辑器、用于创建新构建块的代码组件以及多站点页面预览。该平台还引入了多步撤消功能，允许网站建设者在发布之前试验和完善设计。这些新增内容标志着在使 Drupal 对于多元化的开发者和内容创建者社区而言更易于访问和更高效方面迈出了重要一步。
+查看有关 AlternativeTo 的文章更多关于Drupal | Drupal 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/drupal-introduces-canvas-a-visual-builder-for-easier-and-more-flexible-website-design/</guid>
+      <pubDate>Fri, 05 Dec 2025 20:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>SoundSource 6 带来分组输出、AirPlay 支持、快速配置和刷新的 UI</title>
+      <link>https://alternativeto.net/news/2025/12/soundsource-6-brings-grouped-outputs-airplay-support-quick-configs-and-refreshed-ui/</link>
+      <description><![CDATA[SoundSource 6 已发布，带来了高级音频设置、按应用程序控制以及将效果应用到 Mac 上运行的任何音频的能力。此版本为管理系统上声音的发送方式和位置提供了更大的灵活性。
+新的音频路由功能可让您使用分组的输出设备同时通过多个输出播放音频。此外，SoundSource 6 还允许用户将音频发送到 HomePods 和 Sonos 扬声器等设备，从而扩展了对 AirPlay 的支持。您可以将声音从各个应用传送到一个或多个 AirPlay 目标，或者将所有系统音频同步传输到多个 AirPlay 设备。
+除了这些路由增强功能之外，新的音频设备窗口还提供对连接的音频硬件的高级控制，使管理复杂的设置变得更加容易。此外，快速配置使您能够保存并立即加载自定义音频配置，包括设备选择、效果链和音量首选项，对于在环境或设置之间快速更改特别有用。
+在这些核心功能的基础上，SoundSource 6 进行了进一步的改进，并采用了重新设计的用户界面，该界面更易于使用，并且更适合最终用户定制。
+查看有关 AlternativeTo 的文章更多信息SoundSource | SoundSource 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/soundsource-6-brings-grouped-outputs-airplay-support-quick-configs-and-refreshed-ui/</guid>
+      <pubDate>Fri, 05 Dec 2025 16:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Instapaper 推出高品质 AI 语音、重新设计的 TTS 播放器和 Android 应用程序 v6.4</title>
+      <link>https://alternativeto.net/news/2025/12/instapaper-launches-high-quality-ai-voices-redesigned-tts-player-and-android-app-v6-4/</link>
+      <description><![CDATA[Instapaper 推出了AI Voices，推出了跨 17 种语言和口音的高品质流式文本转语音服务。其中包括英语（美国和英国）、中文、法语、意大利语、日语、印地语、西班牙语和葡萄牙语。与早期的系统语音相比，此更新提供了更高的清晰度和更自然的播放效果，并且适用于使用 Instapaper iOS 9.4 的高级订阅者（即将推出 Android 支持）。
+继语音升级之后，Instapaper 还重新设计了文本转语音体验。用户现在可以通过应用程序中任意位置的浮动播放器控制旁白。该播放器允许听众扩展界面、选择不同的人工智能语音、导航播放列表或管理阅读列表，而无需中断播放。
+此外，Instapaper for Android 6.4 版本已发布，改进了搜索结果，支持编辑文章、文件夹和标签，并引入了公共文件夹访问。还包括其他几项稳定性改进和错误修复。
+查看有关 AlternativeTo 的文章更多信息Instapaper | Instapaper 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/instapaper-launches-high-quality-ai-voices-redesigned-tts-player-and-android-app-v6-4/</guid>
+      <pubDate>Fri, 05 Dec 2025 13:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>Alpine Linux 3.23 带来 Linux 6.18 内核、KDE ​​Plasma 6.5、GNOME 49 和 APK 工具 3.0</title>
       <link>https://alternativeto.net/news/2025/12/alpine-linux-3-23-brings-linux-6-18-kernel-kde-plasma-6-5-gnome-49-and-apk-tools-3-0/</link>
@@ -119,36 +151,6 @@ AWS 还推出了 Nova Forge，这是一个用于创建名为 Novellas 的自定�
 查看有关 AlternativeTo 的文章有关 Zed 的更多信息编辑器 | Zed 编辑器替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/12/code-editor-zed-adds-long-awaited-rainbow-brackets-for-improved-nested-code-readability/</guid>
       <pubDate>Thu, 04 Dec 2025 13:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Django 6.0 带来了模板部分、后台任务、内容安全策略等</title>
-      <link>https://alternativeto.net/news/2025/12/django-6-0-brings-template-partials-background-tasks-content-security-policy-and-more/</link>
-      <description><![CDATA[Django 6.0 引入了几个值得注意的功能，旨在改进代码模块化、安全性和开发人员工作流程。模板部分现在可用，允许项目使用小的命名片段来模块化模板。此更新使大型 Web 应用程序中的代码维护和重用变得更加容易。
-此外，新的内置后台任务框架使开发人员能够在标准 HTTP 请求-响应周期之外运行代码。这对于处理诸如发送电子邮件或在 Django 项目中异步执行数据库操作等任务非常有用。
-安全性得到了增强，能够轻松配置和实施内容安全策略标头。通过支持 CSP，Django 6.0 帮助项目防御可能影响 Web 应用程序的内容注入漏洞。
-在这些核心改进之后，Django 的电子邮件 API 已实现现代化。开发人员现在可以使用 Python 的 EmailMessage 类撰写和发送电子邮件，从而提供比早期版本更清晰且对 Unicode 更友好的界面。
-随着 Django 6.0 的发布，Django 5.2 已结束主流支持。最终的错误修复版本 5.2.9 已发布，仅安全和数据丢失修复将持续到 2028 年 4 月。此外，自 2025 年 12 月 2 日发布的最后一个安全版本 5.1.15 起，Django 5.1 不再获得扩展支持。
-查看有关 AlternativeTo 的文章更多信息Django | Django 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/django-6-0-brings-template-partials-background-tasks-content-security-policy-and-more/</guid>
-      <pubDate>Thu, 04 Dec 2025 12:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>从任务狩猎到制图师工艺：为 OpenStreetMap 做出贡献的指南</title>
-      <link>https://alternativeto.net/news/2025/12/from-quest-hunting-to-cartographer-craft-a-guide-to-contributing-to-openstreetmap/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://alternativeto.net/news/2025/12/from-quest-hunting-to-cartographer-craft-a-guide-to-contributing-to-openstreetmap/</guid>
-      <pubDate>Thu, 04 Dec 2025 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anthropic 收购 Bun 以加速其开发并融入 Claude Code</title>
-      <link>https://alternativeto.net/news/2025/12/anthropic-acquires-bun-to-accelerate-its-development-and-integration-into-claude-code/</link>
-      <description><![CDATA[Anthropic 宣布收购 Bun，这是一个用于 JavaScript、TypeScript 和 JSX 的一体化工具包，集成了运行时、包管理器、捆绑器和测试运行器。该公司计划使用 Bun 作为其 Claude Code 产品、Claude Agent SDK 和其他未来基于人工智能的编码工具的核心基础设施。
-因此，随着 Bun 的集成更加深入，Claude Code 的用户可以期待增强的性能、更高的稳定性和新功能。这一举措反映了 Bun 作为 JavaScript 生态系统中广泛采用的解决方案的地位，目前每月下载量超过 700 万次，拥有超过 82,000 个 GitHub star，并被 Midjourney 和 Lovable 等公司用来促进开发生产力。
-为了解决潜在的社区问题，Bun 将在 MIT 许可下保持开源状态，并将继续由现有团队积极开发。开发仍将在 GitHub 上公开进行。 Bun 的路线图也保持不变，专注于高性能 JavaScript 工具，改进 Node.js 兼容性，并致力于成为主要的服务器端 JavaScript 运行时。
-收购后，Bun 将更快地提供更新，并将通过密切关注人工智能驱动的编码工具的进步而不断发展。
-查看有关 AlternativeTo 的文章更多信息包子 | 包子替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/anthropic-acquires-bun-to-accelerate-its-development-and-integration-into-claude-code/</guid>
-      <pubDate>Thu, 04 Dec 2025 08:50:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
