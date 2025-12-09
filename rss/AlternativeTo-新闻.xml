@@ -4,7 +4,28 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Tue, 09 Dec 2025 01:39:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 12:43:40 GMT</lastBuildDate>
+    <item>
+      <title>Apple Fitness+ 扩展到 28 个新市场，增加了人工智能配音的锻炼和韩国流行音乐流派</title>
+      <link>https://alternativeto.net/news/2025/12/apple-fitness-expands-to-28-new-markets-adds-ai-dubbed-workouts-and-k-pop-music-genre/</link>
+      <description><![CDATA[Apple Fitness+ 将于 12 月 15 日扩展到 28 个新市场，其中包括智利、香港、印度、荷兰、新加坡和台湾等国家/地区。日本将于明年初加入，这将是该服务自推出以来最广泛的推出。
+通过此次重大扩展，该平台将推出数百种使用西班牙语、德语和日语生成的声音配音的锻炼和冥想。每个配音课程都使用由 28 位 Fitness+ 教练之一的实际声音创建的合成声音。每周都会添加额外的配音剧集，以扩大非英语使用者的可访问性。
+除了这些更新之外，Fitness+ 还在其音乐选择中引入了韩国流行音乐流派。推出后，49个国家和地区的用户现在可以访问全套12种锻炼类型，包括力量、瑜伽、高强度间歇训练（HIIT）、普拉提、舞蹈、自行车、跆拳道和冥想。剧集范围从 5 到 45 分钟不等，可在 iPhone、iPad 和 Apple TV 上观看。
+查看有关 AlternativeTo 的文章有关 Apple 的更多信息Fitness+ | Apple Fitness+ 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/12/apple-fitness-expands-to-28-new-markets-adds-ai-dubbed-workouts-and-k-pop-music-genre/</guid>
+      <pubDate>Tue, 09 Dec 2025 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>n8n 2.0 增强安全性、加快自动化工作流程并简化生产更新</title>
+      <link>https://alternativeto.net/news/2025/12/n8n-2-0-enhances-security-speeds-up-automation-workflows-and-simplifies-production-updates/</link>
+      <description><![CDATA[n8n 2.0 引入了默认安全执行，使依赖此人工智能驱动的自动化平台的技术团队的工作流程更加安全。现在默认启用任务运行程序，因此所有代码节点执行都在访问受限的隔离环境中进行。这些更改会阻止代码节点的环境变量并禁用允许执行任意命令的节点，从而有助于防止常见的安全问题。
+除了这些安全性增强之外，性能也得到显着提升。新的 SQLite 池驱动程序在基准测试中提供高达十倍的速度。现在，在重负载下，基于文件系统的二进制数据处理更加可预测。此外，任务运行程序不仅可以提高安全性，还可以在执行过程中实现更好的资源管理。
+为了提供更可预测的行为，2.0 版本删除了旧选项和过时的服务节点。具有等待节点的工作流程现在可以正确返回数据，同时整体设计减少了边缘情况。遵循这些变化，n8n 引入了更安全的“发布/保存”工作流程管理模型。保存编辑内容不会影响实时工作流程。然后，用户可以选择何时将更改发布到生产中。
+此版本还带来了一个工具，可以识别升级前可能需要注意的工作流程和配置。用户界面更新包括微妙的工作流程编辑器画布改进和重新组织的侧边栏以方便导航，以及其他增强和修复。
+查看有关 AlternativeTo 的文章更多信息n8n | n8n 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/n8n-2-0-enhances-security-speeds-up-automation-workflows-and-simplifies-production-updates/</guid>
+      <pubDate>Tue, 09 Dec 2025 08:50:00 GMT</pubDate>
+    </item>
     <item>
       <title>WebStorm 2025.3 带来了类型引擎、monorepo、AI 助手和远程调试的更新</title>
       <link>https://alternativeto.net/news/2025/12/webstorm-2025-3-brings-updates-to-type-engine-monorepo-ai-assistants-and-remote-debugging/</link>
@@ -76,7 +97,7 @@
       <description><![CDATA[Unity 6.3 作为长期支持版本发布，具有两年的更新，现在是新项目的建议基准。它通过 2D 通用渲染管道在 2D 场景内启用 3D 渲染，从而增强了混合开发，从而允许网格渲染器和蒙皮网格渲染器元素与精灵一起工作。 2D 工具集还获得了改进的渲染、物理和资产分析功能。
 此更新将 Box2D v3 与新的低级 2D 物理应用程序编程接口集成，可提高编辑器和运行时的多线程性能、确定性和调试。新的平台工具包将常见的跨平台任务（例如帐户处理、保存数据和成就）统一到一个应用程序编程接口下，从而简化了多平台开发。
 Shader Graph 现在支持自定义光照、地形着色器、最多八个纹理坐标集和模板浏览器。着色器构建设置允许开发人员排除或转换着色器关键字而无需额外编码，从而有助于减少编译时间。其他改进包括用于发现低效精灵打包的 Sprite Atlas 分析器、可自定义工具栏、更好的渲染和物理工作流程诊断以及扩展的 Android XR 功能，例如面部跟踪、对象可跟踪和动态分辨率。
-查看有关 AlternativeTo 的文章更多信息Unity | Unity 替代品]]></description>
+查看有关 AlternativeTo 的文章更多信息Unity | Unity 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/12/unity-6-3-lts-arrives-with-hybrid-2d-3d-scenes-box2d-v3-and-cross-platform-toolkit/</guid>
       <pubDate>Sun, 07 Dec 2025 00:21:27 GMT</pubDate>
     </item>
@@ -142,26 +163,6 @@ Netflix 表示打算维持华纳兄弟的院线发行和日常运营，而不立
 查看有关 AlternativeTo 的文章更多信息家庭助理 | 家庭助理替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/12/home-assistant-2025-12-brings-labs-purpose-specific-triggers-improved-dashboards-and-more/</guid>
       <pubDate>Fri, 05 Dec 2025 07:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>VLC 3.0.22 添加了 Dark Qt 模式、AMD 帧速率倍增器和编解码器改进</title>
-      <link>https://alternativeto.net/news/2025/12/vlc-3-0-22-adds-dark-qt-mode-amd-frame-rate-doubler-and-codec-improvements/</link>
-      <description><![CDATA[VLC 3.0.22 经过十八个月的开发，为 Windows 和 Linux 上的 Qt 界面引入了深色调色板选项。此更新增加了对 Qt6 的构建支持，同时保持 Qt5 兼容性，以确保 3.0 分支在现代系统上仍然可用。
-Windows 用户获得本机 ARM64 构建并恢复对 Windows XP SP3 等旧平台的支持，以及重命名、移动或删除当前正在播放的文件的能力。通过适用于 Direct3D11 的 AMD 帧速率加倍器扩展了硬件支持，并通过更新对 Matroska 容器中的 A_ATRAC 和 AT1 的支持以及默认转向 libavcodec 来改进编解码器处理。
-播放可靠性得到修复，包括 FLAC 搜索、JPEG 渲染、VOB 和 LPCM 检测以及非常短的 ASF 文件。其他改进包括纠正 macOS 上的 XVID MPEG 4 硬件解码、更好的 ProRes 和 Matroska 处理、提高的解复用器稳定性以及 KDE 和 UPnP 集成的改进。
-查看有关 AlternativeTo 的文章有关 VLC 的更多信息媒体播放器 | VLC 媒体播放器替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/vlc-3-0-22-adds-dark-qt-mode-amd-frame-rate-doubler-and-codec-improvements/</guid>
-      <pubDate>Fri, 05 Dec 2025 03:37:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>AWS 通过 Nova 2 型号扩展 AI 产品阵容，并推出用于定制 AI 的 Nova Forge</title>
-      <link>https://alternativeto.net/news/2025/12/aws-expands-ai-lineup-with-nova-2-models-and-launches-nova-forge-for-custom-ai/</link>
-      <description><![CDATA[Amazon Web Services 通过 Nova 2 模型系列扩展了其专有的 AI 产品阵容，添加了四种专注于推理、多模态和语音的模型，以满足企业需求。
-该系列产品包括用于经济高效的文本、图像和视频任务的 Nova 2 Lite，用于更复杂工作的 Nova 2 Pro，例如支持语音的编码，Nova 2 Sonic 用于语音到语音会话 AI，Nova 2 Omni 用于跨文本、图像、视频和语音的多模式推理和生成。
-AWS 还推出了 Nova Forge，这是一个用于创建名为 Novellas 的自定义前沿规模 Nova 变体的平台。它的定价为每年 10 万美元起，提供预训练、训练中期或训练后模型的访问权限，企业可以利用专有数据来适应这些模型，同时保留核心推理能力。
-查看有关 AlternativeTo 的文章有关 Amazon 的更多信息Nova | 亚马逊 Nova 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/aws-expands-ai-lineup-with-nova-2-models-and-launches-nova-forge-for-custom-ai/</guid>
-      <pubDate>Thu, 04 Dec 2025 21:09:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
