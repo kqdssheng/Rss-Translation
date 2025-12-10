@@ -4,7 +4,57 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Wed, 10 Dec 2025 01:41:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 12:43:24 GMT</lastBuildDate>
+    <item>
+      <title>Spotify 将音乐视频扩展到美国和加拿大，以吸引优质订阅者</title>
+      <link>https://alternativeto.net/news/2025/12/spotify-expands-music-video-to-the-us-and-canada-for-premium-subscribers/</link>
+      <description><![CDATA[Spotify 正在为美国和加拿大的高级订阅者扩大音乐视频的测试版访问权限，距 为其他国家/地区的高级用户推出该功能。这标志着流媒体服务迈出了重要一步，该服务现在正在向更多观众提供官方音乐视频，包括工作室版本、现场表演和翻唱歌曲。
+在此测试阶段，最初的音乐视频目录仍然有限，但 Spotify 表示，随着未来几个月添加更多内容，该目录将迅速增长。这些地区的高级用户已经可以浏览 Ariana Grande、Olivia Dean、BABYMONSTER、Addison Rae、Tyler Childers、Natanael Cano 和 Carín León 等艺术家的视频。
+音乐视频加入了 Spotify 现有的工具套件，旨在帮助艺术家与粉丝建立更紧密的联系。虽然只有部分用户可能会立即看到该功能，但 Spotify 已确认美国和加拿大的所有高级订阅者都将在本月底之前使用该功能。
+查看有关 AlternativeTo 的文章更多信息Spotify | Spotify 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/spotify-expands-music-video-to-the-us-and-canada-for-premium-subscribers/</guid>
+      <pubDate>Wed, 10 Dec 2025 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linkwarden 推出官方 iOS 和 Android 应用程序，用于随时随地管理书签</title>
+      <link>https://alternativeto.net/news/2025/12/linkwarden-launches-official-ios-and-android-apps-for-managing-bookmarks-on-the-go/</link>
+      <description><![CDATA[Linkwarden 已发布适用于 iOS 和 Android 的官方移动应用程序，为用户提供随时随地管理书签的本机体验。该应用程序允许用户创建、组织和浏览已保存的链接，具有收藏、标记和直接针对移动设备优化的强大搜索功能等功能。除了基本的链接管理之外，用户还可以使用设备的共享选项直接保存链接。这样可以从浏览器或其他应用程序快速保存，而无需手动复制和粘贴链接。
+在这些工作流程改进之后，该应用程序通过缓存保存的数据提供了离线访问功能，允许在没有有效互联网连接的情况下阅读文章或博客文章。该移动应用程序专为灵活性而设计，支持 Linkwarden 云和自托管实例。用户可以指定他们选择的服务器并使用他们的凭据登录。兼容性涵盖广泛的设备，确保支持 iOS、iPadOS 以及 Android 手机和平板电脑。
+虽然这个初始版本建立了核心移动体验，但开发团队已表示计划在即将推出的更新中进一步增强和扩展功能。该应用现已在 Google Play 商店和 Apple App Store 上提供。
+查看有关 AlternativeTo 的文章更多信息Linkwarden | Linkwarden 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/12/linkwarden-launches-official-ios-and-android-apps-for-managing-bookmarks-on-the-go/</guid>
+      <pubDate>Wed, 10 Dec 2025 08:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trakt 采用新的“Lite”设计推出“继续观看”和“开始观看”智能列表</title>
+      <link>https://alternativeto.net/news/2025/12/trakt-rolls-out-continue-watching-and-start-watching-smart-lists-in-new-lite-design/</link>
+      <description><![CDATA[流行的电影和电视节目跟踪平台 Trakt.tv 已推出继续观看和开始观看，作为其最近引入了有争议的 Lite 重新设计，用两个更智能的活动驱动列表取代了旧的 Up Next 和传统的 Watchlist 行为。继续观看会收集未完成的剧集和部分观看的电影，并根据用户最近的活动对它们进行排序，建议系列中的下一集，并仅在通过连接的应用程序或媒体中心暂停播放时显示电影。
+界面顶部的新切换开关可让用户在媒体、节目或电影视图之间切换。媒体模式将两种格式混合到一个源中，优先考虑最近的参与度，而其他模式则按内容类型进行过滤。
+“开始观看”突出显示从用户的观看列表中提取的新发布的影片，按播出日期对节目进行排序，按影院上映日期对电影进行排序。媒体模式将这些内容合并到一个按时间顺序排列的流中，以便更容易发现新版本。原始观看列表仍然可以访问，但“开始观看”提供了刚刚可供观看的内容的集中主页视图。
+查看有关 AlternativeTo 的文章更多信息Trakt.tv | Trakt.tv 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/trakt-rolls-out-continue-watching-and-start-watching-smart-lists-in-new-lite-design/</guid>
+      <pubDate>Wed, 10 Dec 2025 05:52:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mistral AI 发布 Devstral 2 模型和 Vibe CLI 用于终端代码自动化</title>
+      <link>https://alternativeto.net/news/2025/12/mistral-ai-releases-devstral-2-model-and-vibe-cli-for-terminal-code-automation/</link>
+      <description><![CDATA[Mistral AI 推出了 Devstral 2，这是一个 1230 亿参数编码模型，旨在作为专有自主软件工程系统的开放权重替代方案。在早期 Mistral 3 版本的基础上，这一举措标志着 Mistral 打算挑战 Anthropic 等大型实验室。
+与专注于生成单个代码片段的工具不同，Devstral 2 通过支持跨整个代码库的自主探索、修改和执行来瞄准新兴的“氛围编码”市场。 Mistral 声称它可以将封闭竞争对手的成本降低近 85%；目前，Devstral 2 的访问通过 API 是免费的，后来转变为每百万个输入代币 0.40 美元，每百万个输出代币 2.00 美元。部署至少需要四个 H100 图形处理单元，但 Devstral Small 2 提供了适合在消费类硬件上使用的 240 亿个参数替代方案，价格较低，每百万代币分别为 0.10 美元和 0.30 美元。
+Mistral 还推出了 Vibe CLI，这是一种用于自然语言驱动的代码自动化的命令行工具，它进入了由 Cursor、Supabase 和 复制。它处理文件操作、代码搜索、版本控制和命令执行，同时通过文件结构和 Git 扫描构建项目感知上下文。 CLI 支持具有持久会话历史记录的多文件重构，可以作为独立实用程序运行，也可以作为 Zed Editor 内的扩展运行。
+查看有关 AlternativeTo 的文章有关 Mistral AI 的更多信息Studio | Mistral AI Studio 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/12/mistral-ai-releases-devstral-2-model-and-vibe-cli-for-terminal-code-automation/</guid>
+      <pubDate>Wed, 10 Dec 2025 04:38:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crunchyroll 将于 12 月 31 日结束其免费广告支持计划，全面转向付费级别</title>
+      <link>https://alternativeto.net/news/2025/12/crunchyroll-will-end-its-free-ad-supported-plan-on-december-31-moving-fully-to-paid-tiers/</link>
+      <description><![CDATA[据报道，Crunchyroll 计划于 2025 年 12 月 31 日停止其免费广告支持层 来自直接从平台。一旦截止日期到来，所有观众将需要从 2026 年 1 月 1 日开始付费订阅才能观看任何影片，从而取消了最后一种免费试用服务的方式。
+免费套餐用户已经看到这些通知。该层级目前仅提供一组轮流播放的带广告的旧目录节目，并且自 2022 年以来不再包括联播剧集。这一变化主要影响那些依赖剩余旧节目的人，因为多年来主要剧集都需要订阅。
+目前定价保持不变，Fan 7.99 美元、Mega Fan 11.99 美元、Ultimate Fan 15.99 美元，仍提供年度选项。每个计划都提供不同的功能，包括设备限制、离线观看以及商店或放映优惠，Crunchyroll 尚未表明免费套餐结束后费率是否会发生变化，尽管我们可能会看到一种情况与 Prime 类似，最便宜的套餐最终开始包含广告。
+查看有关 AlternativeTo 的文章更多信息Crunchyroll | Crunchyroll 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/crunchyroll-will-end-its-free-ad-supported-plan-on-december-31-moving-fully-to-paid-tiers/</guid>
+      <pubDate>Wed, 10 Dec 2025 04:08:33 GMT</pubDate>
+    </item>
     <item>
       <title>Firefox 146 添加了 Wayland 分数缩放、Windows 10 备份和欧盟天气小部件</title>
       <link>https://alternativeto.net/news/2025/12/firefox-146-adds-wayland-fractional-scaling-windows-10-backups-and-eu-weather-widget/</link>
@@ -94,59 +144,6 @@
 查看有关 AlternativeTo 的文章更多信息GoLand | GoLand 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/12/goland-2025-3-adds-live-resource-leak-detection-and-native-terraform-support/</guid>
       <pubDate>Tue, 09 Dec 2025 16:14:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>PeerTube v8 推出，提供重新设计的视频播放器、协作频道管理等</title>
-      <link>https://alternativeto.net/news/2025/12/peertube-v8-launches-with-redesigned-video-player-collaborative-channel-management-and-more/</link>
-      <description><![CDATA[PeerTube v8 标志着基于 ActivityPub 协议的去中心化联合视频托管平台的最新主要版本。此版本为用户和管理员提供了实质性的增强。
-一个中心亮点是引入了新的 Lucide 视频播放器主题。这个重新设计的界面具有更精细的图标、更少侵入性的视觉风格以及重新设计的音量按钮，默认情况下隐藏音量状态。默认情况下不再显示对等网络信息，但现在可以通过右键单击在“书呆子统计”菜单中访问。喜欢以前设计的用户仍然可以访问旧主题。
-基于 UI 进步，PeerTube v8 为频道带来了协作管理。平台成员现在可以被指定为编辑者，使他们能够发布内容、更新或删除视频、管理播放列表和评论、调整同步以及更新频道信息。
-工作流程和界面元素的改进补充了这些更改。可以通过外部运行器远程生成故事板，管理员现在可以手动重试失败的导入并在视频管理界面中检查导入状态。通知系统外观也进行了刷新，以紧密配合整体 PeerTube 主题。
-查看有关 AlternativeTo 的文章更多信息PeerTube | PeerTube 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/peertube-v8-launches-with-redesigned-video-player-collaborative-channel-management-and-more/</guid>
-      <pubDate>Tue, 09 Dec 2025 15:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于目的重叠，JetBrains 将于 2025 年 12 月 22 日停止其 Fleet IDE</title>
-      <link>https://alternativeto.net/news/2025/12/jetbrains-will-discontinue-its-fleet-ide-on-december-22-2025-due-to-overlapping-purposes/</link>
-      <description><![CDATA[JetBrains 正式宣布其下一代集成开发环境 (IDE) Fleet 将停产。 2025 年 12 月 22 日之后，Fleet 将不再提供下载。做出此决定后，JetBrains 解释说，维护两个重叠的 IDE 系列（包括 Fleet 和基于 IntelliJ 的产品线）会导致混乱并削弱其重点。
-进一步阐述，JetBrains 表示，在 Fleet 内部重建基于 IntelliJ 的 IDE 的功能并没有提供足够的附加值来证明维护独立产品的合理性。虽然 Fleet 不会继续作为一个单独的 IDE，但其许多软件组件以及用户体验和界面概念已被合并到其他 JetBrains IDE 中。
-根据此公告，JetBrains 将停止发布 Fleet 的任何进一步更新。分发也将结束，因此2025年12月22日之后用户将无法从Toolbox App或其他官方渠道下载Fleet。对于已经安装Fleet的用户，它将仍然可以使用；但是，随着时间的推移，依赖于服务器端服务的功能（包括 AI 助手）可能会变得不可用。
-查看有关 AlternativeTo 的文章更多关于 JetBrains Fleet | JetBrains 舰队替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/jetbrains-will-discontinue-its-fleet-ide-on-december-22-2025-due-to-overlapping-purposes/</guid>
-      <pubDate>Tue, 09 Dec 2025 13:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple Fitness+ 扩展到 28 个新市场，增加了人工智能配音的锻炼和韩国流行音乐流派</title>
-      <link>https://alternativeto.net/news/2025/12/apple-fitness-expands-to-28-new-markets-adds-ai-dubbed-workouts-and-k-pop-music-genre/</link>
-      <description><![CDATA[Apple Fitness+ 将于 12 月 15 日扩展到 28 个新市场，其中包括智利、香港、印度、荷兰、新加坡和台湾等国家/地区。日本将于明年初加入，这将是该服务自推出以来最广泛的推出。
-通过此次重大扩展，该平台将推出数百种使用西班牙语、德语和日语生成的声音配音的锻炼和冥想。每个配音课程都使用由 28 位 Fitness+ 教练之一的实际声音创建的合成声音。每周都会添加额外的配音剧集，以扩大非英语使用者的可访问性。
-除了这些更新之外，Fitness+ 还在其音乐选择中引入了韩国流行音乐流派。推出后，49个国家和地区的用户现在可以访问全套12种锻炼类型，包括力量、瑜伽、高强度间歇训练（HIIT）、普拉提、舞蹈、自行车、跆拳道和冥想。剧集范围从 5 到 45 分钟不等，可在 iPhone、iPad 和 Apple TV 上观看。
-查看有关 AlternativeTo 的文章有关 Apple 的更多信息Fitness+ | Apple Fitness+ 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/12/apple-fitness-expands-to-28-new-markets-adds-ai-dubbed-workouts-and-k-pop-music-genre/</guid>
-      <pubDate>Tue, 09 Dec 2025 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>n8n 2.0 增强安全性、加快自动化工作流程并简化生产更新</title>
-      <link>https://alternativeto.net/news/2025/12/n8n-2-0-enhances-security-speeds-up-automation-workflows-and-simplifies-production-updates/</link>
-      <description><![CDATA[n8n 2.0 引入了默认安全执行，使依赖此人工智能驱动的自动化平台的技术团队的工作流程更加安全。现在默认启用任务运行程序，因此所有代码节点执行都在访问受限的隔离环境中进行。这些更改会阻止代码节点的环境变量并禁用允许执行任意命令的节点，从而有助于防止常见的安全问题。
-除了这些安全性增强之外，性能也得到显着提升。新的 SQLite 池驱动程序在基准测试中提供高达十倍的速度。现在，在重负载下，基于文件系统的二进制数据处理更加可预测。此外，任务运行程序不仅可以提高安全性，还可以在执行过程中实现更好的资源管理。
-为了提供更可预测的行为，2.0 版本删除了旧选项和过时的服务节点。具有等待节点的工作流程现在可以正确返回数据，同时整体设计减少了边缘情况。遵循这些变化，n8n 引入了更安全的“发布/保存”工作流程管理模型。保存编辑内容不会影响实时工作流程。然后，用户可以选择何时将更改发布到生产中。
-此版本还带来了一个工具，可以识别升级前可能需要注意的工作流程和配置。用户界面更新包括微妙的工作流程编辑器画布改进和重新组织的侧边栏以方便导航，以及其他增强和修复。
-查看有关 AlternativeTo 的文章更多信息n8n | n8n 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/n8n-2-0-enhances-security-speeds-up-automation-workflows-and-simplifies-production-updates/</guid>
-      <pubDate>Tue, 09 Dec 2025 08:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>WebStorm 2025.3 带来了类型引擎、monorepo、AI 助手和远程调试的更新</title>
-      <link>https://alternativeto.net/news/2025/12/webstorm-2025-3-brings-updates-to-type-engine-monorepo-ai-assistants-and-remote-debugging/</link>
-      <description><![CDATA[JetBrains 发布了 WebStorm 2025.3，逐步推出服务驱动的类型引擎，旨在为开发人员提供更准确的 TypeScript 类型评估。此外，模块解析和 monorepo 工作流程也得到了显着改进，尤其是使用 pnpm 和 Nx 工作区的项目受益。
-基于这些技术升级，集成的 AI 助手现在在一次聊天中支持 Claude 代理和 Junie，从而扩大了交互式帮助和代码帮助。远程调试功能为 JavaScript 开发人员扩展，提供跨 适用于 Linux 的 Windows 子系统、Docker 和开发容器的支持。在远程会话期间本地启动浏览器的新选项简化了 Web 项目测试和检查。
-对于前端开发人员来说，现在支持 Webref 对齐的 CSS 语法，包括最新的规范特性和函数，例如 round()、rem() 和 mod()。统一的 JavaScript 运行时设置页面整合了 Node.js、Bun 和 Deno 的配置，使环境设置更加简单。此外，对 Vitest 4 的支持可确保使用最新的测试框架版本正确发现和执行测试。
-此版本还引入了一系列修复和生活质量增强，影响 TypeScript、Angular、Vue、Astro 和 Prettier，进一步完善用户体验。
-查看有关 AlternativeTo 的文章更多信息WebStorm | WebStorm 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/12/webstorm-2025-3-brings-updates-to-type-engine-monorepo-ai-assistants-and-remote-debugging/</guid>
-      <pubDate>Mon, 08 Dec 2025 15:15:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
