@@ -4,7 +4,118 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Tue, 09 Dec 2025 12:43:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 01:41:39 GMT</lastBuildDate>
+    <item>
+      <title>Firefox 146 添加了 Wayland 分数缩放、Windows 10 备份和欧盟天气小部件</title>
+      <link>https://alternativeto.net/news/2025/12/firefox-146-adds-wayland-fractional-scaling-windows-10-backups-and-eu-weather-widget/</link>
+      <description><![CDATA[Firefox 146 在 Windows 10 上引入每日自动本地备份，让用户可以通过可选的密码加密将密码、书签和其他浏览器数据直接保存在设备上。这些备份可以在新安装或现有安装上恢复，Mozilla 表示将随后支持 Linux 和 macOS。除此之外，macOS 还获得了一个专用 GPU 进程，该进程可以在图形组件出现故障时独立重新启动，从而减少由 WebGPU、WebGL 或 WebRender 导致的完全浏览器崩溃。
+默认情况下，该版本还在 Wayland 上提供完整的分数缩放支持。 Firefox 现在可以准确读取 GNOME 和 GTK 屏幕指标，纠正文本、图标或菜单在 125 或 150% 等小数比例下显得模糊或过大的问题。之前的不一致问题（包括超大的 AI 链接预览）已得到解决，但 Mozilla 指出一些罕见的边缘情况可能仍会出现。
+其他更改包括在欧盟和由赞助的 AccuWeather 数据提供支持的特定区域中逐步推出新的标签天气小部件、更广泛地访问 Firefox Labs、直接在搜索栏中显示更多即时答案、改进“设置”中的辅助功能控制以及常用的安全修复程序集。
+查看有关 AlternativeTo 的文章有关 Mozilla 的更多信息Firefox | Mozilla Firefox 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/firefox-146-adds-wayland-fractional-scaling-windows-10-backups-and-eu-weather-widget/</guid>
+      <pubDate>Tue, 09 Dec 2025 23:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>RustRover 2025.3 添加了 LLDB 评估器、AI 特征工具和弹出操作</title>
+      <link>https://alternativeto.net/news/2025/12/rustrover-2025-3-adds-lldb-evaluator-ai-trait-tools-and-popup-actions/</link>
+      <description><![CDATA[RustRover 2025.3 引入了新的 LLDB 表达式评估器，并添加了人工智能驱动的特征实现和想法比较工具。此更新还具有浮动弹出操作菜单，可加快编辑速度，并允许在下拉菜单中选择自定义货物配置文件。包括各种修复和性能改进。
+查看有关 AlternativeTo 的文章更多关于RustRover | RustRover 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/rustrover-2025-3-adds-lldb-evaluator-ai-trait-tools-and-popup-actions/</guid>
+      <pubDate>Tue, 09 Dec 2025 17:16:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>PyCharm 2025.3 统一版本并添加远程 Jupyter 支持</title>
+      <link>https://alternativeto.net/news/2025/12/pycharm-2025-3-unifies-editions-and-adds-remote-jupyter-support/</link>
+      <description><![CDATA[PyCharm 2025.3 推出统一版本，将社区用户迁移到单一产品，并提供持续免费访问和集成的 Jupyter 支持。此更新还为 Jupyter 笔记本提供完整的远程开发，并将 uv 设置为默认环境管理器（如果可用）。
+此外，Claude Agent 现在作为 JetBrains IDE 中的第三方 AI 代理获得本机支持。
+查看有关 AlternativeTo 的文章更多信息PyCharm | PyCharm 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/pycharm-2025-3-unifies-editions-and-adds-remote-jupyter-support/</guid>
+      <pubDate>Tue, 09 Dec 2025 17:10:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>PhpStorm 2025.3 首次推出原生 Claude AI、捆绑 Laravel 和 PHP 8.5 支持</title>
+      <link>https://alternativeto.net/news/2025/12/phpstorm-2025-3-debuts-native-claude-ai-bundled-laravel-and-php-8-5-support/</link>
+      <description><![CDATA[PhpStorm 2025.3 现在具有原生 Claude Agent 集成和增强的 AI 聊天支持，让用户可以直接在 IDE 中与多个 AI 助手交互。此版本捆绑了全功能的 Laravel 支持，无需外部插件。它还增加了与 PHP 8.5 的兼容性，支持主要的新语言功能和语法。
+其他改进包括 IDE 内人工智能信用跟踪和云数据库连接。
+查看有关 AlternativeTo 的文章更多信息PhpStorm | PhpStorm 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/phpstorm-2025-3-debuts-native-claude-ai-bundled-laravel-and-php-8-5-support/</guid>
+      <pubDate>Tue, 09 Dec 2025 17:04:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>IntelliJ IDEA 2025.3：统一发行版、Spring 调试器增强和 AI 集成</title>
+      <link>https://alternativeto.net/news/2025/12/intellij-idea-2025-3-unified-distribution-spring-debugger-enhancements-and-ai-integration/</link>
+      <description><![CDATA[IntelliJ IDEA 2025.3 引入了统一分发、命令完成以及对 Spring 调试器的改进。此更新增加了对 Spring Boot 4、Spring Framework 7、Java 25、Spring Data JDBC 和 Vitest 4 的支持。原生 AI 集成、透明 AI 配额和自带关键功能现已推出。
+此版本还包括稳定性和质量改进。
+查看有关 AlternativeTo 的文章有关 IntelliJ 的更多信息IDEA | IntelliJ IDEA 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/intellij-idea-2025-3-unified-distribution-spring-debugger-enhancements-and-ai-integration/</guid>
+      <pubDate>Tue, 09 Dec 2025 16:51:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Slack 通过 Anthropic 的 Claude Code 集成获得代理编码功能</title>
+      <link>https://alternativeto.net/news/2025/12/slack-gains-agentic-coding-capabilities-with-anthropic-s-claude-code-integration/</link>
+      <description><![CDATA[Anthropic 引入了用户将编码任务直接从 Slack 中委派给 Claude Code 的功能。此更新目前作为研究预览处于测试阶段，简化了将上下文从 Slack 讨论转移到编码会话的过程。
+基于现有的 Slack Claude 应用，用户现在可以在涉及工程工作（例如错误报告或功能请求）的任何 Slack 对话中标记 Claude。当提及 Claude 时，它​​会审核该消息，并在确定内容是编码任务时自动启动 Claude Code 会话。用户还可以选择手动指示 Claude 将请求作为编码任务来处理。
+为了提高工作流程效率，Claude 从相关 Slack 通道和线程收集最新消息，以填充编码会话的上下文。然后，它根据链接到 Web 上 Claude Code 的用户经过身份验证的存储库，选择适当的存储库来运行任务。当会话处于活动状态时，Claude 将状态更新发布回原始 Slack 线程。完成后，用户会收到完整编码会话的直接链接，包括打开拉取请求和查看已实施更改的选项。
+查看有关 AlternativeTo 的文章有关 Claude 的更多信息代码 | Claude 代码替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/12/slack-gains-agentic-coding-capabilities-with-anthropic-s-claude-code-integration/</guid>
+      <pubDate>Tue, 09 Dec 2025 16:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于 Android 的 Xbox 应用程序在测试版更新中提供完整的商店和愿望清单同步</title>
+      <link>https://alternativeto.net/news/2025/12/xbox-app-for-android-delivers-full-store-and-wishlist-sync-in-beta-update/</link>
+      <description><![CDATA[微软正在 Android 版 Xbox Beta 应用中测试功能齐全的 Xbox 商店，使用户能够直接浏览和购买游戏、DLC 和捆绑包。该更新还引入了愿望清单支持，允许用户从移动设备添加游戏并在设备之间同步他们的愿望清单。
+这些功能目前仅限于 Android 上的 Xbox Beta 应用程序，但预计会有更广泛的发布。
+查看有关 AlternativeTo 的文章有关 Xbox 的更多信息应用 | Xbox 应用替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/xbox-app-for-android-delivers-full-store-and-wishlist-sync-in-beta-update/</guid>
+      <pubDate>Tue, 09 Dec 2025 16:41:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>RubyMine 2025.3 推出 AI 聊天、更智能的 Rails 服务器和更快的项目加载</title>
+      <link>https://alternativeto.net/news/2025/12/rubymine-2025-3-launches-ai-chat-smarter-rails-server-and-faster-project-load/</link>
+      <description><![CDATA[RubyMine 2025.3 引入了多代理 AI 聊天功能，集成了 Junie 和 Claude Agent 以提供高级编辑器内帮助。该版本还首次推出了 Rails 感知 MCP 服务器，为 Rails 项目提供更智能的 AI 辅助代码探索。
+开发人员将受益于更快的多模块项目启动和改进的 gem 解析精度，以及增强的合格常量代码完成功能。
+查看有关 AlternativeTo 的文章更多信息RubyMine | RubyMine 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/rubymine-2025-3-launches-ai-chat-smarter-rails-server-and-faster-project-load/</guid>
+      <pubDate>Tue, 09 Dec 2025 16:28:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>CLion 2025.3 使 Nova 引擎成为默认引擎，添加 Constexpr 调试器</title>
+      <link>https://alternativeto.net/news/2025/12/clion-2025-3-makes-nova-engine-default-adds-constexpr-debugger/</link>
+      <description><![CDATA[CLion 2025.3 是一项重大更新，将 CLion Nova 指定为默认 C 和 C++ 语言引擎，与 CLion Classic 相比，显着提高了响应能力并减少了内存消耗。此版本引入了 Constexpr 调试器，提供了对该版本特有的编译时评估的详细见解。对调试适配器协议的扩展支持进一步拓宽了调试集成。
+查看有关 AlternativeTo 的文章更多信息CLion | CLion 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/clion-2025-3-makes-nova-engine-default-adds-constexpr-debugger/</guid>
+      <pubDate>Tue, 09 Dec 2025 16:20:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>GoLand 2025.3 添加了实时资源泄漏检测和本机 Terraform 支持</title>
+      <link>https://alternativeto.net/news/2025/12/goland-2025-3-adds-live-resource-leak-detection-and-native-terraform-support/</link>
+      <description><![CDATA[GoLand 2025.3 引入了动态资源泄漏检测，当文件或连接可能保持打开状态时主动警告用户。该更新还带来了捆绑和默认启用的 Terraform 支持，为基础设施管理提供集成语法突出显示、代码完成和即时运行配置。
+此外，新的多代理体验增加了内置的 Claude Agent 支持以及 Junie，以实现灵活的人工智能辅助工作流程。
+查看有关 AlternativeTo 的文章更多信息GoLand | GoLand 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/goland-2025-3-adds-live-resource-leak-detection-and-native-terraform-support/</guid>
+      <pubDate>Tue, 09 Dec 2025 16:14:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PeerTube v8 推出，提供重新设计的视频播放器、协作频道管理等</title>
+      <link>https://alternativeto.net/news/2025/12/peertube-v8-launches-with-redesigned-video-player-collaborative-channel-management-and-more/</link>
+      <description><![CDATA[PeerTube v8 标志着基于 ActivityPub 协议的去中心化联合视频托管平台的最新主要版本。此版本为用户和管理员提供了实质性的增强。
+一个中心亮点是引入了新的 Lucide 视频播放器主题。这个重新设计的界面具有更精细的图标、更少侵入性的视觉风格以及重新设计的音量按钮，默认情况下隐藏音量状态。默认情况下不再显示对等网络信息，但现在可以通过右键单击在“书呆子统计”菜单中访问。喜欢以前设计的用户仍然可以访问旧主题。
+基于 UI 进步，PeerTube v8 为频道带来了协作管理。平台成员现在可以被指定为编辑者，使他们能够发布内容、更新或删除视频、管理播放列表和评论、调整同步以及更新频道信息。
+工作流程和界面元素的改进补充了这些更改。可以通过外部运行器远程生成故事板，管理员现在可以手动重试失败的导入并在视频管理界面中检查导入状态。通知系统外观也进行了刷新，以紧密配合整体 PeerTube 主题。
+查看有关 AlternativeTo 的文章更多信息PeerTube | PeerTube 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/peertube-v8-launches-with-redesigned-video-player-collaborative-channel-management-and-more/</guid>
+      <pubDate>Tue, 09 Dec 2025 15:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于目的重叠，JetBrains 将于 2025 年 12 月 22 日停止其 Fleet IDE</title>
+      <link>https://alternativeto.net/news/2025/12/jetbrains-will-discontinue-its-fleet-ide-on-december-22-2025-due-to-overlapping-purposes/</link>
+      <description><![CDATA[JetBrains 正式宣布其下一代集成开发环境 (IDE) Fleet 将停产。 2025 年 12 月 22 日之后，Fleet 将不再提供下载。做出此决定后，JetBrains 解释说，维护两个重叠的 IDE 系列（包括 Fleet 和基于 IntelliJ 的产品线）会导致混乱并削弱其重点。
+进一步阐述，JetBrains 表示，在 Fleet 内部重建基于 IntelliJ 的 IDE 的功能并没有提供足够的附加值来证明维护独立产品的合理性。虽然 Fleet 不会继续作为一个单独的 IDE，但其许多软件组件以及用户体验和界面概念已被合并到其他 JetBrains IDE 中。
+根据此公告，JetBrains 将停止发布 Fleet 的任何进一步更新。分发也将结束，因此2025年12月22日之后用户将无法从Toolbox App或其他官方渠道下载Fleet。对于已经安装Fleet的用户，它将仍然可以使用；但是，随着时间的推移，依赖于服务器端服务的功能（包括 AI 助手）可能会变得不可用。
+查看有关 AlternativeTo 的文章更多关于 JetBrains Fleet | JetBrains 舰队替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/jetbrains-will-discontinue-its-fleet-ide-on-december-22-2025-due-to-overlapping-purposes/</guid>
+      <pubDate>Tue, 09 Dec 2025 13:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>Apple Fitness+ 扩展到 28 个新市场，增加了人工智能配音的锻炼和韩国流行音乐流派</title>
       <link>https://alternativeto.net/news/2025/12/apple-fitness-expands-to-28-new-markets-adds-ai-dubbed-workouts-and-k-pop-music-genre/</link>
@@ -36,133 +147,6 @@
 查看有关 AlternativeTo 的文章更多信息WebStorm | WebStorm 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/12/webstorm-2025-3-brings-updates-to-type-engine-monorepo-ai-assistants-and-remote-debugging/</guid>
       <pubDate>Mon, 08 Dec 2025 15:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Navidrome 0.59 添加了选择性文件夹扫描、乱码历史记录、两个新主题等</title>
-      <link>https://alternativeto.net/news/2025/12/navidrome-0-59-adds-selective-folder-scanning-scrobble-history-and-new-themes-and-more/</link>
-      <description><![CDATA[Navidrome 0.59 为自托管音乐流提供了关键升级，具有选择性文件夹扫描和文件系统观察器的改进。这些变化为新用户和有经验的用户提供了更可靠、更高效的音乐库管理。
-继核心扫描器更新之后，此版本引入了本机记录和收听历史记录跟踪。 Navidrome 现在可以记录聆听习惯，这些习惯将在未来的功能中得到利用，例如个性化聆听摘要和高级可视化。
-对于管理员来说，新的命令行界面命令简化了用户帐户管理的过程。这些工具可以从终端直接处理用户帐户，从而简化了自助托管者的维护任务。
-在用户体验增强的基础上，两个额外的视觉主题，SquiddiesGlass 和AMusic，扩展了自定义选项。 AMusic 主题从 Apple Music 中汲取灵感，为感兴趣的用户提供熟悉的视觉风格。
-其他改进包括一般错误修复、扩展翻译支持以及针对高级用例的新配置选项。这些更新共同有助于更加稳定和灵活的操作。
-查看有关 AlternativeTo 的文章更多信息Navidrome | Navidrome 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/12/navidrome-0-59-adds-selective-folder-scanning-scrobble-history-and-new-themes-and-more/</guid>
-      <pubDate>Mon, 08 Dec 2025 13:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>PeaZip 10.8 扩展了存档预览功能、增强了 RAR 和 TAR 存档处理等等</title>
-      <link>https://alternativeto.net/news/2025/12/peazip-10-8-expands-archive-preview-features-boosts-rar-and-tar-archive-handling-and-more/</link>
-      <description><![CDATA[PeaZip 10.8 作为跨平台文件管理器和存档实用程序的最新版本发布。此更新对存档预览功能进行了重大修改，使用户能够预览更广泛的存档格式中的文件。现在可以使用外部文件工具或通过集成图像查看器完成预览，从而拓宽了用户与存档内容交互的方式。
-继这些增强功能之后，PeaZip 10.8 还在打开档案时引入了标头“magic bytes”分析。此功能从每个档案中收集技术信息，并在应用程序的标题栏中突出显示这些详细信息以及标准档案统计数据。这些新增功能简化了诊断并帮助用户一目了然地确认文件类型。
-该版本还包括处理 RAR 和 TAR 存档的改进，旨在提供更好的性能和兼容性。为了补充这些增强功能，PeaZip 10.8 将其后端组件更新为 Pea 1.28 和 Brotli 1.2.0，这可能会提高速度和压缩文件支持。
-对于开发者来说，源代码现在以 Lazarus 4.x 为目标进行编译，同时保留与 Lazarus 3.x 和 2.x 的兼容性，支持跨不同构建环境的流畅体验。
-查看有关 AlternativeTo 的文章更多信息PeaZip | PeaZip 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/peazip-10-8-expands-archive-preview-features-boosts-rar-and-tar-archive-handling-and-more/</guid>
-      <pubDate>Mon, 08 Dec 2025 12:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>React 和 Next.js 中的严重 RSC 漏洞使服务器暴露于远程代码执行</title>
-      <link>https://alternativeto.net/news/2025/12/critical-rsc-vulnerability-in-react-and-next-js-exposes-servers-to-remote-code-execution/</link>
-      <description><![CDATA[12 月 3 日，React 基金会发布了关于 React Server Components (RSC) 中的一个严重漏洞的紧急通报，该漏洞被分类为 CVE-2025-55182，并指定了最高 CVSS 严重性评分10. 该漏洞由安全研究员 Lachlan Davidson 于 11 月 29 日报告，影响三个核心包的版本 19.0、19.1.0、19.1.1 和 19.2.0：react-server-dom-webpack、react-server-dom-parcel 和 react-server-dom-turbopack。利用这个被称为“React2Shell”的漏洞，远程攻击者可以在服务器上执行任意命令。 Node.js 中最初的一个单独问题 (CVE-2025-66478) 后来被 NIST 驳回，因为它仅仅是相同底层机制的重复。
-调查该漏洞的公司 Wiz强调了推动其关键 CVSS 评级的两个因素：该漏洞适用于所有配置，并且只需要特制的 HTTP 请求即可触发。根本原因是 RSC 处理传入请求的方式中存在逻辑反序列化错误。未经身份验证的攻击者可以将恶意 HTTP 负载发送到任何服务器功能端点；在 React 的反序列化阶段，这会导致后端任意执行 JavaScript。 React 基金会保留了更多技术细节，以等待更广泛的补丁分发。
-影响扩展到任何基于 RSC 构建的库，包括 Vite RSC、Parcel RSC、React Router RSC 预览版、RedwoodJS 和 Waku，因此开发人员必须监控更新。安全公司 Endor Labs 警告说，默认框架配置可立即被利用，强调了三个受影响组件升级到修补版本（19.0.1、19.1.2、19.2.1）的紧迫性。在部署这些补丁之前，强烈建议应用 Web 应用程序防火墙 (WAF) 规则。
-主要云提供商已经做出了回应。 Cloudflare 于 12 月 3 日宣布更新其 WAF 以保护客户，而 Google Cloud Armor、Amazon Web Services (AWS) 和其他公司发布了类似的临时防火墙缓解措施。各方均强调，这些防御性规则只是临时措施，及时更新存在漏洞的 React 包仍然是最终的解决方案。
-查看有关 AlternativeTo 的文章更多信息React | React 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/12/critical-rsc-vulnerability-in-react-and-next-js-exposes-servers-to-remote-code-execution/</guid>
-      <pubDate>Mon, 08 Dec 2025 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>电子书管理器 Calibre 8.16 添加了更多 AI 功能、LM Studio 集成和错误修复</title>
-      <link>https://alternativeto.net/news/2025/12/ebook-manager-calibre-8-16-adds-more-ai-features-lm-studio-integration-and-bug-fixes/</link>
-      <description><![CDATA[Calibre 8.16 现已作为这款免费、开源、跨平台电子书管理软件的最新版本推出。对于寻求高级人工智能功能的用户来说，此版本标志着一次重大更新。头条新闻的新功能允许用户直接与人工智能互动，了解 Calibre 图书馆中的书籍。通过右键单击“查看”按钮，读者可以选择“与 AI 讨论所选书籍”来提出问题并获得对任何书名的更深入了解。
-基于这些人工智能增强功能，用户现在可以通过右键单击一本书并使用“类似书籍”菜单来请求具有相似标题的书籍推荐。此工作流程可让读者探索由人工智能提供支持的建议，从而简化选择下一个标题的过程。此次更新还带来了针对本地处理的技术改进：Calibre 8.16 添加了 LM Studio 的后端，支持使用 Llama、Gemma、DeepSeek 和 Qwen 本地使用，这可能会吸引喜欢其他 AI 模型的用户。
-除了这些功能更新之外，该版本还解决了九个报告的错误。这些修复共同提高了软件的整体稳定性和整个用户社区的可用性。
-查看有关 AlternativeTo 的文章更多信息calibre | calibre 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/ebook-manager-calibre-8-16-adds-more-ai-features-lm-studio-integration-and-bug-fixes/</guid>
-      <pubDate>Mon, 08 Dec 2025 08:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Substack 为视频创作者添加了桌面直播并升级了剪辑</title>
-      <link>https://alternativeto.net/news/2025/12/substack-adds-desktop-livestreaming-and-upgrades-clips-for-video-creators/</link>
-      <description><![CDATA[Substack 现在允许创作者通过“创建”菜单从桌面主持直播，将熟悉的移动流程与标题输入、观众选择以及用于设置和共同主持协调的预览室相匹配。桌面主机可以与移动联合主机进行直播，但从桌面安排直播仍待处理。
-该平台指出，Clips 仍然是 Substack 视频工具的核心部分，许多主持人在上线后立即分享或下载剪辑。自动发布到 YouTube 和 LinkedIn 也有助于扩大他们在外部平台上的影响力。
-现在，剪辑会在直播结束后立即出现，并通过动态编辑突出显示发言人、消除暂停并引入微妙的缩放。更新的标题卡改进了展示方式，一键共享支持 Instagram、TikTok、X、YouTube Shorts 和 LinkedIn。 Substack 邀请创作者尝试新工具并标记 @SubstackTeam 以获得潜在的功能放置。
-查看有关 AlternativeTo 的文章有关 Substack 的更多信息 | 子堆栈替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/12/substack-adds-desktop-livestreaming-and-upgrades-clips-for-video-creators/</guid>
-      <pubDate>Sun, 07 Dec 2025 00:28:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Unity 6.3 LTS 附带混合 2D/3D 场景、Box2D v3 和跨平台工具包</title>
-      <link>https://alternativeto.net/news/2025/12/unity-6-3-lts-arrives-with-hybrid-2d-3d-scenes-box2d-v3-and-cross-platform-toolkit/</link>
-      <description><![CDATA[Unity 6.3 作为长期支持版本发布，具有两年的更新，现在是新项目的建议基准。它通过 2D 通用渲染管道在 2D 场景内启用 3D 渲染，从而增强了混合开发，从而允许网格渲染器和蒙皮网格渲染器元素与精灵一起工作。 2D 工具集还获得了改进的渲染、物理和资产分析功能。
-此更新将 Box2D v3 与新的低级 2D 物理应用程序编程接口集成，可提高编辑器和运行时的多线程性能、确定性和调试。新的平台工具包将常见的跨平台任务（例如帐户处理、保存数据和成就）统一到一个应用程序编程接口下，从而简化了多平台开发。
-Shader Graph 现在支持自定义光照、地形着色器、最多八个纹理坐标集和模板浏览器。着色器构建设置允许开发人员排除或转换着色器关键字而无需额外编码，从而有助于减少编译时间。其他改进包括用于发现低效精灵打包的 Sprite Atlas 分析器、可自定义工具栏、更好的渲染和物理工作流程诊断以及扩展的 Android XR 功能，例如面部跟踪、对象可跟踪和动态分辨率。
-查看有关 AlternativeTo 的文章更多信息Unity | Unity 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/12/unity-6-3-lts-arrives-with-hybrid-2d-3d-scenes-box2d-v3-and-cross-platform-toolkit/</guid>
-      <pubDate>Sun, 07 Dec 2025 00:21:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Netflix将以827亿美元收购华纳兄弟及其流媒体平台HBO Max</title>
-      <link>https://alternativeto.net/news/2025/12/netflix-to-acquire-warner-bros-and-its-streaming-platform-hbo-max-for-82-7-billion-dollars/</link>
-      <description><![CDATA[Netflix 最近宣布计划以约 827 亿美元收购华纳兄弟，该协议取决于监管机构和股东的批准。此次收购只有在华纳兄弟完成之前宣布的有线电视和探索业务分拆后才会进行，预计该分拆将于 2026 年第三季度完成。
-这笔交易不仅包括华纳兄弟拥有的《哈利·波特》或《指环王》等 IP，还包括其整个视频游戏部门及其流媒体平台 HBO Max。监管审查可能会成为主要障碍，因为考虑到 Netflix 作为全球领先的流媒体平台的地位以及 HBO Max 作为强有力的竞争对手，一些国家的当局可能会担心 Netflix 将获得过度的市场力量而对此次收购提出质疑。如果单一关键监管机构阻止该交易，则该交易将无法继续进行。与此同时，派拉蒙和 Skydance 对 Netflix 的出价提出异议，称他们自己的出价更高，并且涵盖了整个公司。派拉蒙认为，其提议将面临更少的监管问题，并正在考虑在潜在的敌意收购中直接向华纳兄弟股东提出上诉，从而增加了这一过程的进一步不确定性。
-Netflix 表示打算维持华纳兄弟的院线发行和日常运营，而不立即做出改变。 HBO Max 作为一项独立服务的长期未来仍不确定，因为 Netflix 预计会将华纳兄弟的大部分目录（包括 HBO 和 DC Studios）合并到自己的库中。目前，用户被告知一切都不会改变，HBO Max 将保持在线状态，直到所有批准完成。就我个人而言，我不会屏住呼吸，认为在那之后一切都会保持不变，特别是考虑到 价格稳步上涨以及 Netflix 近年来经历的普遍垃圾化。
-查看有关 AlternativeTo 的文章更多信息Netflix | Netflix 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/netflix-to-acquire-warner-bros-and-its-streaming-platform-hbo-max-for-82-7-billion-dollars/</guid>
-      <pubDate>Sun, 07 Dec 2025 00:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Drupal 推出 Canvas，这是一个可视化构建器，可实现更轻松、更灵活的网站设计</title>
-      <link>https://alternativeto.net/news/2025/12/drupal-introduces-canvas-a-visual-builder-for-easier-and-more-flexible-website-design/</link>
-      <description><![CDATA[Drupal 推出了 Canvas，这是一种可视化构建体验，旨在帮助网站构建者和内容团队更轻松地创建网站，同时又不失去 Drupal 定义的灵活性。借助 Canvas，更多用户可以直观地构建和调整网站布局，减少对深厚开发专业知识的依赖，同时为开发人员保留高级自定义选项。
-在此更新的基础上，Drupal Canvas 是社区驱动的努力的一部分，旨在实现网站开发方式的现代化。该界面使用户能够使用拖放工具来排列和调整页面组件，支持非开发人员更独立的工作，并在需要时释放技术人员进行更深入的定制。
-从技术上讲，Canvas 使用由 React 驱动的前端，直接与 Drupal 的核心 API 集成。这种方法支持更加简化和交互式的网站构建工作流程，将熟悉的 Drupal 灵活性与最新技术相结合。
-在其核心功能中，Canvas 支持基于组件的可视页面构建、浏览器内拖放编辑器、用于创建新构建块的代码组件以及多站点页面预览。该平台还引入了多步撤消功能，允许网站建设者在发布之前试验和完善设计。这些新增内容标志着在使 Drupal 对于多元化的开发者和内容创建者社区而言更易于访问和更高效方面迈出了重要一步。
-查看有关 AlternativeTo 的文章更多关于Drupal | Drupal 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/drupal-introduces-canvas-a-visual-builder-for-easier-and-more-flexible-website-design/</guid>
-      <pubDate>Fri, 05 Dec 2025 20:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>SoundSource 6 带来分组输出、AirPlay 支持、快速配置和刷新的 UI</title>
-      <link>https://alternativeto.net/news/2025/12/soundsource-6-brings-grouped-outputs-airplay-support-quick-configs-and-refreshed-ui/</link>
-      <description><![CDATA[SoundSource 6 已发布，带来了高级音频设置、按应用程序控制以及将效果应用到 Mac 上运行的任何音频的能力。此版本为管理系统上声音的发送方式和位置提供了更大的灵活性。
-新的音频路由功能可让您使用分组的输出设备同时通过多个输出播放音频。此外，SoundSource 6 还允许用户将音频发送到 HomePods 和 Sonos 扬声器等设备，从而扩展了对 AirPlay 的支持。您可以将声音从各个应用传送到一个或多个 AirPlay 目标，或者将所有系统音频同步传输到多个 AirPlay 设备。
-除了这些路由增强功能之外，新的音频设备窗口还提供对连接的音频硬件的高级控制，使管理复杂的设置变得更加容易。此外，快速配置使您能够保存并立即加载自定义音频配置，包括设备选择、效果链和音量首选项，对于在环境或设置之间快速更改特别有用。
-在这些核心功能的基础上，SoundSource 6 进行了进一步的改进，并采用了重新设计的用户界面，该界面更易于使用，并且更适合最终用户定制。
-查看有关 AlternativeTo 的文章更多信息SoundSource | SoundSource 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/soundsource-6-brings-grouped-outputs-airplay-support-quick-configs-and-refreshed-ui/</guid>
-      <pubDate>Fri, 05 Dec 2025 16:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Instapaper 推出高品质 AI 语音、重新设计的 TTS 播放器和 Android 应用程序 v6.4</title>
-      <link>https://alternativeto.net/news/2025/12/instapaper-launches-high-quality-ai-voices-redesigned-tts-player-and-android-app-v6-4/</link>
-      <description><![CDATA[Instapaper 推出了AI Voices，推出了跨 17 种语言和口音的高品质流式文本转语音服务。其中包括英语（美国和英国）、中文、法语、意大利语、日语、印地语、西班牙语和葡萄牙语。与早期的系统语音相比，此更新提供了更高的清晰度和更自然的播放效果，并且适用于使用 Instapaper iOS 9.4 的高级订阅者（即将推出 Android 支持）。
-继语音升级之后，Instapaper 还重新设计了文本转语音体验。用户现在可以通过应用程序中任意位置的浮动播放器控制旁白。该播放器允许听众扩展界面、选择不同的人工智能语音、导航播放列表或管理阅读列表，而无需中断播放。
-此外，Instapaper for Android 6.4 版本已发布，改进了搜索结果，支持编辑文章、文件夹和标签，并引入了公共文件夹访问。还包括其他几项稳定性改进和错误修复。
-查看有关 AlternativeTo 的文章更多信息Instapaper | Instapaper 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/instapaper-launches-high-quality-ai-voices-redesigned-tts-player-and-android-app-v6-4/</guid>
-      <pubDate>Fri, 05 Dec 2025 13:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Alpine Linux 3.23 带来 Linux 6.18 内核、KDE ​​Plasma 6.5、GNOME 49 和 APK 工具 3.0</title>
-      <link>https://alternativeto.net/news/2025/12/alpine-linux-3-23-brings-linux-6-18-kernel-kde-plasma-6-5-gnome-49-and-apk-tools-3-0/</link>
-      <description><![CDATA[Alpine Linux 3.23 已发布，标志着这个注重安全的轻量级 Linux 发行版的最新更新。此版本引入了 Linux 6.18 内核，它为所有用户带来了现代驱动程序支持和上游改进。包括更新的桌面环境：KDE Plasma 6.5.3、GNOME 49，LXQt 2.3.0，和Sway 1.11 拓宽了图形界面选项。
-除了桌面增强之外，Alpine 3.23 还刷新了一系列核心开发和运行时包。其中包括 GCC 15、LLVM 21、Node.js 24.11 LTS、Rust 1.91、Valkey 9.0、ZFS 2.4.0-rc4、Crystal 1.18、Docker 29、.NET 10.0，Go 1.25、ISC Kea 3.0、OpenJDK 25、Perl 5.42、PHP 8.5，PostgreSQL 18，和 Qt 6.10。
-在这些软件升级之后，APK 包管理器已升级至版本 3。现有用户可以从 v2 无缝升级，但依赖 libapk 库的管理员应检查是否存在可能的重大更改。对于内核管理，linux-stable 现在取代了 linux-edge，镜像了 linux-lts 配置，但跟踪稳定版本而不是长期版本。运行 linux-edge 的系统将接收 linux-stable 作为自动替换。
-查看有关 AlternativeTo 的文章有关 Alpine Linux 的更多信息 | Alpine Linux 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/12/alpine-linux-3-23-brings-linux-6-18-kernel-kde-plasma-6-5-gnome-49-and-apk-tools-3-0/</guid>
-      <pubDate>Fri, 05 Dec 2025 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Home Assistant 2025.12 带来了实验室、特定用途触发器、改进的仪表板等</title>
-      <link>https://alternativeto.net/news/2025/12/home-assistant-2025-12-brings-labs-purpose-specific-triggers-improved-dashboards-and-more/</link>
-      <description><![CDATA[Home Assistant 2025.12 现已推出，为这个开源家庭自动化平台提供了重要的增强功能。最值得注意的新增功能之一是家庭助理实验室，这是一项新功能，可让用户尝试完全开发的预览。这些功能已经过测试，但可能会根据反馈进行更改或删除，第一个预览版“冬季模式”将添加界面降雪效果。
-此版本中的自动化功能得到了大幅升级。现在，触发器和条件为核心领域提供了更直观、专门构建的选项，例如灯光、气候和风扇。现在，在自动化中定位设备变得更加容易：用户可以针对所有客厅灯等组触发自动化，而无需单独列出每个设备。
-在这些工作流程改进之后，出现了多项仪表板升级。用户能够为所有用户设置系统范围的默认仪表板、重新排序区域和楼层、访问新的侧边栏以及在仪表板编辑器中使用撤消或重做。能源仪表板还获得了实时电力监控和对下游水跟踪的新支持。
-对于那些专注于集成的用户，此版本引入了 12 个新选项，包括 Backblaze B2、Google Weather 和 Google 天气。空气质量和Philips Hue BLE。它还添加了两个虚拟集成并对现有集成进行了改进。
-查看有关 AlternativeTo 的文章更多信息家庭助理 | 家庭助理替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/12/home-assistant-2025-12-brings-labs-purpose-specific-triggers-improved-dashboards-and-more/</guid>
-      <pubDate>Fri, 05 Dec 2025 07:15:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
