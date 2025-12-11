@@ -4,7 +4,92 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Thu, 11 Dec 2025 01:42:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 12:46:04 GMT</lastBuildDate>
+    <item>
+      <title>Brave 通过选择加入功能标志、隔离配置文件和其他保护措施测试 AI 浏览模式</title>
+      <link>https://alternativeto.net/news/2025/12/brave-tests-ai-browsing-mode-with-opt-in-feature-flag-isolated-profile-and-other-safeguards/</link>
+      <description><![CDATA[Brave 已在 Brave Nightly 开发频道中推出了实验性 AI 浏览功能。此版本面向早期采用者，并邀请用户提供反馈以形成未来的改进。虽然 Brave 的长期目标是将浏览器发展成为能够自动执行网络任务并提高用户工作效率的智能助手，但该公司强调在部署代理人工智能时需要谨慎。
+作为这种方法的一部分，Brave 警告说，让人工智能代理控制浏览会带来数据泄露、意外操作和间接提示注入攻击等风险。这些挑战影响着所有人工智能驱动的浏览器，促使 Brave 强调谨慎的开发和安全社区的参与。
+为了降低风险，Brave 限制了选择加入测试人员的初始访问权限。人工智能浏览在单独的隔离配置文件中运行，仅通过用户手动调用激活，并包括各种使用限制以及基于推理的安全防御。这些保护措施旨在限制代理行为的潜在影响，同时 Brave 继续收集反馈并完善系统。
+查看有关 AlternativeTo 的文章更多关于勇敢 | 勇敢替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/brave-tests-ai-browsing-mode-with-opt-in-feature-flag-isolated-profile-and-other-safeguards/</guid>
+      <pubDate>Thu, 11 Dec 2025 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Opera AI 面向 Opera One、GX 和 Air 推出，具有更快的 AI 和高级功能</title>
+      <link>https://alternativeto.net/news/2025/12/opera-ai-launches-for-opera-one-gx-and-air-with-faster-ai-and-advanced-features/</link>
+      <description><![CDATA[Opera AI 现已在 Opera One、Opera GX 和 Opera Air 上提供，为用户提供重建的无帐户浏览器 AI。更新后的侧面板界面为网页和选项卡组提供了 20% 更快的响应速度和上下文感知能力。用户可以获得文件和 YouTube 视频分析、语音输入和输出、壁纸生成和快照功能等新工具。
+精细的隐私控制允许用户启用或禁用 Opera AI 功能并管理对 Web 内容的访问。
+查看有关 AlternativeTo 的文章更多信息Opera | Opera 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/opera-ai-launches-for-opera-one-gx-and-air-with-faster-ai-and-advanced-features/</guid>
+      <pubDate>Thu, 11 Dec 2025 09:56:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>CoMaps 添加了更新的 OpenStreetMap 数据和 Material 3 主题</title>
+      <link>https://alternativeto.net/news/2025/12/comaps-adds-updated-openstreetmap-data-and-material-3-themes/</link>
+      <description><![CDATA[CoMaps 现在使用截至 12 月 9 日的 OpenStreetMap 数据，确保导航反映最新的可用地图。该版本提高了搜索排名，语音公告现在支持立陶宛语和拉脱维亚语，扩大了波罗的海用户的可访问性。
+Android 应用引入了 Material 3 主题并更新了界面组件，而 iOS 则改进了语音指示。
+查看有关 AlternativeTo 的文章有关 CoMaps 的更多信息 | CoMaps 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/12/comaps-adds-updated-openstreetmap-data-and-material-3-themes/</guid>
+      <pubDate>Thu, 11 Dec 2025 09:51:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Visual Studio Code 1.107 带来了代理总部、终端建议、组织自定义代理等</title>
+      <link>https://alternativeto.net/news/2025/12/visual-studio-code-1-107-brings-agent-hq-terminal-suggest-org-custom-agents-and-more/</link>
+      <description><![CDATA[Microsoft 发布了 Visual Studio Code 版本 1.107，为开发人员跨编码工作流程引入了多项关键增强功能。此更新带来了 Agent HQ，它允许用户将 GitHub Copilot 与其他编码代理结合起来，并行完成多个任务。开发人员现在可以根据项目需求利用后台、云或本地代理，从而提高整体生产力。
+基于这些工作流程升级，后台代理现在可以在自己的隔离工作区中运行，并由 Visual Studio Code 直接管理。对于组织来说，在团队级别共享自定义代理的能力可以改善协作并使代理驱动的自动化更容易实现。
+经过这些 AI 改进，现在为所有稳定用户启用了终端建议。此功能在键入 shell 命令时提供内联补全和上下文提示。此外，相关参数值现在分组在一起，使得选项标志及其参数在命令输入期间更容易导航。
+Visual Studio Code 1.107 引入了对最新 MCP 规范的支持，添加了用于 Microsoft 身份验证的跨平台本机代理，并更新了兼容性以包含 TypeScript 7.0 预览版。
+查看有关 AlternativeTo 的文章有关 Visual Studio 的更多信息代码 | Visual Studio 代码替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/12/visual-studio-code-1-107-brings-agent-hq-terminal-suggest-org-custom-agents-and-more/</guid>
+      <pubDate>Thu, 11 Dec 2025 08:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Proton Pass CLI 正式推出，以实现安全的自动化工作流程</title>
+      <link>https://alternativeto.net/news/2025/12/proton-pass-cli-officially-launches-for-secure-automation-workflows/</link>
+      <description><![CDATA[Proton Pass CLI 已退出测试版，现已正式推出。新工具减少了上下文切换，允许用户简化工作流程，并跨本地开发、服务器和 CI/CD 管道自动执行安全密码管理。
+查看有关 AlternativeTo 的文章有关 Proton Pass 的更多信息 | 质子通行证替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/12/proton-pass-cli-officially-launches-for-secure-automation-workflows/</guid>
+      <pubDate>Thu, 11 Dec 2025 08:48:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Code 更新异步子代理、使用统计信息和会话重命名</title>
+      <link>https://alternativeto.net/news/2025/12/claude-code-updates-async-subagents-usage-stats-and-session-renaming/</link>
+      <description><![CDATA[Claude Code CLI 引入了异步子代理，可在主代理变为非活动状态后启用扩展任务的后台处理。用户现在可以使用新的 /stats 命令可视化其日常使用数据，并使用自定义名称组织会话。
+指数上下文压缩已启动，但在解决问题时已暂时禁用。
+查看有关 AlternativeTo 的文章有关 Claude 的更多信息代码 | Claude 代码替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/12/claude-code-updates-async-subagents-usage-stats-and-session-renaming/</guid>
+      <pubDate>Thu, 11 Dec 2025 08:35:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Raycast iOS 更新带来了拖动排序、增强的代码块、更好的性能</title>
+      <link>https://alternativeto.net/news/2025/12/raycast-ios-update-brings-drag-sorting-enhanced-code-blocks-better-performance/</link>
+      <description><![CDATA[Raycast 的最新 iOS 更新 1.2.0 允许用户拖放以对主页收藏夹和 AI 聊天预设进行排序。增强了对代码块的支持，可以在 AI 聊天中进行复制和滚动。
+此更新还提供更快的聊天和主屏幕、更流畅的流动画以及重建的主界面以提高性能。
+查看有关 AlternativeTo 的文章更多信息Raycast | Raycast 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/12/raycast-ios-update-brings-drag-sorting-enhanced-code-blocks-better-performance/</guid>
+      <pubDate>Thu, 11 Dec 2025 08:26:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenTofu v1.11.0 新功能：临时资源和启用元参数</title>
+      <link>https://alternativeto.net/news/2025/12/opentofu-v1-11-0-new-features-ephemeral-resources-and-enabled-meta-argument/</link>
+      <description><![CDATA[OpenTofu v1.11.0 引入了对临时资源和只写属性的支持，从而可以管理临时数据，而无需在状态或计划文件中保留敏感值。
+该版本还为资源和模块添加了启用的元参数，提高了 OpenTofu 配置的清晰度和可读性。
+整个系统还包括其他改进。
+查看有关 AlternativeTo 的文章更多信息OpenTofu | OpenTofu 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/opentofu-v1-11-0-new-features-ephemeral-resources-and-enabled-meta-argument/</guid>
+      <pubDate>Thu, 11 Dec 2025 08:19:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Figma 添加了三个新的图像编辑工具，可通过 AI 擦除对象和扩展图像</title>
+      <link>https://alternativeto.net/news/2025/12/figma-adds-three-new-image-editing-tools-to-erase-objects-and-expand-images-with-ai/</link>
+      <description><![CDATA[Figma 推出了三种新的 AI 图像编辑工具，包括擦除对象、隔离对象和扩展图像。擦除对象会删除选定的元素并自动填充背景，隔离对象将对象与背景分离，以便可以对其进行编辑或重新定位，而扩展图像使用生成式 AI 创建图像的新部分并将场景扩展到新的方面不失真的比例，工作方式类似于 Photoshop 的生成填充 或 Canva 的 AI 工具。
+这些工具与套索工具配合使用以进行精确选择，Figma 添加了一个新的图像编辑工具栏，将它们与“删除背景”等现有功能放在一起。或“根据提示进行编辑”。目标是为用户提供快速的方法来处理简单的编辑，而无需求助于 Photoshop 等外部更复杂的软件。
+新工具目前可在 Figma 的主要设计环境中使用，包括 Figma Design 和 Figma Draw，并且需要 Full Seat 订阅。 Figma 计划明年将这些人工智能功能扩展到其平台的更多部分。
+查看有关 AlternativeTo 的文章更多信息Figma | Figma 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/figma-adds-three-new-image-editing-tools-to-erase-objects-and-expand-images-with-ai/</guid>
+      <pubDate>Thu, 11 Dec 2025 01:47:23 GMT</pubDate>
+    </item>
     <item>
       <title>Reddit 正在测试新的“验证个人资料”系统，为公众人物提供灰色徽章</title>
       <link>https://alternativeto.net/news/2025/12/reddit-pilots-verified-profiles-with-voluntary-gray-badge-for-select-users/</link>
@@ -64,90 +149,6 @@ Reddit 指出，徽章并不授予特权或暗示地位，没有徽章并不意�
 查看有关 AlternativeTo 的文章更多信息Trakt.tv | Trakt.tv 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/12/trakt-rolls-out-continue-watching-and-start-watching-smart-lists-in-new-lite-design/</guid>
       <pubDate>Wed, 10 Dec 2025 05:52:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mistral AI 发布 Devstral 2 模型和 Vibe CLI 用于终端代码自动化</title>
-      <link>https://alternativeto.net/news/2025/12/mistral-ai-releases-devstral-2-model-and-vibe-cli-for-terminal-code-automation/</link>
-      <description><![CDATA[Mistral AI 推出了 Devstral 2，这是一个 1230 亿参数编码模型，旨在作为专有自主软件工程系统的开放权重替代方案。在早期 Mistral 3 版本的基础上，这一举措标志着 Mistral 打算挑战 Anthropic 等大型实验室。
-与专注于生成单个代码片段的工具不同，Devstral 2 通过支持跨整个代码库的自主探索、修改和执行来瞄准新兴的“氛围编码”市场。 Mistral 声称它可以将封闭竞争对手的成本降低近 85%；目前，Devstral 2 的访问通过 API 是免费的，后来转变为每百万个输入代币 0.40 美元，每百万个输出代币 2.00 美元。部署至少需要四个 H100 图形处理单元，但 Devstral Small 2 提供了适合在消费类硬件上使用的 240 亿个参数替代方案，价格较低，每百万代币分别为 0.10 美元和 0.30 美元。
-Mistral 还推出了 Vibe CLI，这是一种用于自然语言驱动的代码自动化的命令行工具，它进入了由 Cursor、Supabase 和 复制。它处理文件操作、代码搜索、版本控制和命令执行，同时通过文件结构和 Git 扫描构建项目感知上下文。 CLI 支持具有持久会话历史记录的多文件重构，可以作为独立实用程序运行，也可以作为 Zed Editor 内的扩展运行。
-查看有关 AlternativeTo 的文章有关 Mistral AI 的更多信息Studio | Mistral AI Studio 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/12/mistral-ai-releases-devstral-2-model-and-vibe-cli-for-terminal-code-automation/</guid>
-      <pubDate>Wed, 10 Dec 2025 04:38:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Crunchyroll 将于 12 月 31 日结束其免费广告支持计划，全面转向付费级别</title>
-      <link>https://alternativeto.net/news/2025/12/crunchyroll-will-end-its-free-ad-supported-plan-on-december-31-moving-fully-to-paid-tiers/</link>
-      <description><![CDATA[据报道，Crunchyroll 计划于 2025 年 12 月 31 日停止其免费广告支持层 来自直接从平台。一旦截止日期到来，所有观众将需要从 2026 年 1 月 1 日开始付费订阅才能观看任何影片，从而取消了最后一种免费试用服务的方式。
-免费套餐用户已经看到这些通知。该层级目前仅提供一组轮流播放的带广告的旧目录节目，并且自 2022 年以来不再包括联播剧集。这一变化主要影响那些依赖剩余旧节目的人，因为多年来主要剧集都需要订阅。
-目前定价保持不变，Fan 7.99 美元、Mega Fan 11.99 美元、Ultimate Fan 15.99 美元，仍提供年度选项。每个计划都提供不同的功能，包括设备限制、离线观看以及商店或放映优惠，Crunchyroll 尚未表明免费套餐结束后费率是否会发生变化，尽管我们可能会看到一种情况与 Prime 类似，最便宜的套餐最终开始包含广告。
-查看有关 AlternativeTo 的文章更多信息Crunchyroll | Crunchyroll 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/crunchyroll-will-end-its-free-ad-supported-plan-on-december-31-moving-fully-to-paid-tiers/</guid>
-      <pubDate>Wed, 10 Dec 2025 04:08:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Firefox 146 添加了 Wayland 分数缩放、Windows 10 备份和欧盟天气小部件</title>
-      <link>https://alternativeto.net/news/2025/12/firefox-146-adds-wayland-fractional-scaling-windows-10-backups-and-eu-weather-widget/</link>
-      <description><![CDATA[Firefox 146 在 Windows 10 上引入每日自动本地备份，让用户可以通过可选的密码加密将密码、书签和其他浏览器数据直接保存在设备上。这些备份可以在新安装或现有安装上恢复，Mozilla 表示将随后支持 Linux 和 macOS。除此之外，macOS 还获得了一个专用 GPU 进程，该进程可以在图形组件出现故障时独立重新启动，从而减少由 WebGPU、WebGL 或 WebRender 导致的完全浏览器崩溃。
-默认情况下，该版本还在 Wayland 上提供完整的分数缩放支持。 Firefox 现在可以准确读取 GNOME 和 GTK 屏幕指标，纠正文本、图标或菜单在 125 或 150% 等小数比例下显得模糊或过大的问题。之前的不一致问题（包括超大的 AI 链接预览）已得到解决，但 Mozilla 指出一些罕见的边缘情况可能仍会出现。
-其他更改包括在欧盟和由赞助的 AccuWeather 数据提供支持的特定区域中逐步推出新的标签天气小部件、更广泛地访问 Firefox Labs、直接在搜索栏中显示更多即时答案、改进“设置”中的辅助功能控制以及常用的安全修复程序集。
-查看有关 AlternativeTo 的文章有关 Mozilla 的更多信息Firefox | Mozilla Firefox 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/firefox-146-adds-wayland-fractional-scaling-windows-10-backups-and-eu-weather-widget/</guid>
-      <pubDate>Tue, 09 Dec 2025 23:18:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>RustRover 2025.3 添加了 LLDB 评估器、AI 特征工具和弹出操作</title>
-      <link>https://alternativeto.net/news/2025/12/rustrover-2025-3-adds-lldb-evaluator-ai-trait-tools-and-popup-actions/</link>
-      <description><![CDATA[RustRover 2025.3 引入了新的 LLDB 表达式评估器，并添加了人工智能驱动的特征实现和想法比较工具。此更新还具有浮动弹出操作菜单，可加快编辑速度，并允许在下拉菜单中选择自定义货物配置文件。包括各种修复和性能改进。
-查看有关 AlternativeTo 的文章更多关于RustRover | RustRover 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/rustrover-2025-3-adds-lldb-evaluator-ai-trait-tools-and-popup-actions/</guid>
-      <pubDate>Tue, 09 Dec 2025 17:16:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>PyCharm 2025.3 统一版本并添加远程 Jupyter 支持</title>
-      <link>https://alternativeto.net/news/2025/12/pycharm-2025-3-unifies-editions-and-adds-remote-jupyter-support/</link>
-      <description><![CDATA[PyCharm 2025.3 推出统一版本，将社区用户迁移到单一产品，并提供持续免费访问和集成的 Jupyter 支持。此更新还为 Jupyter 笔记本提供完整的远程开发，并将 uv 设置为默认环境管理器（如果可用）。
-此外，Claude Agent 现在作为 JetBrains IDE 中的第三方 AI 代理获得本机支持。
-查看有关 AlternativeTo 的文章更多信息PyCharm | PyCharm 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/pycharm-2025-3-unifies-editions-and-adds-remote-jupyter-support/</guid>
-      <pubDate>Tue, 09 Dec 2025 17:10:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>PhpStorm 2025.3 首次推出原生 Claude AI、捆绑 Laravel 和 PHP 8.5 支持</title>
-      <link>https://alternativeto.net/news/2025/12/phpstorm-2025-3-debuts-native-claude-ai-bundled-laravel-and-php-8-5-support/</link>
-      <description><![CDATA[PhpStorm 2025.3 现在具有原生 Claude Agent 集成和增强的 AI 聊天支持，让用户可以直接在 IDE 中与多个 AI 助手交互。此版本捆绑了全功能的 Laravel 支持，无需外部插件。它还增加了与 PHP 8.5 的兼容性，支持主要的新语言功能和语法。
-其他改进包括 IDE 内人工智能信用跟踪和云数据库连接。
-查看有关 AlternativeTo 的文章更多信息PhpStorm | PhpStorm 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/phpstorm-2025-3-debuts-native-claude-ai-bundled-laravel-and-php-8-5-support/</guid>
-      <pubDate>Tue, 09 Dec 2025 17:04:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>IntelliJ IDEA 2025.3：统一发行版、Spring 调试器增强和 AI 集成</title>
-      <link>https://alternativeto.net/news/2025/12/intellij-idea-2025-3-unified-distribution-spring-debugger-enhancements-and-ai-integration/</link>
-      <description><![CDATA[IntelliJ IDEA 2025.3 引入了统一分发、命令完成以及对 Spring 调试器的改进。此更新增加了对 Spring Boot 4、Spring Framework 7、Java 25、Spring Data JDBC 和 Vitest 4 的支持。原生 AI 集成、透明 AI 配额和自带关键功能现已推出。
-此版本还包括稳定性和质量改进。
-查看有关 AlternativeTo 的文章有关 IntelliJ 的更多信息IDEA | IntelliJ IDEA 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/intellij-idea-2025-3-unified-distribution-spring-debugger-enhancements-and-ai-integration/</guid>
-      <pubDate>Tue, 09 Dec 2025 16:51:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Slack 通过 Anthropic 的 Claude Code 集成获得代理编码功能</title>
-      <link>https://alternativeto.net/news/2025/12/slack-gains-agentic-coding-capabilities-with-anthropic-s-claude-code-integration/</link>
-      <description><![CDATA[Anthropic 引入了用户将编码任务直接从 Slack 中委派给 Claude Code 的功能。此更新目前作为研究预览处于测试阶段，简化了将上下文从 Slack 讨论转移到编码会话的过程。
-基于现有的 Slack Claude 应用，用户现在可以在涉及工程工作（例如错误报告或功能请求）的任何 Slack 对话中标记 Claude。当提及 Claude 时，它​​会审核该消息，并在确定内容是编码任务时自动启动 Claude Code 会话。用户还可以选择手动指示 Claude 将请求作为编码任务来处理。
-为了提高工作流程效率，Claude 从相关 Slack 通道和线程收集最新消息，以填充编码会话的上下文。然后，它根据链接到 Web 上 Claude Code 的用户经过身份验证的存储库，选择适当的存储库来运行任务。当会话处于活动状态时，Claude 将状态更新发布回原始 Slack 线程。完成后，用户会收到完整编码会话的直接链接，包括打开拉取请求和查看已实施更改的选项。
-查看有关 AlternativeTo 的文章有关 Claude 的更多信息代码 | Claude 代码替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/12/slack-gains-agentic-coding-capabilities-with-anthropic-s-claude-code-integration/</guid>
-      <pubDate>Tue, 09 Dec 2025 16:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 Android 的 Xbox 应用程序在测试版更新中提供完整的商店和愿望清单同步</title>
-      <link>https://alternativeto.net/news/2025/12/xbox-app-for-android-delivers-full-store-and-wishlist-sync-in-beta-update/</link>
-      <description><![CDATA[微软正在 Android 版 Xbox Beta 应用中测试功能齐全的 Xbox 商店，使用户能够直接浏览和购买游戏、DLC 和捆绑包。该更新还引入了愿望清单支持，允许用户从移动设备添加游戏并在设备之间同步他们的愿望清单。
-这些功能目前仅限于 Android 上的 Xbox Beta 应用程序，但预计会有更广泛的发布。
-查看有关 AlternativeTo 的文章有关 Xbox 的更多信息应用 | Xbox 应用替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/xbox-app-for-android-delivers-full-store-and-wishlist-sync-in-beta-update/</guid>
-      <pubDate>Tue, 09 Dec 2025 16:41:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
