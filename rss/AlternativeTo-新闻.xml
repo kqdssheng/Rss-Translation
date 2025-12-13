@@ -4,7 +4,17 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sat, 13 Dec 2025 01:28:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 12:38:39 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 推出 GPT-5.2，具有改进的推理、记忆和专业型变体</title>
+      <link>https://alternativeto.net/news/2025/12/openai-launches-gpt-5-2-with-improved-reasoning-memory-and-pro-focused-variants/</link>
+      <description><![CDATA[经历了动荡的一年，以及 Google Gemini 的竞争压力引发的内部代码红色备忘录 3 Pro，OpenAI 发布了其新旗舰型号 GPT-5.2。此次更新针对专业和开发人员用例，重点是更强的推理、改进的内存处理和更可靠的输出。 GPT-5.2 通过 API 向付费 ChatGPT 用户和开发人员提供了三个版本：Instant、Thinking 和 Pro。
+GPT-5.2 Instant 注重日常任务的速度，例如写作、信息查找和翻译，而 GPT-5.2 Thinking 则专为要求更高的工作而构建，包括编码、长文档分析、数学推理和多步骤规划。 Pro 版本针对的是在专业或企业工作流程中需要更高准确性和一致性的用户。
+OpenAI 表示，GPT-5.2 提高了电子表格创建、演示、代码生成、图像理解、长上下文处理和复杂工作流程等领域的性能。在内部基准测试中，GPT-5.2 Thinking 在所有 10 项测试中均优于 GPT-5.1，包括在 AIME 2025 数学基准测试中获得满分，并且在 ARC 上有明显改进AGI 1 推理评估，同时产生的事实错误减少约 30%。
+查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/openai-launches-gpt-5-2-with-improved-reasoning-memory-and-pro-focused-variants/</guid>
+      <pubDate>Sat, 13 Dec 2025 05:30:11 GMT</pubDate>
+    </item>
     <item>
       <title>Deno 2.6 带来了 dx、更细粒度的权限、更快的 TypeScript 类型检查等等</title>
       <link>https://alternativeto.net/news/2025/12/deno-2-6-brings-dx-more-granular-permissions-faster-typescript-type-checking-and-more/</link>
@@ -140,16 +150,6 @@
 查看有关 AlternativeTo 的文章更多信息WooCommerce | WooCommerce 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/12/woocommerce-10-4-brings-interactivity-api-mini-cart-hpos-caching-rest-api-boost-and-more/</guid>
       <pubDate>Thu, 11 Dec 2025 12:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Brave 通过选择加入功能标志、隔离配置文件和其他保护措施测试 AI 浏览模式</title>
-      <link>https://alternativeto.net/news/2025/12/brave-tests-ai-browsing-mode-with-opt-in-feature-flag-isolated-profile-and-other-safeguards/</link>
-      <description><![CDATA[Brave 已在 Brave Nightly 开发频道中推出了实验性 AI 浏览功能。此版本面向早期采用者，并邀请用户提供反馈以形成未来的改进。虽然 Brave 的长期目标是将浏览器发展成为能够自动执行网络任务并提高用户工作效率的智能助手，但该公司强调在部署代理人工智能时需要谨慎。
-作为这种方法的一部分，Brave 警告说，让人工智能代理控制浏览会带来数据泄露、意外操作和间接提示注入攻击等风险。这些挑战影响着所有人工智能驱动的浏览器，促使 Brave 强调谨慎的开发和安全社区的参与。
-为了降低风险，Brave 限制了选择加入测试人员的初始访问权限。人工智能浏览在单独的隔离配置文件中运行，仅通过用户手动调用激活，并包括各种使用限制以及基于推理的安全防御。这些保护措施旨在限制代理行为的潜在影响，同时 Brave 继续收集反馈并完善系统。
-查看有关 AlternativeTo 的文章更多关于勇敢 | 勇敢替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/brave-tests-ai-browsing-mode-with-opt-in-feature-flag-isolated-profile-and-other-safeguards/</guid>
-      <pubDate>Thu, 11 Dec 2025 10:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
