@@ -4,7 +4,73 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Fri, 12 Dec 2025 12:43:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 01:28:02 GMT</lastBuildDate>
+    <item>
+      <title>Deno 2.6 带来了 dx、更细粒度的权限、更快的 TypeScript 类型检查等等</title>
+      <link>https://alternativeto.net/news/2025/12/deno-2-6-brings-dx-more-granular-permissions-faster-typescript-type-checking-and-more/</link>
+      <description><![CDATA[Deno 2.6 已作为现代 JavaScript 和 TypeScript 运行时的最新更新发布。突出显示此版本的是，新的 dx 工具可让开发人员轻松运行 npm 和 JSR 包中的二进制文件，与 Node.js 项目中的 npx 工作流程紧密结合。为了加快开发速度，Deno 2.6 现在集成了 tsgo，这是一个用 Go 编写的实验性 TypeScript 类型检查器，与以前基于 TypeScript 的系统相比，显着提高了类型检查速度。
+在带来重大工作流程变化的同时，Deno 的安全性和兼容性层也不断发展。此版本添加了用于预加载 CommonJS 模块的 --require 标志，进一步桥接了与 Node.js 工作流程的兼容性。对权限的精细控制增强了项目的安全性，denoaudit 子命令检查 GitHub 常见漏洞和暴露 (CVE) 数据库的依赖关系，为 JSR 和 npm 包生成安全报告。
+在这些核心更改之后，Deno 2.6 新增了对源阶段导入的支持，以不同于标准导入的方式提供对模块原始源的访问。此外，对捆绑程序的显着改进带来了更高的可靠性，而通过对文件操作、加密标准、流程处理和数据库 API 的持续改进，Node.js 兼容性也得到了提高。
+几个新的 API 和稳定性拓展了平台的可能性，用户可以从持续的性能升级和整个版本中嵌入的众多小型工作流程改进中受益。
+查看有关 AlternativeTo 的文章更多信息Deno | Deno 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/12/deno-2-6-brings-dx-more-granular-permissions-faster-typescript-type-checking-and-more/</guid>
+      <pubDate>Fri, 12 Dec 2025 20:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rust 1.92 默认启用展开表、优化 lint 和属性检查等</title>
+      <link>https://alternativeto.net/news/2025/12/rust-1-92-enables-unwind-tables-by-default-refines-lints-and-attribute-checks-and-more/</link>
+      <description><![CDATA[Rust 1.92 作为通用编程语言的最新版本发布，为开发人员引入了关键更改。值得注意的是，即使设置了 -Cpanic=abort 标志，现在也会默认发出展开表，从而确保回溯在紧急中止场景中可靠地运行。不需要展开表的用户现在可以使用 -Cforce-unwind-tables=no 显式禁用它们。
+随着类型系统的不断改进，此版本继续对 never 类型进行稳定工作。两个未来的兼容性 lint，never_type_fallback_flowing_into_unsafe 和 dependency_on_unit_never_type_fallback，现在默认拒绝，这意味着任何违规行为都将导致编译错误，而不是警告或静默允许。
+在 linting 方面，当函数返回 Result 或 ControlFlow（例如 Result）时，unused_must_use lint 不再发出警告。这反映了这些错误类型实际上不可能发生，从而减少了开发过程中不必要的检查。
+这些核心更新伴随着对 Rust 内置属性处理的广泛更改。编译器现在更严格地处理属性并报告更清晰、更一致的诊断。例如，依赖项中不正确的 macro_export 参数会升级为默认拒绝的 lint，从而使此类问题在编译期间更加明显。
+查看有关 AlternativeTo 的文章更多信息Rust | Rust 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/rust-1-92-enables-unwind-tables-by-default-refines-lints-and-attribute-checks-and-more/</guid>
+      <pubDate>Fri, 12 Dec 2025 16:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fabric 为 130 多个站点添加了交互式预览和 Notion 导入</title>
+      <link>https://alternativeto.net/news/2025/12/fabric-adds-interactive-previews-for-130-sites-and-notion-import/</link>
+      <description><![CDATA[Fabric 的预览器现在可以呈现来自 130 多个网站的交互式内容，包括 Figma、TikTok、Instagram、LinkedIn 和 Reddit。用户还可以直接从Notion导入数据，使从其他平台的过渡更加顺畅。改进的用户体验、语音注释可靠性和标记改善了体验。
+其他更新包括先进的人工智能聊天管理和改进的笔记同步引擎，以增强可靠性。
+查看有关 AlternativeTo 的文章有关 Fabric Internet 的更多信息操作系统 | Fabric Internet 操作系统替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/12/fabric-adds-interactive-previews-for-130-sites-and-notion-import/</guid>
+      <pubDate>Fri, 12 Dec 2025 16:00:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meshy 允许用户在图像转 3D 工作流程中选择 A 姿势或 T 姿势</title>
+      <link>https://alternativeto.net/news/2025/12/meshy-lets-users-pick-a-pose-or-t-pose-in-image-to-3d-workflow/</link>
+      <description><![CDATA[Meshy 现在允许用户在从图像生成 3D 角色时选择 A 姿势或 T 姿势格式。此功能可实现灵活、可用于生产的 3D 生成，并在 Meshy 6 预览版中提供。
+查看有关 AlternativeTo 的文章更多信息网格 | 网格替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/meshy-lets-users-pick-a-pose-or-t-pose-in-image-to-3d-workflow/</guid>
+      <pubDate>Fri, 12 Dec 2025 15:49:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>AerynOS 过渡到 Zulip，使用最新的桌面堆栈更新 ISO</title>
+      <link>https://alternativeto.net/news/2025/12/aerynos-transitions-to-zulip-updates-iso-with-latest-desktop-stacks/</link>
+      <description><![CDATA[AerynOS 已将其项目聊天平台从 Matrix 迁移到 Zulip，旨在通过增强的主题管理来改善贡献者沟通。该团队还将基础设施托管迁移到 netcup，从而提高了欧洲的下载速度。
+此外，新的 Alpha ISO 版本为早期测试者带来了内核 6.17.10 和更新的桌面堆栈，包括 COSMIC Beta9、GNOME 49.2 和 KDE Frameworks 6.20.0。
+查看有关 AlternativeTo 的文章更多信息AerynOS | AerynOS 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/aerynos-transitions-to-zulip-updates-iso-with-latest-desktop-stacks/</guid>
+      <pubDate>Fri, 12 Dec 2025 15:43:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pixea 8.0添加批量编辑和高级图像调整工具</title>
+      <link>https://alternativeto.net/news/2025/12/pixea-8-0-adds-batch-editing-and-advanced-image-adjustment-tools/</link>
+      <description><![CDATA[Pixea 8.0 引入了内置批处理编辑器，可一次对多个图像应用调整。该更新添加了高级图像调整工具，包括色彩控制、LUT 滤镜和透视校正。
+扩展的图像格式支持现在包括 PPM、HEIF、AVIF 和 CBZ 漫画书。
+查看有关 AlternativeTo 的文章更多信息Pixea | Pixea 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/pixea-8-0-adds-batch-editing-and-advanced-image-adjustment-tools/</guid>
+      <pubDate>Fri, 12 Dec 2025 15:28:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Opera Neon 推出公众抢先体验，取消邀请码要求</title>
+      <link>https://alternativeto.net/news/2025/12/opera-neon-launches-public-early-access-drops-invite-code-requirement/</link>
+      <description><![CDATA[Opera Neon 现已向所有用户提供公开抢先体验，消除了之前的邀请码要求。该浏览器提供每月 19.90 美元的高级订阅，可以持续访问新的人工智能模型和功能。
+用户还有机会与开发团队互动并提供反馈。
+查看有关 AlternativeTo 的文章有关 Opera 的更多信息霓虹灯 | Opera 霓虹灯替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/opera-neon-launches-public-early-access-drops-invite-code-requirement/</guid>
+      <pubDate>Fri, 12 Dec 2025 15:24:08 GMT</pubDate>
+    </item>
     <item>
       <title>KDE Gear 25.12 增强了 Itinerary、Dolphin、Kate、Photos 和其他 KDE 应用程序</title>
       <link>https://alternativeto.net/news/2025/12/kde-gear-25-12-brings-enhancements-to-itinerary-dolphin-kate-photos-and-other-kde-apps/</link>
@@ -71,7 +137,7 @@
       <description><![CDATA[WooCommerce 10.4 现已推出，这是这个基于 WordPress 构建的免费开源电子商务平台的最新更新。该版本引入了交互 API 支持的 Mini Cart 的一项关键更改，该功能已脱离实验状态，现在在开发和生产环境中默认启用。这一调整加强了 WooCommerce 对 WordPress 现代前端架构的采用，并可能影响客户与商店之间的购物车互动的方式。
 除了前端更改之外，WooCommerce 管理和分析 REST API 命名空间现在仅在必要时加载。这种延迟加载方法通过减少不必要的后端资源使用来为所有商店带来性能提升。此外，高性能订单存储 (HPOS) 数据存储区缓存功能不再是实验性的，而是作为标准配置提供，有助于简化订单数据访问。
 除了这些核心更改之外，10.4 版还提供了一系列其他增强功能。其中包括块功能的改进、更高的可访问性、API 和 REST API 的更新、商店 API 速率限制修复以及数据库的更新。这些更新为商店所有者和开发人员提供了功能和生活质量的综合改进。
-查看有关 AlternativeTo 的文章更多信息WooCommerce | WooCommerce 替代品]]></description>
+查看有关 AlternativeTo 的文章更多信息WooCommerce | WooCommerce 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/12/woocommerce-10-4-brings-interactivity-api-mini-cart-hpos-caching-rest-api-boost-and-more/</guid>
       <pubDate>Thu, 11 Dec 2025 12:05:00 GMT</pubDate>
     </item>
@@ -84,71 +150,6 @@
 查看有关 AlternativeTo 的文章更多关于勇敢 | 勇敢替代品]]></description>
       <guid>https://alternativeto.net/news/2025/12/brave-tests-ai-browsing-mode-with-opt-in-feature-flag-isolated-profile-and-other-safeguards/</guid>
       <pubDate>Thu, 11 Dec 2025 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Opera AI 面向 Opera One、GX 和 Air 推出，具有更快的 AI 和高级功能</title>
-      <link>https://alternativeto.net/news/2025/12/opera-ai-launches-for-opera-one-gx-and-air-with-faster-ai-and-advanced-features/</link>
-      <description><![CDATA[Opera AI 现已在 Opera One、Opera GX 和 Opera Air 上提供，为用户提供重建的无帐户浏览器 AI。更新后的侧面板界面为网页和选项卡组提供了 20% 更快的响应速度和上下文感知能力。用户可以获得文件和 YouTube 视频分析、语音输入和输出、壁纸生成和快照功能等新工具。
-精细的隐私控制允许用户启用或禁用 Opera AI 功能并管理对 Web 内容的访问。
-查看有关 AlternativeTo 的文章更多信息Opera | Opera 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/opera-ai-launches-for-opera-one-gx-and-air-with-faster-ai-and-advanced-features/</guid>
-      <pubDate>Thu, 11 Dec 2025 09:56:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>CoMaps 添加了更新的 OpenStreetMap 数据和 Material 3 主题</title>
-      <link>https://alternativeto.net/news/2025/12/comaps-adds-updated-openstreetmap-data-and-material-3-themes/</link>
-      <description><![CDATA[CoMaps 现在使用截至 12 月 9 日的 OpenStreetMap 数据，确保导航反映最新的可用地图。该版本提高了搜索排名，语音公告现在支持立陶宛语和拉脱维亚语，扩大了波罗的海用户的可访问性。
-Android 应用引入了 Material 3 主题并更新了界面组件，而 iOS 则改进了语音指示。
-查看有关 AlternativeTo 的文章有关 CoMaps 的更多信息 | CoMaps 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/12/comaps-adds-updated-openstreetmap-data-and-material-3-themes/</guid>
-      <pubDate>Thu, 11 Dec 2025 09:51:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Visual Studio Code 1.107 带来了代理总部、终端建议、组织自定义代理等</title>
-      <link>https://alternativeto.net/news/2025/12/visual-studio-code-1-107-brings-agent-hq-terminal-suggest-org-custom-agents-and-more/</link>
-      <description><![CDATA[Microsoft 发布了 Visual Studio Code 版本 1.107，为开发人员跨编码工作流程引入了多项关键增强功能。此更新带来了 Agent HQ，它允许用户将 GitHub Copilot 与其他编码代理结合起来，并行完成多个任务。开发人员现在可以根据项目需求利用后台、云或本地代理，从而提高整体生产力。
-基于这些工作流程升级，后台代理现在可以在自己的隔离工作区中运行，并由 Visual Studio Code 直接管理。对于组织来说，在团队级别共享自定义代理的能力可以改善协作并使代理驱动的自动化更容易实现。
-经过这些 AI 改进，现在为所有稳定用户启用了终端建议。此功能在键入 shell 命令时提供内联补全和上下文提示。此外，相关参数值现在分组在一起，使得选项标志及其参数在命令输入期间更容易导航。
-Visual Studio Code 1.107 引入了对最新 MCP 规范的支持，添加了用于 Microsoft 身份验证的跨平台本机代理，并更新了兼容性以包含 TypeScript 7.0 预览版。
-查看有关 AlternativeTo 的文章有关 Visual Studio 的更多信息代码 | Visual Studio 代码替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/12/visual-studio-code-1-107-brings-agent-hq-terminal-suggest-org-custom-agents-and-more/</guid>
-      <pubDate>Thu, 11 Dec 2025 08:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Proton Pass CLI 正式推出，以实现安全的自动化工作流程</title>
-      <link>https://alternativeto.net/news/2025/12/proton-pass-cli-officially-launches-for-secure-automation-workflows/</link>
-      <description><![CDATA[Proton Pass CLI 已退出测试版，现已正式推出。新工具减少了上下文切换，允许用户简化工作流程，并跨本地开发、服务器和 CI/CD 管道自动执行安全密码管理。
-查看有关 AlternativeTo 的文章有关 Proton Pass 的更多信息 | 质子通行证替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/12/proton-pass-cli-officially-launches-for-secure-automation-workflows/</guid>
-      <pubDate>Thu, 11 Dec 2025 08:48:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Code 更新异步子代理、使用统计信息和会话重命名</title>
-      <link>https://alternativeto.net/news/2025/12/claude-code-updates-async-subagents-usage-stats-and-session-renaming/</link>
-      <description><![CDATA[Claude Code CLI 引入了异步子代理，可在主代理变为非活动状态后启用扩展任务的后台处理。用户现在可以使用新的 /stats 命令可视化其日常使用数据，并使用自定义名称组织会话。
-指数上下文压缩已启动，但在解决问题时已暂时禁用。
-查看有关 AlternativeTo 的文章有关 Claude 的更多信息代码 | Claude 代码替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/12/claude-code-updates-async-subagents-usage-stats-and-session-renaming/</guid>
-      <pubDate>Thu, 11 Dec 2025 08:35:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Raycast iOS 更新带来了拖动排序、增强的代码块、更好的性能</title>
-      <link>https://alternativeto.net/news/2025/12/raycast-ios-update-brings-drag-sorting-enhanced-code-blocks-better-performance/</link>
-      <description><![CDATA[Raycast 的最新 iOS 更新 1.2.0 允许用户拖放以对主页收藏夹和 AI 聊天预设进行排序。增强了对代码块的支持，可以在 AI 聊天中进行复制和滚动。
-此更新还提供更快的聊天和主屏幕、更流畅的流动画以及重建的主界面以提高性能。
-查看有关 AlternativeTo 的文章更多信息Raycast | Raycast 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/12/raycast-ios-update-brings-drag-sorting-enhanced-code-blocks-better-performance/</guid>
-      <pubDate>Thu, 11 Dec 2025 08:26:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenTofu v1.11.0 新功能：临时资源和启用元参数</title>
-      <link>https://alternativeto.net/news/2025/12/opentofu-v1-11-0-new-features-ephemeral-resources-and-enabled-meta-argument/</link>
-      <description><![CDATA[OpenTofu v1.11.0 引入了对临时资源和只写属性的支持，从而可以管理临时数据，而无需在状态或计划文件中保留敏感值。
-该版本还为资源和模块添加了启用的元参数，提高了 OpenTofu 配置的清晰度和可读性。
-整个系统还包括其他改进。
-查看有关 AlternativeTo 的文章更多信息OpenTofu | OpenTofu 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/opentofu-v1-11-0-new-features-ephemeral-resources-and-enabled-meta-argument/</guid>
-      <pubDate>Thu, 11 Dec 2025 08:19:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
