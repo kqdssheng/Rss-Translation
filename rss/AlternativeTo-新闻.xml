@@ -4,7 +4,18 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sat, 13 Dec 2025 12:38:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 01:47:36 GMT</lastBuildDate>
+    <item>
+      <title>Kali Linux 2025.4 带来了 GNOME 49、KDE ​​Plasma 6.5、Wayland 增强功能和 3 个新工具</title>
+      <link>https://alternativeto.net/news/2025/12/kali-linux-2025-4-brings-gnome-49-kde-plasma-6-5-wayland-enhancements-and-3-new-tools/</link>
+      <description><![CDATA[Kali Linux 2025.4 已作为基于 Debian 的发行版的最新版本推出，专为渗透测试、数字取证和安全研究而定制。此版本引入了跨主要桌面环境的更新，其中包括 GNOME 49、KDE Plasma 6.5 和支持全彩主题的 Xfce，提供全新且可定制的用户体验。
+基于先前的进步，Kali Linux 完成了向 GNOME 的 Wayland 显示服务器的迁移，并将其保留为 KDE 的默认设置。在 VirtualBox、VMware 或 QEMU 中运行 Kali 的用户现在将受益于 Wayland 完全支持的剪贴板共享和动态窗口缩放，功能与之前 X11 设置上可用的功能一致。
+在此版本中，Kali Live 图像不再通过直接 HTTP 下载分发，而是仅通过 BitTorrent 提供。除了发行版更改之外，还引入了三个新工具：bpf-linker，伯克利数据包过滤器静态链接器； evil-winrm-py，一个用于远程 Windows 命令执行的 Python 工具；和 hexstrike-ai，在 MCP 服务器上启用自动化 AI 代理任务。
+除了核心更新之外，Kali NetHunter 还获得了多项增强功能，包括 Android 16支持、新终端和 Wifipumpkin3 选项卡预览。在发布的最后，用户可以激活万圣节模式，为桌面增添季节性色彩。
+查看有关 AlternativeTo 的文章有关 Kali Linux 的更多信息 | Kali Linux 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/kali-linux-2025-4-brings-gnome-49-kde-plasma-6-5-wayland-enhancements-and-3-new-tools/</guid>
+      <pubDate>Sat, 13 Dec 2025 12:05:00 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 推出 GPT-5.2，具有改进的推理、记忆和专业型变体</title>
       <link>https://alternativeto.net/news/2025/12/openai-launches-gpt-5-2-with-improved-reasoning-memory-and-pro-focused-variants/</link>
@@ -140,16 +151,6 @@ OpenAI 表示，GPT-5.2 提高了电子表格创建、演示、代码生成、�
 查看有关 AlternativeTo 的文章有关 YouTube 的更多信息电视 | YouTube 电视替代品]]></description>
       <guid>https://alternativeto.net/news/2025/12/youtube-tv-will-introduce-10-genre-specific-subscription-plans-in-early-2026/</guid>
       <pubDate>Thu, 11 Dec 2025 13:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>WooCommerce 10.4 带来了交互 API 迷你购物车、HPOS 缓存、REST API 增强等</title>
-      <link>https://alternativeto.net/news/2025/12/woocommerce-10-4-brings-interactivity-api-mini-cart-hpos-caching-rest-api-boost-and-more/</link>
-      <description><![CDATA[WooCommerce 10.4 现已推出，这是这个基于 WordPress 构建的免费开源电子商务平台的最新更新。该版本引入了交互 API 支持的 Mini Cart 的一项关键更改，该功能已脱离实验状态，现在在开发和生产环境中默认启用。这一调整加强了 WooCommerce 对 WordPress 现代前端架构的采用，并可能影响客户与商店之间的购物车互动的方式。
-除了前端更改之外，WooCommerce 管理和分析 REST API 命名空间现在仅在必要时加载。这种延迟加载方法通过减少不必要的后端资源使用来为所有商店带来性能提升。此外，高性能订单存储 (HPOS) 数据存储区缓存功能不再是实验性的，而是作为标准配置提供，有助于简化订单数据访问。
-除了这些核心更改之外，10.4 版还提供了一系列其他增强功能。其中包括块功能的改进、更高的可访问性、API 和 REST API 的更新、商店 API 速率限制修复以及数据库的更新。这些更新为商店所有者和开发人员提供了功能和生活质量的综合改进。
-查看有关 AlternativeTo 的文章更多信息WooCommerce | WooCommerce 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/12/woocommerce-10-4-brings-interactivity-api-mini-cart-hpos-caching-rest-api-boost-and-more/</guid>
-      <pubDate>Thu, 11 Dec 2025 12:05:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
