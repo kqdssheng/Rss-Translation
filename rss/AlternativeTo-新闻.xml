@@ -4,7 +4,43 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Mon, 15 Dec 2025 01:45:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 12:47:00 GMT</lastBuildDate>
+    <item>
+      <title>SparkyLinux 2025.12 随 Debian 'Forky' 基础包和更新包一起发布</title>
+      <link>https://alternativeto.net/news/2025/12/sparkylinux-2025-12-released-with-debian-forky-base-and-updated-packages/</link>
+      <description><![CDATA[SparkyLinux 2025.12 &#39;Tiamat&#39; ISO 映像现已推出，基于 Debian 测试 &#39;Forky&#39; 基础构建。此版本包括截至 2025 年 12 月 14 日的更新包，并采用 Linux 内核 6.17.11，以及存储库中的其他 LTS 版本。
+在英国和美国中部添加了新的包裹镜子以改善访问。
+查看有关 AlternativeTo 的文章更多信息SparkyLinux | SparkyLinux 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/sparkylinux-2025-12-released-with-debian-forky-base-and-updated-packages/</guid>
+      <pubDate>Mon, 15 Dec 2025 10:40:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Telegram 增加了对安全密码登录、礼品购买优惠和故事中音频的支持</title>
+      <link>https://alternativeto.net/news/2025/12/telegram-adds-support-for-secure-passkey-login-gift-purchase-offers-and-audio-in-stories/</link>
+      <description><![CDATA[Telegram 的新更新引入了密钥支持，允许用户使用 PIN 或 Face ID 或指纹等生物识别数据（而不是短信代码）立即登录。这些密钥的加密密钥安全地存储在您的设备上，并且可以与 iCloud 和 Google 等密码管理应用同步，从而提供安全且简化的登录体验。
+基于用户保护和便利性，Telegram 现在允许用户直接从个人资料中购买礼品。买家可以使用星星或 TON 货币提出报价并设定报价时限。在整个优惠期间，付款都会被安全保留，如果优惠被拒绝或过期，则会立即全额退款。该系统旨在确保买家和礼品所有者在平台直销期间免受诈骗。
+除了这些改进之外，发布故事的 Telegram 用户还能够从其个人资料播放列表中快速添加音轨。此更新简化了故事创作者的媒体共享，使他们的内容更具吸引力和可定制性。
+查看有关 AlternativeTo 的文章更多信息Telegram | Telegram 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/12/telegram-adds-support-for-secure-passkey-login-gift-purchase-offers-and-audio-in-stories/</guid>
+      <pubDate>Mon, 15 Dec 2025 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pangolin 1.13.0：使用新的网络模型保护专用网络访问</title>
+      <link>https://alternativeto.net/news/2025/12/pangolin-1-13-0-secure-private-network-access-with-new-networking-model/</link>
+      <description><![CDATA[Fossorial Pangolin 1.13.0 推出了一种新的网络模型，允许用户设备客户端安全地连接到专用网络资源，就像 VPN 一样。该更新引入了私有资源，使管理员能够指定可访问的主机或子网，并包括魔术 DNS 别名等功能，以方便导航。所有现有客户端现在都归类为机器客户端，通过统一的资源模型支持自动化和服务器用例。
+查看有关 AlternativeTo 的文章有关 Fossorial 的更多信息穿山甲 | 化石穿山甲替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/pangolin-1-13-0-secure-private-network-access-with-new-networking-model/</guid>
+      <pubDate>Mon, 15 Dec 2025 09:14:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mixxx 2.5.4：增强的控制器映射、改进的库和稳定性修复</title>
+      <link>https://alternativeto.net/news/2025/12/mixxx-2-5-4-enhanced-controller-mappings-improved-library-and-stability-fixes/</link>
+      <description><![CDATA[Mixxx 2.5.4 为 Korg Kaoss DJ、Numark-NS6II、Pioneer DJ CDJ、Reloop Beatmix 和 Traktor S4Mk3 提供更新的控制器映射。此版本还通过更好的播放列表处理和库扫描仪中的功能取消按钮增强了库的可用性。
+该更新还解决了各种稳定性、音频和 UI 问题，并包括对 Qt 6.10、macOS Sequoia 15 和 Ubuntu 26.04 的支持。
+查看有关 AlternativeTo 的文章更多信息Mixxx | Mixxx 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/mixxx-2-5-4-enhanced-controller-mappings-improved-library-and-stability-fixes/</guid>
+      <pubDate>Mon, 15 Dec 2025 09:01:10 GMT</pubDate>
+    </item>
     <item>
       <title>Spline 为其实时设计画布 Hana 添加了 3D 功能</title>
       <link>https://alternativeto.net/news/2025/12/spline-adds-3d-capabilities-to-its-real-time-design-canvas-hana/</link>
@@ -32,7 +68,7 @@ Hana 将整个工作流程保留在一个地方，而不是依赖导出或外部
 基于先前的进步，Kali Linux 完成了向 GNOME 的 Wayland 显示服务器的迁移，并将其保留为 KDE 的默认设置。在 VirtualBox、VMware 或 QEMU 中运行 Kali 的用户现在将受益于 Wayland 完全支持的剪贴板共享和动态窗口缩放，功能与之前 X11 设置上可用的功能一致。
 在此版本中，Kali Live 图像不再通过直接 HTTP 下载分发，而是仅通过 BitTorrent 提供。除了发行版更改之外，还引入了三个新工具：bpf-linker，伯克利数据包过滤器静态链接器； evil-winrm-py，一个用于远程 Windows 命令执行的 Python 工具；和 hexstrike-ai，在 MCP 服务器上启用自动化 AI 代理任务。
 除了核心更新之外，Kali NetHunter 还获得了多项增强功能，包括 Android 16支持、新终端和 Wifipumpkin3 选项卡预览。在发布的最后，用户可以激活万圣节模式，为桌面增添季节性色彩。
-查看有关 AlternativeTo 的文章有关 Kali Linux 的更多信息 | Kali Linux 替代方案]]></description>
+查看有关 AlternativeTo 的文章有关 Kali Linux 的更多信息 | Kali Linux 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/12/kali-linux-2025-4-brings-gnome-49-kde-plasma-6-5-wayland-enhancements-and-3-new-tools/</guid>
       <pubDate>Sat, 13 Dec 2025 12:05:00 GMT</pubDate>
     </item>
@@ -111,46 +147,6 @@ OpenAI 表示，GPT-5.2 提高了电子表格创建、演示、代码生成、�
 查看有关 AlternativeTo 的文章有关 Opera 的更多信息霓虹灯 | Opera 霓虹灯替代品]]></description>
       <guid>https://alternativeto.net/news/2025/12/opera-neon-launches-public-early-access-drops-invite-code-requirement/</guid>
       <pubDate>Fri, 12 Dec 2025 15:24:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE Gear 25.12 增强了 Itinerary、Dolphin、Kate、Photos 和其他 KDE 应用程序</title>
-      <link>https://alternativeto.net/news/2025/12/kde-gear-25-12-brings-enhancements-to-itinerary-dolphin-kate-photos-and-other-kde-apps/</link>
-      <description><![CDATA[KDE Gear 25.12 现已推出，在 KDE 软件套件中引入了一系列新功能和改进。 Itinerary 应用程序扩展了其功能，为铁路公司和活动提供了十多个新的提取器，使旅程规划变得更加容易。现在，它可以自动将您当前的位置设置为起点，显示您的海拔高度，并提供内置货币转换器。
-在这些旅行升级之后，KDE 的文件和文件夹管理器 Dolphin 改进了垃圾处理，使临时文件夹不再出现在您的家庭垃圾箱中。用户还可以通过 Dolphin 上下文菜单隐藏文件和文件夹。代码编辑器 Kate 通过显示最新分支活动来增强 Git 支持，使跟踪代码更改的开发人员受益。 KDE 的图像查看器 Photos 引入了新的裁剪工具，并支持触摸手势以改进图像操作。
-虽然其他应用程序得到了重点增强，但 KJournalD 现在允许直接从浏览器加载用户单位，并且 NeoChat 添加了键盘快捷键设置页面。 NeoChat 还扩大了对 Matrix 扩展的支持，例如 Jitsi 视频会议工具。其他更新包括 Konqueror 中更高质量的 PDF 导出以及 Falkon 网络浏览器中用于切换广告拦截器的新按钮。
-查看有关 AlternativeTo 的文章更多信息KDE Plasma | KDE Plasma 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/kde-gear-25-12-brings-enhancements-to-itinerary-dolphin-kate-photos-and-other-kde-apps/</guid>
-      <pubDate>Fri, 12 Dec 2025 08:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>System76 推出首个稳定版本 COSMIC 桌面和 Pop!_OS 24.04 LTS</title>
-      <link>https://alternativeto.net/news/2025/12/system76-launches-first-stable-versions-of-pop-_os-24-04-lts-and-cosmic-desktop/</link>
-      <description><![CDATA[经过多年的开发，System76 终于发布了其完全基于 Rust 的第一个稳定版本COSMIC 桌面环境以及Pop!_OS 24.04 LTS Linux 发行版。此次发布标志着该发行版的重大转变，因为它放弃了之前基于 GNOME 的 shell，同时保留了熟悉的 Pop!_OS 工作流程在 Ubuntu 24.04 LTS Noble Numbat。
-该项目提供了一整套重写的应用程序，取代了关键的 GNOME 组件，包括COSMIC 文件、终端、文本编辑器和媒体播放器，并引入了一个新的工作流程，其中包含每个工作区或显示的平铺、视觉放置提示、持久布局以及可以在显示器之间重新排序或移动的工作区。多显示器设置使用自动缩放并在移除屏幕时保持稳定的布局。此次更新还带来了新的 COSMIC Store、一个具有全局和文件搜索功能的启动器以及内置计算器、通过主题和面板布局进行更广泛的自定义，以及屏幕截图实用程序和用于指导初始设置的欢迎应用程序等工具。
-除了新桌面之外，Pop!_OS 24.04 LTS 还引入了更新的 Linux 内核、更新的 Mesa 驱动程序和Flathub 默认启用。该版本增加了混合图形控制、全磁盘加密、在重新安装期间保留用户数据的刷新选项以及更广泛的硬件支持。它附带了核心应用程序，例如 Mozilla Firefox、Thunderbird、LibreOffice 和 Popsicle，可在新的 System76 硬件上使用或作为支持设备的下载。
-查看有关 AlternativeTo 的文章更多信息Pop!_OS| Pop!_OS 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/system76-launches-first-stable-versions-of-pop-_os-24-04-lts-and-cosmic-desktop/</guid>
-      <pubDate>Fri, 12 Dec 2025 04:52:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spotify 推出测试版提示播放列表，让听众影响算法选择</title>
-      <link>https://alternativeto.net/news/2025/12/spotify-launches-prompted-playlist-in-beta-letting-listeners-influence-algorithmic-choices/</link>
-      <description><![CDATA[Spotify 正在推出一项名为提示播放列表的测试版功能，让用户可以通过自然语言提示生成播放列表并直接引导推荐算法，将播放列表创建从系统驱动的过程转变为更有意识的交互式用户体验。该功能于 12 月 11 日在新西兰推出，最初仅提供英语版本，让听众可以更好地控制 Spotify 如何制作混音。
-用户可以编写指定流派、情绪、活动、节奏、时代或这些因素的组合的提示来指导算法选择。 Spotify 通过利用每个用户的整个收听历史记录来解释这些输入，从而产生更有针对性的结果。提示的范围可以从最喜欢的艺术家的深度剪辑到为特定活动（例如跑步或放松）设计的混音。
-播放列表可以设置为自动刷新，以便算法随着时间的推移进行调整。 “想法”选项卡提供了预先构建的提示，每个轨道都包含一个简短的解释，说明为什么选择它来提高透明度并帮助用户完善未来的提示。所有提示均保持可编辑状态，从而允许持续微调和持续指导算法。
-查看有关 AlternativeTo 的文章更多信息Spotify | Spotify 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/spotify-launches-prompted-playlist-in-beta-letting-listeners-influence-algorithmic-choices/</guid>
-      <pubDate>Thu, 11 Dec 2025 23:44:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Discord 承认 Windows 应用程序内存使用过多，并测试自动重启作为临时修复</title>
-      <link>https://alternativeto.net/news/2025/12/discord-admits-excessive-ram-usage-on-windows-app-and-tests-auto-restarts-as-temporary-fix/</link>
-      <description><![CDATA[Discord 有 确认其Windows 11 应用使用的 RAM 远远超出预期，由于泄漏、冻结以及与其 Electron 基础相关的其他问题，经常超出预期的 1GB 以下范围。某些会话可能超过 4 GB 内存，这促使该公司测试临时缓解措施。
-当前实验引入了当 RAM 使用量超过 4 GB 时自动自重启。该公司强调，这种行为是故意的，而不是故障，旨在减少内存泄漏的影响，同时正在开发长期修复方案。
-重启仅在严格条件下触发：应用必须已运行超过一个小时，用户必须处于非活动状态至少 30 分钟，并且不能进行任何语音或视频通话。它每天最多发生一次，保留草稿和开放通道，并反映随着更多服务器和功能加载而产生的 Electron 更广泛的扩展限制。
-查看有关 AlternativeTo 的文章更多信息Discord | Discord 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/12/discord-admits-excessive-ram-usage-on-windows-app-and-tests-auto-restarts-as-temporary-fix/</guid>
-      <pubDate>Thu, 11 Dec 2025 18:37:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
