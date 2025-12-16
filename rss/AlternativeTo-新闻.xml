@@ -4,7 +4,47 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Mon, 15 Dec 2025 12:47:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 01:42:30 GMT</lastBuildDate>
+    <item>
+      <title>FL Studio 宣布推出基于浏览器的 DAW 版本，测试版具有完全桌面兼容性</title>
+      <link>https://alternativeto.net/news/2025/12/fl-studio-announces-a-browser-based-daw-version-with-full-desktop-compatibility-in-beta/</link>
+      <description><![CDATA[Image Line 发布了 FL Studio Web，这是其流行的数字音频工作站的基于浏览器的版本。现有用户和新用户都可以通过候补名单获得公开测试版。虽然它不是完整的桌面替代品，但它保留了核心 FL Studio 工作流程并且与桌面界面紧密匹配。
+FL Studio Web 允许用户在浏览器中保存项目，并稍后在完全兼容的桌面应用程序中打开它们，包括本机 FL Studio 插件。它完全在浏览器中运行，不需要额外的软件，并且包括与 FL Cloud 的直接集成以访问在线内容和服务。交互式入门流程可帮助新用户快速开始制作音乐，而经验丰富的制作人则可以将其用作便携式伴侣。
+该公司将 FL Studio Web 定位为浏览器和桌面工作流程之间的桥梁。该服务预计将支持 Linux 和多处理器架构，并可能使用平板电脑，这标志着主要 DAW 将集成桌面和 Web 工作流程结合在一起的罕见案例。
+查看有关 AlternativeTo 的文章有关 FL 的更多信息Studio | FL Studio 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/12/fl-studio-announces-a-browser-based-daw-version-with-full-desktop-compatibility-in-beta/</guid>
+      <pubDate>Mon, 15 Dec 2025 21:42:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tails 7.3.1 提供紧急安全修复、更新的 Tor 浏览器、Tor 客户端和 Thunderbird</title>
+      <link>https://alternativeto.net/news/2025/12/tails-7-3-1-delivers-urgent-security-fix-updated-tor-browser-tor-client-and-thunderbird/</link>
+      <description><![CDATA[Tails 7.3.1 现已作为这款便携式操作系统的最新更新推出，旨在保护用户免受监视和审查。 7.3.1版本而不是计划中的7.3版本的发布是由于在最后准备过程中发现软件库中的安全漏洞而促使的。为了确保用户安全，Tails 团队停止了 7.3 版本并重新启动了该流程，并在 7.3.1 中纳入了必要的安全修复程序。
+除了安全更新之外，Tails 7.3.1 还提供了更新的组件。值得注意的是，它包括 Tor 浏览器 15.0.3、Tor 客户端 0.4.8.21 和 Thunderbird 140.5.0。这些软件更新增强了注重隐私的用户的安全性和日常可用性。
+对于已经使用 Tails 7.0 或更高版本的用户，可以自动升级到 7.3.1。如果无法执行自动升级，或者升级后 Tails 未启动，我们鼓励用户尝试手动升级，以确保获得最新的安全改进。
+查看有关 AlternativeTo 的文章更多信息尾部 | 尾部替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/tails-7-3-1-delivers-urgent-security-fix-updated-tor-browser-tor-client-and-thunderbird/</guid>
+      <pubDate>Mon, 15 Dec 2025 18:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mulvad 肯定会在 2026 年 1 月 15 日之前删除所有 OpenVPN 支持和服务器</title>
+      <link>https://alternativeto.net/news/2025/12/mullvad-will-definitely-remove-all-openvpn-support-and-servers-by-january-15-2026/</link>
+      <description><![CDATA[Mullvad 已发出最后提醒，称将于 2026 年 1 月 15 日取消对 OpenVPN 协议的所有支持。在此日期之后，Mullvad 将不再运行任何 OpenVPN 服务器，这标志着其客户完全不再使用 OpenVPN。这些行动于 2024 年 11 月首次宣布，延长了用户的通知时间，为停止服务做好准备。
+在过渡期间，Mullvad 将继续运行现有的 OpenVPN 服务器，直到 2026 年 1 月截止，但不会添加新服务器。当服务接近结束时，现有的 OpenVPN 服务器将定期离线。此外，用户很快将无法通过 Mulvad 的工具或平台生成新的 OpenVPN 配置文件。
+鉴于这些变化，强烈建议仍在使用 OpenVPN 与 Mulvad 的任何人尽快将其设置切换到 WireGuard。本指南会影响新设置和任何依赖 OpenVPN 的当前用户，以最大程度地减少过渡日期临近时的服务中断。
+查看有关 AlternativeTo 的文章更多信息Mullvad | Mullvad 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/12/mullvad-will-definitely-remove-all-openvpn-support-and-servers-by-january-15-2026/</guid>
+      <pubDate>Mon, 15 Dec 2025 16:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>TrashMe for macOS 添加了 Electron 应用程序过滤、轻型侧边栏和网络故障警报</title>
+      <link>https://alternativeto.net/news/2025/12/trashme-for-macos-adds-electron-app-filtering-light-sidebar-and-network-down-alerts/</link>
+      <description><![CDATA[TrashMe for macOS 已收到重大更新，扩大了其卸载和清理功能。用户现在可以应用新的过滤选项来轻松识别和卸载基于 Electron 的应用程序和英特尔应用程序，从而解决管理大量应用程序时面临的常见挑战。
+基于用户界面灵活性，TrashMe 为 macOS 26 用户引入了轻量侧边栏，提供符合系统偏好的现代外观。除了这些视觉效果之外，如果网络连接不可用，新的智能模式现在还可以向用户发出警报，从而为监控系统状态的人员添加主动功能。
+进一步的改进主要集中在 Apple Silicon Mac 兼容性和可靠性上。仪表板提供了 Apple Silicon 模型的增强细节。 TrashMe 现在在卸载应用程序时可以更准确地检测相关文件，同时应用程序更新检测算法也得到了改进，以帮助用户保持软件最新。在这些核心更改之后，其他增强功能和错误修复进一步提高了整体稳定性和可用性。
+查看有关 AlternativeTo 的文章更多信息TrashMe | TrashMe 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/trashme-for-macos-adds-electron-app-filtering-light-sidebar-and-network-down-alerts/</guid>
+      <pubDate>Mon, 15 Dec 2025 15:15:00 GMT</pubDate>
+    </item>
     <item>
       <title>SparkyLinux 2025.12 随 Debian 'Forky' 基础包和更新包一起发布</title>
       <link>https://alternativeto.net/news/2025/12/sparkylinux-2025-12-released-with-debian-forky-base-and-updated-packages/</link>
@@ -112,41 +152,6 @@ OpenAI 表示，GPT-5.2 提高了电子表格创建、演示、代码生成、�
 查看有关 AlternativeTo 的文章有关 Fabric Internet 的更多信息操作系统 | Fabric Internet 操作系统替代品]]></description>
       <guid>https://alternativeto.net/news/2025/12/fabric-adds-interactive-previews-for-130-sites-and-notion-import/</guid>
       <pubDate>Fri, 12 Dec 2025 16:00:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meshy 允许用户在图像转 3D 工作流程中选择 A 姿势或 T 姿势</title>
-      <link>https://alternativeto.net/news/2025/12/meshy-lets-users-pick-a-pose-or-t-pose-in-image-to-3d-workflow/</link>
-      <description><![CDATA[Meshy 现在允许用户在从图像生成 3D 角色时选择 A 姿势或 T 姿势格式。此功能可实现灵活、可用于生产的 3D 生成，并在 Meshy 6 预览版中提供。
-查看有关 AlternativeTo 的文章更多信息网格 | 网格替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/meshy-lets-users-pick-a-pose-or-t-pose-in-image-to-3d-workflow/</guid>
-      <pubDate>Fri, 12 Dec 2025 15:49:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>AerynOS 过渡到 Zulip，使用最新的桌面堆栈更新 ISO</title>
-      <link>https://alternativeto.net/news/2025/12/aerynos-transitions-to-zulip-updates-iso-with-latest-desktop-stacks/</link>
-      <description><![CDATA[AerynOS 已将其项目聊天平台从 Matrix 迁移到 Zulip，旨在通过增强的主题管理来改善贡献者沟通。该团队还将基础设施托管迁移到 netcup，从而提高了欧洲的下载速度。
-此外，新的 Alpha ISO 版本为早期测试者带来了内核 6.17.10 和更新的桌面堆栈，包括 COSMIC Beta9、GNOME 49.2 和 KDE Frameworks 6.20.0。
-查看有关 AlternativeTo 的文章更多信息AerynOS | AerynOS 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/aerynos-transitions-to-zulip-updates-iso-with-latest-desktop-stacks/</guid>
-      <pubDate>Fri, 12 Dec 2025 15:43:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pixea 8.0添加批量编辑和高级图像调整工具</title>
-      <link>https://alternativeto.net/news/2025/12/pixea-8-0-adds-batch-editing-and-advanced-image-adjustment-tools/</link>
-      <description><![CDATA[Pixea 8.0 引入了内置批处理编辑器，可一次对多个图像应用调整。该更新添加了高级图像调整工具，包括色彩控制、LUT 滤镜和透视校正。
-扩展的图像格式支持现在包括 PPM、HEIF、AVIF 和 CBZ 漫画书。
-查看有关 AlternativeTo 的文章更多信息Pixea | Pixea 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/pixea-8-0-adds-batch-editing-and-advanced-image-adjustment-tools/</guid>
-      <pubDate>Fri, 12 Dec 2025 15:28:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Opera Neon 推出公众抢先体验，取消邀请码要求</title>
-      <link>https://alternativeto.net/news/2025/12/opera-neon-launches-public-early-access-drops-invite-code-requirement/</link>
-      <description><![CDATA[Opera Neon 现已向所有用户提供公开抢先体验，消除了之前的邀请码要求。该浏览器提供每月 19.90 美元的高级订阅，可以持续访问新的人工智能模型和功能。
-用户还有机会与开发团队互动并提供反馈。
-查看有关 AlternativeTo 的文章有关 Opera 的更多信息霓虹灯 | Opera 霓虹灯替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/opera-neon-launches-public-early-access-drops-invite-code-requirement/</guid>
-      <pubDate>Fri, 12 Dec 2025 15:24:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
