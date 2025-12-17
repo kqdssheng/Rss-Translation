@@ -4,7 +4,100 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Tue, 16 Dec 2025 12:44:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 01:29:03 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 推出新的 GPT Image 1.5 模型，具有更快的编辑速度和 Apple Music 集成</title>
+      <link>https://alternativeto.net/news/2025/12/openai-launches-new-gpt-image-1-5-model-with-faster-editing-and-apple-music-integration/</link>
+      <description><![CDATA[OpenAI 已开始推出 GPT Image 1.5，这是继 最新版本的 GPT 5.2。该模型可通过 ChatGPT 并通过 OpenAI API 使用，图像生成速度比以前快四倍，减少等待时间，尤其是在高峰使用期间和免费套餐中。此次更新是在 Google 的竞争日益激烈之际推出的，因为 Gemini Nano Banana Pro 推动了 Gemini 使用率的激增以及强大的基准测试性能。
+ChatGPT Images 现在添加了更高级的后期制作风格控件，以保持编辑过程中的视觉一致性。这些工具有助于通过多次迭代保留面部相似度、光照、构图和色调。该模型还更准确地遵循编辑指令，允许用户添加、删除、组合、混合或转置元素。文本渲染也得到了改进，比早期版本更好地支持更密集和更小的文本。
+OpenAI 还在 ChatGPT 侧栏中引入了专用图像部分，其中包含预设过滤器和提示建议。 GPT Image 1.5 从今天开始向所有用户推出，而 GPT 4o 仍然可以通过自定义设置使用。除了此次更新之外，OpenAI 还宣布即将推出 Apple Music 集成，这将使 ChatGPT 创建音乐推荐和播放列表，并可直接在桌面和 iOS 上的 Apple Music 应用中打开。
+查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/openai-launches-new-gpt-image-1-5-model-with-faster-editing-and-apple-music-integration/</guid>
+      <pubDate>Tue, 16 Dec 2025 21:40:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adobe Firefly 添加了基于提示的视频编辑、4K 升级和更多第三方模型</title>
+      <link>https://alternativeto.net/news/2025/12/adobe-firefly-adds-prompt-based-video-editing-4k-upscaling-and-more-third-party-models/</link>
+      <description><![CDATA[Adobe 发布了其 Firefly 平台的重大更新，在私人测试版之后向所有用户推出完整测试版的 Firefly AI 视频编辑器期间。基于网络的编辑器添加了提示驱动的视频编辑功能，允许用户使用文本提示调整特定元素，如颜色、摄像机角度和视觉细节，而无需重新生成整个剪辑。
+编辑器还引入了基于时间线的界面，用于手动控制帧、音频、音效和音乐。 Firefly 支持使用第三方模型（例如 Runway Aleph）进行基于指令的编辑，以进行天气调整、对比度调整和缩放等有针对性的更改。 Adobe 的 Firefly 专有视频模型现在还支持相机运动参考，通过使用起始帧和参考视频来重新创建相机运动。
+现在可以通过与 Topaz Labs 的 Astra 模型 集成以及与 FLUX.2 的新集成来将视频升级到 1080p 和 4K。 Adobe 将在 1 月 15 日之前为符合条件的 Firefly 计划（包括 Pro、Premium 和更高信用级别）的用户提供所有受支持型号的无限代。
+查看有关 AlternativeTo 的文章有关 Adobe 的更多信息Firefly | Adobe Firefly 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/adobe-firefly-adds-prompt-based-video-editing-4k-upscaling-and-more-third-party-models/</guid>
+      <pubDate>Tue, 16 Dec 2025 18:22:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>官方 Stremio 应用程序在 FireOS 的 Amazon App Store 上发布</title>
+      <link>https://alternativeto.net/news/2025/12/official-stremio-app-launches-on-amazon-app-store-for-fireos/</link>
+      <description><![CDATA[FireOS 用户现在可以通过 Amazon App Store 访问官方 Stremio 应用，无需旁加载。该应用程序还具有自动更新功能，以改进维护。
+官方应用程序是在公司删除了冒充该服务的诈骗应用程序后推出的，建议用户仅下载和使用官方版本。
+查看有关 AlternativeTo 的文章有关 Stremio 的更多信息 | Stremio 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/official-stremio-app-launches-on-amazon-app-store-for-fireos/</guid>
+      <pubDate>Tue, 16 Dec 2025 18:13:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>YouTube Create 应用在特定地区的 iPhone 上推出</title>
+      <link>https://alternativeto.net/news/2025/12/youtube-create-app-launches-on-iphone-in-select-regions/</link>
+      <description><![CDATA[YouTube Create 应用现已在部分地区的 iPhone 上推出，扩大了移动视频编辑的使用范围。用户可以在应用程序内访问字幕、滤镜、效果和免版税音乐。
+YouTube Create 需要运行 iOS 17 或更高版本的 iPhone XR 或更新版本。
+查看有关 AlternativeTo 的文章有关 YouTube Create 的更多信息 | YouTube 创建替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/12/youtube-create-app-launches-on-iphone-in-select-regions/</guid>
+      <pubDate>Tue, 16 Dec 2025 17:16:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android 上的 Apple TV 应用增加了 Google Cast 支持</title>
+      <link>https://alternativeto.net/news/2025/12/apple-tv-app-on-android-adds-google-cast-support/</link>
+      <description><![CDATA[适用于 Android 设备的 Apple TV 应用引入了 Google Cast 支持，允许用户将节目和电影投射到兼容设备。主界面和全屏播放器中都会出现一个新的“投射”按钮。 Casting 为迷你播放器提供了播放控件和设备信息。
+查看有关 AlternativeTo 的文章有关 Apple TV 的更多信息  | Apple TV 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/apple-tv-app-on-android-adds-google-cast-support/</guid>
+      <pubDate>Tue, 16 Dec 2025 17:10:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rhino Linux 2025.4 引入 Lomiri 桌面和更新的内核</title>
+      <link>https://alternativeto.net/news/2025/12/rhino-linux-2025-4-introduces-lomiri-desktop-and-updated-kernels/</link>
+      <description><![CDATA[Rhino Linux 2025.4 引入了 Lomiri 桌面环境作为 PINE64 设备的新默认环境，并添加了两个新的 Lomiri 相关软件包以实现更广泛的兼容性。此版本还包括每个主要硬件目标的更新内核版本，包括 PinePhone、PineTab、PinePhone Pro、PineTab2、Raspberry Pi 和通用映像。
+修复了多个 Pacstall 错误，以提高系统可靠性。
+查看有关 AlternativeTo 的文章有关 Rhino 的更多信息Linux | Rhino Linux 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/12/rhino-linux-2025-4-introduces-lomiri-desktop-and-updated-kernels/</guid>
+      <pubDate>Tue, 16 Dec 2025 17:03:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Proton VPN CLI 面向 Arch、Debian、Ubuntu 和 Fedora 用户推出</title>
+      <link>https://alternativeto.net/news/2025/12/proton-vpn-cli-launches-for-arch-debian-ubuntu-and-fedora-users/</link>
+      <description><![CDATA[官方 Proton VPN 命令行界面现已可供 Arch、Debian、Ubuntu 和 Fedora。
+即将推出的更新将添加指定 P2P、TOR 和 Secure Core 连接的选项，并显示所有可用的国家和城市。
+查看有关 AlternativeTo 的文章有关 Proton 的更多信息VPN | Proton VPN 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/proton-vpn-cli-launches-for-arch-debian-ubuntu-and-fedora-users/</guid>
+      <pubDate>Tue, 16 Dec 2025 16:55:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google 为 Gemini 推出 NotebookLM 集成</title>
+      <link>https://alternativeto.net/news/2025/12/google-rolls-out-notebooklm-integration-for-gemini/</link>
+      <description><![CDATA[Google 正在针对 Gemini 聊天推出 NotebookLM 集成，使用户能够在对话期间附加笔记本作为上下文。这使得 Gemini 能够使用笔记本内容作为上下文，从而提高连续性、参考准确性和人工智能辅助响应的质量。
+查看有关 AlternativeTo 的文章有关 NotebookLM 的更多信息 | NotebookLM 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/google-rolls-out-notebooklm-integration-for-gemini/</guid>
+      <pubDate>Tue, 16 Dec 2025 16:49:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>亚马逊在 Kindle iOS 应用程序中添加了“询问这本书”，以进行互动且不剧透的问答</title>
+      <link>https://alternativeto.net/news/2025/12/amazon-adds-ask-this-book-to-the-kindle-ios-app-for-interactive-and-spoiler-free-qanda/</link>
+      <description><![CDATA[亚马逊正在推出“询问这本书”，该功能旨在支持使用 iOS 上的 Kindle 应用程序的美国读者。这个新工具可以让用户突出显示符合条件的书中的任何段落，并直接询问有关其内容的问题，而无需离开页面。 问这本书提供有关情节事件、人物联系和关键主题的即时、上下文响应，同时确保仅从内容到读者当前位置的绘制来避免剧透。
+虽然这个初始版本涵盖了数千本最畅销的英语 Kindle 书籍，但用户可以期待未来扩大兼容性。亚马逊已宣布支持 Kindle 设备，Android 将于明年推出，建立在当前仅限 iOS 的基础上。
+与标准搜索功能不同，问这本书充当个性化重述工具，类似于电视中的“以前看过……”片段，帮助读者在阅读小说时保持沉浸感和清晰度。所有回复均在阅读界面内提供，以防止中断，重点是增强阅读流程。
+查看有关 AlternativeTo 的文章有关亚马逊的更多信息Kindle | 亚马逊 Kindle 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/amazon-adds-ask-this-book-to-the-kindle-ios-app-for-interactive-and-spoiler-free-qanda/</guid>
+      <pubDate>Tue, 16 Dec 2025 13:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenShot 3.4 性能提升 32%，添加新效果并改进编辑工具</title>
+      <link>https://alternativeto.net/news/2025/12/openshot-3-4-boosts-performance-by-32--adds-new-effects-and-improves-editing-tools/</link>
+      <description><![CDATA[OpenShot 3.4 是视频编辑器迄今为止最大的更新之一，核心编辑功能速度提升了 32%，并减少了内存使用量。编辑人员将看到效果、剪辑渲染、帧映射、波形、FFmpeg 解码、时间线和导出等方面的显着改进。
+除了这些优化之外，OpenShot 3.4 还通过添加多种新的视频效果来扩展创意选项。除了现有效果之外，用户现在还可以使用锐化、色彩图 (LUT)、球形投影、镜头光晕和轮廓效果。
+继这些增强之后，工作流程改进是此版本的重点。预览面板现在可以直接在画布上使用手柄进行交互式裁剪，让用户可以更快、更准确地编辑剪辑。带有切换按钮的新计时模式使用户能够通过拖动剪辑边缘来重新计时剪辑，从而简化修剪和调整任务。同时，时间轴功能受益于可拖动关键帧，具有实时预览支持和增强的捕捉功能以实现精确放置。
+在这些更新的基础上，OpenShot 引入了可以在设置中启用的实验性时间线。此预览功能反映了项目的未来方向，但可能包含未完成的元素。其他改进会影响整个应用程序，包括编辑工作流程、导入/导出兼容性、媒体处理、开发人员工具和稳定性。
+查看有关 AlternativeTo 的文章更多信息OpenShot | OpenShot 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/12/openshot-3-4-boosts-performance-by-32--adds-new-effects-and-improves-editing-tools/</guid>
+      <pubDate>Tue, 16 Dec 2025 12:05:00 GMT</pubDate>
+    </item>
     <item>
       <title>DietPi 9.20 添加了 RustDesk 服务器、硬件更新、增强的软件和错误修复</title>
       <link>https://alternativeto.net/news/2025/12/dietpi-9-20-adds-rustdesk-server-hardware-updates-enhanced-software-and-bug-fixes/</link>
@@ -55,103 +148,6 @@ FL Studio Web 允许用户在浏览器中保存项目，并稍后在完全兼容
 查看有关 AlternativeTo 的文章更多信息尾部 | 尾部替代品]]></description>
       <guid>https://alternativeto.net/news/2025/12/tails-7-3-1-delivers-urgent-security-fix-updated-tor-browser-tor-client-and-thunderbird/</guid>
       <pubDate>Mon, 15 Dec 2025 18:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mulvad 肯定会在 2026 年 1 月 15 日之前删除所有 OpenVPN 支持和服务器</title>
-      <link>https://alternativeto.net/news/2025/12/mullvad-will-definitely-remove-all-openvpn-support-and-servers-by-january-15-2026/</link>
-      <description><![CDATA[Mullvad 已发出最后提醒，称将于 2026 年 1 月 15 日取消对 OpenVPN 协议的所有支持。在此日期之后，Mullvad 将不再运行任何 OpenVPN 服务器，这标志着其客户完全不再使用 OpenVPN。这些行动于 2024 年 11 月首次宣布，延长了用户的通知时间，为停止服务做好准备。
-在过渡期间，Mullvad 将继续运行现有的 OpenVPN 服务器，直到 2026 年 1 月截止，但不会添加新服务器。当服务接近结束时，现有的 OpenVPN 服务器将定期离线。此外，用户很快将无法通过 Mulvad 的工具或平台生成新的 OpenVPN 配置文件。
-鉴于这些变化，强烈建议仍在使用 OpenVPN 与 Mulvad 的任何人尽快将其设置切换到 WireGuard。本指南会影响新设置和任何依赖 OpenVPN 的当前用户，以最大程度地减少过渡日期临近时的服务中断。
-查看有关 AlternativeTo 的文章更多信息Mullvad | Mullvad 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/mullvad-will-definitely-remove-all-openvpn-support-and-servers-by-january-15-2026/</guid>
-      <pubDate>Mon, 15 Dec 2025 16:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>TrashMe for macOS 添加了 Electron 应用程序过滤、轻型侧边栏和网络故障警报</title>
-      <link>https://alternativeto.net/news/2025/12/trashme-for-macos-adds-electron-app-filtering-light-sidebar-and-network-down-alerts/</link>
-      <description><![CDATA[TrashMe for macOS 已收到重大更新，扩大了其卸载和清理功能。用户现在可以应用新的过滤选项来轻松识别和卸载基于 Electron 的应用程序和英特尔应用程序，从而解决管理大量应用程序时面临的常见挑战。
-基于用户界面灵活性，TrashMe 为 macOS 26 用户引入了轻量侧边栏，提供符合系统偏好的现代外观。除了这些视觉效果之外，如果网络连接不可用，新的智能模式现在还可以向用户发出警报，从而为监控系统状态的人员添加主动功能。
-进一步的改进主要集中在 Apple Silicon Mac 兼容性和可靠性上。仪表板提供了 Apple Silicon 模型的增强细节。 TrashMe 现在在卸载应用程序时可以更准确地检测相关文件，同时应用程序更新检测算法也得到了改进，以帮助用户保持软件最新。在这些核心更改之后，其他增强功能和错误修复进一步提高了整体稳定性和可用性。
-查看有关 AlternativeTo 的文章更多信息TrashMe | TrashMe 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/trashme-for-macos-adds-electron-app-filtering-light-sidebar-and-network-down-alerts/</guid>
-      <pubDate>Mon, 15 Dec 2025 15:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>SparkyLinux 2025.12 随 Debian 'Forky' 基础包和更新包一起发布</title>
-      <link>https://alternativeto.net/news/2025/12/sparkylinux-2025-12-released-with-debian-forky-base-and-updated-packages/</link>
-      <description><![CDATA[SparkyLinux 2025.12 &#39;Tiamat&#39; ISO 映像现已推出，基于 Debian 测试 &#39;Forky&#39; 基础构建。此版本包括截至 2025 年 12 月 14 日的更新包，并采用 Linux 内核 6.17.11，以及存储库中的其他 LTS 版本。
-在英国和美国中部添加了新的包裹镜子以改善访问。
-查看有关 AlternativeTo 的文章更多信息SparkyLinux | SparkyLinux 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/sparkylinux-2025-12-released-with-debian-forky-base-and-updated-packages/</guid>
-      <pubDate>Mon, 15 Dec 2025 10:40:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Telegram 增加了对安全密码登录、礼品购买优惠和故事中音频的支持</title>
-      <link>https://alternativeto.net/news/2025/12/telegram-adds-support-for-secure-passkey-login-gift-purchase-offers-and-audio-in-stories/</link>
-      <description><![CDATA[Telegram 的新更新引入了密钥支持，允许用户使用 PIN 或 Face ID 或指纹等生物识别数据（而不是短信代码）立即登录。这些密钥的加密密钥安全地存储在您的设备上，并且可以与 iCloud 和 Google 等密码管理应用同步，从而提供安全且简化的登录体验。
-基于用户保护和便利性，Telegram 现在允许用户直接从个人资料中购买礼品。买家可以使用星星或 TON 货币提出报价并设定报价时限。在整个优惠期间，付款都会被安全保留，如果优惠被拒绝或过期，则会立即全额退款。该系统旨在确保买家和礼品所有者在平台直销期间免受诈骗。
-除了这些改进之外，发布故事的 Telegram 用户还能够从其个人资料播放列表中快速添加音轨。此更新简化了故事创作者的媒体共享，使他们的内容更具吸引力和可定制性。
-查看有关 AlternativeTo 的文章更多信息Telegram | Telegram 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/12/telegram-adds-support-for-secure-passkey-login-gift-purchase-offers-and-audio-in-stories/</guid>
-      <pubDate>Mon, 15 Dec 2025 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pangolin 1.13.0：使用新的网络模型保护专用网络访问</title>
-      <link>https://alternativeto.net/news/2025/12/pangolin-1-13-0-secure-private-network-access-with-new-networking-model/</link>
-      <description><![CDATA[Fossorial Pangolin 1.13.0 推出了一种新的网络模型，允许用户设备客户端安全地连接到专用网络资源，就像 VPN 一样。该更新引入了私有资源，使管理员能够指定可访问的主机或子网，并包括魔术 DNS 别名等功能，以方便导航。所有现有客户端现在都归类为机器客户端，通过统一的资源模型支持自动化和服务器用例。
-查看有关 AlternativeTo 的文章有关 Fossorial 的更多信息穿山甲 | 化石穿山甲替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/pangolin-1-13-0-secure-private-network-access-with-new-networking-model/</guid>
-      <pubDate>Mon, 15 Dec 2025 09:14:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mixxx 2.5.4：增强的控制器映射、改进的库和稳定性修复</title>
-      <link>https://alternativeto.net/news/2025/12/mixxx-2-5-4-enhanced-controller-mappings-improved-library-and-stability-fixes/</link>
-      <description><![CDATA[Mixxx 2.5.4 为 Korg Kaoss DJ、Numark-NS6II、Pioneer DJ CDJ、Reloop Beatmix 和 Traktor S4Mk3 提供更新的控制器映射。此版本还通过更好的播放列表处理和库扫描仪中的功能取消按钮增强了库的可用性。
-该更新还解决了各种稳定性、音频和 UI 问题，并包括对 Qt 6.10、macOS Sequoia 15 和 Ubuntu 26.04 的支持。
-查看有关 AlternativeTo 的文章更多信息Mixxx | Mixxx 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/mixxx-2-5-4-enhanced-controller-mappings-improved-library-and-stability-fixes/</guid>
-      <pubDate>Mon, 15 Dec 2025 09:01:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spline 为其实时设计画布 Hana 添加了 3D 功能</title>
-      <link>https://alternativeto.net/news/2025/12/spline-adds-3d-capabilities-to-its-real-time-design-canvas-hana/</link>
-      <description><![CDATA[Spline 为其实时设计画布 Hana 添加了 3D 功能，允许同时创建和编辑 2D 和 3D 元素。 Hana 基于实时渲染基础构建，现在可以在单个画布上处理两个维度，无需单独的预览或渲染步骤。
-任何 2D 形状都可以转换为 3D 对象，同时保持实时连接，因此对原始形状的更改会立即更新 3D 结果。 2D 和 3D 元素都在相同的运行时和效果管道上运行，从而在整个画布上实现一致的变换和视觉效果，同时解决抗锯齿、分辨率和几何复杂性等质量因素。
-Hana 将整个工作流程保留在一个地方，而不是依赖导出或外部工具，但其 3D 功能集仍然有限。当前支持侧重于形状挤压和基本材质控制，并计划在未来更新中提供更广泛的 3D 功能和更复杂的场景支持。
-查看有关 AlternativeTo 的文章有关 Hana 的更多信息样条线 | Hana 样条线替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/spline-adds-3d-capabilities-to-its-real-time-design-canvas-hana/</guid>
-      <pubDate>Sun, 14 Dec 2025 14:30:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>ToonSquid 2.0.16 添加了上下文符号编辑和改进的关键帧控制</title>
-      <link>https://alternativeto.net/news/2025/12/toonsquid-2-0-16-adds-contextual-symbol-editing-and-improved-keyframe-control/</link>
-      <description><![CDATA[ToonSquid 2.0.16 已发布，引入了多项工作流程改进，重点关注动画效率而不是新的绘图工具。此更新添加了上下文符号编辑功能，可以在编辑符号的动画剪辑时显示周围的场景，从而更轻松地将运动和时间与其他元素对齐。
-关键帧分割已更新，因此当绘图跨多个图层分割时，会重新计算关键帧偏移以保留原始时序而不是重复。操作菜单中还提供了一个新的“清除”选项，允许用户从选定的绘图或动画层中删除绘图内容，同时保持其结构和动画设置不变。
-库管理已得到扩展，新增了“上次创建”和“种类”排序选项，有助于组织更大的项目。此更新还通过在填充操作失败时临时突出显示打开的笔划路径来改进矢量填充反馈，从而更轻松地定位和闭合小间隙。
-查看有关 AlternativeTo 的文章更多信息ToonSquid | ToonSquid 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/toonsquid-2-0-16-adds-contextual-symbol-editing-and-improved-keyframe-control/</guid>
-      <pubDate>Sun, 14 Dec 2025 14:19:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kali Linux 2025.4 带来了 GNOME 49、KDE ​​Plasma 6.5、Wayland 增强功能和 3 个新工具</title>
-      <link>https://alternativeto.net/news/2025/12/kali-linux-2025-4-brings-gnome-49-kde-plasma-6-5-wayland-enhancements-and-3-new-tools/</link>
-      <description><![CDATA[Kali Linux 2025.4 已作为基于 Debian 的发行版的最新版本推出，专为渗透测试、数字取证和安全研究而定制。此版本引入了跨主要桌面环境的更新，其中包括 GNOME 49、KDE Plasma 6.5 和支持全彩主题的 Xfce，提供全新且可定制的用户体验。
-基于先前的进步，Kali Linux 完成了向 GNOME 的 Wayland 显示服务器的迁移，并将其保留为 KDE 的默认设置。在 VirtualBox、VMware 或 QEMU 中运行 Kali 的用户现在将受益于 Wayland 完全支持的剪贴板共享和动态窗口缩放，功能与之前 X11 设置上可用的功能一致。
-在此版本中，Kali Live 图像不再通过直接 HTTP 下载分发，而是仅通过 BitTorrent 提供。除了发行版更改之外，还引入了三个新工具：bpf-linker，伯克利数据包过滤器静态链接器； evil-winrm-py，一个用于远程 Windows 命令执行的 Python 工具；和 hexstrike-ai，在 MCP 服务器上启用自动化 AI 代理任务。
-除了核心更新之外，Kali NetHunter 还获得了多项增强功能，包括 Android 16支持、新终端和 Wifipumpkin3 选项卡预览。在发布的最后，用户可以激活万圣节模式，为桌面增添季节性色彩。
-查看有关 AlternativeTo 的文章有关 Kali Linux 的更多信息 | Kali Linux 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/12/kali-linux-2025-4-brings-gnome-49-kde-plasma-6-5-wayland-enhancements-and-3-new-tools/</guid>
-      <pubDate>Sat, 13 Dec 2025 12:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 推出 GPT-5.2，具有改进的推理、记忆和专业型变体</title>
-      <link>https://alternativeto.net/news/2025/12/openai-launches-gpt-5-2-with-improved-reasoning-memory-and-pro-focused-variants/</link>
-      <description><![CDATA[经历了动荡的一年，以及 Google Gemini 的竞争压力引发的内部代码红色备忘录 3 Pro，OpenAI 发布了其新旗舰型号 GPT-5.2。此次更新针对专业和开发人员用例，重点是更强的推理、改进的内存处理和更可靠的输出。 GPT-5.2 通过 API 向付费 ChatGPT 用户和开发人员提供了三个版本：Instant、Thinking 和 Pro。
-GPT-5.2 Instant 注重日常任务的速度，例如写作、信息查找和翻译，而 GPT-5.2 Thinking 则专为要求更高的工作而构建，包括编码、长文档分析、数学推理和多步骤规划。 Pro 版本针对的是在专业或企业工作流程中需要更高准确性和一致性的用户。
-OpenAI 表示，GPT-5.2 提高了电子表格创建、演示、代码生成、图像理解、长上下文处理和复杂工作流程等领域的性能。在内部基准测试中，GPT-5.2 Thinking 在所有 10 项测试中均优于 GPT-5.1，包括在 AIME 2025 数学基准测试中获得满分，并且在 ARC 上有明显改进AGI 1 推理评估，同时产生的事实错误减少约 30%。
-查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/openai-launches-gpt-5-2-with-improved-reasoning-memory-and-pro-focused-variants/</guid>
-      <pubDate>Sat, 13 Dec 2025 05:30:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
