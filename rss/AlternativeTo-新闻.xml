@@ -4,11 +4,33 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Fri, 19 Dec 2025 01:42:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 12:41:59 GMT</lastBuildDate>
+    <item>
+      <title>Waterfox 反对 Mozilla 的人工智能愿景并倡导隐私优先浏览</title>
+      <link>https://alternativeto.net/news/2025/12/waterfox-pushes-back-against-mozilla-s-ai-vision-and-advocates-for-privacy-first-browsing/</link>
+      <description><![CDATA[在一篇题为“NoAIHere – 对 Mozilla 下一章的回应” 的措辞尖锐的帖子中，Waterfox 负责人 AlexKontos 认为，浏览器应该忠于其核心使命、速度、隐私和用户控制，而不是成为人工智能介导的网关。他警告说，将 LLM 助理嵌入 Firefox 的核心可能会将受信任的工具变成用户无法审核的黑盒服务，这与过去的担忧相呼应。 Kontos 提醒读者，Waterfox 历来保留了 Firefox 放弃的功能，例如 XUL 扩展，并将分叉定位为重视简单性而不是推测性 AI 集成的用户的避难所。
+就在几天前，Mozilla 新任首席执行官 AnthonyEnzor‑DeMeo 宣布了一项三年计划，将 Firefox 发展成为现代人工智能网络浏览器。虽然该公司承诺人工智能功能将是可切换的，但这一声明已经引起了 Firefox 长期粉丝的批评，他们认为此举背叛了该项目最初的开放、隐私和极简主义精神。这一转变被认为是在 Firefox 市场份额稳步下降的情况下实现收入多元化的努力，但批评人士担心，这将疏远这些年来让浏览器保持活力的社区。
+Kontos 的反驳并没有完全拒绝人工智能；相反，他对可能损害隐私的未经审计的实施划定了界限。他指出 Waterfox 在剥离不需要的组件（遥测、Pocket 集成、赞助内容）和保留遗留扩展方面的记录，证明精益、用户至上的浏览器仍然可以蓬勃发展。通过将自己定位为“耐心游行”的替代方案，Waterfox 希望吸引对 Mozilla 的人工智能推动不再抱有幻想的用户，从而强化更广泛的行业争论，即人工智能应该是网络浏览器中的可选层还是基本功能。
+如果 Mozilla 继续推行以 AI 为中心的愿景，市场可能会分裂为两个阵营：将 AI 集成为核心体验的浏览器 (Perplexity Comet、ChatGPT Atlas、Opera Neon、Dia...）以及那些拒绝人工智能集成的公司（Vivaldi、Orion、Zen...）并加倍注重隐私优先的轻量级设计。 Waterfox 的直言不讳的立场凸显了对透明、可审计软件的需求不断增长，这表明未来几个月将看到更清晰的用户偏好划分，并且可能会出现迎合“无人工智能”人群的利基分叉。
+查看有关 AlternativeTo 的文章更多信息Waterfox | Waterfox 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/waterfox-pushes-back-against-mozilla-s-ai-vision-and-advocates-for-privacy-first-browsing/</guid>
+      <pubDate>Fri, 19 Dec 2025 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>xAI 推出具有多语言实时语音功能的 Grok Voice Agent API</title>
+      <link>https://alternativeto.net/news/2025/12/xai-introduces-grok-voice-agent-api-with-multilingual-real-time-voice-capabilities/</link>
+      <description><![CDATA[xAI 推出了 Grok 语音代理 API，为开发人员提供了构建可讲数十种语言、与工具交互并访问实时数据的语音代理的工具。这个新的 API 利用与 Grok Voice 相同的技术堆栈，确保跨平台的一致性。
+在此基础上，xAI 在内部开发了每个关键音频组件，包括语音活动检测、标记化和音频处理模型。这种完全控制可以实现快速开发以及智能和速度的持续改进。
+Grok 语音代理专为多语言交互而设计。他们以母语水平的精确度讲数十种语言，捕捉方言和细微的发音差异。代理可以自动适应用户所说的语言，在对话中切换语言，或者通过系统提示指示始终以特定语言进行响应。
+除了语言功能之外，Grok 语音代理还可以实时为用户执行任务并检索信息。该 API 支持广泛的用例，还提供多种富有表现力的声音，让开发人员可以定制用户体验。
+查看有关 AlternativeTo 的文章更多信息Grok | Grok 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/xai-introduces-grok-voice-agent-api-with-multilingual-real-time-voice-capabilities/</guid>
+      <pubDate>Fri, 19 Dec 2025 07:15:00 GMT</pubDate>
+    </item>
     <item>
       <title>ElevenLabs 将 WhatsApp 添加到其全渠道代理平台中，以实现统一的语音和聊天</title>
       <link>https://alternativeto.net/news/2025/12/elevenlabs-adds-whatsapp-to-its-omnichannel-agents-platform-for-unified-voice-and-chat/</link>
-      <description><![CDATA[ElevenLabs 扩展了其全渠道代理平台，新增了对 WhatsApp 的支持，允许企业跨网络、移动设备、电话线路部署相同的人工智能驱动代理，现已成为全球最大的消息应用程序之一。团队可以设计一次代理，然后在每个支持的渠道上提供无缝且统一的客户体验。
+      <description><![CDATA[ElevenLabs 扩展了其全渠道代理平台，包括对 WhatsApp 的支持，允许企业跨网络、移动设备、电话线路部署相同的人工智能驱动的代理，现在已成为全球最大的消息应用程序之一。团队可以设计一次代理，然后在每个支持的渠道上提供无缝且统一的客户体验。
 通过此更新，企业能够直接在 WhatsApp 内提供实时语音和聊天交互。这一新增功能可以在客户已经使用的平台上满足客户的需求，使支持和参与变得更容易，同时保持消息、电话、网络和移动设备之间的交互一致。
 用户可以通过语音或打字与 WhatsApp 上的客服人员互动。代理以与其他平台相同的推理、语音质量和知识库进行响应。无论客户是通过网站、电话还是 WhatsApp 消息开始对话，这种方法都能保证统一的用户体验。
 除了扩大渠道覆盖范围之外，ElevenLabs 平台还为团队提供了单一、集中的客户互动视图。团队可以从一个位置分析记录、评估绩效并更新座席行为。更新会立即应用于所有渠道，确保合规性并减少运营工作量。
@@ -22,7 +44,7 @@
       <description><![CDATA[OpenAI 现在允许开发者在 ChatGPT 内提交申请以供审核和发布。此举扩展了 ChatGPT 的功能，实现了订购杂货、将大纲转变为幻灯片或直接在对话中搜索公寓等新功能。用户可以通过 ChatGPT 中新引入的应用程序目录访问特色应用程序和已发布的应用程序，从而更轻松地发现和集成新工具。
 连接应用程序后，用户可以通过使用 @ 符号提及其名称或在聊天期间从工具菜单中选择它来触发它。开发人员可以使用深层链接来推动采用，这些链接将用户直接带到特定应用程序的目录页面。为了进一步简化应用程序体验，OpenAI 正在尝试在正在进行的对话中推荐相关应用程序的方法，考虑上下文、用户偏好和过去的使用情况，并提供用户反馈工具。
 对于那些在新平台上构建的人，OpenAI 提供了一个 Beta Apps SDK，旨在实现原生聊天体验。已发布的开发资源旨在帮助开发人员创建符合用户需求的高质量应用程序。第一批获得批准的应用预计将在新的一年开始逐步推出。
-查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代方案]]></description>
+查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/12/you-can-now-develop-and-install-third-party-apps-in-chatgpt-to-expand-its-capabilities/</guid>
       <pubDate>Thu, 18 Dec 2025 16:50:00 GMT</pubDate>
     </item>
@@ -74,8 +96,8 @@
       <title>Gemini 3 Flash 在 CLI 中推出，成本更低，代理编码得分最高</title>
       <link>https://alternativeto.net/news/2025/12/gemini-3-flash-launches-in-cli-with-lower-cost-and-top-agentic-coding-scores/</link>
       <description><![CDATA[Gemini 3 Flash 现已在 Gemini CLI 中提供，提供高频工作流程支持和预览版价格，价格不到 Gemini 3 Pro 的四分之一。该模型在代理编码方面获得了 78% 的 SWE 基准验证分数，优于 Gemini 2.5 和 Gemini 3 Pro。
-大多数付费层用户现在可以同时使用 Gemini 3 Pro 和 Gemini 3 Flash，而免费层的访问权限正在逐步扩大。
-查看有关 AlternativeTo 的文章有关 Google 的更多信息Gemini | Google Gemini 替代品]]></description>
+现在，大多数付费层用户都可以使用 Gemini 3 Pro 和 Gemini 3 Flash，而免费层的访问权限正在逐步扩大。
+查看有关 AlternativeTo 的文章有关 Google 的更多信息Gemini | Google Gemini 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/12/gemini-3-flash-launches-in-cli-with-lower-cost-and-top-agentic-coding-scores/</guid>
       <pubDate>Thu, 18 Dec 2025 15:40:23 GMT</pubDate>
     </item>
@@ -123,26 +145,6 @@
 查看有关 AlternativeTo 的文章更多信息Drupal | Drupal 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/12/drupal-11-3-delivers-major-performance-boost-native-htmx-stable-navigation-module-and-more/</guid>
       <pubDate>Thu, 18 Dec 2025 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 推出 SAM Audio，这是一种用于直观声音分割和隔离的 AI 模型</title>
-      <link>https://alternativeto.net/news/2025/12/meta-launches-sam-audio-an-ai-model-for-intuitive-sound-segmentation-and-isolation/</link>
-      <description><![CDATA[Meta 推出了 SAM Audio，这是一种最先进的人工智能模型，可为用户带来先进的声音分段。该工具可以从复杂的音频混合物中分离出特定的声音，例如分离歌曲中的乐器或声音。用户可以使用直观的文本、视觉或基于时间的提示来过滤掉不需要的声音，例如视频中的背景流量或播客中的狗吠声。
-遵循简化音频编辑的趋势，SAM Audio 反映了人们如何自然地与声音交互。它旨在让创作者、业余爱好者和非专家更容易获得专业级音频分离。以前，音频编辑依赖于单一用途工具的分散生态系统，但 SAM Audio 将这些功能统一在一个模型下，并在不同的真实音频场景中提供先进的结果。
-除了乐器和人声隔离之外，核心用例还包括噪声过滤和支持广泛的创意音频工作流程。对于那些有兴趣探索其功能的人来说，SAM Audio 现在可供下载，或者可以在 Segment Anything Playground 中试用。
-查看有关 AlternativeTo 的文章有关 SAM 的更多信息音频 | SAM 音频替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/meta-launches-sam-audio-an-ai-model-for-intuitive-sound-segmentation-and-isolation/</guid>
-      <pubDate>Thu, 18 Dec 2025 08:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌推出Gemini 3 Flash作为Gemini应用程序和AI搜索模式的新默认型号</title>
-      <link>https://alternativeto.net/news/2025/12/google-launches-gemini-3-flash-as-the-new-default-model-in-gemini-app-and-ai-search-mode/</link>
-      <description><![CDATA[Google 已推出 Gemini 3 Flash 作为 Gemini 应用中的新默认模式以及 Google 搜索中的 AI 模式，取代 Gemini 2.5 闪存全球。该型号基于 Gemini 3 Pro，后者仅在几周前推出，定位为更快、更实惠。 Google 表示，Gemini 3 Flash 的性能显着优于之前的 Flash 型号，并且达到了与 Gemini 3 Pro 和 GPT 5.2 等前沿型号相当的基准测试结果。
-Gemini 3 Flash 提供了强大的学术和推理性能，在 MMMU Pro 基准测试中超越了 Gemini 3 Pro，并在 Humanity 的最后考试中接近，在不使用工具的情况下得分为 33.7%。这些成果比之前的 Flash 模型仅六个月就实现了，反映了高级领域知识的显着进步。
-Google 还将其实验性 Vibe 编码工具 Google Opal 集成到 Gemini 应用中，允许用户创建“vibe 编码”的应用程序。使用自然语言通过 Gems 开发迷你应用程序，并由可视化编辑器和基于步骤的流程视图支持。开发者可以通过 Gemini API、Google AI Studio、Google Antigravity、Gemini 来使用 Gemini 3 Flash CLI、Android Studio，以及通过 Vertex AI 向企业提供。
-查看有关 AlternativeTo 的文章有关 Google 的更多信息Gemini | Google Gemini 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/google-launches-gemini-3-flash-as-the-new-default-model-in-gemini-app-and-ai-search-mode/</guid>
-      <pubDate>Thu, 18 Dec 2025 00:00:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
