@@ -4,7 +4,74 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Fri, 19 Dec 2025 12:41:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Dec 2025 01:28:35 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 推出 GPT-5.2-Codex，具有增强的编码、网络安全和视觉功能</title>
+      <link>https://alternativeto.net/news/2025/12/openai-launches-gpt-5-2-codex-with-enhanced-coding-cybersecurity-and-vision-capabilities/</link>
+      <description><![CDATA[OpenAI 推出了 GPT-5.2-Codex，这是迄今为止针对复杂的现实世界软件工程任务的最先进模型。该版本以上周发布的 GPT-5.2 为基础，专为代理编码而设计，并进行了优化，通过改进上下文压缩和在大型代码更改（例如，主要重构和迁移。它还可以在 Windows 环境中提供改进的结果。
+除了这些核心改进之外，GPT-5.2-Codex 还具有迄今为止最强大的网络安全功能。这些增强功能有望大规模增强安全性，但 OpenAI 指出，它们引入了新的双重用途风险，需要仔细管理。该模型能够更好地理解长上下文、执行可靠的工具调用以及保持改进的事实性，使其对于扩展的编码项目更加可靠，同时保持其令牌使用的效率。
+这些技术进步使 Codex 能够在大型存储库中进行长时间会话，保持上下文一致，并完成主要代码库操作。经过这些升级，GPT-5.2-Codex 中的视觉功能现在支持更准确地解释屏幕截图、技术图表和用户界面，支持从设计模型到生产就绪原型的开发。 GPT-5.2-Codex 可在所有 Codex 界面上供付费 ChatGPT 用户使用，计划在未来几周内提供 API 访问权限。
+查看有关 AlternativeTo 的文章有关 OpenAI 的更多信息Codex | OpenAI Codex 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/openai-launches-gpt-5-2-codex-with-enhanced-coding-cybersecurity-and-vision-capabilities/</guid>
+      <pubDate>Fri, 19 Dec 2025 20:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Next.js 16.1 发布，带有 Turbopack 文件系统缓存、Next.js 捆绑分析器等</title>
+      <link>https://alternativeto.net/news/2025/12/next-js-16-1-released-with-turbopack-file-system-caching-next-js-bundle-analyzer-and-more/</link>
+      <description><![CDATA[Next.js 16.1 已推出，作为流行开源 React 框架的最新更新，重点是更快的开发工作流程和更高的稳定性。开发人员将受益于 Turbopack 和项目工具的显着改进。开发服务器的 Turbopack 文件系统缓存现已稳定并默认启用，它将编译器工件存储在磁盘上，以加快编译时间，尤其是在大型项目中重新启动服务器时。
+在这些增强功能的基础上，更新引入了适用于 Turbopack 的新实验性捆绑分析器。该工具可以更轻松地优化服务器和客户端包大小，有助于改善 Core Web Vitals、缩短 lambda 冷启动时间并揭示不必要的依赖膨胀。 Bundle Analyzer 仍处于早期开发阶段，将进一步完善。
+为了进行调试，开发人员现在只需传递 --inspect 标志即可在 next dev 中启用 Node.js 调试器。此更改仅将检查器应用于相关流程，从而无需全局 NODE_OPTIONS=--inspect 解决方法。在依赖项管理方面，Turbopack 现在可以在使用 serverExternalPackages 时正确解析和外部化传递依赖项，从而减少设置摩擦并避免版本冲突。
+其他改进包括 20 MB 的较小安装、新的下一次升级命令以及其他增强功能。
+查看有关 AlternativeTo 的文章更多信息Next.js | Next.js 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/next-js-16-1-released-with-turbopack-file-system-caching-next-js-bundle-analyzer-and-more/</guid>
+      <pubDate>Fri, 19 Dec 2025 16:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mulvad 推出 GotaTun，一款基于 Rust 的 Android WireGuard</title>
+      <link>https://alternativeto.net/news/2025/12/mullvad-launches-gotatun-a-rust-based-wireguard-for-android/</link>
+      <description><![CDATA[Mullvad 为其 Android VPN 应用程序推出了 GotaTun，这是一种用 Rust 编写的新 WireGuard 实现。该更新取代了wireguard-go，并将用户感知的崩溃率从0.40% 降低到0.01%。 GotaTun 包括增强的隐私功能，例如 DAITA 和 Multihop，以及优化的 Android 支持。
+计划明年推出更多平台。
+查看有关 AlternativeTo 的文章有关 Mullvad 的更多信息 | Mullvad 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/mullvad-launches-gotatun-a-rust-based-wireguard-for-android/</guid>
+      <pubDate>Fri, 19 Dec 2025 16:05:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 增加了对 iOS、Android 和 Web 用户的固定聊天支持</title>
+      <link>https://alternativeto.net/news/2025/12/chatgpt-adds-pinned-chat-support-for-ios-android-and-web-users/</link>
+      <description><![CDATA[ChatGPT 正在为 iOS、Android 和 Web 用户引入固定聊天功能，让重要对话可以跨设备轻松访问。
+用户可以通过点击网络上对话旁边的省略号或长按移动设备来固定聊天。
+查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/chatgpt-adds-pinned-chat-support-for-ios-android-and-web-users/</guid>
+      <pubDate>Fri, 19 Dec 2025 16:01:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitLab 18.7 版本带来了秘密有效性检查和人工智能驱动的 SAST 检测</title>
+      <link>https://alternativeto.net/news/2025/12/gitlab-18-7-release-brings-secret-validity-checks-and-ai-powered-sast-detection/</link>
+      <description><![CDATA[GitLab 18.7 现已推出，具有普遍可用的秘密有效性检查以及对 Google Cloud、AWS 和 Postman 的扩展集成，以及增强的报告过滤和组级 API 推出。该版本在面向 Ultimate 客户的免费测试版中添加了人工智能驱动的 SAST 误报检测，通过自动识别可能的误报来简化漏洞分类。
+GitLab Duo 和 SDLC 趋势仪表板中改进的分析现在可跟踪功能采用、代码生成和管道性能，此外新端点支持提取实例级 AI 使用数据。
+查看有关 AlternativeTo 的文章更多信息GitLab | GitLab 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/12/gitlab-18-7-release-brings-secret-validity-checks-and-ai-powered-sast-detection/</guid>
+      <pubDate>Fri, 19 Dec 2025 15:50:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Immich v2.4.0：命令面板、增强共享和改进的移动导航</title>
+      <link>https://alternativeto.net/news/2025/12/immich-v2-4-0-command-palette-enhanced-sharing-and-improved-mobile-navigation/</link>
+      <description><![CDATA[Immich v2.4.0 引入了命令面板，允许用户通过键盘快捷键在 Web 应用程序中导航和执行操作。此更新还允许在共享相册中显示资产所有者姓名，并允许用户直接从搜索栏切换搜索类型。
+其他改进包括重新组织移动资产查看器中的操作按钮以及修复高并发下的元数据提取。
+查看有关 AlternativeTo 的文章更多信息Immich | Immich 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/immich-v2-4-0-command-palette-enhanced-sharing-and-improved-mobile-navigation/</guid>
+      <pubDate>Fri, 19 Dec 2025 15:37:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mistral OCR 3 在文本和图像提取的准确性和效率方面实现了重大飞跃</title>
+      <link>https://alternativeto.net/news/2025/12/mistral-ocr-3-delivers-major-leap-in-accuracy-and-efficiency-for-text-and-image-extraction/</link>
+      <description><![CDATA[Mistral 推出了 OCR 3，为文档处理的准确性和效率设立了新标准。更新后的模型以高保真度从各种文档中提取文本和嵌入图像。它引入了 Markdown 输出以及基于 HTML 的表格重建，允许下游系统保留文档结构和内容。
+Mistral OCR 3 超越了其前身，在表单、扫描文档、复杂表格和手写等具有挑战性的领域上，Mistral OCR 2 的胜率比 Mistral OCR 2 高出 74%。该模型显着改进了对草书、混合内容注释、打印表格上分层的手写条目的解释，以及对框、标签和密集布局的检测。稳健性也得到了提高，对压缩伪影、倾斜、文档失真、每英寸点数低和背景噪音的抵抗能力更强。 Mistral OCR 3 支持高级表格重建。它现在支持识别标题、合并单元格、多行块和基于列的层次结构。
+更新后的 AI 模型可通过 API 集成或 Mistral AI Studio 中更新的文档 AI 用户界面进行访问，为开发人员和企业用户提供纯文本或结构化 JSON 的即时提取。该版本提供了所有语言和文档类型的升级。起价为每 1,000 页 2 美元，批量模式下降至 1 美元。 Mistral OCR 3 完全向后兼容 OCR 2。
+查看有关 AlternativeTo 的文章更多信息Mistral Le Chat | Mistral Le Chat 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/mistral-ocr-3-delivers-major-leap-in-accuracy-and-efficiency-for-text-and-image-extraction/</guid>
+      <pubDate>Fri, 19 Dec 2025 13:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>Waterfox 反对 Mozilla 的人工智能愿景并倡导隐私优先浏览</title>
       <link>https://alternativeto.net/news/2025/12/waterfox-pushes-back-against-mozilla-s-ai-vision-and-advocates-for-privacy-first-browsing/</link>
@@ -82,69 +149,6 @@ Grok 语音代理专为多语言交互而设计。他们以母语水平的精确
 查看有关 AlternativeTo 的文章有关 Raycast 的更多信息 | Raycast 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/12/raycast-adds-customizable-fallback-commands-and-new-system-control-options/</guid>
       <pubDate>Thu, 18 Dec 2025 15:53:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Notesnook v3.3.6 推出 Wrapped 2025 回顾，添加分析和移动表格升级</title>
-      <link>https://alternativeto.net/news/2025/12/notesnook-v3-3-6-launches-wrapped-2025-recap-adds-analytics-and-mobile-table-upgrades/</link>
-      <description><![CDATA[Notesnook v3.3.6 引入了 Wrapped 2025，为用户提供本地生成的私人年度活动摘要。该更新还首次推出了专着分析功能，使浏览次数可用于从此版本开始的已发布内容。
-移动设备上表格编辑的重大改进现在允许基于触摸的列大小调整和增强的单元格选择。此外，该版本还包括 50 多个错误修复和跨平台的可靠性增强。
-查看有关 AlternativeTo 的文章更多信息Notesnook | Notesnook 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/notesnook-v3-3-6-launches-wrapped-2025-recap-adds-analytics-and-mobile-table-upgrades/</guid>
-      <pubDate>Thu, 18 Dec 2025 15:45:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemini 3 Flash 在 CLI 中推出，成本更低，代理编码得分最高</title>
-      <link>https://alternativeto.net/news/2025/12/gemini-3-flash-launches-in-cli-with-lower-cost-and-top-agentic-coding-scores/</link>
-      <description><![CDATA[Gemini 3 Flash 现已在 Gemini CLI 中提供，提供高频工作流程支持和预览版价格，价格不到 Gemini 3 Pro 的四分之一。该模型在代理编码方面获得了 78% 的 SWE 基准验证分数，优于 Gemini 2.5 和 Gemini 3 Pro。
-现在，大多数付费层用户都可以使用 Gemini 3 Pro 和 Gemini 3 Flash，而免费层的访问权限正在逐步扩大。
-查看有关 AlternativeTo 的文章有关 Google 的更多信息Gemini | Google Gemini 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/12/gemini-3-flash-launches-in-cli-with-lower-cost-and-top-agentic-coding-scores/</guid>
-      <pubDate>Thu, 18 Dec 2025 15:40:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Perplexity 推出新的 iPad 应用程序，具有完整的功能集和 iPadOS 支持</title>
-      <link>https://alternativeto.net/news/2025/12/perplexity-launches-new-ipad-app-with-full-feature-set-and-ipados-support/</link>
-      <description><![CDATA[Perplexity 推出了新的 iPad 应用程序，为 iPadOS 提供全面支持，现已在 App Store 上架。该应用程序提供对所有核心 Perplexity 功能的访问，包括实验室、深度研究、金融、空间和发现。它专为提高生产力而设计，支持多任务处理，并通过 iPad Stage Manager 与 Notion 和 Slack 等工具集成。
-查看有关 AlternativeTo 的文章更多信息困惑 | 困惑替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/12/perplexity-launches-new-ipad-app-with-full-feature-set-and-ipados-support/</guid>
-      <pubDate>Thu, 18 Dec 2025 15:31:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Instagram reels 现已可在美国 Fire TV 上进行测试</title>
-      <link>https://alternativeto.net/news/2025/12/instagram-reels-now-available-for-testing-on-fire-tv-in-the-us/</link>
-      <description><![CDATA[Instagram 已开始在美国的 Fire TV 设备上测试卷轴播放，允许用户在更大的屏幕上观看短视频。在美国首次推出时使用英语。
-查看有关 AlternativeTo 的文章更多信息Instagram | Instagram 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/instagram-reels-now-available-for-testing-on-fire-tv-in-the-us/</guid>
-      <pubDate>Thu, 18 Dec 2025 15:25:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Coinbase 推出股票交易、预测市场、Solana 代币、新的 Base 应用程序等</title>
-      <link>https://alternativeto.net/news/2025/12/coinbase-introduces-stock-trading-prediction-markets-solana-tokens-new-base-app-and-more/</link>
-      <description><![CDATA[Coinbase 推出了一系列新功能，将传统金融和数字金融整合到其平台中。美国用户现在可以进行股票交易，允许他们购买、出售和管理领先股票和 ETF 以及现有的加密货币持有量。此功能支持美元和美元硬币交易，所有交易均在统一的 Coinbase 账户中进行管理。
-此外，Coinbase 正在为美国客户推出预测市场，支持根据选举、体育、收藏品和经济指标等现实世界事件的结果进行交易。这些事件合约根据市场参与者的行为定价，Kalshi 提供初始市场流量。基于交易功能，用户很快将受益于扩展的去中心化交易所集成，该集成提供对 Solana 区块链代币的访问。此次更新让用户可以利用 Solana 的高速且经济高效的基础设施，从发布之日起就可以交易数百万种新资产。
-除了这些交易升级之外，Coinbase 应用程序还为期货和永续期货交易引入了简化的体验。美国和新加坡的企业现在可以使用 Coinbase Business，这是一个面向初创公司和小型企业的加密优先平台。该平台还配备了新的 Coinbase Advisor（一种人工智能驱动的财务管理工具）以及“一切”Base 应用程序（现已在 140 多个国家/地区推出）。
-查看有关 AlternativeTo 的文章更多信息Coinbase | Coinbase 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/coinbase-introduces-stock-trading-prediction-markets-solana-tokens-new-base-app-and-more/</guid>
-      <pubDate>Thu, 18 Dec 2025 15:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Floorp 12.8.0 添加了 Chrome 扩展支持和 MCP 服务器集成</title>
-      <link>https://alternativeto.net/news/2025/12/floorp-12-8-0-adds-chrome-extension-support-and-mcp-server-integration/</link>
-      <description><![CDATA[Floorp 12.8.0 现在允许用户直接从 Chrome 网上应用店安装 Chrome 扩展程序，但兼容性可能会有所不同。该更新还引入了对 MCP 服务器的支持，从而能够与外部 AI 工具集成。
-其他更改包括外部浏览器打开功能、删除分屏视图以支持 Firefox 的本机版本，以及解决 CSS 问题、制表符间距和更新过程的多个错误修复。
-查看有关 AlternativeTo 的文章更多信息地板 | 地板替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/floorp-12-8-0-adds-chrome-extension-support-and-mcp-server-integration/</guid>
-      <pubDate>Thu, 18 Dec 2025 15:02:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Drupal 11.3 提供了显着的性能提升、原生 HTMX、稳定的导航模块等</title>
-      <link>https://alternativeto.net/news/2025/12/drupal-11-3-delivers-major-performance-boost-native-htmx-stable-navigation-module-and-more/</link>
-      <description><![CDATA[Drupal 11.3 引入了 CMS 十年来最实质性的性能改进。此更新减少了冷缓存和热缓存中的数据库查询和缓存操作的数量。渲染和缓存层现在合并数据库和缓存活动，特别有利于路径别名和实体加载。前端也发生了重大变化，因为 BigPipe 现在使用 HTMX，从而减少了 JavaScript 并为网站访问者提供了更快的页面加载。
-除了性能更新之外，Drupal 11.3 还使 HTMX 成为一项核心功能，允许开发人员利用其无依赖性的现代 JavaScript 功能。经过这些架构更改，导航模块现已稳定发布，用更现代的导航体验取代了旧的工具栏。内容编辑者受益于 CKEditor 的增强功能，能够通过自动完成和下拉菜单链接到内部网站内容，同时改进的选项简化了列表格式以实现更好的内容呈现。
-这些改进扩展到主题和开发人员工作流程。主题现在支持模块使用的 #[Hook()] 属性系统，从而实现更清晰的集成和更易于维护的代码。该版本还在核心中加入了一个命令行工具，用于以社区支持的“默认内容”模块首创的标准化格式导出内容。虽然是实验性的，但还提供了新的 MySQLi 数据库驱动程序，为测试新后端配置的人员提供早期访问。
-查看有关 AlternativeTo 的文章更多信息Drupal | Drupal 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/drupal-11-3-delivers-major-performance-boost-native-htmx-stable-navigation-module-and-more/</guid>
-      <pubDate>Thu, 18 Dec 2025 10:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
