@@ -4,11 +4,11 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sun, 21 Dec 2025 01:47:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 12:39:38 GMT</lastBuildDate>
     <item>
       <title>Kdenlive 25.12.0 增加了灵活的对接系统、新布局和菜单检修</title>
       <link>https://alternativeto.net/news/2025/12/kdenlive-25-12-0-adds-flexible-docking-system-new-layouts-and-menu-overhaul/</link>
-      <description><![CDATA[Kdenlive 25.12.0 已发布，带有重新设计的对接系统，允许更灵活地对小部件进行分组、显示或隐藏。布局现在保存为单独的文件，并嵌入到项目文件中，因此重新打开项目会恢复相同的工作空间。现有的自定义布局与此系统不兼容，必须重新创建。
+      <description><![CDATA[Kdenlive 25.12.0 已发布，带有重新设计的对接系统，允许更灵活地对小部件进行分组、显示或隐藏。布局现在保存为单独的文件，并嵌入到项目文件中，因此重新打开项目将恢复相同的工作空间。现有的自定义布局与此系统不兼容，必须重新创建。
 此更新添加了一个带有快速快捷方式的新欢迎屏幕，以及垂直布局和旨在编辑 9:16 视频的可选安全区域。菜单进行了重组，以遵循常见的专业编辑惯例，并将渲染和项目设置等文件相关操作移至“文件”菜单中。
 其他更改包括改进的 UI 本地化支持、改进的音频监视器（带有用于放大音频部分的小地图）以及将时间线指南重命名为标记。标记现在可以有持续时间，并可以直接从标记列表拖动到时间线中。该版本还修复了超过 15 个崩溃问题，并解决了用户名中的特殊字符导致的 Windows 渲染失败以及在项目之间复制内容时项目损坏等问题。
 查看有关 AlternativeTo 的文章更多信息Kdenlive | Kdenlive 替代品]]></description>
@@ -21,7 +21,7 @@
       <description><![CDATA[OpenAI 推出了 GPT-5.2-Codex，这是迄今为止针对复杂的现实世界软件工程任务的最先进模型。该版本以上周发布的 GPT-5.2 为基础，专为代理编码而设计，并进行了优化，通过改进上下文压缩和在大型代码更改（例如，主要重构和迁移。它还可以在 Windows 环境中提供改进的结果。
 除了这些核心改进之外，GPT-5.2-Codex 还具有迄今为止最强大的网络安全功能。这些增强功能有望大规模增强安全性，但 OpenAI 指出，它们引入了新的双重用途风险，需要仔细管理。该模型能够更好地理解长上下文、执行可靠的工具调用以及保持改进的事实性，使其对于扩展的编码项目更加可靠，同时保持其令牌使用的效率。
 这些技术进步使 Codex 能够在大型存储库中进行长时间会话，保持上下文一致，并完成主要代码库操作。经过这些升级，GPT-5.2-Codex 中的视觉功能现在支持更准确地解释屏幕截图、技术图表和用户界面，支持从设计模型到生产就绪原型的开发。 GPT-5.2-Codex 可在所有 Codex 界面上供付费 ChatGPT 用户使用，计划在未来几周内提供 API 访问权限。
-查看有关 AlternativeTo 的文章有关 OpenAI 的更多信息Codex | OpenAI Codex 替代品]]></description>
+查看有关 AlternativeTo 的文章有关 OpenAI 的更多信息Codex | OpenAI Codex 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/12/openai-launches-gpt-5-2-codex-with-enhanced-coding-cybersecurity-and-vision-capabilities/</guid>
       <pubDate>Fri, 19 Dec 2025 20:05:00 GMT</pubDate>
     </item>
@@ -32,7 +32,7 @@
 在这些增强功能的基础上，更新引入了适用于 Turbopack 的新实验性捆绑分析器。该工具可以更轻松地优化服务器和客户端包大小，有助于改善 Core Web Vitals、缩短 lambda 冷启动时间并揭示不必要的依赖膨胀。 Bundle Analyzer 仍处于早期开发阶段，将进一步完善。
 为了进行调试，开发人员现在只需传递 --inspect 标志即可在 next dev 中启用 Node.js 调试器。此更改仅将检查器应用于相关流程，从而无需全局 NODE_OPTIONS=--inspect 解决方法。在依赖项管理方面，Turbopack 现在可以在使用 serverExternalPackages 时正确解析和外部化传递依赖项，从而减少设置摩擦并避免版本冲突。
 其他改进包括 20 MB 的较小安装、新的下一次升级命令以及其他增强功能。
-查看有关 AlternativeTo 的文章更多信息Next.js | Next.js 替代品]]></description>
+查看有关 AlternativeTo 的文章更多信息Next.js | Next.js 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/12/next-js-16-1-released-with-turbopack-file-system-caching-next-js-bundle-analyzer-and-more/</guid>
       <pubDate>Fri, 19 Dec 2025 16:50:00 GMT</pubDate>
     </item>
@@ -41,7 +41,7 @@
       <link>https://alternativeto.net/news/2025/12/mullvad-launches-gotatun-a-rust-based-wireguard-for-android/</link>
       <description><![CDATA[Mullvad 为其 Android VPN 应用程序推出了 GotaTun，这是一种用 Rust 编写的新 WireGuard 实现。该更新取代了wireguard-go，并将用户感知的崩溃率从0.40% 降低到0.01%。 GotaTun 包括增强的隐私功能，例如 DAITA 和 Multihop，以及优化的 Android 支持。
 计划明年推出更多平台。
-查看有关 AlternativeTo 的文章有关 Mullvad 的更多信息 | Mullvad 替代品]]></description>
+查看有关 AlternativeTo 的文章有关 Mullvad 的更多信息 | Mullvad 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/12/mullvad-launches-gotatun-a-rust-based-wireguard-for-android/</guid>
       <pubDate>Fri, 19 Dec 2025 16:05:34 GMT</pubDate>
     </item>
@@ -68,7 +68,7 @@ GitLab Duo 和 SDLC 趋势仪表板中改进的分析现在可跟踪功能采用
       <link>https://alternativeto.net/news/2025/12/immich-v2-4-0-command-palette-enhanced-sharing-and-improved-mobile-navigation/</link>
       <description><![CDATA[Immich v2.4.0 引入了命令面板，允许用户通过键盘快捷键在 Web 应用程序中导航和执行操作。此更新还允许在共享相册中显示资产所有者姓名，并允许用户直接从搜索栏切换搜索类型。
 其他改进包括重新组织移动资产查看器中的操作按钮以及修复高并发下的元数据提取。
-查看有关 AlternativeTo 的文章更多信息Immich | Immich 替代品]]></description>
+查看有关 AlternativeTo 的文章更多信息Immich | Immich 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/12/immich-v2-4-0-command-palette-enhanced-sharing-and-improved-mobile-navigation/</guid>
       <pubDate>Fri, 19 Dec 2025 15:37:27 GMT</pubDate>
     </item>
@@ -107,7 +107,7 @@ Grok 语音代理专为多语言交互而设计。他们以母语水平的精确
     <item>
       <title>ElevenLabs 将 WhatsApp 添加到其全渠道代理平台中，以实现统一的语音和聊天</title>
       <link>https://alternativeto.net/news/2025/12/elevenlabs-adds-whatsapp-to-its-omnichannel-agents-platform-for-unified-voice-and-chat/</link>
-      <description><![CDATA[ElevenLabs 扩展了其全渠道代理平台，包括对 WhatsApp 的支持，允许企业跨网络、移动设备、电话线路部署相同的人工智能驱动的代理，现在已成为全球最大的消息应用程序之一。团队可以设计一次代理，然后在每个支持的渠道上提供无缝且统一的客户体验。
+      <description><![CDATA[ElevenLabs 扩展了其全渠道代理平台，新增了对 WhatsApp 的支持，允许企业跨网络、移动设备、电话线路部署相同的人工智能驱动代理，现已成为全球最大的消息应用程序之一。团队可以设计一次代理，然后在每个支持的渠道上提供无缝且统一的客户体验。
 通过此更新，企业能够直接在 WhatsApp 内提供实时语音和聊天交互。这一新增功能可以在客户已经使用的平台上满足客户的需求，使支持和参与变得更容易，同时保持消息、电话、网络和移动设备之间的交互一致。
 用户可以通过语音或打字与 WhatsApp 上的客服人员互动。代理以与其他平台相同的推理、语音质量和知识库进行响应。无论客户是通过网站、电话还是 WhatsApp 消息开始对话，这种方法都能保证统一的用户体验。
 除了扩大渠道覆盖范围之外，ElevenLabs 平台还为团队提供了单一、集中的客户互动视图。团队可以从一个位置分析记录、评估绩效并更新座席行为。更新会立即应用于所有渠道，确保合规性并减少运营工作量。
@@ -137,7 +137,7 @@ Grok 语音代理专为多语言交互而设计。他们以母语水平的精确
     <item>
       <title>AltStore PAL 扩展到日本，现已适用于 iOS 26.2 及更高版本</title>
       <link>https://alternativeto.net/news/2025/12/altstore-pal-expands-to-japan-now-available-for-ios-26-2-and-above/</link>
-      <description><![CDATA[AltStore PAL 现已向日本的 iPhone 和 iPad 用户开放，这标志着该平台首次扩展到欧盟以外的地区。设备必须运行 iOS 26.2 或更高版本才能访问该服务。自该平台首次在欧盟推出以来，已有超过 100 万用户加入。
+      <description><![CDATA[AltStore PAL 现已向日本的 iPhone 和 iPad 用户推出，这标志着该平台首次扩展到欧盟以外的地区。设备必须运行 iOS 26.2 或更高版本才能访问该服务。自该平台首次在欧盟推出以来，已有超过 100 万用户加入。
 查看有关 AlternativeTo 的文章更多信息AltStore | AltStore 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/12/altstore-pal-expands-to-japan-now-available-for-ios-26-2-and-above/</guid>
       <pubDate>Thu, 18 Dec 2025 16:06:25 GMT</pubDate>
