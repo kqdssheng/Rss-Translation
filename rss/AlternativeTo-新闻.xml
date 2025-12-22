@@ -4,11 +4,31 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sun, 21 Dec 2025 12:39:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 01:47:00 GMT</lastBuildDate>
+    <item>
+      <title>在对 Firefox AI 计划强烈反对后，开发人员澄清用户可以完全禁用 AI 功能</title>
+      <link>https://alternativeto.net/news/2025/12/after-backlash-over-firefox-ai-plans-a-dev-clarifies-users-can-fully-disable-ai-features/</link>
+      <description><![CDATA[继最近对 Mozilla 新任首席执行官及其之前宣布的对 Firefox 人工智能功能的立场的强烈反对之后，一位名叫 Jake Archibald 的 Firefox 开发人员针对 Mastodon 发布了公开澄清，解决了用户提出的一些最常见的担忧。他解释说，该浏览器将包含一个全局AI终止开关，允许用户完全禁用浏览器中所有与AI相关的功能。一旦启用，开关将从界面中删除人工智能元素并阻止它们返回，除非用户手动将它们重新打开。
+Archibald 还确认，所有即将推出的 AI 功能都将被选择加入，这意味着用户不会默认注册。他承认，选择加入可以有不同的解释，例如默认出现的工具栏按钮是否算作参与。即便如此，他强调终止开关是明确的，并且通过完全禁用人工智能功能来消除任何歧义。
+虽然这一澄清有助于缓解隐私问题，并明确表示人工智能功能不会强加给用户（至少目前如此），但许多人仍然认为，核心问题不在于这些功能是否可以，而在于开发资源应该集中在性能和核心浏览器改进上，而在人工智能上投入时间和金钱的决定被视为 Mozilla 优先事项的明确信号。与此同时，其他浏览器也利用这种情况大声疾呼并明确反对人工智能集成，包括同样基于 Firefox 的 Waterfox 和维瓦尔第。
+查看有关 AlternativeTo 的文章有关 Mozilla 的更多信息Firefox | Mozilla Firefox 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/after-backlash-over-firefox-ai-plans-a-dev-clarifies-users-can-fully-disable-ai-features/</guid>
+      <pubDate>Sun, 21 Dec 2025 16:58:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bento 将于 2026 年关闭，Linktree 接管并提供迁移路径</title>
+      <link>https://alternativeto.net/news/2025/12/bento-to-shut-down-in-2026-as-linktree-takes-over-and-offers-migration-path/</link>
+      <description><![CDATA[单页链接中心的着陆页创建者 Bento.me 宣布将于 2026 年 2 月 13 日关闭，距离被 Linktree 收购已有两年多了。该公司将该决定描述为有计划的过渡，并为用户提供了关闭页面的明确时间表。
+关闭后，所有 Bento 用户和个人资料数据将被永久删除，现有的 Bento 链接将重定向到 Linktree。建议用户在截止日期之前导出他们想要保留的任何内容。 Bento 还将通过电子邮件向用户发送迁移说明和特殊的 Linktree Pro 优惠，而 Linktree 表示，它添加了受 Bento 启发的功能，包括视觉布局、内容块和媒体嵌入。
+这并不是 Linktree 第一次采用这种方法。 2024 年 1 月，Linktree 收购了另一个类似的竞争对手 Koji，并在收购后不久关闭了其平台收购，反映了 Bento 现在采取的路径。
+查看有关 AlternativeTo 的文章更多信息Bento.me | Bento.me 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/bento-to-shut-down-in-2026-as-linktree-takes-over-and-offers-migration-path/</guid>
+      <pubDate>Sun, 21 Dec 2025 16:36:21 GMT</pubDate>
+    </item>
     <item>
       <title>Kdenlive 25.12.0 增加了灵活的对接系统、新布局和菜单检修</title>
       <link>https://alternativeto.net/news/2025/12/kdenlive-25-12-0-adds-flexible-docking-system-new-layouts-and-menu-overhaul/</link>
-      <description><![CDATA[Kdenlive 25.12.0 已发布，带有重新设计的对接系统，允许更灵活地对小部件进行分组、显示或隐藏。布局现在保存为单独的文件，并嵌入到项目文件中，因此重新打开项目将恢复相同的工作空间。现有的自定义布局与此系统不兼容，必须重新创建。
+      <description><![CDATA[Kdenlive 25.12.0 已发布，带有重新设计的对接系统，允许更灵活地对小部件进行分组、显示或隐藏。布局现在保存为单独的文件，并嵌入到项目文件中，因此重新打开项目会恢复相同的工作空间。现有的自定义布局与此系统不兼容，必须重新创建。
 此更新添加了一个带有快速快捷方式的新欢迎屏幕，以及垂直布局和旨在编辑 9:16 视频的可选安全区域。菜单进行了重组，以遵循常见的专业编辑惯例，并将渲染和项目设置等文件相关操作移至“文件”菜单中。
 其他更改包括改进的 UI 本地化支持、改进的音频监视器（带有用于放大音频部分的小地图）以及将时间线指南重命名为标记。标记现在可以有持续时间，并可以直接从标记列表拖动到时间线中。该版本还修复了超过 15 个崩溃问题，并解决了用户名中的特殊字符导致的 Windows 渲染失败以及在项目之间复制内容时项目损坏等问题。
 查看有关 AlternativeTo 的文章更多信息Kdenlive | Kdenlive 替代品]]></description>
@@ -107,7 +127,7 @@ Grok 语音代理专为多语言交互而设计。他们以母语水平的精确
     <item>
       <title>ElevenLabs 将 WhatsApp 添加到其全渠道代理平台中，以实现统一的语音和聊天</title>
       <link>https://alternativeto.net/news/2025/12/elevenlabs-adds-whatsapp-to-its-omnichannel-agents-platform-for-unified-voice-and-chat/</link>
-      <description><![CDATA[ElevenLabs 扩展了其全渠道代理平台，新增了对 WhatsApp 的支持，允许企业跨网络、移动设备、电话线路部署相同的人工智能驱动代理，现已成为全球最大的消息应用程序之一。团队可以设计一次代理，然后在每个支持的渠道上提供无缝且统一的客户体验。
+      <description><![CDATA[ElevenLabs 扩展了其全渠道代理平台，包括对 WhatsApp 的支持，允许企业跨网络、移动设备、电话线路部署相同的人工智能驱动的代理，现在已成为全球最大的消息应用程序之一。团队可以设计一次代理，然后在每个支持的渠道上提供无缝且统一的客户体验。
 通过此更新，企业能够直接在 WhatsApp 内提供实时语音和聊天交互。这一新增功能可以在客户已经使用的平台上满足客户的需求，使支持和参与变得更容易，同时保持消息、电话、网络和移动设备之间的交互一致。
 用户可以通过语音或打字与 WhatsApp 上的客服人员互动。代理以与其他平台相同的推理、语音质量和知识库进行响应。无论客户是通过网站、电话还是 WhatsApp 消息开始对话，这种方法都能保证统一的用户体验。
 除了扩大渠道覆盖范围之外，ElevenLabs 平台还为团队提供了单一、集中的客户互动视图。团队可以从一个位置分析记录、评估绩效并更新座席行为。更新会立即应用于所有渠道，确保合规性并减少运营工作量。
@@ -133,23 +153,6 @@ Grok 语音代理专为多语言交互而设计。他们以母语水平的精确
 查看有关 AlternativeTo 的文章有关 VLC 媒体的更多信息播放器 | VLC 媒体播放器替代品]]></description>
       <guid>https://alternativeto.net/news/2025/12/vlc-3-0-23-targets-windows-fixes-security-updates-and-audio-info/</guid>
       <pubDate>Thu, 18 Dec 2025 16:13:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>AltStore PAL 扩展到日本，现已适用于 iOS 26.2 及更高版本</title>
-      <link>https://alternativeto.net/news/2025/12/altstore-pal-expands-to-japan-now-available-for-ios-26-2-and-above/</link>
-      <description><![CDATA[AltStore PAL 现已向日本的 iPhone 和 iPad 用户推出，这标志着该平台首次扩展到欧盟以外的地区。设备必须运行 iOS 26.2 或更高版本才能访问该服务。自该平台首次在欧盟推出以来，已有超过 100 万用户加入。
-查看有关 AlternativeTo 的文章更多信息AltStore | AltStore 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/12/altstore-pal-expands-to-japan-now-available-for-ios-26-2-and-above/</guid>
-      <pubDate>Thu, 18 Dec 2025 16:06:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>AdGuard for Mac v2.18 支持三种新的 AI 浏览器和 macOS 12+</title>
-      <link>https://alternativeto.net/news/2025/12/adguard-for-mac-v2-18-supports-three-new-ai-browsers-and-macos-12-/</link>
-      <description><![CDATA[AdGuard for Mac v2.18 现在支持 ChatGPT Atlas、Perplexity Comet 和 Dia 浏览器，在这些人工智能驱动的浏览器中启用广告拦截。此更新将新安装和更新的最低系统要求提高到 macOS 12 或更高版本。
-此外，过滤器列表管理器已进行了刷新，更新速度更快、更可靠。
-查看有关 AlternativeTo 的文章更多信息AdGuard | AdGuard 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/adguard-for-mac-v2-18-supports-three-new-ai-browsers-and-macos-12-/</guid>
-      <pubDate>Thu, 18 Dec 2025 16:02:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
