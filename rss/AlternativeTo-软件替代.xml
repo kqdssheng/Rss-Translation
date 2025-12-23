@@ -4,48 +4,48 @@
     <title>新版本 – AlternativeTo.net</title>
     <link>https://alternativeto.net/releases/all</link>
     <description>最新软件添加到 AlternativeTo</description>
-    <lastBuildDate>Mon, 22 Dec 2025 12:42:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 01:42:11 GMT</lastBuildDate>
     <item>
       <title>删除WindowsAI</title>
       <link>https://alternativeto.net/software/removewindowsai/about/</link>
       <description><![CDATA[Windows 11 脚本会自动删除 Copilot、Recall、AI Actions、Input Insights、AI 支持的应用集成，并在系统范围内禁用相关功能。查看 AlternativeTo 删除WindowsAI替代品]]></description>
       <guid>https://alternativeto.net/software/removewindowsai/about/</guid>
-      <pubDate>Mon, 22 Dec 2025 12:32:38 GMT</pubDate>
+      <pubDate>Tue, 23 Dec 2025 01:41:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>船长</title>
+      <link>https://alternativeto.net/software/capty/about/</link>
+      <description><![CDATA[Capty 是一款功能强大的 macOS 屏幕捕获和录制应用程序。截取屏幕截图、录制屏幕，并使用内置编辑器使它们看起来令人惊叹。在 AlternativeTo 上查看Capty Alternatives]]></description>
+      <guid>https://alternativeto.net/software/capty/about/</guid>
+      <pubDate>Tue, 23 Dec 2025 01:41:21 GMT</pubDate>
     </item>
     <item>
       <title>打开笔记本</title>
       <link>https://alternativeto.net/software/open-notebook/about/</link>
       <description><![CDATA[注重隐私的开源平台，支持超过 16 个 AI 模型提供商、多模式内容管理、高级全文和矢量搜索以及播客创建。查看 AlternativeTo Open Notebook替代方案]]></description>
       <guid>https://alternativeto.net/software/open-notebook/about/</guid>
-      <pubDate>Mon, 22 Dec 2025 12:32:38 GMT</pubDate>
+      <pubDate>Tue, 23 Dec 2025 01:41:21 GMT</pubDate>
     </item>
     <item>
       <title>盖流查找器</title>
       <link>https://alternativeto.net/software/coverflowfinder/about/</link>
       <description><![CDATA[macOS 文件浏览器具有经典的 3D Cover Flow 轮播、双窗格模式、快速查看预览、侧边栏导航、即时排序和强大的搜索功能。在 AlternativeTo 上查看CoverFlowFinder替代方案]]></description>
       <guid>https://alternativeto.net/software/coverflowfinder/about/</guid>
-      <pubDate>Mon, 22 Dec 2025 12:32:38 GMT</pubDate>
+      <pubDate>Tue, 23 Dec 2025 01:41:21 GMT</pubDate>
     </item>
     <item>
-      <title>全部任务线</title>
+      <title>任务线全部</title>
       <link>https://alternativeto.net/software/taskline-todo/about/</link>
       <description><![CDATA[在时间轴上可视化您的任务。通过拖放安排来管理您的一天。在 AlternativeTo 上查看TaskLine Todo 替代方案]]></description>
       <guid>https://alternativeto.net/software/taskline-todo/about/</guid>
-      <pubDate>Mon, 22 Dec 2025 12:32:38 GMT</pubDate>
+      <pubDate>Tue, 23 Dec 2025 01:41:21 GMT</pubDate>
     </item>
     <item>
-      <title>梨山口</title>
+      <title>梨通行证</title>
       <link>https://alternativeto.net/software/pearpass/about/</link>
       <description><![CDATA[完全本地的开源密码管理器，具有端到端加密、无云存储、设备间点对点同步、离线访问和强密码生成功能。查看 AlternativeTo PearPass替代方案]]></description>
       <guid>https://alternativeto.net/software/pearpass/about/</guid>
-      <pubDate>Mon, 22 Dec 2025 12:32:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>macUSB</title>
-      <link>https://alternativeto.net/software/macusb/about/</link>
-      <description><![CDATA[在现代 Mac 上创建旧版 macOS 可启动驱动器的最简单方法。使用 Apple Silicon 机器恢复旧的英特尔 Mac — 无需终端知识。查看 AlternativeTo macUSB 替代品]]></description>
-      <guid>https://alternativeto.net/software/macusb/about/</guid>
-      <pubDate>Mon, 22 Dec 2025 12:32:38 GMT</pubDate>
+      <pubDate>Tue, 23 Dec 2025 01:41:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
