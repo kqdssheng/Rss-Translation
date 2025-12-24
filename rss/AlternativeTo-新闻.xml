@@ -4,13 +4,72 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Tue, 23 Dec 2025 12:43:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 01:41:17 GMT</lastBuildDate>
+    <item>
+      <title>据报道，Spotify 库在 300TB 的 torrent 版本中被 Anna’s Archive 完全删除</title>
+      <link>https://alternativeto.net/news/2025/12/spotify-library-reportedly-fully-scraped-by-anna-s-archive-in-300tb-torrent-release/</link>
+      <description><![CDATA[盗版档案保管组织声称已经抓取了 Spotify 的整个音乐目录，收集了大约 8600 万首曲目以及总计接近 300 TB 的大量元数据。该项目背后的团队是 Anna’s Archive，这是一个以索引影子库而闻名的开源搜索引擎，该引擎表示数据涵盖超过 1500 万艺术家和超过 5800 万张专辑，这标志着其在通常关注书籍和学术文本之外的重大扩展。
+根据该组织的说法，抓取的内容正在使用其自定义的 Anna’s Archive Container 格式作为自托管种子发布。文件计划从最流行的曲目开始逐步推出。 Anna’s Archive 估计当前的档案覆盖了 Spotify 大约 99.6% 的收听内容，同时约占该平台总目录的 37%，预计随着时间的推移会添加更多材料。
+Spotify 回应称，它已识别并禁用涉及非法抓取的帐户，并实施了新的保障措施来防止类似活动。虽然 Anna’s Archive 将这项工作视为一个长期保存项目，但它承认共享和下载这些材料违反了知识产权法，并声称发布的数据集现在代表了最大的公开可用的音乐元数据集合。
+查看有关 AlternativeTo 的文章更多信息Spotify | Spotify 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/spotify-library-reportedly-fully-scraped-by-anna-s-archive-in-300tb-torrent-release/</guid>
+      <pubDate>Tue, 23 Dec 2025 19:46:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>postmarketOS 25.12 带来 Alpine 3.23 基础、GNOME 49、Plasma Mobile 6.5 和内核更新</title>
+      <link>https://alternativeto.net/news/2025/12/postmarketos-25-12-brings-alpine-3-23-base-gnome-49-plasma-mobile-6-5-and-kernel-updates/</link>
+      <description><![CDATA[postmarketOS 25.12 已发布，为移动和其他支持的设备提供最新升级。本次更新采用 Alpine Linux 3.23 作为基础。随之而来的是 Alpine Package Keeper 版本 3，现在可以在安装前下载所有软件包，即使在互联网连接不稳定的情况下也能提供更可靠的更新体验。
+基于系统增强功能，包管理器现在还将所有更改记录到 /var/log/apk.log，以帮助系统维护和故障排除。用户界面包出现多项更新：GNOME 49 发布，KDE Plasma Mobile 现已推出 6.5.3，改进了 Waydroid 集成和 Phosh 0.51.0 引入了自动亮度改进。 Sxmo也已更新至1.18.1版本。
+继这些用户体验更新之后，mobile-config-firefox 5.1.0 引入了新的 about:mobile 配置页面，用户可以通过该页面切换选项，包括地址栏是否显示在屏幕顶部或底部。该版本包括许多影响所有支持设备的内核升级、改进和修复。
+根据更严格的社区类别指南，通用 MSM8916 内核和相关设备现在被分类在测试类别下，尽管它们的映像仍然可用。 MSM8226设备现在采用通用设备封装，而使用APQ8064内核的设备已切换到MSM8960通用设备封装。
+查看有关 AlternativeTo 的文章更多关于 postmarketOS | postmarketOS 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/postmarketos-25-12-brings-alpine-3-23-base-gnome-49-plasma-mobile-6-5-and-kernel-updates/</guid>
+      <pubDate>Tue, 23 Dec 2025 16:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Clapper 0.10.0 将核心功能移至插件并添加 Lua 增强器支持</title>
+      <link>https://alternativeto.net/news/2025/12/clapper-0-10-0-moves-core-features-to-plugins-and-adds-lua-enhancer-support/</link>
+      <description><![CDATA[Clapper 0.10.0 将 MPRIS、Server 和 Discoverer 功能移至增强器插件中，现在可以通过首选项中的“调整”选项卡进行配置。该更新引入了对持久可配置属性的支持，并允许加载用 Lua 编写的增强器。
+新的用户功能包括 GStreamer 管道预览快捷方式、高级帧步进以及改进的窗口之间的拖放操作。
+查看有关 AlternativeTo 的文章更多信息Clapper | Clapper 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/clapper-0-10-0-moves-core-features-to-plugins-and-adds-lua-enhancer-support/</guid>
+      <pubDate>Tue, 23 Dec 2025 15:47:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lua 5.5带来了全局变量声明和只读循环变量</title>
+      <link>https://alternativeto.net/news/2025/12/lua-5-5-brings-global-variable-declarations-and-read-only-loop-variables/</link>
+      <description><![CDATA[Lua 5.5 引入了全局变量所需的声明，并强制 for 循环变量的只读行为。大型阵列现在使用的内存减少了约 60%，从而提高了内存密集型应用程序的效率。
+该版本还添加了 table.create 函数和增量主要垃圾收集。
+查看有关 AlternativeTo 的文章更多有关Lua | Lua 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/lua-5-5-brings-global-variable-declarations-and-read-only-loop-variables/</guid>
+      <pubDate>Tue, 23 Dec 2025 15:29:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Haruna 1.7.0 引入了播放列表分组、改进的错误修复和 Hana 集成</title>
+      <link>https://alternativeto.net/news/2025/12/haruna-1-7-0-introduces-playlist-grouping-improved-bugfixes-and-hana-integration/</link>
+      <description><![CDATA[Haruna 版本 1.7.0 引入了高级播放列表排序和分组来简化媒体管理。该版本还添加了上下文菜单集成，用于在 Hana 缩略图生成器中打开文件，并带来了音频标准化的重放增益设置。
+重要的错误修复解决了数据库文件夹创建、搜索栏工具提示更新、自定义命令删除和 URL 保存问题。
+查看有关 AlternativeTo 的文章更多信息榛名 | 榛名替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/haruna-1-7-0-introduces-playlist-grouping-improved-bugfixes-and-hana-integration/</guid>
+      <pubDate>Tue, 23 Dec 2025 15:19:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>超越 Adob​​e 昂贵的产品：我的 Linux 上的图形设计师工具箱</title>
+      <link>https://alternativeto.net/news/2025/12/beyond-adobe-s-pricey-products-my-graphic-designer-s-toolbox-on-linux/</link>
+      <description><![CDATA[我花了数年时间使用 Adobe 的重量级套件、Photoshop、Illustrator、InDesign 和 Premiere 主要在 macOS 上，将每次启动视为一种仪式。但 macOS 和 Apple 硬件的封闭性最终感觉更像是一个笼子而不是画布，所以几年前我跳到了 Fedora、Linux。这一举动迫使我告别了 Adobe，它顽固地拒绝在 Windows 或 macOS 以外的任何平台上运行，并开始寻找开源或跨平台的替代品，以便让我的工作流程保持正常运行，而无需花费大量资金。
+对于矢量工作，Inkscape 已成为我新的值得信赖的伙伴。它可以沉着地处理复杂的插图，尽管它仍然缺乏原生的 CMYK 支持，这在我需要打印就绪文件时会带来一些不便。在这些情况下，我要么使用在线转换器，要么将工作交给Scribus，尽管它的用户界面有些怀旧~~过时，但它可以很好地将 PDF 转换为正确的 CMYK 颜色配置文件。 Scribus 本身是一个值得尊敬的 InDesign 替代品，但由于桌面出版不再是日常琐事，我很少使用它。在商业方面，我涉足 Affinity（以前称为 Affinity Designer、Photo、Publisher）。 Canva 收购后，该套件变成了一款免费的一体化创意产品，但它仍然与 macOS 和 Windows 正式绑定。幸运的是，一些手动步骤就可以在 Linux 上运行它，而且 Canva 还暗示正在开发原生 Linux 版本，这对任何人来说都是好消息谁一直在请愿。
+网页设计在云端舒适地生活。 Figma 是我的主要工具，Penpot 作为方便的开源备份；两者都提供（非官方）桌面包装器（Figma one；Penpot one），在 Linux 上感觉与在任何其他操作系统上一样敏捷。当谈到光栅图像时，我已经尝试过 GIMP 无数次，但它的工作流程从来都不适合我。相反，我转向 Photopea，这是一个基于浏览器的编辑器，可以毫无问题地打开 Photoshop PSD 文件，非常适合偶尔修饰不需要成熟桌面应用程序的照片。视频编辑曾经是 macOS 上的 FinalCutPro 事务，现在掌握在 Kdenlive 和 DaVinci Resolve 的手中。两者都提供专业级工具，无需订阅，并且它们可以在我的 Linux 工作站上流畅运行。
+总而言之，我的工具箱是社区驱动的项目和成熟的网络服务的拼凑而成。还有许多其他软件，例如用于数字绘画的 Krita、用于 3D 的 Blender、用于快速 SVG 编辑的 Boxy SVG 以及一些当客户抛出曲线球时弹出的其他实用程序。这提醒我们，创造力不必受限于昂贵的、平台锁定的软件。经过一些实验，Linux 为图形和网页设计师提供了一个令人惊讶的丰富生态系统。
+查看有关 AlternativeTo 的文章更多信息Inkscape | Inkscape 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/beyond-adobe-s-pricey-products-my-graphic-designer-s-toolbox-on-linux/</guid>
+      <pubDate>Tue, 23 Dec 2025 15:15:00 GMT</pubDate>
+    </item>
     <item>
       <title>亚马逊将从 2026 年 1 月开始为 Kindle 图书提供无 DRM 的 EPUB 和 PDF 下载</title>
       <link>https://alternativeto.net/news/2025/12/amazon-to-offer-drm-free-epub-and-pdf-downloads-for-kindle-titles-starting-in-january-2026/</link>
       <description><![CDATA[亚马逊宣布他们将扩展 Kindle 客户访问其购买内容的方式。从 2026 年 1 月 20 日开始，读者将能够下载 EPUB 和 PDF 格式的无 DRM 的 Kindle 图书，从而将兼容性从 Kindle 生态系统扩展到更广泛的设备和应用程序。这种转变意味着用户可以更轻松地欣赏他们在自己选择的平台上购买的图书，前提是出版商选择不应用数字版权管理 (DRM)。
 虽然这为读者开放了访问权限，但受 DRM 保护的图书将继续仅通过 Kindle 应用和设备提供，并且无法以 EPUB 或 PDF 格式下载。选择无 DRM 选项可提供额外的灵活性，但不会影响作者和出版商的原始付款条款。尽管采用了新的下载方法，但版税和付款结构保持不变。
-进行这些更改后，只有经过验证的购买者才能访问可下载的 EPUB 和 PDF 文件。使用 Kindle Unlimited 或类似服务的借款人没有资格进行这些下载，无论该图书是否不受 DRM 保护。此外，在标题不受 DRM 保护时下载的任何 EPUB 或 PDF 文件仍可供读者访问，即使该标题稍后受 DRM 保护也是如此。
+进行这些更改后，只有经过验证的购买者才能访问可下载的 EPUB 和 PDF 文件。使用 Kindle Unlimited 或类似服务的借款人没有资格进行这些下载，无论该图书是否不受 DRM 限制。此外，在标题不受 DRM 保护时下载的任何 EPUB 或 PDF 文件仍可供读者访问，即使该标题稍后受 DRM 保护也是如此。
 查看有关 AlternativeTo 的文章有关亚马逊的更多信息Kindle | 亚马逊 Kindle 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/12/amazon-to-offer-drm-free-epub-and-pdf-downloads-for-kindle-titles-starting-in-january-2026/</guid>
       <pubDate>Mon, 22 Dec 2025 15:15:00 GMT</pubDate>
@@ -29,7 +88,7 @@
       <title>微软最近更新了记事本，提供了表格支持和响应更快的人工智能功能</title>
       <link>https://alternativeto.net/news/2025/12/microsoft-recently-updated-notepad-with-table-support-and-more-responsive-ai-features/</link>
       <description><![CDATA[如果您错过了，微软最近在 Windows 11 的 Canary 和 Dev 渠道中为 Windows Insider 推出了新的记事本更新。该更新引入了轻量级表格格式，允许用户在记事本文档中插入和组织表格。可以从格式工具栏添加表格，也可以直接使用 Markdown 语法添加表格。用户可以通过右键单击上下文菜单或表格菜单添加或删除行和列来进行快速更改。
-除了表支持之外，写入、重写和汇总人工智能驱动的功能通过流结果响应增强了响应能力。此更改使用户能够在生成的内容出现时查看并与之交互，而无需等待整个输出。虽然写入和总结的响应在可用设备上进行流式传输，但重写的流式传输目前仅限于Copilot+ PC上本地生成的结果。
+除了表支持之外，写入、重写和汇总人工智能驱动的功能通过流结果响应增强了响应能力。此更改使用户能够在生成的内容出现时查看并与之交互，而不是等待整个输出。虽然写入和总结的响应在可用设备上进行流式传输，但重写的流式传输目前仅限于Copilot+ PC上本地生成的结果。
 要访问“写入”、“重写” 和“总结”，需要 Microsoft 帐户。这些改进旨在简化 Windows 11 Insider 参与者的工作流程并增强记事本中的文档编辑功能。
 查看有关 AlternativeTo 的文章有关 Windows 的更多信息记事本 | Windows 记事本替代品]]></description>
       <guid>https://alternativeto.net/news/2025/12/microsoft-recently-updated-notepad-with-table-support-and-more-responsive-ai-features/</guid>
@@ -70,7 +129,7 @@
       <link>https://alternativeto.net/news/2025/12/after-backlash-over-firefox-ai-plans-a-dev-clarifies-users-can-fully-disable-ai-features/</link>
       <description><![CDATA[继最近对 Mozilla 新任首席执行官及其之前宣布的对 Firefox 人工智能功能的立场的强烈反对之后，一位名叫 Jake Archibald 的 Firefox 开发人员针对 Mastodon 发布了公开澄清，解决了用户提出的一些最常见的担忧。他解释说，该浏览器将包含一个全局AI终止开关，允许用户完全禁用浏览器中所有与AI相关的功能。一旦启用，开关将从界面中删除人工智能元素并阻止它们返回，除非用户手动将它们重新打开。
 Archibald 还确认，所有即将推出的 AI 功能都将被选择加入，这意味着用户不会默认注册。他承认，选择加入可以有不同的解释，例如默认出现的工具栏按钮是否算作参与。即便如此，他强调终止开关是明确的，并且通过完全禁用人工智能功能来消除任何歧义。
-虽然这一澄清有助于缓解隐私问题，并明确表示人工智能功能不会强加给用户（至少目前如此），但许多人仍然认为，核心问题不在于这些功能是否可以，而在于开发资源应该集中在性能和核心浏览器改进上，而在人工智能上投入时间和金钱的决定被视为 Mozilla 优先事项的明确信号。与此同时，其他浏览器也利用这种情况大声疾呼并明确反对人工智能集成，包括同样基于 Firefox 的 Waterfox 和 维瓦尔第。
+虽然这一澄清有助于缓解隐私问题，并明确表示人工智能功能不会强加给用户（至少目前如此），但许多人仍然认为，核心问题不在于这些功能是否可以，而在于开发资源应该集中在性能和核心浏览器改进上，而在人工智能上投入时间和金钱的决定被视为 Mozilla 优先事项的明确信号。与此同时，其他浏览器也利用这种情况大声疾呼并明确反对人工智能集成，包括同样基于 Firefox 的 Waterfox 和维瓦尔第。
 查看有关 AlternativeTo 的文章有关 Mozilla 的更多信息Firefox | Mozilla Firefox 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/12/after-backlash-over-firefox-ai-plans-a-dev-clarifies-users-can-fully-disable-ai-features/</guid>
       <pubDate>Sun, 21 Dec 2025 16:58:43 GMT</pubDate>
@@ -94,63 +153,6 @@ Archibald 还确认，所有即将推出的 AI 功能都将被选择加入，这
 查看有关 AlternativeTo 的文章更多信息Kdenlive | Kdenlive 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/12/kdenlive-25-12-0-adds-flexible-docking-system-new-layouts-and-menu-overhaul/</guid>
       <pubDate>Sat, 20 Dec 2025 12:19:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 推出 GPT-5.2-Codex，具有增强的编码、网络安全和视觉功能</title>
-      <link>https://alternativeto.net/news/2025/12/openai-launches-gpt-5-2-codex-with-enhanced-coding-cybersecurity-and-vision-capabilities/</link>
-      <description><![CDATA[OpenAI 推出了 GPT-5.2-Codex，这是迄今为止针对复杂的现实世界软件工程任务的最先进模型。该版本以上周发布的 GPT-5.2 为基础，专为代理编码而设计，并进行了优化，通过改进上下文压缩和在大型代码更改（例如，主要重构和迁移。它还可以在 Windows 环境中提供改进的结果。
-除了这些核心改进之外，GPT-5.2-Codex 还具有迄今为止最强大的网络安全功能。这些增强功能有望大规模增强安全性，但 OpenAI 指出，它们引入了新的双重用途风险，需要仔细管理。该模型能够更好地理解长上下文、执行可靠的工具调用以及保持改进的事实性，使其对于扩展的编码项目更加可靠，同时保持其令牌使用的效率。
-这些技术进步使 Codex 能够在大型存储库中进行长时间会话，保持上下文一致，并完成主要代码库操作。经过这些升级，GPT-5.2-Codex 中的视觉功能现在支持更准确地解释屏幕截图、技术图表和用户界面，支持从设计模型到生产就绪原型的开发。 GPT-5.2-Codex 可在所有 Codex 界面上供付费 ChatGPT 用户使用，计划在未来几周内提供 API 访问权限。
-查看有关 AlternativeTo 的文章有关 OpenAI 的更多信息Codex | OpenAI Codex 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/12/openai-launches-gpt-5-2-codex-with-enhanced-coding-cybersecurity-and-vision-capabilities/</guid>
-      <pubDate>Fri, 19 Dec 2025 20:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Next.js 16.1 发布，带有 Turbopack 文件系统缓存、Next.js 捆绑分析器等</title>
-      <link>https://alternativeto.net/news/2025/12/next-js-16-1-released-with-turbopack-file-system-caching-next-js-bundle-analyzer-and-more/</link>
-      <description><![CDATA[Next.js 16.1 已推出，作为流行开源 React 框架的最新更新，重点是更快的开发工作流程和更高的稳定性。开发人员将受益于 Turbopack 和项目工具的显着改进。开发服务器的 Turbopack 文件系统缓存现已稳定并默认启用，它将编译器工件存储在磁盘上，以加快编译时间，尤其是在大型项目中重新启动服务器时。
-在这些增强功能的基础上，更新引入了适用于 Turbopack 的新实验性捆绑分析器。该工具可以更轻松地优化服务器和客户端包大小，有助于改善 Core Web Vitals、缩短 lambda 冷启动时间并揭示不必要的依赖膨胀。 Bundle Analyzer 仍处于早期开发阶段，将进一步完善。
-为了进行调试，开发人员现在只需传递 --inspect 标志即可在 next dev 中启用 Node.js 调试器。此更改仅将检查器应用于相关流程，从而无需全局 NODE_OPTIONS=--inspect 解决方法。在依赖项管理方面，Turbopack 现在可以在使用 serverExternalPackages 时正确解析和外部化传递依赖项，从而减少设置摩擦并避免版本冲突。
-其他改进包括 20 MB 的较小安装、新的下一次升级命令以及其他增强功能。
-查看有关 AlternativeTo 的文章更多信息Next.js | Next.js 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/next-js-16-1-released-with-turbopack-file-system-caching-next-js-bundle-analyzer-and-more/</guid>
-      <pubDate>Fri, 19 Dec 2025 16:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mulvad 推出 GotaTun，一款基于 Rust 的 Android WireGuard</title>
-      <link>https://alternativeto.net/news/2025/12/mullvad-launches-gotatun-a-rust-based-wireguard-for-android/</link>
-      <description><![CDATA[Mullvad 为其 Android VPN 应用程序推出了 GotaTun，这是一种用 Rust 编写的新 WireGuard 实现。该更新取代了wireguard-go，并将用户感知的崩溃率从0.40% 降低到0.01%。 GotaTun 包括增强的隐私功能，例如 DAITA 和 Multihop，以及优化的 Android 支持。
-计划明年推出更多平台。
-查看有关 AlternativeTo 的文章有关 Mullvad 的更多信息 | Mullvad 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/mullvad-launches-gotatun-a-rust-based-wireguard-for-android/</guid>
-      <pubDate>Fri, 19 Dec 2025 16:05:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 增加了对 iOS、Android 和 Web 用户的固定聊天支持</title>
-      <link>https://alternativeto.net/news/2025/12/chatgpt-adds-pinned-chat-support-for-ios-android-and-web-users/</link>
-      <description><![CDATA[ChatGPT 正在为 iOS、Android 和 Web 用户引入固定聊天功能，让重要对话可以跨设备轻松访问。
-用户可以通过点击网络上对话旁边的省略号或长按移动设备来固定聊天。
-查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/12/chatgpt-adds-pinned-chat-support-for-ios-android-and-web-users/</guid>
-      <pubDate>Fri, 19 Dec 2025 16:01:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitLab 18.7 版本带来了秘密有效性检查和人工智能驱动的 SAST 检测</title>
-      <link>https://alternativeto.net/news/2025/12/gitlab-18-7-release-brings-secret-validity-checks-and-ai-powered-sast-detection/</link>
-      <description><![CDATA[GitLab 18.7 现已推出，具有普遍可用的秘密有效性检查以及对 Google Cloud、AWS 和 Postman 的扩展集成，以及增强的报告过滤和组级 API 推出。该版本在面向 Ultimate 客户的免费测试版中添加了人工智能驱动的 SAST 误报检测，通过自动识别可能的误报来简化漏洞分类。
-GitLab Duo 和 SDLC 趋势仪表板中改进的分析现在可跟踪功能采用、代码生成和管道性能，此外新端点支持提取实例级 AI 使用数据。
-查看有关 AlternativeTo 的文章更多信息GitLab | GitLab 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/12/gitlab-18-7-release-brings-secret-validity-checks-and-ai-powered-sast-detection/</guid>
-      <pubDate>Fri, 19 Dec 2025 15:50:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Immich v2.4.0：命令面板、增强共享和改进的移动导航</title>
-      <link>https://alternativeto.net/news/2025/12/immich-v2-4-0-command-palette-enhanced-sharing-and-improved-mobile-navigation/</link>
-      <description><![CDATA[Immich v2.4.0 引入了命令面板，允许用户通过键盘快捷键在 Web 应用程序中导航和执行操作。此更新还允许在共享相册中显示资产所有者姓名，并允许用户直接从搜索栏切换搜索类型。
-其他改进包括重新组织移动资产查看器中的操作按钮以及修复高并发下的元数据提取。
-查看有关 AlternativeTo 的文章更多信息Immich | Immich 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/immich-v2-4-0-command-palette-enhanced-sharing-and-improved-mobile-navigation/</guid>
-      <pubDate>Fri, 19 Dec 2025 15:37:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
