@@ -4,7 +4,28 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sat, 27 Dec 2025 12:39:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 01:52:15 GMT</lastBuildDate>
+    <item>
+      <title>Zettlr 4.0 推出，带有新的表格编辑器、应用内 PDF/图像查看器和大型工作流程升级</title>
+      <link>https://alternativeto.net/news/2025/12/zettlr-4-0-launches-with-new-table-editor-in-app-pdf-image-viewer-and-big-workflow-upgrades/</link>
+      <description><![CDATA[为了庆祝其八周年，Zettlr 4.0 是该应用迄今为止最大的更新，在编辑、工作流程和文档方面进行了重大更改。头条新闻是一个完全重写的表格编辑器，经过 18 个月的开发，旨在解决过去的数据丢失和稳定性问题。它基于 CodeMirror 构建，与写作工作流程更紧密地集成，并提高了创建和编辑 Markdown 表格时的可靠性。
+表格编辑器还添加了更广泛的键盘控制，用于导航单元格和管理行和列，包括在不使用可视表格 UI 的情况下进行编辑。常见的快捷方式现在可以在表格单元格内使用，包括粗体、链接、数学、语法突出显示等。可视表编辑器不再支持网格表，但某些导航快捷方式仍然有效，稍后会考虑扩展支持。
+除了表格之外，Zettlr 4.0 还添加了应用程序内图像和 PDF 查看器，以便在文档旁边快速预览，并具有基于 Chromium 的图像缩放和滚动以及 PDF 查看功能。该版本还提供了重写的引文解析器，具有更清晰的反馈和与 Pandoc 风格引文语法的更强兼容性，包括大括号键和 pandoc crossref 支持。
+其他更新包括更快的导出、改进的脚注和链接工作流程、新的入门屏幕、刷新的写入统计视图以及用于检测外部更改的更快的文件系统层。
+查看有关 AlternativeTo 的文章更多信息Zettlr | Zettlr 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/zettlr-4-0-launches-with-new-table-editor-in-app-pdf-image-viewer-and-big-workflow-upgrades/</guid>
+      <pubDate>Sat, 27 Dec 2025 17:34:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌将允许用户更改他们的主要 Gmail 地址，而无需创建新帐户</title>
+      <link>https://alternativeto.net/news/2025/12/google-will-lets-users-change-their-primary-gmail-address-without-making-a-new-account/</link>
+      <description><![CDATA[Google 正在推出一项长期要求的功能，允许用户更改其主要 @gmail.com 地址，而无需创建新的 Google 帐户。到目前为止，用户可以添加别名或在链接地址之间切换，但无法更改主要的 Gmail 用户名。
+仅当当前地址和新地址均以 @gmail.com 结尾时，此功能才有效，因此它不能用于切换到 Outlook、Proton 或自定义域。更改后，原始地址将作为辅助地址和恢复地址保持活动状态，因此发送到旧地址的电子邮件仍会到达。所有帐户数据都保持不变，包括 Gmail 邮件、云端硬盘文件和帐户历史记录，并且用户还可以继续登录 Google 地图、YouTube 和 Google 云端硬盘，使用任一地址。
+自早期支持文档以印地语出现以来，该推出似乎是渐进的，并且可能首先仅限于印度。如果符合条件，该选项应出现在“个人信息”下的 Google 帐户设置中。 Google 还将每个帐户的更改上限限制为 3 次，并且需要等待 12 个月才能生成另一个新的 @gmail.com 地址。
+查看有关 AlternativeTo 的文章详细了解Gmail | Gmail 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/google-will-lets-users-change-their-primary-gmail-address-without-making-a-new-account/</guid>
+      <pubDate>Sat, 27 Dec 2025 17:10:21 GMT</pubDate>
+    </item>
     <item>
       <title>kitshn 2.0 发布，支持 Tandoor v2、Material 3 Expressive UI 和社交导入</title>
       <link>https://alternativeto.net/news/2025/12/kitshn-2-0-released-with-tandoor-v2-support-material-3-expressive-ui-and-social-import/</link>
@@ -64,7 +85,7 @@
       <description><![CDATA[如果您一直渴望看到接下来会出现什么其他 Spotify Wrapped 风格的模仿者，那么您很幸运，因为 OpenAI 刚刚推出了“您与 ChatGPT 的一年”。这是一份年度回顾，总结了您如何使用 ChatGPT，突出显示主题、使用模式以及跨工作任务、创意项目和日常问题的示例。
 回顾还包括基于使用情况的“奖项”，以及根据您的主要主题生成的一首诗和一张图像。它正在向美国、加拿大、英国、澳大利亚和新西兰的个人 Free、Plus 和 Pro 用户推出。
 要访问它，您需要满足最低活动阈值，并启用“参考保存的记忆”和“参考聊天历史记录”。团队、企业和教育帐户被排除在外，它不会从主屏幕自动打开，您也可以通过在网络或 iOS 和 Android 上询问“Your Year with ChatGPT”来触发它。
-查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代方案]]></description>
+查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/12/openai-launches-yet-another-annual-recap-for-chatgpt-inspired-by-spotify-wrapped/</guid>
       <pubDate>Wed, 24 Dec 2025 14:36:39 GMT</pubDate>
     </item>
@@ -74,7 +95,7 @@
       <description><![CDATA[elementary OS 8.1 已发布，根据用户反馈进行了 1,100 多项修复和更改。它基于 Ubuntu 24.04 LTS 构建，并使用 Linux 6.14 内核，带来改进的硬件支持和更好的游戏性能。
 工作区切换器现在位于扩展坞中，允许用户创建新工作区、通过拖放对其重新排序，以及直接访问多任务处理视图。后台应用程序通过后台门户显示在扩展坞中，使正在运行的进程更加可见且更易于管理。深色模式增加了计划暂停，辅助功能更新包括盲人用户完全可以使用的安装程序，具有更清晰的标签和语音密码反馈。 Wayland 下的安全会话也获得了分数缩放，AppCenter 添加了 ODRS 百分比评级和更清晰的标签，并且该版本引入了适用于 UEFI 设备的官方 ARM64 版本。
 辅助功能改进包括盲人用户完全可以使用的安装程序，以及更清晰的标签和语音密码反馈。 elementary OS 8.1 可以从elementary OS 网站下载，只需付费即可发布，其中包含适用于 x86 64 和 ARM64 系统的映像，具体取决于您的设备。
-查看有关 AlternativeTo 的文章有关elementary的更多信息操作系统 | 基本操作系统替代方案]]></description>
+查看有关 AlternativeTo 的文章有关elementary的更多信息操作系统 | 基本操作系统替代品]]></description>
       <guid>https://alternativeto.net/news/2025/12/elementary-os-8-1is-out-with-over-1-100-fixes-linux-6-14-arm64-support-and-more/</guid>
       <pubDate>Wed, 24 Dec 2025 14:03:56 GMT</pubDate>
     </item>
@@ -120,7 +141,7 @@ Spotify 回应称，它已识别并禁用涉及非法抓取的帐户，并实施
     <item>
       <title>Haruna 1.7.0 引入了播放列表分组、改进的错误修复和 Hana 集成</title>
       <link>https://alternativeto.net/news/2025/12/haruna-1-7-0-introduces-playlist-grouping-improved-bugfixes-and-hana-integration/</link>
-      <description><![CDATA[Haruna 版本 1.7.0 引入了高级播放列表排序和分组来简化媒体管理。该版本还添加了上下文菜单集成，用于在 Hana 缩略图生成器中打开文件，并带来了音频标准化的重放增益设置。
+      <description><![CDATA[Haruna 版本 1.7.0 引入了高级播放列表排序和分组来简化媒体管理。该版本还添加了上下文菜单集成，用于在 Hana 缩略图生成器中打开文件，并带来了音频标准化的重播增益设置。
 重要的错误修复解决了数据库文件夹创建、搜索栏工具提示更新、自定义命令删除和 URL 保存问题。
 查看有关 AlternativeTo 的文章更多信息榛名 | 榛名替代品]]></description>
       <guid>https://alternativeto.net/news/2025/12/haruna-1-7-0-introduces-playlist-grouping-improved-bugfixes-and-hana-integration/</guid>
@@ -131,31 +152,11 @@ Spotify 回应称，它已识别并禁用涉及非法抓取的帐户，并实施
       <link>https://alternativeto.net/news/2025/12/beyond-adobe-s-pricey-products-my-graphic-designer-s-toolbox-on-linux/</link>
       <description><![CDATA[我花了数年时间使用 Adobe 的重量级套件、Photoshop、Illustrator、InDesign 和 Premiere 主要在 macOS 上，将每次启动视为一种仪式。但 macOS 和 Apple 硬件的封闭性最终感觉更像是一个笼子而不是画布，所以几年前我跳到了 Fedora、Linux。这一举动迫使我告别了 Adobe，它顽固地拒绝在 Windows 或 macOS 以外的任何平台上运行，并开始寻找开源或跨平台的替代品，以便让我的工作流程保持正常运行，而无需花费大量资金。
 对于矢量工作，Inkscape 已成为我新的值得信赖的伙伴。它可以沉着地处理复杂的插图，尽管它仍然缺乏原生的 CMYK 支持，这在我需要打印就绪文件时会带来一些不便。在这些情况下，我要么使用在线转换器，要么将工作交给Scribus，尽管它的用户界面有些怀旧~~过时，但它可以很好地将 PDF 转换为正确的 CMYK 颜色配置文件。 Scribus 本身是一个值得尊敬的 InDesign 替代品，但由于桌面出版不再是日常琐事，我很少使用它。在商业方面，我涉足 Affinity（以前称为 Affinity Designer、Photo、Publisher）。 Canva 收购后，该套件变成了一款免费的一体化创意产品，但它仍然与 macOS 和 Windows 正式绑定。幸运的是，一些手动步骤就可以在 Linux 上运行它，而且 Canva 还暗示正在开发原生 Linux 版本，这对任何人来说都是好消息谁一直在请愿。
-网页设计在云端舒适地生活。 Figma 是我的主要工具，Penpot 作为方便的开源备份；两者都提供（非官方）桌面包装器（Figma one；Penpot one），在 Linux 上感觉与在任何其他操作系统上一样敏捷。当谈到光栅图像时，我已经尝试过 GIMP 无数次，但它的工作流程从来都不适合我。相反，我转向 Photopea，这是一个基于浏览器的编辑器，可以毫无问题地打开 Photoshop PSD 文件，非常适合偶尔修饰不需要成熟桌面应用程序的照片。视频编辑曾经是 macOS 上的 FinalCutPro 事务，现在掌握在 Kdenlive 和 DaVinci Resolve 的手中。两者都提供专业级工具，无需订阅，并且它们可以在我的 Linux 工作站上顺利运行。
+网页设计在云端舒适地生活。 Figma 是我的主要工具，Penpot 作为方便的开源备份；两者都提供（非官方）桌面包装器（Figma one；Penpot one），在 Linux 上感觉与在任何其他操作系统上一样敏捷。当谈到光栅图像时，我已经尝试过 GIMP 无数次，但它的工作流程从来都不适合我。相反，我转向 Photopea，这是一个基于浏览器的编辑器，可以毫无问题地打开 Photoshop PSD 文件，非常适合偶尔修饰不需要成熟桌面应用程序的照片。视频编辑曾经是 macOS 上的 FinalCutPro 事务，现在掌握在 Kdenlive 和 DaVinci Resolve 的手中。两者都提供专业级工具，无需订阅，并且它们可以在我的 Linux 工作站上流畅运行。
 总而言之，我的工具箱是社区驱动的项目和成熟的网络服务的拼凑而成。还有许多其他软件，例如用于数字绘画的 Krita、用于 3D 的 Blender、用于快速 SVG 编辑的 Boxy SVG 以及一些当客户抛出曲线球时弹出的其他实用程序。这提醒我们，创造力不必受限于昂贵的、平台锁定的软件。经过一些实验，Linux 为图形和网页设计师提供了一个令人惊讶的丰富生态系统。
 查看有关 AlternativeTo 的文章更多信息Inkscape | Inkscape 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/12/beyond-adobe-s-pricey-products-my-graphic-designer-s-toolbox-on-linux/</guid>
       <pubDate>Tue, 23 Dec 2025 15:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊将从 2026 年 1 月开始为 Kindle 图书提供无 DRM 的 EPUB 和 PDF 下载</title>
-      <link>https://alternativeto.net/news/2025/12/amazon-to-offer-drm-free-epub-and-pdf-downloads-for-kindle-titles-starting-in-january-2026/</link>
-      <description><![CDATA[亚马逊宣布他们将扩展 Kindle 客户访问其购买内容的方式。从 2026 年 1 月 20 日开始，读者将能够下载 EPUB 和 PDF 格式的无 DRM 的 Kindle 图书，从而将兼容性从 Kindle 生态系统扩展到更广泛的设备和应用程序。这种转变意味着用户可以更轻松地欣赏他们在自己选择的平台上购买的图书，前提是出版商选择不应用数字版权管理 (DRM)。
-虽然这为读者开放了访问权限，但受 DRM 保护的图书将继续仅通过 Kindle 应用和设备提供，并且无法以 EPUB 或 PDF 格式下载。选择无 DRM 选项可提供额外的灵活性，但不会影响作者和出版商的原始付款条款。尽管采用了新的下载方法，但版税和付款结构保持不变。
-进行这些更改后，只有经过验证的购买者才能访问可下载的 EPUB 和 PDF 文件。使用 Kindle Unlimited 或类似服务的借款人没有资格进行这些下载，无论该图书是否不受 DRM 保护。此外，在标题不受 DRM 保护时下载的任何 EPUB 或 PDF 文件仍可供读者访问，即使该标题稍后受 DRM 保护也是如此。
-查看有关 AlternativeTo 的文章有关亚马逊的更多信息Kindle | 亚马逊 Kindle 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/amazon-to-offer-drm-free-epub-and-pdf-downloads-for-kindle-titles-starting-in-january-2026/</guid>
-      <pubDate>Mon, 22 Dec 2025 15:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>EA 将从应用商店下架《真实赛车 3》，并计划于 2026 年关闭服务器</title>
-      <link>https://alternativeto.net/news/2025/12/ea-is-delisting-real-racing-3-from-the-app-stores-with-servers-shut-down-planned-for-2026/</link>
-      <description><![CDATA[Electronic Arts 宣布由 Firemonkeys Studios 开发的真实赛车 3 即将停止发行。这意味着服务器关闭后将无法再访问这款流行的赛车游戏。该游戏将于 2025 年 12 月 18 日从 Google Play 和 Apple App Store 下架，该日期之后将无法再进行新的下载。
-下架后，玩家在 2026 年 3 月 19 日之前仍然可以访问该游戏。在此日期之后，服务器将关闭，所有用户都无法访问该游戏。在此转换之前，所有应用内购买均已立即禁用。不过，现有玩家可以继续使用任何剩余的游戏内货币，直到 2026 年 3 月服务器最终关闭为止。
-为了表达谢意，Electronic Arts 推出了最终更新，向每位玩家提供 1000 金币、一辆奥迪 S1 e-tron quattro 和一辆 2023 Rimac Nevera。如果玩家已经拥有其中一辆汽车，则会获得额外的金币。这些变化标志着《真实赛车 3》在为移动赛车迷提供十多年服务后的终结。
-查看有关 AlternativeTo 的文章有关 Real 的更多信息赛车 | 真实赛车替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/12/ea-is-delisting-real-racing-3-from-the-app-stores-with-servers-shut-down-planned-for-2026/</guid>
-      <pubDate>Mon, 22 Dec 2025 13:40:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
