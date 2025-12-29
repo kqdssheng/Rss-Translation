@@ -4,7 +4,7 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sun, 28 Dec 2025 12:40:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 01:50:55 GMT</lastBuildDate>
     <item>
       <title>Zettlr 4.0 推出，带有新的表格编辑器、应用内 PDF/图像查看器和大型工作流程升级</title>
       <link>https://alternativeto.net/news/2025/12/zettlr-4-0-launches-with-new-table-editor-in-app-pdf-image-viewer-and-big-workflow-upgrades/</link>
@@ -75,7 +75,7 @@
 为了解决其核心任务，Parrot 7 提供了最新的渗透测试工具，通过几个新增功能进行了扩展（convoC2、goshs、evil-winrm-py、hexstrike-ai、bpf-linker、pkinit-tools、chisel、bloodhound.py、autorecon、trufflehog），并引入了专用的 AI 类别。 parrot-tools 元包现在预安装了更广泛的实用程序集，增加了用户在安装后收到的默认套件。
 同时，该版本迎来了对 RISC-V 架构的官方支持，标志着 Parrot 成为第一个提供这种兼容性的渗透测试发行版。除此之外，构建系统本身也得到了显着的增强，核心组件经过大量重构，以提高可维护性并支持社区驱动的旋转。 Parrot 计划为可能具有其他桌面环境或其他配置的精选版本提供官方支持和赞助。
 继这些开发之后，Parrot 更新程序得到改进，以及 Windows Subsystem for Linux (WSL) 和 Docker 的更新映像，通过提高广泛的可访问性和持续可用性来完善该版本用户。
-查看有关 AlternativeTo 的文章有关 Parrot Security 的更多信息操作系统 | Parrot Security 操作系统替代品]]></description>
+查看有关 AlternativeTo 的文章有关 Parrot Security 的更多信息操作系统 | Parrot Security 操作系统替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/12/parrot-7-0-brings-kde-plasma-6-wayland-support-new-security-tools-and-risc-v-support/</guid>
       <pubDate>Fri, 26 Dec 2025 07:15:00 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
       <description><![CDATA[如果您一直渴望看到接下来会出现什么其他 Spotify Wrapped 风格的模仿者，那么您很幸运，因为 OpenAI 刚刚推出了“您与 ChatGPT 的一年”。这是一份年度回顾，总结了您如何使用 ChatGPT，突出显示主题、使用模式以及跨工作任务、创意项目和日常问题的示例。
 回顾还包括基于使用情况的“奖项”，以及根据您的主要主题生成的一首诗和一张图像。它正在向美国、加拿大、英国、澳大利亚和新西兰的个人 Free、Plus 和 Pro 用户推出。
 要访问它，您需要满足最低活动阈值，并启用“参考保存的记忆”和“参考聊天历史记录”。团队、企业和教育帐户被排除在外，它不会从主屏幕自动打开，您也可以通过在网络或 iOS 和 Android 上询问“Your Year with ChatGPT”来触发它。
-查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代品]]></description>
+查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/12/openai-launches-yet-another-annual-recap-for-chatgpt-inspired-by-spotify-wrapped/</guid>
       <pubDate>Wed, 24 Dec 2025 14:36:39 GMT</pubDate>
     </item>
