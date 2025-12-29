@@ -4,7 +4,28 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Mon, 29 Dec 2025 01:50:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 12:44:28 GMT</lastBuildDate>
+    <item>
+      <title>Proxyman 6.3 添加了 HTTP/2 支持、本地主机流量捕获、XML 美化等</title>
+      <link>https://alternativeto.net/news/2025/12/proxyman-6-3-adds-http-2-support-localhost-traffic-capture-xml-prettify-and-more/</link>
+      <description><![CDATA[Proxyman 6.3 for Mac 现已推出，提供用于捕获、解密和模拟 HTTP 和 HTTPS 请求及响应的本机工具，并具有广泛的调试功能。此版本带来了对 HTTP/2 协议的实验性支持，从而提高了性能并提高了与使用这一新标准的现代 Web 服务的兼容性。
+基于调试功能，此更新引入了在使用 Google Chrome 和 Firefox 时从本地主机捕获 HTTP 和 HTTPS 流量的自动设置。用户现在可以直接从 localhost:3000 等地址捕获流量，而无需修改主机文件，从而简化了开发工作流程。
+响应正文查看器获得带有缩进和展开或折叠装订线的 XML 格式，从而可以更清晰地检查和导航大型 XML 有效负载。新的命令行界面 (CLI) 命令和改进的证书验证扩展了开发人员工作流程的可能性。
+此外，此更新还引入了对团队订阅许可证的支持以及对 iOS 模拟器集成的增强功能。其他更改包括 IPv4 地址检测、更新的工具栏图标以与 macOS 26 Tahoe 兼容，以及多个错误修复以进一步完善应用程序。
+查看有关 AlternativeTo 的文章更多信息Proxyman | Proxyman 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/proxyman-6-3-adds-http-2-support-localhost-traffic-capture-xml-prettify-and-more/</guid>
+      <pubDate>Mon, 29 Dec 2025 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>大规模《彩虹六号：围攻》漏洞让玩家损失数十亿积分并引发封禁浪潮</title>
+      <link>https://alternativeto.net/news/2025/12/massive-rainbow-six-siege-exploit-floods-players-with-billions-of-credits-and-ban-waves/</link>
+      <description><![CDATA[《彩虹六号：围攻》 因大规模漏洞利用影响了各个主要平台的帐户，目前正在遭受严重破坏。玩家报告称，登录后可找到数十亿的 R6 积分、数千个 alpha 包，并获得独家化妆品，包括开发者和限量版皮肤。这些问题引发了广泛的社区警告，由于不断有报道称帐户收到未经授权的积分和随机封禁，PC 和主机上的玩家都被敦促保持离线状态。
+事件发生期间，包括主播和知名用户在内的数千个帐户遭到封禁浪潮以及随后的解禁。为了应对这些连锁问题，育碧承认了这一情况，确认其团队正在调查，并暂时关闭了游戏和游戏内市场。发行商还澄清，用户不会因为在利用漏洞期间收到的积分进行互动而受到惩罚。
+随着恢复工作的继续，育碧已启动全球回滚。该公司表示，正在进行广泛的质量控制测试，以确保玩家数据的完整性。育碧强调，其团队正在努力恢复全面服务，让玩家尽快安全回到游戏。
+查看有关 AlternativeTo 的文章有关《汤姆克兰西的彩虹六号》的更多信息 | 汤姆克兰西的彩虹六号替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/massive-rainbow-six-siege-exploit-floods-players-with-billions-of-credits-and-ban-waves/</guid>
+      <pubDate>Mon, 29 Dec 2025 08:50:00 GMT</pubDate>
+    </item>
     <item>
       <title>Zettlr 4.0 推出，带有新的表格编辑器、应用内 PDF/图像查看器和大型工作流程升级</title>
       <link>https://alternativeto.net/news/2025/12/zettlr-4-0-launches-with-new-table-editor-in-app-pdf-image-viewer-and-big-workflow-upgrades/</link>
@@ -75,7 +96,7 @@
 为了解决其核心任务，Parrot 7 提供了最新的渗透测试工具，通过几个新增功能进行了扩展（convoC2、goshs、evil-winrm-py、hexstrike-ai、bpf-linker、pkinit-tools、chisel、bloodhound.py、autorecon、trufflehog），并引入了专用的 AI 类别。 parrot-tools 元包现在预安装了更广泛的实用程序集，增加了用户在安装后收到的默认套件。
 同时，该版本迎来了对 RISC-V 架构的官方支持，标志着 Parrot 成为第一个提供这种兼容性的渗透测试发行版。除此之外，构建系统本身也得到了显着的增强，核心组件经过大量重构，以提高可维护性并支持社区驱动的旋转。 Parrot 计划为可能具有其他桌面环境或其他配置的精选版本提供官方支持和赞助。
 继这些开发之后，Parrot 更新程序得到改进，以及 Windows Subsystem for Linux (WSL) 和 Docker 的更新映像，通过提高广泛的可访问性和持续可用性来完善该版本用户。
-查看有关 AlternativeTo 的文章有关 Parrot Security 的更多信息操作系统 | Parrot Security 操作系统替代方案]]></description>
+查看有关 AlternativeTo 的文章有关 Parrot Security 的更多信息操作系统 | Parrot Security 操作系统替代品]]></description>
       <guid>https://alternativeto.net/news/2025/12/parrot-7-0-brings-kde-plasma-6-wayland-support-new-security-tools-and-risc-v-support/</guid>
       <pubDate>Fri, 26 Dec 2025 07:15:00 GMT</pubDate>
     </item>
@@ -85,7 +106,7 @@
       <description><![CDATA[如果您一直渴望看到接下来会出现什么其他 Spotify Wrapped 风格的模仿者，那么您很幸运，因为 OpenAI 刚刚推出了“您与 ChatGPT 的一年”。这是一份年度回顾，总结了您如何使用 ChatGPT，突出显示主题、使用模式以及跨工作任务、创意项目和日常问题的示例。
 回顾还包括基于使用情况的“奖项”，以及根据您的主要主题生成的一首诗和一张图像。它正在向美国、加拿大、英国、澳大利亚和新西兰的个人 Free、Plus 和 Pro 用户推出。
 要访问它，您需要满足最低活动阈值，并启用“参考保存的记忆”和“参考聊天历史记录”。团队、企业和教育帐户被排除在外，它不会从主屏幕自动打开，您也可以通过在网络或 iOS 和 Android 上询问“Your Year with ChatGPT”来触发它。
-查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代方案]]></description>
+查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/12/openai-launches-yet-another-annual-recap-for-chatgpt-inspired-by-spotify-wrapped/</guid>
       <pubDate>Wed, 24 Dec 2025 14:36:39 GMT</pubDate>
     </item>
@@ -137,26 +158,6 @@ Spotify 回应称，它已识别并禁用涉及非法抓取的帐户，并实施
 查看有关 AlternativeTo 的文章更多有关Lua | Lua 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/12/lua-5-5-brings-global-variable-declarations-and-read-only-loop-variables/</guid>
       <pubDate>Tue, 23 Dec 2025 15:29:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Haruna 1.7.0 引入了播放列表分组、改进的错误修复和 Hana 集成</title>
-      <link>https://alternativeto.net/news/2025/12/haruna-1-7-0-introduces-playlist-grouping-improved-bugfixes-and-hana-integration/</link>
-      <description><![CDATA[Haruna 版本 1.7.0 引入了高级播放列表排序和分组来简化媒体管理。该版本还添加了上下文菜单集成，用于在 Hana 缩略图生成器中打开文件，并带来了音频标准化的重播增益设置。
-重要的错误修复解决了数据库文件夹创建、搜索栏工具提示更新、自定义命令删除和 URL 保存问题。
-查看有关 AlternativeTo 的文章更多信息榛名 | 榛名替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/haruna-1-7-0-introduces-playlist-grouping-improved-bugfixes-and-hana-integration/</guid>
-      <pubDate>Tue, 23 Dec 2025 15:19:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>超越 Adob​​e 昂贵的产品：我的 Linux 上的图形设计师工具箱</title>
-      <link>https://alternativeto.net/news/2025/12/beyond-adobe-s-pricey-products-my-graphic-designer-s-toolbox-on-linux/</link>
-      <description><![CDATA[我花了数年时间使用 Adobe 的重量级套件、Photoshop、Illustrator、InDesign 和 Premiere 主要在 macOS 上，将每次启动视为一种仪式。但 macOS 和 Apple 硬件的封闭性最终感觉更像是一个笼子而不是画布，所以几年前我跳到了 Fedora、Linux。这一举动迫使我告别了 Adobe，它顽固地拒绝在 Windows 或 macOS 以外的任何平台上运行，并开始寻找开源或跨平台的替代品，以便让我的工作流程保持正常运行，而无需花费大量资金。
-对于矢量工作，Inkscape 已成为我新的值得信赖的伙伴。它可以沉着地处理复杂的插图，尽管它仍然缺乏原生的 CMYK 支持，这在我需要打印就绪文件时会带来一些不便。在这些情况下，我要么使用在线转换器，要么将工作交给Scribus，尽管它的用户界面有些怀旧~~过时，但它可以很好地将 PDF 转换为正确的 CMYK 颜色配置文件。 Scribus 本身是一个值得尊敬的 InDesign 替代品，但由于桌面出版不再是日常琐事，我很少使用它。在商业方面，我涉足 Affinity（以前称为 Affinity Designer、Photo、Publisher）。 Canva 收购后，该套件变成了一款免费的一体化创意产品，但它仍然与 macOS 和 Windows 正式绑定。幸运的是，一些手动步骤就可以在 Linux 上运行它，而且 Canva 还暗示正在开发原生 Linux 版本，这对任何人来说都是好消息谁一直在请愿。
-网页设计在云端舒适地生活。 Figma 是我的主要工具，Penpot 作为方便的开源备份；两者都提供（非官方）桌面包装器（Figma one；Penpot one），在 Linux 上感觉与在任何其他操作系统上一样敏捷。当谈到光栅图像时，我已经尝试过 GIMP 无数次，但它的工作流程从来都不适合我。相反，我转向 Photopea，这是一个基于浏览器的编辑器，可以毫无问题地打开 Photoshop PSD 文件，非常适合偶尔修饰不需要成熟桌面应用程序的照片。视频编辑曾经是 macOS 上的 FinalCutPro 事务，现在掌握在 Kdenlive 和 DaVinci Resolve 的手中。两者都提供专业级工具，无需订阅，并且它们可以在我的 Linux 工作站上流畅运行。
-总而言之，我的工具箱是社区驱动的项目和成熟的网络服务的拼凑而成。还有许多其他软件，例如用于数字绘画的 Krita、用于 3D 的 Blender、用于快速 SVG 编辑的 Boxy SVG 以及一些当客户抛出曲线球时弹出的其他实用程序。这提醒我们，创造力不必受限于昂贵的、平台锁定的软件。经过一些实验，Linux 为图形和网页设计师提供了一个令人惊讶的丰富生态系统。
-查看有关 AlternativeTo 的文章更多信息Inkscape | Inkscape 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/beyond-adobe-s-pricey-products-my-graphic-designer-s-toolbox-on-linux/</guid>
-      <pubDate>Tue, 23 Dec 2025 15:15:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
