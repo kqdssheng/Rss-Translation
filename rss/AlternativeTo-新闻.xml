@@ -4,7 +4,92 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Mon, 29 Dec 2025 12:44:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 01:43:28 GMT</lastBuildDate>
+    <item>
+      <title>GOG 宣布与 CD Projekt 分离，联合创始人 Kiciński 收购了该平台</title>
+      <link>https://alternativeto.net/news/2025/12/gog-announces-its-separation-from-cd-projekt-as-co-founder-kici-ski-acquires-the-platform/</link>
+      <description><![CDATA[GOG.com，一个 DRM 免费（而且很棒的）PC 游戏市场和 Steam 替代品，有 刚刚宣布将与其母公司 CD Projekt 分离。联合创始人 Michał Kiciński 以 2520 万美元收购了其店面和 GOG GALAXY 平台，将 GOG 重新归为独立所有权。该公司表示其 DRM 免费方法保持不变，用户对其库保持相同的访问权限，包括离线安装程序，并且不需要使用 GOG Galaxy 客户端。
+GOG 还表示，用户帐户数据仍归公司所有，GOG Galaxy 仍然是可选的。它计划独立运营，同时保持与 CD Projekt Red 的关系，因此该工作室的游戏，包括《巫师》系列和《赛博朋克 2077》等，将继续在该平台上销售即将发布的版本。
+在保护方面，GOG 表示，来自赞助人和保护计划捐款的资金将保留在 GOG 内部，并支持计划于 2026 年和 2027 年开展的更大举措，预计 2026 年将提供更多细节。该公司还计划在 2026 年推出新的以社区为重点的举措，并继续努力支持独立开发者和保护经典游戏，包括具有复古精神的游戏。此次拆分还有助于 GOG 保护其无 DRM 原则和保护优先事项，免受未来与 CD Projekt 利益相关者相关的压力。
+查看有关 AlternativeTo 的文章更多信息GOG.com | GOG.com 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/gog-announces-its-separation-from-cd-projekt-as-co-founder-kici-ski-acquires-the-platform/</guid>
+      <pubDate>Mon, 29 Dec 2025 22:44:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Files v4.0.24 添加了 PowerToys Peek 支持、标签搜索运算符和更多 UI 调整</title>
+      <link>https://alternativeto.net/news/2025/12/files-v4-0-24-adds-powertoys-peek-support-tag-search-operators-and-more-ui-tweaks/</link>
+      <description><![CDATA[Files v4.0.24 已发布，增加了对 PowerToys Peek 的支持，让 Windows 用户可以Microsoft PowerToys 通过选择一个项目并按空格键在“文件”中安装预览文件，类似于 macOS 预览。无需额外设置，更多详细信息请参阅 PowerToys Peek 文档。
+此更新还将复制操作添加到侧边栏和主页小部件的右键单击上下文菜单中。由于自动选择的预填充默认名称，新文件和文件夹的创建速度更快，可以快速保留或替换。 UI 调整包括多功能栏建议弹出窗口上的阴影，以更好地匹配 WinUI 样式，以及状态中心中长文件夹名称的文本换行。
+标签搜索现在支持 AND 和 OR 运算符。修复的内容包括在双窗格模式下调整窗口大小时以及在合并冲突期间切换 Git 分支时发生的崩溃，以及对侧边栏中显示黑色背景的基于 PNG 的 .ico 文件的更正。现有用户应该会在应用中看到更新提示，新用户可以从项目网站下载。
+查看有关 AlternativeTo 的文章更多信息文件 | 文件替代]]></description>
+      <guid>https://alternativeto.net/news/2025/12/files-v4-0-24-adds-powertoys-peek-support-tag-search-operators-and-more-ui-tweaks/</guid>
+      <pubDate>Mon, 29 Dec 2025 22:21:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>为 Horizo​​n OS 上的 Meta Quest VR 推出 LibreOffice Viewer</title>
+      <link>https://alternativeto.net/news/2025/12/libreoffice-viewer-launched-for-meta-quest-vr-on-horizon-os/</link>
+      <description><![CDATA[LibreOffice Viewer 现在可用于运行 Meta Horizo​​n OS 的 Meta Quest VR 设备，将其文档查看功能扩展到虚拟现实。
+该应用程序此前仅适用于 Android 设备。
+查看有关 AlternativeTo 的文章有关 LibreOffice 的更多信息查看器 | LibreOffice 查看器替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/12/libreoffice-viewer-launched-for-meta-quest-vr-on-horizon-os/</guid>
+      <pubDate>Mon, 29 Dec 2025 16:07:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>COSMIC 桌面现已可在 SparkyLinux 上进行测试</title>
+      <link>https://alternativeto.net/news/2025/12/cosmic-desktop-now-available-for-testing-on-sparkylinux/</link>
+      <description><![CDATA[COSMIC 桌面环境现在可通过开发存储库在 SparkyLinux 上安装和测试。默认情况下启用 Wayland，其中包含“xwayland”以帮助提高兼容性，但某些应用程序可能无法按预期运行。
+此版本仅建议测试人员使用，不应安装在生产系统上。
+查看有关 AlternativeTo 的文章有关 SparkyLinux 的更多信息 | SparkyLinux 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/12/cosmic-desktop-now-available-for-testing-on-sparkylinux/</guid>
+      <pubDate>Mon, 29 Dec 2025 16:01:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Inkscape 1.4.3 提供 124 个修复并桥接多页格式</title>
+      <link>https://alternativeto.net/news/2025/12/inkscape-1-4-3-delivers-124-fixes-and-bridges-multipage-formats/</link>
+      <description><![CDATA[Inkscape 1.4.3 引入了大约 124 个错误和崩溃修复，使其成为该项目最大的次要更新之一。该版本还充当将 Inkscape 1.5 多页文件格式转换为 1.5 之前版本的桥梁，为跨不同主要版本工作的用户保持兼容性。
+此外，该更新还增强了稳定性、更新了翻译、恢复并改进了 Windows 上的 JPEG 导出和 PDF 导入。
+查看有关 AlternativeTo 的文章更多信息Inkscape | Inkscape 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/inkscape-1-4-3-delivers-124-fixes-and-bridges-multipage-formats/</guid>
+      <pubDate>Mon, 29 Dec 2025 15:56:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>OMV8 发布，基于 Debian 13，仅支持 AMD64 和 ARM64</title>
+      <link>https://alternativeto.net/news/2025/12/omv8-released-with-debian-13-base-amd64-and-arm64-support-only/</link>
+      <description><![CDATA[OMV8 (Synchrony) 已发布版本 8.0.1，现在基于 Debian 13 (Trixie)。此更新限制对 AMD64 和 ARM64 架构的支持，不包括早期的硬件。该版本还引入了无线连接的 WPA3 身份验证，并更改了默认 RPC 响应以返回基本用户信息，从而缩短了响应时间。
+查看有关 AlternativeTo 的文章更多信息openmediavault | openmediavault 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2025/12/omv8-released-with-debian-13-base-amd64-and-arm64-support-only/</guid>
+      <pubDate>Mon, 29 Dec 2025 15:50:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stremio 将 VR 引入 Pico 设备并增强 Apple TV 应用</title>
+      <link>https://alternativeto.net/news/2025/12/stremio-vr-app-launches-on-pico-devices-worldwide-adds-2d-version/</link>
+      <description><![CDATA[Stremio VR 现已在 Pico 内容商店上在全球范围内推出（中国除外）。该应用程序支持 Pico 4 Ultra、Pico 4 Pro、Pico 4、Pico Neo3 以及所有即将推出的 Pico 设备。此外，Stremio 2D Android 应用程序现已可供 Pico 4 Ultra 和 Pico 4 Pro 用户使用。
+与此同时，Apple TV (tvOS) 的 Stremio Lite 收到了 Trakt 登录、UI 改进、播放增强和稳定性修复等更新。
+查看有关 AlternativeTo 的文章更多信息Stremio | Stremio 替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/stremio-vr-app-launches-on-pico-devices-worldwide-adds-2d-version/</guid>
+      <pubDate>Mon, 29 Dec 2025 15:39:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fish 4.3 发布，具有更智能的主题、更简单的配置、改进的完成度等</title>
+      <link>https://alternativeto.net/news/2025/12/fish-4-3-released-with-smarter-theming-easier-configuration-improved-completion-and-more/</link>
+      <description><![CDATA[fish 4.3 现已可供 macOS 和 Linux 用户使用，保持了其作为用户友好的命令行 shell 的声誉。在此版本中，诸如 fish_color_*、fish_pager_color_* 和 fish_key_bindings 等通用变量现在是全局设置的，而不是作为通用变量，这简化了管理多个环境的用户的配置。主题管理也得到了简化：fish_config theme choice 命令现在仅清除以前主题更改设置的颜色变量，这应该提供更可预测的主题行为。
+在这些配置更改的基础上，fish 引入了新的状态语言命令，允许用户直接显示和修改消息语言设置，而无需调整环境变量。对于那些在启动 Fish 后立即开始输入的人，shell 现在可以正确呈现第一个提示，解决了常见的可用性问题。路径完成也经过改进，以提高包含特殊字符（例如 = 或 :）的文件路径的准确性。
+在这些更新之后，主题文件现在支持 [light] 和 [dark] 部分，从而可以更轻松地创建颜色主题感知设计。此外，使用 OSC 7 在每次提示时都会报告工作目录，确保即使在与 SSH 等子进程交互后，shell 环境也保持准确。其他一些增强功能和错误修复进一步增强了频繁终端用户的稳定性和日常可用性。
+查看有关 AlternativeTo 的文章更多信息鱼 | 鱼替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/fish-4-3-released-with-smarter-theming-easier-configuration-improved-completion-and-more/</guid>
+      <pubDate>Mon, 29 Dec 2025 13:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lawnchair 15 Beta 2 添加了主屏幕无限滚动、新的搜索提供程序等</title>
+      <link>https://alternativeto.net/news/2025/12/lawnchair-15-beta-2-adds-home-screen-infinite-scrolling-new-search-provider-and-more/</link>
+      <description><![CDATA[Lawnchair 15 beta 2，流行的开源 Android 启动器的最新更新，已发布首次测试后三个月。此版本以稳定性为中心，解决了之前测试版中的许多错误，并引入了一系列生活质量改进。
+在新功能中，用户现在可以在主屏幕上享受无限滚动，并可以通过设置对应用程序抽屉文件夹内的应用程序重新排序。启动器搜索后端经过重新设计，在设置中具有更清晰的用户界面。此外，Mull 搜索提供程序已替换为 IronFox，这标志着后端和提供程序的显着变化。
+在定制和控制方面，Lawnchair 15 beta 2添加了一个选项，可以直接从设置中清除主屏幕上的所有项目。用户还可以在应用程序抽屉中滚动时关闭搜索栏后面的 Alpha 效果。在这些增强之后，关于屏幕布局得到了改进，并引入了每夜构建的变更日志查看器。
+性能优化、一般错误修复、依赖项更新和更新的翻译完成了更新，为寻找 Nova Launcher 替代方案的 Android 爱好者提供了更精致的启动器体验。
+查看有关 AlternativeTo 的文章更多信息草坪椅 | 草坪椅替代品]]></description>
+      <guid>https://alternativeto.net/news/2025/12/lawnchair-15-beta-2-adds-home-screen-infinite-scrolling-new-search-provider-and-more/</guid>
+      <pubDate>Mon, 29 Dec 2025 12:05:00 GMT</pubDate>
+    </item>
     <item>
       <title>Proxyman 6.3 添加了 HTTP/2 支持、本地主机流量捕获、XML 美化等</title>
       <link>https://alternativeto.net/news/2025/12/proxyman-6-3-adds-http-2-support-localhost-traffic-capture-xml-prettify-and-more/</link>
@@ -20,7 +105,7 @@
       <title>大规模《彩虹六号：围攻》漏洞让玩家损失数十亿积分并引发封禁浪潮</title>
       <link>https://alternativeto.net/news/2025/12/massive-rainbow-six-siege-exploit-floods-players-with-billions-of-credits-and-ban-waves/</link>
       <description><![CDATA[《彩虹六号：围攻》 因大规模漏洞利用影响了各个主要平台的帐户，目前正在遭受严重破坏。玩家报告称，登录后可找到数十亿的 R6 积分、数千个 alpha 包，并获得独家化妆品，包括开发者和限量版皮肤。这些问题引发了广泛的社区警告，由于不断有报道称帐户收到未经授权的积分和随机封禁，PC 和主机上的玩家都被敦促保持离线状态。
-事件发生期间，包括主播和知名用户在内的数千个帐户遭到封禁浪潮以及随后的解禁。为了应对这些连锁问题，育碧承认了这一情况，确认其团队正在调查，并暂时关闭了游戏和游戏内市场。发行商还澄清，用户不会因为在利用漏洞期间收到的积分进行互动而受到惩罚。
+事件发生期间，包括主播和知名用户在内的数千个帐户遭到封禁浪潮以及随后的解封。为了应对这些连锁问题，育碧承认了这一情况，确认其团队正在调查，并暂时关闭了游戏和游戏内市场。发行商还澄清，用户不会因为在利用漏洞期间收到的积分进行互动而受到惩罚。
 随着恢复工作的继续，育碧已启动全球回滚。该公司表示，正在进行广泛的质量控制测试，以确保玩家数据的完整性。育碧强调，其团队正在努力恢复全面服务，让玩家尽快安全回到游戏。
 查看有关 AlternativeTo 的文章有关《汤姆克兰西的彩虹六号》的更多信息 | 汤姆克兰西的彩虹六号替代品]]></description>
       <guid>https://alternativeto.net/news/2025/12/massive-rainbow-six-siege-exploit-floods-players-with-billions-of-credits-and-ban-waves/</guid>
@@ -67,97 +152,6 @@
 查看有关 AlternativeTo 的文章更多信息Ruby | Ruby 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/12/ruby-4-0-released-with-ruby-box-isolation-zjit-compiler-ractor-improvements-and-more/</guid>
       <pubDate>Fri, 26 Dec 2025 16:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pinta 3.1 带来了轴测网格、新的单元格效果、画布性能提升等</title>
-      <link>https://alternativeto.net/news/2025/12/pinta-3-1-brings-axonometric-grid-new-cells-effects-canvas-performance-boost-and-more/</link>
-      <description><![CDATA[Pinta 3.0 发布八个多月后，3.1 版为这款开源绘图和图像编辑软件带来了多项新功能和工作流程改进。 Pinta 现在提供轴测网格，为用户提供更高的技术或等距图稿的绘图精度。画布小部件已完全重写，从而在放大图像时获得更好的性能并减少内存使用量。
-在这些核心更改的基础上，Pinta 3.1 引入了新的细胞效果，并且抖动效果现在能够使用程序的当前调色板或预设调色板。 扭曲效果得益于新的半径百分比参数。效果控件也得到了扩展，允许通过“重新设定种子”按钮直接调整随机种子值。选择工具得到显着升级：套索工具获得了用于精确区域选择的多边形模式，同时选择区域在标尺上投影并突出显示，并且选择轮廓现在以动画形式提高可见性。
-在这些可用性增强之后，用户将找到用于调整渐变长度和方向的手柄，以及所有工具栏按钮工具提示中显示的键盘快捷键。图层右键菜单简化了图层管理，文本工具现在支持 Ctrl+Backspace 删除整个单词。对于绘画工作流程，使用Splatter画笔按住鼠标可以连续绘画。 Pinta 3.1 是该版本的最后一个版本，现在包含一个 Windows ARM64 安装程序，扩大了平台兼容性，以及其他一些增强功能。
-查看有关 AlternativeTo 的文章更多信息品塔 | 品塔替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/pinta-3-1-brings-axonometric-grid-new-cells-effects-canvas-performance-boost-and-more/</guid>
-      <pubDate>Fri, 26 Dec 2025 13:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>BookStack 25.12 添加了评论中的用户提及、内容 URL 历史记录系统等</title>
-      <link>https://alternativeto.net/news/2025/12/bookstack-25-12-adds-user-mentions-in-comments-content-url-history-system-and-much-more/</link>
-      <description><![CDATA[BookStack 25.12 作为自托管开源知识管理平台的最新版本发布。此版本引入了在评论中提及用户的功能，使用户能够使用 @username 标签突出显示其他人。当提及时，用户会收到包含直接链接和相关评论内容的电子邮件通知。
-在内容管理增强的基础上，BookStack 现在提供了一个专门构建的跟踪系统来监控所有内容类型的更改。这可确保从过时的链接可靠地重定向到当前的对应链接。此外，复制操作中重复的项目之间的链接会自动更新以引用新版本，从而减少手动维护链接的需要。
-通过此更新，设置区域现在包含重命名的“列表和排序”部分。此部分扩展了配置选项，使管理员可以控制书架、书籍和搜索结果屏幕上每页显示的项目数量。对于开发人员来说，BookStack 25.12 为新的所见即所得编辑器首次推出了基于 JavaScript 的 API，支持插入工具栏按钮和内容等核心操作。
-在更新中，用户将看到新的所见即所得编辑器的改进、系统 CLI 的增强、针对浅色和深色模式的更新 CSS 处理以及更新的翻译。
-查看有关 AlternativeTo 的文章更多信息BookStack | BookStack 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/bookstack-25-12-adds-user-mentions-in-comments-content-url-history-system-and-much-more/</guid>
-      <pubDate>Fri, 26 Dec 2025 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Parrot 7.0 带来了 KDE Plasma 6、Wayland 支持、新的安全工具和 RISC-V 支持</title>
-      <link>https://alternativeto.net/news/2025/12/parrot-7-0-brings-kde-plasma-6-wayland-support-new-security-tools-and-risc-v-support/</link>
-      <description><![CDATA[Parrot 7.0（代号为“Echo”）经过完整的系统重写后现已推出，这使得该版本成为注重安全的 Linux 发行版的一个重要里程碑。在此基础上，Parrot 7 现在使用 KDE Plasma 6 作为默认桌面环境，应用自定义主题以实现更轻的性能并引入Wayland 作为默认图形会话。这些更改也与 Debian 13 带来的更新一致。
-为了解决其核心任务，Parrot 7 提供了最新的渗透测试工具，通过几个新增功能进行了扩展（convoC2、goshs、evil-winrm-py、hexstrike-ai、bpf-linker、pkinit-tools、chisel、bloodhound.py、autorecon、trufflehog），并引入了专用的 AI 类别。 parrot-tools 元包现在预安装了更广泛的实用程序集，增加了用户在安装后收到的默认套件。
-同时，该版本迎来了对 RISC-V 架构的官方支持，标志着 Parrot 成为第一个提供这种兼容性的渗透测试发行版。除此之外，构建系统本身也得到了显着的增强，核心组件经过大量重构，以提高可维护性并支持社区驱动的旋转。 Parrot 计划为可能具有其他桌面环境或其他配置的精选版本提供官方支持和赞助。
-继这些开发之后，Parrot 更新程序得到改进，以及 Windows Subsystem for Linux (WSL) 和 Docker 的更新映像，通过提高广泛的可访问性和持续可用性来完善该版本用户。
-查看有关 AlternativeTo 的文章有关 Parrot Security 的更多信息操作系统 | Parrot Security 操作系统替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/parrot-7-0-brings-kde-plasma-6-wayland-support-new-security-tools-and-risc-v-support/</guid>
-      <pubDate>Fri, 26 Dec 2025 07:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 受 Spotify Wrapped 启发，推出 ChatGPT 的又一年度回顾</title>
-      <link>https://alternativeto.net/news/2025/12/openai-launches-yet-another-annual-recap-for-chatgpt-inspired-by-spotify-wrapped/</link>
-      <description><![CDATA[如果您一直渴望看到接下来会出现什么其他 Spotify Wrapped 风格的模仿者，那么您很幸运，因为 OpenAI 刚刚推出了“您与 ChatGPT 的一年”。这是一份年度回顾，总结了您如何使用 ChatGPT，突出显示主题、使用模式以及跨工作任务、创意项目和日常问题的示例。
-回顾还包括基于使用情况的“奖项”，以及根据您的主要主题生成的一首诗和一张图像。它正在向美国、加拿大、英国、澳大利亚和新西兰的个人 Free、Plus 和 Pro 用户推出。
-要访问它，您需要满足最低活动阈值，并启用“参考保存的记忆”和“参考聊天历史记录”。团队、企业和教育帐户被排除在外，它不会从主屏幕自动打开，您也可以通过在网络或 iOS 和 Android 上询问“Your Year with ChatGPT”来触发它。
-查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/openai-launches-yet-another-annual-recap-for-chatgpt-inspired-by-spotify-wrapped/</guid>
-      <pubDate>Wed, 24 Dec 2025 14:36:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Primary OS 8.1 已发布，包含 1,100 多个修复、Linux 6.14、ARM64 支持等</title>
-      <link>https://alternativeto.net/news/2025/12/elementary-os-8-1is-out-with-over-1-100-fixes-linux-6-14-arm64-support-and-more/</link>
-      <description><![CDATA[elementary OS 8.1 已发布，根据用户反馈进行了 1,100 多项修复和更改。它基于 Ubuntu 24.04 LTS 构建，并使用 Linux 6.14 内核，带来改进的硬件支持和更好的游戏性能。
-工作区切换器现在位于扩展坞中，允许用户创建新工作区、通过拖放对其重新排序，以及直接访问多任务处理视图。后台应用程序通过后台门户显示在扩展坞中，使正在运行的进程更加可见且更易于管理。深色模式增加了计划暂停，辅助功能更新包括盲人用户完全可以使用的安装程序，具有更清晰的标签和语音密码反馈。 Wayland 下的安全会话也获得了分数缩放，AppCenter 添加了 ODRS 百分比评级和更清晰的标签，并且该版本引入了适用于 UEFI 设备的官方 ARM64 版本。
-辅助功能改进包括盲人用户完全可以使用的安装程序，以及更清晰的标签和语音密码反馈。 elementary OS 8.1 可以从elementary OS 网站下载，只需付费即可发布，其中包含适用于 x86 64 和 ARM64 系统的映像，具体取决于您的设备。
-查看有关 AlternativeTo 的文章有关elementary的更多信息操作系统 | 基本操作系统替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/elementary-os-8-1is-out-with-over-1-100-fixes-linux-6-14-arm64-support-and-more/</guid>
-      <pubDate>Wed, 24 Dec 2025 14:03:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>据报道，Spotify 库在 300TB 的 torrent 版本中被 Anna’s Archive 完全删除</title>
-      <link>https://alternativeto.net/news/2025/12/spotify-library-reportedly-fully-scraped-by-anna-s-archive-in-300tb-torrent-release/</link>
-      <description><![CDATA[盗版档案保管组织声称已经抓取了 Spotify 的整个音乐目录，收集了大约 8600 万首曲目以及总计接近 300 TB 的大量元数据。该项目背后的团队是 Anna’s Archive，这是一个以索引影子库而闻名的开源搜索引擎，该引擎表示数据涵盖超过 1500 万艺术家和超过 5800 万张专辑，这标志着其在通常关注书籍和学术文本之外的重大扩展。
-根据该组织的说法，抓取的内容正在使用其自定义的 Anna’s Archive Container 格式作为自托管种子发布。文件计划从最流行的曲目开始逐步推出。 Anna’s Archive 估计当前的档案覆盖了 Spotify 大约 99.6% 的收听内容，同时约占该平台总目录的 37%，预计随着时间的推移会添加更多材料。
-Spotify 回应称，它已识别并禁用涉及非法抓取的帐户，并实施了新的保障措施来防止类似活动。虽然 Anna’s Archive 将这项工作视为一个长期保存项目，但它承认共享和下载这些材料违反了知识产权法，并声称发布的数据集现在代表了最大的公开可用的音乐元数据集合。
-查看有关 AlternativeTo 的文章更多信息Spotify | Spotify 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/spotify-library-reportedly-fully-scraped-by-anna-s-archive-in-300tb-torrent-release/</guid>
-      <pubDate>Tue, 23 Dec 2025 19:46:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>postmarketOS 25.12 带来 Alpine 3.23 基础、GNOME 49、Plasma Mobile 6.5 和内核更新</title>
-      <link>https://alternativeto.net/news/2025/12/postmarketos-25-12-brings-alpine-3-23-base-gnome-49-plasma-mobile-6-5-and-kernel-updates/</link>
-      <description><![CDATA[postmarketOS 25.12 已发布，为移动和其他支持的设备提供最新升级。本次更新采用 Alpine Linux 3.23 作为基础。随之而来的是 Alpine Package Keeper 版本 3，现在可以在安装前下载所有软件包，即使在互联网连接不稳定的情况下也能提供更可靠的更新体验。
-基于系统增强功能，包管理器现在还将所有更改记录到 /var/log/apk.log，以帮助系统维护和故障排除。用户界面包出现多项更新：GNOME 49 发布，KDE Plasma Mobile 现已推出 6.5.3，改进了 Waydroid 集成和 Phosh 0.51.0 引入了自动亮度改进。 Sxmo也已更新至1.18.1版本。
-继这些用户体验更新之后，mobile-config-firefox 5.1.0 引入了新的 about:mobile 配置页面，用户可以通过该页面切换选项，包括地址栏是否显示在屏幕顶部或底部。该版本包括许多影响所有支持设备的内核升级、改进和修复。
-根据更严格的社区类别指南，通用 MSM8916 内核和相关设备现在被分类在测试类别下，尽管它们的映像仍然可用。 MSM8226设备现在采用通用设备封装，而使用APQ8064内核的设备已切换到MSM8960通用设备封装。
-查看有关 AlternativeTo 的文章更多关于 postmarketOS | postmarketOS 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/12/postmarketos-25-12-brings-alpine-3-23-base-gnome-49-plasma-mobile-6-5-and-kernel-updates/</guid>
-      <pubDate>Tue, 23 Dec 2025 16:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Clapper 0.10.0 将核心功能移至插件并添加 Lua 增强器支持</title>
-      <link>https://alternativeto.net/news/2025/12/clapper-0-10-0-moves-core-features-to-plugins-and-adds-lua-enhancer-support/</link>
-      <description><![CDATA[Clapper 0.10.0 将 MPRIS、Server 和 Discoverer 功能移至增强器插件中，现在可以通过首选项中的“调整”选项卡进行配置。该更新引入了对持久可配置属性的支持，并允许加载用 Lua 编写的增强器。
-新的用户功能包括 GStreamer 管道预览快捷方式、高级帧步进以及改进的窗口之间的拖放操作。
-查看有关 AlternativeTo 的文章更多信息Clapper | Clapper 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/clapper-0-10-0-moves-core-features-to-plugins-and-adds-lua-enhancer-support/</guid>
-      <pubDate>Tue, 23 Dec 2025 15:47:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lua 5.5带来了全局变量声明和只读循环变量</title>
-      <link>https://alternativeto.net/news/2025/12/lua-5-5-brings-global-variable-declarations-and-read-only-loop-variables/</link>
-      <description><![CDATA[Lua 5.5 引入了全局变量所需的声明，并强制 for 循环变量的只读行为。大型阵列现在使用的内存减少了约 60%，从而提高了内存密集型应用程序的效率。
-该版本还添加了 table.create 函数和增量主要垃圾收集。
-查看有关 AlternativeTo 的文章更多有关Lua | Lua 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/lua-5-5-brings-global-variable-declarations-and-read-only-loop-variables/</guid>
-      <pubDate>Tue, 23 Dec 2025 15:29:43 GMT</pubDate>
     </item>
     </channel>
 </rss>

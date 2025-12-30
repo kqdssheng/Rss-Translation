@@ -4,48 +4,48 @@
     <title>新版本 – AlternativeTo.net</title>
     <link>https://alternativeto.net/releases/all</link>
     <description>最新软件添加到 AlternativeTo</description>
-    <lastBuildDate>Mon, 29 Dec 2025 12:44:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 01:42:58 GMT</lastBuildDate>
+    <item>
+      <title>麦克油门</title>
+      <link>https://alternativeto.net/software/macthrottle/about/</link>
+      <description><![CDATA[菜单栏应用程序可了解您的 Mac 何时进行热节流。在 AlternativeTo 上查看MacThrottle 替代品]]></description>
+      <guid>https://alternativeto.net/software/macthrottle/about/</guid>
+      <pubDate>Tue, 30 Dec 2025 01:41:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>开放Wispr</title>
+      <link>https://alternativeto.net/software/openwispr/about/</link>
+      <description><![CDATA[具有本地 Whisper 模型和 OpenAI API 的语音到文本听写应用程序。隐私第一、跨平台、激活全局热键。查看 AlternativeTo OpenWispr 替代品]]></description>
+      <guid>https://alternativeto.net/software/openwispr/about/</guid>
+      <pubDate>Tue, 30 Dec 2025 01:41:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>传送盒</title>
+      <link>https://alternativeto.net/software/portalbox/about/</link>
+      <description><![CDATA[一款 macOS 屏幕共享应用，可让您在 Zoom、Google Meet、Teams 等中共享屏幕的任何区域。绘制一个框，获取实时预览窗口，然后仅共享您想要的内容。在 AlternativeTo 上查看PortalBox Alternatives]]></description>
+      <guid>https://alternativeto.net/software/portalbox/about/</guid>
+      <pubDate>Tue, 30 Dec 2025 01:41:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>打字大声</title>
+      <link>https://alternativeto.net/software/typelouder/about/</link>
+      <description><![CDATA[为 Mac 击键添加机械键盘点击声音，具有可调节音量、实时反馈、扬声器或耳机支持以及完全离线隐私。查看 AlternativeTo TypeLouder 替代方案]]></description>
+      <guid>https://alternativeto.net/software/typelouder/about/</guid>
+      <pubDate>Tue, 30 Dec 2025 01:41:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>bknd.io</title>
+      <link>https://alternativeto.net/software/bknd-io/about/</link>
+      <description><![CDATA[轻量级可视化后端，具有数据库、身份验证、媒体和工作流程的模块化架构，与现代框架和运行时兼容，可自托管。查看 AlternativeTo bknd.io替代方案]]></description>
+      <guid>https://alternativeto.net/software/bknd-io/about/</guid>
+      <pubDate>Tue, 30 Dec 2025 01:41:24 GMT</pubDate>
+    </item>
     <item>
       <title>痣</title>
       <link>https://alternativeto.net/software/mole/about/</link>
       <description><![CDATA[开源Mac命令行工具，用于磁盘清理、应用程序卸载、磁盘使用情况分析、优化和实时系统运行状况监控。查看AlternativeTo＆raquo;Mole Alternatives]]></description>
       <guid>https://alternativeto.net/software/mole/about/</guid>
-      <pubDate>Mon, 29 Dec 2025 12:43:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>让它下雪</title>
-      <link>https://alternativeto.net/software/let-it-snow/about/</link>
-      <description><![CDATA[在 Mac 桌面上创建逼真的动画降雪，具有超低 CPU 和内存占用、无缝多显示器支持、按显示器设置和完全自定义功能。在 AlternativeTo 上查看Let It Snow替代方案]]></description>
-      <guid>https://alternativeto.net/software/let-it-snow/about/</guid>
-      <pubDate>Mon, 29 Dec 2025 12:43:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>多纳</title>
-      <link>https://alternativeto.net/software/dona/about/</link>
-      <description><![CDATA[带有拖拽功能的极简任务管理器拖放、命令栏条目、重复任务、日历集成、小部件、Siri、iCloud 同步，并且没有复杂的结构。查看 AlternativeTo Dona Alternatives]]></description>
-      <guid>https://alternativeto.net/software/dona/about/</guid>
-      <pubDate>Mon, 29 Dec 2025 12:43:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>删除WindowsAI</title>
-      <link>https://alternativeto.net/software/removewindowsai/about/</link>
-      <description><![CDATA[Windows 11 脚本会自动删除 Copilot、Recall、AI Actions、Input Insights、AI 支持的应用集成，并在系统范围内禁用相关功能。查看 AlternativeTo 删除WindowsAI替代品]]></description>
-      <guid>https://alternativeto.net/software/removewindowsai/about/</guid>
-      <pubDate>Mon, 29 Dec 2025 12:43:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>船长</title>
-      <link>https://alternativeto.net/software/capty/about/</link>
-      <description><![CDATA[带音频的 macOS 屏幕捕获和录制功能、用于形状、模糊、密文的内置编辑器以及视频和屏幕截图编辑、离线使用且无广告。在 AlternativeTo 上查看Capty Alternatives]]></description>
-      <guid>https://alternativeto.net/software/capty/about/</guid>
-      <pubDate>Mon, 29 Dec 2025 12:43:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>打开笔记本</title>
-      <link>https://alternativeto.net/software/open-notebook/about/</link>
-      <description><![CDATA[注重隐私的开源平台，支持超过 16 个 AI 模型提供商、多模式内容管理、高级全文和矢量搜索以及播客创建。查看 AlternativeTo Open Notebook替代方案]]></description>
-      <guid>https://alternativeto.net/software/open-notebook/about/</guid>
-      <pubDate>Mon, 29 Dec 2025 12:43:58 GMT</pubDate>
+      <pubDate>Tue, 30 Dec 2025 01:41:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
