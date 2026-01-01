@@ -4,48 +4,48 @@
     <title>新版本 – AlternativeTo.net</title>
     <link>https://alternativeto.net/releases/all</link>
     <description>最新软件添加到 AlternativeTo</description>
-    <lastBuildDate>Wed, 31 Dec 2025 12:42:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 01:53:16 GMT</lastBuildDate>
+    <item>
+      <title>麻雀</title>
+      <link>https://alternativeto.net/software/pipit/about/</link>
+      <description><![CDATA[适用于 macOS 的最佳语音转文本应用。快如闪电的语音识别，100% 私密，完全免费。具有统一剪贴板历史记录的顶级听写软件。非常适合开发人员、作家和专业人士。查看 AlternativeTo Pipit Alternatives]]></description>
+      <guid>https://alternativeto.net/software/pipit/about/</guid>
+      <pubDate>Thu, 01 Jan 2026 01:52:51 GMT</pubDate>
+    </item>
     <item>
       <title>麦克油门</title>
       <link>https://alternativeto.net/software/macthrottle/about/</link>
       <description><![CDATA[轻量级菜单栏实用程序可监控 macOS 热压力，显示实时 CPU 温度、风扇速度和热状态统计数据，并发出警报，且无需管理员权限。查看 AlternativeTo MacThrottle 替代方案]]></description>
       <guid>https://alternativeto.net/software/macthrottle/about/</guid>
-      <pubDate>Wed, 31 Dec 2025 12:42:12 GMT</pubDate>
+      <pubDate>Thu, 01 Jan 2026 01:52:51 GMT</pubDate>
     </item>
     <item>
       <title>开放Wispr</title>
       <link>https://alternativeto.net/software/openwispr/about/</link>
       <description><![CDATA[具有本地 Whisper 模型和 OpenAI API 的语音到文本听写应用程序。隐私第一、跨平台、激活全局热键。查看 AlternativeTo OpenWispr 替代品]]></description>
       <guid>https://alternativeto.net/software/openwispr/about/</guid>
-      <pubDate>Wed, 31 Dec 2025 12:42:12 GMT</pubDate>
+      <pubDate>Thu, 01 Jan 2026 01:52:51 GMT</pubDate>
     </item>
     <item>
       <title>传送盒</title>
       <link>https://alternativeto.net/software/portalbox/about/</link>
       <description><![CDATA[一款 macOS 屏幕共享应用，可让您在 Zoom、Google Meet、Teams 等中共享屏幕的任何区域。绘制一个框，获取实时预览窗口，然后仅共享您想要的内容。在 AlternativeTo 上查看PortalBox Alternatives]]></description>
       <guid>https://alternativeto.net/software/portalbox/about/</guid>
-      <pubDate>Wed, 31 Dec 2025 12:42:12 GMT</pubDate>
+      <pubDate>Thu, 01 Jan 2026 01:52:51 GMT</pubDate>
     </item>
     <item>
       <title>打字大声</title>
       <link>https://alternativeto.net/software/typelouder/about/</link>
       <description><![CDATA[为 Mac 击键添加机械键盘点击声音，具有可调节音量、实时反馈、扬声器或耳机支持以及完全离线隐私。查看 AlternativeTo TypeLouder 替代方案]]></description>
       <guid>https://alternativeto.net/software/typelouder/about/</guid>
-      <pubDate>Wed, 31 Dec 2025 12:42:12 GMT</pubDate>
+      <pubDate>Thu, 01 Jan 2026 01:52:51 GMT</pubDate>
     </item>
     <item>
       <title>bknd.io</title>
       <link>https://alternativeto.net/software/bknd-io/about/</link>
       <description><![CDATA[轻量级可视化后端，具有数据库、身份验证、媒体和工作流程的模块化架构，与现代框架和运行时兼容，可自托管。查看 AlternativeTo bknd.io替代方案]]></description>
       <guid>https://alternativeto.net/software/bknd-io/about/</guid>
-      <pubDate>Wed, 31 Dec 2025 12:42:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>痣</title>
-      <link>https://alternativeto.net/software/mole/about/</link>
-      <description><![CDATA[开源Mac命令行工具，用于磁盘清理、应用程序卸载、磁盘使用情况分析、优化和实时系统运行状况监控。查看AlternativeTo＆raquo;Mole Alternatives]]></description>
-      <guid>https://alternativeto.net/software/mole/about/</guid>
-      <pubDate>Wed, 31 Dec 2025 12:42:12 GMT</pubDate>
+      <pubDate>Thu, 01 Jan 2026 01:52:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
