@@ -4,7 +4,7 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Thu, 01 Jan 2026 01:53:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 12:42:21 GMT</lastBuildDate>
     <item>
       <title>Meta 收购新加坡初创公司 Manus 以加速自主人工智能代理开发</title>
       <link>https://alternativeto.net/news/2025/12/meta-acquires-singapore-based-startup-manus-to-accelerate-autonomous-ai-agent-development/</link>
@@ -21,7 +21,7 @@
       <description><![CDATA[Nvidia 正在为所有付费 GeForce NOW 计划（包括 Performance 和 Ultimate）增加每月 100 小时的游戏时间上限。各个级别的限制是相同的，即使对于价格较高的订阅也是如此。
 该上限自 2024 年 11 月起适用于新订阅者，并将于2026 年 1 月 1 日扩展到现有付费用户。创始人版是唯一的例外，因为它是旧版，不再可供新注册使用。
 每月达到 100 小时后，用户可以购买 15 小时捆绑包的额外游戏时间。 Performance 会员每包支付 2.99 美元，而 Ultimate 会员每包支付 5.99 美元。 Nvidia 已更新GeForce Now 常见问题解答以反映这一变化，目前 Performance 版的价格仍为每月 9.99 美元，Ultimate 版的价格为每月 19.99 美元，Ultimate 版提供更强大的服务器、更高的帧速率和高达 4K 的分辨率。
-查看有关 AlternativeTo 的文章有关 GeForce 的更多信息NOW | GeForce NOW 替代品]]></description>
+查看有关 AlternativeTo 的文章有关 GeForce 的更多信息NOW | GeForce NOW 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/12/nvidia-to-enforce-100-hour-monthly-playtime-cap-on-all-geforce-now-paid-plans/</guid>
       <pubDate>Tue, 30 Dec 2025 12:55:15 GMT</pubDate>
     </item>
@@ -30,7 +30,7 @@
       <link>https://alternativeto.net/news/2025/12/supertux-v0-7-0-beta-released-with-revamped-worlds-new-music-and-major-gameplay-additions/</link>
       <description><![CDATA[SuperTux 团队发布了 v0.7.0 的第一个测试版，这是自 Milestone 2 以来最重大的一次更新。此更新提供了完整的视觉和听觉刷新，包括完全重做的世界、新的艺术作品、新创作的音乐以及新建的背景和图块集。除了这些广泛的美学改进之外，金炸弹、伊格尔、蜘蛛螨和食尸鬼等经典敌人也得到了彻底改造。
 内容翻新后，核心玩法发生了显着变化。玩家现在可以体验改进的燕尾服滑动、摇滚加电、爬行和精致的臀跳机制。新元素包括可以解锁世界的燕尾服娃娃、全新的雪人 Boss 战、幽灵树、物品口袋等等。
-为了补充这些游戏玩法的转变，该版本引入了经过彻底修改的关卡编辑器以及为创作者和玩家提供的各种生活质量改进。在技术方面，用户受益于增强的自动平铺功能、全面的 CMake 重构、Flatpak 构建支持以及向 SimpleSquirrel 库的过渡，所有这些都旨在提高可维护性和可移植性。
+为了补充这些游戏玩法的转变，该版本引入了彻底修改的关卡编辑器以及为创作者和玩家提供的各种生活质量改进。在技术方面，用户受益于增强的自动平铺功能、全面的 CMake 重构、Flatpak 构建支持以及向 SimpleSquirrel 库的过渡，所有这些都旨在提高可维护性和可移植性。
 通过如此彻底的更新，SuperTux v0.7.0 可能会带来明显不同的体验。然而，其核心平台前提仍然完好无损。该项目现已进入功能冻结阶段，因此在即将发布的稳定版 0.7.0 之前不会考虑其他功能。
 查看有关 AlternativeTo 的文章更多信息SuperTux | SuperTux 替代品]]></description>
       <guid>https://alternativeto.net/news/2025/12/supertux-v0-7-0-beta-released-with-revamped-worlds-new-music-and-major-gameplay-additions/</guid>
