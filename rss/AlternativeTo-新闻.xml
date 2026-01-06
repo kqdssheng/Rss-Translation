@@ -4,7 +4,34 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Mon, 05 Jan 2026 12:47:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 01:44:58 GMT</lastBuildDate>
+    <item>
+      <title>Icecast 2.5.0 推出改进的网页界面和深色模式</title>
+      <link>https://alternativeto.net/news/2026/1/icecast-2-5-0-launches-improved-web-interface-and-dark-mode/</link>
+      <description><![CDATA[Icecast 2.5.0 引入了可用性改进的网络界面和实验性的暗模式。侦听器计数现在包含在源事件报告中，并且添加了对 X-Forwarded-For 标头的支持。此更新还增强了高缓冲压力下的 TLS 客户端处理，并提供有关客户端的更详细的 API 数据。
+查看有关 AlternativeTo 的文章有关 Icecast 的更多信息 | Icecast 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/icecast-2-5-0-launches-improved-web-interface-and-dark-mode/</guid>
+      <pubDate>Mon, 05 Jan 2026 15:55:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cinebench 2026 增加了对最新 Nvidia、AMD 和 Apple Silicon 芯片的支持</title>
+      <link>https://alternativeto.net/news/2026/1/cinebench-2026-adds-support-for-latest-nvidia-amd-and-apple-silicon-chips/</link>
+      <description><![CDATA[Cinebench 2026 现在支持 Nvidia Blackwell GPU（5000 系列）、AMD 9000 系列 GPU 以及 Apple Silicon M4 和 M5 芯片，从而扩展了对最新硬件的兼容性。此次更新还采用了最新的 Redshift 渲染引擎，可以更准确地评估 CPU 和 GPU 的实际性能。
+查看有关 AlternativeTo 的文章更多信息Cinebench | Cinebench 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/cinebench-2026-adds-support-for-latest-nvidia-amd-and-apple-silicon-chips/</guid>
+      <pubDate>Mon, 05 Jan 2026 15:46:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Phosh 0.52 引入二维码热点、亮度锁屏手势和 Rust 壁纸传送门</title>
+      <link>https://alternativeto.net/news/2026/1/phosh-0-52-introduces-qr-hotspot-brightness-lock-screen-gesture-and-rust-wallpaper-portal/</link>
+      <description><![CDATA[Phosh 0.52 发布，其中包含多项更新，旨在提高其在移动和触摸设备上的可用性。热点插件现在提供带有热点详细信息的二维码，使安全连接其他设备变得更加简单。除此之外，用户还可以使用新的锁定屏幕手势调整屏幕亮度，添加方便的辅助功能快捷方式。
+在移动设置应用程序中，conf-tweaks 系统现在利用 sysfs 后端，简化 postmarketOS 调整并减少对多个设置应用程序的需求。通过持续的平台改进，gmobile 获得了对处理各种显示角半径的支持，而 phoc 则确保这些半径能够准确呈现，从而在圆角设备上提供更精美的体验。
+壁纸门户现已在 Rust 中实现，使所有面向用户的门户都采用这种语言的一致代码库。对于开发人员和高级用户来说，新引入的 DebugControl 接口允许对调试选项进行运行时管理。
+为了解决可用性问题，此版本修复了两个持续存在的屏幕键盘错误：偶尔的展开延迟和影响后续输入字段的文本预编辑问题。还包括更新的翻译和其他错误修复，提高了整体可靠性和可用性。
+查看有关 AlternativeTo 的文章更多信息Phosh | Phosh 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/phosh-0-52-introduces-qr-hotspot-brightness-lock-screen-gesture-and-rust-wallpaper-portal/</guid>
+      <pubDate>Mon, 05 Jan 2026 15:15:00 GMT</pubDate>
+    </item>
     <item>
       <title>OpenTTD 15.0 带来无限水域地图、车站桥梁、航点和 UI 更新</title>
       <link>https://alternativeto.net/news/2026/1/openttd-15-0-brings-infinite-water-maps-bridges-over-stations-waypoints-and-ui-updates/</link>
@@ -124,37 +151,6 @@ Windows 支持也得到了扩展，提供了新的 32 位二进制文件、更�
 查看有关 AlternativeTo 的文章更多信息/e/ | /e/ 替代方案]]></description>
       <guid>https://alternativeto.net/news/2025/12/-e-os-3-3-brings-improved-murena-workspace-integration-and-tracking-notification-removal/</guid>
       <pubDate>Tue, 30 Dec 2025 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hyprland 0.53 彻底修改了窗口规则语法，添加了新的启动命令和入门应用程序</title>
-      <link>https://alternativeto.net/news/2025/12/hyprland-0-53-overhauls-window-rule-syntax-adds-new-launch-command-and-onboarding-app/</link>
-      <description><![CDATA[Hyprland 0.53 作为现代平铺 Wayland 合成器的最新版本发布，引入了一些工作流程改变。最值得注意的是，窗口规则语法已被彻底修改。新配置将 misc:new_window_takes_over_fullscreen 和 master:inherit_fullscreen 替换为 misc:new_window_takes_over_fs。用户将需要重写所有现有的窗口规则以匹配新语法。
-在此更改之后，用户现在需要使用 start-hyprland 而不是之前的 Hyprland 命令来启动合成器。这个新的包装器带来了内置的崩溃恢复和安全模式选项，旨在提高启动过程中的可靠性和用户体验。
-对于那些更新桌面后台工具的人，Hyprpaper 已迁移到版本 0.8.0 的 hyprtoolkit 和 hyprwire 后端，改变了其进程间通信协议。升级到Hyprland 0.53的用户还必须将Hyprpaper更新到0.8.0以保持组件之间的兼容性。
-为了增强入门体验，新的欢迎应用程序向首次使用的用户提供有关 Hyprland 的指导。其他新增功能包括通用子图绑定标志、图形用户界面元素的全新本地化框架、平板电脑输入后隐藏鼠标光标的选项，以及其他增强功能和错误修复。
-查看有关 AlternativeTo 的文章更多信息Hyprland | Hyprland 替代品]]></description>
-      <guid>https://alternativeto.net/news/2025/12/hyprland-0-53-overhauls-window-rule-syntax-adds-new-launch-command-and-onboarding-app/</guid>
-      <pubDate>Tue, 30 Dec 2025 08:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GOG 宣布与 CD Projekt 分离，联合创始人 Kiciński 收购了该平台</title>
-      <link>https://alternativeto.net/news/2025/12/gog-announces-its-separation-from-cd-projekt-as-co-founder-kici-ski-acquires-the-platform/</link>
-      <description><![CDATA[GOG.com，一个 DRM 免费（而且很棒的）PC 游戏市场和 Steam 替代品，有 刚刚宣布将与其母公司 CD Projekt 分离。联合创始人 Michał Kiciński 以 2520 万美元收购了其店面和 GOG GALAXY 平台，将 GOG 重新归为独立所有权。该公司表示其 DRM 免费方法保持不变，用户对其库保持相同的访问权限，包括离线安装程序，并且不需要使用 GOG Galaxy 客户端。
-GOG 还表示，用户帐户数据仍归公司所有，GOG Galaxy 仍然是可选的。它计划独立运营，同时保持与 CD Projekt Red 的关系，因此该工作室的游戏，包括《巫师》系列和《赛博朋克 2077》等，将继续在该平台上销售即将发布的版本。
-在保护方面，GOG 表示，来自赞助人和保护计划捐款的资金将保留在 GOG 内部，并支持计划于 2026 年和 2027 年开展的更大举措，预计 2026 年将提供更多细节。该公司还计划在 2026 年推出新的以社区为重点的举措，并继续努力支持独立开发者和保护经典游戏，包括具有复古精神的游戏。此次拆分还有助于 GOG 保护其无 DRM 原则和保护优先事项，免受未来与 CD Projekt 利益相关者相关的压力。
-查看有关 AlternativeTo 的文章更多信息GOG.com | GOG.com 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2025/12/gog-announces-its-separation-from-cd-projekt-as-co-founder-kici-ski-acquires-the-platform/</guid>
-      <pubDate>Mon, 29 Dec 2025 22:44:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Files v4.0.24 添加了 PowerToys Peek 支持、标签搜索运算符和更多 UI 调整</title>
-      <link>https://alternativeto.net/news/2025/12/files-v4-0-24-adds-powertoys-peek-support-tag-search-operators-and-more-ui-tweaks/</link>
-      <description><![CDATA[Files v4.0.24 已发布，增加了对 PowerToys Peek 的支持，让 Windows 用户可以Microsoft PowerToys 通过选择一个项目并按空格键在“文件”中安装预览文件，类似于 macOS 预览。无需额外设置，更多详细信息请参阅 PowerToys Peek 文档。
-此更新还将复制操作添加到侧边栏和主页小部件的右键单击上下文菜单中。由于自动选择的预填充默认名称，新文件和文件夹的创建速度更快，可以快速保留或替换。 UI 调整包括多功能栏建议浮出控件上的阴影，以更好地匹配 WinUI 样式，以及状态中心中长文件夹名称的文本换行。
-标签搜索现在支持 AND 和 OR 运算符。修复包括在双窗格模式下调整窗口大小时以及在合并冲突期间切换 Git 分支时发生的崩溃，以及对侧边栏中显示黑色背景的基于 PNG 的 .ico 文件的更正。现有用户应该会在应用中看到更新提示，新用户可以从项目网站下载。
-查看有关 AlternativeTo 的文章更多信息文件 | 文件替代]]></description>
-      <guid>https://alternativeto.net/news/2025/12/files-v4-0-24-adds-powertoys-peek-support-tag-search-operators-and-more-ui-tweaks/</guid>
-      <pubDate>Mon, 29 Dec 2025 22:21:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
