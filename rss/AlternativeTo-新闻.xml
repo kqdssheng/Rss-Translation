@@ -4,7 +4,43 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Wed, 07 Jan 2026 12:45:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 01:45:03 GMT</lastBuildDate>
+    <item>
+      <title>ChatGPT 添加了新的专用健康模式来连接医疗记录和健康应用程序</title>
+      <link>https://alternativeto.net/news/2026/1/chatgpt-adds-a-new-dedicated-health-mode-to-connect-medical-records-and-wellness-apps/</link>
+      <description><![CDATA[OpenAI 推出了 ChatGPT Health，这是 ChatGPT 中的一项新功能，可让用户连接医疗记录和第三方健康应用程序。它旨在通过根据用户自己的数据做出响应来帮助解决日常健康和保健问题，但 OpenAI 表示，它不适用于诊断或治疗，也不应取代医疗保健。
+ChatGPT Health 位于一个专用选项卡中，其中聊天、文件、连接的应用程序和内存与 ChatGPT 的其余部分分开。 OpenAI 表示，来自该空间的信息不会转移到其他聊天中，并且 ChatGPT Health 中的对话不会用于训练其基础模型。
+用户可以连接Apple Health等服务来了解活动和睡眠模式，MyFitnessPal和Weight Watchers等服务来了解营养，以及Function来获取实验室测试见解。通过与 b.well（Google 去年也与之合作）的合作伙伴关系，支持医疗记录连接，从而能够对实验室结果和临床结果进行分析用户选择加入时的历史记录。该功能正在向一小部分早期访问群体推出，并计划在未来几周内提供更广泛的可用性。
+查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/chatgpt-adds-a-new-dedicated-health-mode-to-connect-medical-records-and-wellness-apps/</guid>
+      <pubDate>Wed, 07 Jan 2026 20:50:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify 添加了现场收听活动，Jam 邀请加入应用内消息</title>
+      <link>https://alternativeto.net/news/2026/1/spotify-adds-live-listening-activity-and-jam-invites-to-in-app-messages/</link>
+      <description><![CDATA[Spotify 正在对其其应用内消息工具推出两项更新：收听活动和请求果酱。收听活动是选择加入的，并显示用户当前在消息中实时播放的内容，或者如果他们没有积极收听，则显示他们最近播放的歌曲。它仅对消息联系人可见，可以随时关闭，并且用户仍然可以查看已选择加入的联系人的活动，即使他们不共享自己的联系人。
+用户可以从隐私和社交设置中启用收听活动，然后在聊天行和对话顶部查看它。通过点击联系人的活动，用户可以将曲目添加到其库中、开始播放、打开曲目菜单或使用六个标准表情符号之一做出反应。
+Request to Jam 可让 Premium 用户邀请 Message 联系人参加共享远程收听会话。如果接收者接受，他们就成为主持人，两个参与者都可以添加曲目，一起收听，并查看基于综合品味的建议歌曲。免费用户可以在受到高级用户邀请时加入，邀请会在几分钟后过期，参与者可以随时离开。这两项功能现已在支持消息功能的市场的 iOS 和 Android 上推出，预计到 2 月初将获得更广泛的可用性。
+查看有关 AlternativeTo 的文章更多信息Spotify | Spotify 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/spotify-adds-live-listening-activity-and-jam-invites-to-in-app-messages/</guid>
+      <pubDate>Wed, 07 Jan 2026 19:37:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nitrux 5.1.0 为调度、防火墙和电源管理设置了新的默认值</title>
+      <link>https://alternativeto.net/news/2026/1/nitrux-5-1-0-sets-new-defaults-for-scheduling-firewall-and-power-management/</link>
+      <description><![CDATA[Nitrux 5.1.0 使 ADIOS 成为新的默认 I/O 调度程序，使 SCX 成为默认进程调度程序，从而影响所有用户的系统性能。 Firewalld 取代 UFW 作为默认防火墙，引入了 Cinderward，这是一个用于管理防火墙规则的 Wayland 友好的 GUI。 NX Dynamic PPD 和 NX Battery Notify 守护进程改进了电源管理，同时主要的密码策略更新带来了侧重于密码长度和熵的 NIST 800-63B 合规性。
+查看有关 AlternativeTo 的文章有关 Nitrux 的更多信息操作系统 | Nitrux 操作系统替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/nitrux-5-1-0-sets-new-defaults-for-scheduling-firewall-and-power-management/</guid>
+      <pubDate>Wed, 07 Jan 2026 15:32:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Everdo 1.10.4 添加了原生 Apple Silicon 支持和隐私优先的错误报告</title>
+      <link>https://alternativeto.net/news/2026/1/everdo-1-10-4-adds-native-apple-silicon-support-and-privacy-first-error-reporting/</link>
+      <description><![CDATA[Everdo 1.10.4 引入了适用于 MacOS 的通用版本，可在 Apple Silicon 设备上提供更高的性能和电池效率。此更新还首次推出了隐私第一的第一方错误报告系统，用直接、安全的报告取代了旧的机制。其他改进解决了多显示器快速捕获行为和系统时钟异常的处理，以及更精细的垃圾管理。
+查看有关 AlternativeTo 的文章更多信息Everdo | Everdo 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/everdo-1-10-4-adds-native-apple-silicon-support-and-privacy-first-error-reporting/</guid>
+      <pubDate>Wed, 07 Jan 2026 15:25:17 GMT</pubDate>
+    </item>
     <item>
       <title>我们诚实地采用基于 Firefox 的最佳网络浏览器，以实现顶级隐私和定制</title>
       <link>https://alternativeto.net/news/2026/1/our-honest-take-on-the-best-firefox-based-web-browsers-for-top-privacy-and-customization/</link>
@@ -61,7 +97,7 @@ Firefox 生态系统的美妙之处在于其开源 DNA。您不会被一个界�
       <title>Icecast 2.5.0 推出改进的网页界面和深色模式</title>
       <link>https://alternativeto.net/news/2026/1/icecast-2-5-0-launches-improved-web-interface-and-dark-mode/</link>
       <description><![CDATA[Icecast 2.5.0 引入了可用性改进的网络界面和实验性的暗模式。侦听器计数现在包含在源事件报告中，并且添加了对 X-Forwarded-For 标头的支持。此更新还增强了高缓冲压力下的 TLS 客户端处理，并提供有关客户端的更详细的 API 数据。
-查看有关 AlternativeTo 的文章有关 Icecast 的更多信息 | Icecast 替代方案]]></description>
+查看有关 AlternativeTo 的文章有关 Icecast 的更多信息 | Icecast 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/1/icecast-2-5-0-launches-improved-web-interface-and-dark-mode/</guid>
       <pubDate>Mon, 05 Jan 2026 15:55:48 GMT</pubDate>
     </item>
@@ -108,50 +144,13 @@ GNOME 49 引入了更新的用户界面、性能增强、对高动态范围壁�
     <item>
       <title>X 现在允许任何用户在未经同意的情况下人工智能编辑其他用户的图像，并且没有选择退出</title>
       <link>https://alternativeto.net/news/2026/1/x-now-lets-any-user-ai-edit-other-users-images-without-consent-and-there-is-no-opt-out/</link>
-      <description><![CDATA[几天前X推出了一个新的人工智能图像编辑按钮，允许任何用户修改其他人发布的图像，即使没有原始上传者的同意。进行编辑时，图像所有者不会收到通知，并且该功能默认启用，没有选择退出选项（至少到目前为止）。
+      <description><![CDATA[几天前X推出了一个新的人工智能图像编辑按钮，允许任何用户修改其他人发布的图像，即使没有原始上传者的同意。进行编辑时，图像所有者不会收到通知，并且默认情况下启用该功能，没有选择退出选项（至少到目前为止还没有）。
 任何用户都可以访问标准图像帖子上的“编辑图像”按钮，该按钮会打开由 Grok 提供支持的基于提示的界面，并在几秒钟内返回编辑内容。该工具包括用于编写提示、预览结果以及跨个人资料页面和 For You feed 共享更改后的图像的选项。该按钮会出现在所有个人资料上，无论其属于普通用户、经过验证的帐户还是公众人物。
 这一推出不仅引发了艺术家和摄影师的强烈反对，他们看到自己的受版权保护的内容被毫不费力地使用和修改，而且还影响了数千名普通用户，尤其是女性，她们完全正常的共享照片在未经同意的情况下被编辑成暗示性或侵入性场景，这明显违反了隐私。
 到目前为止，一种建议的解决方法是将 PNG 和 JPG 转换为 GIF，这样它们就不太可能被 AI 识别，尽管没有什么能真正阻止使用外部服务下载和编辑照片。我猜我们注定要失败。
 查看有关 AlternativeTo 的文章更多信息X | X 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/1/x-now-lets-any-user-ai-edit-other-users-images-without-consent-and-there-is-no-opt-out/</guid>
       <pubDate>Fri, 02 Jan 2026 18:15:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>F-Droid升级核心服务器，应用更新频率加倍</title>
-      <link>https://alternativeto.net/news/2026/1/f-droid-upgrades-core-server-doubles-app-update-frequency/</link>
-      <description><![CDATA[F-Droid 已升级其核心服务器硬件，从而显着加快其主应用程序存储库的构建和发布周期。使用新服务器后，更新频率已增加至每天两次，从而减少了用户等待新应用程序版本的时间。
-硬件由值得信赖的贡献者物理托管，确保更高的透明度和对基础设施的控制。
-查看有关 AlternativeTo 的文章有关 F-Droid 的更多信息| F-Droid 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/1/f-droid-upgrades-core-server-doubles-app-update-frequency/</guid>
-      <pubDate>Fri, 02 Jan 2026 16:20:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Upscayl 2.15带来重新设计的界面、多语言支持、新的AI模型</title>
-      <link>https://alternativeto.net/news/2026/1/upscayl-2-15-brings-redesigned-interface-multi-language-support-new-ai-model/</link>
-      <description><![CDATA[Upscayl 2.15 版采用重新设计的界面，完全支持九种语言，包括英语、中文和俄语。该版本引入了新的高保真人工智能升级模型，并添加了专用的镜头查看器。
-用户现在可以直接从剪贴板粘贴图像并在首次启动时配置设置。
-更新还包括改进侧边栏中的统计数据、扩展的 AI 模型预览以及其他技术选项。
-查看有关 AlternativeTo 的文章更多信息Upscayl | Upscayl 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/upscayl-2-15-brings-redesigned-interface-multi-language-support-new-ai-model/</guid>
-      <pubDate>Fri, 02 Jan 2026 16:17:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ReactOS 将 MSVCRT 与 Wine 10.0 同步，将 API 测试失败率减少 30%</title>
-      <link>https://alternativeto.net/news/2026/1/reactos-syncs-msvcrt-with-wine-10-0-cuts-api-test-failures-by-30-/</link>
-      <description><![CDATA[ReactOS 已通过与 Wine 10.0 同步更新其 MSVCRT（Microsoft Visual C++ 运行时）。这使得 API 测试失败率减少了 30%，并改善了对更多应用程序的支持。
-此次更新标志着在 ReactOS 中引入 NT6 兼容性方面取得了重大进展。
-查看有关 AlternativeTo 的文章更多信息ReactOS | ReactOS 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/reactos-syncs-msvcrt-with-wine-10-0-cuts-api-test-failures-by-30-/</guid>
-      <pubDate>Fri, 02 Jan 2026 16:06:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zig 0.6.0 添加了 LLVM 10、RISC-V、新的二进制文件和 Windows 改进</title>
-      <link>https://alternativeto.net/news/2026/1/zig-0-6-0-adds-llvm-10-risc-v-new-binaries-and-windows-improvements/</link>
-      <description><![CDATA[Zig 0.6.0 将其工具链升级到 LLVM 10，通过错误修复增强了 ARM、MIPS 和 RISC-V 支持。新的引导 tarball 简化了从源代码构建 Zig 的过程，并带来了五个额外的二进制构建，特别是针对 32 位 ARM、x86 和 RISC-V 平台。对 RISC-V 的支持得到改进，riscv64-freestand 现在为 Tier 1，riscv64-linux 提升为 Tier 2。
-Windows 支持也得到了扩展，提供了新的 32 位二进制文件、更多交叉编译选项以及提高的最低操作系统要求。
-查看有关 AlternativeTo 的文章更多信息Zig | Zig 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/1/zig-0-6-0-adds-llvm-10-risc-v-new-binaries-and-windows-improvements/</guid>
-      <pubDate>Fri, 02 Jan 2026 15:48:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
