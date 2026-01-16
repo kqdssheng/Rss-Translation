@@ -4,7 +4,27 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Fri, 16 Jan 2026 01:46:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 12:44:47 GMT</lastBuildDate>
+    <item>
+      <title>Bandcamp 禁止全部或大部分由人工智能生成的音乐，以“保持平台人性化”</title>
+      <link>https://alternativeto.net/news/2026/1/bandcamp-bans-music-generated-wholly-or-substantially-by-ai-to-keep-the-platform-human-/</link>
+      <description><![CDATA[Bandcamp 对其生成人工智能 (AI) 政策进行了重大更新，旨在确保平台上提供的音乐是由人类创作的。根据修订后的规则，完全或主要由人工智能生成的音乐和音频不再允许上传到 Bandcamp。此举旨在支持创作原创作品的音乐家，并增强听众对网站内容真实性的信心。
+除了禁止人工智能生成的作品外，Bandcamp 还重申，严格禁止使用人工智能工具模仿或冒充特定艺术家或其风格。这将平台现有的假冒和知识产权侵权政策扩展到涵盖技术制作的作品。
+政策更新后，Bandcamp 现在鼓励用户举报他们认为严重依赖生成式 AI 的音乐。该公司的报告工具可用于标记此类内容以供审查，并且 Bandcamp 保留删除任何涉嫌违反规则的曲目的权利。该平台坚信，音乐创作核心的人与人之间的联系对于社会和文化至关重要，因此决定禁止人工智能驱动的音乐上传。
+查看有关 AlternativeTo 的文章更多信息Bandcamp | Bandcamp 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/1/bandcamp-bans-music-generated-wholly-or-substantially-by-ai-to-keep-the-platform-human-/</guid>
+      <pubDate>Fri, 16 Jan 2026 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Forgejo v14.0 添加了内联问题搜索、新文件编辑器、更强的操作信任</title>
+      <link>https://alternativeto.net/news/2026/1/forgejo-v14-0-adds-inline-issue-search-new-file-editor-stronger-actions-trust/</link>
+      <description><![CDATA[Forgejo v14.0 已发布，为自托管代码协作带来了一组 UI、自动化、安全性和数据库更新。它添加了用于问题和拉取请求搜索的内联过滤器，以及应用程序内帮助和专用文档，同时保持现有下拉过滤器与新系统兼容。
+Web 文件编辑器切换到 CodeMirror 而不是 Monaco，支持更简单的单个文件编辑并提高性能、可访问性和移动可用性。更多网络界面无需 JavaScript 即可运行，包括发布评论和使用可扩展菜单。
+Forgejo Actions 添加了拉取请求信任控制，以便管理员可以在需要时批准一次、始终批准、拒绝和撤销执行。它还修复了创建冗余提交状态记录的错误，并添加了 CLI doctor cleanup 命令，其中包含调整内存使用和删除批量大小的选项。在安全性和可靠性方面，Forgejo 在启动时验证 SSHauthorized_keys 文件，并在发现意外密钥时停止，CSRF 保护转向使用浏览器获取元数据的无状态方法，数据库工作减少了死锁，同时引入了一些外键，并在迁移过程中自动清理不一致的记录。
+查看有关 AlternativeTo 的文章更多信息Forgejo | Forgejo 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/forgejo-v14-0-adds-inline-issue-search-new-file-editor-stronger-actions-trust/</guid>
+      <pubDate>Fri, 16 Jan 2026 04:25:20 GMT</pubDate>
+    </item>
     <item>
       <title>Digg 作为新的 Reddit 风格的替代社区平台重新开业</title>
       <link>https://alternativeto.net/news/2026/1/digg-is-back-in-business-as-a-new-reddit-style-alternative-community-platform/</link>
@@ -134,26 +154,6 @@ X 上的任何人都可以阅读和共享已发布的文章，具体取决于所
 查看有关 AlternativeTo 的文章有关 X 的更多信息 | X 替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/1/x-launches-articles-for-premium-subscribers-to-publish-long-form-content/</guid>
       <pubDate>Wed, 14 Jan 2026 08:10:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux Mint 22.3“Zena”与 Cinnamon 6.6 一起发布，全面修改菜单和更智能的扩展</title>
-      <link>https://alternativeto.net/news/2026/1/linux-mint-22-3-zena-launches-with-cinnamon-6-6-overhauled-menu-and-smarter-scaling/</link>
-      <description><![CDATA[Linux Mint 22.3“Zena” 现已推出，基于 Ubuntu 24.04.3 LTS 并随 Cinnamon 6.6 桌面一起发布。 Cinnamon 6.6 更新了 Mint 菜单，为用户头像、书签和收藏夹提供了可定制的全高侧边栏，同时保留了三列布局。搜索栏移至底部，类别图标切换为较小的符号版本，包含会话操作按钮，并且调整默认快捷键以避免重复已固定到面板的应用程序。
-Cinnamon 还添加了更多菜单配置选项，包括更改搜索栏位置、图标样式以及是否显示应用程序描述或文件搜索。现在，分数缩放可让您选择放大或缩小，这对于混合 HiDPI 和标准显示器的多显示器设置最有用，缩小优先考虑清晰度，放大优先考虑性能。
-Nemo 文件管理器获得了搜索改进、对文件名搜索的正则表达式支持以及文件操作的暂停和恢复，同时该版本还添加了符号 XApp 图标、Thunderbolt 配置模块、Night Light 更新、具有更深入硬件详细信息的新系统信息工具以及用于更轻松 GRUB 设置的系统管理工具。 Linux Mint 22.3 自 2026 年 1 月 13 日起提供，Mint 22 系列的支持截止到 2029 年。
-查看有关 AlternativeTo 的文章有关 Linux 的更多信息Mint | Linux Mint 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/linux-mint-22-3-zena-launches-with-cinnamon-6-6-overhauled-menu-and-smarter-scaling/</guid>
-      <pubDate>Wed, 14 Jan 2026 04:50:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wine 11.0 首次推出完整的 WoW64 支持、Linux NTSync 和图形更新</title>
-      <link>https://alternativeto.net/news/2026/1/wine-11-0-debuts-full-wow64-support-ntsync-for-linux-and-graphics-updates/</link>
-      <description><![CDATA[Wine 11.0 现已作为稳定版本提供，完成了向完全受支持、功能完整的 WoW64 模式的转变。它可以在 64 位系统上运行 16 位 Windows 应用程序，用统一的加载程序替换旧的 wine64 加载程序，并弃用纯 32 位前缀，现有安装可以通过设置 WINEARCH=wow64
-在 Linux 上，Wine 11.0 添加了 NTSync 支持以使用内核 NTSync 模块，从而提高了 Linux 6.14 及更高版本上的同步性能。它还在 Linux 和 macOS 上添加了线程优先级处理，在 NTDLL 中引入了新的同步屏障，并通过 Windows 样式符号链接和挂载点的 NT 重分析点扩展了内核接口支持，并通过 userfaultfd 改进了写入监视处理（如果可用）。
-图形更新包括硬件加速 OpenGL 位图渲染（它消除了 OSMesa 依赖性），以及 EGL 成为 X11 上的默认 OpenGL 后端。 Vulkan 迁移到 API 1.4.335，具有新的 Windows 特定扩展和 WoW64 模式下更好的缓冲区处理，而 Direct3D 通过 Vulkan 视频和更广泛的旧功能覆盖范围获得硬件加速 H.264 解码，同时还对桌面集成、实验性Wayland 驱动程序、设备和多媒体支持、工具和 ARM64。
-查看有关 AlternativeTo 的文章更多信息葡萄酒 | 葡萄酒替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/wine-11-0-debuts-full-wow64-support-ntsync-for-linux-and-graphics-updates/</guid>
-      <pubDate>Wed, 14 Jan 2026 04:31:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
