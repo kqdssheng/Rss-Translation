@@ -4,153 +4,156 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Thu, 08 Jan 2026 12:46:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 01:46:20 GMT</lastBuildDate>
     <item>
-      <title>Zed 添加了开发容器支持，支持创建可重现的开发环境</title>
-      <link>https://alternativeto.net/news/2026/1/zed-adds-dev-container-support-enabling-the-creation-of-reproducible-dev-environments/</link>
-      <description><![CDATA[Zed v0.218 已发布，引入了对使用 Docker 在开发容器内工作的支持，允许开发人员为其项目创建一致且可重复的环境。此更新以开发容器规范为基础，建立了一个开放标准，使团队能够使用 Docker 化设置并确保跨计算机的一致开发体验。
-随着基础设施即代码现在成为 Zed 工作流程的核心，团队可以使用 JSON 文件定义其编码环境。这些定义可以构建在共享模板上，或者通过 Dockerfile 或 docker-compose.yaml 包含自定义配置，从而简化设置并解决环境差异。
-在 Zed 中打开包含 /.devcontainer/devcontainer.json 文件的项目时，用户会收到启动开发容器内工作区的提示。连接后，标题栏会清楚地显示该项目正在容器内运行，并且 Zed 的所有核心功能仍然可以访问。如果用户关闭并重新打开应用程序，Zed 将自动重新连接到最后使用的开发容器，从而实现无缝转换。
-展望未来，该团队计划扩展 Dev Containers 功能，即将支持定义规范和 Zed 扩展，并允许端口转发更好地满足不同的项目需求。
-查看有关 AlternativeTo 的文章有关 Zed 的更多信息编辑器 | Zed 编辑器替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/1/zed-adds-dev-container-support-enabling-the-creation-of-reproducible-dev-environments/</guid>
-      <pubDate>Thu, 08 Jan 2026 12:05:00 GMT</pubDate>
+      <title>Digg 作为新的 Reddit 风格的替代社区平台重新开业</title>
+      <link>https://alternativeto.net/news/2026/1/digg-is-back-in-business-as-a-new-reddit-style-alternative-community-platform/</link>
+      <description><![CDATA[曾经流行的众包内容平台 Digg 正在以公开测试版的形式大举公开回归，以清晰的 Reddit 风格方式重新作为社区平台推出。新版本由 Digg 创始人 Kevin Rose 和 Reddit 联合创始人 Alexis Ohanian 领导，这表明他们坚定致力于打造 Reddit 的主要替代品。用户可以访问重新设计的网站和移动应用，支持汇总来自各个社区的帖子的提要。
+Digg 现在允许用户加入社区、发布链接和评论以及对内容进行投票（现在称为“diggs”）。该平台推出时设有 21 个一般兴趣社区，涵盖科学、技术、游戏、娱乐和幽默等主题。任何人都可以注册并创建自己的社区，但当前的限制将每个社区限制为一名管理员。
+Digg 还强调了减少操纵的反机器人措施，包括以硬件为中心的社区的潜在所有权证明。首席执行官贾斯汀·梅泽尔 (Justin Mezzell) 表示，该团队计划每周发布新功能。重新推出的内容包括一个名为 Digg Daily 的人工智能生成的每日回顾播客，该公司表示可能会根据用户反馈添加真人主持人。
+查看有关 AlternativeTo 的文章更多信息Digg | Digg 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/digg-is-back-in-business-as-a-new-reddit-style-alternative-community-platform/</guid>
+      <pubDate>Thu, 15 Jan 2026 21:43:42 GMT</pubDate>
     </item>
     <item>
-      <title>Home Assistant 2026.1 带来了家庭仪表板改进和更多针对特定用途的触发器</title>
-      <link>https://alternativeto.net/news/2026/1/home-assistant-2026-1-brings-home-dashboard-improvements-and-more-purpose-specific-triggers/</link>
-      <description><![CDATA[Home Assistant 2026.1 现已作为免费开源家庭自动化平台的最新版本提供。此次更新的一个值得注意的焦点是不断发展的主页仪表板，特别是对于移动用户而言。仪表板现在在顶部提供了有关灯光、气候、安全、媒体播放器、天气和能源的摘要卡。这取代了以前基于选项卡的导航，允许用户访问基本的设备类别、收藏夹和区域，而无需额外点击。此外，新的设备页面通过直接在仪表板上显示尚未分配到任何区域的所有设备来简化管理。
-除了这些界面升级之外，设置页面现在将 Zigbee 和 Z-Wave 等开放协议直接放在核心设置之后。这一组织变化加快了对协议选项和设备配置的访问。同时，自动化工作流程受益于一组扩展的触发器类型，构建在先前版本中引入的特定用途触发器和条件。此增强功能为自动化爱好者提供了更大的灵活性。
-除了 UI 和自动化更改之外，此版本还添加了八个新集成，引入了一个新的虚拟集成，并提供了跨平台的一系列改进和错误修复。
-查看有关 AlternativeTo 的文章有关主页的更多信息助理 | 家庭助理替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/1/home-assistant-2026-1-brings-home-dashboard-improvements-and-more-purpose-specific-triggers/</guid>
-      <pubDate>Thu, 08 Jan 2026 10:30:00 GMT</pubDate>
+      <title>Tails 7.4 添加了新的语言保存功能、删除 BitTorrent、更新核心应用程序等</title>
+      <link>https://alternativeto.net/news/2026/1/tails-7-4-adds-new-language-saving-feature-drops-bittorrent-updates-core-apps-and-more/</link>
+      <description><![CDATA[Tails 7.4 现已推出，进一步履行其提供可移植、注重隐私、对抗监视和审查的 Linux 操作系统的使命。此更新引入了一项功能，允许用户将其语言、键盘布局和格式首选项直接从“欢迎”屏幕保存到 USB 记忆棒。这些首选项将在后续重新启动时自动应用。
+选择此设置时，语言和格式选择将以未加密的方式存储在 USB 驱动器上。此方法旨在简化持久存储的密码输入。虽然这对许多用户有帮助，但对于处理特别敏感环境的用户来说，它需要考虑隐私问题。
+除了可用性增强之外，Tails 7.4 还附带 Linux 6.12.63 内核，并提供 Tor 浏览器 和 Thunderbird 的更新版本。然而，由于与 BitTorrent 版本 1 相关的安全问题，对 BitTorrent 下载的支持现已停止。鼓励用户使用从项目镜像直接下载，这通常更快、更安全。
+还修复了一些错误。这些解决了通过正常工作流程无法打开 Kleopatra 中的 .gpg 加密文件的问题，并解决了使用错误密码解锁 VeraCrypt 卷时出现的桌面崩溃问题。 Tails 现在还在顶部导航栏和锁定屏幕上强制执行一致的 24 小时时间格式。
+查看有关 AlternativeTo 的文章更多信息尾部 | 尾部替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/tails-7-4-adds-new-language-saving-feature-drops-bittorrent-updates-core-apps-and-more/</guid>
+      <pubDate>Thu, 15 Jan 2026 15:15:00 GMT</pubDate>
     </item>
     <item>
-      <title>WhatsApp 推出新的群聊功能：会员标签、文字贴纸和活动提醒</title>
-      <link>https://alternativeto.net/news/2026/1/whatsapp-rolls-out-new-group-chat-features-member-tags-text-stickers-and-event-reminders/</link>
-      <description><![CDATA[WhatsApp 正在推出三项新功能，以增强群聊沟通和个性化。用户现在可以在每个组中为自己分配可自定义的标签，根据聊天情况允许不同的角色或身份，例如在一个组中为 AlternativeTo admin，在另一个组中为 Jim 的兄弟。
-在这些身份增强之后，该平台引入了一种创建贴纸的新方法。用户可以使用贴纸搜索将任何单词转换为贴纸，并将他们的最新创作直接添加到贴纸包中。此选项删除了首先将贴纸发送到聊天的步骤，从而简化了经常使用自定义贴纸的用户的流程。
-在这些升级的基础上，WhatsApp 现在允许群组活动创建者为受邀者设置自定义提前提醒。此更新旨在帮助群组成员及时了解即将举行的聚会，无论该活动是实体聚会还是在线通话。
-这些新增功能补充了早期的群聊功能，例如高达 2 GB 的大文件共享、高清媒体共享、屏幕共享，以及语音聊天，所有这些都是为了促进小组协作和沟通。
-查看有关 AlternativeTo 的文章更多有关WhatsApp | WhatsApp 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/whatsapp-rolls-out-new-group-chat-features-member-tags-text-stickers-and-event-reminders/</guid>
-      <pubDate>Thu, 08 Jan 2026 08:50:00 GMT</pubDate>
+      <title>TickTick 8.0 添加了建议任务、改进的年度/每月视图和自定义选项</title>
+      <link>https://alternativeto.net/news/2026/1/ticktick-8-0-adds-suggested-tasks-improved-yearly-monthly-views-and-customization-options/</link>
+      <description><![CDATA[TickTick 8.0 现已作为此待办事项列表和日历应用程序的最新更新提供。此版本引入了建议任务，使用户能够查看未完成的项目并确定下一步要关注的内容。基于这些任务管理变更，TickTick 的日历获得了通过热图增强的年度视图，提供了 12 个月内活动的可访问、一目了然的摘要。
+对于那些寻求对视觉组织有更多控制的人来说，更新允许个性化列表背景和灵活的样式组合。用户还可以为习惯和倒计时分配自定义颜色，并切换到现代界面风格以获得更精简的外观。
+在这些可用性增强之后，日历的月视图支持捏合缩放手势，从而可以更轻松地在同一界面中检查更广泛或更具体的任务范围。此外，TickTick 的桌面版本采用了新的任务卡片样式，有助于改进大屏幕上的外观和感觉。
+查看有关 AlternativeTo 的文章更多信息TickTick | TickTick 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/ticktick-8-0-adds-suggested-tasks-improved-yearly-monthly-views-and-customization-options/</guid>
+      <pubDate>Thu, 15 Jan 2026 12:05:00 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 添加了新的专用健康模式来连接医疗记录和健康应用程序</title>
-      <link>https://alternativeto.net/news/2026/1/chatgpt-adds-a-new-dedicated-health-mode-to-connect-medical-records-and-wellness-apps/</link>
-      <description><![CDATA[OpenAI 推出了 ChatGPT Health，这是 ChatGPT 中的一项新功能，可让用户连接医疗记录和第三方健康应用程序。它旨在通过根据用户自己的数据做出响应来帮助解决日常健康和保健问题，但 OpenAI 表示，它不适用于诊断或治疗，也不应取代医疗保健。
-ChatGPT Health 位于一个专用选项卡中，其中聊天、文件、连接的应用程序和内存与 ChatGPT 的其余部分分开。 OpenAI 表示，来自该空间的信息不会转移到其他聊天中，并且 ChatGPT Health 中的对话不会用于训练其基础模型。
-用户可以连接Apple Health等服务来了解活动和睡眠模式，MyFitnessPal和Weight Watchers等服务来了解营养，以及Function来获取实验室测试见解。通过与 b.well（Google 去年也与之合作）的合作伙伴关系，支持医疗记录连接，从而能够对实验室结果和临床结果进行分析用户选择加入时的历史记录。该功能正在向一小部分早期访问群体推出，并计划在未来几周内提供更广泛的可用性。
-查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/1/chatgpt-adds-a-new-dedicated-health-mode-to-connect-medical-records-and-wellness-apps/</guid>
-      <pubDate>Wed, 07 Jan 2026 20:50:25 GMT</pubDate>
+      <title>OpenProject 17.0 带来了实时文档协作、改进的会议等等</title>
+      <link>https://alternativeto.net/news/2026/1/openproject-17-0-brings-real-time-document-collaboration-improved-meetings-and-much-more/</link>
+      <description><![CDATA[OpenProject 17.0 现已推出，标志着此开源项目管理解决方案的主要版本。借助此版本，团队可以实时协作处理文档，从而允许多个用户在 OpenProject 中同时编辑和查看更改。这集中了团队合作并支持共享想法的开发。
+在文档协作的基础上，会议管理得到了显着增强。新功能包括草稿和演示模式，以及对多种基于文本的结果的支持，使您可以更轻松地直接在会议记录中记录决策和后续步骤。此外，参与者现在可以使用 iCal 订阅会议，让他们通过个人日历工具跟踪日程安排。
+随着用户体验的变化，重新设计的项目主页现在分为两个专用选项卡，将高级项目信息与操作细节分开。项目创建过程具有更清晰的模板选择，可以指导用户，减少设置错误，即使对于那些没有技术专业知识的人来说也是如此。
+对于管理复杂计划的组织来说，OpenProject 17.0 可以将相关项目分组为计划和项目组合，从而提供与战略目标和进度跟踪相一致的概述。此外，SharePoint 和 OneDrive 集成已分离，支持对连接内容进行更严格、更透明的权限管理。
+查看有关 AlternativeTo 的文章更多信息OpenProject | OpenProject 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/1/openproject-17-0-brings-real-time-document-collaboration-improved-meetings-and-much-more/</guid>
+      <pubDate>Thu, 15 Jan 2026 10:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>Spotify 添加了现场收听活动，Jam 邀请加入应用内消息</title>
-      <link>https://alternativeto.net/news/2026/1/spotify-adds-live-listening-activity-and-jam-invites-to-in-app-messages/</link>
-      <description><![CDATA[Spotify 正在对其其应用内消息工具推出两项更新：收听活动和请求果酱。收听活动是选择加入的，并显示用户当前在消息中实时播放的内容，或者如果他们没有积极收听，则显示他们最近播放的歌曲。它仅对消息联系人可见，可以随时关闭，并且用户仍然可以查看已选择加入的联系人的活动，即使他们不共享自己的联系人。
-用户可以从隐私和社交设置中启用收听活动，然后在聊天行和对话顶部查看它。通过点击联系人的活动，用户可以将曲目添加到其库中、开始播放、打开曲目菜单或使用六个标准表情符号之一做出反应。
-Request to Jam 可让 Premium 用户邀请 Message 联系人参加共享远程收听会话。如果接收者接受，他们就成为主持人，两个参与者都可以添加曲目，一起收听，并查看基于综合品味的建议歌曲。免费用户可以在受到高级用户邀请时加入，邀请会在几分钟后过期，参与者可以随时离开。这两项功能现已在支持消息功能的市场的 iOS 和 Android 上推出，预计到 2 月初将获得更广泛的可用性。
-查看有关 AlternativeTo 的文章更多信息Spotify | Spotify 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/spotify-adds-live-listening-activity-and-jam-invites-to-in-app-messages/</guid>
-      <pubDate>Wed, 07 Jan 2026 19:37:24 GMT</pubDate>
+      <title>Opera One R3 更新带来了增强的人工智能和谷歌集成</title>
+      <link>https://alternativeto.net/news/2026/1/opera-one-r3-update-brings-enhanced-ai-and-google-integrations/</link>
+      <description><![CDATA[Opera One 已推出 R3 更新，具有显着升级的浏览器 AI。该版本还在边栏中添加了 Google 服务集成，例如 Gmail 和日历。
+此外，用户可以通过分屏获得扩展的多任务处理能力，现在支持多达四个部分、改进的文件、音乐和翻译、新主题和生产力升级。
+查看有关 AlternativeTo 的文章有关 Opera 的更多信息 | 歌剧替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/opera-one-r3-update-brings-enhanced-ai-and-google-integrations/</guid>
+      <pubDate>Thu, 15 Jan 2026 10:26:06 GMT</pubDate>
     </item>
     <item>
-      <title>Nitrux 5.1.0 为调度、防火墙和电源管理设置了新的默认值</title>
-      <link>https://alternativeto.net/news/2026/1/nitrux-5-1-0-sets-new-defaults-for-scheduling-firewall-and-power-management/</link>
-      <description><![CDATA[Nitrux 5.1.0 使 ADIOS 成为新的默认 I/O 调度程序，使 SCX 成为默认进程调度程序，从而影响所有用户的系统性能。 Firewalld 取代 UFW 作为默认防火墙，引入了 Cinderward，这是一个用于管理防火墙规则的 Wayland 友好的 GUI。 NX Dynamic PPD 和 NX Battery Notify 守护进程改进了电源管理，同时主要的密码策略更新带来了侧重于密码长度和熵的 NIST 800-63B 合规性。
-查看有关 AlternativeTo 的文章有关 Nitrux 的更多信息操作系统 | Nitrux 操作系统替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/nitrux-5-1-0-sets-new-defaults-for-scheduling-firewall-and-power-management/</guid>
-      <pubDate>Wed, 07 Jan 2026 15:32:48 GMT</pubDate>
+      <title>Instagram 开始测试新功能，让您个性化您的 Reels 算法</title>
+      <link>https://alternativeto.net/news/2026/1/instagram-starts-testing-new-feature-that-lets-you-personalize-your-reels-algorithm/</link>
+      <description><![CDATA[Instagram 正在推出一项名为您的算法的功能，旨在让用户更直接地控制他们的内容推荐。此选项使个人能够添加或删除特定兴趣，从而有可能减少基于短暂或意外搜索的源中不需要的帖子。
+目前，您的算法正在分阶段发布，并且只能通过 Reels 界面获取。目前，该功能仅限于英语用户。对于那些在初始测试组中选择的人，一个带有两个标尺和两个心形的独特按钮现在出现在卷轴屏幕的右上角。点击此按钮会弹出一个专用菜单，用户可以在其中通过添加或删除兴趣类别来优化推荐内容。
+鉴于自动推荐在 Instagram 和其他平台的内容交付系统中发挥的核心作用，新控制措施的整体有效性和广度仍不确定。目前尚不清楚该工具将对用户提要的结构或底层推荐算法产生多大影响。
+查看有关 AlternativeTo 的文章更多信息Instagram | Instagram 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/instagram-starts-testing-new-feature-that-lets-you-personalize-your-reels-algorithm/</guid>
+      <pubDate>Thu, 15 Jan 2026 08:50:00 GMT</pubDate>
     </item>
     <item>
-      <title>Everdo 1.10.4 添加了原生 Apple Silicon 支持和隐私优先的错误报告</title>
-      <link>https://alternativeto.net/news/2026/1/everdo-1-10-4-adds-native-apple-silicon-support-and-privacy-first-error-reporting/</link>
-      <description><![CDATA[Everdo 1.10.4 引入了适用于 MacOS 的通用版本，可在 Apple Silicon 设备上提供更高的性能和电池效率。此更新还首次推出了隐私第一的第一方错误报告系统，用直接、安全的报告取代了旧的机制。其他改进解决了多显示器快速捕获行为和系统时钟异常的处理，以及更精细的垃圾管理。
-查看有关 AlternativeTo 的文章更多信息Everdo | Everdo 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/everdo-1-10-4-adds-native-apple-silicon-support-and-privacy-first-error-reporting/</guid>
-      <pubDate>Wed, 07 Jan 2026 15:25:17 GMT</pubDate>
+      <title>Slack 将 Slackbot 转变为具有新功能的上下文感知个人 AI 代理</title>
+      <link>https://alternativeto.net/news/2026/1/slack-transforms-slackbot-into-a-context-aware-personal-ai-agent-with-new-capabilities/</link>
+      <description><![CDATA[Slack 对其内置助手 Slackbot 进行了重大升级，将其转变为人工智能代理，能够协助用户完成各种工作场所任务。此更新允许 Slackbot 直接在通信平台内处理查找信息、起草电子邮件和安排会议等功能。
+基于这些功能，Slackbot 从用户工作流程和交互中学习，使其能够帮助个人保持条理、准备和专注。该工具使用可访问的消息、文件和渠道来根据每个用户的角色定制见解和响应，确保支持既相关又上下文感知。
+在一次对话中，Slackbot 将用于线程摘要或消息翻译等操作的原生人工智能与企业搜索相结合，从链接的应用程序和驱动器中检索文件和数据。 Slack 强调用户与 Slackbot 的交互是私密的。该公司部署企业级安全标准和实时防护措施来检测和消除提示注入、不安全内容或网络钓鱼等问题，同时严格的权限控制保证 Slackbot 仅访问授权数据。
+升级后的 Slackbot 将从今天开始分阶段推出，并持续到 1 月和 2 月，向 Business+ 和 Enterprise+ 客户提供。
+查看有关 AlternativeTo 的文章更多信息Slack | Slack 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/1/slack-transforms-slackbot-into-a-context-aware-personal-ai-agent-with-new-capabilities/</guid>
+      <pubDate>Wed, 14 Jan 2026 15:15:00 GMT</pubDate>
     </item>
     <item>
-      <title>我们诚实地采用基于 Firefox 的最佳网络浏览器，以实现顶级隐私和定制</title>
-      <link>https://alternativeto.net/news/2026/1/our-honest-take-on-the-best-firefox-based-web-browsers-for-top-privacy-and-customization/</link>
-      <description><![CDATA[我多年来一直使用基于 Firefox 的浏览器，不是因为我是一名技术隐士（尽管我被称为更糟糕），而是因为我喜欢知道谁在监视我。不，我不是指我那只脾气暴躁的老猫。我指的是谷歌，它的 Chrome 帝国悄悄地记录每一次点击、滚动和半成形的搜索查询。 Firefox 及其众多后代提供了一种安静的反叛：一种浏览方式，而不会让人感觉自己被数字狗仔队跟踪。此外，您还可以安装 uBlock Origin，感觉自己像一个数字忍者，以外科手术般的精确度拦截广告、跟踪器和弹出窗口。这不仅仅是隐私，更是权力。
-Firefox 生态系统的美妙之处在于其开源 DNA。您不会被一个界面或一组功能所困扰。想要一个看起来像是由建筑师设计的浏览器吗？尝试 Zen。我已经使用它一年多了，它是我的日常驱动程序。垂直标签？查看。工作空间？查看。分割视图、选项卡组、紧凑模式？双重检查。这就像拥有一把用于浏览的瑞士军刀，但没有奇怪的剪刀。对于那些想要尝试一些不同的东西的人来说，Floorp 还提供深度定制，而不牺牲性能。 水狐？还活着，仍然很快，仍然没有遥测。如果您使用 KDE Plasma，FireDragon 集成得如此顺畅，您会想知道为什么您曾经使用过其他任何东西。
-感觉有点老派？那么，Basilisk（是的，基于 XUL 的 phoenix）可能是一个不错的选择。据我们的一些用户称，它速度快、可定制，并且“Firefox 一直都是并且仍然应该是”。对你来说太现代了吗？好吧，那么我想你应该回到 Pale Moon、GNU IceCast 或 K-Meleon。就用户界面和自定义选项而言，它们可能不是最现代的选项，但它们仍在运行，并且不包含任何 Mozilla bull$it 最近的 AI 功能和数据收集。
-对于隐私纯粹主义者来说，LibreWolf 是你最好的朋友：经过强化，去除了遥测技术，专为那些想要消失在数字以太中的人而打造。 Mullvad 浏览器？如果您已经在使用他们的 VPN，那就太完美了，它就像隐私一二拳。如果你真的想消失呢？ Tor 浏览器。这不仅是私人的，而且是匿名的。它通过多个中继路由您的流量，隐藏您的 IP，并允许您访问 Tor 网络。当然，它会慢一些，但有时，速度就是自由的代价。
-在 Android 上？不用担心。 Mull 可能已经消失，但它的精神在 IronFox、Iceraven 和 耳廓狐。它们并不像 Chrome 那样完美，但它们更加尊重您的数据。老实说，这值得额外点击几次。关键是：你有选择。很多。所以测试几个。看看什么适合。如果您找到了完美的匹配，请告诉我们，因为在这个浏览器丛林中，我们都只是想找到最好的树来爬。
+      <title>Firefox 147 带来 Apple Silicon WebGPU 支持、改进的视频播放和画中画等</title>
+      <link>https://alternativeto.net/news/2026/1/firefox-147-brings-apple-silicon-webgpu-support-improved-video-playback-and-pip-and-more/</link>
+      <description><![CDATA[Mozilla 发布了 Firefox 147，对其流行的开源网络浏览器进行了多项重大改进。在此版本中，WebGPU 现在可在受支持的 macOS 版本中为配备 Apple Silicon 处理器的设备启用，从而为这些用户扩展了高级图形功能。此外，Firefox 147 通过支持硬件解码视频的零复制播放，升级了 AMD 图形硬件上的视频播放性能，使这些系统与 Intel 和 NVIDIA GPU 相媲美。
+经过这些增强，Firefox 现在支持安全浏览 V5 协议，并从之前的 V4 方法过渡到 V5 中的本地列表模式。将增强跟踪保护设置为“严格”的用户将看到默认启用的本地网络访问限制，需要明确的权限才能访问公共网站访问本地资源。在 Linux 平台上，Firefox 采用了 Freedesktop.org XDG 基本目录规范，提高了与广泛使用的目录结构的兼容性。
+转向面向用户的更改，现在可以将画中画窗口设置为在后台选项卡播放视频时自动打开。对于 Web 开发人员来说，Firefox 147 增加了对 Navigation API 的支持，并在 Service Worker 中启用 ES 模块，从而提高了现代 Web 应用程序的兼容性。此更新还包括支持 Unicode 17 和新语言环境的 Unicode ICU 78，以及各种其他增强功能和错误修复。
 查看有关 AlternativeTo 的文章有关 Mozilla 的更多信息Firefox | Mozilla Firefox 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/our-honest-take-on-the-best-firefox-based-web-browsers-for-top-privacy-and-customization/</guid>
-      <pubDate>Wed, 07 Jan 2026 12:05:00 GMT</pubDate>
+      <guid>https://alternativeto.net/news/2026/1/firefox-147-brings-apple-silicon-webgpu-support-improved-video-playback-and-pip-and-more/</guid>
+      <pubDate>Wed, 14 Jan 2026 12:05:00 GMT</pubDate>
     </item>
     <item>
-      <title>NVIDIA 即将为其 GeForce Now 云游戏服务推出原生 Linux 和 Fire TV 应用程序</title>
-      <link>https://alternativeto.net/news/2026/1/nvidia-to-launch-native-linux-and-fire-tv-apps-for-its-geforce-now-cloud-gaming-service-soon/</link>
-      <description><![CDATA[NVIDIA 正在为其 GeForce Now 云游戏服务提供原生 Linux 支持，让用户无需依赖非官方解决方法或修改的第三方应用程序即可流式传输游戏。这一举措满足了 PC 游戏社区最常见的要求之一，并直接针对需要更集成体验的 Linux 用户。
-通过即将推出的应用程序，运行 Ubuntu 24.04 及更高版本的 Linux PC 将能够以每秒 5K 和 120 帧的速度从云端流式传输受支持的 PC 游戏，或者以每秒 360 帧的速度流式传输 1080p。渲染完全在云端进行，无需本地高端显卡即可实现光线追踪、NVIDIA 深度学习超级采样 4 和更广泛的 GeForce Now 库等功能。该应用程序旨在自然地融入 Linux 桌面工作流程，使这些云驱动的 RTX 功能可供更广泛的受众使用。 Linux 应用程序预计于今年年初进入测试版。
-在扩大桌面支持的同时，NVIDIA 还正在为 Amazon Fire TV 设备准备原生 GeForce Now 应用程序，该应用程序很快就会在参与国家/地区推出。除了平台更新之外，飞行模拟爱好者还将获得对飞行控制的支持，所有成员都将受益于新的单点登录集成和更多加入云服务的 AAA 游戏。
-查看有关 AlternativeTo 的文章有关 GeForce 的更多信息NOW | GeForce NOW 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/1/nvidia-to-launch-native-linux-and-fire-tv-apps-for-its-geforce-now-cloud-gaming-service-soon/</guid>
-      <pubDate>Wed, 07 Jan 2026 10:30:00 GMT</pubDate>
+      <title>Bevy 0.18 带来了大气遮挡、PBR 阴影、Solari 改进和字体变化</title>
+      <link>https://alternativeto.net/news/2026/1/bevy-0-18-brings-atmospheric-occlusion-pbr-shading-solari-improvements-and-font-variations/</link>
+      <description><![CDATA[Bevy 0.18 对其开源 Rust 游戏引擎进行了显着改进。该版本引入了大气遮挡，允许新的程序大气系统直接影响场景对象的照明条件。这种程序大气现在是高度可定制的，并支持任意大气类型，使开发人员能够控制制作沙漠天空、雾环境或非地球行星设置。
+Bevy 以核心渲染功能为基础，通过基于物理的渲染 (PBR) 材质解决了长期存在的问题，从而显着提高了质量。实验性的 Solari 渲染器提供实时光线追踪，还为寻求高级视觉管道的开发人员提供了一些新功能和改进。此外，更新还添加了高级全屏材质类型，以简化后处理着色器的定义。
+作为用户界面增强功能的一部分，Bevy 引入了强大的字体处理功能，支持可变粗细、文本删除线、下划线和 OpenType 功能。通过自动定向导航简化了 UI 组件内的导航，从而在使用游戏手柄或键盘时实现更轻松的交互。对于管理构建选项的开发人员来说，场景驱动的 Cargo 功能现在允许对 2D、3D 或 UI 功能进行选择性编译。最后，用于飞行和平移相机设置的内置相机控制器减少了对外部解决方案的需求。
+查看有关 AlternativeTo 的文章有关 Bevy 的更多信息游戏引擎 | Bevy 游戏引擎替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/bevy-0-18-brings-atmospheric-occlusion-pbr-shading-solari-improvements-and-font-variations/</guid>
+      <pubDate>Wed, 14 Jan 2026 10:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>Nuxt Studio 1.0 发布，对生产中的 Nuxt 网站编辑进行了多项增强</title>
-      <link>https://alternativeto.net/news/2026/1/nuxt-studio-1-0-launches-with-several-enhancements-for-in-production-nuxt-website-editing/</link>
-      <description><![CDATA[Nuxt Studio 1.0 现已推出，这是其第一个稳定版本，用于在生产环境中对 Nuxt 内容 网站进行浏览器内编辑，初始 Alpha 版本发布两个月后。继早期预览版之后，该工具已全面重建为 Nuxt 模块。这种更新的架构意味着 Nuxt Studio 是完全免费、开源和自托管的。该应用程序与 Nuxt Content 站点一起运行，并直接在生产环境中提供内容管理。
-在此基础上，Nuxt Studio 通过 TipTap 的富文本编辑器和 Monaco 的代码视图引入了编辑灵活性，允许用户根据其工作流程切换模式。现在包含 Git 集成，使用户能够直接将更改提交到 GitHub 或 GitLab 存储库。此外，新的媒体管理系统支持在编辑器中上传和预览图像和视频。
-关于身份验证，该版本实现了 GitHub、GitLab、Google OAuth 和自定义提供商的选项，支持各种组织要求。用户还可以在本地编辑内容，无需身份验证，从而简化了快速迭代和测试。通过与社区的合作，Nuxt Studio 现在提供从阿拉伯语到乌克兰语的 22 种翻译，扩大了全球用户的可访问性。
-查看有关 AlternativeTo 的文章更多信息Nuxt Studio | Nuxt Studio 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/1/nuxt-studio-1-0-launches-with-several-enhancements-for-in-production-nuxt-website-editing/</guid>
-      <pubDate>Wed, 07 Jan 2026 08:50:00 GMT</pubDate>
+      <title>n8n 为工作流程自动化添加了自动保存、版本化发布和并发保护</title>
+      <link>https://alternativeto.net/news/2026/1/n8n-adds-autosave-versioned-publishing-and-concurrency-protection-for-workflow-automation/</link>
+      <description><![CDATA[n8n 的最新平台更新带来了一系列新功能，旨在使工作流程管理更安全、更可靠。核心增强功能包括自动保存、版本化发布以及协作编辑会话的并发保护。自动保存每两秒检查一次更改并自动保存进度，解决浏览器崩溃或忘记保存等常见风险。此功能还适应协作场景，减少丢失最近工作的机会。
+除了自动保存之外，版本化发布还使用户可以直接控制哪个工作流程版本上线。团队可以尝试新想法或迭代现有工作流程，而不会影响生产逻辑，因为只有已发布的版本在新版本发布之前保持活动状态。
+虽然这些更改增强了可用性，但 n8n 现在通过检测某人何时编辑工作流程并将画布切换为其他人的只读来提供并发保护。这种方法可以防止团队成员意外覆盖彼此的工作。
+在这些更新之后，工作流程历史记录面板现在允许用户跟踪更改、执行即时回滚以及发布任何以前的版本。在未来几周内，n8n 计划引入自定义版本名称、视觉历史记录改进以及更轻松地重命名过去的工作流程版本，从而进一步改进这个流行的自动化平台。
+查看有关 AlternativeTo 的文章更多信息n8n | n8n 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/n8n-adds-autosave-versioned-publishing-and-concurrency-protection-for-workflow-automation/</guid>
+      <pubDate>Wed, 14 Jan 2026 08:50:00 GMT</pubDate>
     </item>
     <item>
-      <title>微软禁用另一个离线Windows激活选项，仅推送在线激活</title>
-      <link>https://alternativeto.net/news/2026/1/microsoft-disables-yet-another-offline-windows-activation-option-pushing-online-only/</link>
-      <description><![CDATA[据报道，微软已经终止了对 Windows 和 Office 中基于手机的产品激活的支持，悄悄停止了为无法访问互联网的用户提供的长期选项。此更改似乎会影响 Windows 11、Windows 10，甚至 Windows 7，删除了通过电话完成激活。
-虽然微软支持文章仍然描述了Windows设置中的“通过电话激活”选项，但用户表示，拨打激活号码现在会触发一条自动消息，显示将它们重定向到 Microsoft 产品激活门户 (aka.ms/aoh)。该过程似乎被推送到基于网络的流程，而不是通过电话提供激活码，从而使旧的离线路径无法使用。
-此更改已在用户论坛中讨论，并在用户视频中展示，但官方文档尚未更新以匹配。它还符合 Microsoft 更广泛地推动依赖互联网的设置和激活，包括对 OOBE 工作流程进行更严格的限制，这些工作流程以前允许更多的离线或本地帐户路由。
-查看有关 AlternativeTo 的文章有关 Windows 的更多信息11 | Windows 11 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/1/microsoft-disables-yet-another-offline-windows-activation-option-pushing-online-only/</guid>
-      <pubDate>Tue, 06 Jan 2026 18:59:56 GMT</pubDate>
+      <title>Thunderbird 147.0：添加了新的文件夹路径选项和本地化首选项</title>
+      <link>https://alternativeto.net/news/2026/1/thunderbird-147-0-new-folder-path-option-and-localization-preferences-added/</link>
+      <description><![CDATA[Thunderbird 147.0 为紧凑视图模式下的文件夹窗格引入了新的“显示完整路径”选项。该版本还添加了“mail.useLocalizedFolderNames”首选项，允许用户管理特殊文件夹名称本地化。
+许多问题已得到解决，包括影响文件夹压缩、搜索小部件和 IMAP 虚拟文件夹的错误，以及与 EWS 相关的崩溃和将消息标记为已读。
+查看有关 AlternativeTo 的文章更多信息Thunderbird | Thunderbird 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/thunderbird-147-0-new-folder-path-option-and-localization-preferences-added/</guid>
+      <pubDate>Wed, 14 Jan 2026 08:42:49 GMT</pubDate>
     </item>
     <item>
-      <title>Brave 的新 adblock 引擎将所有平台的内存使用量减少了 75%</title>
-      <link>https://alternativeto.net/news/2026/1/brave-s-new-adblock-engine-cuts-memory-usage-by-75-across-all-platforms/</link>
-      <description><![CDATA[Brave 彻底改造了其基于 Rust 的广告拦截引擎，将 Android、iOS 和桌面版的内存使用量减少了 75%。使用默认过滤器设置，用户会发现内存使用量减少了大约 45 MB，并且对于启用额外阻止列表的任何人来说，节省的费用都会增加。
-团队重构了引擎，使用 FlatBuffers 以零拷贝二进制格式存储大约 100,000 个默认过滤器。它还将一些部分切换为堆栈分配向量，将内存分配减少了 19%，并将过滤器列表构建时间缩短了约 15%，同时对常见正则表达式模式进行标记，将匹配速度提高了 13%。在桌面上，引擎实例之间共享资源为每个实例节省了约 2 MB，存储更改将内部资源使用量减少了 30%。
-这些改进已在 Brave 1.85 中提供，并计划在 1.86 中进行其他优化，Brave 表示，更轻的内置阻止程序应该有助于延长电池寿命并提高多任务处理能力，尤其是在移动设备和较旧的硬件上，同时不受 Manifest V3 的影响。
-查看有关 AlternativeTo 的文章更多信息勇敢 | 勇敢替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/brave-s-new-adblock-engine-cuts-memory-usage-by-75-across-all-platforms/</guid>
-      <pubDate>Tue, 06 Jan 2026 14:32:31 GMT</pubDate>
+      <title>Gemini App 推出垂直视频支持和改进的 Veo 3.1 输出</title>
+      <link>https://alternativeto.net/news/2026/1/gemini-app-rolls-out-vertical-video-support-and-improved-veo-3-1-outputs/</link>
+      <description><![CDATA[Veo 3.1 为 Gemini 应用带来了垂直视频生成功能，允许用户创建与原始图像相同宽高比的视频。此更新还提高了根据参考图像创建的视频的质量和一致性，需要更少的提示并提供更大的创意控制。
+这些功能现已适用于 Google AI Plus、Pro 和 Ultra 帐户。
+查看有关 AlternativeTo 的文章有关 Google 的更多信息Veo | Google Veo 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/gemini-app-rolls-out-vertical-video-support-and-improved-veo-3-1-outputs/</guid>
+      <pubDate>Wed, 14 Jan 2026 08:25:16 GMT</pubDate>
     </item>
     <item>
-      <title>Icecast 2.5.0 推出改进的网页界面和深色模式</title>
-      <link>https://alternativeto.net/news/2026/1/icecast-2-5-0-launches-improved-web-interface-and-dark-mode/</link>
-      <description><![CDATA[Icecast 2.5.0 引入了可用性改进的网络界面和实验性的暗模式。侦听器计数现在包含在源事件报告中，并且添加了对 X-Forwarded-For 标头的支持。此更新还增强了高缓冲压力下的 TLS 客户端处理，并提供有关客户端的更详细的 API 数据。
-查看有关 AlternativeTo 的文章有关 Icecast 的更多信息 | Icecast 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/icecast-2-5-0-launches-improved-web-interface-and-dark-mode/</guid>
-      <pubDate>Mon, 05 Jan 2026 15:55:48 GMT</pubDate>
+      <title>X 推出供高级订阅者发布长篇内容的文章</title>
+      <link>https://alternativeto.net/news/2026/1/x-launches-articles-for-premium-subscribers-to-publish-long-form-content/</link>
+      <description><![CDATA[X 推出了文章，这是一项新功能，允许 Premium+、Premium Business 和 Premium Organizations 订阅者在全球范围内发布长篇内容。文章支持多种媒体，例如图像、视频、GIF、帖子和链接，以及高级文本格式选项。
+X 上的任何人都可以阅读和共享已发布的文章，具体取决于所选的受众控制。
+查看有关 AlternativeTo 的文章有关 X 的更多信息 | X 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/1/x-launches-articles-for-premium-subscribers-to-publish-long-form-content/</guid>
+      <pubDate>Wed, 14 Jan 2026 08:10:48 GMT</pubDate>
     </item>
     <item>
-      <title>Cinebench 2026 增加了对最新 Nvidia、AMD 和 Apple Silicon 芯片的支持</title>
-      <link>https://alternativeto.net/news/2026/1/cinebench-2026-adds-support-for-latest-nvidia-amd-and-apple-silicon-chips/</link>
-      <description><![CDATA[Cinebench 2026 现在支持 Nvidia Blackwell GPU（5000 系列）、AMD 9000 系列 GPU 以及 Apple Silicon M4 和 M5 芯片，从而扩展了对最新硬件的兼容性。此次更新还采用了最新的 Redshift 渲染引擎，可以更准确地评估 CPU 和 GPU 的实际性能。
-查看有关 AlternativeTo 的文章更多信息Cinebench | Cinebench 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/cinebench-2026-adds-support-for-latest-nvidia-amd-and-apple-silicon-chips/</guid>
-      <pubDate>Mon, 05 Jan 2026 15:46:14 GMT</pubDate>
+      <title>Linux Mint 22.3“Zena”与 Cinnamon 6.6 一起发布，全面修改菜单和更智能的扩展</title>
+      <link>https://alternativeto.net/news/2026/1/linux-mint-22-3-zena-launches-with-cinnamon-6-6-overhauled-menu-and-smarter-scaling/</link>
+      <description><![CDATA[Linux Mint 22.3“Zena” 现已推出，基于 Ubuntu 24.04.3 LTS 并随 Cinnamon 6.6 桌面一起发布。 Cinnamon 6.6 更新了 Mint 菜单，为用户头像、书签和收藏夹提供了可定制的全高侧边栏，同时保留了三列布局。搜索栏移至底部，类别图标切换为较小的符号版本，包含会话操作按钮，并且调整默认快捷键以避免重复已固定到面板的应用程序。
+Cinnamon 还添加了更多菜单配置选项，包括更改搜索栏位置、图标样式以及是否显示应用程序描述或文件搜索。现在，分数缩放可让您选择放大或缩小，这对于混合 HiDPI 和标准显示器的多显示器设置最有用，缩小优先考虑清晰度，放大优先考虑性能。
+Nemo 文件管理器获得了搜索改进、对文件名搜索的正则表达式支持以及文件操作的暂停和恢复，同时该版本还添加了符号 XApp 图标、Thunderbolt 配置模块、Night Light 更新、具有更深入硬件详细信息的新系统信息工具以及用于更轻松 GRUB 设置的系统管理工具。 Linux Mint 22.3 自 2026 年 1 月 13 日起提供，Mint 22 系列的支持截止到 2029 年。
+查看有关 AlternativeTo 的文章有关 Linux 的更多信息Mint | Linux Mint 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/linux-mint-22-3-zena-launches-with-cinnamon-6-6-overhauled-menu-and-smarter-scaling/</guid>
+      <pubDate>Wed, 14 Jan 2026 04:50:55 GMT</pubDate>
     </item>
     <item>
-      <title>Phosh 0.52 引入二维码热点、亮度锁屏手势和 Rust 壁纸传送门</title>
-      <link>https://alternativeto.net/news/2026/1/phosh-0-52-introduces-qr-hotspot-brightness-lock-screen-gesture-and-rust-wallpaper-portal/</link>
-      <description><![CDATA[Phosh 0.52 发布，其中包含多项更新，旨在提高其在移动和触摸设备上的可用性。热点插件现在提供带有热点详细信息的二维码，使安全连接其他设备变得更加简单。除此之外，用户还可以使用新的锁定屏幕手势调整屏幕亮度，添加方便的辅助功能快捷方式。
-在移动设置应用程序中，conf-tweaks 系统现在利用 sysfs 后端，简化 postmarketOS 调整并减少对多个设置应用程序的需求。通过持续的平台改进，gmobile 获得了对处理各种显示角半径的支持，而 phoc 则确保这些半径能够准确呈现，从而在圆角设备上提供更精美的体验。
-壁纸门户现已在 Rust 中实现，使所有面向用户的门户都采用这种语言的一致代码库。对于开发人员和高级用户来说，新引入的 DebugControl 接口允许对调试选项进行运行时管理。
-为了解决可用性问题，此版本修复了两个持续存在的屏幕键盘错误：偶尔的展开延迟和影响后续输入字段的文本预编辑问题。还包括更新的翻译和其他错误修复，提高了整体可靠性和可用性。
-查看有关 AlternativeTo 的文章更多信息Phosh | Phosh 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/phosh-0-52-introduces-qr-hotspot-brightness-lock-screen-gesture-and-rust-wallpaper-portal/</guid>
-      <pubDate>Mon, 05 Jan 2026 15:15:00 GMT</pubDate>
+      <title>Wine 11.0 首次推出完整的 WoW64 支持、Linux NTSync 和图形更新</title>
+      <link>https://alternativeto.net/news/2026/1/wine-11-0-debuts-full-wow64-support-ntsync-for-linux-and-graphics-updates/</link>
+      <description><![CDATA[Wine 11.0 现已作为稳定版本提供，完成了向完全受支持、功能完整的 WoW64 模式的转变。它可以在 64 位系统上运行 16 位 Windows 应用程序，用统一的加载程序替换旧的 wine64 加载程序，并弃用纯 32 位前缀，现有安装可以通过设置 WINEARCH=wow64
+在 Linux 上，Wine 11.0 添加了 NTSync 支持以使用内核 NTSync 模块，从而提高了 Linux 6.14 及更高版本上的同步性能。它还在 Linux 和 macOS 上添加了线程优先级处理，在 NTDLL 中引入了新的同步屏障，并通过 Windows 样式符号链接和挂载点的 NT 重分析点扩展了内核接口支持，并通过 userfaultfd 改进了写入监视处理（如果可用）。
+图形更新包括硬件加速 OpenGL 位图渲染（它消除了 OSMesa 依赖性），以及 EGL 成为 X11 上的默认 OpenGL 后端。 Vulkan 迁移到 API 1.4.335，具有新的 Windows 特定扩展和 WoW64 模式下更好的缓冲区处理，而 Direct3D 通过 Vulkan 视频和更广泛的旧功能覆盖范围获得硬件加速 H.264 解码，同时还对桌面集成、实验性Wayland 驱动程序、设备和多媒体支持、工具和 ARM64。
+查看有关 AlternativeTo 的文章更多信息葡萄酒 | 葡萄酒替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/wine-11-0-debuts-full-wow64-support-ntsync-for-linux-and-graphics-updates/</guid>
+      <pubDate>Wed, 14 Jan 2026 04:31:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
