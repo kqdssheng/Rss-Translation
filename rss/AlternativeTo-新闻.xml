@@ -4,7 +4,72 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Fri, 16 Jan 2026 12:44:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 12:40:19 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 和 Google 推出 ChatGPT Translate 和 TranslateGemma，用于人工智能翻译</title>
+      <link>https://alternativeto.net/news/2026/1/openai-and-google-launch-chatgpt-translate-and-translategemma-for-ai-powered-translations/</link>
+      <description><![CDATA[OpenAI 推出了 ChatGPT Translate，提供 50 多种语言的基于网络的翻译。 ChatGPT Translate 被定位为 Google Translate 和 DeepL 的竞争对手，它使用人工智能来调整翻译以适应各种语气和上下文。这种方法旨在为用户提供比传统翻译平台更加量身定制的输出。然而，ChatGPT Translate 目前仅支持文本输入，缺乏竞争服务中的语音、图像、文档或网站翻译。虽然该平台可以作为网络服务进行访问，但它还没有移动应用程序，这使得它的通用性不如谷歌翻译，谷歌翻译可以在线使用，也可以通过专用应用程序使用。
+与此同时，Google 还发布了 TranslateGemma，这是一套基于其 Gemma 3 架构的新开源翻译模型。 TranslateGemma 提供三种模型大小：40 亿、120 亿和 270 亿参数，适合从智能手机到云基础设施的设备。谷歌将这些模型定位为开放的、对开发人员友好的专有机器翻译系统的替代方案。 TranslateGemma 目前支持跨 55 种语言的交流，进一步扩展了 Google 的多语言工具及其主要翻译平台。
+查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/openai-and-google-launch-chatgpt-translate-and-translategemma-for-ai-powered-translations/</guid>
+      <pubDate>Fri, 16 Jan 2026 20:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>LambdaTest 现在更名为 TestMu AI，具有自主代理驱动的测试</title>
+      <link>https://alternativeto.net/news/2026/1/lambdatest-is-now-testmu-ai-with-autonomous-agent-powered-testing/</link>
+      <description><![CDATA[LambdaTest 已更名为 TestMu AI，发展成为围绕自主、代理驱动的质量工程构建的 AI 原生平台。更新后的平台使人工智能代理能够处理端到端测试，包括从自然语言创建测试用例和管理自动执行。
+此次品牌重塑也因其人工智能驱动的可扩展性和性能而得到了业界的认可。
+查看有关 AlternativeTo 的文章有关 TestMu AI 的更多信息 | TestMu AI 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/1/lambdatest-is-now-testmu-ai-with-autonomous-agent-powered-testing/</guid>
+      <pubDate>Fri, 16 Jan 2026 17:29:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify 再次提高美国、爱沙尼亚和拉脱维亚的订阅价格</title>
+      <link>https://alternativeto.net/news/2026/1/spotify-is-raising-subscription-prices-again-in-the-united-states-estonia-and-latvia/</link>
+      <description><![CDATA[Spotify 再次提高美国、爱沙尼亚和拉脱维亚用户的高级订阅价格。这一变化标志着自 2023 年以来的第三次价格上涨，凸显了订户成本不断上涨的趋势。在美国，个人保费计划将从 11.99 美元上涨至 12.99 美元，而学生计划则从 5.99 美元上涨至 6.99 美元。此后，Duo 和 Family Premium 计划也将上涨，目前每月费用分别为 18.99 美元和 21.99 美元。这些新费率将于现有订阅者的下一个结算日期生效。
+对于爱沙尼亚和拉脱维亚的用户，用户将被引导访问 Spotify 网站以查看具体的更新定价详细信息。这次最新的涨价距 Spotify 之前在美国涨价仅五个月，表明成本调整的步伐正在加快。进一步说明背景，Spotify 去年 8 月在欧洲、亚洲、非洲、中东和拉丁美洲实施了类似的涨价。这些发展反映了在主要市场更频繁地调整订阅费用的全球政策。
+查看有关 AlternativeTo 的文章更多信息Spotify | Spotify 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/spotify-is-raising-subscription-prices-again-in-the-united-states-estonia-and-latvia/</guid>
+      <pubDate>Fri, 16 Jan 2026 16:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cal.com 推出用于日程安排的配套应用程序和浏览器扩展</title>
+      <link>https://alternativeto.net/news/2026/1/cal-com-launches-companion-apps-and-browser-extensions-for-scheduling/</link>
+      <description><![CDATA[Cal.com 已发布其配套应用程序，为 iOS（TestFlight 测试版）、Android 和主要浏览器提供本机体验，以便跨设备实现更快、时区感知的调度。
+此更新还带来了 Webhook 版本控制，以提高 API 灵活性、通过快速收件箱链接加快电子邮件验证速度，以及用于更新预订位置的新端点。
+此版本包含多个错误修复和可用性增强。
+查看有关 AlternativeTo 的文章更多信息Cal.com | Cal.com 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/cal-com-launches-companion-apps-and-browser-extensions-for-scheduling/</guid>
+      <pubDate>Fri, 16 Jan 2026 15:56:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kavita v0.8.9 添加了更快的扫描仪、设备绑定配置文件和升级的身份验证</title>
+      <link>https://alternativeto.net/news/2026/1/kavita-v0-8-9-adds-faster-scanner-device-bound-profiles-and-upgraded-authentication/</link>
+      <description><![CDATA[Kavita v0.8.9 提供了多线程扫描仪的重大更新，将漫画库扫描时间减少了 112 倍。新的身份验证堆栈现在支持设备跟踪和命名的身份验证密钥，从而简化了外部应用程序的 API 访问。
+日记式的阅读进度和设备绑定的配置文件进一步增强了用户特定的跟踪和重读计数。
+查看有关 AlternativeTo 的文章更多信息Kavita | Kavita 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/kavita-v0-8-9-adds-faster-scanner-device-bound-profiles-and-upgraded-authentication/</guid>
+      <pubDate>Fri, 16 Jan 2026 15:42:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deezer 推出重新设计的 Android TV 应用程序并提供新功能</title>
+      <link>https://alternativeto.net/news/2026/1/deezer-unveils-redesigned-android-tv-app-with-new-features/</link>
+      <description><![CDATA[Deezer 发布了一款完全重新设计的 Android TV 应用，具有更新的界面和更流畅的导航。该应用程序引入了新功能，包括 Flow、艺术家播放列表、HiFi 音频和卡拉 OK 逐字歌词。
+它现已在适用于 Android TV 设备的 Google Play 上推出，随后将支持 Fire TV。
+查看有关 AlternativeTo 的文章有关 Deezer 的更多信息 | Deezer 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/deezer-unveils-redesigned-android-tv-app-with-new-features/</guid>
+      <pubDate>Fri, 16 Jan 2026 15:29:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitLab 18.8 正式推出 Duo Platform、Duo Planner 和 Duo Security Analyst</title>
+      <link>https://alternativeto.net/news/2026/1/gitlab-18-8-makes-duo-platform-duo-planner-and-duo-security-analyst-generally-available/</link>
+      <description><![CDATA[GitLab 版本 18.8 发布，推出了一系列专为软件开发团队设计的新功能和改进。此版本的亮点是 GitLab Duo 代理平台的普遍可用性，该平台可在整个软件开发生命周期中实现代理人工智能编排。团队现在可以直接在 GitLab 内协调 AI 代理来规划、构建、保护和交付软件。
+基于这些 AI 功能，Planner Agent 现已普遍可用，旨在协助产品经理。这个基础代理允许用户创建、编辑和分析工作项目，从而简化平台内的工作流程管理。除此之外，工程师现在可以利用 Duo Security Analyst Agent（该代理已从 Beta 版转为正式版）通过 GitLab Duo Agentic Chat 中的自然语言来控制漏洞。
+代理更新后，GitLab 18.8 使安全团队能够设置策略，自动消除不影响其组织的漏洞。这种策略驱动的方法旨在减少不必要的警报，让开发人员能够专注于真正的风险。此版本还包括各种附加增强功能，进一步支持用户的整个开发流程。
+查看有关 AlternativeTo 的文章更多信息GitLab | GitLab 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/1/gitlab-18-8-makes-duo-platform-duo-planner-and-duo-security-analyst-generally-available/</guid>
+      <pubDate>Fri, 16 Jan 2026 13:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>Bandcamp 禁止全部或大部分由人工智能生成的音乐，以“保持平台人性化”</title>
       <link>https://alternativeto.net/news/2026/1/bandcamp-bans-music-generated-wholly-or-substantially-by-ai-to-keep-the-platform-human-/</link>
@@ -85,75 +150,6 @@ Digg 还强调了减少操纵的反机器人措施，包括以硬件为中心的
 查看有关 AlternativeTo 的文章更多信息Instagram | Instagram 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/1/instagram-starts-testing-new-feature-that-lets-you-personalize-your-reels-algorithm/</guid>
       <pubDate>Thu, 15 Jan 2026 08:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Slack 将 Slackbot 转变为具有新功能的上下文感知个人 AI 代理</title>
-      <link>https://alternativeto.net/news/2026/1/slack-transforms-slackbot-into-a-context-aware-personal-ai-agent-with-new-capabilities/</link>
-      <description><![CDATA[Slack 对其内置助手 Slackbot 进行了重大升级，将其转变为人工智能代理，能够协助用户完成各种工作场所任务。此更新允许 Slackbot 直接在通信平台内处理查找信息、起草电子邮件和安排会议等功能。
-基于这些功能，Slackbot 从用户工作流程和交互中学习，使其能够帮助个人保持条理、准备和专注。该工具使用可访问的消息、文件和渠道来根据每个用户的角色定制见解和响应，确保支持既相关又上下文感知。
-在一次对话中，Slackbot 将用于线程摘要或消息翻译等操作的原生人工智能与企业搜索相结合，从链接的应用程序和驱动器中检索文件和数据。 Slack 强调用户与 Slackbot 的交互是私密的。该公司部署企业级安全标准和实时防护措施来检测和消除提示注入、不安全内容或网络钓鱼等问题，同时严格的权限控制保证 Slackbot 仅访问授权数据。
-升级后的 Slackbot 将从今天开始分阶段推出，并持续到 1 月和 2 月，向 Business+ 和 Enterprise+ 客户提供。
-查看有关 AlternativeTo 的文章更多信息Slack | Slack 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/1/slack-transforms-slackbot-into-a-context-aware-personal-ai-agent-with-new-capabilities/</guid>
-      <pubDate>Wed, 14 Jan 2026 15:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Firefox 147 带来 Apple Silicon WebGPU 支持、改进的视频播放和画中画等</title>
-      <link>https://alternativeto.net/news/2026/1/firefox-147-brings-apple-silicon-webgpu-support-improved-video-playback-and-pip-and-more/</link>
-      <description><![CDATA[Mozilla 发布了 Firefox 147，对其流行的开源网络浏览器进行了多项重大改进。在此版本中，WebGPU 现在可在受支持的 macOS 版本中为配备 Apple Silicon 处理器的设备启用，从而为这些用户扩展了高级图形功能。此外，Firefox 147 通过支持硬件解码视频的零复制播放，升级了 AMD 图形硬件上的视频播放性能，使这些系统与 Intel 和 NVIDIA GPU 相媲美。
-经过这些增强，Firefox 现在支持安全浏览 V5 协议，并从之前的 V4 方法过渡到 V5 中的本地列表模式。将增强跟踪保护设置为“严格”的用户将看到默认启用的本地网络访问限制，需要明确的权限才能访问公共网站访问本地资源。在 Linux 平台上，Firefox 采用了 Freedesktop.org XDG 基本目录规范，提高了与广泛使用的目录结构的兼容性。
-转向面向用户的更改，现在可以将画中画窗口设置为在后台选项卡播放视频时自动打开。对于 Web 开发人员来说，Firefox 147 增加了对 Navigation API 的支持，并在 Service Worker 中启用 ES 模块，从而提高了现代 Web 应用程序的兼容性。此更新还包括支持 Unicode 17 和新语言环境的 Unicode ICU 78，以及各种其他增强功能和错误修复。
-查看有关 AlternativeTo 的文章有关 Mozilla 的更多信息Firefox | Mozilla Firefox 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/firefox-147-brings-apple-silicon-webgpu-support-improved-video-playback-and-pip-and-more/</guid>
-      <pubDate>Wed, 14 Jan 2026 12:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bevy 0.18 带来了大气遮挡、PBR 阴影、Solari 改进和字体变化</title>
-      <link>https://alternativeto.net/news/2026/1/bevy-0-18-brings-atmospheric-occlusion-pbr-shading-solari-improvements-and-font-variations/</link>
-      <description><![CDATA[Bevy 0.18 对其开源 Rust 游戏引擎进行了显着改进。该版本引入了大气遮挡，允许新的程序大气系统直接影响场景对象的照明条件。这种程序大气现在是高度可定制的，并支持任意大气类型，使开发人员能够控制制作沙漠天空、雾环境或非地球行星设置。
-Bevy 以核心渲染功能为基础，通过基于物理的渲染 (PBR) 材质解决了长期存在的问题，从而显着提高了质量。实验性的 Solari 渲染器提供实时光线追踪，还为寻求高级视觉管道的开发人员提供了一些新功能和改进。此外，更新还添加了高级全屏材质类型，以简化后处理着色器的定义。
-作为用户界面增强功能的一部分，Bevy 引入了强大的字体处理功能，支持可变粗细、文本删除线、下划线和 OpenType 功能。通过自动定向导航简化了 UI 组件内的导航，从而在使用游戏手柄或键盘时实现更轻松的交互。对于管理构建选项的开发人员来说，场景驱动的 Cargo 功能现在允许对 2D、3D 或 UI 功能进行选择性编译。最后，用于飞行和平移相机设置的内置相机控制器减少了对外部解决方案的需求。
-查看有关 AlternativeTo 的文章有关 Bevy 的更多信息游戏引擎 | Bevy 游戏引擎替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/bevy-0-18-brings-atmospheric-occlusion-pbr-shading-solari-improvements-and-font-variations/</guid>
-      <pubDate>Wed, 14 Jan 2026 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>n8n 为工作流程自动化添加了自动保存、版本化发布和并发保护</title>
-      <link>https://alternativeto.net/news/2026/1/n8n-adds-autosave-versioned-publishing-and-concurrency-protection-for-workflow-automation/</link>
-      <description><![CDATA[n8n 的最新平台更新带来了一系列新功能，旨在使工作流程管理更安全、更可靠。核心增强功能包括自动保存、版本化发布以及协作编辑会话的并发保护。自动保存每两秒检查一次更改并自动保存进度，解决浏览器崩溃或忘记保存等常见风险。此功能还适应协作场景，减少丢失最近工作的机会。
-除了自动保存之外，版本化发布还使用户可以直接控制哪个工作流程版本上线。团队可以尝试新想法或迭代现有工作流程，而不会影响生产逻辑，因为只有已发布的版本在新版本发布之前保持活动状态。
-虽然这些更改增强了可用性，但 n8n 现在通过检测某人何时编辑工作流程并将画布切换为其他人的只读来提供并发保护。这种方法可以防止团队成员意外覆盖彼此的工作。
-在这些更新之后，工作流程历史记录面板现在允许用户跟踪更改、执行即时回滚以及发布任何以前的版本。在未来几周内，n8n 计划引入自定义版本名称、视觉历史记录改进以及更轻松地重命名过去的工作流程版本，从而进一步改进这个流行的自动化平台。
-查看有关 AlternativeTo 的文章更多信息n8n | n8n 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/n8n-adds-autosave-versioned-publishing-and-concurrency-protection-for-workflow-automation/</guid>
-      <pubDate>Wed, 14 Jan 2026 08:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Thunderbird 147.0：添加了新的文件夹路径选项和本地化首选项</title>
-      <link>https://alternativeto.net/news/2026/1/thunderbird-147-0-new-folder-path-option-and-localization-preferences-added/</link>
-      <description><![CDATA[Thunderbird 147.0 为紧凑视图模式下的文件夹窗格引入了新的“显示完整路径”选项。该版本还添加了“mail.useLocalizedFolderNames”首选项，允许用户管理特殊文件夹名称本地化。
-许多问题已得到解决，包括影响文件夹压缩、搜索小部件和 IMAP 虚拟文件夹的错误，以及与 EWS 相关的崩溃和将消息标记为已读。
-查看有关 AlternativeTo 的文章更多信息Thunderbird | Thunderbird 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/thunderbird-147-0-new-folder-path-option-and-localization-preferences-added/</guid>
-      <pubDate>Wed, 14 Jan 2026 08:42:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemini App 推出垂直视频支持和改进的 Veo 3.1 输出</title>
-      <link>https://alternativeto.net/news/2026/1/gemini-app-rolls-out-vertical-video-support-and-improved-veo-3-1-outputs/</link>
-      <description><![CDATA[Veo 3.1 为 Gemini 应用带来了垂直视频生成功能，允许用户创建与原始图像相同宽高比的视频。此更新还提高了根据参考图像创建的视频的质量和一致性，需要更少的提示并提供更大的创意控制。
-这些功能现已适用于 Google AI Plus、Pro 和 Ultra 帐户。
-查看有关 AlternativeTo 的文章有关 Google 的更多信息Veo | Google Veo 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/gemini-app-rolls-out-vertical-video-support-and-improved-veo-3-1-outputs/</guid>
-      <pubDate>Wed, 14 Jan 2026 08:25:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>X 推出供高级订阅者发布长篇内容的文章</title>
-      <link>https://alternativeto.net/news/2026/1/x-launches-articles-for-premium-subscribers-to-publish-long-form-content/</link>
-      <description><![CDATA[X 推出了文章，这是一项新功能，允许 Premium+、Premium Business 和 Premium Organizations 订阅者在全球范围内发布长篇内容。文章支持多种媒体，例如图像、视频、GIF、帖子和链接，以及高级文本格式选项。
-X 上的任何人都可以阅读和共享已发布的文章，具体取决于所选的受众控制。
-查看有关 AlternativeTo 的文章有关 X 的更多信息 | X 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/1/x-launches-articles-for-premium-subscribers-to-publish-long-form-content/</guid>
-      <pubDate>Wed, 14 Jan 2026 08:10:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
