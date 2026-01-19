@@ -4,7 +4,28 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sun, 18 Jan 2026 12:39:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 01:50:53 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 正式将广告引入 ChatGPT 并宣布在全球范围内提供更便宜的“Go”级别</title>
+      <link>https://alternativeto.net/news/2026/1/openai-is-officially-bringing-ads-to-chatgpt-and-announcing-a-cheaper-go-tier-worldwide/</link>
+      <description><![CDATA[OpenAI 终于停止使用，并将很快开始在 ChatGPT 中为美国用户免费推出广告，并推出新的更便宜的 8 美元套餐 ChatGPT Go。 Go 去年 8 月首次在印度推出试点，此后已推广到更多国家，OpenAI 现在更广泛地扩展它，将其定位为免费计划和每月 20 美元的 Plus 套餐之间的中间选择。
+ChatGPT Go 面向希望更多地访问 OpenAI 的快速 GPT 5.2 Instant 模型的用户，提供比免费套餐高 10 倍的消息、文件上传和图像速率限制尽管 OpenAI 尚未分享确切的每日上传或图像上限。相比之下，免费用户目前在切换到较小型号之前每五个小时收到 10 条 GPT 5.2 消息，而 Plus 用户每三小时最多收到 160 条 GPT 5.2 消息。 Go 还有望将 ChatGPT 的内存和上下文窗口扩展到免费计划之外，但 OpenAI 尚未透露具体限制。
+更重要的是，广告预计会在对话下方显示为明确标记的赞助产品或服务，OpenAI 表示它们不会影响聊天机器人的答案。该公司表示，当用户讨论敏感话题例如健康、精神状态或当前政治时，广告不会展示，并且不会向 18 岁以下的任何人展示。用户将能够禁用广告个性化、清除使用的数据赞助内容，并关闭广告，而 Plus 及更高级别将保持无广告。
+准备好将您的私人聊天用于定向广告了吗？ 🙃
+查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/1/openai-is-officially-bringing-ads-to-chatgpt-and-announcing-a-cheaper-go-tier-worldwide/</guid>
+      <pubDate>Sun, 18 Jan 2026 16:24:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare 收购 Astro 团队，保持其开源并具有多个部署目标</title>
+      <link>https://alternativeto.net/news/2026/1/cloudflare-acquires-astro-team-keeps-it-open-source-with-multiple-deployment-targets/</link>
+      <description><![CDATA[Cloudflare 周五宣布将收购 Astro（内容驱动网站的开源 JavaScript 框架）背后的团队。根据 1 月 16 日的公告，Astro 团队将作为员工加入 Cloudflare，而 Astro 仍保持开源并获得 MIT 许可，其开放治理和公共开发路线图保持不变。
+Cloudflare 表示 Astro 将继续支持广泛的部署目标，而不仅仅是 Cloudflare。 Cloudflare 在其声明中将此次收购视为对其已使用的开源项目的长期投资，并表示这笔交易让团队能够更加专注于 Astro 对内容驱动网站的关注。
+Cloudflare 还指出性能是此举的核心原因，并指出繁重的客户端 JavaScript 可能会减慢初始渲染速度并影响搜索排名和转化。 Astro 的方法强调仅传送每个页面所需的代码，使用其 Island 架构使大多数页面保持静态 HTML 和较小的交互式组件，并且它仍然与 UI 无关，因此开发人员可以使用来自框架的组件，例如 React、Svelte 和 Vue。
+查看有关 AlternativeTo 的文章有关 Astro Web 的更多信息框架 | Astro Web 框架替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/cloudflare-acquires-astro-team-keeps-it-open-source-with-multiple-deployment-targets/</guid>
+      <pubDate>Sun, 18 Jan 2026 16:13:21 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 和 Google 推出 ChatGPT Translate 和 TranslateGemma，用于人工智能翻译</title>
       <link>https://alternativeto.net/news/2026/1/openai-and-google-launch-chatgpt-translate-and-translategemma-for-ai-powered-translations/</link>
@@ -38,7 +59,7 @@
       <description><![CDATA[Cal.com 已发布其配套应用程序，为 iOS（TestFlight 测试版）、Android 和主要浏览器提供本机体验，以便跨设备实现更快、时区感知的调度。
 此更新还带来了 Webhook 版本控制，以提高 API 灵活性、通过快速收件箱链接加快电子邮件验证速度，以及用于更新预订位置的新端点。
 此版本包含多个错误修复和可用性增强。
-查看有关 AlternativeTo 的文章更多信息Cal.com | Cal.com 替代品]]></description>
+查看有关 AlternativeTo 的文章更多信息Cal.com | Cal.com 替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/1/cal-com-launches-companion-apps-and-browser-extensions-for-scheduling/</guid>
       <pubDate>Fri, 16 Jan 2026 15:56:20 GMT</pubDate>
     </item>
@@ -131,25 +152,6 @@ Digg 还强调了减少操纵的反机器人措施，包括以硬件为中心的
 查看有关 AlternativeTo 的文章更多信息OpenProject | OpenProject 替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/1/openproject-17-0-brings-real-time-document-collaboration-improved-meetings-and-much-more/</guid>
       <pubDate>Thu, 15 Jan 2026 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Opera One R3 更新带来了增强的人工智能和谷歌集成</title>
-      <link>https://alternativeto.net/news/2026/1/opera-one-r3-update-brings-enhanced-ai-and-google-integrations/</link>
-      <description><![CDATA[Opera One 已推出 R3 更新，具有显着升级的浏览器 AI。该版本还在边栏中添加了 Google 服务集成，例如 Gmail 和日历。
-此外，用户还可以通过分屏获得扩展的多任务处理能力，现在支持多达四个部分、改进的文件、音乐和翻译、新主题和生产力升级。
-查看有关 AlternativeTo 的文章有关 Opera 的更多信息 | 歌剧替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/opera-one-r3-update-brings-enhanced-ai-and-google-integrations/</guid>
-      <pubDate>Thu, 15 Jan 2026 10:26:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Instagram 开始测试新功能，让您个性化您的 Reels 算法</title>
-      <link>https://alternativeto.net/news/2026/1/instagram-starts-testing-new-feature-that-lets-you-personalize-your-reels-algorithm/</link>
-      <description><![CDATA[Instagram 正在推出一项名为您的算法的功能，旨在让用户更直接地控制他们的内容推荐。此选项使个人能够添加或删除特定兴趣，从而有可能减少基于短暂或意外搜索的源中不需要的帖子。
-目前，您的算法正在分阶段发布，并且只能通过 Reels 界面获取。目前，该功能仅限于英语用户。对于那些在初始测试组中选择的人，一个带有两个标尺和两个心形的独特按钮现在出现在卷轴屏幕的右上角。点击此按钮会弹出一个专用菜单，用户可以在其中通过添加或删除兴趣类别来优化推荐内容。
-鉴于自动推荐在 Instagram 和其他平台的内容交付系统中发挥的核心作用，新控制措施的整体有效性和广度仍不确定。目前尚不清楚该工具将对用户提要的结构或底层推荐算法产生多大影响。
-查看有关 AlternativeTo 的文章更多信息Instagram | Instagram 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/instagram-starts-testing-new-feature-that-lets-you-personalize-your-reels-algorithm/</guid>
-      <pubDate>Thu, 15 Jan 2026 08:50:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
