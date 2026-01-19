@@ -4,7 +4,25 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Mon, 19 Jan 2026 01:50:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 12:50:30 GMT</lastBuildDate>
+    <item>
+      <title>Penpot 2.13 更新：盒子影子令牌、改进的 i18n 和增强的文件管理</title>
+      <link>https://alternativeto.net/news/2026/1/penpot-2-13-update-box-shadow-tokens-improved-i18n-and-enhanced-file-management/</link>
+      <description><![CDATA[Penpot 2.13 引入了盒子阴影标记，允许用户应用可自定义的阴影样式。 i18n 翻译文件现在根据需要加载，从而提高了性能。现在可以从仪表板访问已删除的文件，从而简化了文件管理。多个界面错误也已得到解决。
+查看有关 AlternativeTo 的文章更多信息Penpot | Penpot 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/penpot-2-13-update-box-shadow-tokens-improved-i18n-and-enhanced-file-management/</guid>
+      <pubDate>Mon, 19 Jan 2026 11:38:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bluesky 为所有用户推出 Live Now 功能，并为股票讨论添加现金标签</title>
+      <link>https://alternativeto.net/news/2026/1/bluesky-launches-live-now-feature-for-all-users-and-adds-cashtags-for-stock-discussions/</link>
+      <description><![CDATA[Bluesky 扩大了对其 Live Now 测试版功能的访问范围，使其可供所有用户使用。通过Live Now，会员可以在他们的头像上显示一个临时的LIVE徽章，向其他人表明他们当前正在Twitch上进行直播。当其他用户单击此徽章时，他们会直接进入广播公司的 Twitch 页面。不过，Live Now 目前在测试阶段仅限于 Twitch 流媒体链接。 Bluesky 表示，随着他们继续完善该功能，可能会添加对其他流媒体平台的支持。
+在强调此更新时，Bluesky 强调他们相信链接应该简单明了，并指出 Live Now 就是这一原则的一个例子。除了Live Now之外，Bluesky 还推出了现金标签，这是用户讨论上市公司的一种新方式。与主题标签类似，现金标签要求在股票代码前放置美元符号（例如 Apple 的 $AAPL 或 NVIDIA 的 $NVDA），以对有关特定股票的讨论进行分组。
+要访问 Live Now 和 cashtags 功能，用户必须将 Bluesky 更新到版本 1.114 或更高版本。
+查看有关 AlternativeTo 的文章更多信息Bluesky | Bluesky 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/bluesky-launches-live-now-feature-for-all-users-and-adds-cashtags-for-stock-discussions/</guid>
+      <pubDate>Mon, 19 Jan 2026 08:50:00 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 正式将广告引入 ChatGPT 并宣布在全球范围内提供更便宜的“Go”级别</title>
       <link>https://alternativeto.net/news/2026/1/openai-is-officially-bringing-ads-to-chatgpt-and-announcing-a-cheaper-go-tier-worldwide/</link>
@@ -131,27 +149,6 @@ Digg 还强调了减少操纵的反机器人措施，包括以硬件为中心的
 查看有关 AlternativeTo 的文章更多信息尾部 | 尾部替代品]]></description>
       <guid>https://alternativeto.net/news/2026/1/tails-7-4-adds-new-language-saving-feature-drops-bittorrent-updates-core-apps-and-more/</guid>
       <pubDate>Thu, 15 Jan 2026 15:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>TickTick 8.0 添加了建议任务、改进的年度/每月视图和自定义选项</title>
-      <link>https://alternativeto.net/news/2026/1/ticktick-8-0-adds-suggested-tasks-improved-yearly-monthly-views-and-customization-options/</link>
-      <description><![CDATA[TickTick 8.0 现已作为此待办事项列表和日历应用程序的最新更新提供。此版本引入了建议任务，使用户能够查看未完成的项目并确定下一步要关注的内容。基于这些任务管理变更，TickTick 的日历获得了通过热图增强的年度视图，提供了 12 个月内活动的可访问、一目了然的摘要。
-对于那些寻求对视觉组织有更多控制的人来说，更新允许个性化列表背景和灵活的样式组合。用户还可以为习惯和倒计时分配自定义颜色，并切换到现代界面风格以获得更精简的外观。
-在这些可用性增强之后，日历的月视图支持捏合缩放手势，从而可以更轻松地在同一界面中检查更广泛或更具体的任务范围。此外，TickTick 的桌面版本采用了新的任务卡片样式，有助于改进大屏幕上的外观和感觉。
-查看有关 AlternativeTo 的文章更多信息TickTick | TickTick 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/ticktick-8-0-adds-suggested-tasks-improved-yearly-monthly-views-and-customization-options/</guid>
-      <pubDate>Thu, 15 Jan 2026 12:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenProject 17.0 带来了实时文档协作、改进的会议等等</title>
-      <link>https://alternativeto.net/news/2026/1/openproject-17-0-brings-real-time-document-collaboration-improved-meetings-and-much-more/</link>
-      <description><![CDATA[OpenProject 17.0 现已推出，标志着此开源项目管理解决方案的主要版本。借助此版本，团队可以实时协作处理文档，从而允许多个用户在 OpenProject 中同时编辑和查看更改。这集中了团队合作并支持共享想法的开发。
-在文档协作的基础上，会议管理得到了显着增强。新功能包括草稿和演示模式，以及对多种基于文本的结果的支持，使您可以更轻松地直接在会议记录中记录决策和后续步骤。此外，参与者现在可以使用 iCal 订阅会议，让他们通过个人日历工具跟踪日程安排。
-随着用户体验的变化，重新设计的项目主页现在分为两个专用选项卡，将高级项目信息与操作细节分开。项目创建过程具有更清晰的模板选择，可以指导用户，减少设置错误，即使对于那些没有技术专业知识的人来说也是如此。
-对于管理复杂计划的组织来说，OpenProject 17.0 可以将相关项目分组为计划和项目组合，从而提供与战略目标和进度跟踪相一致的概述。此外，SharePoint 和 OneDrive 集成已分离，支持对连接内容进行更严格、更透明的权限管理。
-查看有关 AlternativeTo 的文章更多信息OpenProject | OpenProject 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/1/openproject-17-0-brings-real-time-document-collaboration-improved-meetings-and-much-more/</guid>
-      <pubDate>Thu, 15 Jan 2026 10:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
