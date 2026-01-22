@@ -4,7 +4,17 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Thu, 22 Jan 2026 01:49:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 12:50:26 GMT</lastBuildDate>
+    <item>
+      <title>微软正在测试一款新的免费、支持广告的 Xbox 云游戏，游戏时间一小时</title>
+      <link>https://alternativeto.net/news/2026/1/microsoft-is-testing-a-new-free-ad-supported-xbox-cloud-gaming-with-one-hour-sessions/</link>
+      <description><![CDATA[据报道，微软即将为 Xbox 云游戏推出一个新的免费且支持广告的套餐，为非 Xbox Game Pass 订阅者提供访问云流媒体的方式。经过几个月的内部测试，微软准备向 Xbox Insider 提供抢先体验，提供一小时的课程以及每月最多 5 小时的免费体验。
+在当前的测试中，用户在游戏开始直播之前会看到大约两分钟的前置广告。最近的 Xbox 应用更新引用了一小时广告支持的会话限制，与内部测试设置相匹配。
+该层级预计将支持流式传输一些用户已经拥有的游戏，以及符合条件的周末免费游戏日游戏和 Xbox Retro Classics，每款游戏之前仍然有预贴广告。微软在初步报告几周后确认了该测试，预计将在未来几周内正式宣布并扩大公开测试，类似于 Nvidia GeForce Now 的广告支持方法。
+查看有关 AlternativeTo 的文章有关 Xbox 云的更多信息游戏 | Xbox 云游戏替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/1/microsoft-is-testing-a-new-free-ad-supported-xbox-cloud-gaming-with-one-hour-sessions/</guid>
+      <pubDate>Thu, 22 Jan 2026 01:54:38 GMT</pubDate>
+    </item>
     <item>
       <title>PowerToys 0.97 带来命令面板 UI 升级、新的 CursorWrap 工具和 CLI 功能</title>
       <link>https://alternativeto.net/news/2026/1/powertoys-0-97-brings-command-palette-ui-upgrade-new-cursorwrap-tool-and-cli-features/</link>
@@ -141,17 +151,6 @@ Instabridge 扩展了这种方法，强调性能、自定义选项、错误修�
 查看有关 AlternativeTo 的文章更多信息ShareX | ShareX 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/1/sharex-19-0-brings-ai-image-analysis-region-capture-upgrades-new-defaults-and-more/</guid>
       <pubDate>Tue, 20 Jan 2026 15:20:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>jQuery 4.0 修剪了遗留代码，删除了已弃用的 API，迁移到 ES 模块等等</title>
-      <link>https://alternativeto.net/news/2026/1/jquery-4-0-trims-legacy-code-drops-deprecated-apis-migrates-to-es-modules-and-more/</link>
-      <description><![CDATA[jQuery 4.0 现已推出，标志着这个颇具影响力的 JavaScript 库近十年来的首次重大更新。此更新在首次推出 20 年后发布，重点关注代码库的简化和现代化。新版本删除了一系列遗留功能，修剪了已弃用的 API，消除了仅限内部的原型方法，并放弃了很少使用的内部参数。
-在这些内部更改之后，jQuery 4.0 不再支持 Internet Explorer 10 及更早版本，以及 Edge Legacy、旧版 Android 浏览器、早于最后两个版本的 Firefox 版本（Firefox ESR 除外）以及早于最后三个版本的 iOS 版本。这种转变要求开发人员更新其浏览器兼容性目标，但有助于实现 Web 项目的现代化。
-除了这些删除之外，jQuery 还添加了对可信类型的支持，使开发人员能够使用 TrustedHTML 作为操作方法的输入，而不会违反严格的内容安全策略要求。从异步模块定义 (AMD) 到 ECMAScript (ES) 模块的迁移使 jQuery 与现代构建系统和开发环境兼容。
-最后，焦点事件排序现在遵循万维网联盟 (W3C) 规范，并且由于删除了延迟和回调，精简的构建甚至更小。 jQuery 4.0 现已可供下载，第一个测试版发布 11 个月后。
-查看有关 AlternativeTo 的文章更多信息jQuery | jQuery 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/jquery-4-0-trims-legacy-code-drops-deprecated-apis-migrates-to-es-modules-and-more/</guid>
-      <pubDate>Mon, 19 Jan 2026 13:40:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
