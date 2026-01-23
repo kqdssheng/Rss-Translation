@@ -4,14 +4,52 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Thu, 22 Jan 2026 12:50:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 01:45:44 GMT</lastBuildDate>
+    <item>
+      <title>Rust 1.93 带来了 musl 1.2.5、分配器改进和 asm 上的 cfg 属性！线</title>
+      <link>https://alternativeto.net/news/2026/1/rust-1-93-brings-musl-1-2-5-allocator-improvements-and-cfg-attributes-on-asm-lines/</link>
+      <description><![CDATA[Rust 1.93 现已推出，重点介绍了影响开发人员和更广泛的 Rust 生态系统的更新。在此版本中，所有 *-linux-musl 目标均附带 musl 版本 1.2.5，取代了之前的 1.2.3 捆绑包。此更改带来了各种错误修复和改进。但是，它还引入了一项重大更改，影响 x86_64、AArch64 和 POWER PPC64LE 开发人员的静态 musl 构建。
+除了平台更新之外，Rust 标准库也发生了内部变化。用 Rust 编写的全局分配器现在可以安全地使用线程本地存储宏和线程检查，而不会出现重入问题。这是通过依赖系统分配器进行相关操作来实现的。
+基于语言可用性，Rust 1.93 为内联汇编块中的各个语句启用了条件编译 (cfg)。以前，实现细粒度控制需要复制整个 asm! 块。现在，开发人员可以有条件地包含语句，从而提高代码清晰度和可维护性。
+随着这些语言和平台的变化，Rust 1.93 还稳定了标准库中的几个新 API，为 crate 作者和最终用户提供了额外的功能。
+查看有关 AlternativeTo 的文章更多信息Rust | Rust 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/rust-1-93-brings-musl-1-2-5-allocator-improvements-and-cfg-attributes-on-asm-lines/</guid>
+      <pubDate>Thu, 22 Jan 2026 18:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Raycast v0.42 带来了用于自定义提示自动化的 AI 命令</title>
+      <link>https://alternativeto.net/news/2026/1/raycast-v0-42-brings-ai-commands-for-custom-prompt-automation/</link>
+      <description><![CDATA[Raycast v0.42 引入了 AI 命令，让用户可以创建自定义的、可重复使用的提示，这些提示可以通过单个热键在任何文本上立即触发。 Quick AI 现在显示消息的时间戳，并且 Pro 计划订阅状态在设置中可见。
+此更新还包括针对 Quick AI 和扩展快捷方式的多项修复。
+查看有关 AlternativeTo 的文章更多信息Raycast | Raycast 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/1/raycast-v0-42-brings-ai-commands-for-custom-prompt-automation/</guid>
+      <pubDate>Thu, 22 Jan 2026 16:16:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>您现在可以在 Adob​​e Acrobat 中从文档生成演示文稿和音频播客</title>
+      <link>https://alternativeto.net/news/2026/1/you-can-now-generate-presentations-and-audio-podcasts-from-your-documents-in-adobe-acrobat/</link>
+      <description><![CDATA[Adobe 宣布在 Adobe Acrobat 中添加多项人工智能 (AI) 功能，旨在提高用户的工作效率和创造力。引领这些更新的是“生成演示文稿”工具，该工具使用户能够从文件中自动生成大纲，并通过人工智能输入快速创建精美的演示文稿。 Adobe Acrobat 现在还具有人工智能驱动的助手，允许用户在基于聊天的界面中使用简单的自然语言提示来执行常见的 PDF 任务，例如删除内容、添加电子签名或保护文档。
+虽然这些核心改进解决了文档管理问题，但 Adobe 还通过“生成播客”功能扩展了 Acrobat 的功能。该工具在人工智能助手的帮助下，将大量文档或笔记集总结为播客风格的音频摘要，为会议前或旅途中吸收信息提供了一种便捷的方式。
+继生产力升级之后，Acrobat 还在 PDF Spaces 中引入了扩展的协作功能。用户可以邀请同事或客户添加文件、留下注释或提供评论，从而简化团队合作并加速共享理解。所有这些增强功能目前可供 Acrobat Studio 用户使用。
+查看有关 AlternativeTo 的文章有关 Adobe Acrobat 的更多信息Reader | Adobe Acrobat Reader 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/you-can-now-generate-presentations-and-audio-podcasts-from-your-documents-in-adobe-acrobat/</guid>
+      <pubDate>Thu, 22 Jan 2026 16:10:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ReactOS 最终添加了异步 TCP 支持，提高了网络性能</title>
+      <link>https://alternativeto.net/news/2026/1/reactos-finally-adds-asynchronous-tcp-support-boosting-networking-performance/</link>
+      <description><![CDATA[ReactOS 集成了异步 TCP 支持的新补丁，旨在提高基于网络的应用程序的性能。由于这一变化，用户可以期望网络浏览器、FTP 客户端和下载管理器的速度和响应能力得到提高。
+查看有关 AlternativeTo 的文章有关 ReactOS 的更多信息 | ReactOS 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/reactos-finally-adds-asynchronous-tcp-support-boosting-networking-performance/</guid>
+      <pubDate>Thu, 22 Jan 2026 15:13:13 GMT</pubDate>
+    </item>
     <item>
       <title>微软正在测试一款新的免费、支持广告的 Xbox 云游戏，游戏时间一小时</title>
       <link>https://alternativeto.net/news/2026/1/microsoft-is-testing-a-new-free-ad-supported-xbox-cloud-gaming-with-one-hour-sessions/</link>
       <description><![CDATA[据报道，微软即将为 Xbox 云游戏推出一个新的免费且支持广告的套餐，为非 Xbox Game Pass 订阅者提供访问云流媒体的方式。经过几个月的内部测试，微软准备向 Xbox Insider 提供抢先体验，提供一小时的课程以及每月最多 5 小时的免费体验。
 在当前的测试中，用户在游戏开始直播之前会看到大约两分钟的前置广告。最近的 Xbox 应用更新引用了一小时广告支持的会话限制，与内部测试设置相匹配。
 该层级预计将支持流式传输一些用户已经拥有的游戏，以及符合条件的周末免费游戏日游戏和 Xbox Retro Classics，每款游戏之前仍然有预贴广告。微软在初步报告几周后确认了该测试，预计将在未来几周内正式宣布并扩大公开测试，类似于 Nvidia GeForce Now 的广告支持方法。
-查看有关 AlternativeTo 的文章有关 Xbox 云的更多信息游戏 | Xbox 云游戏替代方案]]></description>
+查看有关 AlternativeTo 的文章有关 Xbox 云的更多信息游戏 | Xbox 云游戏替代品]]></description>
       <guid>https://alternativeto.net/news/2026/1/microsoft-is-testing-a-new-free-ad-supported-xbox-cloud-gaming-with-one-hour-sessions/</guid>
       <pubDate>Thu, 22 Jan 2026 01:54:38 GMT</pubDate>
     </item>
@@ -26,7 +64,7 @@
       <pubDate>Wed, 21 Jan 2026 16:50:41 GMT</pubDate>
     </item>
     <item>
-      <title>Ollama 使用 Z-Image Turbo 和 FLUX.2 在 macOS 上启动实验性本地图像生成</title>
+      <title>Ollama 使用 Z-Image Turbo 和 FLUX.2 在 macOS 上推出实验性本地图像生成</title>
       <link>https://alternativeto.net/news/2026/1/ollama-launches-experimental-local-image-generation-on-macos-with-z-image-turbo-and-flux-2/</link>
       <description><![CDATA[Ollama 推出了实验性图像生成功能，将其开源平台扩展到基于文本的大语言模型 (LLM) 之外。发布时，此功能可供 macOS 用户使用，路线图上列出了对 Windows 和 Linux 的支持。
 在升级的基础上，生成的图像将保存到当前目录。支持内联图像预览的终端，例如 Ghostty、iTerm2 和 Kitty，可以直接在终端界面中显示这些图像。
@@ -43,7 +81,7 @@
 对于怀疑由 18 岁以下人士使用的帐户，ChatGPT 会自动激活扩展保护。这些措施旨在减少敏感内容的暴露，包括暴力图片、病毒式挑战、露骨的性内容、鼓励自残的描述、宣扬极端的身体标准、不健康的节食或身体羞辱。虽然在注册时注明年龄为 18 岁以下的青少年已经获得了增强的内容控制，但年龄预测将保护范围扩大到更多可能无法自我识别的用户。
 在这些保障措施的基础上，该方法以专家建议和关于青少年风险认知、冲动控制和同伴影响差异的学术研究为指导。除了自动化措施之外，家长还可以通过家长控制进一步定制青少年的 ChatGPT 体验。
 如果成年人被错误地置于这些限制之下，他们可以通过安全身份服务 Persona 进行基于自拍照的年龄验证，从而迅速恢复完全访问权限。 OpenAI 还利用该系统的反馈来不断改进模型的准确性。
-查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代方案]]></description>
+查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/1/openai-rolls-out-age-prediction-for-chatgpt-accounts-to-automatically-estimate-your-age/</guid>
       <pubDate>Wed, 21 Jan 2026 13:40:00 GMT</pubDate>
     </item>
@@ -91,7 +129,7 @@ Instabridge 扩展了这种方法，强调性能、自定义选项、错误修�
     <item>
       <title>Radicle 1.6.0 Amaryllis 发布：主要更新和 Windows 构建支持</title>
       <link>https://alternativeto.net/news/2026/1/radicle-1-6-0-amaryllis-released-major-updates-and-windows-build-support/</link>
-      <description><![CDATA[Radicle 1.6.0（代号 Amaryllis）已发布，标志着重构后回归定期更新。此版本引入了重大更改，包括迁移 radicle-node 以使用 mio I/O 层、Windows 构建支持、Rust MSRV 1.85、使用 clap 改进的 CLI 解析、shell 完成、systemd 凭据支持和引导修复。
+      <description><![CDATA[Radicle 1.6.0（代号Amaryllis）已发布，标志着重构后回归定期更新。此版本引入了重大更改，包括迁移 radicle-node 以使用 mio I/O 层、Windows 构建支持、Rust MSRV 1.85、使用 clap 改进的 CLI 解析、shell 完成、systemd 凭据支持和引导修复。
 查看有关 AlternativeTo 的文章更多信息Radicle | Radicle 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/1/radicle-1-6-0-amaryllis-released-major-updates-and-windows-build-support/</guid>
       <pubDate>Wed, 21 Jan 2026 08:20:34 GMT</pubDate>
@@ -113,44 +151,6 @@ Instabridge 扩展了这种方法，强调性能、自定义选项、错误修�
 查看有关 AlternativeTo 的文章有关 Pale 的更多信息月亮 | 淡月亮替代品]]></description>
       <guid>https://alternativeto.net/news/2026/1/pale-moon-34-0-0-improves-windows-11-theme-css-compatibility-and-stability/</guid>
       <pubDate>Tue, 20 Jan 2026 16:11:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>X 在 Apache-2.0 许可下开源基于 Grok 的 For You 推荐算法</title>
-      <link>https://alternativeto.net/news/2026/1/x-open-sources-grok-based-for-you-recommendation-algorithm-under-apache-2-0-license/</link>
-      <description><![CDATA[在宣布打算开放 X 的核心推荐算法一周后，Elon Musk 现在在 GitHub 上发布了 For You feed 代码Apache-2.0 许可证。这一发展通过让公众检查内容在平台上的排名和推广方式来提供透明度。
-与之前的 2023 年开源方法不同，新系统依赖于基于 Grok 的变压器模型，并删除了几乎所有手动编码逻辑。相反，它纯粹从用户参与模式中学习排名策略，从而最大限度地减少主题标签填充或在所谓的最佳时间发布等策略的影响。
-遵循这一架构转变，For You Feed 现在将关注帐户的网络内内容与通过机器学习驱动的检索发现的网络外帖子结合起来。结果是一个推荐引擎，使用基于 Grok 的变压器模型对所有内容进行排名。
-根据 GitHub 存储库，该代码库由大约 100 个文件组成，包括不到 10,000 行代码，其中 63% 用 Rust 编写，37% 用 Python 编写。
-查看有关 AlternativeTo 的文章更多信息X | X 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/x-open-sources-grok-based-for-you-recommendation-algorithm-under-apache-2-0-license/</guid>
-      <pubDate>Tue, 20 Jan 2026 16:10:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manus 向 Google Play 和 TestFlight 添加一键式应用发布功能</title>
-      <link>https://alternativeto.net/news/2026/1/manus-adds-one-click-app-publishing-to-google-play-and-testflight/</link>
-      <description><![CDATA[Manus 引入了直接应用发布，让用户可以导出应用以在 Google Play 和 TestFlight 上进行测试，而无需设置 Xcode 或 Android Studio。这消除了 Android 和 iOS 开发的常见配置障碍，减少了技术开销并在完整商店发布之前加速反馈。
-查看有关 AlternativeTo 的文章有关 Manus 的更多信息 | Manus 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/1/manus-adds-one-click-app-publishing-to-google-play-and-testflight/</guid>
-      <pubDate>Tue, 20 Jan 2026 15:57:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mozilla 发布适用于 Linux 的官方 Firefox Nightly .rpm 软件包</title>
-      <link>https://alternativeto.net/news/2026/1/mozilla-releases-official-firefox-nightly-rpm-package-for-linux/</link>
-      <description><![CDATA[Mozilla 推出了 Firefox Nightly 的官方 .rpm 软件包，为基于 RPM 的 Linux 发行版带来本机安装和更新。新软件包具有高级编译器优化和强化二进制文件，并启用了所有安全标志。更新现在直接与 Firefox 的发布流程集成，为用户提供更快的更新。
-查看有关 AlternativeTo 的文章有关 Mozilla Firefox 的更多信息 | Mozilla Firefox 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/mozilla-releases-official-firefox-nightly-rpm-package-for-linux/</guid>
-      <pubDate>Tue, 20 Jan 2026 15:49:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>ShareX 19.0 带来了 AI 图像分析、区域捕获升级、新默认值等</title>
-      <link>https://alternativeto.net/news/2026/1/sharex-19-0-brings-ai-image-analysis-region-capture-upgrades-new-defaults-and-more/</link>
-      <description><![CDATA[ShareX 19.0 已发布，为这款免费开源屏幕截图和截屏应用程序的 Windows 用户提供了重大更新。一个关键的变化是，新安装现在默认禁用自动上传，从而改变了用户首次设置 ShareX 的工作流程。
-为了扩展其功能集，ShareX 19.0 引入了由人工智能支持的新分析图像工具。用户可以访问 OpenAI ChatGPT、Google Gemini 和 OpenRouter 等提供商的分析，直接在应用内实现高级图像洞察。
-在这些更新的基础上，ShareX 现在与 FFmpeg 版本 8.0 捆绑在一起，确保改进的编解码器支持和兼容性。区域捕捉功能集也得到了增强：它现在提供了一个Spotlight工具来聚焦图像区域，在用户定义区域的中心显示一个十字以更好地对齐，并使区域选择整体上更加平滑。
-在这些核心增强之后，图像历史记录设置通过新选项获得了灵活性，可以自动加载更多图像并调整缩略图高度。此外，新的热键允许用户立即停止自动捕获操作。这些更新与其他各种更改和其他一般改进一起提供。
-查看有关 AlternativeTo 的文章更多信息ShareX | ShareX 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/sharex-19-0-brings-ai-image-analysis-region-capture-upgrades-new-defaults-and-more/</guid>
-      <pubDate>Tue, 20 Jan 2026 15:20:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
