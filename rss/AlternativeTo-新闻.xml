@@ -4,7 +4,49 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Fri, 23 Jan 2026 01:45:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 12:47:29 GMT</lastBuildDate>
+    <item>
+      <title>Substack 推出适用于 Apple TV 和 Google TV 的电视应用程序，用于观看长视频帖子</title>
+      <link>https://alternativeto.net/news/2026/1/substack-launches-its-tv-app-for-apple-tv-and-google-tv-for-viewing-long-form-video-posts/</link>
+      <description><![CDATA[Substack 推出了适用于 Apple TV 和 Google TV 的新电视应用，订阅者可以观看他们关注的出版物和创作者的视频帖子和直播。这一开发将 Substack 的长格式视频内容带入客厅，为订阅者在电视设备上提供了扩展的观看体验。
+发布后，免费和付费订阅者都可以登录该应用，访问权限取决于其当前的订阅级别。最初的应用程序版本专注于提供可靠、高质量的播放。它还具有突出显示个性化视频推荐的为您行，以及浏览每个订阅的专用页面并探索特定出版物中的更多视频的选项。
+此次推出后，已经在 Substack 上发布视频内容的创作者将在 TV 应用上自动看到他们的视频可供其订阅者使用，无需额外设置。虽然发布时不支持免费订阅者的付费内容预览，但 Substack 已宣布计划在未来的更新中引入此功能。
+在短期内，用户还可以期待对音频帖子和朗读的更多支持、增强的搜索和发现工具、应用内订阅升级以及组织个人出版物节目的新方法。
+查看有关 AlternativeTo 的文章更多信息子堆栈 | 子堆栈替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/1/substack-launches-its-tv-app-for-apple-tv-and-google-tv-for-viewing-long-form-video-posts/</guid>
+      <pubDate>Fri, 23 Jan 2026 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Outlook 无响应后微软敦促用户卸载 Windows 11 更新</title>
+      <link>https://alternativeto.net/news/2026/1/microsoft-urges-users-to-uninstall-a-windows-11-update-after-outlook-becomes-unresponsive/</link>
+      <description><![CDATA[在确认更新 KB5074109 可能会导致包含 POP 帐户和 PST 文件的 Outlook Classic 配置文件挂起或无响应后，Microsoft 已向 Windows 11 用户发出严重警告。受影响的用户经常遇到冻结、未保存草稿电子邮件以及 Outlook 无法重新打开的情况，除非在任务管理器中结束进程或重新启动电脑，特别是在2026 年 1 月 13 日更新之后。
+作为临时措施，Microsoft 建议卸载 KB5074109 以恢复 Outlook 功能。用户可以通过“设置”、“Windows 更新”、“更新历史记录”、“卸载更新”、选择“KB5074109”并确认来删除它。 Microsoft 警告说，卸载该补丁还会删除 2026 年 1 月更新中包含的 100 多个安全修复程序。
+该公司表示，目前应用程序中没有简单的解决方法，建议使用网络邮件或将 PST 文件移出 OneDrive，直到修复可用，但表示其他解决方法可能会很复杂。此更新还导致应用程序在打开或保存文件到云支持存储（例如 OneDrive 或 Dropbox 时变得无响应或抛出错误。在某些 Outlook 设置中，存储在 OneDrive 上的 PST 可能会导致 Outlook 停止响应，需要重新启动或任务管理器才能恢复，并且已发送的电子邮件可能不会出现在“已发送邮件”中。微软表示，它仍在调查，除了删除 KB5074109 之外，尚未发布永久修复程序。
+查看有关 AlternativeTo 的文章有关 Microsoft 的更多信息Outlook | Microsoft Outlook 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/microsoft-urges-users-to-uninstall-a-windows-11-update-after-outlook-becomes-unresponsive/</guid>
+      <pubDate>Fri, 23 Jan 2026 08:35:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>1Password 推出了一种新的网络钓鱼防御工具来标记未链接的网站</title>
+      <link>https://alternativeto.net/news/2026/1/1password-introduces-a-new-phishing-prevention-tool-to-flag-unlinked-websites/</link>
+      <description><![CDATA[1Password 在其浏览器扩展中发布了新的网络钓鱼防护功能，该功能会在用户尝试将凭据粘贴到未链接到已保存登录信息的网站时向用户发出警告。当站点与用户保管库中存储的任何条目都不匹配时，在手动粘贴尝试期间会出现该警报。
+以前，1Password 会阻止可疑网络钓鱼网站上的自动填充，但用户仍然可以将凭据复制并粘贴到欺诈页面中。此更新旨在通过提示用户在继续之前确认他们信任该网站来缩小这一差距，并添加短暂的暂停，这可能有助于阻止凭据盗窃。
+1Password 表示，该功能旨在解决人工智能引发的更具说服力的网络钓鱼诈骗，并警告说，人工智能驱动的浏览器可能会进一步增加风险。现在，它可以在通知下的扩展程序设置中作为“警告非链接网站上的粘贴登录”。
+查看有关 AlternativeTo 的文章更多信息1Password | 1Password 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/1/1password-introduces-a-new-phishing-prevention-tool-to-flag-unlinked-websites/</guid>
+      <pubDate>Fri, 23 Jan 2026 08:15:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify 向美国和加拿大的高级订阅者推出测试版提示播放列表</title>
+      <link>https://alternativeto.net/news/2026/1/spotify-rolls-out-prompted-playlist-in-beta-to-premium-subscrbers-in-the-us-and-canada/</link>
+      <description><![CDATA[Spotify 正在推出提示播放列表，该功能使用户只需描述他们想听的内容即可创建播放列表。用户可以用自己的话编写提示，Spotify 会根据他们历史的收听习惯和当前的音乐趋势生成播放列表。这种方法确保每个播放列表不仅反映最近的兴趣，而且反映长期的收听历史。
+继2025 年 12 月在新西兰对高级听众进行初步测试之后，Spotify 现在正在扩大对美国和加拿大更多高级用户的访问范围。此次发布为这些用户提供了在新功能仍处于测试阶段时尝试新功能的机会。
+除了基本提示之外，用户还可以选择更改其描述、以新想法重新启动，或者每天或每周自动刷新播放列表。为了增加透明度，每首歌曲都附有简短的解释，说明为何选择它。这些解释可以帮助用户理解他们的输入和结果组合之间的联系。
+随后，Spotify 通过音乐编辑和文化专家创建的示例提示在主屏幕上提供灵感。这些帮助高级订阅者发现新的方法，通过有趣和多样化的描述来个性化他们的混音。
+查看有关 AlternativeTo 的文章更多信息Spotify | Spotify 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/spotify-rolls-out-prompted-playlist-in-beta-to-premium-subscrbers-in-the-us-and-canada/</guid>
+      <pubDate>Fri, 23 Jan 2026 07:15:00 GMT</pubDate>
+    </item>
     <item>
       <title>Rust 1.93 带来了 musl 1.2.5、分配器改进和 asm 上的 cfg 属性！线</title>
       <link>https://alternativeto.net/news/2026/1/rust-1-93-brings-musl-1-2-5-allocator-improvements-and-cfg-attributes-on-asm-lines/</link>
@@ -39,7 +81,7 @@
       <title>ReactOS 最终添加了异步 TCP 支持，提高了网络性能</title>
       <link>https://alternativeto.net/news/2026/1/reactos-finally-adds-asynchronous-tcp-support-boosting-networking-performance/</link>
       <description><![CDATA[ReactOS 集成了异步 TCP 支持的新补丁，旨在提高基于网络的应用程序的性能。由于这一变化，用户可以期望网络浏览器、FTP 客户端和下载管理器的速度和响应能力得到提高。
-查看有关 AlternativeTo 的文章有关 ReactOS 的更多信息 | ReactOS 替代品]]></description>
+查看有关 AlternativeTo 的文章有关 ReactOS 的更多信息 | ReactOS 替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/1/reactos-finally-adds-asynchronous-tcp-support-boosting-networking-performance/</guid>
       <pubDate>Thu, 22 Jan 2026 15:13:13 GMT</pubDate>
     </item>
@@ -49,7 +91,7 @@
       <description><![CDATA[据报道，微软即将为 Xbox 云游戏推出一个新的免费且支持广告的套餐，为非 Xbox Game Pass 订阅者提供访问云流媒体的方式。经过几个月的内部测试，微软准备向 Xbox Insider 提供抢先体验，提供一小时的课程以及每月最多 5 小时的免费体验。
 在当前的测试中，用户在游戏开始直播之前会看到大约两分钟的前置广告。最近的 Xbox 应用更新引用了一小时广告支持的会话限制，与内部测试设置相匹配。
 该层级预计将支持流式传输一些用户已经拥有的游戏，以及符合条件的周末免费游戏日游戏和 Xbox Retro Classics，每款游戏之前仍然有预贴广告。微软在初步报告几周后确认了该测试，预计将在未来几周内正式宣布并扩大公开测试，类似于 Nvidia GeForce Now 的广告支持方法。
-查看有关 AlternativeTo 的文章有关 Xbox 云的更多信息游戏 | Xbox 云游戏替代品]]></description>
+查看有关 AlternativeTo 的文章有关 Xbox 云的更多信息游戏 | Xbox 云游戏替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/1/microsoft-is-testing-a-new-free-ad-supported-xbox-cloud-gaming-with-one-hour-sessions/</guid>
       <pubDate>Thu, 22 Jan 2026 01:54:38 GMT</pubDate>
     </item>
@@ -64,7 +106,7 @@
       <pubDate>Wed, 21 Jan 2026 16:50:41 GMT</pubDate>
     </item>
     <item>
-      <title>Ollama 使用 Z-Image Turbo 和 FLUX.2 在 macOS 上推出实验性本地图像生成</title>
+      <title>Ollama 使用 Z-Image Turbo 和 FLUX.2 在 macOS 上启动实验性本地图像生成</title>
       <link>https://alternativeto.net/news/2026/1/ollama-launches-experimental-local-image-generation-on-macos-with-z-image-turbo-and-flux-2/</link>
       <description><![CDATA[Ollama 推出了实验性图像生成功能，将其开源平台扩展到基于文本的大语言模型 (LLM) 之外。发布时，此功能可供 macOS 用户使用，路线图上列出了对 Windows 和 Linux 的支持。
 在升级的基础上，生成的图像将保存到当前目录。支持内联图像预览的终端，例如 Ghostty、iTerm2 和 Kitty，可以直接在终端界面中显示这些图像。
@@ -81,7 +123,7 @@
 对于怀疑由 18 岁以下人士使用的帐户，ChatGPT 会自动激活扩展保护。这些措施旨在减少敏感内容的暴露，包括暴力图片、病毒式挑战、露骨的性内容、鼓励自残的描述、宣扬极端的身体标准、不健康的节食或身体羞辱。虽然在注册时注明年龄为 18 岁以下的青少年已经获得了增强的内容控制，但年龄预测将保护范围扩大到更多可能无法自我识别的用户。
 在这些保障措施的基础上，该方法以专家建议和关于青少年风险认知、冲动控制和同伴影响差异的学术研究为指导。除了自动化措施之外，家长还可以通过家长控制进一步定制青少年的 ChatGPT 体验。
 如果成年人被错误地置于这些限制之下，他们可以通过安全身份服务 Persona 进行基于自拍照的年龄验证，从而迅速恢复完全访问权限。 OpenAI 还利用该系统的反馈来不断改进模型的准确性。
-查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代品]]></description>
+查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/1/openai-rolls-out-age-prediction-for-chatgpt-accounts-to-automatically-estimate-your-age/</guid>
       <pubDate>Wed, 21 Jan 2026 13:40:00 GMT</pubDate>
     </item>
@@ -117,40 +159,6 @@ Instabridge 扩展了这种方法，强调性能、自定义选项、错误修�
 查看有关 AlternativeTo 的文章有关 Nova 的更多信息启动器 | Nova 启动器替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/1/nova-launcher-is-being-revived-with-a-new-owner-but-you-will-now-see-ads-unless-you-pay/</guid>
       <pubDate>Wed, 21 Jan 2026 08:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Code 的 VS Code 扩展推出，具有类似 CLI 的功能</title>
-      <link>https://alternativeto.net/news/2026/1/vs-code-extension-for-claude-code-launches-with-cli-like-features/</link>
-      <description><![CDATA[Claude Code 的 VS Code 扩展现已全面推出，让更多用户能够在 Microsoft 流行的代码编辑器中访问其功能。该版本使扩展更接近 CLI 体验，支持文件 @-mentions 和熟悉的斜杠命令，例如 /model 和 /context。其他功能包括为开发工作流程量身定制的计划审查工具和键盘快捷键。
-查看有关 AlternativeTo 的文章有关 Claude 的更多信息代码 | Claude 代码替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/1/vs-code-extension-for-claude-code-launches-with-cli-like-features/</guid>
-      <pubDate>Wed, 21 Jan 2026 08:28:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Radicle 1.6.0 Amaryllis 发布：主要更新和 Windows 构建支持</title>
-      <link>https://alternativeto.net/news/2026/1/radicle-1-6-0-amaryllis-released-major-updates-and-windows-build-support/</link>
-      <description><![CDATA[Radicle 1.6.0（代号Amaryllis）已发布，标志着重构后回归定期更新。此版本引入了重大更改，包括迁移 radicle-node 以使用 mio I/O 层、Windows 构建支持、Rust MSRV 1.85、使用 clap 改进的 CLI 解析、shell 完成、systemd 凭据支持和引导修复。
-查看有关 AlternativeTo 的文章更多信息Radicle | Radicle 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/radicle-1-6-0-amaryllis-released-major-updates-and-windows-build-support/</guid>
-      <pubDate>Wed, 21 Jan 2026 08:20:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deepin 25.0.10 更新包括数据保留安装程序和文件管理器改进</title>
-      <link>https://alternativeto.net/news/2026/1/deepin-25-0-10-update-includes-data-retaining-installer-and-file-manager-improvements/</link>
-      <description><![CDATA[Deepin 25.0.10 现已推出，具有升级的安装程序，允许用户在全盘安装过程中保留数据并重用原始帐户设置。文件管理器的效率得到了重大改进，包括拖动文件时自动滚动、组显示选项和固定选项卡。
-本次版本还更新了系统交互元素，增加了AI截图工具、原创商业主题等新功能。
-查看有关 AlternativeTo 的文章更多信息Deepin | Deepin 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/deepin-25-0-10-update-includes-data-retaining-installer-and-file-manager-improvements/</guid>
-      <pubDate>Tue, 20 Jan 2026 16:18:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pale Moon 34.0.0 改进了 Windows 11 主题、CSS 兼容性和稳定性</title>
-      <link>https://alternativeto.net/news/2026/1/pale-moon-34-0-0-improves-windows-11-theme-css-compatibility-and-stability/</link>
-      <description><![CDATA[Pale Moon 34.0.0 标志着一个重要的里程碑版本，它具有更新的 Windows 默认主题，与 Windows 11 更好地集成，并改进了对深色强调色的处理。 CSS 支持得到扩展，包括重新引入级联层、颜色混合和无前缀外观关键字，以实现更好的标准兼容性。
-该版本带来了更新的安全组件、更广泛的平台支持，并修复了几个值得注意的崩溃问题。
-查看有关 AlternativeTo 的文章有关 Pale 的更多信息月亮 | 淡月亮替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/pale-moon-34-0-0-improves-windows-11-theme-css-compatibility-and-stability/</guid>
-      <pubDate>Tue, 20 Jan 2026 16:11:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
