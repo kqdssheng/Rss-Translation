@@ -4,7 +4,28 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sat, 24 Jan 2026 01:43:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 12:41:14 GMT</lastBuildDate>
+    <item>
+      <title>Swift 跨平台框架 Skip 现已免费开源，已取消许可</title>
+      <link>https://alternativeto.net/news/2026/1/swift-cross-platform-framework-skip-is-now-free-and-open-source-with-licensing-removed/</link>
+      <description><![CDATA[Skip 是一款跨平台开发工具，通过单一 Swift 和 SwiftUI 代码库面向 iOS 和 Android，最近宣布它现在是免费且完全开源的。从版本 1.7 开始，Skip 删除了所有许可要求，包括许可证密钥、最终用户协议和任何评估期。现有用户无需更改设置即可升级，新用户可以立即开始构建。
+Skip 还在 Skiptools 组织下在 GitHub 上开源了其核心引擎 Skipstone。 Skipstone 处理构建时功能，例如项目创建和管理、Xcode 和 Swift 包管理器插件逻辑、iOS 到 Android 项目转换、资源和本地化捆绑、JNI 桥创建、源代码转译、应用程序打包和项目导出。
+Skip 表示，它现在与数十个框架集成，与数千个跨平台 Swift 包互操作，并包含自己的 SwiftUI 实现。该项目从 Swift 到 Kotlin 转译器开始，并扩展到 Swift Android 工作组以及用于在 Android 上本地编译 Swift 的 Android SDK。 Skip 还将其文档和网站从 Skip.tools 迁移到开源 skip.dev，并鼓励通过 GitHub 赞助商或企业赞助提供持续支持。
+查看有关 AlternativeTo 的文章更多信息跳过 | 跳过替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/1/swift-cross-platform-framework-skip-is-now-free-and-open-source-with-licensing-removed/</guid>
+      <pubDate>Sat, 24 Jan 2026 12:14:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>WinDirStat 2.5 添加了深色模式、NTFS MFT 扫描、改进的搜索和新的文件操作</title>
+      <link>https://alternativeto.net/news/2026/1/windirstat-2-5-adds-dark-mode-ntfs-mft-scanning-improved-search-and-new-file-actions/</link>
+      <description><![CDATA[WinDirStat 2.5 提供了多项重要功能，首先是添加了深色模式以改善视觉体验。继这些界面增强之后，NTFS（新技术文件系统）主文件表的直接扫描和硬链接跟踪为高级用户提供了更深入的分析功能。
+基于这些核心更新，用户现在可以搜索扫描结果、使用扩展菜单中的自动搜索选项以及在 WinDirStat 中移动文件。该应用程序还添加了计算和显示文件哈希值以及将重复文件列表导出为 CSV 格式的工具。长时间运行任务的进度对话框以及需要提升时的提示使工作流程更加清晰。
+对于高级用户，此版本带来了以前的文件夹跟踪历史记录、扩展的命令行扫描选项和新的键盘快捷键。集成改进现在允许 WinDirStat 启动程序和功能小程序、优化虚拟硬盘文件以及直接从应用程序内切换资源管理器上下文菜单。
+其他更改包括 DISM（部署映像服务和管理）分析功能、DPI（每英寸点数）感知增强以及带有二进制前缀的卷显示。此更新添加了瑞典语、日语和土耳其语支持、各种翻译改进以及一般性能优化以及错误修复。 WinDirStat 2.5 还删除了对 Windows 7、Windows Server 2008 R2 和 ARM 32 位版本的支持。
+查看有关 AlternativeTo 的文章更多信息WinDirStat | WinDirStat 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/windirstat-2-5-adds-dark-mode-ntfs-mft-scanning-improved-search-and-new-file-actions/</guid>
+      <pubDate>Sat, 24 Jan 2026 12:05:00 GMT</pubDate>
+    </item>
     <item>
       <title>微软已使 Xbox 应用程序与基于 ARM 的 Windows 11 PC 兼容</title>
       <link>https://alternativeto.net/news/2026/1/microsoft-has-made-the-xbox-app-compatible-with-arm-based-windows-11-pcs/</link>
@@ -29,18 +50,18 @@ winapp CLI 专注于工作流程效率，支持使用 init 命令进行项目引
     <item>
       <title>Ktor 3.4.0：本机 OpenAPI、双工流、Zstd 压缩等</title>
       <link>https://alternativeto.net/news/2026/1/ktor-3-4-0-native-openapi-duplex-streaming-zstd-compression-and-more/</link>
-      <description><![CDATA[Ktor 3.4.0 通过新的 API 和编译器插件引入了本机 OpenAPI 生成，从而支持动态、代码驱动的文档。 OkHttp 客户端现在支持 HTTP/2 连接的双工流，从而允许双向数据传输。还添加了 Zstd 压缩支持，以通过可配置设置提高服务器性能。
+      <description><![CDATA[Ktor 3.4.0 通过新的 API 和编译器插件引入了本机 OpenAPI 生成，从而支持动态、代码驱动的文档。 OkHttp 客户端现在支持 HTTP/2 连接的双工流，从而允许双向数据传输。还添加了 Zstd 压缩支持，通过可配置设置提高服务器性能。
 其他功能包括用于结构化并发的插件，如果客户端断开连接，该插件会取消正在进行的 HTTP 请求。
 查看有关 AlternativeTo 的文章更多信息Ktor | Ktor 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/1/ktor-3-4-0-native-openapi-duplex-streaming-zstd-compression-and-more/</guid>
       <pubDate>Fri, 23 Jan 2026 15:37:48 GMT</pubDate>
     </item>
     <item>
-      <title>Scala 3.8 需要 JDK 17，现在使用 Scala 3 构建标准库</title>
+      <title>Scala 3.8 需要 JDK 17，标准库现在使用 Scala 3 构建</title>
       <link>https://alternativeto.net/news/2026/1/scala-3-8-requires-jdk-17-standard-library-now-built-with-scala-3/</link>
       <description><![CDATA[Scala 3.8 已发布，提供了重大的生态系统更新，并为 Scala 3.9 LTS 铺平了道路。现在，所有编译和执行都需要 JDK 17 或更高版本。标准库是使用 Scala 3 本身编译的，标志着生态系统的一个重要技术里程碑。 Scala REPL 作为单独的工件进行分发，因此使用 REPL 的项目必须添加显式依赖项。
 Better Fors 和 runtimeChecked 等语言功能已经稳定，并且有一些实验功能可供测试。
-查看有关 AlternativeTo 的文章更多有关Scala | Scala 替代方案]]></description>
+查看有关 AlternativeTo 的文章更多有关Scala | Scala 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/1/scala-3-8-requires-jdk-17-standard-library-now-built-with-scala-3/</guid>
       <pubDate>Fri, 23 Jan 2026 15:31:04 GMT</pubDate>
     </item>
@@ -98,7 +119,7 @@ Zotero 8 为 ARM64 设备提供了一个 Linux 版本，改进了用户界面元
       <title>Spotify 向美国和加拿大的高级订阅者推出测试版提示播放列表</title>
       <link>https://alternativeto.net/news/2026/1/spotify-rolls-out-prompted-playlist-in-beta-to-premium-subscrbers-in-the-us-and-canada/</link>
       <description><![CDATA[Spotify 正在推出提示播放列表，该功能使用户只需描述他们想听的内容即可创建播放列表。用户可以用自己的话编写提示，Spotify 会根据他们历史的收听习惯和当前的音乐趋势生成播放列表。这种方法确保每个播放列表不仅反映最近的兴趣，而且反映长期的收听历史。
-继2025 年 12 月在新西兰对高级听众进行初步测试之后，Spotify 现在正在扩大对美国和加拿大更多高级订阅者的访问范围。此次发布为这些用户提供了在新功能仍处于测试阶段时尝试新功能的机会。
+继2025 年 12 月在新西兰对高级听众进行初步测试之后，Spotify 现在正在扩大对美国和加拿大更多高级用户的访问范围。此次发布为这些用户提供了在新功能仍处于测试阶段时尝试新功能的机会。
 除了基本提示之外，用户还可以选择更改其描述、以新想法重新启动，或者每天或每周自动刷新播放列表。为了增加透明度，每首歌曲都附有简短的解释，说明为何选择它。这些解释可帮助用户理解他们的输入与最终混音之间的联系。
 随后，Spotify 通过音乐编辑和文化专家创建的示例提示在主屏幕上提供灵感。这些帮助高级订阅者发现新的方法，通过有趣和多样化的描述来个性化他们的混音。
 查看有关 AlternativeTo 的文章更多信息Spotify | Spotify 替代品]]></description>
@@ -134,24 +155,6 @@ Zotero 8 为 ARM64 设备提供了一个 Linux 版本，改进了用户界面元
 查看有关 AlternativeTo 的文章有关 Adobe Acrobat 的更多信息Reader | Adobe Acrobat Reader 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/1/you-can-now-generate-presentations-and-audio-podcasts-from-your-documents-in-adobe-acrobat/</guid>
       <pubDate>Thu, 22 Jan 2026 16:10:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ReactOS 最终添加了异步 TCP 支持，提高了网络性能</title>
-      <link>https://alternativeto.net/news/2026/1/reactos-finally-adds-asynchronous-tcp-support-boosting-networking-performance/</link>
-      <description><![CDATA[ReactOS 集成了异步 TCP 支持的新补丁，旨在提高基于网络的应用程序的性能。由于这一变化，用户可以期望网络浏览器、FTP 客户端和下载管理器的速度和响应能力得到提高。
-查看有关 AlternativeTo 的文章有关 ReactOS 的更多信息 | ReactOS 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/reactos-finally-adds-asynchronous-tcp-support-boosting-networking-performance/</guid>
-      <pubDate>Thu, 22 Jan 2026 15:13:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软正在测试一款新的免费、支持广告的 Xbox 云游戏，游戏时间一小时</title>
-      <link>https://alternativeto.net/news/2026/1/microsoft-is-testing-a-new-free-ad-supported-xbox-cloud-gaming-with-one-hour-sessions/</link>
-      <description><![CDATA[据报道，微软即将为 Xbox 云游戏推出一个新的免费且支持广告的套餐，为非 Xbox Game Pass 订阅者提供访问云流媒体的方式。经过几个月的内部测试，微软准备向 Xbox Insider 提供抢先体验，提供一小时的课程以及每月最多 5 小时的免费体验。
-在当前的测试中，用户在游戏开始直播之前会看到大约两分钟的前置广告。最近的 Xbox 应用更新引用了一小时广告支持的会话限制，与内部测试设置相匹配。
-该层级预计将支持流式传输一些用户已经拥有的游戏，以及符合条件的周末免费游戏日游戏和 Xbox Retro Classics，每款游戏之前仍然有预贴广告。微软在初步报告几周后确认了该测试，预计将在未来几周内正式宣布并扩大公开测试，类似于 Nvidia GeForce Now 的广告支持方法。
-查看有关 AlternativeTo 的文章有关 Xbox 云的更多信息游戏 | Xbox 云游戏替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/microsoft-is-testing-a-new-free-ad-supported-xbox-cloud-gaming-with-one-hour-sessions/</guid>
-      <pubDate>Thu, 22 Jan 2026 01:54:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
