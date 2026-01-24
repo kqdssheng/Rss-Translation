@@ -4,7 +4,65 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Fri, 23 Jan 2026 12:47:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 01:43:32 GMT</lastBuildDate>
+    <item>
+      <title>微软已使 Xbox 应用程序与基于 ARM 的 Windows 11 PC 兼容</title>
+      <link>https://alternativeto.net/news/2026/1/microsoft-has-made-the-xbox-app-compatible-with-arm-based-windows-11-pcs/</link>
+      <description><![CDATA[Xbox 应用已针对所有基于 ARM 的 Windows 11 电脑推出，让用户可以在下一代设备上立即访问 Microsoft 的游戏平台。在此版本发布后，超过 85% 的 Game Pass 目录现已兼容在基于 ARM 的系统上下载和玩，从而拓宽了玩家的游戏选择范围。
+虽然本机支持有所扩展，但 Xbox 云游戏仍然适用于 ARM 硬件尚不支持的游戏。该服务允许玩家访问其他游戏，同时微软及其合作伙伴致力于提高本地兼容性。 Prism 是适用于 x86 和 x64 应用程序的 ARM 模拟器，现在增加了对高级矢量扩展（AVX 和 AVX2）的支持，有助于进一步扩大可在这些设备上运行的现代游戏的范围。
+此外，需要Epic Anti-Cheat的游戏，包括热门版本，例如战争机器：重装上阵和Fortnite 现已在基于 ARM 的 PC 上受支持。基于这些技术改进，Windows Performance Fit 为用户提供了特定于硬件的指导，帮助他们决定哪些游戏应该提供良好的游戏体验。 Microsoft 将继续与合作伙伴合作，未来为 ARM 设备带来更多游戏。
+查看有关 AlternativeTo 的文章有关 Xbox 的更多信息应用 | Xbox 应用替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/microsoft-has-made-the-xbox-app-compatible-with-arm-based-windows-11-pcs/</guid>
+      <pubDate>Fri, 23 Jan 2026 20:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软推出 winapp，一个简化 Windows 应用程序开发的命令行实用程序</title>
+      <link>https://alternativeto.net/news/2026/1/microsoft-launches-winapp-a-command-line-utility-to-simplify-windows-app-development/</link>
+      <description><![CDATA[Microsoft 发布了 Windows 应用程序开发 CLI 或 winapp 的公共预览版，这是一个旨在简化 Windows 应用程序开发的开源命令行界面。这个新工具旨在帮助开发人员通过减少重复的设置和打包任务，在 Visual Studio 或 MSBuild 之外使用跨平台框架或工具链。
+虽然 Windows 开发通常需要兼顾 SDK 管理、清单创建和证书生成，但 winapp CLI 力求统一这些流程。无论选择何种开发环境，CLI 都可以直接访问现代 Windows API，例如 Windows AI、安全性和 shell 集成。
+winapp CLI 专注于工作流程效率，支持使用 init 命令进行项目引导。此单一步骤将下载所需的软件开发套件 (SDK)、生成代码投影并配置项目以实现快速启动。开发人员还可以通过一个命令将包标识添加到可执行文件，从而允许对依赖于包标识的功能进行无缝测试和调试。
+此外，winapp CLI 可自动创建有效的 appxmanifest.xml 并颁发可信的开发证书，从而解决常见的合规性障碍。准备发布时，该工具可以将应用程序打包并签名为 MSIX，以便 Microsoft Store 提交或旁加载，从而简化分发。 Windows 应用程序开发 CLI 现已以预览版公开发布。
+查看有关 AlternativeTo 的文章有关更多信息WinApp | WinApp 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/microsoft-launches-winapp-a-command-line-utility-to-simplify-windows-app-development/</guid>
+      <pubDate>Fri, 23 Jan 2026 16:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ktor 3.4.0：本机 OpenAPI、双工流、Zstd 压缩等</title>
+      <link>https://alternativeto.net/news/2026/1/ktor-3-4-0-native-openapi-duplex-streaming-zstd-compression-and-more/</link>
+      <description><![CDATA[Ktor 3.4.0 通过新的 API 和编译器插件引入了本机 OpenAPI 生成，从而支持动态、代码驱动的文档。 OkHttp 客户端现在支持 HTTP/2 连接的双工流，从而允许双向数据传输。还添加了 Zstd 压缩支持，以通过可配置设置提高服务器性能。
+其他功能包括用于结构化并发的插件，如果客户端断开连接，该插件会取消正在进行的 HTTP 请求。
+查看有关 AlternativeTo 的文章更多信息Ktor | Ktor 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/ktor-3-4-0-native-openapi-duplex-streaming-zstd-compression-and-more/</guid>
+      <pubDate>Fri, 23 Jan 2026 15:37:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scala 3.8 需要 JDK 17，现在使用 Scala 3 构建标准库</title>
+      <link>https://alternativeto.net/news/2026/1/scala-3-8-requires-jdk-17-standard-library-now-built-with-scala-3/</link>
+      <description><![CDATA[Scala 3.8 已发布，提供了重大的生态系统更新，并为 Scala 3.9 LTS 铺平了道路。现在，所有编译和执行都需要 JDK 17 或更高版本。标准库是使用 Scala 3 本身编译的，标志着生态系统的一个重要技术里程碑。 Scala REPL 作为单独的工件进行分发，因此使用 REPL 的项目必须添加显式依赖项。
+Better Fors 和 runtimeChecked 等语言功能已经稳定，并且有一些实验功能可供测试。
+查看有关 AlternativeTo 的文章更多有关Scala | Scala 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/1/scala-3-8-requires-jdk-17-standard-library-now-built-with-scala-3/</guid>
+      <pubDate>Fri, 23 Jan 2026 15:31:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ghost 推出高级过滤器和 UTM 支持流量分析</title>
+      <link>https://alternativeto.net/news/2026/1/ghost-launches-advanced-filters-and-utm-support-to-traffic-analytics/</link>
+      <description><![CDATA[Ghost推出了用于网络流量分析的新过滤系统，允许用户搜索和组合多个过滤器以进行更深入的数据探索。现在，Ghost 中完全支持并可搜索 UTM 参数，从而简化了营销绩效分析。位置数据也集成到分析仪表板中，并且可以与其他数据点一起进行过滤。
+查看有关 AlternativeTo 的文章有关 Ghost 的更多信息 | 幽灵替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/ghost-launches-advanced-filters-and-utm-support-to-traffic-analytics/</guid>
+      <pubDate>Fri, 23 Jan 2026 15:24:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zotero 8 带来了统一的引文对话框、改进的阅读、注释选项卡和 Linux ARM 支持</title>
+      <link>https://alternativeto.net/news/2026/1/zotero-8-brings-unified-citation-dialog-improved-reading-note-tabs-and-linux-arm-support/</link>
+      <description><![CDATA[Zotero 8 现已作为这款免费开源参考管理软件的最新版本推出，它建立在重新设计的基础集的基础上由 Zotero 7 提供。该更新引入了统一的引文对话框，它将以前的对话框合并到一个具有列表和库模式的界面中。列表模式可以在所有 Zotero 库中进行高效搜索，而库模式则为集合或特定库提供有针对性的浏览器。
+基于可用性，对 PDF、EPUB 和网页快照所做的注释现在直接显示在项目列表中其父附件的下方。阅读器中的新外观面板也增强了阅读体验，让用户可以快速访问设置和新主题。此外，在阅读模式下查看的网页快照现在看起来更干净，因为删除了不必要的元素以提高可读性。
+经过这些界面改进，除了单独的窗口之外，用户现在还可以在选项卡中打开笔记。选项卡的菜单经过改进，可实现更快的键盘导航。 Zotero 现在可以使用其父项元数据自动更新附件文件名，并且在处理多个或非主附件时，附件标题重命名的逻辑得到了进一步改进。
+Zotero 8 为 ARM64 设备提供了一个 Linux 版本，改进了用户界面元素、标签自动完成、Zotero 连接器中的注释字段以及其他增强功能，以简化研究工作流程。
+查看有关 AlternativeTo 的文章更多关于Zotero | Zotero 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/zotero-8-brings-unified-citation-dialog-improved-reading-note-tabs-and-linux-arm-support/</guid>
+      <pubDate>Fri, 23 Jan 2026 13:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>Substack 推出适用于 Apple TV 和 Google TV 的电视应用程序，用于观看长视频帖子</title>
       <link>https://alternativeto.net/news/2026/1/substack-launches-its-tv-app-for-apple-tv-and-google-tv-for-viewing-long-form-video-posts/</link>
@@ -40,8 +98,8 @@
       <title>Spotify 向美国和加拿大的高级订阅者推出测试版提示播放列表</title>
       <link>https://alternativeto.net/news/2026/1/spotify-rolls-out-prompted-playlist-in-beta-to-premium-subscrbers-in-the-us-and-canada/</link>
       <description><![CDATA[Spotify 正在推出提示播放列表，该功能使用户只需描述他们想听的内容即可创建播放列表。用户可以用自己的话编写提示，Spotify 会根据他们历史的收听习惯和当前的音乐趋势生成播放列表。这种方法确保每个播放列表不仅反映最近的兴趣，而且反映长期的收听历史。
-继2025 年 12 月在新西兰对高级听众进行初步测试之后，Spotify 现在正在扩大对美国和加拿大更多高级用户的访问范围。此次发布为这些用户提供了在新功能仍处于测试阶段时尝试新功能的机会。
-除了基本提示之外，用户还可以选择更改其描述、以新想法重新启动，或者每天或每周自动刷新播放列表。为了增加透明度，每首歌曲都附有简短的解释，说明为何选择它。这些解释可以帮助用户理解他们的输入和结果组合之间的联系。
+继2025 年 12 月在新西兰对高级听众进行初步测试之后，Spotify 现在正在扩大对美国和加拿大更多高级订阅者的访问范围。此次发布为这些用户提供了在新功能仍处于测试阶段时尝试新功能的机会。
+除了基本提示之外，用户还可以选择更改其描述、以新想法重新启动，或者每天或每周自动刷新播放列表。为了增加透明度，每首歌曲都附有简短的解释，说明为何选择它。这些解释可帮助用户理解他们的输入与最终混音之间的联系。
 随后，Spotify 通过音乐编辑和文化专家创建的示例提示在主屏幕上提供灵感。这些帮助高级订阅者发现新的方法，通过有趣和多样化的描述来个性化他们的混音。
 查看有关 AlternativeTo 的文章更多信息Spotify | Spotify 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/1/spotify-rolls-out-prompted-playlist-in-beta-to-premium-subscrbers-in-the-us-and-canada/</guid>
@@ -81,7 +139,7 @@
       <title>ReactOS 最终添加了异步 TCP 支持，提高了网络性能</title>
       <link>https://alternativeto.net/news/2026/1/reactos-finally-adds-asynchronous-tcp-support-boosting-networking-performance/</link>
       <description><![CDATA[ReactOS 集成了异步 TCP 支持的新补丁，旨在提高基于网络的应用程序的性能。由于这一变化，用户可以期望网络浏览器、FTP 客户端和下载管理器的速度和响应能力得到提高。
-查看有关 AlternativeTo 的文章有关 ReactOS 的更多信息 | ReactOS 替代方案]]></description>
+查看有关 AlternativeTo 的文章有关 ReactOS 的更多信息 | ReactOS 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/1/reactos-finally-adds-asynchronous-tcp-support-boosting-networking-performance/</guid>
       <pubDate>Thu, 22 Jan 2026 15:13:13 GMT</pubDate>
     </item>
@@ -91,74 +149,9 @@
       <description><![CDATA[据报道，微软即将为 Xbox 云游戏推出一个新的免费且支持广告的套餐，为非 Xbox Game Pass 订阅者提供访问云流媒体的方式。经过几个月的内部测试，微软准备向 Xbox Insider 提供抢先体验，提供一小时的课程以及每月最多 5 小时的免费体验。
 在当前的测试中，用户在游戏开始直播之前会看到大约两分钟的前置广告。最近的 Xbox 应用更新引用了一小时广告支持的会话限制，与内部测试设置相匹配。
 该层级预计将支持流式传输一些用户已经拥有的游戏，以及符合条件的周末免费游戏日游戏和 Xbox Retro Classics，每款游戏之前仍然有预贴广告。微软在初步报告几周后确认了该测试，预计将在未来几周内正式宣布并扩大公开测试，类似于 Nvidia GeForce Now 的广告支持方法。
-查看有关 AlternativeTo 的文章有关 Xbox 云的更多信息游戏 | Xbox 云游戏替代方案]]></description>
+查看有关 AlternativeTo 的文章有关 Xbox 云的更多信息游戏 | Xbox 云游戏替代品]]></description>
       <guid>https://alternativeto.net/news/2026/1/microsoft-is-testing-a-new-free-ad-supported-xbox-cloud-gaming-with-one-hour-sessions/</guid>
       <pubDate>Thu, 22 Jan 2026 01:54:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>PowerToys 0.97 带来命令面板 UI 升级、新的 CursorWrap 工具和 CLI 功能</title>
-      <link>https://alternativeto.net/news/2026/1/powertoys-0-97-brings-command-palette-ui-upgrade-new-cursorwrap-tool-and-cli-features/</link>
-      <description><![CDATA[PowerToys 0.97 已推出，带来了重大命令面板更新并引入了CursorWrap用于多显示器设置。命令调色板添加了用于背景图像和颜色着色的个性化选项卡，以及后备排名，以便您可以对每个扩展的结果重新排序。内置的 PowerToys 扩展还允许您从调色板运行实用程序操作，例如切换灯光开关或切换 FancyZones 布局。
-命令面板现在支持Peek进行文件和文件夹预览，以及拼音输入和内置远程桌面扩展。 Web 搜索扩展添加了自定义搜索引擎选项，拖放支持允许文件索引器和剪贴板历史记录将内容从命令面板移动到其他应用程序。
-当光标穿过屏幕边界时，新的 CursorWrap 工具会将光标环绕到活动监视器的相对边缘。 PowerToys 0.97 还将 CLI 支持扩展到 FancyZones、Image Resizer 和 File Locksmith，并包括更快的“快速访问”弹出按钮、可选的单色托盘图标、灯开关改进和高级粘贴更新。
-查看有关 AlternativeTo 的文章有关 Microsoft PowerToys 的更多信息 | Microsoft PowerToys 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/powertoys-0-97-brings-command-palette-ui-upgrade-new-cursorwrap-tool-and-cli-features/</guid>
-      <pubDate>Wed, 21 Jan 2026 16:50:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ollama 使用 Z-Image Turbo 和 FLUX.2 在 macOS 上启动实验性本地图像生成</title>
-      <link>https://alternativeto.net/news/2026/1/ollama-launches-experimental-local-image-generation-on-macos-with-z-image-turbo-and-flux-2/</link>
-      <description><![CDATA[Ollama 推出了实验性图像生成功能，将其开源平台扩展到基于文本的大语言模型 (LLM) 之外。发布时，此功能可供 macOS 用户使用，路线图上列出了对 Windows 和 Linux 的支持。
-在升级的基础上，生成的图像将保存到当前目录。支持内联图像预览的终端，例如 Ghostty、iTerm2 和 Kitty，可以直接在终端界面中显示这些图像。
-在模型支持方面，Ollama 通过阿里巴巴开发的 60 亿参数文本转图像系统 Z-Image Turbo 实现图像生成。该模型可以生成逼真的内容并准确渲染英汉双语文本。此外，Black Forest Labs 的 FLUX.2 Klein 提供 4B 和 9B 参数格式，支持需要图像中可读文本的项目，例如 UI 模型和以版式为中心的设计。
-要定制图像输出，用户可以使用 /set width 和 /set height 命令调整宽度和高度，并指定步骤数来控制模型运行的迭代次数，并设置可重现结果的种子。展望未来，Ollama 团队计划添加适用于 Windows 和 Linux 的图像生成功能，支持更多模型类型，并引入图像编辑功能。
-查看有关 AlternativeTo 的文章有关更多信息Ollama | Ollama 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/ollama-launches-experimental-local-image-generation-on-macos-with-z-image-turbo-and-flux-2/</guid>
-      <pubDate>Wed, 21 Jan 2026 15:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 推出 ChatGPT 帐户年龄预测功能，自动估算您的年龄</title>
-      <link>https://alternativeto.net/news/2026/1/openai-rolls-out-age-prediction-for-chatgpt-accounts-to-automatically-estimate-your-age/</link>
-      <description><![CDATA[OpenAI 正在针对 ChatGPT 消费者计划推出年龄预测，以更好地识别可能属于青少年的帐户，并应用针对未成年人的保护措施。年龄预测模型结合使用行为和帐户级信号（例如帐户存在的时间、常见使用时间、规定的用户年龄和长期使用模式）来帮助估计用户的年龄。
-对于怀疑由 18 岁以下人士使用的帐户，ChatGPT 会自动激活扩展保护。这些措施旨在减少敏感内容的暴露，包括暴力图片、病毒式挑战、露骨的性内容、鼓励自残的描述、宣扬极端的身体标准、不健康的节食或身体羞辱。虽然在注册时注明年龄为 18 岁以下的青少年已经获得了增强的内容控制，但年龄预测将保护范围扩大到更多可能无法自我识别的用户。
-在这些保障措施的基础上，该方法以专家建议和关于青少年风险认知、冲动控制和同伴影响差异的学术研究为指导。除了自动化措施之外，家长还可以通过家长控制进一步定制青少年的 ChatGPT 体验。
-如果成年人被错误地置于这些限制之下，他们可以通过安全身份服务 Persona 进行基于自拍照的年龄验证，从而迅速恢复完全访问权限。 OpenAI 还利用该系统的反馈来不断改进模型的准确性。
-查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/1/openai-rolls-out-age-prediction-for-chatgpt-accounts-to-automatically-estimate-your-age/</guid>
-      <pubDate>Wed, 21 Jan 2026 13:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Notion 3.2 在移动设备上推出人工智能笔记和代理、更新模型、人员目录等</title>
-      <link>https://alternativeto.net/news/2026/1/notion-3-2-rolls-out-ai-notes-and-agents-on-mobile-updated-models-people-directory-and-more/</link>
-      <description><![CDATA[Notion 3.2 已发布，为这个生产力和笔记平台带来了重大更新。最新版本引入移动端AI笔记；用户现在只需轻按一下即可开始人工智能驱动的转录，即使在切换应用程序或锁定屏幕时也是如此。这些转录内容会在几秒钟内自动汇总为操作项和可共享文档。
-同时，所有 Notion AI 代理功能现在均可在移动设备上使用。以前仅限于桌面的构建表单、创建数据库和搜索组织范围内的知识等任务现在可以通过手机执行。
-在此基础上，Notion 3.2 添加了更新的人工智能模型，包括 GPT-5.2、克劳德 Opus 4.5 和 Gemini 3。用户还可以选择让Notion自动为每个任务选择最合适的模型。对于企业客户而言，新的人工智能使用情况分析使管理员能够详细了解功能采用情况、参与度以及用户在何处发现价值。
-继这些 AI 增强功能之后，该版本首次推出了可自定义的人员目录，用于跟踪工作空间中的每个人，并提供来自人力资源系统的导入选项。改进的 Jira 集成现在可以实现无缝双向同步、仪表板创建以及从 Notion 内直接编辑 Jira 字段。为了响应用户需求，更新还允许在单个 Notion Mail 帐户下管理多个电子邮件地址。最后，该版本带来了进一步的性能改进和其他增强功能。
-查看有关 AlternativeTo 的文章更多信息概念 | 概念替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/notion-3-2-rolls-out-ai-notes-and-agents-on-mobile-updated-models-people-directory-and-more/</guid>
-      <pubDate>Wed, 21 Jan 2026 12:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Elementor 推出 Elementor One，这是一款包含 AI 工具和灵活积分的统一订阅</title>
-      <link>https://alternativeto.net/news/2026/1/elementor-launches-elementor-one-a-unified-subscription-with-ai-tools-and-flexible-credits/</link>
-      <description><![CDATA[Elementor 推出了 Elementor One，这是一项新的统一订阅，为 WordPress 用户整合了所有设计、优化和网站管理功能。该产品被描述为 Elementor 最全面的订阅，旨在通过将每个主要工具集成到一个计划下来简化网站创建者的工作流程。
-在此发布的基础上，Elementor One 引入了一套高级功能，包括用于生成代码、布局和图像的 AI 助手。用户还可以使用图像优化工具、可靠的电子邮件传递能力、内置辅助功能、站点规划器等。
-为了支持灵活的工作流程，Elementor One 允许用户根据需要在其各种功能之间分配积分。所有功能都显示在 WordPress 仪表板内的统一菜单中，无需导航多个位置即可访问不同的工具。
-随着 Elementor 不断创新，Elementor One 订阅中将包含新功能和增强功能，无需额外付费。路线图上即将添加的内容包括 cookie 同意管理工具、性能监控中心以及编辑器中的其他人工智能功能。 Elementor One 的起价为每月 5 欧元，更高级别的选项最高可达每月 56 欧元。
-查看有关 AlternativeTo 的文章更多信息Elementor | Elementor 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/elementor-launches-elementor-one-a-unified-subscription-with-ai-tools-and-flexible-credits/</guid>
-      <pubDate>Wed, 21 Jan 2026 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nova Launcher 正在由新所有者恢复，但现在除非您付费，否则您将看到广告</title>
-      <link>https://alternativeto.net/news/2026/1/nova-launcher-is-being-revived-with-a-new-owner-but-you-will-now-see-ads-unless-you-pay/</link>
-      <description><![CDATA[在停产四个月后，Nova Launcher在被瑞典公司Instabridge。此举标志着该平台使用最广泛的第三方应用程序启动器之一的复兴。 Instabridge 的直接承诺是保持 Nova 稳定，与最新的 Android 版本完全兼容，并处于积极开发之中。
-Instabridge 扩展了这种方法，强调性能、自定义选项、错误修复以及跟上 Android 系统变化的步伐仍然是 Nova Launcher 的核心。新东家强调，他们不会尝试快速或彻底的改变；相反，他们将专注于解决问题，同时优先考虑用户控制和灵活性。
-在实施重大更新或进行结构性更改之前，Instabridge 将从 Reddit、Google Play 商店、电子邮件和其他社区空间等平台收集用户反馈。这些步骤旨在确保未来的开发符合用户的期望和需求。
-在持续发展方面，Instabridge 指出 Nova Launcher 需要新的商业模式。他们正在探索付费订阅级别和支持广告的免费版本，正如该应用程序的 Play 商店列表最近的变化所反映的那样，该列表现在确认了广告的存在。对于现有 Prime 用户，所有 Prime 功能将继续使用，无需额外付费。
-查看有关 AlternativeTo 的文章有关 Nova 的更多信息启动器 | Nova 启动器替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/1/nova-launcher-is-being-revived-with-a-new-owner-but-you-will-now-see-ads-unless-you-pay/</guid>
-      <pubDate>Wed, 21 Jan 2026 08:50:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
