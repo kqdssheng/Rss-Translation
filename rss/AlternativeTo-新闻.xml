@@ -4,7 +4,17 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sat, 24 Jan 2026 12:41:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 01:55:21 GMT</lastBuildDate>
+    <item>
+      <title>AI 原型工具 MagicPath 推出新的 Figma 导入工具，具有完全的视觉保真度</title>
+      <link>https://alternativeto.net/news/2026/1/ai-prototyping-tool-magicpath-launches-new-figma-import-tool-with-full-visual-fidelity/</link>
+      <description><![CDATA[基于 AI 的网站构建器和原型设计工具 MagicPath 已推出 Figma Connect，这是一项允许用户复制的功能Figma 设计并将其粘贴到 MagicPath 中以生成交互式原型。与基于 Figma MCP 的方法不同，此工具不需要连接外部 LLM 或使用插件。用户首先打开 MagicPath 项目，连接 Figma 帐户，复制 Figma 中的选择，然后将其粘贴到 MagicPath 中。
+Figma Connect 可以导入框架、组件或单个元素，它适用于小型 UI 片段和全屏。 MagicPath 表示，转换保留了像素级布局细节，如定位、填充和边距，并自动提取和包含图像和图标等资源。到目前为止，结果比 Figma Make 的内置工具更准确、更接近原始设计。
+保留版式并直接继承 Google 字体，而自定义字体则映射到最接近的匹配项并保持可编辑状态。 MagicPath 还表示，它保留了精确的颜色、渐变和效果，如阴影、模糊、玻璃、纹理和噪声作为代码，而不是扁平化的图像。 Figma 标记和变量作为 CSS 变量导入，组件反映在代码输出中。导入限制取决于计划：免费包括每月 5 次导入，Creator 包括 25 次，Pro 则无限制。
+查看有关 AlternativeTo 的文章更多信息MagicPath | MagicPath 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/ai-prototyping-tool-magicpath-launches-new-figma-import-tool-with-full-visual-fidelity/</guid>
+      <pubDate>Sat, 24 Jan 2026 13:08:10 GMT</pubDate>
+    </item>
     <item>
       <title>Swift 跨平台框架 Skip 现已免费开源，已取消许可</title>
       <link>https://alternativeto.net/news/2026/1/swift-cross-platform-framework-skip-is-now-free-and-open-source-with-licensing-removed/</link>
@@ -145,16 +155,6 @@ Zotero 8 为 ARM64 设备提供了一个 Linux 版本，改进了用户界面元
 查看有关 AlternativeTo 的文章更多信息Raycast | Raycast 替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/1/raycast-v0-42-brings-ai-commands-for-custom-prompt-automation/</guid>
       <pubDate>Thu, 22 Jan 2026 16:16:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>您现在可以在 Adob​​e Acrobat 中从文档生成演示文稿和音频播客</title>
-      <link>https://alternativeto.net/news/2026/1/you-can-now-generate-presentations-and-audio-podcasts-from-your-documents-in-adobe-acrobat/</link>
-      <description><![CDATA[Adobe 宣布在 Adobe Acrobat 中添加多项人工智能 (AI) 功能，旨在提高用户的工作效率和创造力。引领这些更新的是“生成演示文稿”工具，该工具使用户能够从文件中自动生成大纲，并通过人工智能输入快速创建精美的演示文稿。 Adobe Acrobat 现在还具有人工智能驱动的助手，允许用户在基于聊天的界面中使用简单的自然语言提示来执行常见的 PDF 任务，例如删除内容、添加电子签名或保护文档。
-虽然这些核心改进解决了文档管理问题，但 Adobe 还通过“生成播客”功能扩展了 Acrobat 的功能。该工具在人工智能助手的帮助下，将大量文档或笔记集总结为播客风格的音频摘要，为会议前或旅途中吸收信息提供了一种便捷的方式。
-继生产力升级之后，Acrobat 还在 PDF Spaces 中引入了扩展的协作功能。用户可以邀请同事或客户添加文件、留下注释或提供评论，从而简化团队合作并加速共享理解。所有这些增强功能目前可供 Acrobat Studio 用户使用。
-查看有关 AlternativeTo 的文章有关 Adobe Acrobat 的更多信息Reader | Adobe Acrobat Reader 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/you-can-now-generate-presentations-and-audio-podcasts-from-your-documents-in-adobe-acrobat/</guid>
-      <pubDate>Thu, 22 Jan 2026 16:10:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

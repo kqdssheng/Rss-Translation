@@ -4,48 +4,48 @@
     <title>新版本 – AlternativeTo.net</title>
     <link>https://alternativeto.net/releases/all</link>
     <description>最新软件添加到 AlternativeTo</description>
-    <lastBuildDate>Sat, 24 Jan 2026 12:40:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 01:55:15 GMT</lastBuildDate>
+    <item>
+      <title>离合器</title>
+      <link>https://alternativeto.net/software/clawdbot/about/</link>
+      <description><![CDATA[在本地运行的个人人工智能助理，支持流行的聊天应用程序、附加频道、多操作系统语音和听力以及实时用户管理的 Canvas。查看 AlternativeTo Clawdbot 替代方案]]></description>
+      <guid>https://alternativeto.net/software/clawdbot/about/</guid>
+      <pubDate>Sun, 25 Jan 2026 01:54:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>铁氧体</title>
+      <link>https://alternativeto.net/software/ferrite/about/</link>
+      <description><![CDATA[适用于 Markdown、JSON、YAML 和 TOML 文件的快速、轻量级文本编辑器。使用 Rust 和 egui 构建，提供原生响应式体验。查看 AlternativeTo 铁氧体替代品]]></description>
+      <guid>https://alternativeto.net/software/ferrite/about/</guid>
+      <pubDate>Sun, 25 Jan 2026 01:54:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>魔法之路</title>
+      <link>https://alternativeto.net/software/magicpath/about/</link>
+      <description><![CDATA[基于 Web 的 AI 平台，用于创建和迭代 UI 组件、全页面布局和代码支持的交互式原型，并支持 Figma 导入。查看 AlternativeTo MagicPath Alternatives]]></description>
+      <guid>https://alternativeto.net/software/magicpath/about/</guid>
+      <pubDate>Sun, 25 Jan 2026 01:54:51 GMT</pubDate>
+    </item>
     <item>
       <title>名册 HTTP 客户端</title>
       <link>https://alternativeto.net/software/roster-http-client/about/</link>
       <description><![CDATA[带有 GTK 4 UI 的 GNOME 现代 HTTP 客户端，支持 GET/POST/PUT/DELETE、自定义标头、安全环境变量、项目、请求历史记录、cURL 导出和语法突出显示。在 AlternativeTo 上查看Roster HTTP 客户端替代方案]]></description>
       <guid>https://alternativeto.net/software/roster-http-client/about/</guid>
-      <pubDate>Sat, 24 Jan 2026 12:40:33 GMT</pubDate>
+      <pubDate>Sun, 25 Jan 2026 01:54:51 GMT</pubDate>
     </item>
     <item>
       <title>微调</title>
       <link>https://alternativeto.net/software/finetune-1/about/</link>
       <description><![CDATA[适用于 macOS 的菜单栏工具，支持按应用程序和按设备进行音频控制、应用程序到设备的路由、10 频段 EQ 预设、实时 VU 表、音量提升和持久设置。在 AlternativeTo 上查看FineTune 替代方案]]></description>
       <guid>https://alternativeto.net/software/finetune-1/about/</guid>
-      <pubDate>Sat, 24 Jan 2026 12:40:33 GMT</pubDate>
+      <pubDate>Sun, 25 Jan 2026 01:54:51 GMT</pubDate>
     </item>
     <item>
       <title>弗洛克斯托普</title>
       <link>https://alternativeto.net/software/floxtop/about/</link>
       <description><![CDATA[具有智能重命名功能的人工智能 Mac 文件管理器。按内容自动对文件进行排序并建议智能文件名。支持 50 多种语言。 100% 私密、离线、无需订阅。在 AlternativeTo 上查看Floxtop 替代品]]></description>
       <guid>https://alternativeto.net/software/floxtop/about/</guid>
-      <pubDate>Sat, 24 Jan 2026 12:40:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>冲浪</title>
-      <link>https://alternativeto.net/software/resurf/about/</link>
-      <description><![CDATA[将链接、注释、视觉效果等快速捕获到私人可视收件箱中，通过搜索、过滤器、PDF 查看和键盘导航进行整理。在 AlternativeTo 上查看Resurf Alternatives]]></description>
-      <guid>https://alternativeto.net/software/resurf/about/</guid>
-      <pubDate>Sat, 24 Jan 2026 12:40:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>葛莱恩</title>
-      <link>https://alternativeto.net/software/glean-2/about/</link>
-      <description><![CDATA[自托管工具，用于在无干扰的视图中阅读 RSS 和 Atom 提要，具有多级文件夹、标签、自动过滤、稍后阅读选项和 15 分钟后台同步。在 AlternativeTo 上查看Glean 替代方案]]></description>
-      <guid>https://alternativeto.net/software/glean-2/about/</guid>
-      <pubDate>Sat, 24 Jan 2026 12:40:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 翻译</title>
-      <link>https://alternativeto.net/software/chatgpt-translate/about/</link>
-      <description><![CDATA[ChatGPT Translate 是一款基于网络的工具，可即时检测语言并为文本输入提供人工智能驱动的无缝翻译。查看 AlternativeTo ChatGPT Translate替代方案]]></description>
-      <guid>https://alternativeto.net/software/chatgpt-translate/about/</guid>
-      <pubDate>Sat, 24 Jan 2026 12:40:33 GMT</pubDate>
+      <pubDate>Sun, 25 Jan 2026 01:54:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
