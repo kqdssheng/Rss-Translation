@@ -4,48 +4,48 @@
     <title>新版本 – AlternativeTo.net</title>
     <link>https://alternativeto.net/releases/all</link>
     <description>最新软件添加到 AlternativeTo</description>
-    <lastBuildDate>Sun, 25 Jan 2026 12:42:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 01:54:54 GMT</lastBuildDate>
+    <item>
+      <title>福斯福洛</title>
+      <link>https://alternativeto.net/software/fossflow/about/</link>
+      <description><![CDATA[用于 3D 风格等距图绘制的开源 PWA，具有离线模式、基于 React 的引擎、自动保存、通过本地存储实现隐私以及 Docker 服务器选项。查看 AlternativeTo FossFLOW替代方案]]></description>
+      <guid>https://alternativeto.net/software/fossflow/about/</guid>
+      <pubDate>Mon, 26 Jan 2026 01:53:34 GMT</pubDate>
+    </item>
     <item>
       <title>离合器</title>
       <link>https://alternativeto.net/software/clawdbot/about/</link>
-      <description><![CDATA[在本地运行的个人人工智能助理，支持流行的聊天应用程序、附加频道、多操作系统语音和听力以及实时用户管理的 Canvas。查看 AlternativeTo Clawdbot 替代品]]></description>
+      <description><![CDATA[在本地运行的个人人工智能助理，支持流行的聊天应用程序、附加频道、多操作系统语音和听力以及实时用户管理的 Canvas。查看 AlternativeTo Clawdbot 替代方案]]></description>
       <guid>https://alternativeto.net/software/clawdbot/about/</guid>
-      <pubDate>Sun, 25 Jan 2026 12:41:57 GMT</pubDate>
+      <pubDate>Mon, 26 Jan 2026 01:53:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>牡蛎</title>
+      <link>https://alternativeto.net/software/witr/about/</link>
+      <description><![CDATA[一个命令行诊断工具，它解释进程运行的原因，而不仅仅是解释它的存在。支持跨平台分析，详细说明起源、背景、监管来源和风险信号。查看AlternativeTo＆raquo;witr Alternatives]]></description>
+      <guid>https://alternativeto.net/software/witr/about/</guid>
+      <pubDate>Mon, 26 Jan 2026 01:53:34 GMT</pubDate>
     </item>
     <item>
       <title>铁氧体</title>
       <link>https://alternativeto.net/software/ferrite/about/</link>
-      <description><![CDATA[用于 Markdown、JSON、YAML 和 TOML 文件的快速、轻量级文本编辑器。使用 Rust 和 egui 构建，提供原生响应式体验。查看 AlternativeTo 铁氧体替代品]]></description>
+      <description><![CDATA[快速的本机编辑器，具有 Markdown 实时预览、语法突出显示、美人鱼图渲染、多种视图模式、CSV/TSV 查看器、Git 和工作区支持。查看 AlternativeTo 铁氧体替代品]]></description>
       <guid>https://alternativeto.net/software/ferrite/about/</guid>
-      <pubDate>Sun, 25 Jan 2026 12:41:57 GMT</pubDate>
+      <pubDate>Mon, 26 Jan 2026 01:53:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>港口杀手</title>
+      <link>https://alternativeto.net/software/portkiller/about/</link>
+      <description><![CDATA[跨平台端口管理工具，用于识别侦听端口、管理 Kubernetes 转发、处理 Cloudflare 隧道以及立即终止进程。查看 AlternativeTo PortKiller 替代方案]]></description>
+      <guid>https://alternativeto.net/software/portkiller/about/</guid>
+      <pubDate>Mon, 26 Jan 2026 01:53:34 GMT</pubDate>
     </item>
     <item>
       <title>魔法之路</title>
       <link>https://alternativeto.net/software/magicpath/about/</link>
       <description><![CDATA[基于 Web 的 AI 平台，用于创建和迭代 UI 组件、全页面布局和代码支持的交互式原型，并支持 Figma 导入。查看 AlternativeTo MagicPath Alternatives]]></description>
       <guid>https://alternativeto.net/software/magicpath/about/</guid>
-      <pubDate>Sun, 25 Jan 2026 12:41:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>名册 HTTP 客户端</title>
-      <link>https://alternativeto.net/software/roster-http-client/about/</link>
-      <description><![CDATA[带有 GTK 4 UI 的 GNOME 现代 HTTP 客户端，支持 GET/POST/PUT/DELETE、自定义标头、安全环境变量、项目、请求历史记录、cURL 导出和语法突出显示。在 AlternativeTo 上查看Roster HTTP 客户端替代方案]]></description>
-      <guid>https://alternativeto.net/software/roster-http-client/about/</guid>
-      <pubDate>Sun, 25 Jan 2026 12:41:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>微调</title>
-      <link>https://alternativeto.net/software/finetune-1/about/</link>
-      <description><![CDATA[适用于 macOS 的菜单栏工具，支持按应用程序和按设备进行音频控制、应用程序到设备的路由、10 频段 EQ 预设、实时 VU 表、音量提升和持久设置。在 AlternativeTo 上查看FineTune 替代方案]]></description>
-      <guid>https://alternativeto.net/software/finetune-1/about/</guid>
-      <pubDate>Sun, 25 Jan 2026 12:41:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>弗洛克斯托普</title>
-      <link>https://alternativeto.net/software/floxtop/about/</link>
-      <description><![CDATA[具有智能重命名功能的人工智能 Mac 文件管理器。按内容自动对文件进行排序并建议智能文件名。支持 50 多种语言。 100% 私密、离线、无需订阅。在 AlternativeTo 上查看Floxtop 替代方案]]></description>
-      <guid>https://alternativeto.net/software/floxtop/about/</guid>
-      <pubDate>Sun, 25 Jan 2026 12:41:57 GMT</pubDate>
+      <pubDate>Mon, 26 Jan 2026 01:53:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
