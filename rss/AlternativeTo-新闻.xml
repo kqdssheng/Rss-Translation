@@ -4,7 +4,39 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Tue, 27 Jan 2026 01:51:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 12:51:10 GMT</lastBuildDate>
+    <item>
+      <title>MapLibre 推出 MapLibre Tile (MLT)，这是一种新的现代高效矢量切片格式</title>
+      <link>https://alternativeto.net/news/2026/1/maplibre-introduces-maplibre-tile-mlt--a-new-modern-and-efficient-vector-tile-format/</link>
+      <description><![CDATA[MapLibre 推出了 MapLibre Tile (MLT)，这是一种适用于 Web 和移动地图应用程序的新型开源矢量切片格式。 MLT 定位为 Mapbox Vector Tile (MVT) 的后继者，经过重新设计，可以解决地理空间数据量和复杂性迅速增加的问题，同时利用最新的图形 API 和硬件功能。
+基于这些基础，MLT 专为现代和下一代图形 API 量身定制，支持行星规模 2D 和 2.5D 底图的高性能渲染和处理。初始实现与 MVT1 的功能集相匹配，允许立即集成到现有工作流程中。
+压缩和性能是突出的改进：MLT 通过采用面向列的布局和自定义的轻量级编码，在大型图块上实现了高达六倍的压缩比改进。此设计降低了延迟、存储和出口成本，并提高了缓存效率。通过与单指令、多数据 (SIMD) 和其他矢量化指令兼容的快速编码，解码性能也得到了增强。
+展望未来，MLT 引入了未来增强功能的架构规定，包括对 3D 坐标的本机支持、CPU 和 GPU 的优化处理、线性参考和复杂的数据结构。这些变化使 MLT 与新兴地图技术和行业标准（例如 Overture Maps 和 GeoParquet）保持一致。开发人员可以立即开始尝试 MLT，因为 MapLibre GL JS 和 MapLibre Native 都已经支持新格式。
+查看有关 AlternativeTo 的文章更多信息MapLibre | MapLibre 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/1/maplibre-introduces-maplibre-tile-mlt--a-new-modern-and-efficient-vector-tile-format/</guid>
+      <pubDate>Tue, 27 Jan 2026 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿里巴巴推出Qwen3-Max-Thinking 与GPT 5.2等顶级人工智能推理模型竞争</title>
+      <link>https://alternativeto.net/news/2026/1/alibaba-unveils-qwen3-max-thinking-to-compete-with-top-ai-reasoning-models-like-gpt-5-2/</link>
+      <description><![CDATA[阿里巴巴发布了迄今为止最强大的推理人工智能模型Qwen3-Max-Thinking。在 19 个广泛认可的基准测试中，Qwen3-Max-Thinking 的性能可与领先模型相媲美，包括 GPT 5.2-Thinking、克劳德 Opus 4.5 和 Gemini 3 Pro。
+为了取得这些成果，Qwen3-Max-Thinking 得益于扩展的模型扩展和大量强化学习资源的应用。这些进步提高了模型的事实准确性、复杂推理能力、指令遵循、与人类偏好的一致性以及对基于代理的任务的支持。
+在这些改进的基础上，Qwen3-Max-Thinking 引入了自适应工具使用功能，使其能够触发检索操作并根据需要调用代码解释器。这项创新提高了其对复杂工作流程的实用性。该模型还实现了先进的测试时间缩放方法，导致在关键任务上的推理性能超越了 Gemini 3 Pro。
+Qwen3-Max-Thinking 现在可以在 Qwen Chat 中或通过 API 进行访问，使开发人员和最终用户能够立即利用其扩展功能。
+查看有关 AlternativeTo 的文章更多信息Qwen | Qwen 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/alibaba-unveils-qwen3-max-thinking-to-compete-with-top-ai-reasoning-models-like-gpt-5-2/</guid>
+      <pubDate>Tue, 27 Jan 2026 08:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Godot 4.6 首次推出现代主题、Jolt 物理、节点 ID 和 LibGodot 嵌入</title>
+      <link>https://alternativeto.net/news/2026/1/godot-4-6-debuts-modern-theme-jolt-physics-node-ids-and-libgodot-embed/</link>
+      <description><![CDATA[Godot 4.6 已发布，带来了一个新的开发阶段，专注于完善、生活质量改善、与行业标准更加一致以及更强的性能优化。编辑器现在默认使用 Modern 主题，基于以前的 Godot Minimal 主题，并更新了对比度、间距和可读性，以减少视觉混乱和颜色偏差。经典主题在编辑器设置中仍然可用。
+编辑器工作流程通过统一的停靠系统进行了进一步更新，允许底部面板像常规停靠点一样运行，并在编辑器边缘之间移动，许多停靠点现在可浮动以进行多显示器设置。 Jolt 物理现在是新 3D 项目的默认引擎，而现有项目将保留其当前配置，除非手动更改。 Godot 4.6 还引入了一个以 IKModifier3D 为中心的新逆向运动学框架，添加了确定性和迭代求解器以实现更高级的动画和约束设置。
+渲染和项目结构改进包括对屏幕空间反射的重大修改，提高全分辨率和半分辨率模式的真实感、稳定性和效率。节点现在使用唯一的内部 ID 在重命名或场景重组期间保持引用完整，并建议场景升级。该版本还引入了 LibGodot，允许引擎作为库嵌入到 Linux、Windows 和 macOS 上。
+查看有关 AlternativeTo 的文章有关 Godot 的更多信息引擎 | Godot 引擎替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/godot-4-6-debuts-modern-theme-jolt-physics-node-ids-and-libgodot-embed/</guid>
+      <pubDate>Tue, 27 Jan 2026 04:46:16 GMT</pubDate>
+    </item>
     <item>
       <title>DietPi 10.10 放弃 Debian 11，添加 Uptime Kuma 和 ownCloud Infinite Scale 等</title>
       <link>https://alternativeto.net/news/2026/1/dietpi-10-10-drops-debian-11-adds-uptime-kuma-and-owncloud-infinite-scale-and-more/</link>
@@ -118,37 +150,6 @@ Figma Connect 可以导入框架、组件或单个元素，它适用于小型 UI
 查看有关 AlternativeTo 的文章更多信息MagicPath | MagicPath 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/1/ai-prototyping-tool-magicpath-launches-new-figma-import-tool-with-full-visual-fidelity/</guid>
       <pubDate>Sat, 24 Jan 2026 13:08:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Swift 跨平台框架 Skip 现已免费开源，已取消许可</title>
-      <link>https://alternativeto.net/news/2026/1/swift-cross-platform-framework-skip-is-now-free-and-open-source-with-licensing-removed/</link>
-      <description><![CDATA[Skip 是一款跨平台开发工具，通过单一 Swift 和 SwiftUI 代码库面向 iOS 和 Android，最近宣布它现在是免费且完全开源的。从版本 1.7 开始，Skip 删除了所有许可要求，包括许可证密钥、最终用户协议和任何评估期。现有用户无需更改设置即可升级，新用户可以立即开始构建。
-Skip 还在 Skiptools 组织下在 GitHub 上开源了其核心引擎 Skipstone。 Skipstone 处理构建时功能，例如项目创建和管理、Xcode 和 Swift 包管理器插件逻辑、iOS 到 Android 项目转换、资源和本地化捆绑、JNI 桥创建、源代码转译、应用程序打包和项目导出。
-Skip 表示，它现在与数十个框架集成，与数千个跨平台 Swift 包互操作，并包含自己的 SwiftUI 实现。该项目从 Swift 到 Kotlin 转译器开始，并扩展到 Swift Android 工作组以及用于在 Android 上本地编译 Swift 的 Android SDK。 Skip 还将其文档和网站从 Skip.tools 迁移到开源 skip.dev，并鼓励通过 GitHub 赞助商或企业赞助提供持续支持。
-查看有关 AlternativeTo 的文章更多信息跳过 | 跳过替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/1/swift-cross-platform-framework-skip-is-now-free-and-open-source-with-licensing-removed/</guid>
-      <pubDate>Sat, 24 Jan 2026 12:14:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>WinDirStat 2.5 添加了深色模式、NTFS MFT 扫描、改进的搜索和新的文件操作</title>
-      <link>https://alternativeto.net/news/2026/1/windirstat-2-5-adds-dark-mode-ntfs-mft-scanning-improved-search-and-new-file-actions/</link>
-      <description><![CDATA[WinDirStat 2.5 提供了多项重要功能，首先是添加了深色模式以改善视觉体验。继这些界面增强之后，NTFS（新技术文件系统）主文件表的直接扫描和硬链接跟踪为高级用户提供了更深入的分析功能。
-基于这些核心更新，用户现在可以搜索扫描结果、使用扩展菜单中的自动搜索选项以及在 WinDirStat 中移动文件。该应用程序还添加了计算和显示文件哈希值以及将重复文件列表导出为 CSV 格式的工具。长时间运行任务的进度对话框以及需要提升时的提示使工作流程更加清晰。
-对于高级用户，此版本带来了以前的文件夹跟踪历史记录、扩展的命令行扫描选项和新的键盘快捷键。集成改进现在允许 WinDirStat 启动程序和功能小程序、优化虚拟硬盘文件以及直接从应用程序内切换资源管理器上下文菜单。
-其他更改包括 DISM（部署映像服务和管理）分析功能、DPI（每英寸点数）感知增强以及带有二进制前缀的卷显示。此更新添加了瑞典语、日语和土耳其语支持、各种翻译改进以及一般性能优化以及错误修复。 WinDirStat 2.5 还删除了对 Windows 7、Windows Server 2008 R2 和 ARM 32 位版本的支持。
-查看有关 AlternativeTo 的文章更多信息WinDirStat | WinDirStat 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/windirstat-2-5-adds-dark-mode-ntfs-mft-scanning-improved-search-and-new-file-actions/</guid>
-      <pubDate>Sat, 24 Jan 2026 12:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软已使 Xbox 应用程序与基于 ARM 的 Windows 11 PC 兼容</title>
-      <link>https://alternativeto.net/news/2026/1/microsoft-has-made-the-xbox-app-compatible-with-arm-based-windows-11-pcs/</link>
-      <description><![CDATA[Xbox 应用已针对所有基于 ARM 的 Windows 11 电脑推出，让用户可以在下一代设备上立即访问 Microsoft 的游戏平台。在此版本发布后，超过 85% 的 Game Pass 目录现已兼容在基于 ARM 的系统上下载和玩，从而拓宽了玩家的游戏选择范围。
-虽然本机支持有所扩展，但 Xbox 云游戏仍然适用于 ARM 硬件尚不支持的游戏。该服务允许玩家访问其他游戏，同时微软及其合作伙伴致力于提高本地兼容性。 Prism 是适用于 x86 和 x64 应用程序的 ARM 模拟器，现在增加了对高级矢量扩展（AVX 和 AVX2）的支持，有助于进一步扩大可在这些设备上运行的现代游戏的范围。
-此外，需要Epic Anti-Cheat的游戏，包括热门版本，例如战争机器：重装上阵和Fortnite 现已在基于 ARM 的 PC 上受支持。基于这些技术改进，Windows Performance Fit 为用户提供了特定于硬件的指导，帮助他们决定哪些游戏应该提供良好的游戏体验。 Microsoft 将继续与合作伙伴合作，未来为 ARM 设备带来更多游戏。
-查看有关 AlternativeTo 的文章有关 Xbox 的更多信息应用 | Xbox 应用替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/microsoft-has-made-the-xbox-app-compatible-with-arm-based-windows-11-pcs/</guid>
-      <pubDate>Fri, 23 Jan 2026 20:05:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
