@@ -4,7 +4,49 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Mon, 26 Jan 2026 12:49:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 01:51:43 GMT</lastBuildDate>
+    <item>
+      <title>DietPi 10.10 放弃 Debian 11，添加 Uptime Kuma 和 ownCloud Infinite Scale 等</title>
+      <link>https://alternativeto.net/news/2026/1/dietpi-10-10-drops-debian-11-adds-uptime-kuma-and-owncloud-infinite-scale-and-more/</link>
+      <description><![CDATA[DietPi 10.10 已经推出，是这款轻量级、基于 Debian 的 Linux 发行版的最新版本，面向单板计算机。通过此更新，DietPi 将其最低支持的 Debian 版本提高到 12“Bookworm”，停止对 Debian 11“Bullseye”的支持。因此，由于供应商内核老化，包括 Sparky SBC、NanoPi M2/T2/Fire2 和 NanoPi M3/T3/Fire3 在内的多个单板计算机系列不再受支持。现在直接升级到 DietPi 版本 10 至少需要 DietPi 8.0 作为起始版本。
+除了核心系统更改之外，DietPi 10.10 还引入了两个新的预装软件产品：Uptime Kuma（开源、自托管的正常运行时间监控解决方案）和 ownCloud Infinite Scale（经典 ownCloud 文件同步和共享平台的现代替代品）。删除 Debian 11 支持后，许多旧版软件包也被弃用，包括 RPi Cam Web Interface、经典 ownCloud 和经典 Pydio 8。
+基于这些核心更新，DietPi 现在作为“其他通用操作系统”下的“Raspberry Pi Imager”中的可选选项出现，支持所有“Raspberry Pi”设备。 Rocket NPU 驱动程序现已支持 Quartz64 板系列。对于在 Debian “Trixie” 或更高版本上运行 Nginx 的用户，HTTP/2 语法已修订，并且现已启用带有 QUIC 的 HTTP/3。 DietPi 10.10 还提供了八个错误修复、代码优化以及多项视觉和拼写改进。
+查看有关 AlternativeTo 的文章更多信息DietPi | DietPi 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/dietpi-10-10-drops-debian-11-adds-uptime-kuma-and-owncloud-infinite-scale-and-more/</guid>
+      <pubDate>Mon, 26 Jan 2026 15:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌通过 Gmail 和照片集成将“个人智能”引入搜索的 AI 模式</title>
+      <link>https://alternativeto.net/news/2026/1/google-brings-personal-intelligence-to-search-s-ai-mode-with-gmail-and-photos-integration/</link>
+      <description><![CDATA[Google 已将其“个人智能”系统扩展到 Google 搜索中的 AI 模式，通过跨 Google 应用集成数据来增强个性化体验。从今天开始，符合条件的 Google AI Pro 和 Ultra 订阅者可以选择将其 Gmail 和 Google 相册 帐户与 AI 模式安全连接。这种集成使搜索工具能够参考个人背景和见解，提供更符合个人需求的响应。
+在这些增强功能的基础上，个人智能现在可以根据用户的独特偏好和习惯定制推荐，无需反复澄清喜好或计划。对于购物，人工智能模式会考虑之前的购买情况和最喜欢的零售商来完善建议。
+将 Gmail 或 Google Photos 连接到 AI 模式是严格选择加入的，并且可以随时禁用。 Google 指定 Gemini 3 为这种体验提供支持，但不会直接根据用户 Gmail 收件箱或照片库中的内容进行训练。相反，训练使用有限的数据（例如特定的 AI 模式提示和响应）来进一步改进功能。
+目前，此实验室功能正在向拥有符合资格计划的个人 Google 帐户的美国客户推出。 Workspace 商业、企业和教育帐户不包括在此次首次发布中。
+查看有关 AlternativeTo 的文章有关 Google 的更多信息搜索 | Google 搜索替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/1/google-brings-personal-intelligence-to-search-s-ai-mode-with-gmail-and-photos-integration/</guid>
+      <pubDate>Mon, 26 Jan 2026 13:42:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>F-Droid Basic 2.0 alpha 首次亮相，重写了 UI、更好的搜索和改进的应用程序发现</title>
+      <link>https://alternativeto.net/news/2026/1/f-droid-basic-2-0-alpha-debuts-with-rewritten-ui-better-search-and-improved-app-discovery/</link>
+      <description><![CDATA[F-Droid 经过一年的努力彻底改革开源 Android 应用商店，现已发布其现代化 2.0 应用程序的第一个 alpha 版本。新的用户界面是使用 Kotlin Compose 从头开始构建的，旨在提高可用性和现代设计标准。
+此初始版本仅限于 F-Droid Basic，而完整的功能集仍在开发中。在这些改进中，搜索功能现在允许在应用程序描述和翻译中进行查询，并且下载最多的应用程序会突出显示以帮助发现。
+基于工作流程增强功能，现在在下载之前需要安装批准，并且多个更新或下载可以并行进行。该应用程序还将提醒用户注意应用程序签名密钥更改等问题。为了进一步增强自定义功能，用户可以切换到 Material You 颜色主题，并受益于应用列表中改进的过滤功能。
+虽然这些更新标志着明显的进步，但仍有一些功能缺失，例如 IPFS 网关支持、屏幕截图防护、首选外部镜像的能力、DNS 缓存和安装历史记录。用户还应该注意当前的问题：某些安装需要确认两次，更新通知可能并不总是打开正确的屏幕，并且有时正在进行的安装通知在某些设备上不会清除。尽管存在这些差距，但 alpha 被认为对于“喜欢冒险”的测试人员日常使用来说是稳定的。
+查看有关 AlternativeTo 的文章更多信息F-Droid | F-Droid 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/f-droid-basic-2-0-alpha-debuts-with-rewritten-ui-better-search-and-improved-app-discovery/</guid>
+      <pubDate>Mon, 26 Jan 2026 12:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌相册推出Me Meme AI功能，将自己变成个性化的搞笑表情包</title>
+      <link>https://alternativeto.net/news/2026/1/google-photos-rolls-out-me-meme-ai-feature-to-turn-yourself-into-personalized-funny-memes/</link>
+      <description><![CDATA[Google 相册正在添加一款创意新工具，推出了Me Meme，这是一项人工智能驱动的功能，允许用户将个人照片变成表情包。 Me Meme 利用生成人工智能帮助用户快速创建有趣的个性化图像，并可以轻松与朋友和家人分享。
+发布后，用户可以选择预设的表情包模板，也可以上传自己的幽默图片作为表情包的基础。首先，用户只需选择一张照片并点击生成按钮即可创建他们的表情包。那些第一次尝试 Me Meme 的人将会看到一个简短的介绍屏幕，其中解释了该功能的流程和功能。
+这项新功能目前正在向美国的 Google 相册用户推出，让广大受众都能使用它。虽然首次访问包括入门屏幕，但所有用户都可以从直观的模板选择和模因生成选项中受益，从而简化从个人照片创建可共享内容的过程。
+查看有关 AlternativeTo 的文章有关 Google 的更多信息照片 | Google 相册替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/1/google-photos-rolls-out-me-meme-ai-feature-to-turn-yourself-into-personalized-funny-memes/</guid>
+      <pubDate>Mon, 26 Jan 2026 10:31:00 GMT</pubDate>
+    </item>
     <item>
       <title>Ollama 首次推出“ollama launch”，可使用本地或云模型运行编码工具</title>
       <link>https://alternativeto.net/news/2026/1/ollama-debuts-ollama-launch-to-run-coding-tools-with-local-or-cloud-models/</link>
@@ -107,43 +149,6 @@ Skip 表示，它现在与数十个框架集成，与数千个跨平台 Swift �
 查看有关 AlternativeTo 的文章有关 Xbox 的更多信息应用 | Xbox 应用替代品]]></description>
       <guid>https://alternativeto.net/news/2026/1/microsoft-has-made-the-xbox-app-compatible-with-arm-based-windows-11-pcs/</guid>
       <pubDate>Fri, 23 Jan 2026 20:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软推出 winapp，一个简化 Windows 应用程序开发的命令行实用程序</title>
-      <link>https://alternativeto.net/news/2026/1/microsoft-launches-winapp-a-command-line-utility-to-simplify-windows-app-development/</link>
-      <description><![CDATA[Microsoft 发布了 Windows 应用程序开发 CLI 或 winapp 的公共预览版，这是一个旨在简化 Windows 应用程序开发的开源命令行界面。这个新工具旨在帮助开发人员通过减少重复的设置和打包任务，在 Visual Studio 或 MSBuild 之外使用跨平台框架或工具链。
-虽然 Windows 开发通常需要兼顾 SDK 管理、清单创建和证书生成，但 winapp CLI 力求统一这些流程。无论选择何种开发环境，CLI 都可以直接访问现代 Windows API，例如 Windows AI、安全性和 shell 集成。
-winapp CLI 专注于工作流程效率，支持使用 init 命令进行项目引导。此单一步骤将下载所需的软件开发套件 (SDK)、生成代码投影并配置项目以实现快速启动。开发人员还可以通过一个命令将包标识添加到可执行文件，从而允许对依赖于包标识的功能进行无缝测试和调试。
-此外，winapp CLI 可自动创建有效的 appxmanifest.xml 并颁发可信的开发证书，从而解决常见的合规性障碍。准备发布时，该工具可以将应用程序打包并签名为 MSIX，以便 Microsoft Store 提交或旁加载，从而简化分发。 Windows 应用程序开发 CLI 现已以预览版公开发布。
-查看有关 AlternativeTo 的文章有关更多信息WinApp | WinApp 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/microsoft-launches-winapp-a-command-line-utility-to-simplify-windows-app-development/</guid>
-      <pubDate>Fri, 23 Jan 2026 16:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ktor 3.4.0：本机 OpenAPI、双工流、Zstd 压缩等</title>
-      <link>https://alternativeto.net/news/2026/1/ktor-3-4-0-native-openapi-duplex-streaming-zstd-compression-and-more/</link>
-      <description><![CDATA[Ktor 3.4.0 通过新的 API 和编译器插件引入了本机 OpenAPI 生成，从而支持动态、代码驱动的文档。 OkHttp 客户端现在支持 HTTP/2 连接的双工流，从而允许双向数据传输。还添加了 Zstd 压缩支持，通过可配置设置提高服务器性能。
-其他功能包括用于结构化并发的插件，如果客户端断开连接，该插件会取消正在进行的 HTTP 请求。
-查看有关 AlternativeTo 的文章更多信息Ktor | Ktor 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/ktor-3-4-0-native-openapi-duplex-streaming-zstd-compression-and-more/</guid>
-      <pubDate>Fri, 23 Jan 2026 15:37:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scala 3.8 需要 JDK 17，标准库现在使用 Scala 3 构建</title>
-      <link>https://alternativeto.net/news/2026/1/scala-3-8-requires-jdk-17-standard-library-now-built-with-scala-3/</link>
-      <description><![CDATA[Scala 3.8 已发布，提供了重大的生态系统更新，并为 Scala 3.9 LTS 铺平了道路。现在，所有编译和执行都需要 JDK 17 或更高版本。标准库是使用 Scala 3 本身编译的，标志着生态系统的一个重要技术里程碑。 Scala REPL 作为单独的工件进行分发，因此使用 REPL 的项目必须添加显式依赖项。
-Better Fors 和 runtimeChecked 等语言功能已经稳定，并且有一些实验功能可供测试。
-查看有关 AlternativeTo 的文章更多有关Scala | Scala 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/scala-3-8-requires-jdk-17-standard-library-now-built-with-scala-3/</guid>
-      <pubDate>Fri, 23 Jan 2026 15:31:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ghost 推出高级过滤器和 UTM 支持流量分析</title>
-      <link>https://alternativeto.net/news/2026/1/ghost-launches-advanced-filters-and-utm-support-to-traffic-analytics/</link>
-      <description><![CDATA[Ghost推出了用于网络流量分析的新过滤系统，允许用户搜索和组合多个过滤器以进行更深入的数据探索。现在，Ghost 中完全支持并可搜索 UTM 参数，从而简化了营销绩效分析。位置数据也集成到分析仪表板中，并且可以与其他数据点一起进行过滤。
-查看有关 AlternativeTo 的文章有关 Ghost 的更多信息 | 幽灵替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/ghost-launches-advanced-filters-and-utm-support-to-traffic-analytics/</guid>
-      <pubDate>Fri, 23 Jan 2026 15:24:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
