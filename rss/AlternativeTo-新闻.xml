@@ -4,7 +4,57 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Wed, 28 Jan 2026 01:48:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 12:51:27 GMT</lastBuildDate>
+    <item>
+      <title>WordPress Studio 1.7 通过本地站点管理、身份验证等增强了 CLI</title>
+      <link>https://alternativeto.net/news/2026/1/wordpress-studio-1-7-enhances-the-cli-with-local-site-management-authentification-and-more/</link>
+      <description><![CDATA[WordPress 宣布发布 WordPress Studio 版本 1.7，为这一免费开源解决方案提供重大更新，适用于 Mac 和 Windows 上的本地 WordPress 开发。此更新的重点是对命令行界面 (CLI) 的重大改进，带来了四个可简化开发工作流程的关键增强功能。
+借助 WordPress Studio 1.7，开发人员现在可以从终端完全管理本地站点。 CLI 允许用户创建新站点、监视其状态、启动或停止它们以及直接从命令行进行清理。在此基础上，添加了专用的 |studio auth 命令，无需离开终端环境即可管理需要身份验证的功能。
+随后，更新后的 CLI 引入了用于处理预览站点的强大新工具。这些预览站点是远程托管的临时、可共享的 WordPress 环境，现在可以完全通过新的命令行选项进行管理。此外，WP-CLI 现在通过新的 studio wp 命令进行集成，无需单独安装和配置 WP-CLI。
+值得注意的是，改进的 CLI 旨在与使用 Claude Code 和 Cursor 等工具的 AI 辅助开发工作流程顺利配合。这些代理可以读取项目代码并在本地环境中执行命令，支持高级自动化。此更新增强了 WordPress Studio 日常开发任务的脚本能力和自动化潜力。
+查看有关 AlternativeTo 的文章有关 WordPress 的更多信息Studio | WordPress Studio 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/1/wordpress-studio-1-7-enhances-the-cli-with-local-site-management-authentification-and-more/</guid>
+      <pubDate>Wed, 28 Jan 2026 12:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp 推出高级安全模式，保护用户免受高级网络攻击</title>
+      <link>https://alternativeto.net/news/2026/1/whatsapp-introduces-an-advanced-security-mode-to-protect-users-from-advanced-cyberattacks/</link>
+      <description><![CDATA[Meta 宣布在 WhatsApp 上推出严格帐户设置，这是一项新的锁定式功能，旨在保护帐户免受高度复杂的网络攻击。此添加旨在通过允许用户只需点击几下即可激活额外的保护来提高安全性。
+启用“严格帐户设置”后，WhatsApp 会自动将帐户锁定到最严格的状态。该应用程序将阻止来自未知发件人的附件和媒体，静音来自不在您的联系人中的人员的呼叫，并应用可能限制应用程序功能的其他限制。这些更改有助于在风险较高的情况下保护用户，特别是当攻击者使用高级社会工程策略时。
+您可以通过导航至 WhatsApp 设置、打开隐私并选择高级部分来激活严格帐户设置。虽然这些保护措施可能会限制某些便利性，但特别建议面临更多威胁的用户（例如记者或公众人物）使用它们。此功能将在未来几周内开始推出。
+查看有关 AlternativeTo 的文章更多信息WhatsApp | WhatsApp 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/whatsapp-introduces-an-advanced-security-mode-to-protect-users-from-advanced-cyberattacks/</guid>
+      <pubDate>Wed, 28 Jan 2026 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 推出 Prism，这是一个用于协作科学研究和写作的新 AI 工作区</title>
+      <link>https://alternativeto.net/news/2026/1/openai-unveils-prism-a-new-ai-workspace-for-collaborative-sicentific-research-and-writing/</link>
+      <description><![CDATA[OpenAI 推出了 Prism，这是一个为科学家和研究人员提供的人工智能原生工作空间，可将起草、修订、协作和出版物准备工作带入一个基于云、以 LaTeX 为中心的环境中。 Prism 由最新的 GPT-5.2 语言模型提供支持，利用论文、方程、参考文献和项目上下文的结构，直接集成到写作工作流程中。
+今天，任何拥有 ChatGPT 个人帐户的人都可以免费使用 Prism。用户可以启动无限的项目，邀请无限的合作者，并且没有订阅或席位限制。这些用户访问选项旨在简化研究工作流程并使协作科学写作得到广泛应用。
+虽然个人研究人员可以立即开始使用该工具，但使用 ChatGPT 商业、企业和教育计划的组织将很快获得 Prism 访问权限。遵循其产品谱系，Prism 从 Crixet 发展而来，这是 OpenAI 之前收购的基于云的 LaTeX 平台，现在经过重新开发后统一到 Prism。这段历史支撑了 Prism 专门关注 LaTeX 原生环境中的科学协作。
+查看有关 AlternativeTo 的文章有关 OpenAI 的更多信息Prism | OpenAI Prism 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/openai-unveils-prism-a-new-ai-workspace-for-collaborative-sicentific-research-and-writing/</guid>
+      <pubDate>Wed, 28 Jan 2026 08:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google AI Plus 扩展到另外 35 个国家/地区并增加了功能</title>
+      <link>https://alternativeto.net/news/2026/1/google-ai-plus-expands-to-35-more-countries-with-added-features/</link>
+      <description><![CDATA[Google AI Plus 现已在 35 个新国家和地区推出，与现有 Google AI 计划的覆盖范围相匹配。该服务包括增强对 Gemini 应用和 Nano Banana Pro 和 Veo 3.1 的访问权限href=&quot;https://alternativeto.net/software/google-flow/about/&quot;&gt;Flow by Google，以及对 NotebookLM 的扩展访问权限。订阅者还可以获得 200 GB 的存储空间，最多可与五个家庭成员共享。
+这些地区当前的 Google One Premium 2 TB 用户将在未来几天自动获得新福利。
+查看有关 AlternativeTo 的文章详细了解 Google One | Google One 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/1/google-ai-plus-expands-to-35-more-countries-with-added-features/</guid>
+      <pubDate>Wed, 28 Jan 2026 08:29:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Anthropic 的压力下，流行的开源 AI 代理 Clawdbot 更名为 Moltbot</title>
+      <link>https://alternativeto.net/news/2026/1/trending-open-source-ai-agent-clawdbot-rebrands-to-moltbot-after-pressure-from-anthropic/</link>
+      <description><![CDATA[Clawdbot，最近病毒式传播的 AI 代理（特别是在 X 上）似乎本周每个人都在谈论，它已被迫更改由于名字与 Claude 相似，面临 Anthropic 的压力，其名称为 Moltbot。
+该项目的快速发展带来了很高的知名度，创始人 Peter Steinberger 表示，Anthropic 出于商标方面的考虑而要求做出改变。品牌重塑已在 GitHub 和网络上上线，clawd.bot 被 molt.bot 取代，吉祥物从 Clawd 重命名为 Molty，同时保留龙虾主题。
+如果您不熟悉，Moltbot（以前称为 Clawdbot）是一款免费的开源 AI 助手，您可以通过 WhatsApp 或 Telegram 等消息应用自行托管和控制。它旨在从您的系统中执行操作，而不仅仅是聊天，具有回复电子邮件、管理日历、筛选电话以及在最少提示的情况下进行预订等功能。 一些用户甚至购买 Mac mini 只是为了托管它（尽管值得注意的是，您可以在其他操作系统甚至虚拟机中执行相同的操作）。然而，值得注意的是，使用这样的代理系统会带来一些安全和隐私风险，因为要执行其中许多任务，系统需要非常敏感的访问权限，包括帐户和凭据、加密的信使访问权限、电话号码、银行帐户和您的个人文件。因此，如果您有兴趣尝试一下，AlternativeTo 建议仅在虚拟机或备用系统上进行此操作，而不是在您的主设备上进行操作。
+查看有关 AlternativeTo 的文章更多信息Moltbot | Moltbot 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/trending-open-source-ai-agent-clawdbot-rebrands-to-moltbot-after-pressure-from-anthropic/</guid>
+      <pubDate>Wed, 28 Jan 2026 06:04:06 GMT</pubDate>
+    </item>
     <item>
       <title>Heroic Games Launcher 2.19 带来了 Zoom 游戏集成、macOS 上的 DXMT 支持等</title>
       <link>https://alternativeto.net/news/2026/1/heroic-games-launcher-2-19-brings-zoom-games-integration-dxmt-support-on-macos-and-more/</link>
@@ -43,7 +93,7 @@
 基于这些基础，MLT 专为现代和下一代图形 API 量身定制，支持行星规模 2D 和 2.5D 底图的高性能渲染和处理。初始实现与 MVT1 的功能集相匹配，允许立即集成到现有工作流程中。
 压缩和性能是突出的改进：MLT 通过采用面向列的布局和自定义的轻量级编码，在大型图块上实现了高达六倍的压缩比改进。此设计降低了延迟、存储和出口成本，并提高了缓存效率。通过与单指令、多数据 (SIMD) 和其他矢量化指令兼容的快速编码，解码性能也得到了增强。
 展望未来，MLT 引入了未来增强功能的架构规定，包括对 3D 坐标的本机支持、CPU 和 GPU 的优化处理、线性参考和复杂的数据结构。这些变化使 MLT 与新兴地图技术和行业标准（例如 Overture Maps 和 GeoParquet）保持一致。开发人员可以立即开始尝试 MLT，因为 MapLibre GL JS 和 MapLibre Native 都已经支持新格式。
-查看有关 AlternativeTo 的文章更多信息MapLibre | MapLibre 替代方案]]></description>
+查看有关 AlternativeTo 的文章更多信息MapLibre | MapLibre 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/1/maplibre-introduces-maplibre-tile-mlt--a-new-modern-and-efficient-vector-tile-format/</guid>
       <pubDate>Tue, 27 Jan 2026 10:30:00 GMT</pubDate>
     </item>
@@ -109,51 +159,6 @@ Qwen3-Max-Thinking 现在可以在 Qwen Chat 中或通过 API 进行访问，使
 查看有关 AlternativeTo 的文章有关 Google 的更多信息照片 | Google 相册替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/1/google-photos-rolls-out-me-meme-ai-feature-to-turn-yourself-into-personalized-funny-memes/</guid>
       <pubDate>Mon, 26 Jan 2026 10:31:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ollama 首次推出“ollama launch”，可使用本地或云模型运行编码工具</title>
-      <link>https://alternativeto.net/news/2026/1/ollama-debuts-ollama-launch-to-run-coding-tools-with-local-or-cloud-models/</link>
-      <description><![CDATA[Ollama 发布了“ollama launch”，这是一个命令行工具，允许用户使用以下命令运行 Claude Code 和 Codex 等编码助手本地或基于云的语言模型，无需环境变量或配置文件。此更新增加了对 glm-4.7-flash 和 qwen3-coder 等本地模型以及 glm-4.7:cloud 和 gpt-oss:120b-cloud 等云模型的支持。
-编码会话现在延长至五个小时，Ollama 建议上下文长度至少为 64,000 个令牌，以获得最佳性能。
-查看有关 AlternativeTo 的文章更多信息Ollama | Ollama 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/ollama-debuts-ollama-launch-to-run-coding-tools-with-local-or-cloud-models/</guid>
-      <pubDate>Mon, 26 Jan 2026 09:31:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>GIMP 3.0.8 带来性能提升、安全补丁和错误修复</title>
-      <link>https://alternativeto.net/news/2026/1/gimp-3-0-8-brings-performance-boost-security-patches-and-bug-fixes/</link>
-      <description><![CDATA[GIMP 3.0.8 改进了字体加载性能，缩短了拥有大量字体集合的用户的启动时间，并解决了相关的显示问题。该更新解决了文件格式插件中的多个安全漏洞，修复了报告的漏洞以及 ICO 和 Paintshop Pro 文件的其他问题。
-用户还将受益于确保无损 WEBP 图像不会以有损压缩方式导出的修复，以及跨平台的各种错误和打包修复。
-查看有关 AlternativeTo 的文章更多信息GIMP | GIMP 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/gimp-3-0-8-brings-performance-boost-security-patches-and-bug-fixes/</guid>
-      <pubDate>Mon, 26 Jan 2026 09:23:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Exexed 1.0 现已推出：R2DBC 支持、稳定的 API 和 Spring 更新</title>
-      <link>https://alternativeto.net/news/2026/1/exposed-1-0-now-available-r2dbc-support-stable-api-and-spring-updates/</link>
-      <description><![CDATA[Expose 1.0 现已推出，为反应式 SQL DSL 使用引入了强烈要求的 R2DBC 支持。该版本建立了一个稳定的 API，在下一个主要版本之前没有计划进行重大更改。继续支持 Spring Boot 3 和 4，同时改进 GraalVM 本机映像和事务管理。
-查看有关 AlternativeTo 的文章更多信息公开 | 公开替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/exposed-1-0-now-available-r2dbc-support-stable-api-and-spring-updates/</guid>
-      <pubDate>Mon, 26 Jan 2026 09:17:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zen Browser 中现在提供窗口同步、会话恢复和空白窗口</title>
-      <link>https://alternativeto.net/news/2026/1/window-syncing-session-recovery-and-blank-windows-now-available-in-zen-browser/</link>
-      <description><![CDATA[Zen Browser 现在可以在同一设备上实时同步打开的窗口，确保更改立即镜像到所有窗口。
-此外，新的空白窗口选项允许独立浏览，而改进的会话备份和恢复系统提高了恢复丢失的选项卡和窗口的准确性。
-查看有关 AlternativeTo 的文章有关 Zen 的更多信息浏览器 | Zen 浏览器替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/window-syncing-session-recovery-and-blank-windows-now-available-in-zen-browser/</guid>
-      <pubDate>Mon, 26 Jan 2026 09:11:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bitwarden 通过更多安全功能增强了高级版和家庭版计划并提高了价格</title>
-      <link>https://alternativeto.net/news/2026/1/bitwarden-enhances-premium-and-families-plans-with-more-security-features-and-raises-prices/</link>
-      <description><![CDATA[Bitwarden 已升级其高级版和家庭版套餐，提供了一系列新功能和更新的定价。用户现在会收到保管库运行状况警报，使他们能够发现重复使用、暴露或弱密码，并从应用程序内解决这些漏洞。除此之外，新的密码指导功能会标记有风险的密码，并引导用户加强密码，并在使用时提供指导。
-虽然安全功能是此次更新的重点，但存储容量也得到了扩展。订阅者现在受益于五倍的附件存储，为安全文档、备份代码或敏感文件提供额外的空间。此更新使双因素身份验证允许的安全密钥数量增加了一倍，允许用户注册最多十个安全密钥，其中可以包括硬件密钥、本机生物识别或密码。
-展望未来，Bitwarden 将很快推出一款网络钓鱼拦截器，该拦截器将在恶意网站捕获用户凭据之前识别并拦截它们，从而扩大平台的保护范围。为了反映这些增强功能，Bitwarden 调整了其定价：高级版现在为每月 1.65 美元或每年 19.80 美元（之前为每月 1 美元或每年 10 美元），而家庭版为每月 3.99 美元或每年 47.88 美元（之前为每年 40 美元）。所有现有订阅者将在续订前 15 天收到价格更改生效的通知。
-查看有关 AlternativeTo 的文章更多信息Bitwarden | Bitwarden 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/1/bitwarden-enhances-premium-and-families-plans-with-more-security-features-and-raises-prices/</guid>
-      <pubDate>Mon, 26 Jan 2026 08:50:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
