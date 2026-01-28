@@ -4,7 +4,38 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Tue, 27 Jan 2026 12:51:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 01:48:10 GMT</lastBuildDate>
+    <item>
+      <title>Heroic Games Launcher 2.19 带来了 Zoom 游戏集成、macOS 上的 DXMT 支持等</title>
+      <link>https://alternativeto.net/news/2026/1/heroic-games-launcher-2-19-brings-zoom-games-integration-dxmt-support-on-macos-and-more/</link>
+      <description><![CDATA[Heroic Games Launcher 2.19，代号“Punk-01 Shaka”，已发布，引入了在 Linux 上集成 Zoom 平台游戏的实验性支持。此功能目前仅限于 Linux，但计划在即将发布的版本中提供跨平台支持。
+对于 macOS 用户，如果重新安装 Wine-Staging，此更新将为 Apple Silicon（M 系列）设备带来 DXMT 功能。与此同时，由于持续存在的问题，在 macOS 上通过单个按钮安装 Steam 的选项已被删除。几个与 Linux 和 macOS 无关的配置选项也已被清理。
+在 Windows 上，安装版和便携版现在都经过数字签名，从而增强了安装或更新启动器时的信任和安全性。进行这些更改后，所有平台的用户都可以受益于新的“启动选项”设置、游戏页面中更容易找到的“导入”按钮、附加的“同步保存”选项以及改进的辅助功能（例如禁用所有动画的功能）。
+游戏手柄导航在整个界面中得到了增强，而 Linux 用户还获得了对 AppImage 自动更新的初步支持，并失去了已弃用的 DXVK 帧速率选项。后端还看到了 Electron（现在版本 39）以及 gogdl 和 legend 组件的更新，解决了与游戏列表和更新相关的错误。
+查看有关 AlternativeTo 的文章有关 Heroic Games Launcher 的更多信息 | Heroic Games Launcher 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/1/heroic-games-launcher-2-19-brings-zoom-games-integration-dxmt-support-on-macos-and-more/</guid>
+      <pubDate>Tue, 27 Jan 2026 16:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jan v3 模型首次亮相，更新为 Jan Desktop v0.7.6</title>
+      <link>https://alternativeto.net/news/2026/1/jan-v3-model-debuts-with-updates-to-jan-desktop-v0-7-6/</link>
+      <description><![CDATA[Jan v0.7.6 重点介绍了新的 Jan V3 模型，该模型现已在入门中作为推荐的默认模型，以实现更快、更高质量的交互以及增强的数学和编码。
+该版本还带来了更新的用户界面，并增加了对 Anthropic Messages API 的支持，从而使本地模型能够与 Claude 兼容的工作流程。
+查看有关 AlternativeTo 的文章有关更多信息Jan.ai | Jan.ai 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/jan-v3-model-debuts-with-updates-to-jan-desktop-v0-7-6/</guid>
+      <pubDate>Tue, 27 Jan 2026 16:16:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude 推出 MCP 应用程序，可与 Canva、Asana、Slack、Figma 等应用程序进行交互</title>
+      <link>https://alternativeto.net/news/2026/1/claude-introduces-mcp-apps-to-interact-with-apps-like-canva-asana-slack-figma-and-more/</link>
+      <description><![CDATA[Anthropic 对 Claude 进行了重大更新，现在使用户能够打开第三方工具并与之交互，例如 Asana、Slack、Canva 和 Figma 直接在对话界面中。对于管理项目的用户来说，此更新允许他们构建和更新 Asana 时间表、起草和预览格式化的 Slack 消息，或者在 Figma 中可视化想法，而无需离开当前的聊天。
+除了简单地连接到现有工具之外，Claude 现在还将这些工具界面嵌入到每个对话中。这意味着可以实时查看和管理 Asana、Slack 或 Figma 中执行的操作，支持协作决策和快速迭代。用户还可以将 Claude 连接到各种平台，包括 Amplitude、Box、Clay、Hex 和 monday.com，从而扩大潜力工作流程。
+基于这些功能，计划进行 Salesforce 集成。借助 Agentforce 360​​，企业团队很快就能够访问统一的上下文并在 Claude 中管理他们的活动。这些功能背后的技术是模型上下文协议（MCP），它建立了连接人工智能工具的开放标准。 MCP 应用程序进一步扩展了这一点，使交互式应用程序界面可在任何支持 MCP 的 AI 产品中使用，而不仅仅是 Claude。
+目前，这些增强功能可在 Web 版和桌面版上供 Pro、Max、Team 和 Enterprise 用户使用，并且即将推出对 Claude Cowork 的支持。
+查看有关 AlternativeTo 的文章更多信息克劳德 | 克劳德替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/claude-introduces-mcp-apps-to-interact-with-apps-like-canva-asana-slack-figma-and-more/</guid>
+      <pubDate>Tue, 27 Jan 2026 15:15:00 GMT</pubDate>
+    </item>
     <item>
       <title>MapLibre 推出 MapLibre Tile (MLT)，这是一种新的现代高效矢量切片格式</title>
       <link>https://alternativeto.net/news/2026/1/maplibre-introduces-maplibre-tile-mlt--a-new-modern-and-efficient-vector-tile-format/</link>
@@ -123,33 +154,6 @@ Qwen3-Max-Thinking 现在可以在 Qwen Chat 中或通过 API 进行访问，使
 查看有关 AlternativeTo 的文章更多信息Bitwarden | Bitwarden 替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/1/bitwarden-enhances-premium-and-families-plans-with-more-security-features-and-raises-prices/</guid>
       <pubDate>Mon, 26 Jan 2026 08:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pangolin 1.15.0引入iOS和Android应用程序以及设备安全检查</title>
-      <link>https://alternativeto.net/news/2026/1/pangolin-1-15-0-introduces-ios-and-android-apps-plus-device-security-checks/</link>
-      <description><![CDATA[Pangolin 1.15.0引入官方iOS和Android应用程序，实现移动平台上的零信任网络访问。该更新还为所有客户端带来了设备指纹识别和状态监控，帮助管理员识别和评估设备健康状况。设备审批现在要求管理员授权新的硬件连接，进一步加强访问控制。
-查看有关 AlternativeTo 的文章有关 Fossorial 的更多信息穿山甲 | 化石穿山甲替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/pangolin-1-15-0-introduces-ios-and-android-apps-plus-device-security-checks/</guid>
-      <pubDate>Mon, 26 Jan 2026 08:43:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wine 11.1 版本带来了关键错误修复、编解码器更新和恢复开发</title>
-      <link>https://alternativeto.net/news/2026/1/wine-11-1-release-brings-key-bug-fixes-codec-updates-and-resumed-development/</link>
-      <description><![CDATA[Wine 11.1 标志着一个新的开发版本，其中包含之前在代码冻结期间被搁置的大量代码更改。此更新带来了 WindowsCodecs 中扩展的像素格式转换以及 ActiveX 数据对象 (MSADO) 的持续工作。
-此版本解决了影响应用程序崩溃、图形问题、安装程序故障以及与多个知名程序和游戏的兼容性的多个错误。
-查看有关 AlternativeTo 的文章更多信息葡萄酒 | 葡萄酒替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/wine-11-1-release-brings-key-bug-fixes-codec-updates-and-resumed-development/</guid>
-      <pubDate>Mon, 26 Jan 2026 08:36:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 原型工具 MagicPath 推出新的 Figma 导入工具，具有完全的视觉保真度</title>
-      <link>https://alternativeto.net/news/2026/1/ai-prototyping-tool-magicpath-launches-new-figma-import-tool-with-full-visual-fidelity/</link>
-      <description><![CDATA[基于 AI 的网站构建器和原型设计工具 MagicPath 已推出 Figma Connect，这是一项允许用户复制的功能Figma 设计并将其粘贴到 MagicPath 中以生成交互式原型。与基于 Figma MCP 的方法不同，此工具不需要连接外部 LLM 或使用插件。用户首先打开 MagicPath 项目，连接 Figma 帐户，复制 Figma 中的选择，然后将其粘贴到 MagicPath 中。
-Figma Connect 可以导入框架、组件或单个元素，它适用于小型 UI 片段和全屏。 MagicPath 表示，转换保留了像素级布局细节，如定位、填充和边距，并自动提取和包含图像和图标等资源。到目前为止，结果比 Figma Make 的内置工具更准确、更接近原始设计。
-保留版式并直接继承 Google 字体，而自定义字体则映射到最接近的匹配项并保持可编辑状态。 MagicPath 还表示，它保留了精确的颜色、渐变和效果，如阴影、模糊、玻璃、纹理和噪声作为代码，而不是扁平化的图像。 Figma 标记和变量作为 CSS 变量导入，组件反映在代码输出中。导入限制取决于计划：免费包括每月 5 次导入，Creator 包括 25 次，Pro 则无限制。
-查看有关 AlternativeTo 的文章更多信息MagicPath | MagicPath 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/ai-prototyping-tool-magicpath-launches-new-figma-import-tool-with-full-visual-fidelity/</guid>
-      <pubDate>Sat, 24 Jan 2026 13:08:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
