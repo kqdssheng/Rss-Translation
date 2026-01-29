@@ -4,7 +4,17 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Thu, 29 Jan 2026 02:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 12:58:03 GMT</lastBuildDate>
+    <item>
+      <title>Vivaldi 7.8 添加了灵活的选项卡平铺、改进的固定选项卡和每日起始页图像</title>
+      <link>https://alternativeto.net/news/2026/1/vivaldi-7-8-adds-flexible-tab-tiling-improved-pinned-tabs-and-daily-start-page-images/</link>
+      <description><![CDATA[Vivaldi 7.8 对选项卡平铺进行了重大增强，使跨多个选项卡的组织、比较和并行工作变得更加容易。用户现在只需将选项卡拖到主内容窗口中即可在上方、下方、并排或网格排列中创建灵活的图块布局。设置完成后，这些平铺布局可以轻松地重新排列、调整大小以及即时添加新选项卡。在管理选项卡时，用户还可以直接打开平铺视图中的链接，从而保持其原始上下文和新内容的可见性。
+在这些选项卡改进之后，Vivaldi 通过域限制的固定选项卡进一步加强了会话控制。例如，这可以确保固定的邮件或项目工具选项卡在整个使用过程中保持聚焦和静止。为了扩展这一重点，固定的 Vivaldi Mail 选项卡现在在所有工作区中保持固定状态，并且 Vivaldi Mail 现在可在每个打开的浏览器窗口中使用。
+基于用户界面体验，起始页具有新的每日图像选项，自动更新为高质量的 Unsplash 照片。其他更新包括整体稳定性改进、插入符号浏览作为键盘用户的专用设置以及更流畅的 Windows 安装程序过程。
+查看有关 AlternativeTo 的文章更多信息维瓦尔第 | 维瓦尔第替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/vivaldi-7-8-adds-flexible-tab-tiling-improved-pinned-tabs-and-daily-start-page-images/</guid>
+      <pubDate>Thu, 29 Jan 2026 12:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Immich 2.5 增加了节省空间的选项、无损图像编辑、UI 升级等</title>
       <link>https://alternativeto.net/news/2026/1/immich-2-5-adds-space-saving-option-non-destructive-image-editing-ui-upgrades-and-more/</link>
@@ -22,7 +32,7 @@
       <description><![CDATA[Microsoft 已开始测试 Xbox 云游戏 的全新网络体验。此公共预览版允许用户访问更新后的界面，并直接在浏览器中查看新的导航选项和彻底修改的设计。选择加入预览版让参与者有机会在更广泛的推广开始之前尝试改进的产品流程和视觉效果。
 在探索预览版时，用户会注意到某些功能可能不可用或与当前实时版本相比表现不同。微软表示，他们将在测试期间继续迭代和更新该平台，并可能根据收集的反馈进行持续的更改。
 对于那些选择参与的人来说，该过程具有灵活性。如果用户更喜欢之前的设置或遇到任何问题，他们可以随时返回现有的 Web 体验。据微软称，这个早期访问阶段的主要目标是验证平台的新架构，并利用预览参与者的真实反馈来完善更广泛社区的体验。
-查看有关 AlternativeTo 的文章有关 Xbox 云的更多信息游戏 | Xbox 云游戏替代品]]></description>
+查看有关 AlternativeTo 的文章有关 Xbox 云的更多信息游戏 | Xbox 云游戏替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/1/microsoft-begins-testing-a-refreshed-xbox-cloud-gaming-web-interface-asks-for-feedback/</guid>
       <pubDate>Wed, 28 Jan 2026 13:40:00 GMT</pubDate>
     </item>
@@ -32,7 +42,7 @@
       <description><![CDATA[Moonshot AI 推出了 Kimi K2.5，这是一种专注于可扩展代理协调的开放权重语言模型。其主要新增功能是Agent Swarm，它可以在复杂任务上并行运行多达 100 个子代理，支持每个作业最多 1,500 个工具调用，据报道与单个代理相比，执行时间最多可缩短 4.5 倍。
 K2.5 基于 Kimi K2 构建，采用混合专家架构，具有 1 万亿总参数、384 名专家以及每个代币选择的 8 名专家。它支持256,000 个令牌上下文窗口，接受了大约 15 万亿个令牌的训练，并使用 MoonViT 视觉编码器进行图像和视频理解。
 Moonshot AI 还引入了并行代理强化学习，其中可训练的协调器将子任务分配给专门的代理，并使用阶段性奖励来鼓励并行性而不牺牲质量。该公司将 K2.5 定位为编码（尤其是前端工作）的强大工具，并表示其性能优于 GPT-5.2 和 Gemini 3 Pro 在多个代理和多模式基准测试中。 K2.5 可通过 Kimi.com、移动应用程序、API 以及 Hugging Face 上的可下载权重获取。
-查看有关 AlternativeTo 的文章更多信息 Kimi | Kimi Alternatives]]></description>
+查看有关 AlternativeTo 的文章更多信息Kimi | Kimi 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/1/chinese-ai-model-kimi-k2-5-launches-with-parallel-agent-swarm-and-large-context-window/</guid>
       <pubDate>Wed, 28 Jan 2026 13:38:13 GMT</pubDate>
     </item>
@@ -145,19 +155,9 @@ Qwen3-Max-Thinking 现在可以在 Qwen Chat 中或通过 API 进行访问，使
       <description><![CDATA[Godot 4.6 已发布，带来了一个新的开发阶段，专注于完善、生活质量改善、与行业标准更加一致以及更强的性能优化。编辑器现在默认使用 Modern 主题，基于以前的 Godot Minimal 主题，并更新了对比度、间距和可读性，以减少视觉混乱和颜色偏差。经典主题在编辑器设置中仍然可用。
 编辑器工作流程通过统一的停靠系统进行了进一步更新，允许底部面板像常规停靠点一样运行，并在编辑器边缘之间移动，许多停靠点现在可浮动以进行多显示器设置。 Jolt 物理现在是新 3D 项目的默认引擎，而现有项目将保留其当前配置，除非手动更改。 Godot 4.6 还引入了一个以 IKModifier3D 为中心的新逆向运动学框架，添加了确定性和迭代求解器以实现更高级的动画和约束设置。
 渲染和项目结构改进包括对屏幕空间反射的重大修改，提高全分辨率和半分辨率模式的真实感、稳定性和效率。节点现在使用唯一的内部 ID 在重命名或场景重组期间保持引用完整，并建议场景升级。该版本还引入了 LibGodot，允许引擎作为库嵌入到 Linux、Windows 和 macOS 上。
-查看有关 AlternativeTo 的文章有关 Godot 的更多信息引擎 | Godot 引擎替代品]]></description>
+查看有关 AlternativeTo 的文章有关 Godot 的更多信息引擎 | Godot 引擎替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/1/godot-4-6-debuts-modern-theme-jolt-physics-node-ids-and-libgodot-embed/</guid>
       <pubDate>Tue, 27 Jan 2026 04:46:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>DietPi 10.10 放弃 Debian 11，添加 Uptime Kuma 和 ownCloud Infinite Scale 等</title>
-      <link>https://alternativeto.net/news/2026/1/dietpi-10-10-drops-debian-11-adds-uptime-kuma-and-owncloud-infinite-scale-and-more/</link>
-      <description><![CDATA[DietPi 10.10 已经推出，是这款轻量级、基于 Debian 的 Linux 发行版的最新版本，面向单板计算机。通过此更新，DietPi 将其最低支持的 Debian 版本提高到 12“Bookworm”，停止对 Debian 11“Bullseye”的支持。因此，由于供应商内核老化，包括 Sparky SBC、NanoPi M2/T2/Fire2 和 NanoPi M3/T3/Fire3 在内的多个单板计算机系列不再受支持。现在直接升级到 DietPi 版本 10 至少需要 DietPi 8.0 作为起始版本。
-除了核心系统更改之外，DietPi 10.10 还引入了两个新的预装软件产品：Uptime Kuma（开源、自托管的正常运行时间监控解决方案）和 ownCloud Infinite Scale（经典 ownCloud 文件同步和共享平台的现代替代品）。删除 Debian 11 支持后，许多旧版软件包也被弃用，包括 RPi Cam Web Interface、经典 ownCloud 和经典 Pydio 8。
-基于这些核心更新，DietPi 现在作为“其他通用操作系统”下的“Raspberry Pi Imager”中的可选选项出现，支持所有“Raspberry Pi”设备。 Rocket NPU 驱动程序现已支持 Quartz64 板系列。对于在 Debian “Trixie” 或更高版本上运行 Nginx 的用户，HTTP/2 语法已修订，并且现已启用带有 QUIC 的 HTTP/3。 DietPi 10.10 还提供了八个错误修复、代码优化以及多项视觉和拼写改进。
-查看有关 AlternativeTo 的文章更多信息DietPi | DietPi 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/dietpi-10-10-drops-debian-11-adds-uptime-kuma-and-owncloud-infinite-scale-and-more/</guid>
-      <pubDate>Mon, 26 Jan 2026 15:15:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
