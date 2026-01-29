@@ -4,7 +4,38 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Wed, 28 Jan 2026 12:51:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 02:01:03 GMT</lastBuildDate>
+    <item>
+      <title>Immich 2.5 增加了节省空间的选项、无损图像编辑、UI 升级等</title>
+      <link>https://alternativeto.net/news/2026/1/immich-2-5-adds-space-saving-option-non-destructive-image-editing-ui-upgrades-and-more/</link>
+      <description><![CDATA[Immich 2.5 是这个开源、自托管照片和视频管理解决方案的最新版本。此更新添加了“释放空间”，这是一项备受期待的功能，可让用户删除已备份到其 Immich 服务器的本地媒体文件。此功能可帮助移动用户回收设备存储，同时确保其原始文件在服务器上的安全。
+基于编辑工作流程，Immich 现在支持非破坏性照片编辑。用户可以在不改变原始图像的情况下更改图像，并允许在需要时自由撤销编辑。同时，备份和恢复现已完全内置于 Immich 本身中，为用户提供直接在 Web 界面中恢复数据库备份的选项。
+继这些核心更新之后，该版本还改进了移动应用的前台上传，并在 Web、移动设备和文档中引入了全新的视觉设计。此更新包括一种新字体，可实现更清晰的易读性，尤其是数字和小文本。此外，移动用户现在可以获得与网络应用程序一致的星级支持。
+安全增强功能包括用于控制管理员注册和更细粒度的 API 权限的新环境变量。通过优化的 HTTP 客户端和改进的缓存，远程图像加载速度更快，同时该平台还添加了渐进式 JPEG 选项以及自动重新启动 Web 幻灯片的功能。
+查看有关 AlternativeTo 的文章更多信息Immich | Immich 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/1/immich-2-5-adds-space-saving-option-non-destructive-image-editing-ui-upgrades-and-more/</guid>
+      <pubDate>Wed, 28 Jan 2026 15:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软开始测试更新后的 Xbox 云游戏 Web 界面并寻求反馈</title>
+      <link>https://alternativeto.net/news/2026/1/microsoft-begins-testing-a-refreshed-xbox-cloud-gaming-web-interface-asks-for-feedback/</link>
+      <description><![CDATA[Microsoft 已开始测试 Xbox 云游戏 的全新网络体验。此公共预览版允许用户访问更新后的界面，并直接在浏览器中查看新的导航选项和彻底修改的设计。选择加入预览版让参与者有机会在更广泛的推广开始之前尝试改进的产品流程和视觉效果。
+在探索预览版时，用户会注意到某些功能可能不可用或与当前实时版本相比表现不同。微软表示，他们将在测试期间继续迭代和更新该平台，并可能根据收集的反馈进行持续的更改。
+对于那些选择参与的人来说，该过程具有灵活性。如果用户更喜欢之前的设置或遇到任何问题，他们可以随时返回现有的 Web 体验。据微软称，这个早期访问阶段的主要目标是验证平台的新架构，并利用预览参与者的真实反馈来完善更广泛社区的体验。
+查看有关 AlternativeTo 的文章有关 Xbox 云的更多信息游戏 | Xbox 云游戏替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/microsoft-begins-testing-a-refreshed-xbox-cloud-gaming-web-interface-asks-for-feedback/</guid>
+      <pubDate>Wed, 28 Jan 2026 13:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国人工智能模型 Kimi k2.5 推出，具有并行代理群和大上下文窗口</title>
+      <link>https://alternativeto.net/news/2026/1/chinese-ai-model-kimi-k2-5-launches-with-parallel-agent-swarm-and-large-context-window/</link>
+      <description><![CDATA[Moonshot AI 推出了 Kimi K2.5，这是一种专注于可扩展代理协调的开放权重语言模型。其主要新增功能是Agent Swarm，它可以在复杂任务上并行运行多达 100 个子代理，支持每个作业最多 1,500 个工具调用，据报道与单个代理相比，执行时间最多可缩短 4.5 倍。
+K2.5 基于 Kimi K2 构建，采用混合专家架构，具有 1 万亿总参数、384 名专家以及每个代币选择的 8 名专家。它支持256,000 个令牌上下文窗口，接受了大约 15 万亿个令牌的训练，并使用 MoonViT 视觉编码器进行图像和视频理解。
+Moonshot AI 还引入了并行代理强化学习，其中可训练的协调器将子任务分配给专门的代理，并使用阶段性奖励来鼓励并行性而不牺牲质量。该公司将 K2.5 定位为编码（尤其是前端工作）的强大工具，并表示其性能优于 GPT-5.2 和 Gemini 3 Pro 在多个代理和多模式基准测试中。 K2.5 可通过 Kimi.com、移动应用程序、API 以及 Hugging Face 上的可下载权重获取。
+查看有关 AlternativeTo 的文章更多信息 Kimi | Kimi Alternatives]]></description>
+      <guid>https://alternativeto.net/news/2026/1/chinese-ai-model-kimi-k2-5-launches-with-parallel-agent-swarm-and-large-context-window/</guid>
+      <pubDate>Wed, 28 Jan 2026 13:38:13 GMT</pubDate>
+    </item>
     <item>
       <title>WordPress Studio 1.7 通过本地站点管理、身份验证等增强了 CLI</title>
       <link>https://alternativeto.net/news/2026/1/wordpress-studio-1-7-enhances-the-cli-with-local-site-management-authentification-and-more/</link>
@@ -127,38 +158,6 @@ Qwen3-Max-Thinking 现在可以在 Qwen Chat 中或通过 API 进行访问，使
 查看有关 AlternativeTo 的文章更多信息DietPi | DietPi 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/1/dietpi-10-10-drops-debian-11-adds-uptime-kuma-and-owncloud-infinite-scale-and-more/</guid>
       <pubDate>Mon, 26 Jan 2026 15:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌通过 Gmail 和照片集成将“个人智能”引入搜索的 AI 模式</title>
-      <link>https://alternativeto.net/news/2026/1/google-brings-personal-intelligence-to-search-s-ai-mode-with-gmail-and-photos-integration/</link>
-      <description><![CDATA[Google 已将其“个人智能”系统扩展到 Google 搜索中的 AI 模式，通过跨 Google 应用集成数据来增强个性化体验。从今天开始，符合条件的 Google AI Pro 和 Ultra 订阅者可以选择将其 Gmail 和 Google 相册 帐户与 AI 模式安全连接。这种集成使搜索工具能够参考个人背景和见解，提供更符合个人需求的响应。
-在这些增强功能的基础上，个人智能现在可以根据用户的独特偏好和习惯定制推荐，无需反复澄清喜好或计划。对于购物，人工智能模式会考虑之前的购买情况和最喜欢的零售商来完善建议。
-将 Gmail 或 Google Photos 连接到 AI 模式是严格选择加入的，并且可以随时禁用。 Google 指定 Gemini 3 为这种体验提供支持，但不会直接根据用户 Gmail 收件箱或照片库中的内容进行训练。相反，训练使用有限的数据（例如特定的 AI 模式提示和响应）来进一步改进功能。
-目前，此实验室功能正在向拥有符合资格计划的个人 Google 帐户的美国客户推出。 Workspace 商业、企业和教育帐户不包括在此次首次发布中。
-查看有关 AlternativeTo 的文章有关 Google 的更多信息搜索 | Google 搜索替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/1/google-brings-personal-intelligence-to-search-s-ai-mode-with-gmail-and-photos-integration/</guid>
-      <pubDate>Mon, 26 Jan 2026 13:42:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>F-Droid Basic 2.0 alpha 首次亮相，重写了 UI、更好的搜索和改进的应用程序发现</title>
-      <link>https://alternativeto.net/news/2026/1/f-droid-basic-2-0-alpha-debuts-with-rewritten-ui-better-search-and-improved-app-discovery/</link>
-      <description><![CDATA[F-Droid 经过一年的努力彻底改革开源 Android 应用商店，现已发布其现代化 2.0 应用程序的第一个 alpha 版本。新的用户界面是使用 Kotlin Compose 从头开始构建的，旨在提高可用性和现代设计标准。
-此初始版本仅限于 F-Droid Basic，而完整的功能集仍在开发中。在这些改进中，搜索功能现在允许在应用程序描述和翻译中进行查询，并且下载最多的应用程序会突出显示以帮助发现。
-基于工作流程增强功能，现在在下载之前需要安装批准，并且多个更新或下载可以并行进行。该应用程序还将提醒用户注意应用程序签名密钥更改等问题。为了进一步增强自定义功能，用户可以切换到 Material You 颜色主题，并受益于应用列表中改进的过滤功能。
-虽然这些更新标志着明显的进步，但仍有一些功能缺失，例如 IPFS 网关支持、屏幕截图防护、首选外部镜像的能力、DNS 缓存和安装历史记录。用户还应该注意当前的问题：某些安装需要确认两次，更新通知可能并不总是打开正确的屏幕，并且有时正在进行的安装通知在某些设备上不会清除。尽管存在这些差距，但 alpha 被认为对于“喜欢冒险”的测试人员日常使用来说是稳定的。
-查看有关 AlternativeTo 的文章更多信息F-Droid | F-Droid 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/f-droid-basic-2-0-alpha-debuts-with-rewritten-ui-better-search-and-improved-app-discovery/</guid>
-      <pubDate>Mon, 26 Jan 2026 12:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌相册推出Me Meme AI功能，将自己变成个性化的搞笑表情包</title>
-      <link>https://alternativeto.net/news/2026/1/google-photos-rolls-out-me-meme-ai-feature-to-turn-yourself-into-personalized-funny-memes/</link>
-      <description><![CDATA[Google 相册正在添加一款创意新工具，推出了Me Meme，这是一项人工智能驱动的功能，允许用户将个人照片变成表情包。 Me Meme 利用生成人工智能帮助用户快速创建有趣的个性化图像，并可以轻松与朋友和家人分享。
-发布后，用户可以选择预设的表情包模板，也可以上传自己的幽默图片作为表情包的基础。首先，用户只需选择一张照片并点击生成按钮即可创建他们的表情包。那些第一次尝试 Me Meme 的人将会看到一个简短的介绍屏幕，其中解释了该功能的流程和功能。
-这项新功能目前正在向美国的 Google 相册用户推出，让广大受众都能使用它。虽然首次访问包括入门屏幕，但所有用户都可以从直观的模板选择和模因生成选项中受益，从而简化从个人照片创建可共享内容的过程。
-查看有关 AlternativeTo 的文章有关 Google 的更多信息照片 | Google 相册替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/1/google-photos-rolls-out-me-meme-ai-feature-to-turn-yourself-into-personalized-funny-memes/</guid>
-      <pubDate>Mon, 26 Jan 2026 10:31:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
