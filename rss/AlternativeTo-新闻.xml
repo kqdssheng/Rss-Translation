@@ -4,7 +4,74 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Thu, 29 Jan 2026 12:58:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 02:01:21 GMT</lastBuildDate>
+    <item>
+      <title>Notesnook 3.3.8 带来了笔记过期、CSV 导入/导出和改进的自定义功能</title>
+      <link>https://alternativeto.net/news/2026/1/notesnook-3-3-8-brings-note-expiration-csv-import-export-and-improved-customization/</link>
+      <description><![CDATA[Notesnook 3.3.8 是注重隐私的笔记应用程序的最新版本，引入了自动笔记过期功能。过期的笔记现在会被移至垃圾箱，从而增强隐私性和组织性。此外，用户现在可以将表格导出为 CSV 文件，并在编辑器中直接将 CSV 数据导入为表格，从而简化电子表格内容的工作。
+在这些增强之后，自定义选项也得到了扩展。用户可以使用新的行高设置来控制编辑器中的行间距，并使用新的日和周格式轻松修改日期的显示方式。选择一周中首选的开始日期和编辑注释创建日期的功能进一步提高了组织的灵活性。
+在移动设备上，Android 用户现在可以选择将笔记本、标签、注释和颜色的快捷方式直接添加到主屏幕，从而加快对常用项目的访问速度。还引入了新的键盘快捷键，以提高整个工作流程的效率。对于跟踪修订的用户，笔记历史记录现在包括每个会话中的标题和内容，使更改跟踪更加全面。
+此版本中的其他改进包括移动设备上的分段上传、可自定义专着标题、附件预览、锁定笔记的冲突检测、改进的同步可靠性、可折叠标题的性能提升以及各种其他增强功能和错误修复。
+查看有关 AlternativeTo 的文章更多信息Notesnook | Notesnook 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/notesnook-3-3-8-brings-note-expiration-csv-import-export-and-improved-customization/</guid>
+      <pubDate>Thu, 29 Jan 2026 18:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Transmission 4.1 带来 IPv6 支持、提升 µTP 性能并添加顺序下载</title>
+      <link>https://alternativeto.net/news/2026/1/transmission-4-1-brings-ipv6-support-boosts-tp-performance-and-adds-sequential-downloads/</link>
+      <description><![CDATA[Transmission 4.1 现已适用于 macOS、Windows 和 Linux，带来了多项核心网络和可用性改进。新版本改进了微传输协议 (µTP) 下载性能，为许多用户带来更快、更可靠的 torrent 传输。添加了对 IPv6 和双栈 UDP 跟踪器的支持，扩展了网络兼容性，同时客户端现在还支持仅依赖于使用 &amp;ipv4= 和 &amp;ipv6= 参数的旧版 BEP-7 协议的跟踪器。
+除了这些后端更改之外，Transmission 还引入了符合 JSON-RPC 2.0 的远程过程调用接口，以实现更加标准化的远程控制和自动化。可选的顺序下载允许对种子中的文件进行优先级排序，这是许多高级用户所要求的功能。菜单和工具栏现在在所有平台上使用本机图标：macOS 上的 SF Symbols、Windows 11 上的 Segoe Fluent、Windows 10 上的 Segoe MDL2 以及其他地方的 XDG 标准图标，提供更加集成的外观和感觉。
+为了解决稳定性问题，此更新修复了 4.0.6 版本中的一个错误，该错误中 Transmission 可能会重复向 HTTP 跟踪器通告。这些更新还包括多项增强功能、针对 macOS、Windows 和 Linux 的平台特定改进以及进一步的错误修复。
+查看有关 AlternativeTo 的文章更多信息传输 | 传输替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/1/transmission-4-1-brings-ipv6-support-boosts-tp-performance-and-adds-sequential-downloads/</guid>
+      <pubDate>Thu, 29 Jan 2026 16:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Opera Neon 在 Neon Chat 中添加了 Llama 4 Maverick 和 Qwen3 LLM</title>
+      <link>https://alternativeto.net/news/2026/1/opera-neon-adds-llama-4-maverick-and-qwen3-llms-to-neon-chat/</link>
+      <description><![CDATA[Opera Neon 通过添加来自 Meta 的 Llama 4 Maverick 模型和两个 Qwen3-Next 变体来扩展其 Neon Chat 产品阵容：思考和指导。用户现在可以从更广泛的 LLM 中进行选择，包括 Opera AI、Gemini 3 Pro、GPT 5.2 和早期版本。可通过 Neon Chat 中的下拉菜单进行模型选择，高级用户可以选择最适合其需求的 LLM。
+查看有关 AlternativeTo 的文章有关 Opera 的更多信息霓虹灯 | Opera 霓虹灯替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/opera-neon-adds-llama-4-maverick-and-qwen3-llms-to-neon-chat/</guid>
+      <pubDate>Thu, 29 Jan 2026 16:05:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Proton Drive SDK 更新带来统一的性能和更快的文件操作</title>
+      <link>https://alternativeto.net/news/2026/1/proton-drive-sdk-update-brings-unified-performance-and-faster-file-operations/</link>
+      <description><![CDATA[Proton Drive SDK 现在可作为所有云端硬盘应用中文件操作的统一基础，支持 JavaScript、C#、Swift 和 Kotlin 支持。用户受益于 iOS 上高达 60% 的上传速度以及网络上的显着速度改进。
+上传、下载和文件夹管理等核心功能目前可供贡献者预览，而更广泛的集成和 CLI 工具仍在开发中。
+查看有关 AlternativeTo 的文章有关 Proton 的更多信息Drive | Proton Drive 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/proton-drive-sdk-update-brings-unified-performance-and-faster-file-operations/</guid>
+      <pubDate>Thu, 29 Jan 2026 15:55:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>ACP 注册表在 Zed 编辑器中首次亮相，具有内置 IDE 支持</title>
+      <link>https://alternativeto.net/news/2026/1/acp-registry-debuts-in-zed-editor-with-built-in-ide-support/</link>
+      <description><![CDATA[代理客户端协议 (ACP) 注册表现已在 Zed Editor 中上线，允许开发人员注册一次代理实现，以便在所有 ACP 兼容客户端上立即使用。 Zed 和 JetBrains IDE 现在具有内置注册表支持，使用户能够直接从编辑器安装和更新代理。注册表已提供对代理的访问，例如 Claude Code、Codex CLI、GitHub Copilot CLI 和 OpenCode。
+查看有关 AlternativeTo 的文章有关 Zed 的更多信息编辑器 | Zed 编辑器替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/1/acp-registry-debuts-in-zed-editor-with-built-in-ide-support/</guid>
+      <pubDate>Thu, 29 Jan 2026 15:38:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>OPNsense 26.1 增强安全性、网络可见性、自动化和威胁情报</title>
+      <link>https://alternativeto.net/news/2026/1/opnsense-26-1-enhances-security-network-visibility-automation-and-threat-intelligence/</link>
+      <description><![CDATA[OPNsense 26.1，代号为“Witty Woodpecker”，现已作为基于FreeBSD的防火墙和路由系统的最新社区版本提供。此版本提高了管理员的安全性、网络可见性、自动化和操作清晰度。
+OPNsense 26.1 注重可用性，提供了重新设计的防火墙规则界面，可简化规则创建和审查。更新后的实时防火墙日志视图现在可以提供更清晰、更快速的实时流量决策分析。这些更改旨在改进用户监控或调整网络策略的日常工作流程。
+基于平台的开放架构，此更新还扩展了 API 覆盖范围，包括源 NAT 标记和目标 NAT（端口转发）。这些新增功能支持更深入的自动化以及与外部工具和管理系统更灵活的集成。
+继这些增强之后，OPNsense 26.1 引入了 Q-Feeds 插件集成，允许管理员直接在防火墙内应用策划的威胁情报。为了补充这一点，新的主机发现功能可以检测连接网络中的活动设备，从而提供对网络环境的即时洞察。
+在本次发布中，OPNsense 26.1 带来了核心服务和系统组件的进一步更新，有助于保持其作为现代、开放和 API 驱动的防火墙平台的地位。
+查看有关 AlternativeTo 的文章更多信息OPNsense | OPNsense 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/opnsense-26-1-enhances-security-network-visibility-automation-and-threat-intelligence/</guid>
+      <pubDate>Thu, 29 Jan 2026 15:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pandas 3.0 首次推出了数据帧的 str dtype 和 Copy-on-Write</title>
+      <link>https://alternativeto.net/news/2026/1/pandas-3-0-debuts-str-dtype-and-copy-on-write-for-dataframes/</link>
+      <description><![CDATA[pandas 3.0 现已推出，使字符串数据类型成为字符串列的新默认值，并通过 Copy-on-Write 带来更可预测的复制和视图处理。类似日期时间的数据现在默认为微秒分辨率，帮助用户避免与纳秒默认值相关的越界错误。
+该版本还引入了对 pd.col 语法的支持，并删除了之前已弃用的功能。
+查看有关 AlternativeTo 的文章更多信息pandas | pandas 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/pandas-3-0-debuts-str-dtype-and-copy-on-write-for-dataframes/</guid>
+      <pubDate>Thu, 29 Jan 2026 15:29:30 GMT</pubDate>
+    </item>
     <item>
       <title>Vivaldi 7.8 添加了灵活的选项卡平铺、改进的固定选项卡和每日起始页图像</title>
       <link>https://alternativeto.net/news/2026/1/vivaldi-7-8-adds-flexible-tab-tiling-improved-pinned-tabs-and-daily-start-page-images/</link>
@@ -85,79 +152,6 @@ Moonshot AI 还引入了并行代理强化学习，其中可训练的协调器�
 查看有关 AlternativeTo 的文章详细了解 Google One | Google One 替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/1/google-ai-plus-expands-to-35-more-countries-with-added-features/</guid>
       <pubDate>Wed, 28 Jan 2026 08:29:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Anthropic 的压力下，流行的开源 AI 代理 Clawdbot 更名为 Moltbot</title>
-      <link>https://alternativeto.net/news/2026/1/trending-open-source-ai-agent-clawdbot-rebrands-to-moltbot-after-pressure-from-anthropic/</link>
-      <description><![CDATA[Clawdbot，最近病毒式传播的 AI 代理（特别是在 X 上）似乎本周每个人都在谈论，它已被迫更改由于名字与 Claude 相似，面临 Anthropic 的压力，其名称为 Moltbot。
-该项目的快速发展带来了很高的知名度，创始人 Peter Steinberger 表示，Anthropic 出于商标方面的考虑而要求做出改变。品牌重塑已在 GitHub 和网络上上线，clawd.bot 被 molt.bot 取代，吉祥物从 Clawd 重命名为 Molty，同时保留龙虾主题。
-如果您不熟悉，Moltbot（以前称为 Clawdbot）是一款免费的开源 AI 助手，您可以通过 WhatsApp 或 Telegram 等消息应用自行托管和控制。它旨在从您的系统中执行操作，而不仅仅是聊天，具有回复电子邮件、管理日历、筛选电话以及在最少提示的情况下进行预订等功能。 一些用户甚至购买 Mac mini 只是为了托管它（尽管值得注意的是，您可以在其他操作系统甚至虚拟机中执行相同的操作）。然而，值得注意的是，使用这样的代理系统会带来一些安全和隐私风险，因为要执行其中许多任务，系统需要非常敏感的访问权限，包括帐户和凭据、加密的信使访问权限、电话号码、银行帐户和您的个人文件。因此，如果您有兴趣尝试一下，AlternativeTo 建议仅在虚拟机或备用系统上进行此操作，而不是在您的主设备上进行操作。
-查看有关 AlternativeTo 的文章更多信息Moltbot | Moltbot 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/trending-open-source-ai-agent-clawdbot-rebrands-to-moltbot-after-pressure-from-anthropic/</guid>
-      <pubDate>Wed, 28 Jan 2026 06:04:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Heroic Games Launcher 2.19 带来了 Zoom 游戏集成、macOS 上的 DXMT 支持等</title>
-      <link>https://alternativeto.net/news/2026/1/heroic-games-launcher-2-19-brings-zoom-games-integration-dxmt-support-on-macos-and-more/</link>
-      <description><![CDATA[Heroic Games Launcher 2.19，代号“Punk-01 Shaka”，已发布，引入了在 Linux 上集成 Zoom 平台游戏的实验性支持。此功能目前仅限于 Linux，但计划在即将发布的版本中提供跨平台支持。
-对于 macOS 用户，如果重新安装 Wine-Staging，此更新将为 Apple Silicon（M 系列）设备带来 DXMT 功能。与此同时，由于持续存在的问题，在 macOS 上通过单个按钮安装 Steam 的选项已被删除。几个与 Linux 和 macOS 无关的配置选项也已被清理。
-在 Windows 上，安装版和便携版现在都经过数字签名，从而增强了安装或更新启动器时的信任和安全性。进行这些更改后，所有平台的用户都可以受益于新的“启动选项”设置、游戏页面中更容易找到的“导入”按钮、附加的“同步保存”选项以及改进的辅助功能（例如禁用所有动画的功能）。
-游戏手柄导航在整个界面中得到了增强，而 Linux 用户还获得了对 AppImage 自动更新的初步支持，并失去了已弃用的 DXVK 帧速率选项。后端还看到了 Electron（现在版本 39）以及 gogdl 和 legend 组件的更新，解决了与游戏列表和更新相关的错误。
-查看有关 AlternativeTo 的文章有关 Heroic Games Launcher 的更多信息 | Heroic Games Launcher 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/1/heroic-games-launcher-2-19-brings-zoom-games-integration-dxmt-support-on-macos-and-more/</guid>
-      <pubDate>Tue, 27 Jan 2026 16:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jan v3 模型首次亮相，更新为 Jan Desktop v0.7.6</title>
-      <link>https://alternativeto.net/news/2026/1/jan-v3-model-debuts-with-updates-to-jan-desktop-v0-7-6/</link>
-      <description><![CDATA[Jan v0.7.6 重点介绍了新的 Jan V3 模型，该模型现已在入门中作为推荐的默认模型，以实现更快、更高质量的交互以及增强的数学和编码。
-该版本还带来了更新的用户界面，并增加了对 Anthropic Messages API 的支持，从而使本地模型能够与 Claude 兼容的工作流程。
-查看有关 AlternativeTo 的文章有关更多信息Jan.ai | Jan.ai 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/jan-v3-model-debuts-with-updates-to-jan-desktop-v0-7-6/</guid>
-      <pubDate>Tue, 27 Jan 2026 16:16:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude 推出 MCP 应用程序，可与 Canva、Asana、Slack、Figma 等应用程序进行交互</title>
-      <link>https://alternativeto.net/news/2026/1/claude-introduces-mcp-apps-to-interact-with-apps-like-canva-asana-slack-figma-and-more/</link>
-      <description><![CDATA[Anthropic 对 Claude 进行了重大更新，现在使用户能够打开第三方工具并与之交互，例如 Asana、Slack、Canva 和 Figma 直接在对话界面中。对于管理项目的用户来说，此更新允许他们构建和更新 Asana 时间表、起草和预览格式化的 Slack 消息，或者在 Figma 中可视化想法，而无需离开当前的聊天。
-除了简单地连接到现有工具之外，Claude 现在还将这些工具界面嵌入到每个对话中。这意味着可以实时查看和管理 Asana、Slack 或 Figma 中执行的操作，支持协作决策和快速迭代。用户还可以将 Claude 连接到各种平台，包括 Amplitude、Box、Clay、Hex 和 monday.com，从而扩大潜力工作流程。
-基于这些功能，计划进行 Salesforce 集成。借助 Agentforce 360​​，企业团队很快就能够访问统一的上下文并在 Claude 中管理他们的活动。这些功能背后的技术是模型上下文协议（MCP），它建立了连接人工智能工具的开放标准。 MCP 应用程序进一步扩展了这一点，使交互式应用程序界面可在任何支持 MCP 的 AI 产品中使用，而不仅仅是 Claude。
-目前，这些增强功能可在 Web 版和桌面版上供 Pro、Max、Team 和 Enterprise 用户使用，并且即将推出对 Claude Cowork 的支持。
-查看有关 AlternativeTo 的文章更多信息克劳德 | 克劳德替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/claude-introduces-mcp-apps-to-interact-with-apps-like-canva-asana-slack-figma-and-more/</guid>
-      <pubDate>Tue, 27 Jan 2026 15:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>MapLibre 推出 MapLibre Tile (MLT)，这是一种新的现代高效矢量切片格式</title>
-      <link>https://alternativeto.net/news/2026/1/maplibre-introduces-maplibre-tile-mlt--a-new-modern-and-efficient-vector-tile-format/</link>
-      <description><![CDATA[MapLibre 推出了 MapLibre Tile (MLT)，这是一种适用于 Web 和移动地图应用程序的新型开源矢量切片格式。 MLT 定位为 Mapbox Vector Tile (MVT) 的后继者，经过重新设计，可以解决地理空间数据量和复杂性迅速增加的问题，同时利用最新的图形 API 和硬件功能。
-基于这些基础，MLT 专为现代和下一代图形 API 量身定制，支持行星规模 2D 和 2.5D 底图的高性能渲染和处理。初始实现与 MVT1 的功能集相匹配，允许立即集成到现有工作流程中。
-压缩和性能是突出的改进：MLT 通过采用面向列的布局和自定义的轻量级编码，在大型图块上实现了高达六倍的压缩比改进。此设计降低了延迟、存储和出口成本，并提高了缓存效率。通过与单指令、多数据 (SIMD) 和其他矢量化指令兼容的快速编码，解码性能也得到了增强。
-展望未来，MLT 引入了未来增强功能的架构规定，包括对 3D 坐标的本机支持、CPU 和 GPU 的优化处理、线性参考和复杂的数据结构。这些变化使 MLT 与新兴地图技术和行业标准（例如 Overture Maps 和 GeoParquet）保持一致。开发人员可以立即开始尝试 MLT，因为 MapLibre GL JS 和 MapLibre Native 都已经支持新格式。
-查看有关 AlternativeTo 的文章更多信息MapLibre | MapLibre 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/maplibre-introduces-maplibre-tile-mlt--a-new-modern-and-efficient-vector-tile-format/</guid>
-      <pubDate>Tue, 27 Jan 2026 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿里巴巴推出Qwen3-Max-Thinking 与GPT 5.2等顶级人工智能推理模型竞争</title>
-      <link>https://alternativeto.net/news/2026/1/alibaba-unveils-qwen3-max-thinking-to-compete-with-top-ai-reasoning-models-like-gpt-5-2/</link>
-      <description><![CDATA[阿里巴巴发布了迄今为止最强大的推理人工智能模型Qwen3-Max-Thinking。在 19 个广泛认可的基准测试中，Qwen3-Max-Thinking 的性能可与领先模型相媲美，包括 GPT 5.2-Thinking、克劳德 Opus 4.5 和 Gemini 3 Pro。
-为了取得这些成果，Qwen3-Max-Thinking 得益于扩展的模型扩展和大量强化学习资源的应用。这些进步提高了模型的事实准确性、复杂推理能力、指令遵循、与人类偏好的一致性以及对基于代理的任务的支持。
-在这些改进的基础上，Qwen3-Max-Thinking 引入了自适应工具使用功能，使其能够触发检索操作并根据需要调用代码解释器。这项创新提高了其对复杂工作流程的实用性。该模型还实现了先进的测试时间缩放方法，导致在关键任务上的推理性能超越了 Gemini 3 Pro。
-Qwen3-Max-Thinking 现在可以在 Qwen Chat 中或通过 API 进行访问，使开发人员和最终用户能够立即利用其扩展功能。
-查看有关 AlternativeTo 的文章更多信息Qwen | Qwen 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/alibaba-unveils-qwen3-max-thinking-to-compete-with-top-ai-reasoning-models-like-gpt-5-2/</guid>
-      <pubDate>Tue, 27 Jan 2026 08:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Godot 4.6 首次推出现代主题、Jolt 物理、节点 ID 和 LibGodot 嵌入</title>
-      <link>https://alternativeto.net/news/2026/1/godot-4-6-debuts-modern-theme-jolt-physics-node-ids-and-libgodot-embed/</link>
-      <description><![CDATA[Godot 4.6 已发布，带来了一个新的开发阶段，专注于完善、生活质量改善、与行业标准更加一致以及更强的性能优化。编辑器现在默认使用 Modern 主题，基于以前的 Godot Minimal 主题，并更新了对比度、间距和可读性，以减少视觉混乱和颜色偏差。经典主题在编辑器设置中仍然可用。
-编辑器工作流程通过统一的停靠系统进行了进一步更新，允许底部面板像常规停靠点一样运行，并在编辑器边缘之间移动，许多停靠点现在可浮动以进行多显示器设置。 Jolt 物理现在是新 3D 项目的默认引擎，而现有项目将保留其当前配置，除非手动更改。 Godot 4.6 还引入了一个以 IKModifier3D 为中心的新逆向运动学框架，添加了确定性和迭代求解器以实现更高级的动画和约束设置。
-渲染和项目结构改进包括对屏幕空间反射的重大修改，提高全分辨率和半分辨率模式的真实感、稳定性和效率。节点现在使用唯一的内部 ID 在重命名或场景重组期间保持引用完整，并建议场景升级。该版本还引入了 LibGodot，允许引擎作为库嵌入到 Linux、Windows 和 macOS 上。
-查看有关 AlternativeTo 的文章有关 Godot 的更多信息引擎 | Godot 引擎替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/1/godot-4-6-debuts-modern-theme-jolt-physics-node-ids-and-libgodot-embed/</guid>
-      <pubDate>Tue, 27 Jan 2026 04:46:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
