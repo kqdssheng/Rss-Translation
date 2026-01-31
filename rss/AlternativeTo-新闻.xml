@@ -4,7 +4,53 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Fri, 30 Jan 2026 12:56:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 01:57:26 GMT</lastBuildDate>
+    <item>
+      <title>病毒式 AI 代理 Clawdbot 第三次更名，现在拥有机器人社交网络</title>
+      <link>https://alternativeto.net/news/2026/1/the-viral-ai-agent-clawdbot-rebrands-a-third-time-and-now-has-a-social-network-for-bots/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://alternativeto.net/news/2026/1/the-viral-ai-agent-clawdbot-rebrands-a-third-time-and-now-has-a-social-network-for-bots/</guid>
+      <pubDate>Fri, 30 Jan 2026 19:04:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Signal 现在允许用户在一对一和群聊中固定消息，但有时间限制</title>
+      <link>https://alternativeto.net/news/2026/1/signal-now-lets-users-pin-messages-in-one-on-one-and-group-chats-with-time-limits/</link>
+      <description><![CDATA[Signal 在其端到端加密消息传递平台中添加了消息固定功能，允许用户将关键内容保留在 1-1 和群聊的顶部。要固定消息（包括照片、民意调查或文件），用户只需长按所需内容即可。固定后，该消息将显示在发送该消息时所有参与聊天的人的顶部。
+扩展此更改后，每个聊天最多同时支持三个固定消息。如果固定了第四个项目，Signal 将自动取消固定最长的消息，保持三项限制。此更新还引入了过期控制：用户可以选择将消息保留 24 小时、7 天、30 天或无限期。在选定的时间段过后，消息会自行取消固定，但用户可以随时通过点击图钉图标手动取消固定。
+对于群组对话，管理员现在可以指定谁有权固定消息，从而确保更好的监督。这些更新旨在简化聊天管理并改善对个人和群组对话中共享信息的访问。
+查看有关 AlternativeTo 的文章更多信息信号 | 信号替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/1/signal-now-lets-users-pin-messages-in-one-on-one-and-group-chats-with-time-limits/</guid>
+      <pubDate>Fri, 30 Jan 2026 16:53:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ghost 通过详细的订阅见解和新的图表视图改进了“增长”选项卡</title>
+      <link>https://alternativeto.net/news/2026/1/ghost-improves-growth-tab-with-detailed-subscription-insights-and-new-graph-views/</link>
+      <description><![CDATA[Ghost 更新了其“增长”选项卡，以按节奏和等级显示付费订阅细分，使用户可以轻松比较月度和年度计划或会员级别。付费订阅的变化图表现在更加突出，提供了每日、每周或每月视图的新选项。
+此外，将鼠标悬停在会员图表中的数据点上，可以更清晰地了解付费会员和免费会员的详细信息。
+查看有关 AlternativeTo 的文章更多信息Ghost | Ghost 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/ghost-improves-growth-tab-with-detailed-subscription-insights-and-new-graph-views/</guid>
+      <pubDate>Fri, 30 Jan 2026 16:02:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brave 浏览器在设置中添加了阻止 YouTube Playables 的选项</title>
+      <link>https://alternativeto.net/news/2026/1/brave-browser-adds-option-to-block-youtube-playables-in-settings/</link>
+      <description><![CDATA[Brave 浏览器现在允许用户通过启用 Shields 和内容过滤下的设置来阻止 YouTube Playables。用户可以激活“删除 YouTube Playable”以防止 Playable 出现在其 YouTube 界面中。
+查看有关 AlternativeTo 的文章有关 Brave 的更多信息 | 勇敢的替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/brave-browser-adds-option-to-block-youtube-playables-in-settings/</guid>
+      <pubDate>Fri, 30 Jan 2026 15:56:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Astro 5.17 添加了异步解析、分区 cookie、开发工具栏放置和图像控件</title>
+      <link>https://alternativeto.net/news/2026/1/astro-5-17-adds-async-parsing-partitioned-cookies-dev-toolbar-placement-and-image-controls/</link>
+      <description><![CDATA[Astro 5.17 已经发布，为开发人员使用此 JavaScript Web 框架构建内容驱动的网站提供了多项更新。使用开发工具栏的团队现在可以设置项目范围的放置配置。这确保了该工具的位置在用户和开发环境中保持一致。
+就数据工作流程而言，file() 加载器中的 parser() 选项现在可以处理异步函数，从而扩展了可用数据处理模式的范围。 glob() 加载器接收 retainBody 选项，该选项可减少处理大型内容集合的网站的数据存储大小。
+在隐私方面，Astro.cookies.set() 添加了一个partitioned 选项。这允许将 cookie 设置为分区，从而更好地控制隐私，尤其是在嵌入来自第三方的内容时。
+在这些改进之后，图像处理功能得到了扩展，新增了用于图像转换的 background 属性。这允许开发人员为转换为不支持透明度的格式的图像定义后备背景颜色。 Sharp 图像服务现在允许用户选择调整大小内核算法，从而增强对图像质量的控制。
+Astro 5.17 还提供了多个错误修复，为持续开发提供了额外的稳定性。
+查看有关 AlternativeTo 的文章有关 Astro Web 的更多信息框架 | Astro Web 框架替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/1/astro-5-17-adds-async-parsing-partitioned-cookies-dev-toolbar-placement-and-image-controls/</guid>
+      <pubDate>Fri, 30 Jan 2026 13:42:00 GMT</pubDate>
+    </item>
     <item>
       <title>TigerVNC 1.16 添加了 Wayland 桌面共享支持、RHEL 10 软件包和新快捷方式</title>
       <link>https://alternativeto.net/news/2026/1/tigervnc-1-16-adds-wayland-desktop-sharing-support-rhel-10-packages-and-new-shortcuts/</link>
@@ -105,56 +151,6 @@ OPNsense 26.1 注重可用性，提供了重新设计的防火墙规则界面，
 查看有关 AlternativeTo 的文章更多信息OPNsense | OPNsense 替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/1/opnsense-26-1-enhances-security-network-visibility-automation-and-threat-intelligence/</guid>
       <pubDate>Thu, 29 Jan 2026 15:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pandas 3.0 首次推出了数据帧的 str dtype 和 Copy-on-Write</title>
-      <link>https://alternativeto.net/news/2026/1/pandas-3-0-debuts-str-dtype-and-copy-on-write-for-dataframes/</link>
-      <description><![CDATA[pandas 3.0 现已推出，使字符串数据类型成为字符串列的新默认值，并通过 Copy-on-Write 带来更可预测的复制和视图处理。类似日期时间的数据现在默认为微秒分辨率，帮助用户避免与纳秒默认值相关的越界错误。
-该版本还引入了对 pd.col 语法的支持，并删除了之前已弃用的功能。
-查看有关 AlternativeTo 的文章更多信息pandas | pandas 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/pandas-3-0-debuts-str-dtype-and-copy-on-write-for-dataframes/</guid>
-      <pubDate>Thu, 29 Jan 2026 15:29:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vivaldi 7.8 添加了灵活的选项卡平铺、改进的固定选项卡和每日起始页图像</title>
-      <link>https://alternativeto.net/news/2026/1/vivaldi-7-8-adds-flexible-tab-tiling-improved-pinned-tabs-and-daily-start-page-images/</link>
-      <description><![CDATA[Vivaldi 7.8 对选项卡平铺进行了重大增强，使跨多个选项卡的组织、比较和并行工作变得更加容易。用户现在只需将选项卡拖到主内容窗口中即可在上方、下方、并排或网格排列中创建灵活的图块布局。设置完成后，这些平铺布局可以轻松地重新排列、调整大小以及即时添加新选项卡。在管理选项卡时，用户还可以直接打开平铺视图中的链接，从而保持其原始上下文和新内容的可见性。
-在这些选项卡改进之后，Vivaldi 通过域限制的固定选项卡进一步加强了会话控制。例如，这可以确保固定的邮件或项目工具选项卡在整个使用过程中保持聚焦和静止。为了扩展这一重点，固定的 Vivaldi Mail 选项卡现在在所有工作区中保持固定状态，并且 Vivaldi Mail 现在可在每个打开的浏览器窗口中使用。
-基于用户界面体验，起始页具有新的每日图像选项，自动更新为高质量的 Unsplash 照片。其他更新包括整体稳定性改进、插入符号浏览作为键盘用户的专用设置以及更流畅的 Windows 安装程序过程。
-查看有关 AlternativeTo 的文章更多信息维瓦尔第 | 维瓦尔第替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/vivaldi-7-8-adds-flexible-tab-tiling-improved-pinned-tabs-and-daily-start-page-images/</guid>
-      <pubDate>Thu, 29 Jan 2026 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Immich 2.5 增加了节省空间的选项、无损图像编辑、UI 升级等</title>
-      <link>https://alternativeto.net/news/2026/1/immich-2-5-adds-space-saving-option-non-destructive-image-editing-ui-upgrades-and-more/</link>
-      <description><![CDATA[Immich 2.5 是这个开源、自托管照片和视频管理解决方案的最新版本。此更新添加了“释放空间”，这是一项备受期待的功能，可让用户删除已备份到其 Immich 服务器的本地媒体文件。此功能可帮助移动用户回收设备存储，同时确保其原始文件在服务器上的安全。
-基于编辑工作流程，Immich 现在支持非破坏性照片编辑。用户可以在不改变原始图像的情况下更改图像，并允许在需要时自由撤销编辑。同时，备份和恢复现已完全内置于 Immich 本身中，为用户提供直接在 Web 界面中恢复数据库备份的选项。
-继这些核心更新之后，该版本还改进了移动应用的前台上传，并在 Web、移动设备和文档中引入了全新的视觉设计。此更新包括一种新字体，可实现更清晰的易读性，尤其是数字和小文本。此外，移动用户现在可以获得与网络应用程序一致的星级支持。
-安全增强功能包括用于控制管理员注册和更细粒度的 API 权限的新环境变量。通过优化的 HTTP 客户端和改进的缓存，远程图像加载速度更快，同时该平台还添加了渐进式 JPEG 选项以及自动重新启动 Web 幻灯片的功能。
-查看有关 AlternativeTo 的文章更多信息Immich | Immich 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/immich-2-5-adds-space-saving-option-non-destructive-image-editing-ui-upgrades-and-more/</guid>
-      <pubDate>Wed, 28 Jan 2026 15:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软开始测试更新后的 Xbox 云游戏 Web 界面并寻求反馈</title>
-      <link>https://alternativeto.net/news/2026/1/microsoft-begins-testing-a-refreshed-xbox-cloud-gaming-web-interface-asks-for-feedback/</link>
-      <description><![CDATA[Microsoft 已开始测试 Xbox 云游戏 的全新网络体验。此公共预览版允许用户访问更新后的界面，并直接在浏览器中查看新的导航选项和彻底修改的设计。选择加入预览版让参与者有机会在更广泛的推广开始之前尝试改进的产品流程和视觉效果。
-在探索预览版时，用户会注意到某些功能可能不可用或与当前实时版本相比表现不同。微软表示，他们将在测试期间继续迭代和更新该平台，并可能根据收集的反馈进行持续的更改。
-对于那些选择参与的人来说，该过程具有灵活性。如果用户更喜欢之前的设置或遇到任何问题，他们可以随时返回现有的 Web 体验。据微软称，这个早期访问阶段的主要目标是验证平台的新架构，并利用预览参与者的真实反馈来完善更广泛社区的体验。
-查看有关 AlternativeTo 的文章有关 Xbox 云的更多信息游戏 | Xbox 云游戏替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/microsoft-begins-testing-a-refreshed-xbox-cloud-gaming-web-interface-asks-for-feedback/</guid>
-      <pubDate>Wed, 28 Jan 2026 13:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国人工智能模型 Kimi k2.5 推出，具有并行代理群和大上下文窗口</title>
-      <link>https://alternativeto.net/news/2026/1/chinese-ai-model-kimi-k2-5-launches-with-parallel-agent-swarm-and-large-context-window/</link>
-      <description><![CDATA[Moonshot AI 推出了 Kimi K2.5，这是一种专注于可扩展代理协调的开放权重语言模型。其主要新增功能是Agent Swarm，它可以在复杂任务上并行运行多达 100 个子代理，支持每个作业最多 1,500 个工具调用，据报道与单个代理相比，执行时间最多可缩短 4.5 倍。
-K2.5 基于 Kimi K2 构建，采用混合专家架构，具有 1 万亿总参数、384 名专家以及每个代币选择的 8 名专家。它支持256,000 个令牌上下文窗口，接受了大约 15 万亿个令牌的训练，并使用 MoonViT 视觉编码器进行图像和视频理解。
-Moonshot AI 还引入了并行代理强化学习，其中可训练的协调器将子任务分配给专门的代理，并使用阶段性奖励来鼓励并行性而不牺牲质量。该公司将 K2.5 定位为编码（尤其是前端工作）的强大工具，并表示其性能优于 GPT-5.2 和 Gemini 3 Pro 在多个代理和多模式基准测试中。 K2.5 可通过 Kimi.com、移动应用程序、API 以及 Hugging Face 上的可下载权重获取。
-查看有关 AlternativeTo 的文章更多信息Kimi | Kimi 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/chinese-ai-model-kimi-k2-5-launches-with-parallel-agent-swarm-and-large-context-window/</guid>
-      <pubDate>Wed, 28 Jan 2026 13:38:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
