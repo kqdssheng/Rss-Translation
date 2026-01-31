@@ -4,7 +4,18 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sat, 31 Jan 2026 01:57:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 12:48:08 GMT</lastBuildDate>
+    <item>
+      <title>Calibre 9.0 增加了新的书架视图、即时编辑、Linux 滚动升级等</title>
+      <link>https://alternativeto.net/news/2026/1/calibre-9-0-adds-new-bookshelf-view-instant-editing-linux-scrolling-upgrades-and-more/</link>
+      <description><![CDATA[Calibre 9.0 是这款免费开源电子书管理软件的最新更新，为管理数字图书馆的用户提供了多项增强功能。此更新的核心是新的书架视图，它可以直观地排列您的藏书，并在虚拟书架上显示书脊。
+除了视觉上的大修改外，电子书查看器现在还包括一个“编辑图书”按钮。此功能使用户能够在正在查看的大致位置打开编辑器，前提是图书采用可编辑格式（例如 EPUB、AZW3 或 KEPUB）。
+在这些重大改进之后，Linux 用户在使用触摸板等高分辨率滚动设备时，可以从图书列表中基于动量的滚动中受益。为了获得更流畅的阅读体验，用户还可以直接输入页码进行导航，无需滚动页面列表。
+对于无障碍用户和国际用户，Calibre 允许您用替代文本属性替换图像，并添加对来自某些日本出版商的不符合“开放漫画格式”EPUB 文件的封面图像的支持。在自定义选项的基础上，Calibre 现在提供了调整 AI 聊天小部件字体大小的设置。进一步的更新包括与最新 Kobo 固件的兼容性以及一系列错误修复。
+查看有关 AlternativeTo 的文章更多信息calibre | calibre 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/1/calibre-9-0-adds-new-bookshelf-view-instant-editing-linux-scrolling-upgrades-and-more/</guid>
+      <pubDate>Sat, 31 Jan 2026 12:06:00 GMT</pubDate>
+    </item>
     <item>
       <title>病毒式 AI 代理 Clawdbot 第三次更名，现在拥有机器人社交网络</title>
       <link>https://alternativeto.net/news/2026/1/the-viral-ai-agent-clawdbot-rebrands-a-third-time-and-now-has-a-social-network-for-bots/</link>
@@ -35,7 +46,7 @@
       <title>Brave 浏览器在设置中添加了阻止 YouTube Playables 的选项</title>
       <link>https://alternativeto.net/news/2026/1/brave-browser-adds-option-to-block-youtube-playables-in-settings/</link>
       <description><![CDATA[Brave 浏览器现在允许用户通过启用 Shields 和内容过滤下的设置来阻止 YouTube Playables。用户可以激活“删除 YouTube Playable”以防止 Playable 出现在其 YouTube 界面中。
-查看有关 AlternativeTo 的文章有关 Brave 的更多信息 | 勇敢的替代品]]></description>
+查看有关 AlternativeTo 的文章有关 Brave 的更多信息 | 勇敢的替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/1/brave-browser-adds-option-to-block-youtube-playables-in-settings/</guid>
       <pubDate>Fri, 30 Jan 2026 15:56:34 GMT</pubDate>
     </item>
@@ -70,7 +81,7 @@ Astro 5.17 还提供了多个错误修复，为持续开发提供了额外的稳
 此外，LM Studio 还引入了 llmster，这是一个基于桌面应用程序核心的独立服务器本机引擎。 Llmster 可以作为独立的守护进程运行，允许部署在 Linux 系统、云服务器、配备 GPU 的机器或 Google Colab 等环境上，独立于图形应用程序。
 在这些后端更改之后，0.4 版本对用户界面进行了全面的重新设计，提供了更具凝聚力和视觉改进的体验。喜欢命令行的用户可以获得以 lms chat 命令为中心的新 CLI 工具，该工具允许与模型进行直接交互式聊天，并方便从终端下载模型。
 此外，现已推出新的 /v1/chat REST API 端点，使外部应用程序能够与本地模型交互，并提供生成权限令牌的能力，从而帮助管理服务器客户端访问。
-查看有关 AlternativeTo 的文章有关 LM 的更多信息Studio | LM Studio 替代品]]></description>
+查看有关 AlternativeTo 的文章有关 LM 的更多信息Studio | LM Studio 替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/1/lm-studio-0-4-adds-parallel-model-requests-server-native-daemon-and-new-stateful-rest-api/</guid>
       <pubDate>Fri, 30 Jan 2026 07:19:00 GMT</pubDate>
     </item>
@@ -139,18 +150,6 @@ Google 表示，Gemini 可以处理诸如在 Etsy 等网站上购物的工作流
 查看有关 AlternativeTo 的文章有关 Zed 的更多信息编辑器 | Zed 编辑器替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/1/acp-registry-debuts-in-zed-editor-with-built-in-ide-support/</guid>
       <pubDate>Thu, 29 Jan 2026 15:38:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>OPNsense 26.1 增强安全性、网络可见性、自动化和威胁情报</title>
-      <link>https://alternativeto.net/news/2026/1/opnsense-26-1-enhances-security-network-visibility-automation-and-threat-intelligence/</link>
-      <description><![CDATA[OPNsense 26.1，代号为“Witty Woodpecker”，现已作为基于FreeBSD的防火墙和路由系统的最新社区版本提供。此版本提高了管理员的安全性、网络可见性、自动化和操作清晰度。
-OPNsense 26.1 注重可用性，提供了重新设计的防火墙规则界面，可简化规则创建和审查。更新后的实时防火墙日志视图现在可以提供更清晰、更快速的实时流量决策分析。这些更改旨在改进用户监控或调整网络策略的日常工作流程。
-基于平台的开放架构，此更新还扩展了 API 覆盖范围，包括源 NAT 标记和目标 NAT（端口转发）。这些新增功能支持更深入的自动化以及与外部工具和管理系统更灵活的集成。
-继这些增强之后，OPNsense 26.1 引入了 Q-Feeds 插件集成，允许管理员直接在防火墙内应用策划的威胁情报。为了补充这一点，新的主机发现功能可以检测连接网络中的活动设备，从而提供对网络环境的即时洞察。
-在本次发布中，OPNsense 26.1 带来了核心服务和系统组件的进一步更新，有助于保持其作为现代、开放和 API 驱动的防火墙平台的地位。
-查看有关 AlternativeTo 的文章更多信息OPNsense | OPNsense 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/1/opnsense-26-1-enhances-security-network-visibility-automation-and-threat-intelligence/</guid>
-      <pubDate>Thu, 29 Jan 2026 15:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
