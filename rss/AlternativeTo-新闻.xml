@@ -4,7 +4,7 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sun, 01 Feb 2026 02:25:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 12:50:35 GMT</lastBuildDate>
     <item>
       <title>Calibre 9.0 增加了新的书架视图、即时编辑、Linux 滚动升级等</title>
       <link>https://alternativeto.net/news/2026/1/calibre-9-0-adds-new-bookshelf-view-instant-editing-linux-scrolling-upgrades-and-more/</link>
@@ -46,7 +46,7 @@
       <title>Brave 浏览器在设置中添加了阻止 YouTube Playables 的选项</title>
       <link>https://alternativeto.net/news/2026/1/brave-browser-adds-option-to-block-youtube-playables-in-settings/</link>
       <description><![CDATA[Brave 浏览器现在允许用户通过启用 Shields 和内容过滤下的设置来阻止 YouTube Playables。用户可以激活“删除 YouTube Playable”以防止 Playable 出现在其 YouTube 界面中。
-查看有关 AlternativeTo 的文章有关 Brave 的更多信息 | 勇敢的替代方案]]></description>
+查看有关 AlternativeTo 的文章有关 Brave 的更多信息 | 勇敢的替代品]]></description>
       <guid>https://alternativeto.net/news/2026/1/brave-browser-adds-option-to-block-youtube-playables-in-settings/</guid>
       <pubDate>Fri, 30 Jan 2026 15:56:34 GMT</pubDate>
     </item>
@@ -81,7 +81,7 @@ Astro 5.17 还提供了多个错误修复，为持续开发提供了额外的稳
 此外，LM Studio 还引入了 llmster，这是一个基于桌面应用程序核心的独立服务器本机引擎。 Llmster 可以作为独立的守护进程运行，允许部署在 Linux 系统、云服务器、配备 GPU 的机器或 Google Colab 等环境上，独立于图形应用程序。
 在这些后端更改之后，0.4 版本对用户界面进行了全面的重新设计，提供了更具凝聚力和视觉改进的体验。喜欢命令行的用户可以获得以 lms chat 命令为中心的新 CLI 工具，该工具允许与模型进行直接交互式聊天，并方便从终端下载模型。
 此外，现已推出新的 /v1/chat REST API 端点，使外部应用程序能够与本地模型交互，并提供生成权限令牌的能力，从而帮助管理服务器客户端访问。
-查看有关 AlternativeTo 的文章有关 LM 的更多信息Studio | LM Studio 替代方案]]></description>
+查看有关 AlternativeTo 的文章有关 LM 的更多信息Studio | LM Studio 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/1/lm-studio-0-4-adds-parallel-model-requests-server-native-daemon-and-new-stateful-rest-api/</guid>
       <pubDate>Fri, 30 Jan 2026 07:19:00 GMT</pubDate>
     </item>
