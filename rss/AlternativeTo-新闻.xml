@@ -4,7 +4,7 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sun, 01 Feb 2026 12:50:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 02:09:24 GMT</lastBuildDate>
     <item>
       <title>Calibre 9.0 增加了新的书架视图、即时编辑、Linux 滚动升级等</title>
       <link>https://alternativeto.net/news/2026/1/calibre-9-0-adds-new-bookshelf-view-instant-editing-linux-scrolling-upgrades-and-more/</link>
@@ -46,7 +46,7 @@
       <title>Brave 浏览器在设置中添加了阻止 YouTube Playables 的选项</title>
       <link>https://alternativeto.net/news/2026/1/brave-browser-adds-option-to-block-youtube-playables-in-settings/</link>
       <description><![CDATA[Brave 浏览器现在允许用户通过启用 Shields 和内容过滤下的设置来阻止 YouTube Playables。用户可以激活“删除 YouTube Playable”以防止 Playable 出现在其 YouTube 界面中。
-查看有关 AlternativeTo 的文章有关 Brave 的更多信息 | 勇敢的替代品]]></description>
+查看有关 AlternativeTo 的文章有关 Brave 的更多信息 | 勇敢的替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/1/brave-browser-adds-option-to-block-youtube-playables-in-settings/</guid>
       <pubDate>Fri, 30 Jan 2026 15:56:34 GMT</pubDate>
     </item>
@@ -81,7 +81,7 @@ Astro 5.17 还提供了多个错误修复，为持续开发提供了额外的稳
 此外，LM Studio 还引入了 llmster，这是一个基于桌面应用程序核心的独立服务器本机引擎。 Llmster 可以作为独立的守护进程运行，允许部署在 Linux 系统、云服务器、配备 GPU 的机器或 Google Colab 等环境上，独立于图形应用程序。
 在这些后端更改之后，0.4 版本对用户界面进行了全面的重新设计，提供了更具凝聚力和视觉改进的体验。喜欢命令行的用户可以获得以 lms chat 命令为中心的新 CLI 工具，该工具允许与模型进行直接交互式聊天，并方便从终端下载模型。
 此外，现已推出新的 /v1/chat REST API 端点，使外部应用程序能够与本地模型交互，并提供生成权限令牌的能力，从而帮助管理服务器客户端访问。
-查看有关 AlternativeTo 的文章有关 LM 的更多信息Studio | LM Studio 替代品]]></description>
+查看有关 AlternativeTo 的文章有关 LM 的更多信息Studio | LM Studio 替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/1/lm-studio-0-4-adds-parallel-model-requests-server-native-daemon-and-new-stateful-rest-api/</guid>
       <pubDate>Fri, 30 Jan 2026 07:19:00 GMT</pubDate>
     </item>
@@ -90,7 +90,7 @@ Astro 5.17 还提供了多个错误修复，为持续开发提供了额外的稳
       <link>https://alternativeto.net/news/2026/1/google-launches-a-new-ai-agent-style-auto-browse-tool-for-task-automation-in-chrome/</link>
       <description><![CDATA[Google Chrome 宣布将推出由 Gemini 提供支持的新“自动浏览”功能3，它让 AI 助手直接在浏览器内执行任务，与我们最近看到的其他基于 AI 的浏览器非常相似，例如 OpenAI 的 Atlas、Perplexity 的 Comet 或 Dia 浏览器。目前，该功能仅限于拥有有效 Google AI Pro 或 Ultra 订阅的桌面用户，从而使该功能与 Google 的付费 AI 层级相关联。
 此次更新将 Gemini 侧边栏变成了 Chrome 右侧始终可用的面板，取代了之前的浮动窗口。从那里，Gemini 可以通过单击、滚动和填写字段来与网站交互，以完成用户请求。该流程是代理风格：用户描述任务，获得“任务已启动”确认，然后 Gemini 在 Chrome 中执行步骤。
-Google 表示，Gemini 可以处理诸如在 Etsy 等网站上购物的工作流程，方法是搜索商品、将其添加到购物车、应用折扣代码以及根据预算或主题等限制准备结账。获得许可后，它还可以使用 Google 密码管理工具凭据登录（如果您足够勇敢的话），并且“接管任务”按钮可以让用户中断并切换回手动控制。 Google 还计划推出个人智能功能，以便 Chrome 能够记住过去的对话并提供更多上下文帮助，但更广泛的可用性仍然取决于服务器端的推出，而不是特定的 Chrome 版本。
+Google 表示，Gemini 可以处理诸如在 Etsy 等网站上购物的工作流程，方法是搜索商品、将其添加到购物车、应用折扣代码以及根据预算或主题等限制准备结帐。获得许可后，它还可以使用 Google 密码管理工具凭据登录（如果您足够勇敢的话），并且“接管任务”按钮可以让用户中断并切换回手动控制。 Google 还计划推出个人智能功能，以便 Chrome 能够记住过去的对话并提供更多上下文帮助，但更广泛的可用性仍然取决于服务器端的推出，而不是特定的 Chrome 版本。
 查看有关 AlternativeTo 的文章有关 Google 的更多信息Chrome | Google Chrome 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/1/google-launches-a-new-ai-agent-style-auto-browse-tool-for-task-automation-in-chrome/</guid>
       <pubDate>Fri, 30 Jan 2026 05:44:32 GMT</pubDate>
@@ -101,7 +101,7 @@ Google 表示，Gemini 可以处理诸如在 Etsy 等网站上购物的工作流
       <description><![CDATA[DEVONthink 4.2，代号为 Cassini，使用新图标刷新了应用程序的外观，并在 macOS Tahoe 上添加了对 Apple Liquid Glass 设计的支持。在 Tahoe 上，PDF 现在遵循系统深色模式设置，以便于阅读。
 在 macOS Sequoia 及更高版本上，侧边栏和检查器会以动画方式进出，并且“导航”侧边栏现在是弹簧加载的。您可以将项目拖到窗口边缘以自动显示侧边栏，以便更快地导航。
 内置聊天助手现在可以直接从聊天窗口更改设置，并支持最多 50 个已保存的对话。 Web 和 Wikipedia 搜索可以使用 DEVONthink、Perplexity 或 Exa，AI 模型列表现在包括 Claude 4.5、GPT 5.2、Gemini 3 和 Google Nano Banana Pro。图像生成增加了宽高比选择，有一个可拆卸的图形弹出窗口用于可视化文档链接，用于更严格修订控制的命名版本，以及对注释文档和 Markdown 排版的改进，而 DEVONthink 3.9.17 为旧用户带来了错误修复和生活质量更新。
-查看有关 AlternativeTo 的文章更多信息DEVONthink | DEVONthink 替代品]]></description>
+查看有关 AlternativeTo 的文章更多信息DEVONthink | DEVONthink 替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/1/devonthink-4-2-updates-the-design-adds-ai-search-choices-and-upgrades-the-ai-assistant/</guid>
       <pubDate>Fri, 30 Jan 2026 05:11:24 GMT</pubDate>
     </item>
