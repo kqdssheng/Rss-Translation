@@ -4,7 +4,64 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Mon, 02 Feb 2026 02:09:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 13:00:09 GMT</lastBuildDate>
+    <item>
+      <title>谷歌地图将 Gemini 的免提人工智能导航扩展到全球步行和骑车</title>
+      <link>https://alternativeto.net/news/2026/2/google-maps-expands-gemini-s-hand-free-ai-navigation-to-walking-and-cycling-worldwide/</link>
+      <description><![CDATA[Google 正在将 Gemini 在地图中的免提对话式导航扩展到驾驶之外，增加对步行和骑行路线的支持。通过此更新，用户可以询问 Gemini 上下文问题，例如“我在哪个社区？”或请求步行路线上的餐厅推荐，利用地图中的最新现实世界信息。
+对于骑自行车旅行的人来说，Gemini 使用户能够专注于道路，同时接收有关预计到达时间和会议安排的语音回复。骑自行车的人还可以免提发送短信，无需停下来或松开车把即可进行交流。
+这些功能将在全球范围内的 iOS 和 Android 平台上推出，只要 Gemini 可用，就能让更多用户在不同的旅行场景中获得人工智能支持的帮助。
+查看有关 AlternativeTo 的文章有关 Google 的更多信息地图 | Google 地图替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/2/google-maps-expands-gemini-s-hand-free-ai-navigation-to-walking-and-cycling-worldwide/</guid>
+      <pubDate>Mon, 02 Feb 2026 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源视频编辑器 Shotcut 26.1 终于引入硬件视频解码</title>
+      <link>https://alternativeto.net/news/2026/2/open-source-video-editor-shotcut-26-1-finally-introduces-hardware-video-decoding/</link>
+      <description><![CDATA[Shotcut 26.1 已作为此开源多轨视频编辑器的最新版本发布。硬件加速视频解码现在可在 Linux、Windows 和 macOS 上使用，从而减少 CPU 使用率并提高预览性能。除 Linux 上的 NVIDIA 外，默认情况下启用此功能，并且根据平台使用 VA-API、Media Foundation 或 Video Toolbox 实现。如果硬件不支持编解码器，Shotcut 将自动恢复为软件解码以保持兼容性。
+在这些性能更新之后，Shotcut 26.1 引入了上下文“这是什么？” 帮助功能，使用户可以更轻松地获得应用程序界面中特定项目的有针对性的帮助。该更新还增强了工作流程的灵活性，允许用户在 GPU 和 CPU 处理模式之间转换项目。对于那些在高保真色彩空间中工作的用户，使用线性 10 位 GPU 和 CPU 处理模式时可以使用新的混合模式滤镜和跟踪选项。
+基于视频制作功能，此版本将最大导出和视频模式分辨率提高到 8640，从而支持 8K VR180 视频。 Shotcut 26.1 还通过添加对简体中文的支持以及其他增强功能和错误修复来扩展国际可用性。
+查看有关 AlternativeTo 的文章更多信息快捷键 | 快捷键替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/2/open-source-video-editor-shotcut-26-1-finally-introduces-hardware-video-decoding/</guid>
+      <pubDate>Mon, 02 Feb 2026 08:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux Lite 7.8 发布 12 个重写的应用程序并扩展了软件选择</title>
+      <link>https://alternativeto.net/news/2026/2/linux-lite-7-8-releases-12-rewritten-apps-and-expands-software-selection/</link>
+      <description><![CDATA[Linux Lite 7.8 引入了 12 个用 Python 和 GTK4 完全重写的关键应用程序，该发行版为系列 8 中更广泛的变化做好了准备。Lite 软件工具现在提供对 20 多个其他流行应用程序的访问，例如 BleachBit 和 KDE Connect。
+系统监控中心的“系统”选项卡也进行了升级，提供更详细的系统信息。
+查看有关 AlternativeTo 的文章有关 Linux 的更多信息Lite | Linux Lite 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/2/linux-lite-7-8-releases-12-rewritten-apps-and-expands-software-selection/</guid>
+      <pubDate>Mon, 02 Feb 2026 08:26:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tripsy 更新添加了新的小部件功能并改进了 CSV 导出</title>
+      <link>https://alternativeto.net/news/2026/2/tripsy-update-adds-new-widget-features-and-improves-csv-exports/</link>
+      <description><![CDATA[Tripsy 3.7.5 现在在其小部件中显示酒店结帐、汽车租赁还车和停车取车活动。分配的客人也包含在 CSV 导出中，用于支出和活动。此更新包括改进的地图标签，以便更清晰地查看机场代码，并解决了影响网络和移动应用程序的多个错误。
+查看有关 AlternativeTo 的文章有关 Tripsy 的更多信息 | Tripsy 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/tripsy-update-adds-new-widget-features-and-improves-csv-exports/</guid>
+      <pubDate>Mon, 02 Feb 2026 08:14:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify 和其他主要唱片公司起诉 Anna’s Archive，索赔 13 万亿美元</title>
+      <link>https://alternativeto.net/news/2026/2/spotify-and-other-major-record-labels-have-sued-anna-s-archive-for-13-trillion/</link>
+      <description><![CDATA[Spotify 与环球、华纳和索尼音乐一起，对Anna’s Archive提起了价值 13 万亿美元的诉讼。在此之前，Anna’s Archive 在 12 月声称，作为计划的保存档案发布的一部分，它已获得数百万个 Spotify 来源的音乐文件和大量曲目元数据。新诉讼指控该网站非法窃取约 8600 万个受版权保护的音乐文件，据称几乎覆盖了整个商业音乐目录，并要求每个文件赔偿约 151,000 美元的损失。
+Spotify 和唱片公司辩称这些数据是被窃取而不是被黑客入侵，并称 Spotify 禁用了相关帐户并增加了新的保护措施。法庭文件还引用了 Anna’s Archive 声称的通过 BitTorrent 和其他点对点网络分发该集合的计划，以及收集了多达 2.56 亿行曲目元数据的报告。
+在 Anna’s Archive 错过回复截止日期后，一名联邦法官发布了一项初步禁令，指示基础设施提供商（包括域名注册机构和 Cloudflare）阻止对特定 Anna’s Archive 域的访问，因为担心即将发生大规模分发。文件称，这可能会对权利持有者和许可服务造成不可挽回的损害，而 Anna’s Archive 否认了盗版指控，辩称它不直接托管受版权保护的文件。
+查看有关 AlternativeTo 的文章有关 Anna 的更多信息存档 | 安娜的存档替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/2/spotify-and-other-major-record-labels-have-sued-anna-s-archive-for-13-trillion/</guid>
+      <pubDate>Mon, 02 Feb 2026 03:53:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌推出 Project Genie，这是一款为视频游戏构建交互式 3D 世界的人工智能</title>
+      <link>https://alternativeto.net/news/2026/2/google-launches-project-genie-an-ai-that-builds-interactive-3d-worlds-for-video-games/</link>
+      <description><![CDATA[Google DeepMind 推出了Project Genie，首次向公众提供对其Genie 3 人工智能系统的访问。这种 AI 生成的交互式 3D 世界可以实时适应用户的移动和输入，使其感觉比静态 3D 场景生成器更接近视频游戏。虽然 Project Genie 最初是作为人工智能代理训练的研究工具而开发的，但它标志着它在 Google 之外的首次亮相。
+Project Genie 面向 18 岁或以上的美国用户推出 Google AI Ultra 订阅，价格每月 250 美元。它推出三种模式：世界素描、探索和混音。在世界草图绘制中，Google 的 Nano Banana Pro 创建了一个初始图像，用户可以在 Genie 3 生成交互式世界之前对其进行调整。用户还可以定义角色，选择相机视图（例如第一人称或等轴测），并选择他们想要如何在环境中移动。提示可以重复使用并改编自其他世界，尽管生成目前限制为 60 秒、720p 和每秒 24 帧。
+谷歌表示 Genie 3 可以模拟物理和交互，但它不是传统的游戏引擎。尽管如此，该公告发布后第二天几只游戏相关股票遭到抛售，这种反应被广泛解读为投资者对未来的定价，人工智能生成的互动体验可能会扰乱部分游戏管道，Take Two 下跌下跌 7.93% 至 220.30 美元，Roblox 下跌 13.17% 至 65.76 美元，Unity 下跌 24.22% 至 29.10 美元，鉴于其作为广泛使用的游戏引擎和工具层而不是单一游戏发行商的角色，遭受了巨大的打击。
+查看有关 AlternativeTo 的文章有关 DeepMind 的更多信息Genie | DeepMind Genie 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/google-launches-project-genie-an-ai-that-builds-interactive-3d-worlds-for-video-games/</guid>
+      <pubDate>Mon, 02 Feb 2026 03:22:41 GMT</pubDate>
+    </item>
     <item>
       <title>Calibre 9.0 增加了新的书架视图、即时编辑、Linux 滚动升级等</title>
       <link>https://alternativeto.net/news/2026/1/calibre-9-0-adds-new-bookshelf-view-instant-editing-linux-scrolling-upgrades-and-more/</link>
@@ -90,66 +147,10 @@ Astro 5.17 还提供了多个错误修复，为持续开发提供了额外的稳
       <link>https://alternativeto.net/news/2026/1/google-launches-a-new-ai-agent-style-auto-browse-tool-for-task-automation-in-chrome/</link>
       <description><![CDATA[Google Chrome 宣布将推出由 Gemini 提供支持的新“自动浏览”功能3，它让 AI 助手直接在浏览器内执行任务，与我们最近看到的其他基于 AI 的浏览器非常相似，例如 OpenAI 的 Atlas、Perplexity 的 Comet 或 Dia 浏览器。目前，该功能仅限于拥有有效 Google AI Pro 或 Ultra 订阅的桌面用户，从而使该功能与 Google 的付费 AI 层级相关联。
 此次更新将 Gemini 侧边栏变成了 Chrome 右侧始终可用的面板，取代了之前的浮动窗口。从那里，Gemini 可以通过单击、滚动和填写字段来与网站交互，以完成用户请求。该流程是代理风格：用户描述任务，获得“任务已启动”确认，然后 Gemini 在 Chrome 中执行步骤。
-Google 表示，Gemini 可以处理诸如在 Etsy 等网站上购物的工作流程，方法是搜索商品、将其添加到购物车、应用折扣代码以及根据预算或主题等限制准备结帐。获得许可后，它还可以使用 Google 密码管理工具凭据登录（如果您足够勇敢的话），并且“接管任务”按钮可以让用户中断并切换回手动控制。 Google 还计划推出个人智能功能，以便 Chrome 能够记住过去的对话并提供更多上下文帮助，但更广泛的可用性仍然取决于服务器端的推出，而不是特定的 Chrome 版本。
+Google 表示，Gemini 可以处理诸如在 Etsy 等网站上购物的工作流程，方法是搜索商品、将其添加到购物车、应用折扣代码以及根据预算或主题等限制准备结账。获得许可后，它还可以使用 Google 密码管理工具凭据登录（如果您足够勇敢的话），并且“接管任务”按钮可以让用户中断并切换回手动控制。 Google 还计划推出个人智能功能，以便 Chrome 能够记住过去的对话并提供更多上下文帮助，但更广泛的可用性仍然取决于服务器端的推出，而不是特定的 Chrome 版本。
 查看有关 AlternativeTo 的文章有关 Google 的更多信息Chrome | Google Chrome 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/1/google-launches-a-new-ai-agent-style-auto-browse-tool-for-task-automation-in-chrome/</guid>
       <pubDate>Fri, 30 Jan 2026 05:44:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>DEVONthink 4.2更新设计，增加AI搜索选择，升级AI助手</title>
-      <link>https://alternativeto.net/news/2026/1/devonthink-4-2-updates-the-design-adds-ai-search-choices-and-upgrades-the-ai-assistant/</link>
-      <description><![CDATA[DEVONthink 4.2，代号为 Cassini，使用新图标刷新了应用程序的外观，并在 macOS Tahoe 上添加了对 Apple Liquid Glass 设计的支持。在 Tahoe 上，PDF 现在遵循系统深色模式设置，以便于阅读。
-在 macOS Sequoia 及更高版本上，侧边栏和检查器会以动画方式进出，并且“导航”侧边栏现在是弹簧加载的。您可以将项目拖到窗口边缘以自动显示侧边栏，以便更快地导航。
-内置聊天助手现在可以直接从聊天窗口更改设置，并支持最多 50 个已保存的对话。 Web 和 Wikipedia 搜索可以使用 DEVONthink、Perplexity 或 Exa，AI 模型列表现在包括 Claude 4.5、GPT 5.2、Gemini 3 和 Google Nano Banana Pro。图像生成增加了宽高比选择，有一个可拆卸的图形弹出窗口用于可视化文档链接，用于更严格修订控制的命名版本，以及对注释文档和 Markdown 排版的改进，而 DEVONthink 3.9.17 为旧用户带来了错误修复和生活质量更新。
-查看有关 AlternativeTo 的文章更多信息DEVONthink | DEVONthink 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/1/devonthink-4-2-updates-the-design-adds-ai-search-choices-and-upgrades-the-ai-assistant/</guid>
-      <pubDate>Fri, 30 Jan 2026 05:11:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Notesnook 3.3.8 带来了笔记过期、CSV 导入/导出和改进的自定义功能</title>
-      <link>https://alternativeto.net/news/2026/1/notesnook-3-3-8-brings-note-expiration-csv-import-export-and-improved-customization/</link>
-      <description><![CDATA[Notesnook 3.3.8 是注重隐私的笔记应用程序的最新版本，引入了自动笔记过期功能。过期的笔记现在会被移至垃圾箱，从而增强隐私性和组织性。此外，用户现在可以将表格导出为 CSV 文件，并在编辑器中直接将 CSV 数据导入为表格，从而简化电子表格内容的工作。
-在这些增强之后，自定义选项也得到了扩展。用户可以使用新的行高设置来控制编辑器中的行间距，并使用新的日和周格式轻松修改日期的显示方式。选择一周中首选的开始日期和编辑注释创建日期的功能进一步提高了组织的灵活性。
-在移动设备上，Android 用户现在可以选择将笔记本、标签、注释和颜色的快捷方式直接添加到主屏幕，从而加快对常用项目的访问速度。还引入了新的键盘快捷键，以提高整个工作流程的效率。对于跟踪修订的用户，笔记历史记录现在包括每个会话中的标题和内容，使更改跟踪更加全面。
-此版本中的其他改进包括移动设备上的分段上传、可自定义专着标题、附件预览、锁定笔记的冲突检测、改进的同步可靠性、可折叠标题的性能提升以及各种其他增强功能和错误修复。
-查看有关 AlternativeTo 的文章更多信息Notesnook | Notesnook 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/notesnook-3-3-8-brings-note-expiration-csv-import-export-and-improved-customization/</guid>
-      <pubDate>Thu, 29 Jan 2026 18:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Transmission 4.1 带来 IPv6 支持、提升 µTP 性能并添加顺序下载</title>
-      <link>https://alternativeto.net/news/2026/1/transmission-4-1-brings-ipv6-support-boosts-tp-performance-and-adds-sequential-downloads/</link>
-      <description><![CDATA[Transmission 4.1 现已适用于 macOS、Windows 和 Linux，带来了多项核心网络和可用性改进。新版本改进了微传输协议 (µTP) 下载性能，为许多用户带来更快、更可靠的 torrent 传输。添加了对 IPv6 和双栈 UDP 跟踪器的支持，扩展了网络兼容性，同时客户端现在还支持仅依赖于使用 &amp;ipv4= 和 &amp;ipv6= 参数的旧版 BEP-7 协议的跟踪器。
-除了这些后端更改之外，Transmission 还引入了符合 JSON-RPC 2.0 的远程过程调用接口，以实现更加标准化的远程控制和自动化。可选的顺序下载允许对种子中的文件进行优先级排序，这是许多高级用户所要求的功能。菜单和工具栏现在在所有平台上使用本机图标：macOS 上的 SF Symbols、Windows 11 上的 Segoe Fluent、Windows 10 上的 Segoe MDL2 以及其他地方的 XDG 标准图标，提供更加集成的外观和感觉。
-为了解决稳定性问题，此更新修复了 4.0.6 版本中的一个错误，该错误中 Transmission 可能会重复向 HTTP 跟踪器通告。这些更新还包括多项增强功能、针对 macOS、Windows 和 Linux 的平台特定改进以及进一步的错误修复。
-查看有关 AlternativeTo 的文章更多信息传输 | 传输替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/1/transmission-4-1-brings-ipv6-support-boosts-tp-performance-and-adds-sequential-downloads/</guid>
-      <pubDate>Thu, 29 Jan 2026 16:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Opera Neon 在 Neon Chat 中添加了 Llama 4 Maverick 和 Qwen3 LLM</title>
-      <link>https://alternativeto.net/news/2026/1/opera-neon-adds-llama-4-maverick-and-qwen3-llms-to-neon-chat/</link>
-      <description><![CDATA[Opera Neon 通过添加来自 Meta 的 Llama 4 Maverick 模型和两个 Qwen3-Next 变体来扩展其 Neon Chat 产品阵容：思考和指导。用户现在可以从更广泛的 LLM 中进行选择，包括 Opera AI、Gemini 3 Pro、GPT 5.2 和早期版本。可通过 Neon Chat 中的下拉菜单进行模型选择，高级用户可以选择最适合其需求的 LLM。
-查看有关 AlternativeTo 的文章有关 Opera 的更多信息霓虹灯 | Opera 霓虹灯替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/opera-neon-adds-llama-4-maverick-and-qwen3-llms-to-neon-chat/</guid>
-      <pubDate>Thu, 29 Jan 2026 16:05:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Proton Drive SDK 更新带来统一的性能和更快的文件操作</title>
-      <link>https://alternativeto.net/news/2026/1/proton-drive-sdk-update-brings-unified-performance-and-faster-file-operations/</link>
-      <description><![CDATA[Proton Drive SDK 现在可作为所有云端硬盘应用中文件操作的统一基础，支持 JavaScript、C#、Swift 和 Kotlin 支持。用户受益于 iOS 上高达 60% 的上传速度以及网络上的显着速度改进。
-上传、下载和文件夹管理等核心功能目前可供贡献者预览，而更广泛的集成和 CLI 工具仍在开发中。
-查看有关 AlternativeTo 的文章有关 Proton 的更多信息Drive | Proton Drive 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/proton-drive-sdk-update-brings-unified-performance-and-faster-file-operations/</guid>
-      <pubDate>Thu, 29 Jan 2026 15:55:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>ACP 注册表在 Zed 编辑器中首次亮相，具有内置 IDE 支持</title>
-      <link>https://alternativeto.net/news/2026/1/acp-registry-debuts-in-zed-editor-with-built-in-ide-support/</link>
-      <description><![CDATA[代理客户端协议 (ACP) 注册表现已在 Zed Editor 中上线，允许开发人员注册一次代理实现，以便在所有 ACP 兼容客户端上立即使用。 Zed 和 JetBrains IDE 现在具有内置注册表支持，使用户能够直接从编辑器安装和更新代理。注册表已提供对代理的访问，例如 Claude Code、Codex CLI、GitHub Copilot CLI 和 OpenCode。
-查看有关 AlternativeTo 的文章有关 Zed 的更多信息编辑器 | Zed 编辑器替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/1/acp-registry-debuts-in-zed-editor-with-built-in-ide-support/</guid>
-      <pubDate>Thu, 29 Jan 2026 15:38:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
