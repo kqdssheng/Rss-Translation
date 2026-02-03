@@ -4,7 +4,37 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Tue, 03 Feb 2026 02:07:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 13:00:33 GMT</lastBuildDate>
+    <item>
+      <title>Stremio 发布适用于 iOS、iPadOS 和 Apple TV 的全功能可侧载 IPA 应用</title>
+      <link>https://alternativeto.net/news/2026/2/stremio-releases-full-featured-sideloadable-ipa-app-for-ios-ipados-and-apple-tv/</link>
+      <description><![CDATA[Stremio 以其视频流功能而闻名，已发布适用于 iOS、iPadOS 和 Apple TV 的可旁加载 IPA 应用。此举允许Apple平台上的用户直接从Stremio的官方下载页面下载并安装IPA文件来访问该应用程序。新应用程序提供了全功能的体验，提供了 Android 版本上可用的所有功能，并超越了早期 iOS 版 Stremio Lite 版本中的功能。
+虽然 iOS 用户现在可以享受更广泛的功能，但也存在一些限制。由于 Apple 关于旁加载应用程序的政策，Apple 登录和切换等某些功能已在此版本中禁用。这些限制源于 Apple 对非通过官方 App Store 渠道分发的应用程序的要求。
+在发布的同时，Stremio 的团队还澄清说，他们仍在等待苹果公司关于可能将 Stremio Lite 带回 App Store 的回应。与此同时，在 iOS 或 Apple TV 上寻求完整 Stremio 功能集的用户将需要使用旁载版本。
+查看有关 AlternativeTo 的文章更多信息Stremio | Stremio 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/stremio-releases-full-featured-sideloadable-ipa-app-for-ios-ipados-and-apple-tv/</guid>
+      <pubDate>Tue, 03 Feb 2026 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mozilla 详细介绍了 Firefox 148 中用于阻止 AI 功能的新用户控件</title>
+      <link>https://alternativeto.net/news/2026/2/mozilla-details-new-user-controls-for-blocking-ai-features-that-are-coming-in-firefox-148/</link>
+      <description><![CDATA[鉴于Firefox用户的重大担忧，Mozilla 正在为 Firefox 推出新的 AI 控制选项href=&quot;https://alternativeto.net/news/2025/12/mozilla-appoints-new-ceo-and-says-firefox-will-evolve-into-an-ai-web-browser/&quot;&gt;最近宣布了浏览器的人工智能功能。随着 Firefox 148 于 2 月 24 日发布，用户将在浏览器的桌面设置中找到专门的 AI 控件部分。此更新将提供单一位置来管理或完全阻止所有当前和未来的生成人工智能功能。
+在新控件中，用户将能够单独查看和调整对特定功能的访问，例如网页翻译、自动生成 PDF 的替代文本、AI 增强的选项卡分组、链接预览以及浏览器侧边栏中显示的 AI 聊天机器人。如果用户希望完全避免人工智能，“阻止人工智能增强”开关会禁用所有相关功能，并抑制有关现有和即将推出的人工智能添加的弹出窗口或提醒。
+在 Mozilla 引入这些选项后，用户将可以确保他们的 AI 偏好在浏览器更新中保持不变，并且可以随时修改它们。这些设置旨在取得平衡，允许那些想要增强人工智能功能的人选择加入，同时解决早期公告中提出的隐私和用户选择问题。
+查看有关 AlternativeTo 的文章有关 Mozilla 的更多信息Firefox | Mozilla Firefox 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/mozilla-details-new-user-controls-for-blocking-ai-features-that-are-coming-in-firefox-148/</guid>
+      <pubDate>Tue, 03 Feb 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于 Windows 的 Tower 11 带来了提交模板、ARM 原生支持和其他改进</title>
+      <link>https://alternativeto.net/news/2026/2/tower-11-for-windows-brings-commit-templates-arm-native-support-and-other-improvements/</link>
+      <description><![CDATA[适用于 Windows 的 Git 客户端 Tower 11 已发布，通过引入提交模板来关注用户工作流程。用户现在可以在首选项中的新“模板”选项卡中管理模板，为所有存储库选择全局默认值，或使用其设置为特定存储库分配唯一模板。在提交编辑器中工作时，新的“提交模板”按钮可以快速访问所有已保存的模板，以实现高效的消息创建。
+除了这些工作流程升级之外，Tower 11 现已作为 ARM 原生应用程序提供。这可确保 Windows ARM 设备上的用户无需手动干预即可获得更好的速度和能源效率。更新到版本 11 后，将自动为支持的设备提供 ARM 原生版本。
+这些主要功能还得到了一些改进的补充。该版本添加了增强的分支命名选项、对 Git 版本 2.52 的支持、同步书签中的存储库路径、改进了许可证到期日期的处理以及更强大的 GPG 配置管理。还包含了各种错误修复，有助于提供更流畅的用户体验。
+查看有关 AlternativeTo 的文章更多信息塔式 | 塔式替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/2/tower-11-for-windows-brings-commit-templates-arm-native-support-and-other-improvements/</guid>
+      <pubDate>Tue, 03 Feb 2026 08:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Notepad++ 开发人员解决了国家支持的网络攻击后的安全问题</title>
       <link>https://alternativeto.net/news/2026/2/notepad--developer-addresses-security-concerns-following-state-sponsored-cyber-attack/</link>
@@ -22,7 +52,7 @@
       <description><![CDATA[Google 正在将 Gemini 在地图中的免提对话式导航扩展到驾驶之外，增加对步行和骑行路线的支持。通过此更新，用户可以询问 Gemini 上下文问题，例如“我在哪个社区？”或请求步行路线上的餐厅推荐，利用地图中的最新现实世界信息。
 对于骑自行车旅行的人来说，Gemini 使用户能够专注于道路，同时接收有关预计到达时间和会议安排的语音回复。骑自行车的人还可以免提发送短信，无需停下来或松开车把即可进行交流。
 这些功能将在全球范围内的 iOS 和 Android 平台上推出，只要 Gemini 可用，就能让更多用户在不同的旅行场景中获得人工智能支持的帮助。
-查看有关 AlternativeTo 的文章有关 Google 的更多信息地图 | Google 地图替代品]]></description>
+查看有关 AlternativeTo 的文章有关 Google 的更多信息地图 | Google 地图替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/2/google-maps-expands-gemini-s-hand-free-ai-navigation-to-walking-and-cycling-worldwide/</guid>
       <pubDate>Mon, 02 Feb 2026 10:30:00 GMT</pubDate>
     </item>
@@ -41,7 +71,7 @@
       <link>https://alternativeto.net/news/2026/2/linux-lite-7-8-releases-12-rewritten-apps-and-expands-software-selection/</link>
       <description><![CDATA[Linux Lite 7.8 引入了 12 个用 Python 和 GTK4 完全重写的关键应用程序，该发行版为系列 8 中更广泛的变化做好了准备。Lite 软件工具现在提供对 20 多个其他流行应用程序的访问，例如 BleachBit 和 KDE Connect。
 系统监控中心的“系统”选项卡也进行了升级，提供更详细的系统信息。
-查看有关 AlternativeTo 的文章有关 Linux 的更多信息Lite | Linux Lite 替代品]]></description>
+查看有关 AlternativeTo 的文章有关 Linux 的更多信息Lite | Linux Lite 替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/2/linux-lite-7-8-releases-12-rewritten-apps-and-expands-software-selection/</guid>
       <pubDate>Mon, 02 Feb 2026 08:26:11 GMT</pubDate>
     </item>
@@ -117,41 +147,6 @@ Project Genie 面向 18 岁或以上的美国用户推出 Google AI Ultra 订阅
 查看有关 AlternativeTo 的文章有关 Brave 的更多信息 | 勇敢的替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/1/brave-browser-adds-option-to-block-youtube-playables-in-settings/</guid>
       <pubDate>Fri, 30 Jan 2026 15:56:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Astro 5.17 添加了异步解析、分区 cookie、开发工具栏放置和图像控件</title>
-      <link>https://alternativeto.net/news/2026/1/astro-5-17-adds-async-parsing-partitioned-cookies-dev-toolbar-placement-and-image-controls/</link>
-      <description><![CDATA[Astro 5.17 已经发布，为开发人员使用此 JavaScript Web 框架构建内容驱动的网站提供了多项更新。使用开发工具栏的团队现在可以设置项目范围的放置配置。这确保了该工具的位置在用户和开发环境中保持一致。
-就数据工作流程而言，file() 加载器中的 parser() 选项现在可以处理异步函数，从而扩展了可用数据处理模式的范围。 glob() 加载器接收 retainBody 选项，该选项可减少处理大型内容集合的网站的数据存储大小。
-在隐私方面，Astro.cookies.set() 添加了一个partitioned 选项。这允许将 cookie 设置为分区，从而更好地控制隐私，尤其是在嵌入来自第三方的内容时。
-在这些改进之后，图像处理功能得到了扩展，新增了用于图像转换的 background 属性。这允许开发人员为转换为不支持透明度的格式的图像定义后备背景颜色。 Sharp 图像服务现在允许用户选择调整大小内核算法，从而增强对图像质量的控制。
-Astro 5.17 还提供了多个错误修复，为持续开发提供了额外的稳定性。
-查看有关 AlternativeTo 的文章有关 Astro Web 的更多信息框架 | Astro Web 框架替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/1/astro-5-17-adds-async-parsing-partitioned-cookies-dev-toolbar-placement-and-image-controls/</guid>
-      <pubDate>Fri, 30 Jan 2026 13:42:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>TigerVNC 1.16 添加了 Wayland 桌面共享支持、RHEL 10 软件包和新快捷方式</title>
-      <link>https://alternativeto.net/news/2026/1/tigervnc-1-16-adds-wayland-desktop-sharing-support-rhel-10-packages-and-new-shortcuts/</link>
-      <description><![CDATA[TigerVNC 1.16 现已推出，可在其虚拟网络计算服务器和客户端软件上提供更新。该版本在本机查看器中引入了新的键盘快捷键系统，取代了 F8 快捷键。此修改允许用户更轻松地切换全屏模式并重定向系统键以改进控制。
-除此之外，本机查看器现在支持在窗口和全屏会话中发送和拦截系统密钥。在Windows上，所有系统密钥都可以被拦截和转发。对于 macOS 用户，采用了新的系统密钥拦截方法，现在需要明确的用户批准才能操作。进一步的可用性改进包括在远程会话调整大小期间提供更灵敏的界面，以及具有可搜索历史记录的增强服务器字段，以简化连接管理。
-主要新增功能是 w0vncserver，它支持从 Wayland 桌面共享屏幕，这是发行版转向 Wayland 显示协议的关键一步。同时，Java 查看器受益于更精确的缩放控制，允许对会话显示进行更精细的调整。
-在打包方面，新支持了 Red Hat Enterprise Linux 10，但没有 libvnc.so，而对 Ubuntu 20.04 和 Red Hat Enterprise Linux 7 的旧支持已不再提供已停产。
-查看有关 AlternativeTo 的文章更多信息TigerVNC | TigerVNC 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/tigervnc-1-16-adds-wayland-desktop-sharing-support-rhel-10-packages-and-new-shortcuts/</guid>
-      <pubDate>Fri, 30 Jan 2026 10:31:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>LM Studio 0.4 添加了并行模型请求、服务器本机守护进程和新的有状态 REST API</title>
-      <link>https://alternativeto.net/news/2026/1/lm-studio-0-4-adds-parallel-model-requests-server-native-daemon-and-new-stateful-rest-api/</link>
-      <description><![CDATA[LM Studio 0.4 已发布，扩展了其发现和运行本地开放大语言模型（例如 gpt-oss、Llama、Gemma、Qwen 和 DeepSeek）的平台。此更新带来了多项重要的后端和用户体验增强。
-在核心改进中，发送到同一模型的请求现在可以并行处理，而不是排队。此更改可通过 API 和使用拆分视图的聊天会话实现更高的吞吐量场景。因此，需要并发响应的工作负载可以立即获得性能优势。
-此外，LM Studio 还引入了 llmster，这是一个基于桌面应用程序核心的独立服务器本机引擎。 Llmster 可以作为独立的守护进程运行，允许部署在 Linux 系统、云服务器、配备 GPU 的机器或 Google Colab 等环境上，独立于图形应用程序。
-在这些后端更改之后，0.4 版本对用户界面进行了全面的重新设计，提供了更具凝聚力和视觉改进的体验。喜欢命令行的用户可以获得以 lms chat 命令为中心的新 CLI 工具，该工具允许与模型进行直接交互式聊天，并方便从终端下载模型。
-此外，现已推出新的 /v1/chat REST API 端点，使外部应用程序能够与本地模型交互，并提供生成权限令牌的能力，从而帮助管理服务器客户端访问。
-查看有关 AlternativeTo 的文章有关 LM 的更多信息Studio | LM Studio 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/1/lm-studio-0-4-adds-parallel-model-requests-server-native-daemon-and-new-stateful-rest-api/</guid>
-      <pubDate>Fri, 30 Jan 2026 07:19:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
