@@ -4,14 +4,25 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Mon, 02 Feb 2026 13:00:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 02:07:44 GMT</lastBuildDate>
+    <item>
+      <title>Notepad++ 开发人员解决了国家支持的网络攻击后的安全问题</title>
+      <link>https://alternativeto.net/news/2026/2/notepad--developer-addresses-security-concerns-following-state-sponsored-cyber-attack/</link>
+      <description><![CDATA[广泛使用的文本编辑器 Notepad++ 的主要维护者 Don Ho 公开解决了影响该软件更新机制的安全漏洞，该漏洞于 2025 年 12 月首次披露。在最近的一篇博文中，Ho 确认，以名为 WinGUp 的内部更新组件为中心的危害已通过迁移到更安全的托管提供商和实施增强型加密来解决保障措施。该事件可能在 2025 年 6 月至 12 月期间暴露用户数据，是由允许攻击者拦截和重定向更新流量的漏洞触发的，可能会迫使用户下载恶意二进制文件而不是合法更新。
+独立安全分析表明，此次违规行为很可能是由中国国家资助的组织策划的，这解释了该活动的高度针对性。 Ho 分享了前托管提供商的信件，其中确认了更新服务器的 PHP 端点 (getDownloadUrl.php) 上的可疑活动，并指出，虽然底层漏洞已于 2025 年 9 月 2 日修补，但攻击者保留访问权限，直到 12 月 2 日 Notepad++ 服务完全迁移。 Ho 向受影响的用户道歉，并强调此类事件不会再次发生，并引用了现有的强化验证协议：自版本 8.8.9 起，WinGUp 会验证下载安装程序的证书和数字签名。下一个版本 8.9.2 将于大约一个月后发布，它将在 2026 年 1 月 26 日发布的版本 8.9.1 中引入的安全改进的基础上，对更新元数据强制执行强制性 XML 签名 (XMLDSig) 验证。
+这并不是何鸿燊第一次面临地缘政治争议。 2019 年，他将 Notepad++ 7.8.1 版“自由维吾尔族”命名为“自由维吾尔族”，并将 7.8.9 版“与香港站在一起”，引起了中国民族主义者的愤怒。 Kong”，此举引发了对其 GitHub 存储库的协同垃圾邮件攻击。当时，何承认将政治与软件交织在一起的风险，并指出商业实体通常会避免这种立场。然而，在处理这起最新事件时，他对技术诚信和个人原则的承诺仍然显而易见，在不损害用户信任的情况下平衡透明度、问责制和主动安全增强。
+此次违规事件凸显了针对开源软件的供应链攻击日益复杂，并凸显了对强大的更新验证机制的迫切需求。 Ho 的反应迅速、技术性强且透明，为广泛部署的工具的维护者树立了基准。随着 Notepad++ 继续为全球数百万人提供服务，其抵御未来威胁的能力现在依赖于强化的基础设施和加密控制，以确保更新保持安全和可信。
+查看有关 AlternativeTo 的文章更多信息Notepad++ | Notepad++ 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/notepad--developer-addresses-security-concerns-following-state-sponsored-cyber-attack/</guid>
+      <pubDate>Mon, 02 Feb 2026 14:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌地图将 Gemini 的免提人工智能导航扩展到全球步行和骑车</title>
       <link>https://alternativeto.net/news/2026/2/google-maps-expands-gemini-s-hand-free-ai-navigation-to-walking-and-cycling-worldwide/</link>
       <description><![CDATA[Google 正在将 Gemini 在地图中的免提对话式导航扩展到驾驶之外，增加对步行和骑行路线的支持。通过此更新，用户可以询问 Gemini 上下文问题，例如“我在哪个社区？”或请求步行路线上的餐厅推荐，利用地图中的最新现实世界信息。
 对于骑自行车旅行的人来说，Gemini 使用户能够专注于道路，同时接收有关预计到达时间和会议安排的语音回复。骑自行车的人还可以免提发送短信，无需停下来或松开车把即可进行交流。
 这些功能将在全球范围内的 iOS 和 Android 平台上推出，只要 Gemini 可用，就能让更多用户在不同的旅行场景中获得人工智能支持的帮助。
-查看有关 AlternativeTo 的文章有关 Google 的更多信息地图 | Google 地图替代方案]]></description>
+查看有关 AlternativeTo 的文章有关 Google 的更多信息地图 | Google 地图替代品]]></description>
       <guid>https://alternativeto.net/news/2026/2/google-maps-expands-gemini-s-hand-free-ai-navigation-to-walking-and-cycling-worldwide/</guid>
       <pubDate>Mon, 02 Feb 2026 10:30:00 GMT</pubDate>
     </item>
@@ -30,7 +41,7 @@
       <link>https://alternativeto.net/news/2026/2/linux-lite-7-8-releases-12-rewritten-apps-and-expands-software-selection/</link>
       <description><![CDATA[Linux Lite 7.8 引入了 12 个用 Python 和 GTK4 完全重写的关键应用程序，该发行版为系列 8 中更广泛的变化做好了准备。Lite 软件工具现在提供对 20 多个其他流行应用程序的访问，例如 BleachBit 和 KDE Connect。
 系统监控中心的“系统”选项卡也进行了升级，提供更详细的系统信息。
-查看有关 AlternativeTo 的文章有关 Linux 的更多信息Lite | Linux Lite 替代方案]]></description>
+查看有关 AlternativeTo 的文章有关 Linux 的更多信息Lite | Linux Lite 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/2/linux-lite-7-8-releases-12-rewritten-apps-and-expands-software-selection/</guid>
       <pubDate>Mon, 02 Feb 2026 08:26:11 GMT</pubDate>
     </item>
@@ -141,16 +152,6 @@ Astro 5.17 还提供了多个错误修复，为持续开发提供了额外的稳
 查看有关 AlternativeTo 的文章有关 LM 的更多信息Studio | LM Studio 替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/1/lm-studio-0-4-adds-parallel-model-requests-server-native-daemon-and-new-stateful-rest-api/</guid>
       <pubDate>Fri, 30 Jan 2026 07:19:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌推出新的人工智能代理式“自动浏览”工具，用于 Chrome 中的任务自动化</title>
-      <link>https://alternativeto.net/news/2026/1/google-launches-a-new-ai-agent-style-auto-browse-tool-for-task-automation-in-chrome/</link>
-      <description><![CDATA[Google Chrome 宣布将推出由 Gemini 提供支持的新“自动浏览”功能3，它让 AI 助手直接在浏览器内执行任务，与我们最近看到的其他基于 AI 的浏览器非常相似，例如 OpenAI 的 Atlas、Perplexity 的 Comet 或 Dia 浏览器。目前，该功能仅限于拥有有效 Google AI Pro 或 Ultra 订阅的桌面用户，从而使该功能与 Google 的付费 AI 层级相关联。
-此次更新将 Gemini 侧边栏变成了 Chrome 右侧始终可用的面板，取代了之前的浮动窗口。从那里，Gemini 可以通过单击、滚动和填写字段来与网站交互，以完成用户请求。该流程是代理风格：用户描述任务，获得“任务已启动”确认，然后 Gemini 在 Chrome 中执行步骤。
-Google 表示，Gemini 可以处理诸如在 Etsy 等网站上购物的工作流程，方法是搜索商品、将其添加到购物车、应用折扣代码以及根据预算或主题等限制准备结账。获得许可后，它还可以使用 Google 密码管理工具凭据登录（如果您足够勇敢的话），并且“接管任务”按钮可以让用户中断并切换回手动控制。 Google 还计划推出个人智能功能，以便 Chrome 能够记住过去的对话并提供更多上下文帮助，但更广泛的可用性仍然取决于服务器端的推出，而不是特定的 Chrome 版本。
-查看有关 AlternativeTo 的文章有关 Google 的更多信息Chrome | Google Chrome 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/google-launches-a-new-ai-agent-style-auto-browse-tool-for-task-automation-in-chrome/</guid>
-      <pubDate>Fri, 30 Jan 2026 05:44:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
