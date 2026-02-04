@@ -4,7 +4,72 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Tue, 03 Feb 2026 13:00:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 02:02:43 GMT</lastBuildDate>
+    <item>
+      <title>Substack 为 iOS 应用程序用户引入了自定义主题和新导航</title>
+      <link>https://alternativeto.net/news/2026/2/substack-introduces-custom-themes-and-new-navigation-for-ios-app-users/</link>
+      <description><![CDATA[Substack 现在在其 iOS 应用程序中提供自定义主题，让用户可以个性化各个提要的外观。新的顶行导航可以更轻松地访问最喜欢的子堆栈。
+我们还计划在未来的更新中扩展 Feed 管理和审核功能。
+查看有关 AlternativeTo 的文章有关 Substack 的更多信息 | 子堆栈替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/2/substack-introduces-custom-themes-and-new-navigation-for-ios-app-users/</guid>
+      <pubDate>Tue, 03 Feb 2026 16:00:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adobe 停止了其流行的动画软件 Animate，因为它更加关注人工智能</title>
+      <link>https://alternativeto.net/news/2026/2/adobe-discontinues-its-popular-animation-software-animate-as-it-focuses-even-more-on-ai/</link>
+      <description><![CDATA[Adobe 已正式宣布停止使用其长期使用的多媒体创作和动画软件 Adobe Animate。该产品广泛用于创建矢量图形和动画，从 2026 年 3 月 1 日开始，新客户将不再提供下载。
+此后，非企业客户将在 2027 年 3 月 1 日之前继续访问该软件、技术支持并能够下载其内容。但是，企业用户的时间表会延长，并在 2029 年 3 月 1 日之前提供持续的访问和支持。Adobe 将这一决定解释为对不断发展的技术趋势和取代传统动画工作流程（例如 AI）的新兴平台的回应。
+对于当前需要迁移的用户，Adobe 建议考虑使用 After Effects 进行高级项目。用户应注意，After Effects 提供了更高的复杂性和更陡峭的学习曲线，这可能需要额外的调整。为了满足各种需求，我们还可以指出一系列其他替代方案，包括开源解决方案，例如 OpenToonz、TupiTube、Glaxnimate 和 Synfig Studio，以及专有工具，例如 Expressive Animator 和 动画台。
+查看有关 AlternativeTo 的文章有关 Adobe 的更多信息Animate | Adobe Animate 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/adobe-discontinues-its-popular-animation-software-animate-as-it-focuses-even-more-on-ai/</guid>
+      <pubDate>Tue, 03 Feb 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Craft Agents：用于通过零配置集成管理人工智能的开源界面</title>
+      <link>https://alternativeto.net/news/2026/2/craft-agents-open-source-interface-for-managing-ai-with-zero-config-integrations/</link>
+      <description><![CDATA[Craft 推出了 Craft Agents，作为一个开源、以文档为中心的界面，用于管理 AI 代理。 Craft Agents 通过解释 API 和文档（包括屏幕截图），提供与各种服务的零配置集成。用户可以通过长时间运行的会话执行多任务、直接上传文档以及调整代理权限以实现不同的自主权。
+查看有关 AlternativeTo 的文章有关 Craft 的更多信息 | 工艺替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/craft-agents-open-source-interface-for-managing-ai-with-zero-config-integrations/</guid>
+      <pubDate>Tue, 03 Feb 2026 15:55:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>openSUSE Tumbleweed 带来事务更新 6.0.6 和 Ruby 4.0 更新</title>
+      <link>https://alternativeto.net/news/2026/2/opensuse-tumbleweed-brings-transactional-update-6-0-6-and-ruby-4-0-updates/</link>
+      <description><![CDATA[openSUSE Tumbleweed 已于 2026 年开始进行重大软件包更新，其中包括事务更新 6.0.6 和 Ruby 4.0 等重要版本。事务更新彻底改进提高了 MicroOS 的原子更新可靠性、日志记录和合规性。 Ruby 4.0 实现了打包和构建流程的现代化，而 GNOME、KDE ​​和 Xfce 桌面则获得了稳定性和用户体验改进。
+安全补丁解决了curl、cups、QEMU和Vim中的漏洞。
+查看有关 AlternativeTo 的文章更多信息openSUSE | openSUSE 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/2/opensuse-tumbleweed-brings-transactional-update-6-0-6-and-ruby-4-0-updates/</guid>
+      <pubDate>Tue, 03 Feb 2026 15:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Opera Neon 推出智能模式，用于自动选择 AI 代理</title>
+      <link>https://alternativeto.net/news/2026/2/opera-neon-introduces-intelligent-mode-for-automatic-ai-agent-selection/</link>
+      <description><![CDATA[Opera Neon推出了智能模式，这是一项新功能，可以根据用户的请求自动推荐最合适的人工智能代理。此模式可识别“聊天”、“执行”、“进行”或“1 分钟研究”是否最适合提示，从而最大限度地减少手动选择代理的需要。用户可以选择切换到建议的代理或继续当前模式，确保对每次交互的控制。
+查看有关 AlternativeTo 的文章有关 Opera 的更多信息霓虹灯 | Opera 霓虹灯替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/opera-neon-introduces-intelligent-mode-for-automatic-ai-agent-selection/</guid>
+      <pubDate>Tue, 03 Feb 2026 15:26:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crunchyroll 在取消其免费套餐后立即提高了美国所有计划的价格</title>
+      <link>https://alternativeto.net/news/2026/2/crunchyroll-raises-prices-for-all-plans-in-the-us-right-after-killing-its-free-tier/</link>
+      <description><![CDATA[Crunchyroll 宣布其美国 Fan、Mega Fan 和 Ultimate Fan 会员级别即将涨价。从 2026 年 2 月 2 日开始，现有的每月订阅者预计 Fan 等级将从每月 7.99 美元上涨至 9.99 美元，Mega Fan 等级从每月 11.99 美元上涨至 13.99 美元，Ultimate Fan 等级从每月 15.99 美元上涨至 17.99 美元。这些新价格将于 2026 年 3 月 4 日之后每个订阅者的下一个结算日期生效。
+为了应对这些变化，Crunchyroll 为会员提供限时机会，以每年 66.99 美元的价格升级到 Fan 年度计划，与按月计费相比，每月有效费用降低至 5.58 美元。此次调整标志着美国粉丝级别自 2019 年以来首次提价，凸显了这些订阅者的价格相对较长的稳定期。
+继一个月前停止其免费的广告支持计划之后，此次价格调整标志着 Crunchyroll 将继续转向完全付费模式。在整个娱乐行业，定期涨价已经成为一种常态，许多流媒体平台也做出了类似的调整。
+查看有关 AlternativeTo 的文章更多信息Crunchyroll | Crunchyroll 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/crunchyroll-raises-prices-for-all-plans-in-the-us-right-after-killing-its-free-tier/</guid>
+      <pubDate>Tue, 03 Feb 2026 14:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 推出适用于 macOS 的专用 Codex 桌面应用程序，任何人都可以免费试用</title>
+      <link>https://alternativeto.net/news/2026/2/openai-unveils-a-dedicated-codex-desktop-app-for-macos-and-anyone-can-try-it-for-free/</link>
+      <description><![CDATA[OpenAI 推出了一款专门针对 macOS 用户的全新 Codex 桌面应用程序，引入了多代理支持，以增强开发人员在软件项目中使用人工智能的方式。该应用程序使用户能够管理多个人工智能编码代理，每个代理在单独的线程中运行并按项目组织，支持无缝任务切换。
+在应用程序中，开发人员可以在项目线程中查看和评论代理生成的代码更改，或者直接在自己的编辑器中打开差异以进行手动编辑。通过集成工作树支持，该应用程序允许多个代理在同一存储库上操作，而不会发生文件冲突，因为每个代理都在代码库的独立副本上工作。当代理进行更改时，用户可以在本地检查结果或让代理继续而不更改主 git 历史记录。
+在这些工作流程改进之后，Codex 使从 Codex 命令行界面和 IDE 扩展导入会话历史记录和配置变得简单。借助新的技能系统，代理可以协助研究、信息综合、写作以及代码生成之外的其他任务。可以设置自动化来按照用户定义的时间表运行指定的任务，结合后台工作的指令和技能。
+在安全性方面，该应用程序采用可配置的开源系统级沙箱，限制代理的文件访问，并需要明确的权限来执行需要网络访问的命令。 Codex 现已在 macOS 上向所有 ChatGPT Plus、Pro、Business、Enterprise 和 Edu 订阅者开放，并向 Free 和 Go 用户授予临时访问权限。在此期间，OpenAI 还将所有付费 Codex 用户的速率限制提高了一倍。
+查看有关 AlternativeTo 的文章有关 OpenAI 的更多信息Codex | OpenAI Codex 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/2/openai-unveils-a-dedicated-codex-desktop-app-for-macos-and-anyone-can-try-it-for-free/</guid>
+      <pubDate>Tue, 03 Feb 2026 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Stremio 发布适用于 iOS、iPadOS 和 Apple TV 的全功能可侧载 IPA 应用</title>
       <link>https://alternativeto.net/news/2026/2/stremio-releases-full-featured-sideloadable-ipa-app-for-ios-ipados-and-apple-tv/</link>
@@ -82,71 +147,6 @@
 查看有关 AlternativeTo 的文章有关 Tripsy 的更多信息 | Tripsy 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/2/tripsy-update-adds-new-widget-features-and-improves-csv-exports/</guid>
       <pubDate>Mon, 02 Feb 2026 08:14:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spotify 和其他主要唱片公司起诉 Anna’s Archive，索赔 13 万亿美元</title>
-      <link>https://alternativeto.net/news/2026/2/spotify-and-other-major-record-labels-have-sued-anna-s-archive-for-13-trillion/</link>
-      <description><![CDATA[Spotify 与环球、华纳和索尼音乐一起，对Anna’s Archive提起了价值 13 万亿美元的诉讼。在此之前，Anna’s Archive 在 12 月声称，作为计划的保存档案发布的一部分，它已获得数百万个 Spotify 来源的音乐文件和大量曲目元数据。新诉讼指控该网站非法窃取约 8600 万个受版权保护的音乐文件，据称几乎覆盖了整个商业音乐目录，并要求每个文件赔偿约 151,000 美元的损失。
-Spotify 和唱片公司辩称这些数据是被窃取而不是被黑客入侵，并称 Spotify 禁用了相关帐户并增加了新的保护措施。法庭文件还引用了 Anna’s Archive 声称的通过 BitTorrent 和其他点对点网络分发该集合的计划，以及收集了多达 2.56 亿行曲目元数据的报告。
-在 Anna’s Archive 错过回复截止日期后，一名联邦法官发布了一项初步禁令，指示基础设施提供商（包括域名注册机构和 Cloudflare）阻止对特定 Anna’s Archive 域的访问，因为担心即将发生大规模分发。文件称，这可能会对权利持有者和许可服务造成不可挽回的损害，而 Anna’s Archive 否认了盗版指控，辩称它不直接托管受版权保护的文件。
-查看有关 AlternativeTo 的文章有关 Anna 的更多信息存档 | 安娜的存档替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/2/spotify-and-other-major-record-labels-have-sued-anna-s-archive-for-13-trillion/</guid>
-      <pubDate>Mon, 02 Feb 2026 03:53:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌推出 Project Genie，这是一款为视频游戏构建交互式 3D 世界的人工智能</title>
-      <link>https://alternativeto.net/news/2026/2/google-launches-project-genie-an-ai-that-builds-interactive-3d-worlds-for-video-games/</link>
-      <description><![CDATA[Google DeepMind 推出了Project Genie，首次向公众提供对其Genie 3 人工智能系统的访问。这种 AI 生成的交互式 3D 世界可以实时适应用户的移动和输入，使其感觉比静态 3D 场景生成器更接近视频游戏。虽然 Project Genie 最初是作为人工智能代理训练的研究工具而开发的，但它标志着它在 Google 之外的首次亮相。
-Project Genie 面向 18 岁或以上的美国用户推出 Google AI Ultra 订阅，价格每月 250 美元。它推出三种模式：世界素描、探索和混音。在世界草图绘制中，Google 的 Nano Banana Pro 创建了一个初始图像，用户可以在 Genie 3 生成交互式世界之前对其进行调整。用户还可以定义角色，选择相机视图（例如第一人称或等轴测），并选择他们想要如何在环境中移动。提示可以重复使用并改编自其他世界，尽管生成目前限制为 60 秒、720p 和每秒 24 帧。
-谷歌表示 Genie 3 可以模拟物理和交互，但它不是传统的游戏引擎。尽管如此，该公告发布后第二天几只游戏相关股票遭到抛售，这种反应被广泛解读为投资者对未来的定价，人工智能生成的互动体验可能会扰乱部分游戏管道，Take Two 下跌下跌 7.93% 至 220.30 美元，Roblox 下跌 13.17% 至 65.76 美元，Unity 下跌 24.22% 至 29.10 美元，鉴于其作为广泛使用的游戏引擎和工具层而不是单一游戏发行商的角色，遭受了巨大的打击。
-查看有关 AlternativeTo 的文章有关 DeepMind 的更多信息Genie | DeepMind Genie 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/google-launches-project-genie-an-ai-that-builds-interactive-3d-worlds-for-video-games/</guid>
-      <pubDate>Mon, 02 Feb 2026 03:22:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Calibre 9.0 增加了新的书架视图、即时编辑、Linux 滚动升级等</title>
-      <link>https://alternativeto.net/news/2026/1/calibre-9-0-adds-new-bookshelf-view-instant-editing-linux-scrolling-upgrades-and-more/</link>
-      <description><![CDATA[Calibre 9.0 是这款免费开源电子书管理软件的最新更新，为管理数字图书馆的用户提供了多项增强功能。此更新的核心是新的书架视图，它可以直观地排列您的藏书，并在虚拟书架上显示书脊。
-除了视觉上的大修改外，电子书查看器现在还包括一个“编辑图书”按钮。此功能使用户能够在正在查看的大致位置打开编辑器，前提是图书采用可编辑格式（例如 EPUB、AZW3 或 KEPUB）。
-在这些重大改进之后，Linux 用户在使用触摸板等高分辨率滚动设备时，可以从图书列表中基于动量的滚动中受益。为了获得更流畅的阅读体验，用户还可以直接输入页码进行导航，无需滚动页面列表。
-对于无障碍用户和国际用户，Calibre 允许您用替代文本属性替换图像，并添加对来自某些日本出版商的不符合“开放漫画格式”EPUB 文件的封面图像的支持。在自定义选项的基础上，Calibre 现在提供了调整 AI 聊天小部件字体大小的设置。进一步的更新包括与最新 Kobo 固件的兼容性以及一系列错误修复。
-查看有关 AlternativeTo 的文章更多信息calibre | calibre 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/calibre-9-0-adds-new-bookshelf-view-instant-editing-linux-scrolling-upgrades-and-more/</guid>
-      <pubDate>Sat, 31 Jan 2026 12:06:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>病毒式 AI 代理 Clawdbot 第三次更名，现在拥有机器人社交网络</title>
-      <link>https://alternativeto.net/news/2026/1/the-viral-ai-agent-clawdbot-rebrands-a-third-time-and-now-has-a-social-network-for-bots/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://alternativeto.net/news/2026/1/the-viral-ai-agent-clawdbot-rebrands-a-third-time-and-now-has-a-social-network-for-bots/</guid>
-      <pubDate>Fri, 30 Jan 2026 19:04:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Signal 现在允许用户在一对一和群聊中固定消息，但有时间限制</title>
-      <link>https://alternativeto.net/news/2026/1/signal-now-lets-users-pin-messages-in-one-on-one-and-group-chats-with-time-limits/</link>
-      <description><![CDATA[Signal 在其端到端加密消息传递平台中添加了消息固定功能，允许用户将关键内容保留在 1-1 和群聊的顶部。要固定消息（包括照片、民意调查或文件），用户只需长按所需内容即可。固定后，该消息将显示在发送该消息时所有参与聊天的人的顶部。
-扩展此更改后，每个聊天最多同时支持三个固定消息。如果固定了第四个项目，Signal 将自动取消固定最长的消息，保持三项限制。此更新还引入了过期控制：用户可以选择将消息保留 24 小时、7 天、30 天或无限期。在选定的时间段过后，消息会自行取消固定，但用户可以随时通过点击图钉图标手动取消固定。
-对于群组对话，管理员现在可以指定谁有权固定消息，从而确保更好的监督。这些更新旨在简化聊天管理并改善对个人和群组对话中共享信息的访问。
-查看有关 AlternativeTo 的文章更多信息信号 | 信号替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/1/signal-now-lets-users-pin-messages-in-one-on-one-and-group-chats-with-time-limits/</guid>
-      <pubDate>Fri, 30 Jan 2026 16:53:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ghost 通过详细的订阅见解和新的图表视图改进了“增长”选项卡</title>
-      <link>https://alternativeto.net/news/2026/1/ghost-improves-growth-tab-with-detailed-subscription-insights-and-new-graph-views/</link>
-      <description><![CDATA[Ghost 更新了其“增长”选项卡，以按节奏和等级显示付费订阅细分，使用户可以轻松比较月度和年度计划或会员级别。付费订阅的变化图表现在更加突出，提供了每日、每周或每月视图的新选项。
-此外，将鼠标悬停在会员图表中的数据点上，可以更清晰地了解付费会员和免费会员的详细信息。
-查看有关 AlternativeTo 的文章更多信息Ghost | Ghost 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/1/ghost-improves-growth-tab-with-detailed-subscription-insights-and-new-graph-views/</guid>
-      <pubDate>Fri, 30 Jan 2026 16:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Brave 浏览器在设置中添加了阻止 YouTube Playables 的选项</title>
-      <link>https://alternativeto.net/news/2026/1/brave-browser-adds-option-to-block-youtube-playables-in-settings/</link>
-      <description><![CDATA[Brave 浏览器现在允许用户通过启用 Shields 和内容过滤下的设置来阻止 YouTube Playables。用户可以激活“删除 YouTube Playable”以防止 Playable 出现在其 YouTube 界面中。
-查看有关 AlternativeTo 的文章有关 Brave 的更多信息 | 勇敢的替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/1/brave-browser-adds-option-to-block-youtube-playables-in-settings/</guid>
-      <pubDate>Fri, 30 Jan 2026 15:56:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
