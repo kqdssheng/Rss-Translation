@@ -4,7 +4,37 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Wed, 04 Feb 2026 02:02:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 12:59:20 GMT</lastBuildDate>
+    <item>
+      <title>Posteo 将标准邮箱存储空间增加一倍至 4GB，无需额外费用</title>
+      <link>https://alternativeto.net/news/2026/2/posteo-doubles-standard-mailbox-storage-to-4gb-at-no-extra-cost/</link>
+      <description><![CDATA[Posteo 已将所有用户的标准邮箱存储空间从 2GB 增加到 4GB，同时维持每月 1 欧元的价格。之前支付额外存储费用的客户将不再为前 2GB 支付附加费。
+此次升级是由于 Posteo 邮箱删除工具推出后存储需求减少而实现的。
+查看有关 AlternativeTo 的文章有关 Posteo 的更多信息 | Posteo 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/2/posteo-doubles-standard-mailbox-storage-to-4gb-at-no-extra-cost/</guid>
+      <pubDate>Wed, 04 Feb 2026 10:27:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>CLI shell Fish 4.4 带来了 Vi 模式改进、新颜色主题和其他增强功能</title>
+      <link>https://alternativeto.net/news/2026/2/cli-shell-fish-4-4-brings-vi-mode-improvements-new-color-themes-and-other-enhancements/</link>
+      <description><![CDATA[Fish 4.4 的发布明确侧重于提高这个类 Unix shell 用户的交互性和可用性。在标题更改中，内置的 bind 命令现在默认列出所有输入模式的键映射，而自动建议则经过改进，仅显示有意义的逐行建议。现在，shell 在获取控制权时还会清除 FLUSHO 终端标志，解决了在 macOS 系统上按 ctrl-o 触发的问题。此外，内置 history 工具现在假设 PAGER 环境变量支持 ANSI 颜色序列。
+在这些工作流程更改之后，Vi 模式键绑定得到了显着的增强。通过 w、W、e 和 E 进行的文字移动现在与 Vim 紧密结合，并且新的特殊输入功能为用户提供了更多移动选项。操作员模式支持移动和删除的命令计数，反映了经典的 Vim 用法，而几个新的 catpuccin-* 颜色主题提供了额外的自定义选项。
+在视觉改进方面，set_color 现在支持删除文本修饰符。对于那些自定义环境的人来说，默认的化石提示现在已禁用。
+开发工作流程受益于将 WITH_GETTEXT CMake 选项重命名为 WITH_MESSAGE_LOCALIZATION，反映了与后端无关的本地化，并且新的 cargo xtask 命令可以替代某些 CMake 任务。该版本还引入了一些回归修复。
+查看有关 AlternativeTo 的文章更多信息鱼 | 鱼替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/cli-shell-fish-4-4-brings-vi-mode-improvements-new-color-themes-and-other-enhancements/</guid>
+      <pubDate>Wed, 04 Feb 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tor 项目发布 Arti 2.0，对中继和目录权限进行了重大改进</title>
+      <link>https://alternativeto.net/news/2026/2/tor-project-releases-arti-2-0-with-major-improvements-to-relay-and-directory-authority/</link>
+      <description><![CDATA[Tor 项目宣布发布 Arti 2.0，引入了使用 Rust 编程语言的 Tor 匿名协议的下一代实现的一些更新。此版本不再支持已弃用的 proxy.socks_port 和 proxy.dns_port 配置选项，以及用于指定目录权限的旧语法。 arti 箱中的所有公共 API 现在都明确标记为实验性的，引导开发人员随着平台的发展而期待变化。
+在这些删除的基础上，Arti 2.0 引入了 inet-auto 套接字类型，允许 RPC 服务器自动选择可用的 TCP 端口。此功能有助于简化自动化部署或容器化设置。尽管用户还不能将 Arti 作为中继或权限运行，但在幕后，中继和目录权限支持方面的重要技术工作仍在继续。
+对于中继，此更新带来了模块化电路反应堆架构、启动中继通道的选项、握手响应机制以及中继在传输层安全 (TLS) 连接中充当服务器的准备工作。关于目录权限，该版本改进了权限证书的管理、验证和存储。这些努力使 Arti 更接近于在未来支持完整的中继和目录权限功能。
+查看有关 AlternativeTo 的文章更多信息Arti | Arti 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/tor-project-releases-arti-2-0-with-major-improvements-to-relay-and-directory-authority/</guid>
+      <pubDate>Wed, 04 Feb 2026 08:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Substack 为 iOS 应用程序用户引入了自定义主题和新导航</title>
       <link>https://alternativeto.net/news/2026/2/substack-introduces-custom-themes-and-new-navigation-for-ios-app-users/</link>
@@ -120,33 +150,6 @@
 查看有关 AlternativeTo 的文章有关 Google 的更多信息地图 | Google 地图替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/2/google-maps-expands-gemini-s-hand-free-ai-navigation-to-walking-and-cycling-worldwide/</guid>
       <pubDate>Mon, 02 Feb 2026 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源视频编辑器 Shotcut 26.1 终于引入硬件视频解码</title>
-      <link>https://alternativeto.net/news/2026/2/open-source-video-editor-shotcut-26-1-finally-introduces-hardware-video-decoding/</link>
-      <description><![CDATA[Shotcut 26.1 已作为此开源多轨视频编辑器的最新版本发布。硬件加速视频解码现在可在 Linux、Windows 和 macOS 上使用，从而减少 CPU 使用率并提高预览性能。除 Linux 上的 NVIDIA 外，默认情况下启用此功能，并且根据平台使用 VA-API、Media Foundation 或 Video Toolbox 实现。如果硬件不支持编解码器，Shotcut 将自动恢复为软件解码以保持兼容性。
-在这些性能更新之后，Shotcut 26.1 引入了上下文“这是什么？” 帮助功能，使用户可以更轻松地获得应用程序界面中特定项目的有针对性的帮助。该更新还增强了工作流程的灵活性，允许用户在 GPU 和 CPU 处理模式之间转换项目。对于那些在高保真色彩空间中工作的用户，使用线性 10 位 GPU 和 CPU 处理模式时可以使用新的混合模式滤镜和跟踪选项。
-基于视频制作功能，此版本将最大导出和视频模式分辨率提高到 8640，从而支持 8K VR180 视频。 Shotcut 26.1 还通过添加对简体中文的支持以及其他增强功能和错误修复来扩展国际可用性。
-查看有关 AlternativeTo 的文章更多信息快捷键 | 快捷键替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/2/open-source-video-editor-shotcut-26-1-finally-introduces-hardware-video-decoding/</guid>
-      <pubDate>Mon, 02 Feb 2026 08:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux Lite 7.8 发布 12 个重写的应用程序并扩展了软件选择</title>
-      <link>https://alternativeto.net/news/2026/2/linux-lite-7-8-releases-12-rewritten-apps-and-expands-software-selection/</link>
-      <description><![CDATA[Linux Lite 7.8 引入了 12 个用 Python 和 GTK4 完全重写的关键应用程序，该发行版为系列 8 中更广泛的变化做好了准备。Lite 软件工具现在提供对 20 多个其他流行应用程序的访问，例如 BleachBit 和 KDE Connect。
-系统监控中心的“系统”选项卡也进行了升级，提供更详细的系统信息。
-查看有关 AlternativeTo 的文章有关 Linux 的更多信息Lite | Linux Lite 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/2/linux-lite-7-8-releases-12-rewritten-apps-and-expands-software-selection/</guid>
-      <pubDate>Mon, 02 Feb 2026 08:26:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tripsy 更新添加了新的小部件功能并改进了 CSV 导出</title>
-      <link>https://alternativeto.net/news/2026/2/tripsy-update-adds-new-widget-features-and-improves-csv-exports/</link>
-      <description><![CDATA[Tripsy 3.7.5 现在在其小部件中显示酒店结帐、汽车租赁还车和停车取车活动。分配的客人也包含在 CSV 导出中，用于支出和活动。此更新包括改进的地图标签，以便更清晰地查看机场代码，并解决了影响网络和移动应用程序的多个错误。
-查看有关 AlternativeTo 的文章有关 Tripsy 的更多信息 | Tripsy 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/tripsy-update-adds-new-widget-features-and-improves-csv-exports/</guid>
-      <pubDate>Mon, 02 Feb 2026 08:14:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
