@@ -4,7 +4,100 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Thu, 05 Feb 2026 02:04:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 13:02:57 GMT</lastBuildDate>
+    <item>
+      <title>Navidrome 0.60 添加了基于 WebAssembly 的插件系统、新的 Instant Mix 功能等</title>
+      <link>https://alternativeto.net/news/2026/2/navidrome-0-60-adds-webassembly-based-plugin-system-new-instant-mix-feature-and-more/</link>
+      <description><![CDATA[Navidrome 0.60 已作为此开源自托管音乐收藏服务器和流媒体平台的最新更新发布。该版本的一个主要重点是对实验性插件系统的完全重写，现在支持多语言插件开发套件。这允许开发人员通过使用 Go、Rust、Python 或 JavaScript 编写的基于 WebAssembly 的插件来扩展 Navidrome。所有插件都在安全沙箱中执行，并且可以添加新的元数据源、自定义集成或服务器端增强功能。借助使用 JSONForms 进行配置的用户界面，用户可以更轻松地管理插件。
+基于这些技术变化，Navidrome 0.60 引入了使用 go-taglib 库实现的纯 Go 元数据提取器。这减少了对先前 C++ TagLib 依赖的依赖，并有望简化未来的跨平台构建和打包。 Go 提取器默认启用，但用户可以根据需要恢复。
+在这些改进之后，新的“Instant Mix”功能使用户能够自动生成类似歌曲的播放列表。默认情况下，它使用 Last.fm（使用 API 密钥配置时）或 Deezer，并且可以利用基于插件的建议，例如由 AudioMuse-AI。
+此版本中的其他更新包括新的和更改的配置选项、改进的安全措施以及各种错误修复。
+查看有关 AlternativeTo 的文章更多信息Navidrome | Navidrome 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/2/navidrome-0-60-adds-webassembly-based-plugin-system-new-instant-mix-feature-and-more/</guid>
+      <pubDate>Thu, 05 Feb 2026 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adobe 推翻了停止 Animate 的决定，将应用程序置于“维护模式”</title>
+      <link>https://alternativeto.net/news/2026/2/adobe-reverses-decision-to-discontinue-animate-puts-app-into-maintenance-mode-instead/</link>
+      <description><![CDATA[在受到创意界的广泛批评后，Adobe 撤销了之前停止使用 Animate 平台的决定。官方更新澄清，所有当前和新客户都可以继续访问 Adobe Animate，确保持续访问软件和用户生成的内容。从 Adobe 产品阵容中删除不再有固定日期。
+更改后，Adobe Animate 已进入“维护模式”。这意味着，虽然不会开发新功能，但 Adob​​e 将继续通过安全性和错误修复来支持该应用程序。该公司声明此政策适用于个人、商业和企业客户，并强调无论未来的开发如何变化，用户的内容和工作流程都将继续受到支持。
+尽管许多用户在逆转后表示松了口气，但仍然存在一些不满。用户群中的主要声音批评了基于订阅的许可模式，认为 Animate 应该转换为永久许可，因为 Adob​​e 不再计划添加新功能。这些正在进行的讨论凸显了对 Animate 订阅者长期价值的挥之不去的担忧。
+查看有关 AlternativeTo 的文章有关 Adobe 的更多信息Animate | Adobe Animate 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/adobe-reverses-decision-to-discontinue-animate-puts-app-into-maintenance-mode-instead/</guid>
+      <pubDate>Thu, 05 Feb 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pandoc 3.9：WebAssembly 支持、PDF 标准和改进的浏览器功能</title>
+      <link>https://alternativeto.net/news/2026/2/pandoc-3-9-webassembly-support-pdf-standards-and-improved-browser-features/</link>
+      <description><![CDATA[Pandoc 3.9 现在可以编译为 WebAssembly，从而可以直接在 Web 浏览器中使用，以及专用的 JavaScript 桥和基于浏览器的 GUI。现在支持 JSON 和 YAML 格式的默认文件，并且 --extract-media 可以导出到 zip 存档。
+此版本还通过 lualatex 引入了 PDF 标准支持，并带来了多项错误修复和阅读器增强功能。
+查看有关 AlternativeTo 的文章有关 Pandoc 的更多信息 | Pandoc 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/pandoc-3-9-webassembly-support-pdf-standards-and-improved-browser-features/</guid>
+      <pubDate>Thu, 05 Feb 2026 09:39:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Visual Studio Code 1.109 发布聊天用户体验检修和高级代理控件</title>
+      <link>https://alternativeto.net/news/2026/2/visual-studio-code-1-109-releases-chat-ux-overhaul-and-advanced-agent-controls/</link>
+      <description><![CDATA[Visual Studio Code 1.109 对其聊天用户体验进行了重大更新，提供更快的流式传输和改进的内联聊天体验。新功能简化了代理会话管理，让用户可以委派任务并构建自定义多代理工作流程。
+该版本还增加了对 Claude 代理和 Anthropic 模型的支持，同时在集成编辑器浏览器中启用应用程序测试。
+查看有关 AlternativeTo 的文章有关 Visual Studio 的更多信息代码 | Visual Studio 代码替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/2/visual-studio-code-1-109-releases-chat-ux-overhaul-and-advanced-agent-controls/</guid>
+      <pubDate>Thu, 05 Feb 2026 09:25:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zed Editor 添加了多个编辑预测提供程序和可插拔架构</title>
+      <link>https://alternativeto.net/news/2026/2/zed-editor-adds-multiple-edit-prediction-providers-and-pluggable-architecture/</link>
+      <description><![CDATA[Zed Editor 现在允许用户在多个编辑预测提供程序之间切换，包括 Zeta、Mercury Coder、Sweep、Ollama、Codestral 和 GitHub Copilot 的下一个编辑建议。新的可插入提供程序架构简化了附加模型和定制解决方案的集成。
+Ollama 支持已上线，支持本地使用 CodeLlama 和 DeepSeek 等开放权重模型，从而提供更好的隐私和控制。
+查看有关 AlternativeTo 的文章有关 Zed 的更多信息编辑器 | Zed 编辑器替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/2/zed-editor-adds-multiple-edit-prediction-providers-and-pluggable-architecture/</guid>
+      <pubDate>Thu, 05 Feb 2026 09:19:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jules 增加了对 Linear、Stitch、Neon 等的 MCP 服务器支持</title>
+      <link>https://alternativeto.net/news/2026/2/jules-adds-mcp-server-support-for-linear-stitch-neon-and-more/</link>
+      <description><![CDATA[Jules 现在为 Linear 提供 MCP 服务器集成，Stitch、Neon、Tinybird、Context7 和 Supabase。用户可以通过在 Jules 设置页面中为每个服务添加 API 密钥来启用这些连接。
+最初的推出侧重于安全性，限制对经过审查的提供商的支持以及审核权限和数据流。
+查看有关 AlternativeTo 的文章有关 Jules 的更多信息 | 朱尔斯替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/jules-adds-mcp-server-support-for-linear-stitch-neon-and-more/</guid>
+      <pubDate>Thu, 05 Feb 2026 09:08:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify 扩展歌词翻译，添加离线访问和前置歌词预览</title>
+      <link>https://alternativeto.net/news/2026/2/spotify-expands-lyric-translations-adds-offline-access-and-front-facing-lyric-previews/</link>
+      <description><![CDATA[Spotify 已为免费和高级用户推出全球歌词翻译，使歌词更易于理解，无论语言如何。高级订阅者现在可以离线访问保存的歌词以及下载的曲目。此外，歌词预览现在显示在移动和平板电脑设备上的专辑封面或画布下方，提高了所有用户的歌词可见性。
+查看有关 AlternativeTo 的文章更多信息Spotify | Spotify 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/spotify-expands-lyric-translations-adds-offline-access-and-front-facing-lyric-previews/</guid>
+      <pubDate>Thu, 05 Feb 2026 08:50:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌已开始实现 Google Meet 和 Microsoft Teams 之间的互操作性</title>
+      <link>https://alternativeto.net/news/2026/2/google-has-started-implementing-interoperability-between-google-meet-and-microsoft-teams/</link>
+      <description><![CDATA[Google 正在为其 Google Meet 视频会议硬件推出新的设备互操作性，支持与 Microsoft Teams 会议室直接连接。这一进步连接了两个主要的企业视频平台，允许在特定条件下跨系统加入会议。
+目前，该功能仅适用于基于 Chrome 操作系统的 Google Meet 会议室和基于 Windows 的 Microsoft Teams 会议室。虽然这为使用这两个生态系统的组织提供了灵活性，但访问权限仅限于订阅 Google Workspace 的企业客户。
+根据 Microsoft 向欧盟委员会做出的监管承诺，此举旨在简化混合硬件在企业环境中的使用。然而，虽然互操作性连接了设备，但用户仅限于基本的视频会议。根据 Google 文档，当会议室跨平台连接时，不支持演示、双屏支持和集成视频聊天等功能。这意味着公司可以期待简单的视频会议功能，而无需在本机环境中提供全套协作选项。
+查看有关 AlternativeTo 的文章有关 Google 的更多信息Meet | Google Meet 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/2/google-has-started-implementing-interoperability-between-google-meet-and-microsoft-teams/</guid>
+      <pubDate>Thu, 05 Feb 2026 08:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GCompris 26.0 发布，为教师提供新的活动和配套工具</title>
+      <link>https://alternativeto.net/news/2026/2/gcompris-26-0-launches-with-new-activities-and-companion-tool-for-teachers/</link>
+      <description><![CDATA[GCompris 版本 26.0 现已推出，提供 197 项活动，包括新的绘图轮和多项选择题活动。该版本还标志着 GCompris-teachers 的首次亮相，这是一款专为教育工作者设计的配套工具。
+其他更新包括对卡纳达语和泰米尔语翻译的支持以及跨多个活动的各种错误修复和改进。软件包适用于 Linux、Windows、Android 和 Raspberry Pi。
+查看有关 AlternativeTo 的文章更多信息GCompris | GCompris 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/gcompris-26-0-launches-with-new-activities-and-companion-tool-for-teachers/</guid>
+      <pubDate>Thu, 05 Feb 2026 08:23:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stremio for Android TV v1.9.1 更新播放器和用户设置</title>
+      <link>https://alternativeto.net/news/2026/2/stremio-for-android-tv-v1-9-1-adds-player-updates-and-new-user-settings/</link>
+      <description><![CDATA[Stremio for Android TV v1.9.1 引入了更新的播放器 UI 以及新的自定义选项，例如在播放器上显示设备时钟以及在字幕菜单中隐藏其他语言。此更新解决了多个播放错误，改进了字幕处理、播放器背景和搜索控件。
+目前正在审核的 1.9.2 版本还修复了旧版 Fire OS 设备上的元数据问题。
+查看有关 AlternativeTo 的文章更多信息Stremio | Stremio 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/stremio-for-android-tv-v1-9-1-adds-player-updates-and-new-user-settings/</guid>
+      <pubDate>Thu, 05 Feb 2026 08:17:47 GMT</pubDate>
+    </item>
     <item>
       <title>WinRAR 7.20 带来更快的存档处理、新的时间控制和更好的 UTF-8 兼容性</title>
       <link>https://alternativeto.net/news/2026/2/winrar-7-20-brings-faster-archive-handling-new-time-controls-and-better-utf-8-compatibility/</link>
@@ -40,7 +133,7 @@ Xcode 26.3 提供与 Claude Agent 和 Codex 的无缝连接。开发人员可以
       <link>https://alternativeto.net/news/2026/2/posteo-doubles-standard-mailbox-storage-to-4gb-at-no-extra-cost/</link>
       <description><![CDATA[Posteo 已将所有用户的标准邮箱存储空间从 2GB 增加到 4GB，同时维持每月 1 欧元的价格。之前支付额外存储费用的客户将不再为前 2GB 支付附加费。
 此次升级是由于 Posteo 邮箱删除工具推出后存储需求减少而实现的。
-查看有关 AlternativeTo 的文章有关 Posteo 的更多信息 | Posteo 替代品]]></description>
+查看有关 AlternativeTo 的文章有关 Posteo 的更多信息 | Posteo 替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/2/posteo-doubles-standard-mailbox-storage-to-4gb-at-no-extra-cost/</guid>
       <pubDate>Wed, 04 Feb 2026 10:27:33 GMT</pubDate>
     </item>
@@ -54,101 +147,6 @@ Xcode 26.3 提供与 Claude Agent 和 Codex 的无缝连接。开发人员可以
 查看有关 AlternativeTo 的文章更多信息鱼 | 鱼替代品]]></description>
       <guid>https://alternativeto.net/news/2026/2/cli-shell-fish-4-4-brings-vi-mode-improvements-new-color-themes-and-other-enhancements/</guid>
       <pubDate>Wed, 04 Feb 2026 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tor 项目发布 Arti 2.0，对中继和目录权限进行了重大改进</title>
-      <link>https://alternativeto.net/news/2026/2/tor-project-releases-arti-2-0-with-major-improvements-to-relay-and-directory-authority/</link>
-      <description><![CDATA[Tor 项目宣布发布 Arti 2.0，引入了使用 Rust 编程语言的 Tor 匿名协议的下一代实现的一些更新。此版本不再支持已弃用的 proxy.socks_port 和 proxy.dns_port 配置选项，以及用于指定目录权限的旧语法。 arti 箱中的所有公共 API 现在都明确标记为实验性的，引导开发人员随着平台的发展而期待变化。
-在这些删除的基础上，Arti 2.0 引入了 inet-auto 套接字类型，允许 RPC 服务器自动选择可用的 TCP 端口。此功能有助于简化自动化部署或容器化设置。尽管用户还不能将 Arti 作为中继或权限运行，但在幕后，中继和目录权限支持方面的重要技术工作仍在继续。
-对于中继，此更新带来了模块化电路反应堆架构、启动中继通道的选项、握手响应机制以及中继在传输层安全 (TLS) 连接中充当服务器的准备工作。关于目录权限，该版本改进了权限证书的管理、验证和存储。这些努力使 Arti 更接近于在未来支持完整的中继和目录权限功能。
-查看有关 AlternativeTo 的文章更多信息Arti | Arti 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/tor-project-releases-arti-2-0-with-major-improvements-to-relay-and-directory-authority/</guid>
-      <pubDate>Wed, 04 Feb 2026 08:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Substack 为 iOS 应用程序用户引入了自定义主题和新导航</title>
-      <link>https://alternativeto.net/news/2026/2/substack-introduces-custom-themes-and-new-navigation-for-ios-app-users/</link>
-      <description><![CDATA[Substack 现在在其 iOS 应用程序中提供自定义主题，让用户可以个性化各个提要的外观。新的顶行导航可以更轻松地访问最喜欢的子堆栈。
-我们还计划在未来的更新中扩展 Feed 管理和审核功能。
-查看有关 AlternativeTo 的文章有关 Substack 的更多信息 | 子堆栈替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/2/substack-introduces-custom-themes-and-new-navigation-for-ios-app-users/</guid>
-      <pubDate>Tue, 03 Feb 2026 16:00:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adobe 停止了其流行的动画软件 Animate，因为它更加关注人工智能</title>
-      <link>https://alternativeto.net/news/2026/2/adobe-discontinues-its-popular-animation-software-animate-as-it-focuses-even-more-on-ai/</link>
-      <description><![CDATA[Adobe 已正式宣布停止使用其长期使用的多媒体创作和动画软件 Adobe Animate。该产品广泛用于创建矢量图形和动画，从 2026 年 3 月 1 日开始，新客户将不再提供下载。
-此后，非企业客户将在 2027 年 3 月 1 日之前继续访问该软件、技术支持并能够下载其内容。但是，企业用户的时间表会延长，并在 2029 年 3 月 1 日之前提供持续的访问和支持。Adobe 将这一决定解释为对不断发展的技术趋势和取代传统动画工作流程（例如 AI）的新兴平台的回应。
-对于当前需要迁移的用户，Adobe 建议考虑使用 After Effects 进行高级项目。用户应注意，After Effects 提供了更高的复杂性和更陡峭的学习曲线，这可能需要额外的调整。为了满足各种需求，我们还可以指出一系列其他替代方案，包括开源解决方案，例如 OpenToonz、TupiTube、Glaxnimate 和 Synfig Studio，以及专有工具，例如 Expressive Animator 和 动画台。
-查看有关 AlternativeTo 的文章有关 Adobe 的更多信息Animate | Adobe Animate 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/adobe-discontinues-its-popular-animation-software-animate-as-it-focuses-even-more-on-ai/</guid>
-      <pubDate>Tue, 03 Feb 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Craft Agents：用于通过零配置集成管理人工智能的开源界面</title>
-      <link>https://alternativeto.net/news/2026/2/craft-agents-open-source-interface-for-managing-ai-with-zero-config-integrations/</link>
-      <description><![CDATA[Craft 推出了 Craft Agents，作为一个开源、以文档为中心的界面，用于管理 AI 代理。 Craft Agents 通过解释 API 和文档（包括屏幕截图），提供与各种服务的零配置集成。用户可以通过长时间运行的会话执行多任务、直接上传文档以及调整代理权限以实现不同的自主权。
-查看有关 AlternativeTo 的文章有关 Craft 的更多信息 | 工艺替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/craft-agents-open-source-interface-for-managing-ai-with-zero-config-integrations/</guid>
-      <pubDate>Tue, 03 Feb 2026 15:55:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>openSUSE Tumbleweed 带来事务更新 6.0.6 和 Ruby 4.0 更新</title>
-      <link>https://alternativeto.net/news/2026/2/opensuse-tumbleweed-brings-transactional-update-6-0-6-and-ruby-4-0-updates/</link>
-      <description><![CDATA[openSUSE Tumbleweed 已于 2026 年开始进行重大软件包更新，其中包括事务更新 6.0.6 和 Ruby 4.0 等重要版本。事务更新彻底改进提高了 MicroOS 的原子更新可靠性、日志记录和合规性。 Ruby 4.0 实现了打包和构建流程的现代化，而 GNOME、KDE ​​和 Xfce 桌面则获得了稳定性和用户体验改进。
-安全补丁解决了curl、cups、QEMU和Vim中的漏洞。
-查看有关 AlternativeTo 的文章更多信息openSUSE | openSUSE 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/2/opensuse-tumbleweed-brings-transactional-update-6-0-6-and-ruby-4-0-updates/</guid>
-      <pubDate>Tue, 03 Feb 2026 15:39:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Opera Neon 推出智能模式，用于自动选择 AI 代理</title>
-      <link>https://alternativeto.net/news/2026/2/opera-neon-introduces-intelligent-mode-for-automatic-ai-agent-selection/</link>
-      <description><![CDATA[Opera Neon推出了智能模式，这是一项新功能，可以根据用户的请求自动推荐最合适的人工智能代理。此模式可识别“聊天”、“执行”、“进行”或“1 分钟研究”是否最适合提示，从而最大限度地减少手动选择代理的需要。用户可以选择切换到建议的代理或继续当前模式，确保对每次交互的控制。
-查看有关 AlternativeTo 的文章有关 Opera 的更多信息霓虹灯 | Opera 霓虹灯替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/opera-neon-introduces-intelligent-mode-for-automatic-ai-agent-selection/</guid>
-      <pubDate>Tue, 03 Feb 2026 15:26:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Crunchyroll 在取消其免费套餐后立即提高了美国所有计划的价格</title>
-      <link>https://alternativeto.net/news/2026/2/crunchyroll-raises-prices-for-all-plans-in-the-us-right-after-killing-its-free-tier/</link>
-      <description><![CDATA[Crunchyroll 宣布其美国 Fan、Mega Fan 和 Ultimate Fan 会员级别即将涨价。从 2026 年 2 月 2 日开始，现有的每月订阅者预计 Fan 等级将从每月 7.99 美元上涨至 9.99 美元，Mega Fan 等级从每月 11.99 美元上涨至 13.99 美元，Ultimate Fan 等级从每月 15.99 美元上涨至 17.99 美元。这些新价格将于 2026 年 3 月 4 日之后每个订阅者的下一个结算日期生效。
-为了应对这些变化，Crunchyroll 为会员提供限时机会，以每年 66.99 美元的价格升级到 Fan 年度计划，与按月计费相比，每月有效费用降低至 5.58 美元。此次调整标志着美国粉丝级别自 2019 年以来首次提价，凸显了这些订阅者的价格相对较长的稳定期。
-继一个月前停止其免费的广告支持计划之后，此次价格调整标志着 Crunchyroll 将继续转向完全付费模式。在整个娱乐行业，定期涨价已经成为一种常态，许多流媒体平台也做出了类似的调整。
-查看有关 AlternativeTo 的文章更多信息Crunchyroll | Crunchyroll 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/crunchyroll-raises-prices-for-all-plans-in-the-us-right-after-killing-its-free-tier/</guid>
-      <pubDate>Tue, 03 Feb 2026 14:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 推出适用于 macOS 的专用 Codex 桌面应用程序，任何人都可以免费试用</title>
-      <link>https://alternativeto.net/news/2026/2/openai-unveils-a-dedicated-codex-desktop-app-for-macos-and-anyone-can-try-it-for-free/</link>
-      <description><![CDATA[OpenAI 推出了一款专门针对 macOS 用户的全新 Codex 桌面应用程序，引入了多代理支持，以增强开发人员在软件项目中使用人工智能的方式。该应用程序使用户能够管理多个人工智能编码代理，每个代理在单独的线程中运行并按项目组织，支持无缝任务切换。
-在应用程序中，开发人员可以在项目线程中查看和评论代理生成的代码更改，或者直接在自己的编辑器中打开差异以进行手动编辑。通过集成工作树支持，该应用程序允许多个代理在同一存储库上操作，而不会发生文件冲突，因为每个代理都在代码库的独立副本上工作。当代理进行更改时，用户可以在本地检查结果或让代理继续而不更改主 git 历史记录。
-在这些工作流程改进之后，Codex 使从 Codex 命令行界面和 IDE 扩展导入会话历史记录和配置变得简单。借助新的技能系统，代理可以协助研究、信息综合、写作以及代码生成之外的其他任务。可以设置自动化来按照用户定义的时间表运行指定的任务，结合后台工作的指令和技能。
-在安全性方面，该应用程序采用可配置的开源系统级沙箱，限制代理的文件访问，并需要明确的权限来执行需要网络访问的命令。 Codex 现已在 macOS 上向所有 ChatGPT Plus、Pro、Business、Enterprise 和 Edu 订阅者开放，并向 Free 和 Go 用户授予临时访问权限。在此期间，OpenAI 还将所有付费 Codex 用户的速率限制提高了一倍。
-查看有关 AlternativeTo 的文章有关 OpenAI 的更多信息Codex | OpenAI Codex 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/2/openai-unveils-a-dedicated-codex-desktop-app-for-macos-and-anyone-can-try-it-for-free/</guid>
-      <pubDate>Tue, 03 Feb 2026 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stremio 发布适用于 iOS、iPadOS 和 Apple TV 的全功能可侧载 IPA 应用</title>
-      <link>https://alternativeto.net/news/2026/2/stremio-releases-full-featured-sideloadable-ipa-app-for-ios-ipados-and-apple-tv/</link>
-      <description><![CDATA[Stremio 以其视频流功能而闻名，已发布适用于 iOS、iPadOS 和 Apple TV 的可旁加载 IPA 应用。此举允许Apple平台上的用户直接从Stremio的官方下载页面下载并安装IPA文件来访问该应用程序。新应用程序提供了全功能的体验，提供了 Android 版本上可用的所有功能，并超越了早期 iOS 版 Stremio Lite 版本中的功能。
-虽然 iOS 用户现在可以享受更广泛的功能，但也存在一些限制。由于 Apple 关于旁加载应用程序的政策，Apple 登录和切换等某些功能已在此版本中禁用。这些限制源于 Apple 对非通过官方 App Store 渠道分发的应用程序的要求。
-在发布的同时，Stremio 的团队还澄清说，他们仍在等待苹果公司关于可能将 Stremio Lite 带回 App Store 的回应。与此同时，在 iOS 或 Apple TV 上寻求完整 Stremio 功能集的用户将需要使用旁载版本。
-查看有关 AlternativeTo 的文章更多信息Stremio | Stremio 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/stremio-releases-full-featured-sideloadable-ipa-app-for-ios-ipados-and-apple-tv/</guid>
-      <pubDate>Tue, 03 Feb 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mozilla 详细介绍了 Firefox 148 中用于阻止 AI 功能的新用户控件</title>
-      <link>https://alternativeto.net/news/2026/2/mozilla-details-new-user-controls-for-blocking-ai-features-that-are-coming-in-firefox-148/</link>
-      <description><![CDATA[鉴于Firefox用户的重大担忧，Mozilla 正在为 Firefox 推出新的 AI 控制选项href=&quot;https://alternativeto.net/news/2025/12/mozilla-appoints-new-ceo-and-says-firefox-will-evolve-into-an-ai-web-browser/&quot;&gt;最近宣布了浏览器的人工智能功能。随着 Firefox 148 于 2 月 24 日发布，用户将在浏览器的桌面设置中找到专门的 AI 控件部分。此更新将提供单一位置来管理或完全阻止所有当前和未来的生成人工智能功能。
-在新控件中，用户将能够单独查看和调整对特定功能的访问，例如网页翻译、自动生成 PDF 的替代文本、AI 增强的选项卡分组、链接预览以及浏览器侧边栏中显示的 AI 聊天机器人。如果用户希望完全避免人工智能，“阻止人工智能增强”开关会禁用所有相关功能，并抑制有关现有和即将推出的人工智能添加的弹出窗口或提醒。
-在 Mozilla 引入这些选项后，用户将可以确保他们的 AI 偏好在浏览器更新中保持不变，并且可以随时修改它们。这些设置旨在取得平衡，允许那些想要增强人工智能功能的人选择加入，同时解决早期公告中提出的隐私和用户选择问题。
-查看有关 AlternativeTo 的文章有关 Mozilla 的更多信息Firefox | Mozilla Firefox 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/mozilla-details-new-user-controls-for-blocking-ai-features-that-are-coming-in-firefox-148/</guid>
-      <pubDate>Tue, 03 Feb 2026 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
