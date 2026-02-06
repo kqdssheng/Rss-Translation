@@ -4,7 +4,49 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Thu, 05 Feb 2026 13:02:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 02:04:19 GMT</lastBuildDate>
+    <item>
+      <title>Deno Deploy 正式发布，具有 CI/CD、可观察性和 Deno Sandbox beta 版本</title>
+      <link>https://alternativeto.net/news/2026/2/deno-deploy-reaches-ga-with-ci-cd-observability-and-deno-sandbox-beta-launch/</link>
+      <description><![CDATA[Deno Deploy 现已全面推出，使开发人员能够部署和运行 JavaScript 或 TypeScript Web 应用程序，而无需适配器或特定于供应商的配置。该平台自动检测主要 JavaScript 框架并执行特定于框架的构建步骤，包括对 Next.js 16“使用缓存”等功能的本机支持。指示。连接 GitHub 存储库可实现零配置持续部署，并可直接从 UI 进行每次提交的实时预览、拉取请求时间线和生产回滚。想要增加控制的团队可以使用新的 deno 部署子命令来实现以终端为中心的工作流程和持续集成场景。
+Deno Deploy 通过 Prisma 合作伙伴关系支持内置 Deno KV 和 Postgres 数据库、第三方集成以及仪表板配置。每个拉取请求都会收到一个独立的数据库，并通过自动环境变量管理确保代码的可移植性。开发人员还可以通过项目控制台浏览数据库数据。新的 --tunnel 标志允许使用托管环境变量进行本地开发，公开用于预览的公共 URL，并启用遥测收集，所有这些都可用于运行和任务命令。
+为了可观察性，Deno Deploy 可以捕获开箱即用的日志、跟踪和指标，包括 Node 或 Deno 项目，无需额外的检测。作为此版本的一部分，Deno 引入了 Beta 版 Deno Sandbox，这是一种云服务，用于在具有出站网络控制和注重安全的秘密模型的临时 Linux microVM 中运行不受信任的代码。沙箱支持临时和持久存储，可以通过 SDK、SSH、HTTP 或 Visual Studio Code 访问，并允许使用 sandbox.deploy() 进行测试到生产部署
+查看有关 AlternativeTo 的文章更多信息Deno | Deno 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/2/deno-deploy-reaches-ga-with-ci-cd-observability-and-deno-sandbox-beta-launch/</guid>
+      <pubDate>Thu, 05 Feb 2026 19:23:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>JetBrains 正在将其基于 IntelliJ 的 IDE 默认支持从 X11 转向 Wayland</title>
+      <link>https://alternativeto.net/news/2026/2/jetbrains-is-moving-from-x11-to-wayland-support-by-default-for-their-intellij-based-ides/</link>
+      <description><![CDATA[JetBrains 宣布，从 2026.1 版本开始，所有基于 IntelliJ 的集成开发环境 (IDE) 都将支持原生 Wayland。在支持 Wayland 的 Linux 桌面环境中，这些 IDE 将自动启用本机支持，这与之前作为 X 应用程序运行的默认设置不同。此更新尤其重要，因为 Wayland 现在是主要 Linux 发行版的主要显示服务器。
+按照既定的开发流程，JetBrains 将首先在抢先体验计划 (EAP) 版本中引入原生 Wayland 支持。此次分阶段推出的目的是收集 Linux 用户的反馈，他们可以测试新模式并帮助在正式发布之前发现问题。自 2024.2 预览版以来，JetBrains 改进了 Wayland 服务器实现的稳定性，引入了拖放和输入法支持，并在实现原生窗口装饰方面取得了进展。
+虽然过渡努力保持界面外观基本一致，但由于 Wayland 和 X11 之间的架构差异，用户可能会观察到对话框、弹出窗口、窗口装饰和启动屏幕中的差异和问题。对于没有 Wayland 的系统上的用户，或者喜欢 X11 的用户，基于 IntelliJ 的 IDE 将保持兼容并可以通过 XWayland 运行。这确保了对一系列 Linux 桌面设置的持续支持。
+查看有关 AlternativeTo 的文章有关 IntelliJ 的更多信息IDEA | IntelliJ IDEA 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/jetbrains-is-moving-from-x11-to-wayland-support-by-default-for-their-intellij-based-ides/</guid>
+      <pubDate>Thu, 05 Feb 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Figma 现在可以让您快速矢量化光栅图像，以实现即时图像到矢量的转换</title>
+      <link>https://alternativeto.net/news/2026/2/figma-now-lets-you-vectorize-raster-images-rasily-for-instant-image-to-vector-conversion/</link>
+      <description><![CDATA[Figma 推出了Vectorize，这是一项重要的新功能，可让用户在设计平台内将光栅图像直接转换为可编辑的矢量形状。只需单击一下，即可将图像带到 Figma 画布上并转换为矢量，而无需离开应用程序。这种集成使设计人员能够缩放、细化和调整图稿，而不会中断其工作流程或失去创意控制。
+虽然 Figma 之前缺乏原生图像矢量化，但 Adobe Illustrator 和 Inkscape 中早已提供类似功能。 Vectorize 弥补了这一差距，消除了对外部工具的需求，并无需额外费用即可在 Figma 中进行高级编辑。该功能支持一系列用例：设计人员可以转换手绘插图，使扫描文档中的文本可编辑，以及创建可重复使用的矢量纹理叠加。
+推出后，如果启用了 AI 功能，Vectorize 现在可在 Figma Design 和 Figma Draw 中为 Professional、Organization 和 Enterprise 计划的正式用户提供。此次推出旨在提高已在 Figma 协作环境中大规模工作的团队的生产力。
+查看有关 AlternativeTo 的文章更多信息Figma | Figma 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/figma-now-lets-you-vectorize-raster-images-rasily-for-instant-image-to-vector-conversion/</guid>
+      <pubDate>Thu, 05 Feb 2026 14:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kagi 通过上下文感知图像翻译将其翻译服务引入 iOS 和 Android</title>
+      <link>https://alternativeto.net/news/2026/2/kagi-brings-its-translation-service-to-ios-and-android-with-context-aware-image-translation/</link>
+      <description><![CDATA[Kagi Translate 是由 Kagi 搜索引擎 和 Orion 网络浏览器 制造商提供的人工智能翻译服务，现已推出作为适用于 Android 和 iOS 设备的专用移动应用程序。
+通过此版本，用户在不同地点之间移动时可以无缝翻译超过 248 种语言的语音、文本和图像。浏览器版本的核心功能也延续到了移动设备上，包括文档翻译、带有音频发音的综合词典以及翻译设置的深度自定义。
+在这些功能的基础上，该移动应用引入了一项独特的服务：用户可以上传或拍摄照片，并接收上下文感知的翻译，该翻译可以解释图像及其嵌入的文本，而不仅仅是简单的逐字转换。
+除了这些变化之外，移动用户还可以受益于设备上的翻译历史记录以及为喜爱的短语或单词添加书签的功能，从而可以更轻松地重新访问有用的翻译或支持持续的语言学习。这些增强功能是为临时用户和经常练习新语言的用户而设计的。
+最后，该应用程序允许集成为 iOS 和 Android 平台上的默认翻译应用程序，从而简化了日常移动工作流程中对其功能的访问。
+查看有关 AlternativeTo 的文章有关 Kagi 的更多信息翻译 | Kagi 翻译替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/kagi-brings-its-translation-service-to-ios-and-android-with-context-aware-image-translation/</guid>
+      <pubDate>Thu, 05 Feb 2026 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Navidrome 0.60 添加了基于 WebAssembly 的插件系统、新的 Instant Mix 功能等</title>
       <link>https://alternativeto.net/news/2026/2/navidrome-0-60-adds-webassembly-based-plugin-system-new-instant-mix-feature-and-more/</link>
@@ -12,26 +54,26 @@
 基于这些技术变化，Navidrome 0.60 引入了使用 go-taglib 库实现的纯 Go 元数据提取器。这减少了对先前 C++ TagLib 依赖的依赖，并有望简化未来的跨平台构建和打包。 Go 提取器默认启用，但用户可以根据需要恢复。
 在这些改进之后，新的“Instant Mix”功能使用户能够自动生成类似歌曲的播放列表。默认情况下，它使用 Last.fm（使用 API 密钥配置时）或 Deezer，并且可以利用基于插件的建议，例如由 AudioMuse-AI。
 此版本中的其他更新包括新的和更改的配置选项、改进的安全措施以及各种错误修复。
-查看有关 AlternativeTo 的文章更多信息Navidrome | Navidrome 替代方案]]></description>
+查看有关 AlternativeTo 的文章更多信息Navidrome | Navidrome 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/2/navidrome-0-60-adds-webassembly-based-plugin-system-new-instant-mix-feature-and-more/</guid>
       <pubDate>Thu, 05 Feb 2026 11:30:00 GMT</pubDate>
     </item>
     <item>
       <title>Adobe 推翻了停止 Animate 的决定，将应用程序置于“维护模式”</title>
       <link>https://alternativeto.net/news/2026/2/adobe-reverses-decision-to-discontinue-animate-puts-app-into-maintenance-mode-instead/</link>
-      <description><![CDATA[在受到创意界的广泛批评后，Adobe 撤销了之前停止使用 Animate 平台的决定。官方更新澄清，所有当前和新客户都可以继续访问 Adobe Animate，确保持续访问软件和用户生成的内容。从 Adobe 产品阵容中删除不再有固定日期。
-更改后，Adobe Animate 已进入“维护模式”。这意味着，虽然不会开发新功能，但 Adob​​e 将继续通过安全性和错误修复来支持该应用程序。该公司声明此政策适用于个人、商业和企业客户，并强调无论未来的开发如何变化，用户的内容和工作流程都将继续受到支持。
-尽管许多用户在逆转后表示松了口气，但仍然存在一些不满。用户群中的主要声音批评了基于订阅的许可模式，认为 Animate 应该转换为永久许可，因为 Adob​​e 不再计划添加新功能。这些正在进行的讨论凸显了对 Animate 订阅者长期价值的挥之不去的担忧。
-查看有关 AlternativeTo 的文章有关 Adobe 的更多信息Animate | Adobe Animate 替代品]]></description>
+      <description><![CDATA[After widespread criticism from the creative community, Adobe has reversed its earlier decision to discontinue its Animate platform. The official update clarifies that Adobe Animate will remain accessible for all current and new customers, ensuring ongoing access to both the software and user-generated content.从 Adobe 产品阵容中删除不再有固定日期。
+更改后，Adobe Animate 已进入“维护模式”。这意味着，虽然不会开发新功能，但 Adob​​e 将继续通过安全性和错误修复来支持该应用程序。 The company states this policy applies to individual, business, and enterprise customers, and emphasizes that users&#39; content and workflows will remain supported regardless of future development changes.
+尽管许多用户在逆转后表示松了口气，但仍然存在一些不满。 Key voices in the user base have criticized the subscription-based licensing model, arguing that Animate should convert to a perpetual license since Adobe no longer plans to add new features.这些正在进行的讨论凸显了对 Animate 订阅者长期价值的挥之不去的担忧。
+View article on AlternativeTo »More about Adobe Animate | Adobe Animate 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/2/adobe-reverses-decision-to-discontinue-animate-puts-app-into-maintenance-mode-instead/</guid>
       <pubDate>Thu, 05 Feb 2026 10:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Pandoc 3.9：WebAssembly 支持、PDF 标准和改进的浏览器功能</title>
       <link>https://alternativeto.net/news/2026/2/pandoc-3-9-webassembly-support-pdf-standards-and-improved-browser-features/</link>
-      <description><![CDATA[Pandoc 3.9 现在可以编译为 WebAssembly，从而可以直接在 Web 浏览器中使用，以及专用的 JavaScript 桥和基于浏览器的 GUI。现在支持 JSON 和 YAML 格式的默认文件，并且 --extract-media 可以导出到 zip 存档。
+      <description><![CDATA[Pandoc 3.9 can now be compiled to WebAssembly, enabling use directly in web browsers along with a dedicated JavaScript bridge and a browser-based GUI.现在支持 JSON 和 YAML 格式的默认文件，并且 --extract-media 可以导出到 zip 存档。
 此版本还通过 lualatex 引入了 PDF 标准支持，并带来了多项错误修复和阅读器增强功能。
-查看有关 AlternativeTo 的文章有关 Pandoc 的更多信息 | Pandoc 替代品]]></description>
+View article on AlternativeTo »More about Pandoc | Pandoc 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/2/pandoc-3-9-webassembly-support-pdf-standards-and-improved-browser-features/</guid>
       <pubDate>Thu, 05 Feb 2026 09:39:22 GMT</pubDate>
     </item>
@@ -47,9 +89,9 @@
     <item>
       <title>Zed Editor 添加了多个编辑预测提供程序和可插拔架构</title>
       <link>https://alternativeto.net/news/2026/2/zed-editor-adds-multiple-edit-prediction-providers-and-pluggable-architecture/</link>
-      <description><![CDATA[Zed Editor 现在允许用户在多个编辑预测提供程序之间切换，包括 Zeta、Mercury Coder、Sweep、Ollama、Codestral 和 GitHub Copilot 的下一个编辑建议。新的可插入提供程序架构简化了附加模型和定制解决方案的集成。
+      <description><![CDATA[Zed Editor now allows users to switch between multiple edit prediction providers, including Zeta, Mercury Coder, Sweep, Ollama, Codestral, and GitHub Copilot&#39;s Next Edit Suggestions.新的可插入提供程序架构简化了附加模型和定制解决方案的集成。
 Ollama 支持已上线，支持本地使用 CodeLlama 和 DeepSeek 等开放权重模型，从而提供更好的隐私和控制。
-查看有关 AlternativeTo 的文章有关 Zed 的更多信息编辑器 | Zed 编辑器替代方案]]></description>
+View article on AlternativeTo »More about Zed编辑器 | Zed 编辑器替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/2/zed-editor-adds-multiple-edit-prediction-providers-and-pluggable-architecture/</guid>
       <pubDate>Thu, 05 Feb 2026 09:19:36 GMT</pubDate>
     </item>
@@ -58,7 +100,7 @@ Ollama 支持已上线，支持本地使用 CodeLlama 和 DeepSeek 等开放权�
       <link>https://alternativeto.net/news/2026/2/jules-adds-mcp-server-support-for-linear-stitch-neon-and-more/</link>
       <description><![CDATA[Jules 现在为 Linear 提供 MCP 服务器集成，Stitch、Neon、Tinybird、Context7 和 Supabase。用户可以通过在 Jules 设置页面中为每个服务添加 API 密钥来启用这些连接。
 最初的推出侧重于安全性，限制对经过审查的提供商的支持以及审核权限和数据流。
-查看有关 AlternativeTo 的文章有关 Jules 的更多信息 | 朱尔斯替代品]]></description>
+View article on AlternativeTo »More about Jules | 朱尔斯替代品]]></description>
       <guid>https://alternativeto.net/news/2026/2/jules-adds-mcp-server-support-for-linear-stitch-neon-and-more/</guid>
       <pubDate>Thu, 05 Feb 2026 09:08:11 GMT</pubDate>
     </item>
@@ -107,46 +149,6 @@ Ollama 支持已上线，支持本地使用 CodeLlama 和 DeepSeek 等开放权�
 查看有关 AlternativeTo 的文章有关更多信息WinRAR | WinRAR 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/2/winrar-7-20-brings-faster-archive-handling-new-time-controls-and-better-utf-8-compatibility/</guid>
       <pubDate>Wed, 04 Feb 2026 17:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>LibreOffice 26.2 添加了 Markdown 导入/导出、更好的 Excel 兼容性和速度提升</title>
-      <link>https://alternativeto.net/news/2026/2/libreoffice-26-2-adds-markdown-import-export-better-excel-compatibility-and-speed-boost/</link>
-      <description><![CDATA[LibreOffice 26.2 提供了一系列侧重于互操作性和可用性的更新。现在支持导入和导出 Markdown，通过文件和剪贴板进行处理，以及基于模板的 ODT 或 DOCX 格式之间的转换。 Calc 用户受益于 Biff12（Excel 2007 及更高版本）剪贴板兼容性，增加了可粘贴到 Calc 中的数据量并支持更大的电子表格工作流程。此外，Calc 通过支持 xmlMaps.xml 扩展了功能，帮助完成数据映射任务。
-在这些功能的基础上，LibreOffice 26.2 提高了与专有和开放核心办公套件文档的兼容性，减少了格式不一致和导入问题。该套件还扩展了对开放标准的支持，帮助用户确保对其文件的长期访问。所有应用程序的性能和响应能力都得到了增强，从而简化了打开、编辑和保存过程中大型文档的处理。
-对于 Windows 上的演示用户，Impress 现在利用 Microsoft Media Foundation API 实现更广泛的音频和视频编解码器播放。同时，Base 应用程序引入了真正的多用户支持，这对于协作数据库场景至关重要。此次更新还带来了更加统一的用户界面，并包括 LibreOffice 社区贡献的数百个错误修复和稳定性改进。
-查看有关 AlternativeTo 的文章更多信息LibreOffice | LibreOffice 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/libreoffice-26-2-adds-markdown-import-export-better-excel-compatibility-and-speed-boost/</guid>
-      <pubDate>Wed, 04 Feb 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Xcode 26.3 通过 MCP 添加了 Claude Agent、Codex 和其他 AI 工具的代理编码</title>
-      <link>https://alternativeto.net/news/2026/2/xcode-26-3-adds-agentic-coding-with-claude-agent-codex-and-other-ai-tools-via-mcp/</link>
-      <description><![CDATA[Apple 发布了 Xcode 26.3，扩展了在 Apple 平台上创建应用程序的开发人员工具。此更新以版本 26 的功能为基础，引入了代理编码，使开发人员能够将高级编码代理（例如 Anthropic 的 Claude Agent 和 OpenAI 的 Codex）直接集成到 Xcode 中。
-通过这些集成，开发人员可以简化整个开发周期的工作流程。代理现在能够搜索文档、探索文件结构、更新项目设置、捕获 Xcode 预览以及迭代构建和修复。这种访问级别使编码代理能够协助完成一系列开发任务，从而为应用程序创建提供灵活性并提高速度。
-Xcode 26.3 提供与 Claude Agent 和 Codex 的无缝连接。开发人员可以选择适合自己需求的模型，将高级推理功能引入其工作流程，以便在不同的项目类型中获得更好的结果。除了这些内置选项之外，模型上下文协议的引入意味着 Xcode 现在对任何兼容的编码代理或工具开放，从而为高级用户和团队扩展了定制机会。
-查看有关 AlternativeTo 的文章更多信息Xcode | Xcode 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/xcode-26-3-adds-agentic-coding-with-claude-agent-codex-and-other-ai-tools-via-mcp/</guid>
-      <pubDate>Wed, 04 Feb 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Posteo 将标准邮箱存储空间增加一倍至 4GB，无需额外费用</title>
-      <link>https://alternativeto.net/news/2026/2/posteo-doubles-standard-mailbox-storage-to-4gb-at-no-extra-cost/</link>
-      <description><![CDATA[Posteo 已将所有用户的标准邮箱存储空间从 2GB 增加到 4GB，同时维持每月 1 欧元的价格。之前支付额外存储费用的客户将不再为前 2GB 支付附加费。
-此次升级是由于 Posteo 邮箱删除工具推出后存储需求减少而实现的。
-查看有关 AlternativeTo 的文章有关 Posteo 的更多信息 | Posteo 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/2/posteo-doubles-standard-mailbox-storage-to-4gb-at-no-extra-cost/</guid>
-      <pubDate>Wed, 04 Feb 2026 10:27:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>CLI shell Fish 4.4 带来了 Vi 模式改进、新颜色主题和其他增强功能</title>
-      <link>https://alternativeto.net/news/2026/2/cli-shell-fish-4-4-brings-vi-mode-improvements-new-color-themes-and-other-enhancements/</link>
-      <description><![CDATA[Fish 4.4 的发布明确侧重于提高这个类 Unix shell 用户的交互性和可用性。在标题更改中，内置的 bind 命令现在默认列出所有输入模式的键映射，而自动建议则经过改进，仅显示有意义的逐行建议。现在，shell 在获取控制权时还会清除 FLUSHO 终端标志，解决了在 macOS 系统上按 ctrl-o 触发的问题。此外，内置 history 工具现在假设 PAGER 环境变量支持 ANSI 颜色序列。
-在这些工作流程更改之后，Vi 模式键绑定得到了显着的增强。通过 w、W、e 和 E 进行的文字移动现在与 Vim 紧密结合，并且新的特殊输入功能为用户提供了更多移动选项。操作员模式支持移动和删除的命令计数，反映了经典的 Vim 用法，而几个新的 catpuccin-* 颜色主题提供了额外的自定义选项。
-在视觉改进方面，set_color 现在支持删除文本修饰符。对于那些自定义环境的人来说，默认的化石提示现在已禁用。
-开发工作流程受益于将 WITH_GETTEXT CMake 选项重命名为 WITH_MESSAGE_LOCALIZATION，反映了与后端无关的本地化，并且新的 cargo xtask 命令可以替代某些 CMake 任务。该版本还引入了一些回归修复。
-查看有关 AlternativeTo 的文章更多信息鱼 | 鱼替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/cli-shell-fish-4-4-brings-vi-mode-improvements-new-color-themes-and-other-enhancements/</guid>
-      <pubDate>Wed, 04 Feb 2026 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
