@@ -4,7 +4,49 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Fri, 06 Feb 2026 02:04:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 12:59:39 GMT</lastBuildDate>
+    <item>
+      <title>Mistral 推出 Voxtral Transcribe 2，这是一种在设备上运行的廉价开源语音模型</title>
+      <link>https://alternativeto.net/news/2026/2/mistral-unveils-voxtral-transcribe-2-a-cheap-open-source-speech-model-that-runs-on-device/</link>
+      <description><![CDATA[法国公司 Mistral AI 发布了 Voxtral Transcribe 2，推出了两种下一代语音转文本模型。两种型号都提供先进的转录质量、说话者分类和超低延迟。该产品系列包括专为批量处理而设计的 Voxtral Mini Transcribe V2 和专为实时转录工作流程而构建的 Voxtral Realtime。
+对于批处理任务，Voxtral Mini Transcribe V2 以具有竞争力的价格提供准确的结果、低字错误率。它提供说话人分类、上下文偏差和单词级时间戳，并支持 13 种语言。语言覆盖范围包括英语、中文、印地语、西班牙语、阿拉伯语、法语、葡萄牙语、俄语、德语、日语、韩语、意大利语和荷兰语。
+切换到实时应用程序，Voxtral Realtime 专为实时语音转录而构建。它的延迟设置低至 200 毫秒，支持语音代理和其他时间敏感系统。 Voxtral Realtime 也是 Apache 2.0 许可证下的开放权重，其 40 亿个参数占用量允许在边缘设备上进行高效且私密的操作。
+除了模型本身之外，Mistral AI 还在 Mistral Studio 中推出了一个音频游乐场。该工具使用户能够通过实时分类和时间戳来测试 Voxtral Transcribe 2，支持快速评估和实验。
+查看有关 AlternativeTo 的文章更多信息Voxtral | Voxtral 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/mistral-unveils-voxtral-transcribe-2-a-cheap-open-source-speech-model-that-runs-on-device/</guid>
+      <pubDate>Fri, 06 Feb 2026 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿里巴巴推出Qwen3-Coder-Next人工智能模型，用于编码代理和本地开发任务</title>
+      <link>https://alternativeto.net/news/2026/2/alibaba-unveils-qwen3-coder-next-ai-model-for-coding-agents-and-local-development-tasks/</link>
+      <description><![CDATA[阿里巴巴推出了Qwen3-Coder-Next，这是一个专为编码代理和本地开发任务量身定制的开放权重语言模型。该版本旨在满足开发人员寻求高性能、可本地操作的代码合成和自动化工作流程人工智能解决方案的需求。
+Qwen3-Coder-Next 借鉴了 Qwen3-Next-80B-A3B-Base 的设计，采用混合注意力机制与专家混合 (MoE) 架构相结合。大规模的代理训练利用了可执行任务合成、环境交互和强化学习，这些结合起来可以以降低推理成本的方式产生强大的编码和代理性能。
+该模型的训练过程不是主要通过参数缩放来推进，而是依赖于扩展代理训练信号。阿里巴巴使用了在实时环境中执行的全套可验证编码任务，使 Qwen3-Coder-Next 能够直接从基于环境的反馈中学习。该方法旨在教授模型技能，例如长期推理、有效的工具使用以及从执行失败中恢复的能力，所有这些对于在生产级编码代理中部署至关重要。
+关于基准测试，Qwen3-Coder-Next 在速度和实用推理方面提供了积极的结果。它的性能与一些较大的开源模型相比具有竞争力，但在未来的迭代中仍然有改进的机会。
+查看有关 AlternativeTo 的文章更多信息Qwen | Qwen 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/alibaba-unveils-qwen3-coder-next-ai-model-for-coding-agents-and-local-development-tasks/</guid>
+      <pubDate>Fri, 06 Feb 2026 08:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify 增加了应用内真实图书购买以及与有声读物同步进度的新工具</title>
+      <link>https://alternativeto.net/news/2026/2/spotify-adds-in-app-real-book-purchases-and-a-new-tool-to-sync-progress-with-audiobooks/</link>
+      <description><![CDATA[Spotify 宣布新的有声读物更新，包括用于在实体书或电子书及其有声读物版本之间同步您的位置的页面匹配，以及与Bookshop.org 将允许用户通过 Spotify 应用购买纸质书籍。使用 iOS 或 Android 上的 Spotify，用户可以找到他们正在阅读的标题，点击“页面匹配”按钮，扫描页面，然后从该点继续收听。 Spotify 称其为业界首创功能，将于本月晚些时候推出，最初支持英文游戏，并计划在 2 月底覆盖大多数游戏。
+Spotify 还引入了页面匹配的资格规则。免费用户只能将其用于通过 Spotify 购买的有声读物，而 Premium 和 Audiobook+ 订阅者则可以将其用于每月有声读物时间范围内的图书。这项新功能是继 2025 年 11 月推出的 Spotify 有声读物回顾功能之后推出的，该功能提供迄今为止故事的简短音频摘要。
+对于实体书，Spotify 的 Bookshop.org 整合预计将于今年春季晚些时候在美国和英国进行。用户将看到一个从 Spotify 内购买纸质副本的选项，然后被重定向到 Bookshop.org 完成结账，Bookshop 通过其独立书店网络处理订单履行。 Spotify 将此视为将有声读物发现转变为实际所有权的一种方式，Spotify 通过购买赚取附属费用。
+查看有关 AlternativeTo 的文章更多信息Spotify | Spotify 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/spotify-adds-in-app-real-book-purchases-and-a-new-tool-to-sync-progress-with-audiobooks/</guid>
+      <pubDate>Fri, 06 Feb 2026 04:37:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Roblox 推出新的 AI 工具，让玩家使用文本提示生成 3D 游戏对象</title>
+      <link>https://alternativeto.net/news/2026/2/roblox-launches-new-ai-tool-that-lets-players-generate-3d-game-objects-using-text-prompts/</link>
+      <description><![CDATA[Roblox 刚刚推出了一项测试版功能，让创作者可以使用自然语言文本提示在游戏中生成交互式 3D 对象。它建立在去年的资产生成器的基础上，使创作者和在支持的体验中的玩家能够按需生成交互式项目。目前，测试版支持两种模式：可驾驶的四轮汽车和单个网格对象。
+在 Google 推出 Genie 后不到一周，该更新就发布了。Genie 是一款 3D 交互式世界生成工具，导致多家主要游戏公司的股价下跌，因为一些投资者将其视为人工智能驱动游戏创作的早期迹象。 Roblox 表示，它正在致力于开发一个开放的词汇表模式系统，该系统可以将生成扩展到更多的对象类型和行为。该公司还指出了一个长期目标，即通过提示生成任何类型的 4D 对象和行为，但没有共享时间表。
+Roblox 在 Wish Master 中测试了工具，玩家在六个月内生成了超过 160,000 个物品。该游戏的创建者 Laksh 表示，使用该功能的玩家的游戏时间平均增加了 64%。
+查看有关 AlternativeTo 的文章更多信息Roblox | Roblox 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/roblox-launches-new-ai-tool-that-lets-players-generate-3d-game-objects-using-text-prompts/</guid>
+      <pubDate>Fri, 06 Feb 2026 04:15:05 GMT</pubDate>
+    </item>
     <item>
       <title>Deno Deploy 正式发布，具有 CI/CD、可观察性和 Deno Sandbox beta 版本</title>
       <link>https://alternativeto.net/news/2026/2/deno-deploy-reaches-ga-with-ci-cd-observability-and-deno-sandbox-beta-launch/</link>
@@ -61,19 +103,19 @@ Deno Deploy 通过 Prisma 合作伙伴关系支持内置 Deno KV 和 Postgres �
     <item>
       <title>Adobe 推翻了停止 Animate 的决定，将应用程序置于“维护模式”</title>
       <link>https://alternativeto.net/news/2026/2/adobe-reverses-decision-to-discontinue-animate-puts-app-into-maintenance-mode-instead/</link>
-      <description><![CDATA[After widespread criticism from the creative community, Adobe has reversed its earlier decision to discontinue its Animate platform. The official update clarifies that Adobe Animate will remain accessible for all current and new customers, ensuring ongoing access to both the software and user-generated content.从 Adobe 产品阵容中删除不再有固定日期。
-更改后，Adobe Animate 已进入“维护模式”。这意味着，虽然不会开发新功能，但 Adob​​e 将继续通过安全性和错误修复来支持该应用程序。 The company states this policy applies to individual, business, and enterprise customers, and emphasizes that users&#39; content and workflows will remain supported regardless of future development changes.
-尽管许多用户在逆转后表示松了口气，但仍然存在一些不满。 Key voices in the user base have criticized the subscription-based licensing model, arguing that Animate should convert to a perpetual license since Adobe no longer plans to add new features.这些正在进行的讨论凸显了对 Animate 订阅者长期价值的挥之不去的担忧。
-View article on AlternativeTo »More about Adobe Animate | Adobe Animate 替代品]]></description>
+      <description><![CDATA[在受到创意界的广泛批评后，Adobe 撤销了之前停止使用 Animate 平台的决定。官方更新澄清，所有当前和新客户都可以继续访问 Adobe Animate，确保持续访问软件和用户生成的内容。从 Adobe 产品阵容中删除不再有固定日期。
+更改后，Adobe Animate 已进入“维护模式”。这意味着，虽然不会开发新功能，但 Adob​​e 将继续通过安全性和错误修复来支持该应用程序。该公司声明此政策适用于个人、商业和企业客户，并强调无论未来的开发如何变化，用户的内容和工作流程都将继续受到支持。
+尽管许多用户在逆转后表示松了口气，但仍然存在一些不满。用户群中的主要声音批评了基于订阅的许可模式，认为 Animate 应该转换为永久许可，因为 Adob​​e 不再计划添加新功能。这些正在进行的讨论凸显了对 Animate 订阅者长期价值的挥之不去的担忧。
+查看有关 AlternativeTo 的文章有关 Adobe 的更多信息Animate | Adobe Animate 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/2/adobe-reverses-decision-to-discontinue-animate-puts-app-into-maintenance-mode-instead/</guid>
       <pubDate>Thu, 05 Feb 2026 10:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Pandoc 3.9：WebAssembly 支持、PDF 标准和改进的浏览器功能</title>
       <link>https://alternativeto.net/news/2026/2/pandoc-3-9-webassembly-support-pdf-standards-and-improved-browser-features/</link>
-      <description><![CDATA[Pandoc 3.9 can now be compiled to WebAssembly, enabling use directly in web browsers along with a dedicated JavaScript bridge and a browser-based GUI.现在支持 JSON 和 YAML 格式的默认文件，并且 --extract-media 可以导出到 zip 存档。
+      <description><![CDATA[Pandoc 3.9 现在可以编译为 WebAssembly，从而可以直接在 Web 浏览器中使用，以及专用的 JavaScript 桥和基于浏览器的 GUI。现在支持 JSON 和 YAML 格式的默认文件，并且 --extract-media 可以导出到 zip 存档。
 此版本还通过 lualatex 引入了 PDF 标准支持，并带来了多项错误修复和阅读器增强功能。
-View article on AlternativeTo »More about Pandoc | Pandoc 替代品]]></description>
+查看有关 AlternativeTo 的文章有关 Pandoc 的更多信息 | Pandoc 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/2/pandoc-3-9-webassembly-support-pdf-standards-and-improved-browser-features/</guid>
       <pubDate>Thu, 05 Feb 2026 09:39:22 GMT</pubDate>
     </item>
@@ -89,9 +131,9 @@ View article on AlternativeTo »More about Pandoc | Pandoc 替代品]]></descr
     <item>
       <title>Zed Editor 添加了多个编辑预测提供程序和可插拔架构</title>
       <link>https://alternativeto.net/news/2026/2/zed-editor-adds-multiple-edit-prediction-providers-and-pluggable-architecture/</link>
-      <description><![CDATA[Zed Editor now allows users to switch between multiple edit prediction providers, including Zeta, Mercury Coder, Sweep, Ollama, Codestral, and GitHub Copilot&#39;s Next Edit Suggestions.新的可插入提供程序架构简化了附加模型和定制解决方案的集成。
+      <description><![CDATA[Zed Editor 现在允许用户在多个编辑预测提供程序之间切换，包括 Zeta、Mercury Coder、Sweep、Ollama、Codestral 和 GitHub Copilot 的下一个编辑建议。新的可插入提供程序架构简化了附加模型和定制解决方案的集成。
 Ollama 支持已上线，支持本地使用 CodeLlama 和 DeepSeek 等开放权重模型，从而提供更好的隐私和控制。
-View article on AlternativeTo »More about Zed编辑器 | Zed 编辑器替代方案]]></description>
+查看有关 AlternativeTo 的文章有关 Zed 的更多信息编辑器 | Zed 编辑器替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/2/zed-editor-adds-multiple-edit-prediction-providers-and-pluggable-architecture/</guid>
       <pubDate>Thu, 05 Feb 2026 09:19:36 GMT</pubDate>
     </item>
@@ -100,7 +142,7 @@ View article on AlternativeTo »More about Zed编辑器 | Zed 编辑器替代�
       <link>https://alternativeto.net/news/2026/2/jules-adds-mcp-server-support-for-linear-stitch-neon-and-more/</link>
       <description><![CDATA[Jules 现在为 Linear 提供 MCP 服务器集成，Stitch、Neon、Tinybird、Context7 和 Supabase。用户可以通过在 Jules 设置页面中为每个服务添加 API 密钥来启用这些连接。
 最初的推出侧重于安全性，限制对经过审查的提供商的支持以及审核权限和数据流。
-View article on AlternativeTo »More about Jules | 朱尔斯替代品]]></description>
+查看有关 AlternativeTo 的文章有关 Jules 的更多信息 | 朱尔斯替代品]]></description>
       <guid>https://alternativeto.net/news/2026/2/jules-adds-mcp-server-support-for-linear-stitch-neon-and-more/</guid>
       <pubDate>Thu, 05 Feb 2026 09:08:11 GMT</pubDate>
     </item>
@@ -111,44 +153,6 @@ View article on AlternativeTo »More about Jules | 朱尔斯替代品]]></desc
 查看有关 AlternativeTo 的文章更多信息Spotify | Spotify 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/2/spotify-expands-lyric-translations-adds-offline-access-and-front-facing-lyric-previews/</guid>
       <pubDate>Thu, 05 Feb 2026 08:50:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌已开始实现 Google Meet 和 Microsoft Teams 之间的互操作性</title>
-      <link>https://alternativeto.net/news/2026/2/google-has-started-implementing-interoperability-between-google-meet-and-microsoft-teams/</link>
-      <description><![CDATA[Google 正在为其 Google Meet 视频会议硬件推出新的设备互操作性，支持与 Microsoft Teams 会议室直接连接。这一进步连接了两个主要的企业视频平台，允许在特定条件下跨系统加入会议。
-目前，该功能仅适用于基于 Chrome 操作系统的 Google Meet 会议室和基于 Windows 的 Microsoft Teams 会议室。虽然这为使用这两个生态系统的组织提供了灵活性，但访问权限仅限于订阅 Google Workspace 的企业客户。
-根据 Microsoft 向欧盟委员会做出的监管承诺，此举旨在简化混合硬件在企业环境中的使用。然而，虽然互操作性连接了设备，但用户仅限于基本的视频会议。根据 Google 文档，当会议室跨平台连接时，不支持演示、双屏支持和集成视频聊天等功能。这意味着公司可以期待简单的视频会议功能，而无需在本机环境中提供全套协作选项。
-查看有关 AlternativeTo 的文章有关 Google 的更多信息Meet | Google Meet 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/2/google-has-started-implementing-interoperability-between-google-meet-and-microsoft-teams/</guid>
-      <pubDate>Thu, 05 Feb 2026 08:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GCompris 26.0 发布，为教师提供新的活动和配套工具</title>
-      <link>https://alternativeto.net/news/2026/2/gcompris-26-0-launches-with-new-activities-and-companion-tool-for-teachers/</link>
-      <description><![CDATA[GCompris 版本 26.0 现已推出，提供 197 项活动，包括新的绘图轮和多项选择题活动。该版本还标志着 GCompris-teachers 的首次亮相，这是一款专为教育工作者设计的配套工具。
-其他更新包括对卡纳达语和泰米尔语翻译的支持以及跨多个活动的各种错误修复和改进。软件包适用于 Linux、Windows、Android 和 Raspberry Pi。
-查看有关 AlternativeTo 的文章更多信息GCompris | GCompris 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/gcompris-26-0-launches-with-new-activities-and-companion-tool-for-teachers/</guid>
-      <pubDate>Thu, 05 Feb 2026 08:23:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stremio for Android TV v1.9.1 更新播放器和用户设置</title>
-      <link>https://alternativeto.net/news/2026/2/stremio-for-android-tv-v1-9-1-adds-player-updates-and-new-user-settings/</link>
-      <description><![CDATA[Stremio for Android TV v1.9.1 引入了更新的播放器 UI 以及新的自定义选项，例如在播放器上显示设备时钟以及在字幕菜单中隐藏其他语言。此更新解决了多个播放错误，改进了字幕处理、播放器背景和搜索控件。
-目前正在审核的 1.9.2 版本还修复了旧版 Fire OS 设备上的元数据问题。
-查看有关 AlternativeTo 的文章更多信息Stremio | Stremio 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/stremio-for-android-tv-v1-9-1-adds-player-updates-and-new-user-settings/</guid>
-      <pubDate>Thu, 05 Feb 2026 08:17:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>WinRAR 7.20 带来更快的存档处理、新的时间控制和更好的 UTF-8 兼容性</title>
-      <link>https://alternativeto.net/news/2026/2/winrar-7-20-brings-faster-archive-handling-new-time-controls-and-better-utf-8-compatibility/</link>
-      <description><![CDATA[WinRAR 7.20 已针对 Windows 用户发布，在测试版首次亮相三个月后推出。此更新引入了多个常见工作流程的速度改进。现在，在固体 RAR 存档中文件删除速度更快，并且打开非常大的存档（例如包含数百万个条目的 ZIP 文件）更加高效。在此基础上，TAR 和基于 TAR 的存档的提取已得到简化，这有利于硬盘驱动器速度较慢或文件数量较大的集合的用户。
-为了扩展其功能集，WinRAR 7.20 添加了“通过掩码生成压缩文件名称”选项，以及新的 -ag 和 -s 命令行开关。 -tk 开关现在采用 YYYYMMDDHHMMSS 格式的可选日期参数，或者如果留空则保留原始存档修改时间。此外，新的“指定时间”功能允许在存档对话框中手动分配时间。
-进一步的增强功能包括支持 UTF-8 输出和“生成报告”命令中的字节顺序标记。对于配置自解压 (SFX) 存档的用户，添加了“云文件”上下文菜单选项，并且 SFX 模块现在将不带路径或扩展名的存档名称公开为环境变量。除此之外，小更新改进了搜索结果导出、最小文件引用大小规范和路径排除语法，同时修复了一些错误。
-查看有关 AlternativeTo 的文章有关更多信息WinRAR | WinRAR 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/winrar-7-20-brings-faster-archive-handling-new-time-controls-and-better-utf-8-compatibility/</guid>
-      <pubDate>Wed, 04 Feb 2026 17:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
