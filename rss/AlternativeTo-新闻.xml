@@ -4,7 +4,47 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sat, 07 Feb 2026 01:59:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 12:49:25 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 推出 GPT-5.3-Codex，具有更快、更广泛的代理编码功能</title>
+      <link>https://alternativeto.net/news/2026/2/openai-launches-gpt-5-3-codex-with-faster-and-broader-agentic-coding-capabilities/</link>
+      <description><![CDATA[OpenAI 宣布推出 GPT-5.3-Codex，这是其编码模型系列的最新更新，也是迄今为止发布的最强大的代理编码代理。此新版本将编码性能、推理能力和专业知识方面的改进与显着的速度提升相结合：GPT-5.3-Codex 的运行速度比其前身快 25%。
+在这些升级的基础上，GPT-5.3-Codex 现在可以让用户在不丢失上下文的情况下处理连续、交互式和长时间的研究和执行任务。虽然以前的 Codex 版本侧重于代码编写和审查，但此版本支持开发人员和专业人员通常在计算机上执行的几乎所有活动，例如调试、部署、监控、编写产品需求文档、编辑副本、用户研究等。
+GPT-5.3-Codex 在 SWE-Bench Pro 和 Terminal-Bench 编码和代理基准测试中达到了行业新高，展示了其扩展的功能。它还在 OSWorld 和 GDPval 上发布了强劲的结果，确立了其在实际用例中的地位。该模型可以在几天内从头开始构建功能复杂的游戏和应用程序，进一步凸显其多阶段项目能力。 GPT-5.3-Codex 可通过跨各种平台的付费 ChatGPT 计划使用，包括应用程序、命令行界面、IDE 扩展和网络，并且即将推出 API 访问。
+查看有关 AlternativeTo 的文章有关 OpenAI 的更多信息Codex | OpenAI Codex 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/2/openai-launches-gpt-5-3-codex-with-faster-and-broader-agentic-coding-capabilities/</guid>
+      <pubDate>Sat, 07 Feb 2026 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify 首次推出 About the Song 测试版，为高级用户提供可滑动的琐事</title>
+      <link>https://alternativeto.net/news/2026/2/spotify-debuts-about-the-song-beta-with-swipeable-trivia-for-premium-users/</link>
+      <description><![CDATA[Spotify 推出了一项名为关于歌曲的新测试版功能，可为所选曲目添加幕后背景。它可供高级用户使用，它显示可滑动的故事卡，其中包含旨在解释歌曲的工艺和背景的信息。
+符合条件的用户可以在“正在播放”视图中找到它，方法是在专辑封面下方滚动以查找支持的曲目。这些卡片包括从第三方来源获取的琐事和背景详细信息，以及使用机器学习生成的文本，Spotify 在每张卡片上都引用了来源。 Spotify 尚未透露其使用哪些提供商，但此次推出是在其扩展了 Song Credits 和 SongDNA 功能以及 2025 年收购 WhoSampled 之后推出的，这可能有助于为该歌曲上下文的部分内容和采样相关数据提供支持。
+在推出时，《About the Song》仅限于美国、英国、加拿大、爱尔兰、新西兰和澳大利亚的 Android 和 iOS 高级订阅者，Spotify 尚未透露何时结束测试版或是否会扩展到免费用户。
+查看有关 AlternativeTo 的文章更多信息Spotify | Spotify 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/spotify-debuts-about-the-song-beta-with-swipeable-trivia-for-premium-users/</guid>
+      <pubDate>Sat, 07 Feb 2026 10:27:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ente Photos 为所有平台带来了点赞、评论、相册管理和更快的共享功能</title>
+      <link>https://alternativeto.net/news/2026/2/ente-photos-brings-likes-comments-album-admins-and-faster-sharing-to-all-platforms/</link>
+      <description><![CDATA[Ente Photos 推出了其所描述的迄今为止最大的更新，其中一系列更改侧重于共享和日常照片管理。共享照片和相册现在支持跨移动设备、桌面设备和网络的点赞和评论，因此可以在 Ente 内进行对话。查看链接共享相册的人也可以点赞和评论，即使他们没有 Ente 帐户，并且活动会显示在“共享”选项卡中，并在移动设备上发送推送通知。
+相册还获得了管理员角色。所有者可以指定另一个 Ente 用户来帮助删除照片、添加查看者和协作者、审核评论以及向照片所有者建议永久删除。这是针对具有大量上传的活动相册，以及需要持续共同管理的共享家庭相册。
+在网络和桌面上，用户可以将完整相册下载为多部分 ZIP 文件，包括链接共享相册。桌面版还添加了隐藏共享相册、直接上传到隐藏相册以及在上传或移动照片等操作期间对相册列表进行排序等选项。在移动设备上，搜索设置经过重新设计，搜索和面部管理也得到了升级，例如更快的导航、面部列表排序和搜索、忽略的面部页面以及更容易的合并。 GPS 位置编辑现在也可以在网络和桌面上进行。
+查看有关 AlternativeTo 的文章有关 Ente 的更多信息照片 | Ente 照片替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/ente-photos-brings-likes-comments-album-admins-and-faster-sharing-to-all-platforms/</guid>
+      <pubDate>Sat, 07 Feb 2026 10:11:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ardor 9.0 推出 Region FX、Pianoroll 编辑和 Multi Touch 支持</title>
+      <link>https://alternativeto.net/news/2026/2/ardour-9-0-launches-region-fx-pianoroll-editing-and-multi-touch-support/</link>
+      <description><![CDATA[开源跨平台数字音频工作站Ardour 9.0已发布，并进行了多项用户请求的工作流程升级，包括基于区域的效果、专用的钢琴卷轴MIDI编辑和扩展的触摸支持。 Region FX 允许用户将插件和自动化应用到特定的音频区域，并在从磁盘读取该区域时离线应用处理，从而与基于混音器的插入相比减少实时负载。
+对于 MIDI 工作，Ardor 9.0 添加了一个浮动或停靠的钢琴卷轴窗口，用于集中音符和自动化编辑，包括速度和控制更改数据的覆盖。 Cue 页面还通过相同的钢琴卷轴获得剪辑风格 MIDI 编辑，而提示录音允许使用固定条长度或开放式录音将音频或 MIDI 直接捕获到提示插槽中。
+更新还引入了实时感知分析器，可以叠加来自多个轨道或总线的频谱视图。 Windows 和 Linux 支持多点触控，macOS 支持仍在考虑中，其他工作流程更新包括笔记刷、键盘驱动的自动化编辑以及混音条导入和导出。应用程序栏和面板进行了重新组织，同时改进了会话导航、标记控件和剪辑库管理。
+查看有关 AlternativeTo 的文章更多有关Ardour | Ardour 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/ardour-9-0-launches-region-fx-pianoroll-editing-and-multi-touch-support/</guid>
+      <pubDate>Sat, 07 Feb 2026 10:06:36 GMT</pubDate>
+    </item>
     <item>
       <title>Anthropic 推出具有 100 万代币上下文和代理团队的 Claude Opus 4.6</title>
       <link>https://alternativeto.net/news/2026/2/anthropic-launches-claude-opus-4-6-with-1m-token-context-and-agent-teams/</link>
@@ -112,52 +152,9 @@ Roblox 在 Wish Master 中测试了工具，玩家在六个月内生成了超过
       <description><![CDATA[Deno Deploy 现已全面推出，使开发人员能够部署和运行 JavaScript 或 TypeScript Web 应用程序，而无需适配器或特定于供应商的配置。该平台自动检测主要 JavaScript 框架并执行特定于框架的构建步骤，包括对 Next.js 16“使用缓存”等功能的本机支持。指示。连接 GitHub 存储库可实现零配置持续部署，并可直接从 UI 进行每次提交的实时预览、拉取请求时间线和生产回滚。想要增加控制的团队可以使用新的 deno 部署子命令来实现以终端为中心的工作流程和持续集成场景。
 Deno Deploy 通过 Prisma 合作伙伴关系支持内置 Deno KV 和 Postgres 数据库、第三方集成以及仪表板配置。每个拉取请求都会收到一个独立的数据库，并通过自动环境变量管理确保代码的可移植性。开发人员还可以通过项目控制台浏览数据库数据。新的 --tunnel 标志允许使用托管环境变量进行本地开发，公开用于预览的公共 URL，并启用遥测收集，所有这些都可用于运行和任务命令。
 为了可观察性，Deno Deploy 可以捕获开箱即用的日志、跟踪和指标，包括 Node 或 Deno 项目，无需额外的检测。作为此版本的一部分，Deno 引入了 Beta 版 Deno Sandbox，这是一种云服务，用于在具有出站网络控制和注重安全的秘密模型的临时 Linux microVM 中运行不受信任的代码。沙箱支持临时和持久存储，可以通过 SDK、SSH、HTTP 或 Visual Studio Code 访问，并允许使用 sandbox.deploy() 进行测试到生产部署
-查看有关 AlternativeTo 的文章更多信息Deno | Deno 替代品]]></description>
+查看有关 AlternativeTo 的文章更多信息Deno | Deno 替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/2/deno-deploy-reaches-ga-with-ci-cd-observability-and-deno-sandbox-beta-launch/</guid>
       <pubDate>Thu, 05 Feb 2026 19:23:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>JetBrains 正在将其基于 IntelliJ 的 IDE 默认支持从 X11 转向 Wayland</title>
-      <link>https://alternativeto.net/news/2026/2/jetbrains-is-moving-from-x11-to-wayland-support-by-default-for-their-intellij-based-ides/</link>
-      <description><![CDATA[JetBrains 宣布，从 2026.1 版本开始，所有基于 IntelliJ 的集成开发环境 (IDE) 都将支持原生 Wayland。在支持 Wayland 的 Linux 桌面环境中，这些 IDE 将自动启用本机支持，这与之前作为 X 应用程序运行的默认设置不同。此更新尤其重要，因为 Wayland 现在是主要 Linux 发行版的主要显示服务器。
-按照既定的开发流程，JetBrains 将首先在抢先体验计划 (EAP) 版本中引入原生 Wayland 支持。此次分阶段推出的目的是收集 Linux 用户的反馈，他们可以测试新模式并帮助在正式发布之前发现问题。自 2024.2 预览版以来，JetBrains 改进了 Wayland 服务器实现的稳定性，引入了拖放和输入法支持，并在实现原生窗口装饰方面取得了进展。
-虽然过渡努力保持界面外观基本一致，但由于 Wayland 和 X11 之间的架构差异，用户可能会观察到对话框、弹出窗口、窗口装饰和启动屏幕中的差异和问题。对于没有 Wayland 的系统上的用户，或者喜欢 X11 的用户，基于 IntelliJ 的 IDE 将保持兼容并可以通过 XWayland 运行。这确保了对一系列 Linux 桌面设置的持续支持。
-查看有关 AlternativeTo 的文章有关 IntelliJ 的更多信息IDEA | IntelliJ IDEA 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/jetbrains-is-moving-from-x11-to-wayland-support-by-default-for-their-intellij-based-ides/</guid>
-      <pubDate>Thu, 05 Feb 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Figma 现在可以让您快速矢量化光栅图像，以实现即时图像到矢量的转换</title>
-      <link>https://alternativeto.net/news/2026/2/figma-now-lets-you-vectorize-raster-images-rasily-for-instant-image-to-vector-conversion/</link>
-      <description><![CDATA[Figma 推出了Vectorize，这是一项重要的新功能，可让用户在设计平台内将光栅图像直接转换为可编辑的矢量形状。只需单击一下，即可将图像带到 Figma 画布上并转换为矢量，而无需离开应用程序。这种集成使设计人员能够缩放、细化和调整图稿，而不会中断其工作流程或失去创意控制。
-虽然 Figma 之前缺乏原生图像矢量化，但 Adobe Illustrator 和 Inkscape 中早已提供类似功能。 Vectorize 弥补了这一差距，消除了对外部工具的需求，并无需额外费用即可在 Figma 中进行高级编辑。该功能支持一系列用例：设计人员可以转换手绘插图，使扫描文档中的文本可编辑，以及创建可重复使用的矢量纹理叠加。
-推出后，如果启用了 AI 功能，Vectorize 现在可在 Figma Design 和 Figma Draw 中为 Professional、Organization 和 Enterprise 计划的正式用户提供。此次推出旨在提高已在 Figma 协作环境中大规模工作的团队的生产力。
-查看有关 AlternativeTo 的文章更多信息Figma | Figma 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/figma-now-lets-you-vectorize-raster-images-rasily-for-instant-image-to-vector-conversion/</guid>
-      <pubDate>Thu, 05 Feb 2026 14:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kagi 通过上下文感知图像翻译将其翻译服务引入 iOS 和 Android</title>
-      <link>https://alternativeto.net/news/2026/2/kagi-brings-its-translation-service-to-ios-and-android-with-context-aware-image-translation/</link>
-      <description><![CDATA[Kagi Translate 是由 Kagi 搜索引擎 和 Orion 网络浏览器 制造商提供的人工智能翻译服务，现已推出作为适用于 Android 和 iOS 设备的专用移动应用程序。
-通过此版本，用户在不同地点之间移动时可以无缝翻译超过 248 种语言的语音、文本和图像。浏览器版本的核心功能也延续到了移动设备上，包括文档翻译、带有音频发音的综合词典以及翻译设置的深度自定义。
-在这些功能的基础上，该移动应用引入了一项独特的服务：用户可以上传或拍摄照片，并接收上下文感知的翻译，该翻译可以解释图像及其嵌入的文本，而不仅仅是简单的逐字转换。
-除了这些变化之外，移动用户还可以受益于设备上的翻译历史记录以及为喜爱的短语或单词添加书签的功能，从而可以更轻松地重新访问有用的翻译或支持持续的语言学习。这些增强功能是为临时用户和经常练习新语言的用户而设计的。
-最后，该应用程序允许集成为 iOS 和 Android 平台上的默认翻译应用程序，从而简化了日常移动工作流程中对其功能的访问。
-查看有关 AlternativeTo 的文章有关 Kagi 的更多信息翻译 | Kagi 翻译替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/kagi-brings-its-translation-service-to-ios-and-android-with-context-aware-image-translation/</guid>
-      <pubDate>Thu, 05 Feb 2026 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Navidrome 0.60 添加了基于 WebAssembly 的插件系统、新的 Instant Mix 功能等</title>
-      <link>https://alternativeto.net/news/2026/2/navidrome-0-60-adds-webassembly-based-plugin-system-new-instant-mix-feature-and-more/</link>
-      <description><![CDATA[Navidrome 0.60 已作为此开源自托管音乐收藏服务器和流媒体平台的最新更新发布。该版本的一个主要重点是对实验性插件系统的完全重写，现在支持多语言插件开发套件。这允许开发人员通过使用 Go、Rust、Python 或 JavaScript 编写的基于 WebAssembly 的插件来扩展 Navidrome。所有插件都在安全沙箱中执行，并且可以添加新的元数据源、自定义集成或服务器端增强功能。借助使用 JSONForms 进行配置的用户界面，用户可以更轻松地管理插件。
-基于这些技术变化，Navidrome 0.60 引入了使用 go-taglib 库实现的纯 Go 元数据提取器。这减少了对先前 C++ TagLib 依赖的依赖，并有望简化未来的跨平台构建和打包。 Go 提取器默认启用，但用户可以根据需要恢复。
-在这些改进之后，新的“Instant Mix”功能使用户能够自动生成类似歌曲的播放列表。默认情况下，它使用 Last.fm（使用 API 密钥配置时）或 Deezer，并且可以利用基于插件的建议，例如由 AudioMuse-AI。
-此版本中的其他更新包括新的和更改的配置选项、改进的安全措施以及各种错误修复。
-查看有关 AlternativeTo 的文章更多信息Navidrome | Navidrome 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/2/navidrome-0-60-adds-webassembly-based-plugin-system-new-instant-mix-feature-and-more/</guid>
-      <pubDate>Thu, 05 Feb 2026 11:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
