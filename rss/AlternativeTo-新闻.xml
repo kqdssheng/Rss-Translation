@@ -4,7 +4,66 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Fri, 06 Feb 2026 12:59:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 01:59:55 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic 推出具有 100 万代币上下文和代理团队的 Claude Opus 4.6</title>
+      <link>https://alternativeto.net/news/2026/2/anthropic-launches-claude-opus-4-6-with-1m-token-context-and-agent-teams/</link>
+      <description><![CDATA[Anthropic 发布了 Claude Opus 4.6 作为其新的旗舰型号，继承了 Opus 4.5，重点是改进 Claude Code 工作流程。 Opus 4.6 是第一个提供一百万个令牌上下文窗口的 Opus 模型，用于在单个会话中处理更大的文档和代码库，并将最大输出增加到128,000 个令牌。
+该版本还引入了代理团队，它允许多个代理并行地分工和协调复杂的任务。该功能可在 Claude Code 中作为研究预览版提供给 API 订阅者。 Anthropic 还添加了自适应思维（模型决定何时需要更深入的推理）和压缩（将旧上下文总结为接近上下文窗口限制的会话）。
+在基准测试中，Opus 4.6 在 GDPval AA 上的得分为 1606 Elo，领先于 GPT 5.2 和 Opus 4.5，并且在 Humanity’s Last Exam、Terminal Bench 2.0 和 BrowseComp 上也取得了强劲的成绩，尽管 Anthropic 指出这些结果可能无法完全反映现实世界的表现。 Anthropic 还更新了其 Excel 集成，以更好地处理非结构化数据，并添加了 PowerPoint 集成，将 Claude 嵌入为编辑演示文稿的侧面板。
+查看有关 AlternativeTo 的文章更多信息克劳德 | 克劳德替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/anthropic-launches-claude-opus-4-6-with-1m-token-context-and-agent-teams/</guid>
+      <pubDate>Fri, 06 Feb 2026 20:52:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Raindrop 推出 Stella：用于书签发现和组织的私人 AI 助手</title>
+      <link>https://alternativeto.net/news/2026/2/raindrop-launches-stella-a-private-ai-assistant-for-bookmark-discovery-and-organization/</link>
+      <description><![CDATA[Raindrop 发布了 Stella，这是一款人工智能助手，目前其网络应用程序处于测试阶段。 Stella 使用户能够使用对话语言处理他们的书签集合、保存的文章和文档。 Stella 作为私有大型语言模型，仅分析用户保存的材料，确保响应基于用户自己的内容，而不需要外部来源的输入。
+推出Stella后，用户不再需要记住确切的标题或 URL。相反，他们可以描述他们记得的内容，斯特拉将找到相关内容。助手还可以总结冗长的文章，用通俗易懂的语言解释困难的主题，允许比较两篇文章，并在完整阅读之前预览文章的价值。
+除了其功能之外，Stella 还可以帮助组织书签。用户可以指示它对未排序的文件夹进行排序，清除重复的标签，将项目移动到正确的集合，或建议其库的结构改进。 Stella提出更改建议，但用户在最终批准后保留控制权。
+从隐私角度来看，Stella 使用开源 GPT OSS 模型专门在 Raindrop 自己的服务器上运行。所有通信均使用 TLS 1.2 或更高版本进行加密，数据永远不会离开 Raindrop 的基础设施或流向外部人工智能供应商。 AI处理仅由用户发起，没有后台分析或自动选择加入。
+Stella 目前可供 Raindrop Pro 订阅者通过网络应用使用。
+查看有关 AlternativeTo 的文章更多信息Raindrop.io | Raindrop.io 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/2/raindrop-launches-stella-a-private-ai-assistant-for-bookmark-discovery-and-organization/</guid>
+      <pubDate>Fri, 06 Feb 2026 17:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>WooCommerce 10.5 提高了分析可扩展性和管理性能</title>
+      <link>https://alternativeto.net/news/2026/2/woocommerce-10-5-boosts-analytics-scalability-and-admin-performance/</link>
+      <description><![CDATA[WooCommerce 10.5 实现了分析订单导入的批处理，显着提高了仪表板的可扩展性和性能，特别是对于高流量商店。该版本还引入了管理性能的增强功能，例如更快的最近评论小部件和改进的变化价格缓存，以及针对 REST API 和产品对象的新实验性缓存选项。
+此外，结账区块现在支持多包装订单的产品缩略图，为客户提供更清晰的发货详细信息。
+查看有关 AlternativeTo 的文章有关 WooCommerce 的更多信息 | WooCommerce 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/woocommerce-10-5-boosts-analytics-scalability-and-admin-performance/</guid>
+      <pubDate>Fri, 06 Feb 2026 15:49:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Calibre 9.2.1 引入了 Mustache 模板和关键安全修复</title>
+      <link>https://alternativeto.net/news/2026/2/calibre-9-2-1-introduces-mustache-templating-and-key-security-fixes/</link>
+      <description><![CDATA[Calibre 9.2.1 将 ZIP 输出 HTML 模板从 templite 切换到 Mustache，从而导致自定义模板发生重大更改。此版本修复了 CHM 和 EPUB 输入文件中的路径遍历漏洞以及查看器和书架问题。
+其他改进包括用于重建注释搜索索引的新选项以及在内容服务器中为未经身份验证的用户禁用基于模板的搜索。
+查看有关 AlternativeTo 的文章更多信息calibre | calibre 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/calibre-9-2-1-introduces-mustache-templating-and-key-security-fixes/</guid>
+      <pubDate>Fri, 06 Feb 2026 15:45:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 宣布全面支持 MCP Apps 开放标准</title>
+      <link>https://alternativeto.net/news/2026/2/chatgpt-announces-full-support-for-mcp-apps-open-standard/</link>
+      <description><![CDATA[ChatGPT 现在完全支持嵌入式应用 UI 的 MCP 应用开放标准，允许基于此规范构建的应用在 ChatGPT 中本机运行。该平台采用标准化 iframe 和 JSON-RPC 桥接模型，可跨 ChatGPT 和其他 MCP 兼容主机无缝重用 UI。
+随着新功能在验证后集成到 MCP 规范中，现有的 Apps SDK API 仍受支持。
+查看有关 AlternativeTo 的文章有关 ChatGPT 的更多信息 | ChatGPT 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/2/chatgpt-announces-full-support-for-mcp-apps-open-standard/</guid>
+      <pubDate>Fri, 06 Feb 2026 15:26:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vivaldi 7.8 为 iOS 和 Android 带来了固定选项卡、隐私仪表​​板和手势升级</title>
+      <link>https://alternativeto.net/news/2026/2/vivaldi-7-8-brings-pinned-tabs-privacy-dashboard-and-gesture-upgrades-to-ios-and-android/</link>
+      <description><![CDATA[Vivaldi 7.8 已登陆移动设备，支持 iOS 和 Android 仅桌面版首次亮相一周后。此更新提供了一些跨平台的显着功能和可用性更改。
+在 Android 上，用户现在可以受益于固定选项卡，从而为那些全天打开许多选项卡的用户提供高效的组织。该版本还引入了隐私仪表板，可以轻松查看浏览会话期间哪些跟踪器和广告被阻止。对于登录管理，Android 用户现在可以在内置密码管理器之间进行选择，或将凭据处理委托给第三方服务，例如 Bitwarden 或 1Password。其他 Android 改进包括直接在私人选项卡中使用选定文本进行搜索的能力以及禁用拉动刷新手势的新设置。
+转向 iOS，此版本利用地址栏实现更快的导航，并通过滑动手势提供对选项卡切换器的立即访问。用户可以灵活地从任何网站添加自定义搜索引擎，与 Android 上已有的功能相匹配。此外，标签切换器现在允许用户通过滑动快速关闭标签，从而简化了 iPhone 和 iPad 用户的标签管理。
+查看有关 AlternativeTo 的文章更多信息维瓦尔第 | 维瓦尔第替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/vivaldi-7-8-brings-pinned-tabs-privacy-dashboard-and-gesture-upgrades-to-ios-and-android/</guid>
+      <pubDate>Fri, 06 Feb 2026 14:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Mistral 推出 Voxtral Transcribe 2，这是一种在设备上运行的廉价开源语音模型</title>
       <link>https://alternativeto.net/news/2026/2/mistral-unveils-voxtral-transcribe-2-a-cheap-open-source-speech-model-that-runs-on-device/</link>
@@ -53,7 +112,7 @@ Roblox 在 Wish Master 中测试了工具，玩家在六个月内生成了超过
       <description><![CDATA[Deno Deploy 现已全面推出，使开发人员能够部署和运行 JavaScript 或 TypeScript Web 应用程序，而无需适配器或特定于供应商的配置。该平台自动检测主要 JavaScript 框架并执行特定于框架的构建步骤，包括对 Next.js 16“使用缓存”等功能的本机支持。指示。连接 GitHub 存储库可实现零配置持续部署，并可直接从 UI 进行每次提交的实时预览、拉取请求时间线和生产回滚。想要增加控制的团队可以使用新的 deno 部署子命令来实现以终端为中心的工作流程和持续集成场景。
 Deno Deploy 通过 Prisma 合作伙伴关系支持内置 Deno KV 和 Postgres 数据库、第三方集成以及仪表板配置。每个拉取请求都会收到一个独立的数据库，并通过自动环境变量管理确保代码的可移植性。开发人员还可以通过项目控制台浏览数据库数据。新的 --tunnel 标志允许使用托管环境变量进行本地开发，公开用于预览的公共 URL，并启用遥测收集，所有这些都可用于运行和任务命令。
 为了可观察性，Deno Deploy 可以捕获开箱即用的日志、跟踪和指标，包括 Node 或 Deno 项目，无需额外的检测。作为此版本的一部分，Deno 引入了 Beta 版 Deno Sandbox，这是一种云服务，用于在具有出站网络控制和注重安全的秘密模型的临时 Linux microVM 中运行不受信任的代码。沙箱支持临时和持久存储，可以通过 SDK、SSH、HTTP 或 Visual Studio Code 访问，并允许使用 sandbox.deploy() 进行测试到生产部署
-查看有关 AlternativeTo 的文章更多信息Deno | Deno 替代方案]]></description>
+查看有关 AlternativeTo 的文章更多信息Deno | Deno 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/2/deno-deploy-reaches-ga-with-ci-cd-observability-and-deno-sandbox-beta-launch/</guid>
       <pubDate>Thu, 05 Feb 2026 19:23:42 GMT</pubDate>
     </item>
@@ -96,63 +155,9 @@ Deno Deploy 通过 Prisma 合作伙伴关系支持内置 Deno KV 和 Postgres �
 基于这些技术变化，Navidrome 0.60 引入了使用 go-taglib 库实现的纯 Go 元数据提取器。这减少了对先前 C++ TagLib 依赖的依赖，并有望简化未来的跨平台构建和打包。 Go 提取器默认启用，但用户可以根据需要恢复。
 在这些改进之后，新的“Instant Mix”功能使用户能够自动生成类似歌曲的播放列表。默认情况下，它使用 Last.fm（使用 API 密钥配置时）或 Deezer，并且可以利用基于插件的建议，例如由 AudioMuse-AI。
 此版本中的其他更新包括新的和更改的配置选项、改进的安全措施以及各种错误修复。
-查看有关 AlternativeTo 的文章更多信息Navidrome | Navidrome 替代品]]></description>
+查看有关 AlternativeTo 的文章更多信息Navidrome | Navidrome 替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/2/navidrome-0-60-adds-webassembly-based-plugin-system-new-instant-mix-feature-and-more/</guid>
       <pubDate>Thu, 05 Feb 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adobe 推翻了停止 Animate 的决定，将应用程序置于“维护模式”</title>
-      <link>https://alternativeto.net/news/2026/2/adobe-reverses-decision-to-discontinue-animate-puts-app-into-maintenance-mode-instead/</link>
-      <description><![CDATA[在受到创意界的广泛批评后，Adobe 撤销了之前停止使用 Animate 平台的决定。官方更新澄清，所有当前和新客户都可以继续访问 Adobe Animate，确保持续访问软件和用户生成的内容。从 Adobe 产品阵容中删除不再有固定日期。
-更改后，Adobe Animate 已进入“维护模式”。这意味着，虽然不会开发新功能，但 Adob​​e 将继续通过安全性和错误修复来支持该应用程序。该公司声明此政策适用于个人、商业和企业客户，并强调无论未来的开发如何变化，用户的内容和工作流程都将继续受到支持。
-尽管许多用户在逆转后表示松了口气，但仍然存在一些不满。用户群中的主要声音批评了基于订阅的许可模式，认为 Animate 应该转换为永久许可，因为 Adob​​e 不再计划添加新功能。这些正在进行的讨论凸显了对 Animate 订阅者长期价值的挥之不去的担忧。
-查看有关 AlternativeTo 的文章有关 Adobe 的更多信息Animate | Adobe Animate 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/adobe-reverses-decision-to-discontinue-animate-puts-app-into-maintenance-mode-instead/</guid>
-      <pubDate>Thu, 05 Feb 2026 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pandoc 3.9：WebAssembly 支持、PDF 标准和改进的浏览器功能</title>
-      <link>https://alternativeto.net/news/2026/2/pandoc-3-9-webassembly-support-pdf-standards-and-improved-browser-features/</link>
-      <description><![CDATA[Pandoc 3.9 现在可以编译为 WebAssembly，从而可以直接在 Web 浏览器中使用，以及专用的 JavaScript 桥和基于浏览器的 GUI。现在支持 JSON 和 YAML 格式的默认文件，并且 --extract-media 可以导出到 zip 存档。
-此版本还通过 lualatex 引入了 PDF 标准支持，并带来了多项错误修复和阅读器增强功能。
-查看有关 AlternativeTo 的文章有关 Pandoc 的更多信息 | Pandoc 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/pandoc-3-9-webassembly-support-pdf-standards-and-improved-browser-features/</guid>
-      <pubDate>Thu, 05 Feb 2026 09:39:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Visual Studio Code 1.109 发布聊天用户体验检修和高级代理控件</title>
-      <link>https://alternativeto.net/news/2026/2/visual-studio-code-1-109-releases-chat-ux-overhaul-and-advanced-agent-controls/</link>
-      <description><![CDATA[Visual Studio Code 1.109 对其聊天用户体验进行了重大更新，提供更快的流式传输和改进的内联聊天体验。新功能简化了代理会话管理，让用户可以委派任务并构建自定义多代理工作流程。
-该版本还增加了对 Claude 代理和 Anthropic 模型的支持，同时在集成编辑器浏览器中启用应用程序测试。
-查看有关 AlternativeTo 的文章有关 Visual Studio 的更多信息代码 | Visual Studio 代码替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/2/visual-studio-code-1-109-releases-chat-ux-overhaul-and-advanced-agent-controls/</guid>
-      <pubDate>Thu, 05 Feb 2026 09:25:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zed Editor 添加了多个编辑预测提供程序和可插拔架构</title>
-      <link>https://alternativeto.net/news/2026/2/zed-editor-adds-multiple-edit-prediction-providers-and-pluggable-architecture/</link>
-      <description><![CDATA[Zed Editor 现在允许用户在多个编辑预测提供程序之间切换，包括 Zeta、Mercury Coder、Sweep、Ollama、Codestral 和 GitHub Copilot 的下一个编辑建议。新的可插入提供程序架构简化了附加模型和定制解决方案的集成。
-Ollama 支持已上线，支持本地使用 CodeLlama 和 DeepSeek 等开放权重模型，从而提供更好的隐私和控制。
-查看有关 AlternativeTo 的文章有关 Zed 的更多信息编辑器 | Zed 编辑器替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/2/zed-editor-adds-multiple-edit-prediction-providers-and-pluggable-architecture/</guid>
-      <pubDate>Thu, 05 Feb 2026 09:19:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jules 增加了对 Linear、Stitch、Neon 等的 MCP 服务器支持</title>
-      <link>https://alternativeto.net/news/2026/2/jules-adds-mcp-server-support-for-linear-stitch-neon-and-more/</link>
-      <description><![CDATA[Jules 现在为 Linear 提供 MCP 服务器集成，Stitch、Neon、Tinybird、Context7 和 Supabase。用户可以通过在 Jules 设置页面中为每个服务添加 API 密钥来启用这些连接。
-最初的推出侧重于安全性，限制对经过审查的提供商的支持以及审核权限和数据流。
-查看有关 AlternativeTo 的文章有关 Jules 的更多信息 | 朱尔斯替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/jules-adds-mcp-server-support-for-linear-stitch-neon-and-more/</guid>
-      <pubDate>Thu, 05 Feb 2026 09:08:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spotify 扩展歌词翻译，添加离线访问和前置歌词预览</title>
-      <link>https://alternativeto.net/news/2026/2/spotify-expands-lyric-translations-adds-offline-access-and-front-facing-lyric-previews/</link>
-      <description><![CDATA[Spotify 已为免费和高级用户推出全球歌词翻译，使歌词更易于理解，无论语言如何。高级订阅者现在可以离线访问保存的歌词以及下载的曲目。此外，歌词预览现在显示在移动和平板电脑设备上的专辑封面或画布下方，提高了所有用户的歌词可见性。
-查看有关 AlternativeTo 的文章更多信息Spotify | Spotify 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/spotify-expands-lyric-translations-adds-offline-access-and-front-facing-lyric-previews/</guid>
-      <pubDate>Thu, 05 Feb 2026 08:50:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
