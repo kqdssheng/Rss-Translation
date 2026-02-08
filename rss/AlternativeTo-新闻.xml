@@ -4,14 +4,14 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sun, 08 Feb 2026 02:33:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 12:50:29 GMT</lastBuildDate>
     <item>
       <title>OpenAI 推出 GPT-5.3-Codex，具有更快、更广泛的代理编码功能</title>
       <link>https://alternativeto.net/news/2026/2/openai-launches-gpt-5-3-codex-with-faster-and-broader-agentic-coding-capabilities/</link>
       <description><![CDATA[OpenAI 宣布推出 GPT-5.3-Codex，这是其编码模型系列的最新更新，也是迄今为止发布的最强大的代理编码代理。此新版本将编码性能、推理能力和专业知识方面的改进与显着的速度提升相结合：GPT-5.3-Codex 的运行速度比其前身快 25%。
 在这些升级的基础上，GPT-5.3-Codex 现在可以让用户在不丢失上下文的情况下处理连续、交互式和长时间的研究和执行任务。虽然以前的 Codex 版本侧重于代码编写和审查，但此版本支持开发人员和专业人员通常在计算机上执行的几乎所有活动，例如调试、部署、监控、编写产品需求文档、编辑副本、用户研究等。
 GPT-5.3-Codex 在 SWE-Bench Pro 和 Terminal-Bench 编码和代理基准测试中达到了行业新高，展示了其扩展的功能。它还在 OSWorld 和 GDPval 上发布了强劲的结果，确立了其在实际用例中的地位。该模型可以在几天内从头开始构建功能复杂的游戏和应用程序，进一步凸显其多阶段项目能力。 GPT-5.3-Codex 可通过跨各种平台的付费 ChatGPT 计划使用，包括应用程序、命令行界面、IDE 扩展和网络，并且即将推出 API 访问。
-查看有关 AlternativeTo 的文章有关 OpenAI 的更多信息Codex | OpenAI Codex 替代品]]></description>
+查看有关 AlternativeTo 的文章有关 OpenAI 的更多信息Codex | OpenAI Codex 替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/2/openai-launches-gpt-5-3-codex-with-faster-and-broader-agentic-coding-capabilities/</guid>
       <pubDate>Sat, 07 Feb 2026 11:30:00 GMT</pubDate>
     </item>
@@ -152,7 +152,7 @@ Roblox 在 Wish Master 中测试了工具，玩家在六个月内生成了超过
       <description><![CDATA[Deno Deploy 现已全面推出，使开发人员能够部署和运行 JavaScript 或 TypeScript Web 应用程序，而无需适配器或特定于供应商的配置。该平台自动检测主要 JavaScript 框架并执行特定于框架的构建步骤，包括对 Next.js 16“使用缓存”等功能的本机支持。指示。连接 GitHub 存储库可实现零配置持续部署，并可直接从 UI 进行每次提交的实时预览、拉取请求时间线和生产回滚。想要增加控制的团队可以使用新的 deno 部署子命令来实现以终端为中心的工作流程和持续集成场景。
 Deno Deploy 通过 Prisma 合作伙伴关系支持内置 Deno KV 和 Postgres 数据库、第三方集成以及仪表板配置。每个拉取请求都会收到一个独立的数据库，并通过自动环境变量管理确保代码的可移植性。开发人员还可以通过项目控制台浏览数据库数据。新的 --tunnel 标志允许使用托管环境变量进行本地开发，公开用于预览的公共 URL，并启用遥测收集，所有这些都可用于运行和任务命令。
 为了可观察性，Deno Deploy 可以捕获开箱即用的日志、跟踪和指标，包括 Node 或 Deno 项目，无需额外的检测。作为此版本的一部分，Deno 引入了 Beta 版 Deno Sandbox，这是一种云服务，用于在具有出站网络控制和注重安全的秘密模型的临时 Linux microVM 中运行不受信任的代码。沙箱支持临时和持久存储，可以通过 SDK、SSH、HTTP 或 Visual Studio Code 访问，并允许使用 sandbox.deploy() 进行测试到生产部署
-查看有关 AlternativeTo 的文章更多信息Deno | Deno 替代品]]></description>
+查看有关 AlternativeTo 的文章更多信息Deno | Deno 替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/2/deno-deploy-reaches-ga-with-ci-cd-observability-and-deno-sandbox-beta-launch/</guid>
       <pubDate>Thu, 05 Feb 2026 19:23:42 GMT</pubDate>
     </item>
