@@ -4,7 +4,7 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sun, 08 Feb 2026 12:50:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 02:11:23 GMT</lastBuildDate>
     <item>
       <title>OpenAI 推出 GPT-5.3-Codex，具有更快、更广泛的代理编码功能</title>
       <link>https://alternativeto.net/news/2026/2/openai-launches-gpt-5-3-codex-with-faster-and-broader-agentic-coding-capabilities/</link>
@@ -152,7 +152,7 @@ Roblox 在 Wish Master 中测试了工具，玩家在六个月内生成了超过
       <description><![CDATA[Deno Deploy 现已全面推出，使开发人员能够部署和运行 JavaScript 或 TypeScript Web 应用程序，而无需适配器或特定于供应商的配置。该平台自动检测主要 JavaScript 框架并执行特定于框架的构建步骤，包括对 Next.js 16“使用缓存”等功能的本机支持。指示。连接 GitHub 存储库可实现零配置持续部署，并可直接从 UI 进行每次提交的实时预览、拉取请求时间线和生产回滚。想要增加控制的团队可以使用新的 deno 部署子命令来实现以终端为中心的工作流程和持续集成场景。
 Deno Deploy 通过 Prisma 合作伙伴关系支持内置 Deno KV 和 Postgres 数据库、第三方集成以及仪表板配置。每个拉取请求都会收到一个独立的数据库，并通过自动环境变量管理确保代码的可移植性。开发人员还可以通过项目控制台浏览数据库数据。新的 --tunnel 标志允许使用托管环境变量进行本地开发，公开用于预览的公共 URL，并启用遥测收集，所有这些都可用于运行和任务命令。
 为了可观察性，Deno Deploy 可以捕获开箱即用的日志、跟踪和指标，包括 Node 或 Deno 项目，无需额外的检测。作为此版本的一部分，Deno 引入了 Beta 版 Deno Sandbox，这是一种云服务，用于在具有出站网络控制和注重安全的秘密模型的临时 Linux microVM 中运行不受信任的代码。沙箱支持临时和持久存储，可以通过 SDK、SSH、HTTP 或 Visual Studio Code 访问，并允许使用 sandbox.deploy() 进行测试到生产部署
-查看有关 AlternativeTo 的文章更多信息Deno | Deno 替代方案]]></description>
+查看有关 AlternativeTo 的文章更多信息Deno | Deno 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/2/deno-deploy-reaches-ga-with-ci-cd-observability-and-deno-sandbox-beta-launch/</guid>
       <pubDate>Thu, 05 Feb 2026 19:23:42 GMT</pubDate>
     </item>

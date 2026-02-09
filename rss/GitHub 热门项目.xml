@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 08 Feb 2026 12:50:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 02:11:30 GMT</lastBuildDate>
     <item>
       <title>折断</title>
       <link>https://www.producthunt.com/products/snap-8</link>
@@ -62,18 +62,18 @@
       <pubDate>Fri, 06 Feb 2026 23:09:35 GMT</pubDate>
     </item>
     <item>
-      <title>利亚姆</title>
-      <link>https://www.producthunt.com/products/liam-email-calendar-assistant</link>
+      <title>夸什</title>
+      <link>https://www.producthunt.com/products/quash-intent-driven-mobile-testing</link>
       <description><![CDATA[
-            用您的声音发送电子邮件草稿 + 收件箱组织 + 日程安排
+            无需脚本即可运行测试的移动 QA 代理
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/liam-email-calendar-assistant</guid>
-      <pubDate>Fri, 06 Feb 2026 08:17:09 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/quash-intent-driven-mobile-testing</guid>
+      <pubDate>Fri, 06 Feb 2026 10:59:12 GMT</pubDate>
     </item>
     <item>
       <title>卷集线器</title>
@@ -118,6 +118,34 @@
       <pubDate>Thu, 05 Feb 2026 07:18:35 GMT</pubDate>
     </item>
     <item>
+      <title>开发者文档审核</title>
+      <link>https://www.producthunt.com/products/nakora</link>
+      <description><![CDATA[
+            提高 LLM 知名度、注册量和激活用户
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/nakora</guid>
+      <pubDate>Thu, 05 Feb 2026 06:13:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>灵感笔记</title>
+      <link>https://www.producthunt.com/products/inspirenote</link>
+      <description><![CDATA[
+            创意头脑风暴卡片组和笔记应用程序
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/inspirenote</guid>
+      <pubDate>Wed, 04 Feb 2026 03:31:15 GMT</pubDate>
+    </item>
+    <item>
       <title>阿克塞尔</title>
       <link>https://www.producthunt.com/products/axel-3</link>
       <description><![CDATA[
@@ -146,20 +174,6 @@
       <pubDate>Tue, 03 Feb 2026 04:03:04 GMT</pubDate>
     </item>
     <item>
-      <title>技能包</title>
-      <link>https://www.producthunt.com/products/skillkit-2</link>
-      <description><![CDATA[
-            AI代理技能包管理器
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/skillkit-2</guid>
-      <pubDate>Mon, 02 Feb 2026 18:15:00 GMT</pubDate>
-    </item>
-    <item>
       <title>星期日</title>
       <link>https://www.producthunt.com/products/sunday-the-book-quotes-collector</link>
       <description><![CDATA[
@@ -174,32 +188,18 @@
       <pubDate>Sun, 01 Feb 2026 21:39:26 GMT</pubDate>
     </item>
     <item>
-      <title>拼我</title>
-      <link>https://www.producthunt.com/products/pinme</link>
+      <title>stagecaptions.io</title>
+      <link>https://www.producthunt.com/products/stagecaptions-io</link>
       <description><![CDATA[
-            零配置前端部署，无需服务器或设置
+            适用于现场活动的实时字幕软件
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/pinme</guid>
-      <pubDate>Thu, 29 Jan 2026 08:35:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>VV术语</title>
-      <link>https://www.producthunt.com/products/vvterm</link>
-      <description><![CDATA[
-            Ghostty 支持的 SSH 客户端，适用于 iOS、iPad、MacOS。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/vvterm</guid>
-      <pubDate>Mon, 19 Jan 2026 12:08:46 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/stagecaptions-io</guid>
+      <pubDate>Wed, 28 Jan 2026 20:51:57 GMT</pubDate>
     </item>
     <item>
       <title>一分钟新闻</title>
