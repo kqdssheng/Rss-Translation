@@ -4,34 +4,34 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 11 Feb 2026 13:10:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 02:10:37 GMT</lastBuildDate>
     <item>
-      <title>发作实验室</title>
-      <link>https://www.producthunt.com/products/onsetlab</link>
+      <title>随叫随到的健康</title>
+      <link>https://www.producthunt.com/products/on-call-health</link>
       <description><![CDATA[
-            具有 SLM 的本地工具调用 AI 代理
+            在事件响应人员精疲力尽之前发现过载
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/onsetlab</guid>
-      <pubDate>Tue, 10 Feb 2026 21:33:13 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/on-call-health</guid>
+      <pubDate>Wed, 11 Feb 2026 03:07:18 GMT</pubDate>
     </item>
     <item>
-      <title>诺兰OCR</title>
-      <link>https://www.producthunt.com/products/nolain-ocr</link>
+      <title>查瓦斯</title>
+      <link>https://www.producthunt.com/products/chatvas</link>
       <description><![CDATA[
-            将数百份文档转换为一张干净的电子表格
+            ChatGPT 分支的无限画布 
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/nolain-ocr</guid>
-      <pubDate>Tue, 10 Feb 2026 21:22:22 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/chatvas</guid>
+      <pubDate>Tue, 10 Feb 2026 23:20:16 GMT</pubDate>
     </item>
     <item>
       <title>创世记</title>
@@ -48,6 +48,20 @@
       <pubDate>Tue, 10 Feb 2026 20:58:11 GMT</pubDate>
     </item>
     <item>
+      <title>技能盾</title>
+      <link>https://www.producthunt.com/products/skillshield</link>
+      <description><![CDATA[
+            AI 技能和代理工具的安全评分目录
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/skillshield</guid>
+      <pubDate>Tue, 10 Feb 2026 19:27:34 GMT</pubDate>
+    </item>
+    <item>
       <title>市场投资者</title>
       <link>https://www.producthunt.com/products/marketfunkers</link>
       <description><![CDATA[
@@ -62,18 +76,18 @@
       <pubDate>Tue, 10 Feb 2026 18:15:47 GMT</pubDate>
     </item>
     <item>
-      <title>爱马仕 Markdown</title>
-      <link>https://www.producthunt.com/products/hermesmd</link>
+      <title>类型流</title>
+      <link>https://www.producthunt.com/products/typeflow-translate-fix-instantly</link>
       <description><![CDATA[
-            用于起草带有清晰度分数的人工智能提示的笔记本
+            通过一个快捷方式，像母语人士一样使用任何语言进行写作
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/hermesmd</guid>
-      <pubDate>Tue, 10 Feb 2026 17:57:08 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/typeflow-translate-fix-instantly</guid>
+      <pubDate>Tue, 10 Feb 2026 18:15:32 GMT</pubDate>
     </item>
     <item>
       <title>跳跃人工智能</title>
@@ -90,34 +104,6 @@
       <pubDate>Tue, 10 Feb 2026 13:22:37 GMT</pubDate>
     </item>
     <item>
-      <title>抒情诗</title>
-      <link>https://www.producthunt.com/products/lyrica</link>
-      <description><![CDATA[
-            歌曲创作的协作工作空间
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/lyrica</guid>
-      <pubDate>Tue, 10 Feb 2026 12:10:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>鄂尔多</title>
-      <link>https://www.producthunt.com/products/ordo</link>
-      <description><![CDATA[
-            保存、组织和查找添加书签的卷轴的简单方法
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/ordo</guid>
-      <pubDate>Tue, 10 Feb 2026 08:27:50 GMT</pubDate>
-    </item>
-    <item>
       <title>面向开发人员的 Willow</title>
       <link>https://www.producthunt.com/products/willow-voice</link>
       <description><![CDATA[
@@ -132,18 +118,46 @@
       <pubDate>Mon, 09 Feb 2026 23:04:25 GMT</pubDate>
     </item>
     <item>
-      <title>米格玛人工智能</title>
-      <link>https://www.producthunt.com/products/migma-ai</link>
+      <title>0x审计</title>
+      <link>https://www.producthunt.com/products/0xaudit</link>
       <description><![CDATA[
-            让电子邮件再次性感起来
+            AI代理通过MCP扫描、修复验证的安全层
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/migma-ai</guid>
-      <pubDate>Sun, 08 Feb 2026 23:19:46 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/0xaudit</guid>
+      <pubDate>Mon, 09 Feb 2026 21:46:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>安塔尔·艾</title>
+      <link>https://www.producthunt.com/products/antal-ai</link>
+      <description><![CDATA[
+            检测并遮挡实时视频流中的人物
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/antal-ai</guid>
+      <pubDate>Mon, 09 Feb 2026 15:10:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿提拉</title>
+      <link>https://www.producthunt.com/products/atyla</link>
+      <description><![CDATA[
+            适用于 ChatGPT、Gemini 和 AI 搜索引擎的 SEO 工具
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/atyla</guid>
+      <pubDate>Mon, 09 Feb 2026 14:02:00 GMT</pubDate>
     </item>
     <item>
       <title>漂移</title>
@@ -158,20 +172,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/drift-7</guid>
       <pubDate>Sun, 08 Feb 2026 22:09:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Doraverse 的多合一会议人工智能</title>
-      <link>https://www.producthunt.com/products/doraverse-3</link>
-      <description><![CDATA[
-            使用任何语言进行会议并提供实时翻译
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/doraverse-3</guid>
-      <pubDate>Fri, 06 Feb 2026 10:25:44 GMT</pubDate>
     </item>
     <item>
       <title>快乐卡皮</title>
@@ -202,18 +202,18 @@
       <pubDate>Thu, 05 Feb 2026 15:19:37 GMT</pubDate>
     </item>
     <item>
-      <title>尖齿</title>
-      <link>https://www.producthunt.com/products/tines</link>
+      <title>iOS 订阅 Day²</title>
+      <link>https://www.producthunt.com/products/subscription-day</link>
       <description><![CDATA[
-            在您的工作空间中集成代理、团队和工具
+            通过多个来源的分析来跟踪付费订阅
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/tines</guid>
-      <pubDate>Mon, 02 Feb 2026 23:54:07 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/subscription-day</guid>
+      <pubDate>Mon, 02 Feb 2026 12:07:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
