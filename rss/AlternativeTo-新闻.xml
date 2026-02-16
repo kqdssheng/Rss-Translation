@@ -4,157 +4,156 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Tue, 10 Feb 2026 02:27:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 13:03:28 GMT</lastBuildDate>
     <item>
-      <title>ESLint 10.0 带来了跟踪的 JSX 引用、增强的 RuleTester API 以及其他改进</title>
-      <link>https://alternativeto.net/news/2026/2/eslint-10-0-brings-tracked-jsx-references-enhanced-ruletester-api-and-other-improvements/</link>
-      <description><![CDATA[ESLint 10.0 现已作为免费开源 JavaScript 代码分析工具的最新版本推出。此主要版本删除了 eslintrc 配置系统，影响了所有依赖经典配置方法的用户。展望未来，该工具现在跟踪 JSX 引用，为 JSX 元素提供正确的范围分析，从而解决依赖于标识符跟踪的规则中的问题。
-扩展类型安全性，Espree v11.1.0 和 ESLint Scope v9.1.0 现在包含内置类型定义。自定义规则作者将受益于 RuleTester 的增强功能，它强制执行更严格的测试定义和更好的调试。 max-params 规则引入了 countThis 选项，取代了已弃用的 countVoidThis。这些更改支持团队级代码质量标准。
-格式化程序开发人员现在可以使用新的上下文属性来支持 --color 和 --no-color 选项，让自定义格式化程序尊重用户终端颜色首选项。 eslint:recommended 配置获得了新规则，并且 Program AST 节点现在涵盖了完整的源文本，包括注释和空格。在兼容性改进之后，对于 TypeScript 配置加载，已删除对 2.2.0 之前的 jiti 版本的支持。此版本中还删除或更新了已弃用的 API 方法和其他重大更改。
-查看有关 AlternativeTo 的文章更多信息ESLint | ESLint 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/2/eslint-10-0-brings-tracked-jsx-references-enhanced-ruletester-api-and-other-improvements/</guid>
-      <pubDate>Mon, 09 Feb 2026 10:00:00 GMT</pubDate>
+      <title>Cal.com 6.2：改进的日历视图和团队自定义会议地点</title>
+      <link>https://alternativeto.net/news/2026/2/cal-com-6-2-improved-calendar-view-and-custom-meeting-locations-for-teams/</link>
+      <description><![CDATA[Cal.com 6.2 版在预订页面引入了新的日历视图，为用户提供更清晰的日程安排可视化。循环赛活动现在支持每位主持人的自定义会议地点，从而简化了团队的预订流程。团队和组织用户的链接隐藏功能回归，并添加了 URL 扫描以提高安全性。
+此外，此更新还带来了 API、OAuth、HubSpot 和移动改进，以及多个错误修复和稳定性增强。
+查看有关 AlternativeTo 的文章更多信息Cal.com | Cal.com 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/2/cal-com-6-2-improved-calendar-view-and-custom-meeting-locations-for-teams/</guid>
+      <pubDate>Mon, 16 Feb 2026 08:11:28 GMT</pubDate>
     </item>
     <item>
-      <title>PeaZip 10.9 发布，改进了文件管理器、彻底修改了文本和图像查看器等</title>
-      <link>https://alternativeto.net/news/2026/2/peazip-10-9-released-with-improved-file-manager-overhauled-text-and-image-viewers-and-more/</link>
-      <description><![CDATA[PeaZip 10.9 作为这款免费开源文件管理器和归档器的最新更新首次亮相，为跨平台用户扩展了其工具集。此版本添加了新的替代上下文菜单，并允许用户将自定义操作分配给鼠标中键，同时引入新的键盘快捷键来简化导航。其他改进旨在提高内部拖放响应能力，并简化 RAR 文件和多卷存档的处理。图像查看器和文本查看器也进行了彻底修改，以获得更一致的体验。
-随着这些界面更新，PeaZip 10.9 将其后端升级到 Pea 1.29。此次更新为 Pea 和 Unpea 功能提供了全新的图形界面，旨在实现更流畅的操作和更好的集成。后端更新后，代码库现在使用 Lazarus 4.x 构建，但仍与 Lazarus 3.x 和 2.x 兼容，支持依赖旧开发环境的贡献者和用户。
-PeaZip 10.9 进一步引入了修复和小幅生活质量改进，以提高可靠性和易用性，强调了其对以用户为中心的改进的持续承诺。
-查看有关 AlternativeTo 的文章更多信息PeaZip | PeaZip 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/peazip-10-9-released-with-improved-file-manager-overhauled-text-and-image-viewers-and-more/</guid>
-      <pubDate>Mon, 09 Feb 2026 08:30:00 GMT</pubDate>
+      <title>谷歌推出 Gemini 3 Deep Think 升级版，适用于复杂的科学和工程任务</title>
+      <link>https://alternativeto.net/news/2026/2/google-unveils-gemini-3-deep-think-upgrade-for-complex-science-and-engineering-tasks/</link>
+      <description><![CDATA[Google 推出了升级版 Gemini 3 Deep Think 模式，旨在解决复杂的科学、研究和工程任务。 Gemini 应用中的 Google AI Ultra 订阅者可以使用该功能，而开发者和企业也可以通过 Vertex AI 早期访问计划请求 API 访问权限。
+DeepMind 表示 Deep Think 领先于 Claude Opus 4.6、GPT 5.2 和 Gemini 3 Pro Preview 等模型的多项基准测试，尤其是在逻辑推理和编码方面。在多模态推理方面，差距要小得多，MMMU Pro 的结果几乎与 Deep Think 和 Gemini 3 Pro Preview 持平，这表明升级的目标更多是抽象推理而不是视觉理解。
+DeepMind 还报告了 2025 年物理和化学奥林匹克竞赛的金牌水平表现，并指出了该模型在科学工作中使用的示例。
+查看有关 AlternativeTo 的文章有关 Google 的更多信息Gemini | Google Gemini 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/google-unveils-gemini-3-deep-think-upgrade-for-complex-science-and-engineering-tasks/</guid>
+      <pubDate>Sun, 15 Feb 2026 08:06:59 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 推出 GPT-5.3-Codex，具有更快、更广泛的代理编码功能</title>
-      <link>https://alternativeto.net/news/2026/2/openai-launches-gpt-5-3-codex-with-faster-and-broader-agentic-coding-capabilities/</link>
-      <description><![CDATA[OpenAI 宣布推出 GPT-5.3-Codex，这是其编码模型系列的最新更新，也是迄今为止发布的最强大的代理编码代理。此新版本将编码性能、推理能力和专业知识方面的改进与显着的速度提升相结合：GPT-5.3-Codex 的运行速度比其前身快 25%。
-在这些升级的基础上，GPT-5.3-Codex 现在可以让用户在不丢失上下文的情况下处理连续、交互式和长时间的研究和执行任务。虽然以前的 Codex 版本侧重于代码编写和审查，但此版本支持开发人员和专业人员通常在计算机上执行的几乎所有活动，例如调试、部署、监控、编写产品需求文档、编辑副本、用户研究等。
-GPT-5.3-Codex 在 SWE-Bench Pro 和 Terminal-Bench 编码和代理基准测试中达到了行业新高，展示了其扩展的功能。它还在 OSWorld 和 GDPval 上发布了强劲的结果，确立了其在实际用例中的地位。该模型可以在几天内从头开始构建功能复杂的游戏和应用程序，进一步凸显其多阶段项目能力。 GPT-5.3-Codex 可通过跨各种平台的付费 ChatGPT 计划使用，包括应用程序、命令行界面、IDE 扩展和网络，并且即将推出 API 访问。
-查看有关 AlternativeTo 的文章有关 OpenAI 的更多信息Codex | OpenAI Codex 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/openai-launches-gpt-5-3-codex-with-faster-and-broader-agentic-coding-capabilities/</guid>
-      <pubDate>Sat, 07 Feb 2026 11:30:00 GMT</pubDate>
+      <title>微软记事本中发现新的安全漏洞，得益于其最新的“创新”添加</title>
+      <link>https://alternativeto.net/news/2026/2/new-security-flaw-found-in-microsoft-notepad-courtesy-of-its-latest-innovative-additions/</link>
+      <description><![CDATA[微软已确认 Windows 11 的现代记事本应用中存在一个高度严重的远程代码执行漏洞，该漏洞被跟踪为CVE-2026-20841， CVSS 基本分数为 8.8。该问题与 Markdown 链接内特殊元素处理不当导致的命令注入有关，这可以让记事本启动未经验证的协议处理程序。 Markdown 文件中精心设计的链接可以获取远程内容并在打开该文件的用户的权限下运行它。
+攻击者需要诱骗某人在记事本中打开特制的 Markdown 文件并单击恶意链接。影响取决于用户的权限，因为代码在该用户的安全上下文中运行。 Microsoft 将机密性、完整性和可用性方面的影响评为“高”，潜在后果包括数据失窃、未经授权的更改和系统不稳定。
+该风险与记事本最近在 Windows 11 中超越纯文本编辑的扩展密切相关，因为微软添加了诸如 Markdown 渲染和可点击链接以及选项卡和自动保存等功能，更不用说一些 AI 功能由 Copilot 集成提供，这意味着记事本现在可以解析结构化内容并以经典版本的方式与系统协议交互从来没有。在这种情况下，Markdown 链接处理正是造成漏洞的原因。微软表示尚未发现活跃的利用情况，该修复程序将作为 2026 年 2 月补丁星期二更新的一部分通过 Windows 更新和 Microsoft Store 推出。
+查看有关 AlternativeTo 的文章有关 Windows 的更多信息记事本 | Windows 记事本替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/new-security-flaw-found-in-microsoft-notepad-courtesy-of-its-latest-innovative-additions/</guid>
+      <pubDate>Sun, 15 Feb 2026 01:42:41 GMT</pubDate>
     </item>
     <item>
-      <title>Spotify 首次推出 About the Song 测试版，为高级用户提供可滑动的琐事</title>
-      <link>https://alternativeto.net/news/2026/2/spotify-debuts-about-the-song-beta-with-swipeable-trivia-for-premium-users/</link>
-      <description><![CDATA[Spotify 推出了一项名为关于歌曲的新测试版功能，可为所选曲目添加幕后背景。它可供高级用户使用，它显示可滑动的故事卡，其中包含旨在解释歌曲的工艺和背景的信息。
-符合条件的用户可以在“正在播放”视图中找到它，方法是在专辑封面下方滚动以查找支持的曲目。这些卡片包括从第三方来源获取的琐事和背景详细信息，以及使用机器学习生成的文本，Spotify 在每张卡片上都引用了来源。 Spotify 尚未透露其使用哪些提供商，但此次推出是在其扩展了 Song Credits 和 SongDNA 功能以及 2025 年收购 WhoSampled 之后推出的，这可能有助于为该歌曲上下文的部分内容和采样相关数据提供支持。
-在推出时，《About the Song》仅限于美国、英国、加拿大、爱尔兰、新西兰和澳大利亚的 Android 和 iOS 高级订阅者，Spotify 尚未透露何时结束测试版或是否会扩展到免费用户。
-查看有关 AlternativeTo 的文章更多信息Spotify | Spotify 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/spotify-debuts-about-the-song-beta-with-swipeable-trivia-for-premium-users/</guid>
-      <pubDate>Sat, 07 Feb 2026 10:27:59 GMT</pubDate>
+      <title>OpenAI 推出 GPT-5.3-Codex-Spark，用于具有 128k 上下文窗口的实时编码</title>
+      <link>https://alternativeto.net/news/2026/2/openai-introduces-gpt-5-3-codex-spark-for-real-time-coding-with-128k-context-window/</link>
+      <description><![CDATA[OpenAI 宣布推出 GPT-5.3-Codex-Spark，这是一款专为实时编码任务而设计的紧凑模型。该研究预览现已推出，是专为实现即时交互式编码体验而创建的 Codex 系列中的第一个。
+Codex-Spark 的突出特点是超低延迟，在支持的硬件上每秒持续交付超过 1000 个令牌。这允许高度响应的工作流程，因为用户可以执行有针对性的编辑、调整逻辑或优化界面并立即查看效果。这些改进意味着 Codex 现在既可以容纳长期的、雄心勃勃的开发任务，也可以容纳简短的、即时的交互。
+在发布时，Codex-Spark 提供了 128k 令牌上下文窗口，并作为纯文本模型发布。 ChatGPT Pro 订阅者可以通过最新版本的 Codex 应用、命令行界面和 Visual Studio Code 扩展提前访问。在研究预览期间，Codex-Spark 在其自己的速率限制下运行，因此使用量不计入标准计划配额。然而，在需求旺盛期间，访问可能会暂时受到限制。此次推出的重点是支持高度交互式的工作，允许用户实时协作、动态重定向模型，并从整个编码过程中近乎即时的反馈中受益。
+查看有关 AlternativeTo 的文章有关 OpenAI 的更多信息Codex | OpenAI Codex 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/2/openai-introduces-gpt-5-3-codex-spark-for-real-time-coding-with-128k-context-window/</guid>
+      <pubDate>Sat, 14 Feb 2026 07:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Ente Photos 为所有平台带来了点赞、评论、相册管理和更快的共享功能</title>
-      <link>https://alternativeto.net/news/2026/2/ente-photos-brings-likes-comments-album-admins-and-faster-sharing-to-all-platforms/</link>
-      <description><![CDATA[Ente Photos 推出了其所描述的迄今为止最大的更新，其中一系列更改侧重于共享和日常照片管理。共享照片和相册现在支持跨移动设备、桌面设备和网络的点赞和评论，因此可以在 Ente 内进行对话。查看链接共享相册的人也可以点赞和评论，即使他们没有 Ente 帐户，并且活动会显示在“共享”选项卡中，并在移动设备上发送推送通知。
-相册还获得了管理员角色。所有者可以指定另一个 Ente 用户来帮助删除照片、添加查看者和协作者、审核评论以及向照片所有者建议永久删除。这是针对具有大量上传的活动相册，以及需要持续共同管理的共享家庭相册。
-在网络和桌面上，用户可以将完整相册下载为多部分 ZIP 文件，包括链接共享相册。桌面版还添加了隐藏共享相册、直接上传到隐藏相册以及在上传或移动照片等操作期间对相册列表进行排序等选项。在移动设备上，搜索设置经过重新设计，搜索和面部管理也得到了升级，例如更快的导航、面部列表排序和搜索、忽略的面部页面以及更容易的合并。 GPS 位置编辑现在也可以在网络和桌面上进行。
-查看有关 AlternativeTo 的文章有关 Ente 的更多信息照片 | Ente 照片替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/ente-photos-brings-likes-comments-album-admins-and-faster-sharing-to-all-platforms/</guid>
-      <pubDate>Sat, 07 Feb 2026 10:11:10 GMT</pubDate>
+      <title>Substack 带来了改进的设计编辑、配方嵌入和扩展的直播安排</title>
+      <link>https://alternativeto.net/news/2026/2/substack-brings-improved-design-editing-recipe-embeds-and-expanded-livestream-scheduling/</link>
+      <description><![CDATA[Substack 推出了多项更新，让发布商能够更好地控制内容呈现和受众参与。该平台的主题编辑器现在允许用户调整文字标记的大小和位置、选择自定义欢迎页面颜色以及使用拖放功能对侧边栏模块重新排序。编辑主页体验也变得更加容易，因为发布商现在只需单击预览即可调整任何主页部分，而新的撤消选项可帮助快速撤消已保存的更改。
+遵循这些发布控制，Substack 在测试版中引入了配方嵌入。此功能提供了用于在帖子中共享食谱的结构化格式，包括对图像、标题和描述、准备和烹饪时间、成分列表、详细说明和描述性标签的支持。每个嵌入都会自动生成元数据，从而提高读者的可用性和搜索引擎的可见性。此举旨在帮助分享食谱的创作者更有效地吸引新受众。
+除了这些内容更新之外，Substack 还启用了 Android 和桌面上的直播安排。预定的流现在带有自动生成的 RSVP 链接，允许订阅者将事件直接添加到他们的日历中，并在 Substack 和社交媒体上进行推广。这一变化让创作者有更多时间在上线前建立预期。
+查看有关 AlternativeTo 的文章更多信息子堆栈 | 子堆栈替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/2/substack-brings-improved-design-editing-recipe-embeds-and-expanded-livestream-scheduling/</guid>
+      <pubDate>Fri, 13 Feb 2026 19:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Ardor 9.0 推出 Region FX、Pianoroll 编辑和 Multi Touch 支持</title>
-      <link>https://alternativeto.net/news/2026/2/ardour-9-0-launches-region-fx-pianoroll-editing-and-multi-touch-support/</link>
-      <description><![CDATA[开源跨平台数字音频工作站Ardour 9.0已发布，并进行了多项用户请求的工作流程升级，包括基于区域的效果、专用的钢琴卷轴MIDI编辑和扩展的触摸支持。 Region FX 允许用户将插件和自动化应用到特定的音频区域，并在从磁盘读取该区域时离线应用处理，从而与基于混音器的插入相比减少实时负载。
-对于 MIDI 工作，Ardor 9.0 添加了一个浮动或停靠的钢琴卷轴窗口，用于集中音符和自动化编辑，包括速度和控制更改数据的覆盖。 Cue 页面还通过相同的钢琴卷轴获得剪辑风格 MIDI 编辑，而提示录音允许使用固定条长度或开放式录音将音频或 MIDI 直接捕获到提示插槽中。
-更新还引入了实时感知分析器，可以叠加来自多个轨道或总线的频谱视图。 Windows 和 Linux 支持多点触控，macOS 支持仍在考虑中，其他工作流程更新包括笔记刷、键盘驱动的自动化编辑以及混音条导入和导出。应用程序栏和面板进行了重新组织，同时改进了会话导航、标记控件和剪辑库管理。
-查看有关 AlternativeTo 的文章更多有关Ardour | Ardour 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/ardour-9-0-launches-region-fx-pianoroll-editing-and-multi-touch-support/</guid>
-      <pubDate>Sat, 07 Feb 2026 10:06:36 GMT</pubDate>
+      <title>Parrot OS 7.1 带来了 Linux 6.17 内核、新的 Enlightenment spin、MCPwn AI 工具等</title>
+      <link>https://alternativeto.net/news/2026/2/parrot-os-7-1-brings-linux-6-17-kernel-new-enlightenment-spin-mcpwn-ai-tool-and-more/</link>
+      <description><![CDATA[Parrot 7.1 作为基于 Debian 的 Linux 发行版的最新版本首次亮相，专注于安全、隐私和开发人员需求。此更新在版本 7.0 几个月后发布，并提供跨核心组件的升级。
+最显着的变化是，Parrot 7.1 现在由 Linux 内核 6.17.13 提供支持，这会影响硬件兼容性和整体系统性能。社区通过提供 MATE、LXQt 和新的Enlightenment 窗口管理器版本来扩展选项。
+虽然安全专业人员受益于最新的渗透测试工具和一些额外的更新，但 MCPwn 的引入标志着一个显着的转变。 MCPwn 是一个模型上下文协议服务器，支持大型语言模型（例如 Claude、Gemini 或本地 LLM）执行安全实用程序例如直接在用户计算机上的 nmap、sqlmap 和 gobuster。其以安全为中心的架构依靠 Docker 容器隔离来保护主机系统，并支持使用简单的 YAML 文件进行灵活的工具集成。
+在基础设施改进的基础上，Parrot 团队重新控制了 Mirror Director，以优化包交付和存储库管理。捆绑的 Rocket 项目也已达到 1.5.0 版本，尽管它仍在不断发展，但它具有经过彻底修改的用户界面和几个新工具。最后，Raspberry Pi 版本也受益于最近的增强功能。
+查看有关 AlternativeTo 的文章有关 Parrot 安全操作系统的更多信息 | Parrot 安全操作系统替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/2/parrot-os-7-1-brings-linux-6-17-kernel-new-enlightenment-spin-mcpwn-ai-tool-and-more/</guid>
+      <pubDate>Fri, 13 Feb 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Anthropic 推出具有 100 万代币上下文和代理团队的 Claude Opus 4.6</title>
-      <link>https://alternativeto.net/news/2026/2/anthropic-launches-claude-opus-4-6-with-1m-token-context-and-agent-teams/</link>
-      <description><![CDATA[Anthropic 发布了 Claude Opus 4.6 作为其新的旗舰型号，继承了 Opus 4.5，重点是改进 Claude Code 工作流程。 Opus 4.6 是第一个提供一百万个令牌上下文窗口的 Opus 模型，用于在单个会话中处理更大的文档和代码库，并将最大输出增加到128,000 个令牌。
-该版本还引入了代理团队，它允许多个代理并行地分工和协调复杂的任务。该功能可在 Claude Code 中作为研究预览版提供给 API 订阅者。 Anthropic 还添加了自适应思维（模型决定何时需要更深入的推理）和压缩（将旧上下文总结为接近上下文窗口限制的会话）。
-在基准测试中，Opus 4.6 在 GDPval AA 上的得分为 1606 Elo，领先于 GPT 5.2 和 Opus 4.5，并且在 Humanity’s Last Exam、Terminal Bench 2.0 和 BrowseComp 上也取得了强劲的成绩，尽管 Anthropic 指出这些结果可能无法完全反映现实世界的表现。 Anthropic 还更新了其 Excel 集成，以更好地处理非结构化数据，并添加了 PowerPoint 集成，将 Claude 嵌入为编辑演示文稿的侧面板。
-查看有关 AlternativeTo 的文章更多信息克劳德 | 克劳德替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/anthropic-launches-claude-opus-4-6-with-1m-token-context-and-agent-teams/</guid>
-      <pubDate>Fri, 06 Feb 2026 20:52:24 GMT</pubDate>
+      <title>Cloudflare 为 AI 代理引入了即时 HTML 到 Markdown 转换</title>
+      <link>https://alternativeto.net/news/2026/2/cloudflare-introduces-on-the-fly-html-to-markdown-conversion-for-ai-agents/</link>
+      <description><![CDATA[Cloudflare 现在支持使用内容协商标头将 HTML 内容自动实时转换为 AI 代理和爬虫的 Markdown。启用后，人工智能系统可以直接从参与网站请求降价，响应包括令牌计数元数据和标准化内容使用信号。这可减少高达 80% 的代币使用量并提高效率。
+该功能在 Beta 版中可用，专业版、商业版、企业版和 SaaS 用户无需支付额外费用。
+查看有关 AlternativeTo 的文章更多信息Cloudflare | Cloudflare 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/cloudflare-introduces-on-the-fly-html-to-markdown-conversion-for-ai-agents/</guid>
+      <pubDate>Fri, 13 Feb 2026 15:38:12 GMT</pubDate>
     </item>
     <item>
-      <title>Raindrop 推出 Stella：用于书签发现和组织的私人 AI 助手</title>
-      <link>https://alternativeto.net/news/2026/2/raindrop-launches-stella-a-private-ai-assistant-for-bookmark-discovery-and-organization/</link>
-      <description><![CDATA[Raindrop 发布了 Stella，这是一款人工智能助手，目前其网络应用程序处于测试阶段。 Stella 使用户能够使用对话语言处理他们的书签集合、保存的文章和文档。 Stella 作为私有大型语言模型，仅分析用户保存的材料，确保响应基于用户自己的内容，而不需要外部来源的输入。
-推出Stella后，用户不再需要记住确切的标题或 URL。相反，他们可以描述他们记得的内容，斯特拉将找到相关内容。助手还可以总结冗长的文章，用通俗易懂的语言解释困难的主题，允许比较两篇文章，并在完整阅读之前预览文章的价值。
-除了其功能之外，Stella 还可以帮助组织书签。用户可以指示它对未排序的文件夹进行排序，清除重复的标签，将项目移动到正确的集合，或建议其库的结构改进。 Stella提出更改建议，但用户在最终批准后保留控制权。
-从隐私角度来看，Stella 使用开源 GPT OSS 模型专门在 Raindrop 自己的服务器上运行。所有通信均使用 TLS 1.2 或更高版本进行加密，数据永远不会离开 Raindrop 的基础设施或流向外部人工智能供应商。 AI处理仅由用户发起，没有后台分析或自动选择加入。
-Stella 目前可供 Raindrop Pro 订阅者通过网络应用使用。
-查看有关 AlternativeTo 的文章更多信息Raindrop.io | Raindrop.io 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/raindrop-launches-stella-a-private-ai-assistant-for-bookmark-discovery-and-organization/</guid>
-      <pubDate>Fri, 06 Feb 2026 17:30:00 GMT</pubDate>
+      <title>MiniMax 发布 m2.5，这是一种具有 SOTA 编码和更快执行速度的开源模型</title>
+      <link>https://alternativeto.net/news/2026/2/minimax-releases-m2-5-an-open-source-model-with-sota-coding-and-faster-execution/</link>
+      <description><![CDATA[MiniMax 推出了 M2.5，这是一种开源 AI 模型，专为提高现实世界的生产力而设计，可在编码、搜索、工具使用和办公室工作方面提供最先进的结果。该模型针对高效执行进行了优化，完成复杂任务的速度比之前的迭代快 37%。
+M2.5 经济的定价和对每秒 100 笔交易的支持使得大规模部署变得可行。
+查看有关 AlternativeTo 的文章有关 Minimax 的更多信息平台 | Minimax 平台替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/2/minimax-releases-m2-5-an-open-source-model-with-sota-coding-and-faster-execution/</guid>
+      <pubDate>Fri, 13 Feb 2026 15:23:30 GMT</pubDate>
     </item>
     <item>
-      <title>WooCommerce 10.5 提高了分析可扩展性和管理性能</title>
-      <link>https://alternativeto.net/news/2026/2/woocommerce-10-5-boosts-analytics-scalability-and-admin-performance/</link>
-      <description><![CDATA[WooCommerce 10.5 实现了分析订单导入的批处理，显着提高了仪表板的可扩展性和性能，特别是对于高流量商店。该版本还引入了管理性能的增强功能，例如更快的最近评论小部件和改进的变化价格缓存，以及针对 REST API 和产品对象的新实验性缓存选项。
-此外，结账区块现在支持多包装订单的产品缩略图，为客户提供更清晰的发货详细信息。
-查看有关 AlternativeTo 的文章有关 WooCommerce 的更多信息 | WooCommerce 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/woocommerce-10-5-boosts-analytics-scalability-and-admin-performance/</guid>
-      <pubDate>Fri, 06 Feb 2026 15:49:38 GMT</pubDate>
+      <title>Write.as 将长期 Pro 计划重新命名为会员资格，并增加了新的福利</title>
+      <link>https://alternativeto.net/news/2026/2/write-as-rebrands-long-term-pro-plan-as-memberships-adds-new-perks/</link>
+      <description><![CDATA[Write.as 已将其长期 Pro 计划重新命名为 Write.as 会员资格，为 5 年订阅者提供额外福利。会员现在最多可以提前 1.5 年手动续订订阅，以避免失误。
+我们将向符合条件的用户发送提醒电子邮件，并计划未来提供更多专属福利。
+查看有关 AlternativeTo 的文章更多信息Write.as | Write.as 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/2/write-as-rebrands-long-term-pro-plan-as-memberships-adds-new-perks/</guid>
+      <pubDate>Fri, 13 Feb 2026 15:15:19 GMT</pubDate>
     </item>
     <item>
-      <title>Calibre 9.2.1 引入了 Mustache 模板和关键安全修复</title>
-      <link>https://alternativeto.net/news/2026/2/calibre-9-2-1-introduces-mustache-templating-and-key-security-fixes/</link>
-      <description><![CDATA[Calibre 9.2.1 将 ZIP 输出 HTML 模板从 templite 切换到 Mustache，从而导致自定义模板发生重大更改。此版本修复了 CHM 和 EPUB 输入文件中的路径遍历漏洞以及查看器和书架问题。
-其他改进包括用于重建注释搜索索引的新选项以及在内容服务器中为未经身份验证的用户禁用基于模板的搜索。
-查看有关 AlternativeTo 的文章更多信息calibre | calibre 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/calibre-9-2-1-introduces-mustache-templating-and-key-security-fixes/</guid>
-      <pubDate>Fri, 06 Feb 2026 15:45:50 GMT</pubDate>
+      <title>Mesa 26.0 为 RADV Vulkan 驱动程序带来了显着的光线追踪性能改进</title>
+      <link>https://alternativeto.net/news/2026/2/mesa-26-0-brings-significant-raytracing-performance-improvements-to-the-radv-vulkan-driver/</link>
+      <description><![CDATA[Mesa 26.0 已发布，对该开源 3D 图形库支持的 API 进行了重大更新。新版本现在包括 Vulkan 1.4、OpenGL 4.6、OpenGL ES 3.2 和 OpenCL 3.0 的更新实现。这些核心 API 升级扩展了兼容性，并将高级图形和计算功能引入更多平台。
+基于性能改进，自 Mesa 25.3 以来，适用于 AMD 硬件的 RADV 驱动程序在光线追踪方面取得了显着的进步。此外，RadeonSI 驱动程序现在默认为 ACO 后端，这可以加快代码生成速度并增强 Radeon 显卡用户的整体 GPU 性能和编译时间。
+除了这些技术更新之外，Mesa 26.0 版本还更改了一些 RADV 驱动程序配置的设置方式。已弃用的 RADV_DEBUG 选项已被删除，取而代之的是新的 driconf 变量，从而简化了高级用户的配置过程。
+这些主线增强功能还引入了 KosmicKrisp，这是一款专为 macOS 设计的新 Vulkan to Metal 分层驱动程序，将 Vulkan API 功能扩展到 Apple 平台。在所有受支持的驱动程序和组件中，Mesa 26.0 还提供了新的扩展和图形功能的进一步改进。
+查看有关 AlternativeTo 的文章更多信息Mesa | Mesa 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/mesa-26-0-brings-significant-raytracing-performance-improvements-to-the-radv-vulkan-driver/</guid>
+      <pubDate>Fri, 13 Feb 2026 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 宣布全面支持 MCP Apps 开放标准</title>
-      <link>https://alternativeto.net/news/2026/2/chatgpt-announces-full-support-for-mcp-apps-open-standard/</link>
-      <description><![CDATA[ChatGPT 现在完全支持嵌入式应用 UI 的 MCP 应用开放标准，允许基于此规范构建的应用在 ChatGPT 中本机运行。该平台采用标准化 iframe 和 JSON-RPC 桥接模型，可跨 ChatGPT 和其他 MCP 兼容主机无缝重用 UI。
-随着新功能在验证后集成到 MCP 规范中，现有的 Apps SDK API 仍受支持。
-查看有关 AlternativeTo 的文章有关 ChatGPT 的更多信息 | ChatGPT 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/2/chatgpt-announces-full-support-for-mcp-apps-open-standard/</guid>
-      <pubDate>Fri, 06 Feb 2026 15:26:29 GMT</pubDate>
+      <title>OpenVPN 2.7 增加了多路服务器、DCO Linux 内核模块和增强的 DNS 支持</title>
+      <link>https://alternativeto.net/news/2026/2/openvpn-2-7-adds-multi-socket-servers-dco-linux-kernel-module-and-enhanced-dns-support/</link>
+      <description><![CDATA[OpenVPN 2.7 对此开源 VPN 守护程序进行了多项重大更新。多套接字支持现在允许服务器在单个部署中管理多个地址、端口和协议，从而实现更灵活的网络配置。该版本还升级了跨平台的 DNS 支持。 Linux、BSD 和 macOS 改进了默认客户端 DNS 处理，而 Windows 客户端则添加了拆分 DNS 和 DNSSEC 功能。
+在 Windows 上，更新通过 Windows Filtering Platform 过滤器强制执行 block-local 标志，按需生成网络适配器，并以非特权用户身份运行服务以提高安全性。 win-dco 驱动程序取代 wintun 作为默认网络驱动程序，并以 tap-windows6 作为后备，并且 win-dco 现在支持服务器模式。
+通过这些架构更改，Windows 功能和稳定性得到增强。与此同时，OpenVPN 2.7 在数据通道上强制执行 AES-GCM 使用限制，应用纪元数据密钥，并引入对 PUSH_UPDATE 消息的客户端支持。这使得服务器可以更新路由或 DNS 等选项，而无需客户端重新连接。
+对于 Linux，已添加对新 OpenVPN DCO 内核模块的支持，并可通过当前内核的 ovpn-backports 项目立即提供。此外，前沿的 mbedTLS 现在支持 TLS 1.3，从而提高了安全性。
+查看有关 AlternativeTo 的文章有关 OpenVPN 的更多信息连接 | OpenVPN 连接替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/2/openvpn-2-7-adds-multi-socket-servers-dco-linux-kernel-module-and-enhanced-dns-support/</guid>
+      <pubDate>Fri, 13 Feb 2026 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Vivaldi 7.8 为 iOS 和 Android 带来了固定选项卡、隐私仪表​​板和手势升级</title>
-      <link>https://alternativeto.net/news/2026/2/vivaldi-7-8-brings-pinned-tabs-privacy-dashboard-and-gesture-upgrades-to-ios-and-android/</link>
-      <description><![CDATA[Vivaldi 7.8 已登陆移动设备，支持 iOS 和 Android 仅桌面版首次亮相一周后。此更新提供了一些跨平台的显着功能和可用性更改。
-在 Android 上，用户现在可以受益于固定选项卡，从而为那些全天打开许多选项卡的用户提供高效的组织。该版本还引入了隐私仪表板，可以轻松查看浏览会话期间哪些跟踪器和广告被阻止。对于登录管理，Android 用户现在可以在内置密码管理器之间进行选择，或将凭据处理委托给第三方服务，例如 Bitwarden 或 1Password。其他 Android 改进包括直接在私人选项卡中使用选定文本进行搜索的能力以及禁用拉动刷新手势的新设置。
-转向 iOS，此版本利用地址栏实现更快的导航，并通过滑动手势提供对选项卡切换器的立即访问。用户可以灵活地从任何网站添加自定义搜索引擎，与 Android 上已有的功能相匹配。此外，标签切换器现在允许用户通过滑动快速关闭标签，从而简化了 iPhone 和 iPad 用户的标签管理。
-查看有关 AlternativeTo 的文章更多信息维瓦尔第 | 维瓦尔第替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/vivaldi-7-8-brings-pinned-tabs-privacy-dashboard-and-gesture-upgrades-to-ios-and-android/</guid>
-      <pubDate>Fri, 06 Feb 2026 14:30:00 GMT</pubDate>
+      <title>Deezer 推出“Flow Tuner”，以便更轻松地控制您的个性化推荐</title>
+      <link>https://alternativeto.net/news/2026/2/deezer-introduces-flow-tuner-for-easier-control-over-your-personalized-recommendations/</link>
+      <description><![CDATA[Deezer 宣布推出 Flow Tuner，该功能旨在增强用户与平台个性化播放列表的交互方式，该播放列表是根据每个用户的收听历史记录、偏好和习惯（又名“Flow”）创建的。 Flow Tuner 提供了一种简化的方式来查看哪些流派为您的个人 Flow 提供动力，让您清楚了解某些曲目出现的原因，并为听众提供透明度。
+借助 Flow Tuner，用户只需轻按一下即可立即打开或关闭流派，让他们快速删除不需要的流派或根据当前心情恢复最喜欢的流派。这样可以立即控制当前和未来的建议。在此基础上，Flow Tuner 还可以添加新的流派，向听众介绍不熟悉的艺术家和音乐风格，以获得更广泛的聆听体验。
+除了类型管理之外，Deezer 现在还允许用户直接搜索和选择特定类型，以便在 Flow 功能中微调他们的推荐。此外，用户可以将单首歌曲直接添加到他们的 Flow 队列中，因此他们的推荐反映了独特的音乐品味。这些功能可以解决常见的痛点，让用户进行实时调整，有助于防止重复或偏离目标的推荐。 Flow Tuner 促进个性化控制和音乐发现，将其作为 Deezer 聆听体验的核心部分。
+查看有关 AlternativeTo 的文章更多信息Deezer | Deezer 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/deezer-introduces-flow-tuner-for-easier-control-over-your-personalized-recommendations/</guid>
+      <pubDate>Fri, 13 Feb 2026 07:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Mistral 推出 Voxtral Transcribe 2，这是一种在设备上运行的廉价开源语音模型</title>
-      <link>https://alternativeto.net/news/2026/2/mistral-unveils-voxtral-transcribe-2-a-cheap-open-source-speech-model-that-runs-on-device/</link>
-      <description><![CDATA[法国公司 Mistral AI 发布了 Voxtral Transcribe 2，推出了两种下一代语音转文本模型。两种型号都提供先进的转录质量、说话者分类和超低延迟。该产品系列包括专为批量处理而设计的 Voxtral Mini Transcribe V2 和专为实时转录工作流程而构建的 Voxtral Realtime。
-对于批处理任务，Voxtral Mini Transcribe V2 以具有竞争力的价格提供准确的结果、低字错误率。它提供说话人分类、上下文偏差和单词级时间戳，并支持 13 种语言。语言覆盖范围包括英语、中文、印地语、西班牙语、阿拉伯语、法语、葡萄牙语、俄语、德语、日语、韩语、意大利语和荷兰语。
-切换到实时应用程序，Voxtral Realtime 专为实时语音转录而构建。它的延迟设置低至 200 毫秒，支持语音代理和其他时间敏感系统。 Voxtral Realtime 也是 Apache 2.0 许可证下的开放权重，其 40 亿个参数占用量允许在边缘设备上进行高效且私密的操作。
-除了模型本身之外，Mistral AI 还在 Mistral Studio 中推出了一个音频游乐场。该工具使用户能够通过实时分类和时间戳来测试 Voxtral Transcribe 2，支持快速评估和实验。
-查看有关 AlternativeTo 的文章更多信息Voxtral | Voxtral 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/mistral-unveils-voxtral-transcribe-2-a-cheap-open-source-speech-model-that-runs-on-device/</guid>
-      <pubDate>Fri, 06 Feb 2026 11:30:00 GMT</pubDate>
+      <title>Zed 发布了一个新的主题生成器，带有实时预览功能，可自定义您的编辑器</title>
+      <link>https://alternativeto.net/news/2026/2/zed-releases-a-new-theme-builder-with-live-preview-to-customize-your-editor/</link>
+      <description><![CDATA[开源代码编辑器 Zed 推出了主题生成器，这是一个易于使用的基于浏览器的可视化工具，用于创建和编辑 Zed 主题。与复杂 JSON 文件的传统手动编辑不同，主题生成器提供了 Zed 界面的实时预览，并在侧边栏中按类别组织主题令牌，更改会立即反映在预览中。
+主题生成器包括一个检查器，允许用户右键单击预览中的元素以查看哪些颜色标记控制它们并直接跳转到相关输入。它还添加了颜色链接，其中令牌可以相互引用，以及可选的推荐链接，旨在帮助保持相关 UI 元素的一致性。
+Zed 的主题系统涵盖 16 个 UI 颜色类别、10 个语法标记类别以及多人游戏参与者的玩家颜色。预览通过 WebAssembly 使用 Zed 的基于 Tree sitter 的突出显示管道，因此语法突出显示与编辑器匹配，并且它支持将现有主题导入为 JSON 以及导出覆盖或扩展文件。在底层，它依赖 CSS 自定义属性进行更新、基于 HTML 的 UI 副本、本地存储持久性以及通过 Zustand 进行的撤消和重做，并具有内置的入门主题，包括 One、Ayu 和 Gruvbox。
+查看有关 AlternativeTo 的文章有关 Zed 的更多信息编辑器 | Zed 编辑器替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/2/zed-releases-a-new-theme-builder-with-live-preview-to-customize-your-editor/</guid>
+      <pubDate>Fri, 13 Feb 2026 04:54:10 GMT</pubDate>
     </item>
     <item>
-      <title>阿里巴巴推出Qwen3-Coder-Next人工智能模型，用于编码代理和本地开发任务</title>
-      <link>https://alternativeto.net/news/2026/2/alibaba-unveils-qwen3-coder-next-ai-model-for-coding-agents-and-local-development-tasks/</link>
-      <description><![CDATA[阿里巴巴推出了Qwen3-Coder-Next，这是一个专为编码代理和本地开发任务量身定制的开放权重语言模型。该版本旨在满足开发人员寻求高性能、可本地操作的代码合成和自动化工作流程人工智能解决方案的需求。
-Qwen3-Coder-Next 借鉴了 Qwen3-Next-80B-A3B-Base 的设计，采用混合注意力机制与专家混合 (MoE) 架构相结合。大规模的代理训练利用了可执行任务合成、环境交互和强化学习，这些结合起来可以以降低推理成本的方式产生强大的编码和代理性能。
-该模型的训练过程不是主要通过参数缩放来推进，而是依赖于扩展代理训练信号。阿里巴巴使用了在实时环境中执行的全套可验证编码任务，使 Qwen3-Coder-Next 能够直接从基于环境的反馈中学习。该方法旨在教授模型技能，例如长期推理、有效的工具使用以及从执行失败中恢复的能力，所有这些对于在生产级编码代理中部署至关重要。
-关于基准测试，Qwen3-Coder-Next 在速度和实用推理方面提供了积极的结果。它的性能与一些较大的开源模型相比具有竞争力，但在未来的迭代中仍然有改进的机会。
-查看有关 AlternativeTo 的文章更多信息Qwen | Qwen 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/alibaba-unveils-qwen3-coder-next-ai-model-for-coding-agents-and-local-development-tasks/</guid>
-      <pubDate>Fri, 06 Feb 2026 08:30:00 GMT</pubDate>
+      <title>Brave 更新了其搜索 API，为 AI 提供了新的 LLM 上下文端点和新的定价</title>
+      <link>https://alternativeto.net/news/2026/2/brave-updates-its-search-api-with-a-new-llm-context-endpoint-for-ai-and-new-pricing/</link>
+      <description><![CDATA[Brave 宣布对其搜索 API 进行重大改革，引入了LLM Context 端点作为其核心、新的以开发人员为中心的工具以及修订后的定价。 LLM Context API 以紧凑的格式返回 Web 上下文，供 LLM 使用而不是传统浏览，因此基本上 AI 应用程序可以从网页中提取相关信息，而不仅仅是链接列表。 Brave 表示，该端点每天已提供超过 2200 万个答案，并由其Ask Brave 功能使用。
+Brave 描述了数据优先流程，其中查询在 Brave 的独立索引上运行，并且实时处理首页。该系统提取智能块并对其进行排名，包括文本片段、Markdown、JSON LD 和表格等结构化数据、代码上下文、论坛讨论和 YouTube 字幕，然后编译每个查询的输出。开发人员可以调整令牌限制、输出大小、排名行为和返回的 URL 数量等参数，并支持基于 Goggles 的过滤和本地化结果。
+该版本还在开发者门户中添加了 API 技能和 API 助手，并重新组织了公共计划下的访问权限，包括搜索、答案、拼写检查和自动完成，在提供归因时，每个计划每月可享受 5 美元的免费积分。 Brave 还强调了面向企业的选项，例如 SOC 2 Type II 对齐和零数据保留，并表示它不使用客户查询来培训法学硕士。
+查看有关 AlternativeTo 的文章有关 Brave Search 的更多信息API | Brave 搜索 API 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/2/brave-updates-its-search-api-with-a-new-llm-context-endpoint-for-ai-and-new-pricing/</guid>
+      <pubDate>Fri, 13 Feb 2026 04:06:39 GMT</pubDate>
     </item>
     <item>
-      <title>Spotify 增加了应用内真实图书购买以及与有声读物同步进度的新工具</title>
-      <link>https://alternativeto.net/news/2026/2/spotify-adds-in-app-real-book-purchases-and-a-new-tool-to-sync-progress-with-audiobooks/</link>
-      <description><![CDATA[Spotify 宣布新的有声读物更新，包括用于在实体书或电子书及其有声读物版本之间同步您的位置的页面匹配，以及与Bookshop.org 将允许用户通过 Spotify 应用购买纸质书籍。使用 iOS 或 Android 上的 Spotify，用户可以找到他们正在阅读的标题，点击“页面匹配”按钮，扫描页面，然后从该点继续收听。 Spotify 称其为业界首创功能，将于本月晚些时候推出，最初支持英文游戏，并计划在 2 月底覆盖大多数游戏。
-Spotify 还引入了页面匹配的资格规则。免费用户只能将其用于通过 Spotify 购买的有声读物，而 Premium 和 Audiobook+ 订阅者则可以将其用于每月有声读物时间范围内的图书。这项新功能是继 2025 年 11 月推出的 Spotify 有声读物回顾功能之后推出的，该功能提供迄今为止故事的简短音频摘要。
-对于实体书，Spotify 的 Bookshop.org 整合预计将于今年春季晚些时候在美国和英国进行。用户将看到一个从 Spotify 内购买纸质副本的选项，然后被重定向到 Bookshop.org 完成结账，Bookshop 通过其独立书店网络处理订单履行。 Spotify 将此视为将有声读物发现转变为实际所有权的一种方式，Spotify 通过购买赚取附属费用。
-查看有关 AlternativeTo 的文章更多信息Spotify | Spotify 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/spotify-adds-in-app-real-book-purchases-and-a-new-tool-to-sync-progress-with-audiobooks/</guid>
-      <pubDate>Fri, 06 Feb 2026 04:37:46 GMT</pubDate>
+      <title>Go 1.26 带来了语言变化、新的垃圾收集器、改进的性能等等</title>
+      <link>https://alternativeto.net/news/2026/2/go-1-26-brings-language-changes-new-garbage-collector-improved-performance-and-more/</link>
+      <description><![CDATA[Go 1.26 为开发人员引入了几种主要的语言和运行时增强功能。内置的 new 函数现在更加灵活，因为它接受操作数表达式，从而可以更轻松地指定初始变量值。这在填充序列化工作流程中的可选字段时特别有用，例如使用 encoding/json 或经常使用指针的协议缓冲区。
+除此之外，Go 1.26 现在允许泛型类型在类型参数列表中引用自身，从而解锁更高级的类型抽象模式。开发人员通过全面修改的 go fix 命令获得进一步的支持，该命令现在聚合了 Go 的现代化工具来自动更新代码库、应用现代习惯用法并通过一套修复程序和源代码级内联器促进 API 迁移。
+在性能方面，绿茶垃圾收集器现在默认启用，延续了早期实验的优化和稳定性改进。运行时效率得到提升，cgo 调用开销减少了大约 30%。为了增强安全性，64 位平台现在受益于启动时的堆基地址随机化，使得利用 cgo 中的内存错误变得更加困难。
+在这些更改之后，Go 1.26 还首次推出了实验性 goroutine 泄漏配置文件，并对编译器、链接器、引导例程和标准库进行了进一步更新。
+查看有关 AlternativeTo 的文章有关 Go 的更多信息（编程语言） | Go（编程语言）替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/2/go-1-26-brings-language-changes-new-garbage-collector-improved-performance-and-more/</guid>
+      <pubDate>Thu, 12 Feb 2026 19:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
