@@ -4,7 +4,99 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Tue, 17 Feb 2026 13:03:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 02:10:07 GMT</lastBuildDate>
+    <item>
+      <title>研究人员揭示了几个主要云密码管理器中可能暴露保险库的缺陷</title>
+      <link>https://alternativeto.net/news/2026/2/researchers-reveal-flaws-in-several-major-cloud-password-managers-that-could-expose-vaults/</link>
+      <description><![CDATA[苏黎世联邦理工学院和意大利意大利大学的研究人员披露了四种广泛使用的基于云的密码管理器中的 27 个漏洞，这些漏洞可能允许攻击者访问凭证库或更改存储的密码。研究中确定的受影响产品和攻击场景数量包括 Bitwarden、LastPass、Dashlane 和 1Password。这些密码管理器共同为超过 6000 万用户和约 125,000 家企业提供服务。该研究重点关注 25 种与密码恢复相关的攻击，展示了概念场景验证，而不是现实事件中已确认的利用情况。
+这些漏洞分为四个主要领域：密钥托管、保管库加密、共享和向后兼容性。密钥托管问题影响帐户恢复流程，包括无需身份验证即可访问解密密钥的情况，其中 Bitwarden 与三种情况相关，LastPass 与一种情况相关。 Vault 加密的弱点可能会导致数据被逐个字段地推断或操纵，这在某些情况下可能会暴露用户名和密码，从而影响 LastPass、Bitwarden 和 Dashlane。共享缺陷可能会让攻击者访问共享文件夹或向保管库添加项目，而向后兼容性支持可能会引发降级攻击，Dashlane 和 Bitwarden 发现了几个问题。
+还需要注意的是，尽管存在这些潜在的漏洞，但研究人员在发布前遵循了 90 天的披露流程，并且没有报告任何野外利用的证据。此后，供应商已经发布了多个修复程序：1Password 表示，其两个场景反映了其安全设计白皮书中已涵盖的架构限制，Bitwarden 表示所有报告的问题均已得到解决，Dashlane 和 LastPass 还发布了概述其缓解措施的声明。
+查看有关 AlternativeTo 的文章有关 Bitwarden 的更多信息 | Bitwarden 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/2/researchers-reveal-flaws-in-several-major-cloud-password-managers-that-could-expose-vaults/</guid>
+      <pubDate>Tue, 17 Feb 2026 19:07:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lutris v0.5.20 默认通过umu 设置Proton-GE，添加新源</title>
+      <link>https://alternativeto.net/news/2026/2/lutris-v0-5-20-sets-proton-ge-via-umu-by-default-adds-new-sources/</link>
+      <description><![CDATA[Lutris v0.5.20 使 Proton-GE 通过umu默认启动游戏，并由umu管理自动更新。该版本还增加了对新来源和运行程序的支持，包括 Azahar、ZOOM Platform 和 Steam Family。 esync、fsync 和 DXVK 的关键设置现在已正确传递到 Proton，并且 Itch.io 集成已转向 API 密钥身份验证。
+还包括 Python 3.14 的兼容性更新和改进的自定义选项。
+查看有关 AlternativeTo 的文章更多信息Lutris | Lutris 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/lutris-v0-5-20-sets-proton-ge-via-umu-by-default-adds-new-sources/</guid>
+      <pubDate>Tue, 17 Feb 2026 17:10:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Helium 浏览器首次推出实验性垂直选项卡以改善用户体验</title>
+      <link>https://alternativeto.net/news/2026/2/helium-browser-debuts-experimental-vertical-tabs-for-improved-user-experience/</link>
+      <description><![CDATA[Helium 浏览器引入了实验性垂直选项卡，让用户可以在经典、紧凑和新添加的垂直浏览器布局之间进行选择。通过右键单击窗口框架可以在这些布局之间进行切换。
+垂直选项卡功能预计将在即将发布的更新中得到进一步改进。
+查看有关 AlternativeTo 的文章有关 Helium 的更多信息浏览器 | Helium 浏览器替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/helium-browser-debuts-experimental-vertical-tabs-for-improved-user-experience/</guid>
+      <pubDate>Tue, 17 Feb 2026 16:55:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bruno 3.1.0 带来了工作区 .env 文件、可视化 Git 差异和瞬态请求</title>
+      <link>https://alternativeto.net/news/2026/2/bruno-3-1-0-brings-workspace-env-files-visual-git-diffs-and-transient-requests/</link>
+      <description><![CDATA[Bruno 3.1.0 引入了工作区级 .env 文件支持和可视化编辑器，简化了环境管理。该更新添加了瞬态（非持久）请求以提高灵活性，并首次推出本机 Windows 和 Linux 菜单以改进平台集成。用户现在可以受益于可视化 Git diff 查看器、自动 Git 获取和安全的安全模式 API。
+此版本还提供了大量错误修复并扩展了 CLI 代理和证书支持。
+查看有关 AlternativeTo 的文章更多信息布鲁诺 | 布鲁诺替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/bruno-3-1-0-brings-workspace-env-files-visual-git-diffs-and-transient-requests/</guid>
+      <pubDate>Tue, 17 Feb 2026 16:51:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fish 4.5.0 修复了 Vi 模式回归并删除了 terminfo 依赖项</title>
+      <link>https://alternativeto.net/news/2026/2/fish-4-5-0-fixes-vi-mode-regressions-and-drops-terminfo-dependency/</link>
+      <description><![CDATA[Fish 4.5.0 解决了一系列 Vi 模式回归错误，恢复了先前版本中出现问题后的按键绑定功能和稳定性。 shell 现在永久删除了对 terminfo 和 ncurses 的依赖，简化了安装，但限制了对某些旧硬件的支持。
+其他可用性改进包括使用宽字符准确放置历史搜索光标以及防止 ctrl-l 取消搜索。在 Illumos 上构建时的兼容性问题也已得到修复。
+查看有关 AlternativeTo 的文章有关鱼的更多信息 | 鱼类替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/fish-4-5-0-fixes-vi-mode-regressions-and-drops-terminfo-dependency/</guid>
+      <pubDate>Tue, 17 Feb 2026 16:46:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Biome v2.4 带来了嵌入式片段支持和新的 HTML 可访问性规则</title>
+      <link>https://alternativeto.net/news/2026/2/biome-v2-4-brings-embedded-snippet-support-and-new-html-accessibility-rules/</link>
+      <description><![CDATA[Biome v2.4 现在支持对 JavaScript 文件中的嵌入式 CSS 和 GraphQL 片段进行格式化和检查，满足现代前端工作流程需求。该版本还引入了 15 条新的 HTML 可访问性 lint 规则，与 Vue、Svelte 和 Astro 兼容。
+Vue 和 Svelte 的解析和格式化改进显着减少了变量和导入的误报。
+查看有关 AlternativeTo 的文章更多信息生物群落 | 生物群落替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/biome-v2-4-brings-embedded-snippet-support-and-new-html-accessibility-rules/</guid>
+      <pubDate>Tue, 17 Feb 2026 16:39:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kimi Claw 通过云存储实现即时 OpenClaw AI 部署</title>
+      <link>https://alternativeto.net/news/2026/2/kimi-claw-enables-instant-openclaw-ai-deployment-with-cloud-storage/</link>
+      <description><![CDATA[Kimi Claw 现在使用户只需单击一下即可将具有个性和记忆力的 AI 助手 OpenClaw 部署到云端，无需复杂的设置。
+用户可以从 ClawHub 库和 40GB 文件云存储中访问超过 5,000 种社区技能。目前，Allegretto 会员及以上会员可以使用 Beta 访问权限。
+查看有关 AlternativeTo 的文章更多信息Kimi | Kimi 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/kimi-claw-enables-instant-openclaw-ai-deployment-with-cloud-storage/</guid>
+      <pubDate>Tue, 17 Feb 2026 16:32:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sparky 8.2 更新软件包、内核、桌面环境并修复错误</title>
+      <link>https://alternativeto.net/news/2026/2/sparky-8-2-updates-packages-kernel-desktop-environments-and-fixes-bugs/</link>
+      <description><![CDATA[Sparky 8.2 是“七姐妹”版本的季度更新，刷新了截至 2026 年 2 月 14 日来自 Debian 和 Sparky 存储库的所有软件包。该版本带来了 Linux 内核 6.12.69-LTS 以及新版本的 KDE Plasma、LXQt、MATE、 Xfce、Openbox、LibreOffice、Firefox 和 Thunderbird。修复了影响 Openbox 版本中终端模拟器启动的错误。
+ARM64用户首次启动后需要重新启动才能启用Wi-Fi。
+查看有关 AlternativeTo 的文章更多信息SparkyLinux | SparkyLinux 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/sparky-8-2-updates-packages-kernel-desktop-environments-and-fixes-bugs/</guid>
+      <pubDate>Tue, 17 Feb 2026 16:20:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Notepad++ v8.9.2 强制执行双重签名检查以确保更新安全</title>
+      <link>https://alternativeto.net/news/2026/2/notepad--v8-9-2-enforces-double-signature-checks-for-update-security/</link>
+      <description><![CDATA[Notepad++ v8.9.2 通过实施双重签名和证书验证来增强其更新安全性，使更新过程更能抵抗妥协。通过消除有风险的依赖关系并将插件管理限制为签名应用程序，WinGUp 自动更新程序得到了进一步增强。
+此版本还引入了编辑选择功能，并提供了多个稳定性和安全修复程序。
+查看有关 AlternativeTo 的文章有关更多信息Notepad++ | Notepad++ 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/notepad--v8-9-2-enforces-double-signature-checks-for-update-security/</guid>
+      <pubDate>Tue, 17 Feb 2026 16:12:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE Plasma 6.6 添加了虚拟键盘、Spectacle 文本识别和改进的可访问性</title>
+      <link>https://alternativeto.net/news/2026/2/kde-plasma-6-6-adds-virtual-keyboard-spectacle-text-recognition-and-improved-accessibility/</link>
+      <description><![CDATA[KDE Plasma 6.6 现已作为适用于 Linux 和其他类 Unix 系统的流行桌面环境的最新版本推出。虽然现有用户可以将其整个配置转变为自定义全局主题，但此功能还可以与桌面的白天和夜间主题切换配合使用。除了这些视觉更新之外，工作流程也得到了简化，例如在相机可用的情况下使用二维码扫描连接到 Wi-Fi 网络的选项。
+在可访问性方面进行了扩展，此版本引入了灰度滤镜，使内置色盲和视力辅助滤镜的总数达到四个。 缩放和放大镜功能现在包括一种使指针保持居中的模式，并且Wayland会话支持慢速按键和减少运动辅助功能标准。
+音频控件得到了改进，允许用户将鼠标悬停在任务管理器中的声音播放应用程序图标上，并使用滚轮调整音量。 Windows 列表 小部件现在包括悬停时打开 和用于集中导航的窗口过滤。其他增强功能包括新的屏幕键盘、通过窗口标题栏选项进行高级截屏过滤，以及 Plasma 设置向导的首次亮相，该向导可在安装后配置用户帐户。最后，Spectacle 可以从屏幕截图中提取文本，用户可以更快地访问桌面上的文件属性以及表情符号选择器中的新表情符号肤色选择器。
+查看有关 AlternativeTo 的文章有关 KDE 的更多信息Plasma | KDE Plasma 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/kde-plasma-6-6-adds-virtual-keyboard-spectacle-text-recognition-and-improved-accessibility/</guid>
+      <pubDate>Tue, 17 Feb 2026 14:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>阿里巴巴推出Qwen3.5，具有开放权重397B模型和更广泛的语言支持</title>
       <link>https://alternativeto.net/news/2026/2/alibaba-launches-qwen3-5-with-open-weight-397b-model-and-broader-language-support/</link>
@@ -56,103 +148,6 @@ UI 升级后，新的垂直选项卡面板补充了传统的水平选项卡线�
 查看有关 AlternativeTo 的文章更多信息Vim | Vim 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/2/vim-9-2-arrives-with-fuzzy-completion-wayland-support-xdg-config-and-improved-diff-mode/</guid>
       <pubDate>Mon, 16 Feb 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 聘请 OpenClaw 创始人 Peter Steinberger，将保持 AI 代理开源</title>
-      <link>https://alternativeto.net/news/2026/2/openai-hires-openclaw-creator-peter-steinberger-will-keep-the-ai-agent-open-source/</link>
-      <description><![CDATA[流行人工智能工具 OpenClaw 背后的开发者 Peter Steinberger 宣布，他将加入 OpenAI，帮助塑造下一代个人人工智能代理。 OpenClaw 以帮助用户创建控制应用程序的代理而闻名，最近随着人们使用它来执行编码、收件箱管理和在线购物等任务而受到关注。
-在此势头的基础上，OpenAI 首席执行官 Sam Altman 强调 Steinberger 将专注于推进多代理技术，这些工具是智能代理可以交互以为用户执行有用功能的工具。 Altman 还表示，这种多代理方法预计将很快成为 OpenAI 产品阵容的核心部分。
-虽然 Steinberger 的举动标志着一个转变，但 OpenClaw 作为开源项目的未来是有保障的。 OpenAI 将通过专门的基金会维护 OpenClaw，强化对开源开发的承诺。 Steinberger 在他的博客上强调，确保 OpenClaw 保持开放和自由发展是他做出决定的核心动机，强调了开放平台在个人和互联人工智能代理的新兴时代的更广泛重要性。
-查看有关 AlternativeTo 的文章更多信息OpenClaw | OpenClaw 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/2/openai-hires-openclaw-creator-peter-steinberger-will-keep-the-ai-agent-open-source/</guid>
-      <pubDate>Mon, 16 Feb 2026 14:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cal.com 6.2：改进的日历视图和团队自定义会议地点</title>
-      <link>https://alternativeto.net/news/2026/2/cal-com-6-2-improved-calendar-view-and-custom-meeting-locations-for-teams/</link>
-      <description><![CDATA[Cal.com 6.2 版在预订页面引入了新的日历视图，为用户提供更清晰的日程安排可视化。循环赛活动现在支持每位主持人的自定义会议地点，从而简化了团队的预订流程。团队和组织用户的链接隐藏功能回归，并添加了 URL 扫描以提高安全性。
-此外，此更新还带来了 API、OAuth、HubSpot 和移动改进，以及多个错误修复和稳定性增强。
-查看有关 AlternativeTo 的文章更多信息Cal.com | Cal.com 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/cal-com-6-2-improved-calendar-view-and-custom-meeting-locations-for-teams/</guid>
-      <pubDate>Mon, 16 Feb 2026 08:11:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌推出 Gemini 3 Deep Think 升级版，适用于复杂的科学和工程任务</title>
-      <link>https://alternativeto.net/news/2026/2/google-unveils-gemini-3-deep-think-upgrade-for-complex-science-and-engineering-tasks/</link>
-      <description><![CDATA[Google 推出了升级版 Gemini 3 Deep Think 模式，旨在解决复杂的科学、研究和工程任务。 Gemini 应用中的 Google AI Ultra 订阅者可以使用该功能，而开发者和企业也可以通过 Vertex AI 早期访问计划请求 API 访问权限。
-DeepMind 表示 Deep Think 领先于 Claude Opus 4.6、GPT 5.2 和 Gemini 3 Pro Preview 等模型的多项基准测试，尤其是在逻辑推理和编码方面。在多模态推理方面，差距要小得多，MMMU Pro 的结果几乎与 Deep Think 和 Gemini 3 Pro Preview 持平，这表明升级的目标更多是抽象推理而不是视觉理解。
-DeepMind 还报告了 2025 年物理和化学奥林匹克竞赛的金牌水平表现，并指出了该模型在科学工作中使用的示例。
-查看有关 AlternativeTo 的文章有关 Google 的更多信息Gemini | Google Gemini 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/2/google-unveils-gemini-3-deep-think-upgrade-for-complex-science-and-engineering-tasks/</guid>
-      <pubDate>Sun, 15 Feb 2026 08:06:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软记事本中发现新的安全漏洞，得益于其最新的“创新”添加</title>
-      <link>https://alternativeto.net/news/2026/2/new-security-flaw-found-in-microsoft-notepad-courtesy-of-its-latest-innovative-additions/</link>
-      <description><![CDATA[微软已确认 Windows 11 的现代记事本应用中存在一个高度严重的远程代码执行漏洞，该漏洞被跟踪为CVE-2026-20841， CVSS 基本分数为 8.8。该问题与 Markdown 链接内特殊元素处理不当导致的命令注入有关，这可以让记事本启动未经验证的协议处理程序。 Markdown 文件中精心设计的链接可以获取远程内容并在打开该文件的用户的权限下运行它。
-攻击者需要诱骗某人在记事本中打开特制的 Markdown 文件并单击恶意链接。影响取决于用户的权限，因为代码在该用户的安全上下文中运行。 Microsoft 将机密性、完整性和可用性方面的影响评为“高”，潜在后果包括数据失窃、未经授权的更改和系统不稳定。
-该风险与记事本最近在 Windows 11 中超越纯文本编辑的扩展密切相关，因为微软添加了诸如 Markdown 渲染和可点击链接以及选项卡和自动保存等功能，更不用说一些 AI 功能由 Copilot 集成提供，这意味着记事本现在可以解析结构化内容并以经典版本的方式与系统协议交互从来没有。在这种情况下，Markdown 链接处理正是造成漏洞的原因。微软表示尚未发现活跃的利用情况，该修复程序将作为 2026 年 2 月补丁星期二更新的一部分通过 Windows 更新和 Microsoft Store 推出。
-查看有关 AlternativeTo 的文章有关 Windows 的更多信息记事本 | Windows 记事本替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/new-security-flaw-found-in-microsoft-notepad-courtesy-of-its-latest-innovative-additions/</guid>
-      <pubDate>Sun, 15 Feb 2026 01:42:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 推出 GPT-5.3-Codex-Spark，用于具有 128k 上下文窗口的实时编码</title>
-      <link>https://alternativeto.net/news/2026/2/openai-introduces-gpt-5-3-codex-spark-for-real-time-coding-with-128k-context-window/</link>
-      <description><![CDATA[OpenAI 宣布推出 GPT-5.3-Codex-Spark，这是一款专为实时编码任务而设计的紧凑模型。该研究预览现已推出，是专为实现即时交互式编码体验而创建的 Codex 系列中的第一个。
-Codex-Spark 的突出特点是超低延迟，在支持的硬件上每秒持续交付超过 1000 个令牌。这允许高度响应的工作流程，因为用户可以执行有针对性的编辑、调整逻辑或优化界面并立即查看效果。这些改进意味着 Codex 现在既可以容纳长期的、雄心勃勃的开发任务，也可以容纳简短的、即时的交互。
-在发布时，Codex-Spark 提供了 128k 令牌上下文窗口，并作为纯文本模型发布。 ChatGPT Pro 订阅者可以通过最新版本的 Codex 应用、命令行界面和 Visual Studio Code 扩展提前访问。在研究预览期间，Codex-Spark 在其自己的速率限制下运行，因此使用量不计入标准计划配额。然而，在需求旺盛期间，访问可能会暂时受到限制。此次推出的重点是支持高度交互式的工作，允许用户实时协作、动态重定向模型，并从整个编码过程中近乎即时的反馈中受益。
-查看有关 AlternativeTo 的文章有关 OpenAI 的更多信息Codex | OpenAI Codex 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/2/openai-introduces-gpt-5-3-codex-spark-for-real-time-coding-with-128k-context-window/</guid>
-      <pubDate>Sat, 14 Feb 2026 07:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Substack 带来了改进的设计编辑、配方嵌入和扩展的直播安排</title>
-      <link>https://alternativeto.net/news/2026/2/substack-brings-improved-design-editing-recipe-embeds-and-expanded-livestream-scheduling/</link>
-      <description><![CDATA[Substack 推出了多项更新，让发布商能够更好地控制内容呈现和受众参与。该平台的主题编辑器现在允许用户调整文字标记的大小和位置、选择自定义欢迎页面颜色以及使用拖放功能对侧边栏模块重新排序。编辑主页体验也变得更加容易，因为发布商现在只需单击预览即可调整任何主页部分，而新的撤消选项可帮助快速撤消已保存的更改。
-遵循这些发布控制，Substack 在测试版中引入了配方嵌入。此功能提供了用于在帖子中共享食谱的结构化格式，包括对图像、标题和描述、准备和烹饪时间、成分列表、详细说明和描述性标签的支持。每个嵌入都会自动生成元数据，从而提高读者的可用性和搜索引擎的可见性。此举旨在帮助分享食谱的创作者更有效地吸引新受众。
-除了这些内容更新之外，Substack 还启用了 Android 和桌面上的直播安排。预定的流现在带有自动生成的 RSVP 链接，允许订阅者将事件直接添加到他们的日历中，并在 Substack 和社交媒体上进行推广。这一变化让创作者有更多时间在上线前建立预期。
-查看有关 AlternativeTo 的文章更多信息子堆栈 | 子堆栈替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/2/substack-brings-improved-design-editing-recipe-embeds-and-expanded-livestream-scheduling/</guid>
-      <pubDate>Fri, 13 Feb 2026 19:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Parrot OS 7.1 带来了 Linux 6.17 内核、新的 Enlightenment spin、MCPwn AI 工具等</title>
-      <link>https://alternativeto.net/news/2026/2/parrot-os-7-1-brings-linux-6-17-kernel-new-enlightenment-spin-mcpwn-ai-tool-and-more/</link>
-      <description><![CDATA[Parrot 7.1 作为基于 Debian 的 Linux 发行版的最新版本首次亮相，专注于安全、隐私和开发人员需求。此更新在版本 7.0 几个月后发布，并提供跨核心组件的升级。
-最显着的变化是，Parrot 7.1 现在由 Linux 内核 6.17.13 提供支持，这会影响硬件兼容性和整体系统性能。社区通过提供 MATE、LXQt 和新的Enlightenment 窗口管理器版本来扩展选项。
-虽然安全专业人员受益于最新的渗透测试工具和一些额外的更新，但 MCPwn 的引入标志着一个显着的转变。 MCPwn 是一个模型上下文协议服务器，支持大型语言模型（例如 Claude、Gemini 或本地 LLM）执行安全实用程序例如直接在用户计算机上的 nmap、sqlmap 和 gobuster。其以安全为中心的架构依靠 Docker 容器隔离来保护主机系统，并支持使用简单的 YAML 文件进行灵活的工具集成。
-在基础设施改进的基础上，Parrot 团队重新控制了 Mirror Director，以优化包交付和存储库管理。捆绑的 Rocket 项目也已达到 1.5.0 版本，尽管它仍在不断发展，但它具有经过彻底修改的用户界面和几个新工具。最后，Raspberry Pi 版本也受益于最近的增强功能。
-查看有关 AlternativeTo 的文章有关 Parrot 安全操作系统的更多信息 | Parrot 安全操作系统替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/2/parrot-os-7-1-brings-linux-6-17-kernel-new-enlightenment-spin-mcpwn-ai-tool-and-more/</guid>
-      <pubDate>Fri, 13 Feb 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare 为 AI 代理引入了即时 HTML 到 Markdown 转换</title>
-      <link>https://alternativeto.net/news/2026/2/cloudflare-introduces-on-the-fly-html-to-markdown-conversion-for-ai-agents/</link>
-      <description><![CDATA[Cloudflare 现在支持使用内容协商标头将 HTML 内容自动实时转换为 AI 代理和爬虫的 Markdown。启用后，人工智能系统可以直接从参与网站请求降价，响应包括令牌计数元数据和标准化内容使用信号。这可减少高达 80% 的代币使用量并提高效率。
-该功能在 Beta 版中可用，专业版、商业版、企业版和 SaaS 用户无需支付额外费用。
-查看有关 AlternativeTo 的文章更多信息Cloudflare | Cloudflare 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/cloudflare-introduces-on-the-fly-html-to-markdown-conversion-for-ai-agents/</guid>
-      <pubDate>Fri, 13 Feb 2026 15:38:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>MiniMax 发布 m2.5，这是一种具有 SOTA 编码和更快执行速度的开源模型</title>
-      <link>https://alternativeto.net/news/2026/2/minimax-releases-m2-5-an-open-source-model-with-sota-coding-and-faster-execution/</link>
-      <description><![CDATA[MiniMax 推出了 M2.5，这是一种开源 AI 模型，专为提高现实世界的生产力而设计，可在编码、搜索、工具使用和办公室工作方面提供最先进的结果。该模型针对高效执行进行了优化，完成复杂任务的速度比之前的迭代快 37%。
-M2.5 经济的定价和对每秒 100 笔交易的支持使得大规模部署变得可行。
-查看有关 AlternativeTo 的文章有关 Minimax 的更多信息平台 | Minimax 平台替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/2/minimax-releases-m2-5-an-open-source-model-with-sota-coding-and-faster-execution/</guid>
-      <pubDate>Fri, 13 Feb 2026 15:23:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Write.as 将长期 Pro 计划重新命名为会员资格，并增加了新的福利</title>
-      <link>https://alternativeto.net/news/2026/2/write-as-rebrands-long-term-pro-plan-as-memberships-adds-new-perks/</link>
-      <description><![CDATA[Write.as 已将其长期 Pro 计划重新命名为 Write.as 会员资格，为 5 年订阅者提供额外福利。会员现在最多可以提前 1.5 年手动续订订阅，以避免失误。
-我们将向符合条件的用户发送提醒电子邮件，并计划未来提供更多专属福利。
-查看有关 AlternativeTo 的文章更多信息Write.as | Write.as 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/2/write-as-rebrands-long-term-pro-plan-as-memberships-adds-new-perks/</guid>
-      <pubDate>Fri, 13 Feb 2026 15:15:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
