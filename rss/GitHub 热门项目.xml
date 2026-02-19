@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 18 Feb 2026 13:04:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 02:08:30 GMT</lastBuildDate>
     <item>
       <title>反射公鸡</title>
       <link>https://www.producthunt.com/products/reflex-rooster</link>
@@ -62,20 +62,6 @@
       <pubDate>Tue, 17 Feb 2026 23:04:59 GMT</pubDate>
     </item>
     <item>
-      <title>yotto代码</title>
-      <link>https://www.producthunt.com/products/yottocode</link>
-      <description><![CDATA[
-            克劳德·代码，认识一下 Telegram。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/yottocode</guid>
-      <pubDate>Tue, 17 Feb 2026 21:23:16 GMT</pubDate>
-    </item>
-    <item>
       <title>你的人工智能克隆</title>
       <link>https://www.producthunt.com/products/your-ai-clone</link>
       <description><![CDATA[
@@ -104,10 +90,24 @@
       <pubDate>Tue, 17 Feb 2026 20:25:52 GMT</pubDate>
     </item>
     <item>
+      <title>十四行诗 4.6</title>
+      <link>https://www.producthunt.com/products/claude</link>
+      <description><![CDATA[
+            迄今为止最强大的 Sonnet 模型
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/claude</guid>
+      <pubDate>Tue, 17 Feb 2026 18:50:32 GMT</pubDate>
+    </item>
+    <item>
       <title>奥尼亚</title>
       <link>https://www.producthunt.com/products/omnia-2</link>
       <description><![CDATA[
-            成为AI推荐品牌。
+            成为AI推荐品牌
           
 
 讨论
@@ -132,6 +132,34 @@
       <pubDate>Tue, 17 Feb 2026 17:29:51 GMT</pubDate>
     </item>
     <item>
+      <title>幽灵</title>
+      <link>https://www.producthunt.com/products/spectre-2</link>
+      <description><![CDATA[
+            产品构建者的代理编码工作流程
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/spectre-2</guid>
+      <pubDate>Tue, 17 Feb 2026 15:49:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>康塔</title>
+      <link>https://www.producthunt.com/products/konta</link>
+      <description><![CDATA[
+            在低资源 VPS 上使用 GitOps for Docker Compose
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/konta</guid>
+      <pubDate>Tue, 17 Feb 2026 14:54:49 GMT</pubDate>
+    </item>
+    <item>
       <title>机器人机器人</title>
       <link>https://www.producthunt.com/products/botbot</link>
       <description><![CDATA[
@@ -146,46 +174,18 @@
       <pubDate>Tue, 17 Feb 2026 13:56:00 GMT</pubDate>
     </item>
     <item>
-      <title>设计导轨</title>
-      <link>https://www.producthunt.com/products/design-rails-ai-native-brand-in-mins</link>
+      <title>日历式</title>
+      <link>https://www.producthunt.com/products/calendarly-calendar-on-lock-screen</link>
       <description><![CDATA[
-            几分钟内即可获得可供代理商使用的品牌
+            将您的日历变成实时锁屏壁纸
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/design-rails-ai-native-brand-in-mins</guid>
-      <pubDate>Mon, 16 Feb 2026 23:26:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>德卡里</title>
-      <link>https://www.producthunt.com/products/deckary</link>
-      <description><![CDATA[
-            适用于 PowerPoint 的 AI 咨询工具包
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/deckary</guid>
-      <pubDate>Mon, 16 Feb 2026 18:55:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络实证健康</title>
-      <link>https://www.producthunt.com/products/empirical-health</link>
-      <description><![CDATA[
-            通过人工智能扩展的综合预防性心脏健康解决方案
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/empirical-health</guid>
-      <pubDate>Fri, 13 Feb 2026 20:25:36 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/calendarly-calendar-on-lock-screen</guid>
+      <pubDate>Mon, 16 Feb 2026 15:55:48 GMT</pubDate>
     </item>
     <item>
       <title>Flixier 在时间轴中生成 AI 视频</title>
@@ -205,7 +205,7 @@
       <title>摩达</title>
       <link>https://www.producthunt.com/products/moda-2</link>
       <description><![CDATA[
-            最后，您可以编辑人工智能设计。
+            最后，您可以编辑 AI 设计
           
 
 讨论
