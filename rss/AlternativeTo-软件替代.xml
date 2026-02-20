@@ -4,48 +4,48 @@
     <title>新版本 – AlternativeTo.net</title>
     <link>https://alternativeto.net/releases/all</link>
     <description>最新软件添加到 AlternativeTo</description>
-    <lastBuildDate>Fri, 20 Feb 2026 02:04:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 12:58:36 GMT</lastBuildDate>
+    <item>
+      <title>弥迦</title>
+      <link>https://alternativeto.net/software/micasa/about/</link>
+      <description><![CDATA[适用于家庭项目、维护、设备、供应商报价和事件的 Modal TUI，包含脱机 SQLite 文件、文件附件，无需帐户或订阅。查看 AlternativeTo micasa 替代品]]></description>
+      <guid>https://alternativeto.net/software/micasa/about/</guid>
+      <pubDate>Fri, 20 Feb 2026 12:58:18 GMT</pubDate>
+    </item>
     <item>
       <title>比赛表</title>
       <link>https://alternativeto.net/software/playsheet/about/</link>
       <description><![CDATA[将乐谱变成节奏游戏！ Playsheet 可让您上传自己的音乐，并通过 MIDI 键盘连接和定时反馈进行演奏。在 AlternativeTo 上查看播放表替代品]]></description>
       <guid>https://alternativeto.net/software/playsheet/about/</guid>
-      <pubDate>Fri, 20 Feb 2026 02:03:57 GMT</pubDate>
+      <pubDate>Fri, 20 Feb 2026 12:58:18 GMT</pubDate>
     </item>
     <item>
       <title>烛台</title>
       <link>https://alternativeto.net/software/candlestick/about/</link>
-      <description><![CDATA[免费开源工具，用于创建游戏、动画和其间的所有内容查看 AlternativeTo 烛台替代品]]></description>
+      <description><![CDATA[基于浏览器的开源工具，用于制作游戏、动画和交互式项目，具有矢量图形、脚本支持、资源导入且无功能限制。查看 AlternativeTo 烛台替代品]]></description>
       <guid>https://alternativeto.net/software/candlestick/about/</guid>
-      <pubDate>Fri, 20 Feb 2026 02:03:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>羽毛面板</title>
-      <link>https://alternativeto.net/software/featherpanel/about/</link>
-      <description><![CDATA[翼手龙的替代品，重量轻 204 倍，速度快 22 倍。免费、开源，随时可以部署。查看 AlternativeTo FeatherPanel 替代品]]></description>
-      <guid>https://alternativeto.net/software/featherpanel/about/</guid>
-      <pubDate>Fri, 20 Feb 2026 02:03:57 GMT</pubDate>
+      <pubDate>Fri, 20 Feb 2026 12:58:18 GMT</pubDate>
     </item>
     <item>
       <title>重构</title>
       <link>https://alternativeto.net/software/reframed/about/</link>
-      <description><![CDATA[一款功能强大的 macOS 屏幕录制应用，带有内置视频编辑器。记录、编辑和导出。在 AlternativeTo 上查看重构替代方案]]></description>
+      <description><![CDATA[具有基于时间线的编辑器的本机 macOS 记录器，支持屏幕、窗口、区域和 iOS 捕获、网络摄像头覆盖、音频捕获、高级光标工具。在 AlternativeTo 上查看重构替代方案]]></description>
       <guid>https://alternativeto.net/software/reframed/about/</guid>
-      <pubDate>Fri, 20 Feb 2026 02:03:57 GMT</pubDate>
+      <pubDate>Fri, 20 Feb 2026 12:58:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>羽毛面板</title>
+      <link>https://alternativeto.net/software/featherpanel/about/</link>
+      <description><![CDATA[轻量级开源服务器面板，可通过快速部署、高级访问控制、多服务器支持和现代 UI 实现高效托管。查看 AlternativeTo FeatherPanel 替代品]]></description>
+      <guid>https://alternativeto.net/software/featherpanel/about/</guid>
+      <pubDate>Fri, 20 Feb 2026 12:58:18 GMT</pubDate>
     </item>
     <item>
       <title>陨石</title>
       <link>https://alternativeto.net/software/meteorite-notetaker/about/</link>
       <description><![CDATA[最小的 Mac 菜单栏工具，可实现无缝、键盘驱动的笔记捕获、Markdown 支持、即时搜索、离线隐私以及轻松导出到 Apple Notes。在 AlternativeTo 上查看Meteorite替代方案]]></description>
       <guid>https://alternativeto.net/software/meteorite-notetaker/about/</guid>
-      <pubDate>Fri, 20 Feb 2026 02:03:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>相机图</title>
-      <link>https://alternativeto.net/software/camera-graph/about/</link>
-      <description><![CDATA[您的 Mac 相机。释放。 200 多个实时过滤器。 80 一发触发。 MIDI 控制。 CoreML 预览。 RTMP 流媒体。 4K 录制高达 120fps。适用于任何应用程序的虚拟摄像头。在 AlternativeTo 上查看摄像头图形替代方案]]></description>
-      <guid>https://alternativeto.net/software/camera-graph/about/</guid>
-      <pubDate>Fri, 20 Feb 2026 02:03:57 GMT</pubDate>
+      <pubDate>Fri, 20 Feb 2026 12:58:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
