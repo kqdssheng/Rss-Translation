@@ -4,7 +4,7 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sat, 21 Feb 2026 12:47:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 02:08:20 GMT</lastBuildDate>
     <item>
       <title>Google Chrome 终于获得了分割视图、PDF 注释和直接 Google Drive 保存功能</title>
       <link>https://alternativeto.net/news/2026/2/google-chrome-finally-gets-split-view-pdf-annotations-and-direct-google-drive-saving/</link>
@@ -40,7 +40,7 @@
       <link>https://alternativeto.net/news/2026/2/github-copilot-now-available-in-zed-for-all-paid-subscribers/</link>
       <description><![CDATA[GitHub Copilot 现已在 Zed 代码编辑器 中得到正式支持，允许 Pro、Pro+、Business 和 Enterprise 级别的所有付费 Copilot 订阅者进行集成。用户可以使用 Zed 中的现有凭据进行身份验证，不需要任何额外的 AI 许可证。
 Zed 由 Atom 和 Tree-sitter 的创建者用 Rust 构建。
-查看有关 AlternativeTo 的文章有关 GitHub 的更多信息Copilot | GitHub Copilot 替代品]]></description>
+查看有关 AlternativeTo 的文章有关 GitHub 的更多信息Copilot | GitHub Copilot 替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/2/github-copilot-now-available-in-zed-for-all-paid-subscribers/</guid>
       <pubDate>Fri, 20 Feb 2026 15:58:01 GMT</pubDate>
     </item>
@@ -105,7 +105,7 @@ Ghost(Pro) 用户会自动收到更新，而自托管用户则应更新才能访
       <description><![CDATA[Google 正在扩展 Gemini 3 系列，发布 Gemini 3.1 Pro，旨在应对科学、研究和工程领域的现代挑战。继上周的 Gemini 3 Deep Think 更新之后，该版本提供了新的核心智能增强功能，旨在推动这些领域的突破性应用。
 自今日起，Gemini 3.1 Pro 可供开发者、企业和消费者使用。开发者可以通过 Google AI Studio、Gemini CLI、Antigravity 代理开发平台和 Android 中的 Gemini API 访问它工作室。对于企业来说，可以在 Vertex AI 和 Gemini Enterprise 中访问该版本。同时，消费者可以通过Gemini应用程序和NotebookLM使用Gemini 3.1 Pro。
 在构建 Gemini 3 现有功能的同时，3.1 Pro 更新为推理和解决复杂问题设定了更高的基准。该模型适用于简单答案不足的场景，为高级用例提供支持，例如视觉解释、单视图见解的数据合成以及创意项目协助。这些改进将 Gemini 智能的影响扩展到广泛的实际和高要求的应用。
-查看有关 AlternativeTo 的文章有关 Google 的更多信息Gemini | Google Gemini 替代品]]></description>
+查看有关 AlternativeTo 的文章有关 Google 的更多信息Gemini | Google Gemini 替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/2/google-rolls-out-gemini-3-1-pro-with-2-improved-reasoning-for-tackling-complex-tasks/</guid>
       <pubDate>Fri, 20 Feb 2026 13:00:00 GMT</pubDate>
     </item>
@@ -137,7 +137,7 @@ Agentic SAST 漏洞解决功能以自动化为基础，可让 GitLab Duo 自动�
 Nextcloud Talk、日历、邮件和 Office 的协作功能也得到了广泛的更新。 Talk 添加了具有可选自动取消固定功能的消息固定、预定消息、可选聊天布局和会议升级（例如带翻译的实时转录），以及可选择自动增益、回声消除和噪音抑制等音频选项。 日历添加了对外部邀请的限制选项，而邮件添加了线程内附件可见性、收藏线程、紧凑模式和改进的快速过滤器。 Office 添加了文档比较、电子表格视图、用于样式化 XLSX 表格的表格设计选项卡，以及用于同步幻灯片放映而不依赖屏幕共享的“演示给所有人”模式。
 在安全和平台方面，现在可以在浏览器中设置和管理端到端加密，包括公共共享链接和加密文件请求，尽管 Nextcloud 指出对于加密工作流程，浏览器的安全性不如桌面客户端。 Nextcloud Assistant 添加了 AI 内容标签和可选内存，可以保留聊天中的上下文，以及更快的本地 AI 功能以及对 Olmo 3 和自托管 IBM watsonx 等模型的支持。在底层，新的 ADA 引擎和使用 PHP、Rust 和 Go 重写的文件访问层旨在大规模加速权限和文件访问，同时进行更广泛的性能工作并高度重视维护和稳定性。
 Hub 26 Winter 现已可用于自托管部署，用户可以在自己的 Nextcloud 服务器上安装或更新它，或者通过支持新版本的托管提供商获取它。
-查看有关 AlternativeTo 的文章更多信息Nextcloud | Nextcloud 替代方案]]></description>
+查看有关 AlternativeTo 的文章更多信息Nextcloud | Nextcloud 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/2/nextcloud-hub-26-winter-adds-migration-tools-browser-encryption-and-office-updates/</guid>
       <pubDate>Fri, 20 Feb 2026 04:48:59 GMT</pubDate>
     </item>
