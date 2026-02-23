@@ -4,7 +4,56 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Mon, 23 Feb 2026 02:09:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 13:04:49 GMT</lastBuildDate>
+    <item>
+      <title>DietPi 10.1 首次推出 NanoPi Zero2 支持、WhoDB 软件、Navidrome RISC-V 支持等</title>
+      <link>https://alternativeto.net/news/2026/2/dietpi-10-1-debuts-nanopi-zero2-support-whodb-software-navidrome-risc-v-support-and-more/</link>
+      <description><![CDATA[DietPi 10.1 现已推出，继续专注于单板计算机的轻量级操作。此版本的亮点是 NanoPi Zero2 的新 DietPi 映像，将硬件支持扩展到由 Rockchip RK3528 片上系统支持的FriendlyELEC 设备。
+此版本引入了 WhoDB 作为可选软件选项。 WhoDB 提供由人工智能聊天界面支持的数据库管理工具，使用户能够通过自然语言查询与数据库进行交互。与此同时，音乐流媒体软件 Navidrome 现在支持 RISC-V 架构，新的官方版本从 版本 0.60.0。
+为了解决以前的硬件问题，NanoPi R5C 现在在重新启动后始终将 eth0 分配给 LAN 端口，将 eth1 分配给 WAN 端口，从而解决了网络接口命名不一致的问题。此外，DietPi-Banner 还获得了显示 Linux 内核版本的能力，有助于系统诊断。
+其他更新影响了 Python 应用程序管理，所有 Python 软件选项现在都利用 Python 虚拟环境来改进隔离。 MinIO 存储服务器现在包括用于恢复管理功能的 mc 控制台客户端，以及远程桌面服务器，例如 TigerVNC、RealVNC 和 XRDP 不再需要完整的桌面，只需使用 X 服务器即可运行单独的图形应用程序。
+查看有关 AlternativeTo 的文章更多信息DietPi | DietPi 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/dietpi-10-1-debuts-nanopi-zero2-support-whodb-software-navidrome-risc-v-support-and-more/</guid>
+      <pubDate>Mon, 23 Feb 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lakka 6.1 带来了 LibreELEC 12.2、RetroArch 1.22.2 和 CRT 优化的 Raspberry Pi 镜像</title>
+      <link>https://alternativeto.net/news/2026/2/lakka-6-1-brings-libreelec-12-2-retroarch-1-22-2-and-crt-optimized-raspberry-pi-images/</link>
+      <description><![CDATA[距离版本 5.0 近两年后，Lakka 6.1 已发布，适合那些寻求将轻量级硬件转变为专用复古游戏控制台的用户。此更新现在基于 LibreELEC 12.2 构建系统构建，引入了现代化的基础、改进的硬件支持以及全面的驱动程序更新。
+在这些核心更改的基础上，Lakka 6.1 采用了 Linux 内核 6.18 LTS 系列，纳入了必要的上游更改，以确保所有兼容设备的可靠性。用户还可以找到 RetroArch 的最新稳定版本 1.22.2，它带来了界面改进、延迟优化和多项生活质量增强。此外，每个现有的 Libretro 核心都已更新到最新的上游版本，并添加了新的核心，显着扩展了可模拟的系统和体验。
+Lakka 6.1 专注于让复古爱好者轻松使用原始硬件，现在提供专为 CRT 电视定制的官方 Raspberry Pi 图像。这些构建具有复合优化的视频输出、校准的模拟时序以及 RetroArch 中的预配置设置，以提供真实的 CRT 显示行为。在该版本的最后，用户将收到 Mesa 25.1.9，一个新的设置脚本，以及进一步的增强功能和错误修复。
+查看有关 AlternativeTo 的文章有关 Lakka 的更多信息 | Lakka 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/lakka-6-1-brings-libreelec-12-2-retroarch-1-22-2-and-crt-optimized-raspberry-pi-images/</guid>
+      <pubDate>Mon, 23 Feb 2026 08:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Swift System Metrics 1.0 首次亮相，提供用于流程监控的稳定 API</title>
+      <link>https://alternativeto.net/news/2026/2/swift-system-metrics-1-0-debuts-with-stable-api-for-process-monitoring/</link>
+      <description><![CDATA[Swift System Metrics 1.0 已发布，为跨 Linux 和 macOS 的 Swift 应用程序中的进程级监控提供稳定的 API。该软件包可以收集 CPU 使用时间、内存使用情况、打开文件描述符和进程启动时间，并支持 musl libc 环境。
+与 Swift Metrics 集成提供了与 Prometheus 和 OpenTelemetry 等可观察性后端的兼容性。
+查看有关 AlternativeTo 的文章有关 Swift 的更多信息（编程语言） | Swift（编程语言）替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/2/swift-system-metrics-1-0-debuts-with-stable-api-for-process-monitoring/</guid>
+      <pubDate>Mon, 23 Feb 2026 08:28:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ardor 9.1 修复了编辑器窗格，添加了 MIDI 音符追踪和复制</title>
+      <link>https://alternativeto.net/news/2026/2/ardour-9-1-fixes-editor-pane-adds-midi-note-chase-and-duplication/</link>
+      <description><![CDATA[Ardour 9.1 恢复了正确的编辑器窗格行为，解决了 9.0 版本中的重大缺陷。该更新还引入了 MIDI 音符追踪和音符复制功能，为用户扩展了创意选项。其他改进增强了区域选择、弯音显示和整体会话管理。
+包括重要的稳定性修复和更新的德语、意大利语和法语翻译。
+查看有关 AlternativeTo 的文章更多有关Ardour | Ardour 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/ardour-9-1-fixes-editor-pane-adds-midi-note-chase-and-duplication/</guid>
+      <pubDate>Mon, 23 Feb 2026 08:10:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS 版 Snapseed 推出重大更新，配备内置相机和手动专业控件</title>
+      <link>https://alternativeto.net/news/2026/2/snapseed-for-ios-rolls-out-a-big-update-with-a-buil-in-camera-and-manual-pro-controls/</link>
+      <description><![CDATA[Google 更新了 iOS 版广受欢迎的照片编辑应用程序 Snapseed，将其从严格以编辑为中心的工具扩展为包括直接在应用程序中进行相机捕捉。在 12 月软启动后，该功能现在正在更广泛地推出，应用程序内有一个专用的相机图标，而不是依赖锁屏或系统入口点。此更新使您可以更轻松地在 Snapseed 中拍摄照片，然后在同一位置立即对其进行编辑。
+新相机包括 PRO 模式，可通过取景器进行手动 ISO、快门速度和对焦控制。谷歌还添加了用于关闭自动功能的拨盘式控件，以及在更改胶片模拟预设时的倒带式动画。闪光灯和变焦已重新定位到取景器的底角。
+Snapseed 的相机支持实时胶片模拟和自定义保存的外观，具有 12 个受柯达、富士、爱克发、宝丽来和 Technicolor 胶片启发的内置预设。每张照片都会捕获完整的编辑堆栈，因此用户即使在保存到图库后也可以调整、细化或恢复部分外观。取景器还提供多种颜色主题，Snapseed 3.15.0 可在App Store免费下载，而 Google 表示正在努力将重新设计的编辑器从 iOS 带到 Android。
+查看有关 AlternativeTo 的文章更多信息Snapseed | Snapseed 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/snapseed-for-ios-rolls-out-a-big-update-with-a-buil-in-camera-and-manual-pro-controls/</guid>
+      <pubDate>Mon, 23 Feb 2026 05:49:49 GMT</pubDate>
+    </item>
     <item>
       <title>PayPal 泄露六个月内的用户数据、社会安全号码和未经授权的费用</title>
       <link>https://alternativeto.net/news/2026/2/paypal-breach-exposed-user-data-six-months-social-security-numbers-and-unauthorized-charges/</link>
@@ -80,7 +129,7 @@ Locker 支持保存文档、笔记、密码和其他必需品，免费套餐最�
       <link>https://alternativeto.net/news/2026/2/github-copilot-now-available-in-zed-for-all-paid-subscribers/</link>
       <description><![CDATA[GitHub Copilot 现已在 Zed 代码编辑器 中得到正式支持，允许 Pro、Pro+、Business 和 Enterprise 级别的所有付费 Copilot 订阅者进行集成。用户可以使用 Zed 中的现有凭据进行身份验证，不需要任何额外的 AI 许可证。
 Zed 由 Atom 和 Tree-sitter 的创建者用 Rust 构建。
-查看有关 AlternativeTo 的文章有关 GitHub 的更多信息Copilot | GitHub Copilot 替代方案]]></description>
+查看有关 AlternativeTo 的文章有关 GitHub 的更多信息Copilot | GitHub Copilot 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/2/github-copilot-now-available-in-zed-for-all-paid-subscribers/</guid>
       <pubDate>Fri, 20 Feb 2026 15:58:01 GMT</pubDate>
     </item>
@@ -101,53 +150,6 @@ Zed 由 Atom 和 Tree-sitter 的创建者用 Rust 构建。
 查看有关 AlternativeTo 的文章更多信息TrueNAS | TrueNAS 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/2/truenas-25-10-2-brings-100-fixes-openzfs-2-3-4-and-nvme-of-support/</guid>
       <pubDate>Fri, 20 Feb 2026 15:47:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Raycast 推出即时笔记功能和 Windows 选项卡增强功能</title>
-      <link>https://alternativeto.net/news/2026/2/raycast-launches-instant-notes-feature-and-windows-tab-enhancements/</link>
-      <description><![CDATA[Raycast 推出了 Notes 功能，该功能可让用户在不离开工作流程的情况下立即记下想法。在Windows Beta期间，Notes是免费的，并且支持无限条目。
-此更新还添加了一项设置，用于在 Windows 资源管理器中的新选项卡中打开文件夹。
-查看有关 AlternativeTo 的文章有关 Raycast 的更多信息 | Raycast 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/2/raycast-launches-instant-notes-feature-and-windows-tab-enhancements/</guid>
-      <pubDate>Fri, 20 Feb 2026 15:43:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿里云模型工作室推出Qwen Coding Plan订阅</title>
-      <link>https://alternativeto.net/news/2026/2/alibaba-cloud-model-studio-introduces-qwen-coding-plan-subscription/</link>
-      <description><![CDATA[阿里云模型工作室推出了Qwen编码计划，按月订阅即可使用多种人工智能编码工具。该计划每月提供多达 90,000 个使用 Qwen Code、Claude Code、Cline 和  等服务的请求href=&quot;https://alternativeto.net/software/clawdbot/about/&quot;&gt;OpenClaw。
-Lite 的订阅套餐起价约为每月 10 美元，Pro 的订阅价格为每月 50 美元，并且可以使用最新的 Qwen3.5-Plus 型号。
-查看有关 AlternativeTo 的文章有关 Qwen 的更多信息 | Qwen 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/alibaba-cloud-model-studio-introduces-qwen-coding-plan-subscription/</guid>
-      <pubDate>Fri, 20 Feb 2026 15:39:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ghost 现在将成员直接链接到他们的收件箱，以便更快地访问</title>
-      <link>https://alternativeto.net/news/2026/2/ghost-now-links-members-directly-to-their-inbox-for-faster-access/</link>
-      <description><![CDATA[Ghost 现在会自动检测会员的电子邮件提供商，并通过预先过滤的搜索将其链接到收件箱，帮助用户更快地找到相关邮件。此功能支持 Gmail、Outlook、iCloud 和 Yahoo 等流行的提供商，并可回退到其他提供商的现有行为。
-Ghost(Pro) 用户会自动收到更新，而自托管用户则应更新才能访问新功能。
-查看有关 AlternativeTo 的文章有关 Ghost 的更多信息 | 幽灵替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/ghost-now-links-members-directly-to-their-inbox-for-faster-access/</guid>
-      <pubDate>Fri, 20 Feb 2026 15:26:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anthropic正式禁止第三方Claude使用订阅认证</title>
-      <link>https://alternativeto.net/news/2026/2/anthropic-officially-bans-using-subscription-authentication-for-third-party-claude-use/</link>
-      <description><![CDATA[Anthropic 颁布了一项重大政策变更，现在禁止对任何第三方产品、工具或服务使用基于订阅的 OAuth 身份验证。此更新特别禁止在 Claude Code 和 Claude.ai 平台之外的所有环境中使用 Claude Free、Pro 和 Max 订阅 OAuth 令牌。
-这些限制通过更新的“法律与合规性”资源文档进行了详细说明，澄清了集成 Claude 功能的开发人员（包括使用 Agent SDK 的开发人员）现在必须使用通过 Claude Console 或支持的云提供商发布的 API 密钥身份验证。此次修订后，第三方开发者将不再被允许使用 Free、Pro 或 Max 套餐凭据提供 Claude.ai 登录或代表用户路由请求。
-这一发展立即影响了团队和工具制造商，他们之前通过使用 Claude Max 订阅和集成的第三方解决方案来绕过基于使用的 API 费用。例如，OpenClaw 和 OpenCode 使用户能够依靠个人订阅而不是按使用付费。虽然这种做法一直存在于灰色地带，但文档更新明确表明此类模式不再被允许。
-查看有关 AlternativeTo 的文章更多有关克劳德 | 克劳德替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/anthropic-officially-bans-using-subscription-authentication-for-third-party-claude-use/</guid>
-      <pubDate>Fri, 20 Feb 2026 14:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌推出 Gemini 3.1 Pro，推理能力提升 2 倍，可处理复杂任务</title>
-      <link>https://alternativeto.net/news/2026/2/google-rolls-out-gemini-3-1-pro-with-2-improved-reasoning-for-tackling-complex-tasks/</link>
-      <description><![CDATA[Google 正在扩展 Gemini 3 系列，发布 Gemini 3.1 Pro，旨在应对科学、研究和工程领域的现代挑战。继上周的 Gemini 3 Deep Think 更新之后，该版本提供了新的核心智能增强功能，旨在推动这些领域的突破性应用。
-自今日起，Gemini 3.1 Pro 可供开发者、企业和消费者使用。开发者可以通过 Google AI Studio、Gemini CLI、Antigravity 代理开发平台和 Android 中的 Gemini API 访问它工作室。对于企业来说，可以在 Vertex AI 和 Gemini Enterprise 中访问该版本。同时，消费者可以通过Gemini应用程序和NotebookLM使用Gemini 3.1 Pro。
-在构建 Gemini 3 现有功能的同时，3.1 Pro 更新为推理和解决复杂问题设定了更高的基准。该模型适用于简单答案不足的场景，为高级用例提供支持，例如视觉解释、单视图见解的数据合成以及创意项目协助。这些改进将 Gemini 智能的影响扩展到广泛的实际和高要求的应用。
-查看有关 AlternativeTo 的文章有关 Google 的更多信息Gemini | Google Gemini 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/2/google-rolls-out-gemini-3-1-pro-with-2-improved-reasoning-for-tackling-complex-tasks/</guid>
-      <pubDate>Fri, 20 Feb 2026 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

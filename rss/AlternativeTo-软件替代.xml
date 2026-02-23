@@ -4,48 +4,48 @@
     <title>新版本 – AlternativeTo.net</title>
     <link>https://alternativeto.net/releases/all</link>
     <description>最新软件添加到 AlternativeTo</description>
-    <lastBuildDate>Mon, 23 Feb 2026 02:09:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 13:04:31 GMT</lastBuildDate>
+    <item>
+      <title>三星 Galaxy AI</title>
+      <link>https://alternativeto.net/software/samsung-galaxy-ai/about/</link>
+      <description><![CDATA[Galaxy 设备的人工智能功能提供照片、视频和音频编辑、生成工具、噪音消除、写作帮助、简报和实时内容建议。查看 AlternativeTo 三星 Galaxy AI 替代方案]]></description>
+      <guid>https://alternativeto.net/software/samsung-galaxy-ai/about/</guid>
+      <pubDate>Mon, 23 Feb 2026 13:04:19 GMT</pubDate>
+    </item>
     <item>
       <title>多路复用器</title>
       <link>https://alternativeto.net/software/cmux/about/</link>
       <description><![CDATA[基于 Ghostty 的 macOS 终端，带有垂直选项卡和 AI 编码代理通知。在 AlternativeTo 上查看cmux 替代品]]></description>
       <guid>https://alternativeto.net/software/cmux/about/</guid>
-      <pubDate>Mon, 23 Feb 2026 02:08:56 GMT</pubDate>
+      <pubDate>Mon, 23 Feb 2026 13:04:19 GMT</pubDate>
     </item>
     <item>
       <title>弥迦</title>
       <link>https://alternativeto.net/software/micasa/about/</link>
       <description><![CDATA[适用于家庭项目、维护、设备、供应商报价和事件的 Modal TUI，包含脱机 SQLite 文件、文件附件，无需帐户或订阅。查看 AlternativeTo micasa 替代品]]></description>
       <guid>https://alternativeto.net/software/micasa/about/</guid>
-      <pubDate>Mon, 23 Feb 2026 02:08:56 GMT</pubDate>
+      <pubDate>Mon, 23 Feb 2026 13:04:19 GMT</pubDate>
     </item>
     <item>
       <title>储物柜实体</title>
       <link>https://alternativeto.net/software/ente-locker/about/</link>
       <description><![CDATA[存储您的重要文档和凭据。与值得信赖的联系人分享或在紧急情况下转发。查看 AlternativeTo Ente Locker 替代方案]]></description>
       <guid>https://alternativeto.net/software/ente-locker/about/</guid>
-      <pubDate>Mon, 23 Feb 2026 02:08:56 GMT</pubDate>
+      <pubDate>Mon, 23 Feb 2026 13:04:19 GMT</pubDate>
     </item>
     <item>
       <title>重构</title>
       <link>https://alternativeto.net/software/reframed/about/</link>
       <description><![CDATA[具有基于时间线的编辑器的本机 macOS 记录器，支持屏幕、窗口、区域和 iOS 捕获、网络摄像头覆盖、音频捕获、高级光标工具。在 AlternativeTo 上查看重构替代方案]]></description>
       <guid>https://alternativeto.net/software/reframed/about/</guid>
-      <pubDate>Mon, 23 Feb 2026 02:08:56 GMT</pubDate>
+      <pubDate>Mon, 23 Feb 2026 13:04:19 GMT</pubDate>
     </item>
     <item>
       <title>烛台</title>
       <link>https://alternativeto.net/software/candlestick/about/</link>
       <description><![CDATA[基于浏览器的开源工具，用于制作游戏、动画和交互式项目，具有矢量图形、脚本支持、资源导入且无功能限制。查看 AlternativeTo 烛台替代品]]></description>
       <guid>https://alternativeto.net/software/candlestick/about/</guid>
-      <pubDate>Mon, 23 Feb 2026 02:08:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>羽毛面板</title>
-      <link>https://alternativeto.net/software/featherpanel/about/</link>
-      <description><![CDATA[轻量级开源服务器面板，可通过快速部署、高级访问控制、多服务器支持和现代 UI 实现高效托管。查看 AlternativeTo FeatherPanel 替代品]]></description>
-      <guid>https://alternativeto.net/software/featherpanel/about/</guid>
-      <pubDate>Mon, 23 Feb 2026 02:08:56 GMT</pubDate>
+      <pubDate>Mon, 23 Feb 2026 13:04:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
