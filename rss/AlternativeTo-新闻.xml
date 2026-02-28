@@ -4,7 +4,45 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Fri, 27 Feb 2026 12:59:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 01:53:01 GMT</lastBuildDate>
+    <item>
+      <title>Android 17 beta 2 添加了气泡 UI、切换 API、颜色吸管、联系人选择器等</title>
+      <link>https://alternativeto.net/news/2026/2/android-17-beta-2-adds-bubbles-ui-handoff-api-color-eyedropper-contacts-picker-and-more/</link>
+      <description><![CDATA[Google 发布了 Android 17 的第二个测试版，其势头源自今年早些时候的第一个测试版。最明显的变化之一是引入了气泡，这是一种新的窗口模式，允许用户通过长按启动器上的应用程序图标来创建浮动应用程序界面。对于拥有大屏幕或可折叠设备的用户，任务栏上会出现一个气泡栏，使他们能够组织气泡并在锚定点之间移动它们，以改进多任务处理。
+为了满足开发者的需求，Android 17 beta 2 首次推出了系统级 EyeDropper API。此功能允许应用程序从显示屏上的任何像素选择颜色，而无需屏幕捕获权限，从而平衡了实用性与隐私性。此更新还添加了一个注重隐私的联系人选择器。通过调用 ACTION_PICK_CONTACTS，用户可以仅向选定的数据字段授予基于会话的读取访问权限，从而减少对广泛 READ_CONTACTS 权限的需求。该功能涵盖个人和工作资料，提供更好的数据控制。
+新的 Handoff API 对这些增强功能进行了补充，该 API 实现了 Android 设备之间的无缝应用程序状态传输，因此用户可以在平板电脑或其他设备上接取任务，同时将中断降至最低。其他改进包括更轻松的触摸板指针捕获、两个新的高级测距 API、精细的本地网络访问权限、改进的时区处理、神经处理单元管理、扩展的 SMS 和 OTP 保护以及最新的 ICU 和 OTP 保护。 Unicode 支持。
+查看有关 AlternativeTo 的文章更多信息Android | Android 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/2/android-17-beta-2-adds-bubbles-ui-handoff-api-color-eyedropper-contacts-picker-and-more/</guid>
+      <pubDate>Fri, 27 Feb 2026 20:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AIDA64 8.25 更新：SensorPanel 固定、NVMe 支持和新的自动化工具</title>
+      <link>https://alternativeto.net/news/2026/2/aida64-8-25-update-sensorpanel-pinning-nvme-support-and-new-automation-tools/</link>
+      <description><![CDATA[AIDA64 8.25 现在支持 SensorPanel 固定到特定显示器，提高了准确性和稳定性，提高了多显示器系统的可靠性。该更新还添加了本机 NVMe 检测和报告，并引入了对 MSI MPG Ai1300TS 和 Ai1600TS 电源的直接监控。
+此外，AIDA64 的新在线命令行生成器为业务部署提供了简化的自动化。
+查看有关 AlternativeTo 的文章更多信息AIDA64 | AIDA64 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/aida64-8-25-update-sensorpanel-pinning-nvme-support-and-new-automation-tools/</guid>
+      <pubDate>Fri, 27 Feb 2026 17:20:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Superhuman 收购 Rows，Rows.com 将于 2026 年 5 月关闭</title>
+      <link>https://alternativeto.net/news/2026/2/superhuman-acquires-rows-sunset-of-rows-com-set-for-may-2026/</link>
+      <description><![CDATA[Super human 正在收购 Rows 并计划在 2026 年 5 月 31 日之前完全停止使用 Rows 产品。Rows 将专注于增强 Coda 在 Super human 平台内的数据能力。
+客户将收到概述过渡步骤的直接通信。
+查看有关 AlternativeTo 的文章更多关于行 | 行替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/2/superhuman-acquires-rows-sunset-of-rows-com-set-for-may-2026/</guid>
+      <pubDate>Fri, 27 Feb 2026 16:08:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌推出 Nano Banana 2，为所有用户提供更快、高保真图像生成</title>
+      <link>https://alternativeto.net/news/2026/2/google-rolls-out-nano-banana-2-with-faster-high-fidelity-image-generation-for-all-users/</link>
+      <description><![CDATA[Google 推出了 Nano Banana 2，这是一款升级版图像生成模型，旨在支持先进的世界知识、可用于生产的视觉规范并提高主题一致性。该版本集成了Gemini Flash的高速智能，实现了创意工作流程中的快速迭代和高效编辑。以前仅限于专业版用户的高级功能，包括丰富的世界背景和详细的编辑工具，现在可供更广泛的受众使用。
+除了利用网络搜索中的真实数据和图像来更准确地表示主题之外，Nano Banana 2 还可以创建信息图表、将笔记转换为图表以及生成数据可视化。其文本渲染功能可以生成准确、清晰且可翻译的图像文本，满足营销和国际交流的需求。用户可以获得高保真、逼真的图像和严格遵循复杂指令的模型，确保生成的视觉效果符合特定要求。
+在这些核心改进之后，Nano Banana 2 在单个工作流程中保持了最多 5 个不同角色的视觉一致性和最多 14 个对象的保真度，这对于叙事和故事板创建非常重要。生产就绪规格提供灵活的输出，支持从 512 像素到 4K 的一系列宽高比和分辨率，同时增强照明、纹理和细节，而不会影响速度。该模型适用于多种 Google 产品，包括 Gemini 应用、Google 搜索中的 AI 模式和 Lens、Google AI Studio、Vertex AI、反重力、Flow、|Google广告，以及通过 API。
+查看有关 AlternativeTo 的文章有关 Gemini Image (Nano) 的更多信息香蕉） | Gemini 图像（纳米香蕉）替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/2/google-rolls-out-nano-banana-2-with-faster-high-fidelity-image-generation-for-all-users/</guid>
+      <pubDate>Fri, 27 Feb 2026 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>如果青少年反复搜索自杀或自残内容，Instagram 将通知家长</title>
       <link>https://alternativeto.net/news/2026/2/instagram-to-notify-parents-if-their-teens-repeatedly-search-suicide-or-self-harm-content/</link>
@@ -41,7 +79,7 @@ Teams 计划正在逐步淘汰，当前的 Teams 客户在剩余期限内无需�
       <description><![CDATA[Perplexity 推出了Perplexity Computer，这是一个围绕多个 AI 子代理构建的通用平台，可以处理端到端任务。 Perplexity 表示，该系统通过将用户提示分解为更小的步骤并将其分配给专门的代理来完成网络研究、文档生成和数据处理等工作，从而进行推理、委托、搜索、构建、记忆、编码和交付。用户可以并行运行多台计算机，Perplexity 表示每个任务都在具有真实文件系统、浏览器和工具集成的隔离环境中运行。
 Perplexity 将计算机定位为与模型无关的编排层。目前它使用 Anthropic Opus 4.6 作为主要推理引擎，并使用 Gemini 进行深入研究， Nano Banana 用于图像，Veo 3.1 用于视频，Grok 用于快速轻量级任务，ChatGPT 5.2 用于长上下文回忆和广泛搜索。 Perplexity 还强调沙盒执行作为一种安全措施，旨在使问题远离用户的主网络。
 与 OpenClaw 的比较很快浮出水面，OpenClaw 是最近流行的开源代理平台，在用户计算机上本地运行，可以连接到电子邮件、消息传递和本地文件以自动化工作流程和执行命令。这种本地模型使用户可以更好地控制要使用的模型以及授予多少系统访问权限，但它也将配置和安全责任转移给用户，研究人员警告说，如果深度访问代理配置错误，可能会带来风险。 Perplexity 将 Computer 定位为 OpenClaw 和 Claude Cowork 等工具之间更受控制的中间地带，现在已向 Perplexity Max 订阅者提供，并计划推出 Enterprise Max很快。
-查看有关 AlternativeTo 的文章更多信息困惑 | 困惑替代方案]]></description>
+查看有关 AlternativeTo 的文章更多信息困惑 | 困惑替代品]]></description>
       <guid>https://alternativeto.net/news/2026/2/perplexity-launches-computer-as-general-purpose-ai-agent-platform-with-model-selection/</guid>
       <pubDate>Thu, 26 Feb 2026 21:25:50 GMT</pubDate>
     </item>
@@ -110,43 +148,6 @@ Perplexity 将计算机定位为与模型无关的编排层。目前它使用 An
 查看有关 AlternativeTo 的文章更多关于Bandcamp | Bandcamp 替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/2/bandcamp-enhances-track-uploads-with-new-publishing-rights-fields-for-artists/</guid>
       <pubDate>Thu, 26 Feb 2026 15:41:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>AdonisJS v7 添加了完整的类型安全性、Node 24+ 支持、新的入门套件</title>
-      <link>https://alternativeto.net/news/2026/2/adonisjs-v7-adds-full-type-safety-node-24-support-new-starter-kits/</link>
-      <description><![CDATA[AdonisJS v7 现已推出，可跨路由、序列​​化和 API 客户端提供全面的类型安全性。此更新需要 Node.js 24 或更高版本，并引入了具有集成流程的现代入门套件，以便更轻松地进行项目设置。
-还包括三个新的官方软件包和对工具的增量改进。
-查看有关 AlternativeTo 的文章更多信息AdonisJS | AdonisJS 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/adonisjs-v7-adds-full-type-safety-node-24-support-new-starter-kits/</guid>
-      <pubDate>Thu, 26 Feb 2026 15:38:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemini CLI 引入了用于深度定制和代理循环控制的 Hooks</title>
-      <link>https://alternativeto.net/news/2026/2/gemini-cli-introduces-hooks-for-deep-customization-and-agentic-loop-control/</link>
-      <description><![CDATA[Gemini CLI 现在支持 Hooks，允许用户在代理循环中的预定义点执行自定义脚本，以实现更好的操作控制。这些钩子支持注入上下文、执行安全策略、验证操作和集成通知等任务。
-扩展作者还可以捆绑挂钩，减少用户的设置步骤。
-查看有关 AlternativeTo 的文章有关 Gemini 的更多信息CLI | Gemini CLI 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/2/gemini-cli-introduces-hooks-for-deep-customization-and-agentic-loop-control/</guid>
-      <pubDate>Thu, 26 Feb 2026 15:25:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Thunderbird 148.0 提高了邮件可靠性、可访问性和安全性</title>
-      <link>https://alternativeto.net/news/2026/2/thunderbird-148-0-boosts-mail-reliability-accessibility-and-security/</link>
-      <description><![CDATA[Thunderbird 148.0 改进了树视图中的可访问性，并允许用户将消息直接归档到收藏夹。此更新解决了一个关键问题，即新邮件检查可能会在睡眠或网络中断后停止。 Yahoo、AT&amp;T 和 AOL 帐户的 PKCE 增强了安全性，并且 NTLM 身份验证现在可用于 EWS 帐户。
-错误修复涵盖文件夹管理、消息过滤、日历功能和安全漏洞。
-查看有关 AlternativeTo 的文章更多信息Thunderbird | Thunderbird 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/thunderbird-148-0-boosts-mail-reliability-accessibility-and-security/</guid>
-      <pubDate>Thu, 26 Feb 2026 15:12:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anthropic 向 Claude Code 引入远程控制，以实现无缝设备切换</title>
-      <link>https://alternativeto.net/news/2026/2/anthropic-introduces-remote-control-to-claude-code-for-seamless-device-handoffs/</link>
-      <description><![CDATA[Anthropic 推出了 Claude Code 的远程控制，允许用户在终端中开始编码任务，并从其他设备或浏览器无缝地接取它。此功能可实现不间断的工作流程，因此可以在旅途中通过手机、平板电脑或任何支持网络的设备继续在办公桌上启动的任务。
-通过远程控制，代码会话始终直接在用户的本地计算机上运行。用户可以灵活地从 Claude 应用程序或聊天界面操作会话，但他们的代码和文件永远不会离开他们的计算机。在此基础上，远程控制将 claude.ai/code 和适用于 iOS 或 Android 的 Claude 应用程序连接到同一个本地 Claude Code 会话，从而在所有连接的设备上保持对话和命令完美同步。
-虽然网络上的 Claude Code 在云中运行，但远程控制会话利用用户自己的环境。这允许完全访问本地文件、服务器、工具和项目配置，通过安全接口远程可见和使用。如果笔记本电脑进入睡眠状态或网络中断，系统会在重新建立连接后自动恢复会话，从而支持可靠、持续的开发。目前，远程控制在研究预览版中为 Max 用户提供，Pro 用户也可以使用。
-查看有关 AlternativeTo 的文章有关 Claude 的更多信息代码 | Claude 代码替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/2/anthropic-introduces-remote-control-to-claude-code-for-seamless-device-handoffs/</guid>
-      <pubDate>Thu, 26 Feb 2026 14:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

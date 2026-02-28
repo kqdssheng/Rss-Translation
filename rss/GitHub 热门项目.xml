@@ -4,20 +4,20 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 27 Feb 2026 12:59:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 01:53:06 GMT</lastBuildDate>
     <item>
-      <title>macOS 黑客新闻</title>
-      <link>https://www.producthunt.com/products/hacker-news-for-macos</link>
+      <title>尼克斯捕获</title>
+      <link>https://www.producthunt.com/products/nix-capture</link>
       <description><![CDATA[
-            Hacker News 的本机 macOS 客户端，使用 SwiftUI 构建
+            在几秒钟内捕获错误报告的 API 请求
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/hacker-news-for-macos</guid>
-      <pubDate>Fri, 27 Feb 2026 01:30:07 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/nix-capture</guid>
+      <pubDate>Thu, 26 Feb 2026 20:01:02 GMT</pubDate>
     </item>
     <item>
       <title>信号鹰</title>
@@ -34,18 +34,18 @@
       <pubDate>Thu, 26 Feb 2026 19:59:34 GMT</pubDate>
     </item>
     <item>
-      <title>基岩</title>
-      <link>https://www.producthunt.com/products/bedrock-5</link>
+      <title>纳米香蕉2</title>
+      <link>https://www.producthunt.com/products/nano-banana-2-11</link>
       <description><![CDATA[
-            即使被拒绝也能获得美国银行的批准
+            谷歌最新的AI图像生成模型 
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/bedrock-5</guid>
-      <pubDate>Thu, 26 Feb 2026 19:34:28 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/nano-banana-2-11</guid>
+      <pubDate>Thu, 26 Feb 2026 16:17:22 GMT</pubDate>
     </item>
     <item>
       <title>运行Whatdoiwear</title>
@@ -62,38 +62,10 @@
       <pubDate>Thu, 26 Feb 2026 15:53:18 GMT</pubDate>
     </item>
     <item>
-      <title>穆西基</title>
-      <link>https://www.producthunt.com/products/musikey-music-auth</link>
-      <description><![CDATA[
-            严格的音乐认证以确保可访问性 
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/musikey-music-auth</guid>
-      <pubDate>Thu, 26 Feb 2026 15:39:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>柠檬荚.ai</title>
-      <link>https://www.producthunt.com/products/lemonpod-ai</link>
-      <description><![CDATA[
-            您的日常生活回顾，以个人 AI 播客的形式讲述
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/lemonpod-ai</guid>
-      <pubDate>Thu, 26 Feb 2026 13:06:59 GMT</pubDate>
-    </item>
-    <item>
       <title>米恩特工作室</title>
       <link>https://www.producthunt.com/products/mvntstudio</link>
       <description><![CDATA[
-            每首音乐的舞蹈人工智能！
+            每首歌曲都有舞蹈生成AI！
           
 
 讨论
@@ -132,10 +104,10 @@
       <pubDate>Wed, 25 Feb 2026 17:16:48 GMT</pubDate>
     </item>
     <item>
-      <title>困惑度计算机</title>
+      <title>困惑计算机</title>
       <link>https://www.producthunt.com/products/perplexity-ai</link>
       <description><![CDATA[
-            人工智能能做的一切，困惑计算机都会为你做。
+            人工智能能做的一切，困惑计算机都会为您做。
           
 
 讨论
@@ -160,10 +132,10 @@
       <pubDate>Wed, 25 Feb 2026 15:23:03 GMT</pubDate>
     </item>
     <item>
-      <title>克劳德代码远程访问</title>
+      <title>克劳德代码远程控制</title>
       <link>https://www.producthunt.com/products/claude-code-remote-access</link>
       <description><![CDATA[
-            随时随地监视和控制您的代理。
+            使用远程控制从任何设备继续本地会话
           
 
 讨论
@@ -200,6 +172,34 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/helixdb</guid>
       <pubDate>Sat, 21 Feb 2026 15:31:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>这里</title>
+      <link>https://www.producthunt.com/products/muno-2</link>
+      <description><![CDATA[
+            人工智能代理可以与您的团队交谈并为您完成任务。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/muno-2</guid>
+      <pubDate>Mon, 16 Feb 2026 08:20:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>炼金术</title>
+      <link>https://www.producthunt.com/products/alkemi</link>
+      <description><![CDATA[
+            您在 Slack 中的 AI 数据队友
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/alkemi</guid>
+      <pubDate>Fri, 13 Feb 2026 18:23:38 GMT</pubDate>
     </item>
     <item>
       <title>超级组</title>
