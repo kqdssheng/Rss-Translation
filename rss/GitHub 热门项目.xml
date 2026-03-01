@@ -4,9 +4,65 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 01 Mar 2026 02:22:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 12:49:09 GMT</lastBuildDate>
     <item>
-      <title>提示 URL</title>
+      <title>这</title>
+      <link>https://www.producthunt.com/products/browser-use</link>
+      <description><![CDATA[
+            云中的张开爪
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/browser-use</guid>
+      <pubDate>Sun, 01 Mar 2026 06:26:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>克劳德导入记忆</title>
+      <link>https://www.producthunt.com/products/claude-in-powerpoint</link>
+      <description><![CDATA[
+            通过导入内存功能从 ChatGPT 切换到 Claude
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/claude-in-powerpoint</guid>
+      <pubDate>Sun, 01 Mar 2026 05:55:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>开方</title>
+      <link>https://www.producthunt.com/products/openfang</link>
+      <description><![CDATA[
+            开源代理操作系统
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/openfang</guid>
+      <pubDate>Sun, 01 Mar 2026 01:50:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>赫里卡</title>
+      <link>https://www.producthunt.com/products/hearica</link>
+      <description><![CDATA[
+            将所有计算机音频转换为聋人字幕 
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/hearica</guid>
+      <pubDate>Sat, 28 Feb 2026 11:52:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>提示URL</title>
       <link>https://www.producthunt.com/products/prompturls</link>
       <description><![CDATA[
             将任何提示转为 ChatGPT 的可共享 URL，Claude 
@@ -18,20 +74,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/prompturls</guid>
       <pubDate>Sat, 28 Feb 2026 04:59:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>推销</title>
-      <link>https://www.producthunt.com/products/sellshots-2</link>
-      <description><![CDATA[
-            秒级高转AI产品照片
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/sellshots-2</guid>
-      <pubDate>Fri, 27 Feb 2026 22:00:36 GMT</pubDate>
     </item>
     <item>
       <title>冲浪池</title>
@@ -48,74 +90,32 @@
       <pubDate>Fri, 27 Feb 2026 16:43:21 GMT</pubDate>
     </item>
     <item>
-      <title>利爪新闻</title>
-      <link>https://www.producthunt.com/products/the-claw-news</link>
+      <title>谷歌人工智能边缘画廊</title>
+      <link>https://www.producthunt.com/products/google</link>
       <description><![CDATA[
-            OpenClaw 代理发布每日新闻 
+            将设备上的功能调用引入 iPhone
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/the-claw-news</guid>
-      <pubDate>Fri, 27 Feb 2026 08:33:14 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/google</guid>
+      <pubDate>Fri, 27 Feb 2026 13:56:51 GMT</pubDate>
     </item>
     <item>
-      <title>运行Whatdoiwear</title>
-      <link>https://www.producthunt.com/products/whatdoiwear-run</link>
+      <title>沃伊克</title>
+      <link>https://www.producthunt.com/products/voicr</link>
       <description><![CDATA[
-            现代跑步者的装备引擎
+            输入您的声音，输出精美的文本 - 只需几秒钟
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/whatdoiwear-run</guid>
-      <pubDate>Thu, 26 Feb 2026 15:53:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>米恩特工作室</title>
-      <link>https://www.producthunt.com/products/mvntstudio</link>
-      <description><![CDATA[
-            每首歌曲都有舞蹈生成AI！
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/mvntstudio</guid>
-      <pubDate>Thu, 26 Feb 2026 09:25:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>困惑度计算机</title>
-      <link>https://www.producthunt.com/products/perplexity-ai</link>
-      <description><![CDATA[
-            人工智能能做的一切，困惑计算机都会为你做。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/perplexity-ai</guid>
-      <pubDate>Wed, 25 Feb 2026 16:49:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>MiniMax 的 MaxClaw</title>
-      <link>https://www.producthunt.com/products/minimax-agent</link>
-      <description><![CDATA[
-            基于由 MiniMax 提供支持的 OpenClaw 的始终在线托管代理
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/minimax-agent</guid>
-      <pubDate>Wed, 25 Feb 2026 15:23:03 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/voicr</guid>
+      <pubDate>Thu, 26 Feb 2026 13:39:20 GMT</pubDate>
     </item>
     <item>
       <title>ORQL</title>
@@ -132,74 +132,32 @@
       <pubDate>Wed, 25 Feb 2026 12:28:24 GMT</pubDate>
     </item>
     <item>
-      <title>研究操作系统</title>
-      <link>https://www.producthunt.com/products/study-os</link>
+      <title>用于响应 API 的 OpenAI WebSocket 模式</title>
+      <link>https://www.producthunt.com/products/openai-websocket-mode-for-responses-api</link>
       <description><![CDATA[
-            带有任务、笔记和学习音乐的极简焦点计时器
+            持久的人工智能代理。速度提高 40%。
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/study-os</guid>
-      <pubDate>Wed, 25 Feb 2026 06:13:20 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/openai-websocket-mode-for-responses-api</guid>
+      <pubDate>Tue, 24 Feb 2026 14:27:11 GMT</pubDate>
     </item>
     <item>
-      <title>马斯特拉代码</title>
-      <link>https://www.producthunt.com/products/mastra</link>
+      <title>洞察技能</title>
+      <link>https://www.producthunt.com/products/epismo</link>
       <description><![CDATA[
-            永不压缩的 AI 编码代理
+            您的代理可靠运行所需的一切
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/mastra</guid>
-      <pubDate>Tue, 24 Feb 2026 22:23:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google 实验室的生产者 AI</title>
-      <link>https://www.producthunt.com/products/google</link>
-      <description><![CDATA[
-            与您的 AI 联合制作人将想法转化为曲目
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/google</guid>
-      <pubDate>Tue, 24 Feb 2026 14:08:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>克劳德在 Excel 中</title>
-      <link>https://www.producthunt.com/products/claude</link>
-      <description><![CDATA[
-            与您的电子表格聊天。修复、构建、测试场景。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/claude</guid>
-      <pubDate>Mon, 23 Feb 2026 13:16:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>慰藉</title>
-      <link>https://www.producthunt.com/products/solace-8</link>
-      <description><![CDATA[
-            Mac 的外观与您周围的世界保持一致。 
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/solace-8</guid>
-      <pubDate>Mon, 23 Feb 2026 13:11:14 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/epismo</guid>
+      <pubDate>Mon, 23 Feb 2026 08:02:36 GMT</pubDate>
     </item>
     <item>
       <title>像素</title>
@@ -214,6 +172,48 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/pixel-10</guid>
       <pubDate>Thu, 19 Feb 2026 21:49:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>诺特拉</title>
+      <link>https://www.producthunt.com/products/notra-3</link>
+      <description><![CDATA[
+            将您的日常工作转化为可发布的内容
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/notra-3</guid>
+      <pubDate>Thu, 19 Feb 2026 19:23:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>辛普拉拉2.0</title>
+      <link>https://www.producthunt.com/products/simplora</link>
+      <description><![CDATA[
+            具有免费准备、笔记和聊天功能的代理会议堆栈
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/simplora</guid>
+      <pubDate>Wed, 18 Feb 2026 22:18:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>奥克特拉菲克</title>
+      <link>https://www.producthunt.com/products/octrafic</link>
+      <description><![CDATA[
+            直接从终端用简单的英语测试您的 API
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/octrafic</guid>
+      <pubDate>Wed, 18 Feb 2026 18:40:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
