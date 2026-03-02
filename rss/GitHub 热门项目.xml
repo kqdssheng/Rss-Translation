@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 01 Mar 2026 12:49:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 02:06:19 GMT</lastBuildDate>
     <item>
       <title>这</title>
       <link>https://www.producthunt.com/products/browser-use</link>
@@ -21,7 +21,7 @@
     </item>
     <item>
       <title>克劳德导入记忆</title>
-      <link>https://www.producthunt.com/products/claude-in-powerpoint</link>
+      <link>https://www.producthunt.com/products/claude</link>
       <description><![CDATA[
             通过导入内存功能从 ChatGPT 切换到 Claude
           
@@ -30,7 +30,7 @@
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/claude-in-powerpoint</guid>
+      <guid>https://www.producthunt.com/products/claude</guid>
       <pubDate>Sun, 01 Mar 2026 05:55:54 GMT</pubDate>
     </item>
     <item>
@@ -62,20 +62,6 @@
       <pubDate>Sat, 28 Feb 2026 11:52:43 GMT</pubDate>
     </item>
     <item>
-      <title>提示URL</title>
-      <link>https://www.producthunt.com/products/prompturls</link>
-      <description><![CDATA[
-            将任何提示转为 ChatGPT 的可共享 URL，Claude 
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/prompturls</guid>
-      <pubDate>Sat, 28 Feb 2026 04:59:39 GMT</pubDate>
-    </item>
-    <item>
       <title>冲浪池</title>
       <link>https://www.producthunt.com/products/surfpool</link>
       <description><![CDATA[
@@ -104,6 +90,20 @@
       <pubDate>Fri, 27 Feb 2026 13:56:51 GMT</pubDate>
     </item>
     <item>
+      <title>利爪新闻</title>
+      <link>https://www.producthunt.com/products/the-claw-news</link>
+      <description><![CDATA[
+            OpenClaw 代理发布每日新闻 
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/the-claw-news</guid>
+      <pubDate>Fri, 27 Feb 2026 08:33:14 GMT</pubDate>
+    </item>
+    <item>
       <title>沃伊克</title>
       <link>https://www.producthunt.com/products/voicr</link>
       <description><![CDATA[
@@ -118,18 +118,18 @@
       <pubDate>Thu, 26 Feb 2026 13:39:20 GMT</pubDate>
     </item>
     <item>
-      <title>ORQL</title>
-      <link>https://www.producthunt.com/products/stop-coding-blind-ai-that-sees-the-ui</link>
+      <title>研究操作系统</title>
+      <link>https://www.producthunt.com/products/study-os</link>
       <description><![CDATA[
-            前端的光标。在 Chrome 和 VS Code 中构建和调试。
+            带有任务、笔记和学习音乐的极简焦点计时器
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/stop-coding-blind-ai-that-sees-the-ui</guid>
-      <pubDate>Wed, 25 Feb 2026 12:28:24 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/study-os</guid>
+      <pubDate>Wed, 25 Feb 2026 06:13:20 GMT</pubDate>
     </item>
     <item>
       <title>用于响应 API 的 OpenAI WebSocket 模式</title>
