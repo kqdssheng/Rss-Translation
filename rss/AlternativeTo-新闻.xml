@@ -4,7 +4,38 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Mon, 02 Mar 2026 12:58:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 02:08:18 GMT</lastBuildDate>
+    <item>
+      <title>Automattic 结束了 Simplenote 的积极开发，仅继续进行基本维护</title>
+      <link>https://alternativeto.net/news/2026/3/automattic-ends-simplenote-active-development-only-basic-maintenance-continues/</link>
+      <description><![CDATA[Automattic 已正式确认其成熟的笔记应用程序 Simplenote 的积极开发工作已结束。根据该服务论坛最近发布的公告，该公司澄清称没有计划推出新功能或增强功能。相反，今后只会保留基本功能。
+虽然维护工作继续保持 Simplenote 的运行，但更新的速度多年来一直很缓慢，在此期间 Automattic 只发布了微小的更改。因此，只要服务仍然可用，大多数用户在短期内不会看到明显的差异。
+鉴于开发的转变，寻求替代方案的用户可以转向一系列类似的应用程序。 Obsidian 和 Logseq 等选项支持高级笔记组织和知识库。建议使用 Joplin 来管理任务和笔记。对于那些注重隐私的人来说，Standard Notes 和 Notesnook 都提供端到端加密。对其他替代方案感兴趣的用户可以在笔记类别中找到其他选项。
+查看有关 AlternativeTo 的文章有关 Simplenote 的更多信息 | Simplenote 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/automattic-ends-simplenote-active-development-only-basic-maintenance-continues/</guid>
+      <pubDate>Mon, 02 Mar 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Obsidian Sync 现在支持工作流程自动化、CI 管道等的无头操作</title>
+      <link>https://alternativeto.net/news/2026/3/obsidian-sync-now-supports-headless-operation-for-workflow-automation-ci-pipelines-and-more/</link>
+      <description><![CDATA[Obsidian 推出了 Obsidian Sync 的无头客户端，允许用户在不使用传统桌面应用程序的情况下同步保管库。此更新满足了需要与自动化工具集成的开发人员和高级用户的需求。
+在此基础上，Obsidian Headless 进入公开测试版，可以通过命令行安装使用。新客户端特别针对持续集成管道、软件代理和工作流自动化场景。用户可以运行命令来提取最新更改或保持文件持续更新，支持跨各种环境的自动同步。
+从安全角度来看，无头同步通过对所有数据传输采用相同的端到端加密和隐私保护来保持与桌面版本的同等性。此功能对于处理敏感笔记和知识库的组织至关重要。
+关于文件处理，用于设置文件创建时间戳（出生时间）的预构建本机插件现在可用于 Windows 和 macOS。从服务器下载文件时，这会保留原始创建日期，从而有助于归档工作流程中的文件来源。相比之下，Linux系统不支持出生时间，因此省略了该附加组件；同步继续进行常规时间戳处理。
+查看有关 AlternativeTo 的文章更多信息黑曜石 | 黑曜石替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/obsidian-sync-now-supports-headless-operation-for-workflow-automation-ci-pipelines-and-more/</guid>
+      <pubDate>Mon, 02 Mar 2026 14:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zen Web 浏览器引入了实时文件夹、Firefox 148 核心、Linux 性能提升等</title>
+      <link>https://alternativeto.net/news/2026/3/zen-web-browser-introduces-live-folders-firefox-148-core-linux-performance-boost-and-more/</link>
+      <description><![CDATA[Zen 是从 Mozilla Firefox 派生的开源网络浏览器，引入了自动文件夹填充功能，可将 GitHub 问题、拉取请求和 RSS 提要直接带到您的浏览器文件夹中。此更新使用户无需手动访问站点即可跟踪项目更新或新闻源。
+除此之外，Zen 现在在 Firefox 148 浏览器核心上运行，提供从最新 Mozilla 版本继承的更新的 Web 标准和性能改进。对于那些使用多个选项卡的用户，将一个选项卡拖到另一个选项卡上一秒钟现在可以提供选项卡拆分选项。如果用户在按下“取消分割”按钮的同时按住 Shift 键，焦点仍保留在当前分割视图上，而不是移动。
+macOS 用户受益于原生弹出用户界面，使 Zen 的外观与 macOS 设计更加一致。用于自定义文件夹和选项卡的图标选择器已经过改进，允许在不关闭选择器窗口的情况下选择图标。在改善跨平台体验的同时，Zen 的 Linux 版本现在通过删除底部窗口圆角，加载速度更快，消耗的资源更少，直到上游问题得到解决。最后，当使用单边栏模式时，任何溢出的 Web 扩展现在都可以方便地显示在 URL 栏下方，以提高可访问性。
+查看有关 AlternativeTo 的文章有关 Zen 的更多信息浏览器 | Zen 浏览器替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/zen-web-browser-introduces-live-folders-firefox-148-core-linux-performance-boost-and-more/</guid>
+      <pubDate>Mon, 02 Mar 2026 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Hyprland 0.54 带来了按工作空间布局、主要性能提升和 Hyprnix 集成</title>
       <link>https://alternativeto.net/news/2026/2/hyprland-0-54-brings-per-workspace-layouts-major-performance-gains-and-hyprnix-integration/</link>
@@ -120,35 +151,6 @@ Windows 用户还可以从针对 HEVC 源和硬件解码的视频预览问题的
 查看有关 AlternativeTo 的文章更多关于Qobuz | Qobuz 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/2/qobuz-cracks-down-on-ai-generated-tracks-advocating-for-human-music-creation-and-curation/</guid>
       <pubDate>Sat, 28 Feb 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Grafana 12.4 带来动态仪表板、Git Sync 和更快的仪表板设置</title>
-      <link>https://alternativeto.net/news/2026/2/grafana-12-4-brings-dynamic-dashboards-git-sync-and-faster-dashboard-setup/</link>
-      <description><![CDATA[Grafana 12.4 已发布，带来了更新的仪表板创作工作流程，并为 Grafana 13 奠定了基础。Git Sync 现已在 Grafana Cloud 中提供公共预览版，并在 Grafana OSS 和 Enterprise 中进行实验，让团队能够以代码形式管理仪表板，并更好地跟踪更改。它添加了用于存储库访问的 GitHub 应用程序身份验证，并改进了分支选择以更好地匹配常见的 Git 审核工作流程。
-动态仪表板现已在所有版本中提供公共预览版，旨在随着数据源的增长使大型仪表板更易于导航和维护。此更新添加了灵活的选项卡布局、面板、行和选项卡的显示或隐藏规则，以及可根据可用空间调整面板大小的自动网格布局。它还引入了可点击的内容大纲以实现更快的导航，并将关键控件移至右侧工具栏以释放垂直空间。
-Grafana 12.4 还在连接数据源后添加了建议的仪表板，以及从示例数据开始并可以稍后切换到真实数据的仪表板模板。可视化建议现在是面板编辑器中的默认设置，并改进了预览和建议。其他更新包括时间范围平移和缩放、改进的仪表板、对查询变量和多属性变量的改进、SCIM 配置、用于保存查询的 RBAC，以及对 Zabbix 和 Google Sheets 数据源的更新。
-查看有关 AlternativeTo 的文章更多信息Grafana | Grafana 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/grafana-12-4-brings-dynamic-dashboards-git-sync-and-faster-dashboard-setup/</guid>
-      <pubDate>Sat, 28 Feb 2026 05:58:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android 17 beta 2 添加了气泡 UI、切换 API、颜色吸管、联系人选择器等</title>
-      <link>https://alternativeto.net/news/2026/2/android-17-beta-2-adds-bubbles-ui-handoff-api-color-eyedropper-contacts-picker-and-more/</link>
-      <description><![CDATA[Google 发布了 Android 17 的第二个测试版，其势头源自今年早些时候的第一个测试版。最明显的变化之一是引入了气泡，这是一种新的窗口模式，允许用户通过长按启动器上的应用程序图标来创建浮动应用程序界面。对于拥有大屏幕或可折叠设备的用户，任务栏上会出现一个气泡栏，使他们能够组织气泡并在锚定点之间移动它们，以改进多任务处理。
-为了满足开发者的需求，Android 17 beta 2 首次推出了系统级 EyeDropper API。此功能允许应用程序从显示屏上的任何像素选择颜色，而无需屏幕捕获权限，从而平衡了实用性与隐私性。此更新还添加了一个注重隐私的联系人选择器。通过调用 ACTION_PICK_CONTACTS，用户可以仅向选定的数据字段授予基于会话的读取访问权限，从而减少对广泛 READ_CONTACTS 权限的需求。该功能涵盖个人和工作资料，提供更好的数据控制。
-新的 Handoff API 对这些增强功能进行了补充，该 API 实现了 Android 设备之间的无缝应用程序状态传输，因此用户可以在平板电脑或其他设备上接取任务，同时将中断降至最低。其他改进包括更轻松的触摸板指针捕获、两个新的高级测距 API、精细的本地网络访问权限、改进的时区处理、神经处理单元管理、扩展的 SMS 和 OTP 保护以及最新的 ICU 和 OTP 保护。 Unicode 支持。
-查看有关 AlternativeTo 的文章更多信息Android | Android 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/2/android-17-beta-2-adds-bubbles-ui-handoff-api-color-eyedropper-contacts-picker-and-more/</guid>
-      <pubDate>Fri, 27 Feb 2026 20:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AIDA64 8.25 更新：SensorPanel 固定、NVMe 支持和新的自动化工具</title>
-      <link>https://alternativeto.net/news/2026/2/aida64-8-25-update-sensorpanel-pinning-nvme-support-and-new-automation-tools/</link>
-      <description><![CDATA[AIDA64 8.25 现在支持 SensorPanel 固定到特定显示器，提高了准确性和稳定性，提高了多显示器系统的可靠性。该更新还添加了本机 NVMe 检测和报告，并引入了对 MSI MPG Ai1300TS 和 Ai1600TS 电源的直接监控。
-此外，AIDA64 的新在线命令行生成器为业务部署提供了简化的自动化。
-查看有关 AlternativeTo 的文章更多信息AIDA64 | AIDA64 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/aida64-8-25-update-sensorpanel-pinning-nvme-support-and-new-automation-tools/</guid>
-      <pubDate>Fri, 27 Feb 2026 17:20:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
