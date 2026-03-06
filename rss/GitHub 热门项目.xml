@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 05 Mar 2026 13:00:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 02:04:44 GMT</lastBuildDate>
     <item>
       <title>适用于 macOS 的 GitSync Lite</title>
       <link>https://www.producthunt.com/products/gitsync-lite-for-macos</link>
@@ -32,6 +32,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/step-3-5-flash</guid>
       <pubDate>Thu, 05 Mar 2026 04:32:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于 Windows 的 Codex 应用程序</title>
+      <link>https://www.producthunt.com/products/openai</link>
+      <description><![CDATA[
+            Codex 现在可以通过安全沙箱在 Windows 上本地运行
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/openai</guid>
+      <pubDate>Thu, 05 Mar 2026 02:57:26 GMT</pubDate>
     </item>
     <item>
       <title>隐士</title>
@@ -62,18 +76,18 @@
       <pubDate>Wed, 04 Mar 2026 23:20:50 GMT</pubDate>
     </item>
     <item>
-      <title>发痒</title>
-      <link>https://www.producthunt.com/products/itchy-2</link>
+      <title>其西连接</title>
+      <link>https://www.producthunt.com/products/itsyconnect</link>
       <description><![CDATA[
-            免费 macOS Notch 应用程序，包含 12 个以上模块和自定义 SDK
+            从 macOS 桌面应用程序管理您的 App Store Connect
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/itchy-2</guid>
-      <pubDate>Wed, 04 Mar 2026 22:25:22 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/itsyconnect</guid>
+      <pubDate>Wed, 04 Mar 2026 22:16:05 GMT</pubDate>
     </item>
     <item>
       <title>钩透镜</title>
@@ -118,20 +132,6 @@
       <pubDate>Wed, 04 Mar 2026 03:54:49 GMT</pubDate>
     </item>
     <item>
-      <title>辐</title>
-      <link>https://www.producthunt.com/products/spoke-hold-speak-done</link>
-      <description><![CDATA[
-            适用于 macOS 的私人语音转文本。按住钥匙，说话，完成。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/spoke-hold-speak-done</guid>
-      <pubDate>Tue, 03 Mar 2026 18:33:56 GMT</pubDate>
-    </item>
-    <item>
       <title>课程包</title>
       <link>https://www.producthunt.com/products/coursekit</link>
       <description><![CDATA[
@@ -163,7 +163,7 @@
       <title>看</title>
       <link>https://www.producthunt.com/products/vois</link>
       <description><![CDATA[
-            在桌面上本地运行的工作室品质语音 AI。
+            工作室品质的文本转语音和语音克隆，完全本地化
           
 
 讨论

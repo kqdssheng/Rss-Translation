@@ -4,7 +4,96 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Thu, 05 Mar 2026 13:00:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 02:04:38 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 的 AI 编码应用程序 Codex 在 Windows 上推出，具有多代理管理和沙箱功能</title>
+      <link>https://alternativeto.net/news/2026/3/openai-s-ai-coding-app-codex-launches-on-windows-with-multi-agent-management-and-sandboxing/</link>
+      <description><![CDATA[OpenAI 发布了适用于 Windows 的原生 Codex 应用程序，为开发人员提供了一个新工具来管理编码代理并直接在 Windows 环境中自动化其工作流程。此版本使用户能够同时监控多个代理并执行自动化任务，而无需切换到 Windows Subsystem for Linux (WSL) 或虚拟机。
+在此功能的基础上，Windows Codex 应用引入了利用操作系统级机制的代理沙箱功能。它使用受限令牌、文件系统访问控制和专用沙箱用户，允许代理在 PowerShell 等真实开发人员环境中安全运行。
+用户现在能够并行管理代理、监督长时间运行的自动化任务以及在单个界面中检查代码差异，同时保持在其已建立的 Windows 设置范围内。这些改进旨在简化编码活动并使 Windows 开发人员更容易使用高级自动化。
+在OpenAI 推出适用于 macOS 的专用 Codex 桌面应用一个月后推出 Windows 应用程序，这表明 OpenAI 将继续致力于在主要开发者平台上扩展 Codex 的可用性。
+查看有关 AlternativeTo 的文章有关 OpenAI 的更多信息Codex | OpenAI Codex 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/3/openai-s-ai-coding-app-codex-launches-on-windows-with-multi-agent-management-and-sandboxing/</guid>
+      <pubDate>Thu, 05 Mar 2026 17:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Optery 为 Google 和 Apple 地图引入了地图图像模糊功能</title>
+      <link>https://alternativeto.net/news/2026/3/optery-introduces-map-image-blurring-for-google-and-apple-maps/</link>
+      <description><![CDATA[Optery 推出了一项新功能，允许 Extended 和 Ultimate 套餐订阅者在 Google 地图 和 Apple 上请求模糊其家中的街道图像地图。选择加入功能是不可逆转的，并且仅限于合法拥有或控制该地址的用户。
+此更新旨在为那些关心其住所的公众可见性的人增加身体隐私。
+查看有关 AlternativeTo 的文章有关 Optery 的更多信息 | Optery 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/optery-introduces-map-image-blurring-for-google-and-apple-maps/</guid>
+      <pubDate>Thu, 05 Mar 2026 16:32:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌推出 Gemini 3.1 Flash-Lite 作为更快、更具成本效益的 AI 模型，现已提供预览版</title>
+      <link>https://alternativeto.net/news/2026/3/google-unveils-gemini-3-1-flash-lite-as-a-faster-cost-efficient-ai-model-now-in-preview/</link>
+      <description><![CDATA[Google 发布了 Gemini 3.1 Flash-Lite，它是 Gemini 3 系列的最新且最具成本效益的成员。该版本针对具有大量工作负载的开发人员，在提供质量的同时保持较低的运营成本。从今天开始，开发者可以通过 Google AI Studio 中的 Gemini API 向使用 Vertex AI 的企业提供预览版。
+Gemini 3.1 Flash-Lite 的定价为每百万个输入代币 0.25 美元，每百万个输出代币 1.50 美元，与较大型号相比，价格大幅降低，可提供具有竞争力的性能。根据 Artificial Analysis 基准数据，与前身 2.5 Flash 相比，它的首次应答令牌时间缩短了 2.5 倍，输出速度提高了 45%。 Google 报告称，这种效率使其非常适合响应式实时系统。
+性能升级后，Gemini 3.1 Flash-Lite 在 Arena.ai 排行榜上获得了 1432 分的 Elo 分数，并在推理和多模式基准测试中名列前茅。具体来说，它在 GPQA Diamond 上得分为 86.9%，在 MMMU Pro 上得分为 76.8%，表现优于前几代更大的 Gemini 型号。
+Gemini 3.1 Flash-Lite 包含 AI Studio 和 Vertex AI 中的思维级别，让开发人员能够管理模型的推理深度。该模型可以处理翻译和内容审核等大规模任务，以及用户界面生成、模拟和指令处理等更复杂的项目。
+查看有关 AlternativeTo 的文章有关 Google 的更多信息Gemini | Google Gemini 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/google-unveils-gemini-3-1-flash-lite-as-a-faster-cost-efficient-ai-model-now-in-preview/</guid>
+      <pubDate>Thu, 05 Mar 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nitrux 6.0.0 发布，带有 VxM 虚拟机管理程序、原子更新和 Wayland 欢迎程序</title>
+      <link>https://alternativeto.net/news/2026/3/nitrux-6-0-0-launches-with-vxm-hypervisor-atomic-updates-and-wayland-greeter/</link>
+      <description><![CDATA[Nitrux 6.0.0 现已与 VxM 一起使用，可使用直接 PCI 直通实现高效的多 GPU 管理程序编排。该版本首次推出 nut-cpp，这是一种现代化的客户端-服务器更新实用程序，具有原子操作、加密验证元数据以及用于安全系统更新的深度 PolicyKit 集成。
+用户通过 QMLGreet 获得新的 Wayland 原生登录问候语，并通过 NudgeOSD 获得增强的系统通知。
+专用救援模式允许使用经过验证的快照从启动菜单进行系统回滚，从而无需外部工具即可改善恢复。
+查看有关 AlternativeTo 的文章有关 Nitrux 的更多信息操作系统 | Nitrux 操作系统替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/nitrux-6-0-0-launches-with-vxm-hypervisor-atomic-updates-and-wayland-greeter/</guid>
+      <pubDate>Thu, 05 Mar 2026 15:49:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Visual Studio Code 1.110：增强的代理插件和持久会话内存</title>
+      <link>https://alternativeto.net/news/2026/3/visual-studio-code-1-110-enhanced-agent-plugins-and-persistent-session-memory/</link>
+      <description><![CDATA[Visual Studio Code 版本 1.110 引入了对代理插件的支持，使用户能够从“扩展”视图添加技能、工具和挂钩。新的代理浏览器工具允许代理通过浏览器与用户应用程序交互，而对话计划和指导现在可以保留会话内存以执行更复杂的任务。
+此外，更新还添加了聊天分叉、代理调试面板、辅助功能改进、聊天内自定义创建以及终端中的 Kitty 图形支持。
+查看有关 AlternativeTo 的文章有关 Visual Studio 的更多信息代码 | Visual Studio 代码替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/3/visual-studio-code-1-110-enhanced-agent-plugins-and-persistent-session-memory/</guid>
+      <pubDate>Thu, 05 Mar 2026 15:42:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux Mint 预览：Cinnamon 获得新的屏幕保护程序，添加传感器页面</title>
+      <link>https://alternativeto.net/news/2026/3/linux-mint-preview-cinnamon-gets-new-screensaver-sensors-page-added/</link>
+      <description><![CDATA[Linux Mint 正在推出原生集成的 Cinnamon 屏幕保护程序，该屏幕保护程序现在支持 Wayland 并提供更流畅的 UI 转换。解锁时导致短暂会话暴露的长期存在的竞争状况已在新旧屏幕保护程序中得到修复。
+此外，系统报告中的新传感器页面现在会自动显示实时硬件传感器值。
+查看有关 AlternativeTo 的文章有关 Linux 的更多信息Mint | Linux Mint 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/linux-mint-preview-cinnamon-gets-new-screensaver-sensors-page-added/</guid>
+      <pubDate>Thu, 05 Mar 2026 15:32:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Arti 2.1.0 改进了中继和 RPC 支持，彻底修改了配置</title>
+      <link>https://alternativeto.net/news/2026/3/arti-2-1-0-advances-relay-and-rpc-support-overhauls-configuration/</link>
+      <description><![CDATA[Arti 2.1.0 在中继和 RPC 开发方面取得了重大进展，并为未来的中间中继测试做好了准备。该版本还使用基于巧妙派生的方法对配置系统进行了全面检修。
+Arti 支持的最低 Rust 版本已提升至 1.89.0，并包含多项错误修复和基础设施改进。
+查看有关 AlternativeTo 的文章有关 Arti 的更多信息 | Arti 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/arti-2-1-0-advances-relay-and-rpc-support-overhauls-configuration/</guid>
+      <pubDate>Thu, 05 Mar 2026 15:24:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cursor 现已在 JetBrains IDE 中可用，提供 AI 模型选择和安全代码搜索</title>
+      <link>https://alternativeto.net/news/2026/3/cursor-is-now-available-in-jetbrains-ides-offering-ai-model-choice-and-secure-code-search/</link>
+      <description><![CDATA[Cursor 是一款由 AI 驱动的集成开发环境，现已作为 JetBrains IDE 的代理客户端协议 (ACP) 集成提供，包括IntelliJ IDEA、PyCharm 和 WebStorm。这允许这些环境中的开发人员将先进的人工智能工具引入他们现有的工作流程，从而扩大了 Cursor 的影响范围。
+通过 Cursor ACP，在 JetBrains IDE 中处理 Java 和多语言项目的用户可以利用代理驱动的开发，并选择前沿的大型语言模型。开发人员可以针对不同的用例从 OpenAI、Anthropic、Google 和 Cursor 提供的模型中进行选择。这种灵活性支持各种工作流程和项目需求。
+除了模型灵活性之外，该集成还将 Cursor 的安全代码库索引和语义搜索与 JetBrains 的深度代码智能相结合。这些功能可帮助开发人员在使用带有 Cursor ACP 的 JetBrains IDE 时理解和导航大型、复杂的企业代码库。
+首先，开发人员可以直接通过 JetBrains AI 聊天界面安装 Cursor ACP，并使用现有的 Cursor 帐户进行身份验证。所有拥有付费 Cursor 计划的用户都可以免费使用该集成。
+查看有关 AlternativeTo 的文章更多信息光标 | 光标替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/cursor-is-now-available-in-jetbrains-ides-offering-ai-model-choice-and-secure-code-search/</guid>
+      <pubDate>Thu, 05 Mar 2026 14:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>KeePass 2.61 添加了不区分变音符号的搜索、异步更新、改进的 OTP 工具等</title>
+      <link>https://alternativeto.net/news/2026/3/keepass-2-61-adds-diacritic-insensitive-search-async-updates-improved-otp-tools-and-more/</link>
+      <description><![CDATA[KeePass 2.61 已作为此免费开源密码管理器的最新版本发布。此更新在“查找”对话框中引入了新的“匹配变音符号”选项。默认情况下，搜索会忽略变音符号，从而提高管理不同凭据的用户的可访问性。如果启用了适当的设置，更新检查现在会在打开数据库之前开始。如果发现新版本，主密钥提示对话框中会出现一个横幅，以便在登录继续之前提醒用户。
+在这些更改的基础上，针对一次性密码工作流程进行了多项增强功能。现在，将共享密钥粘贴到生成器设置中可以删除 Base16/Hex、Base32 或 Base64 编码的空格，从而减少输入错误。附加按钮允许用户直接将当前的一次性密码复制到剪贴板。此外，现在可以在一次性密码对话框中查看历史条目的设置，以帮助审核和审查任务。
+同步数据库可以提高效率：在同步的最后阶段进行本地保存时，数据现在会复制到所有其他涉及的文件或 URL，这通常比以前的方法更快。同步触发器操作已扩展为通过指定多个文件或 URL 允许在单个操作中使用多个目标，并提供新的出错时 - 静默和出错时 - 继续选项。现在，在导出过程中输入不正确的主密钥允许重复尝试，这与解锁主数据库一致。此更新还提供了各种增强功能和错误修复。
+查看有关 AlternativeTo 的文章更多信息KeePass | KeePass 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/keepass-2-61-adds-diacritic-insensitive-search-async-updates-improved-otp-tools-and-more/</guid>
+      <pubDate>Thu, 05 Mar 2026 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Glaxnimate 0.6.0 增强了 KDE 集成、时间线工具、贝塞尔曲线编辑和 SVG 导出</title>
       <link>https://alternativeto.net/news/2026/3/glaxnimate-0-6-0-enhances-kde-integration-timeline-tools-bezier-editing-and-svg-export/</link>
@@ -22,7 +111,7 @@
 此外，用户还可以获得用于一对一聊天的新隐私工具。现在可以在任何私人对话中禁用共享，这会阻止消息转发并阻止屏幕截图或在聊天中保存媒体，从而促进更安全的通信。
 在增强群组管理和隐私之后，Telegram 通过其媒体编辑器扩展了创意能力。用户现在可以直接向 GIF 添加标题，并使用文本、图画、表情符号和修剪 GIF 长度的选项来编辑 GIF 或贴纸。在媒体查看器中查看的照片可以立即转换为可编辑的贴纸，从而可以在发送之前快速剪切对象并进行注释。
 基于互动功能，民意调查现在可以显示每个可见投票的时间戳，为团体决策提供更多背景信息。机器人可以提供在聊天窗口中实时传输的文本回复，从而增强与自动帐户交互时的参与度。此外，用户可以通过 Telegram 帐户凭据注册并登录外部网站和应用程序，绕过传统的表单和密码。最后，新的格式选项允许消息包含特定的日期和时间。
-查看有关 AlternativeTo 的文章更多信息Telegram | Telegram 替代方案]]></description>
+查看有关 AlternativeTo 的文章更多信息Telegram | Telegram 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/3/telegram-adds-member-tags-login-with-telegram-sharing-prevention-in-private-chats-and-more/</guid>
       <pubDate>Thu, 05 Mar 2026 08:30:00 GMT</pubDate>
     </item>
@@ -64,95 +153,6 @@ GPT‑5.3 Instant 立即可供所有 ChatGPT 用户使用，并通过 API 供开
 查看有关 AlternativeTo 的文章更多信息克劳德 | 克劳德替代品]]></description>
       <guid>https://alternativeto.net/news/2026/3/claude-s-memory-feature-lets-you-import-your-preferences-and-context-from-other-ai-providers/</guid>
       <pubDate>Tue, 03 Mar 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>IPFire 2.29 Core Update 200 带来 Linux 6.18 LTS 和域阻止列表</title>
-      <link>https://alternativeto.net/news/2026/3/ipfire-2-29-core-update-200-brings-linux-6-18-lts-and-domain-blocklist/</link>
-      <description><![CDATA[IPFire 2.29 Core Update 200 随 Linux 内核 6.18 LTS 一起发布，提供改进的网络吞吐量、增强的数据包过滤和最新的硬件安全更新。此版本首次推出了 IPFire DBL 预览版，这是可用于 URL 过滤和 Suricata 深度数据包检查的新域阻止列表系统。 Suricata 入侵防御现在会自动清除未使用的签名，并且扩展了报告功能以提供更好的警报上下文。
-查看有关 AlternativeTo 的文章更多信息IPFire | IPFire 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/ipfire-2-29-core-update-200-brings-linux-6-18-lts-and-domain-blocklist/</guid>
-      <pubDate>Tue, 03 Mar 2026 15:54:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Yoink for Mac v3.7：增强的响应能力、稳定性和 UI 改进</title>
-      <link>https://alternativeto.net/news/2026/3/yoink-for-mac-v3-7-enhanced-responsiveness-stability-and-ui-improvements/</link>
-      <description><![CDATA[Yoink for Mac v3.7 提高了应用程序响应速度和稳定性。此更新增加了剪贴板历史记录可以存储的项目数量，并优化了拖放可见性，解决了以前应用程序意外隐藏的问题。
-其他改进包括更广泛的拖动支持和 UI 增强。
-查看有关 AlternativeTo 的文章更多信息Yoink | Yoink 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/yoink-for-mac-v3-7-enhanced-responsiveness-stability-and-ui-improvements/</guid>
-      <pubDate>Tue, 03 Mar 2026 15:48:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>GIMP 3.2 RC3 带来了非光栅图层、新的颜色操作、改进的裁剪工具等等</title>
-      <link>https://alternativeto.net/news/2026/3/gimp-3-2-rc3-brings-non-raster-layers-new-color-operations-improved-crop-tool-and-more/</link>
-      <description><![CDATA[GIMP 3.2 RC3 已经发布，为使用分层图像的用户带来了重大变化。此版本引入了新的链接和矢量图层类型，加入现有的文本层以扩大创意选项。此后，GIMP 标准化了这些非光栅图层上的破坏性操作，使用户能够更安全地进行编辑，而不会无意中压平他们的工作。如果您对这些图层进行栅格化，然后又改变了主意，现在可以反转该过程，恢复原始图层。
-在这些更新的基础上，颜色样本功能已扩展到矢量图层。现在，您可以将颜色或图案样本拖到矢量图层上以更改其填充，这与文本图层已有的灵活性类似。在颜色调整方面，主要滤镜（如色阶、曲线、均衡和白平衡现在默认以线性精度运行，解决了过去的不一致问题，并通过界面和脚本提供一致的结果。
-这些核心增强功能还辅以视觉更新，包括新的启动屏幕、改进的裁剪、翻转和剪切工具以及整体用户界面改进。 GIMP 3.2 RC3 还扩展了文件格式兼容性，改进了 macOS 安装程序，增强了其 API，并提供了各种错误和安全修复。
-查看有关 AlternativeTo 的文章更多信息GIMP | GIMP 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/gimp-3-2-rc3-brings-non-raster-layers-new-color-operations-improved-crop-tool-and-more/</guid>
-      <pubDate>Tue, 03 Mar 2026 14:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>摩托罗拉与 GrapheneOS 合作，提高智能手机用户的安全性和隐私性</title>
-      <link>https://alternativeto.net/news/2026/3/motorola-partners-with-grapheneos-to-boost-smartphone-security-and-privacy-for-its-users/</link>
-      <description><![CDATA[摩托罗拉宣布与 GrapheneOS 基金会建立新的合作伙伴关系，以提高用户智能手机的安全性。该协议旨在通过与 GrapheneOS（一款以安全为重点的基于 Android 的操作系统）的创建者密切合作，加强未来摩托罗拉设备的隐私和保护功能。
-基于这种合作关系，两个组织都计划在设计未来的摩托罗拉手机时考虑到 GrapheneOS 兼容性。虽然到目前为止，GrapheneOS 仅适用于 Google Pixel 手机，但摩托罗拉的参与表明有可能扩大对其他品牌的支持，这可能会吸引注重隐私的消费者寻求更多选择。
-预计将进行进一步合作，包括正在进行的研究和软件增强，旨在为摩托罗拉用户创建新的安全功能。不过，摩托罗拉尚未透露哪些具体型号将与 GrapheneOS 兼容，该操作系统是否会预装或作为可选下载，或者何时向客户提供这些改进。
-与 GrapheneOS 合作的同时，摩托罗拉还推出了一项名为“私有图像数据”的新 Moto Secure 功能。该工具会从选定设备上拍摄的照片中删除敏感元数据，例如位置信息，并将在未来几个月内向更多用户开放。
-查看有关 AlternativeTo 的文章更多信息GrapheneOS | GrapheneOS 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/motorola-partners-with-grapheneos-to-boost-smartphone-security-and-privacy-for-its-users/</guid>
-      <pubDate>Tue, 03 Mar 2026 08:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Automattic 结束了 Simplenote 的积极开发，仅继续进行基本维护</title>
-      <link>https://alternativeto.net/news/2026/3/automattic-ends-simplenote-active-development-only-basic-maintenance-continues/</link>
-      <description><![CDATA[Automattic 已正式确认其成熟的笔记应用程序 Simplenote 的积极开发工作已结束。根据该服务论坛最近发布的公告，该公司澄清称没有计划推出新功能或增强功能。相反，今后只会保留基本功能。
-虽然维护工作继续保持 Simplenote 的运行，但更新的速度多年来一直很缓慢，在此期间 Automattic 只发布了微小的更改。因此，只要服务仍然可用，大多数用户在短期内不会看到明显的差异。
-鉴于开发的转变，寻求替代方案的用户可以转向一系列类似的应用程序。 Obsidian 和 Logseq 等选项支持高级笔记组织和知识库。建议使用 Joplin 来管理任务和笔记。对于那些注重隐私的人来说，Standard Notes 和 Notesnook 都提供端到端加密。对其他替代方案感兴趣的用户可以在笔记类别中找到其他选项。
-查看有关 AlternativeTo 的文章有关 Simplenote 的更多信息 | Simplenote 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/automattic-ends-simplenote-active-development-only-basic-maintenance-continues/</guid>
-      <pubDate>Mon, 02 Mar 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Obsidian Sync 现在支持工作流程自动化、CI 管道等的无头操作</title>
-      <link>https://alternativeto.net/news/2026/3/obsidian-sync-now-supports-headless-operation-for-workflow-automation-ci-pipelines-and-more/</link>
-      <description><![CDATA[Obsidian 推出了 Obsidian Sync 的无头客户端，允许用户在不使用传统桌面应用程序的情况下同步保管库。此更新满足了需要与自动化工具集成的开发人员和高级用户的需求。
-在此基础上，Obsidian Headless 进入公开测试版，可以通过命令行安装使用。新客户端特别针对持续集成管道、软件代理和工作流自动化场景。用户可以运行命令来提取最新更改或保持文件持续更新，支持跨各种环境的自动同步。
-从安全角度来看，无头同步通过对所有数据传输采用相同的端到端加密和隐私保护来保持与桌面版本的同等性。此功能对于处理敏感笔记和知识库的组织至关重要。
-关于文件处理，用于设置文件创建时间戳（出生时间）的预构建本机插件现在可用于 Windows 和 macOS。从服务器下载文件时，这会保留原始创建日期，从而有助于归档工作流程中的文件来源。相比之下，Linux系统不支持出生时间，因此省略了该附加组件；同步继续进行常规时间戳处理。
-查看有关 AlternativeTo 的文章更多信息黑曜石 | 黑曜石替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/obsidian-sync-now-supports-headless-operation-for-workflow-automation-ci-pipelines-and-more/</guid>
-      <pubDate>Mon, 02 Mar 2026 14:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zen Web 浏览器引入了实时文件夹、Firefox 148 核心、Linux 性能提升等</title>
-      <link>https://alternativeto.net/news/2026/3/zen-web-browser-introduces-live-folders-firefox-148-core-linux-performance-boost-and-more/</link>
-      <description><![CDATA[Zen 是从 Mozilla Firefox 派生的开源网络浏览器，引入了自动文件夹填充功能，可将 GitHub 问题、拉取请求和 RSS 提要直接带到您的浏览器文件夹中。此更新使用户无需手动访问站点即可跟踪项目更新或新闻源。
-除此之外，Zen 现在在 Firefox 148 浏览器核心上运行，提供从最新 Mozilla 版本继承的更新的 Web 标准和性能改进。对于那些使用多个选项卡的用户，将一个选项卡拖到另一个选项卡上一秒钟现在可以提供选项卡拆分选项。如果用户在按下“取消分割”按钮的同时按住 Shift 键，焦点仍保留在当前分割视图上，而不是移动。
-macOS 用户受益于原生弹出用户界面，使 Zen 的外观与 macOS 设计更加一致。用于自定义文件夹和选项卡的图标选择器已经过改进，允许在不关闭选择器窗口的情况下选择图标。在改善跨平台体验的同时，Zen 的 Linux 版本现在通过删除底部窗口圆角，加载速度更快，消耗的资源更少，直到上游问题得到解决。最后，当使用单边栏模式时，任何溢出的 Web 扩展现在都可以方便地显示在 URL 栏下方，以提高可访问性。
-查看有关 AlternativeTo 的文章有关 Zen 的更多信息浏览器 | Zen 浏览器替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/zen-web-browser-introduces-live-folders-firefox-148-core-linux-performance-boost-and-more/</guid>
-      <pubDate>Mon, 02 Mar 2026 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hyprland 0.54 带来了按工作空间布局、主要性能提升和 Hyprnix 集成</title>
-      <link>https://alternativeto.net/news/2026/2/hyprland-0-54-brings-per-workspace-layouts-major-performance-gains-and-hyprnix-integration/</link>
-      <description><![CDATA[Hyprland 0.54 已作为 Wayland 的现代合成器的最新版本发布，提供动态平铺和插件集成的更新功能。在此版本中，Hyprland 引入了一种重写的布局系统，称为按工作空间布局。此更新允许用户为每个工作区甚至每个显示器指定独特的布局，从而使配置更加简单，并支持将特定工作区设置为缩小、主控或滚动布局等设置。
-在主要布局更改之后，Hyprland 0.54 通过删除 togglesplit 和 swapsplit 调度程序来强制清理旧调度程序命令。用户现在需要使用 layoutmsg 接口来更改布局。这些后端改进与更广泛的增强相结合。以前的 hyprscrolling 插件现在直接集成到 Hyprland 的核心中，用户可以访问新的 monocle 布局，以实现集中的全窗口平铺。
-在这些功能更新的基础上，该版本还带来了重大的性能改进，特别是对于在集成图形处理单元上运行的系统。根据硬件的不同，用户可能会体验到渲染性能高达五倍的提升。此外，Hyprland 现在为 Hyprpm 和 start-hyprland 提供完整的 Nix 集成，简化了基于 Nix 的系统上的部署和配置。此版本中还包含其他细微的增强功能和错误修复。
-查看有关 AlternativeTo 的文章更多信息Hyprland | Hyprland 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/2/hyprland-0-54-brings-per-workspace-layouts-major-performance-gains-and-hyprnix-integration/</guid>
-      <pubDate>Mon, 02 Mar 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Plasma 6.6、内核 6.19.3 和 KDE Frameworks 6.23.0 登陆 openSUSE Tumbleweed</title>
-      <link>https://alternativeto.net/news/2026/3/plasma-6-6-kernel-6-19-3-and-kde-frameworks-6-23-0-land-in-opensuse-tumbleweed/</link>
-      <description><![CDATA[openSUSE Tumbleweed 于 2026 年 2 月交付了 17 个快照，带来了 Plasma 6.6 等重大升级，配备了屏幕键盘、文本识别和设置向导，以便更轻松地管理设备。 Linux 内核 迁移到 6.19.3，引入了 listns() 系统调用、扩展的硬件支持和大量错误修复。
-KDE Frameworks 6.23.0 专注于内存安全，而其他值得注意的更新包括 Mesa 26.0.1 游戏修复和 GRUB2 2.14 对不可变系统上启动过程的改进。
-安全更新也覆盖了整个堆栈，这使得本月成为稳定性和功能的重要月份。
-查看有关 AlternativeTo 的文章更多信息openSUSE | openSUSE 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/plasma-6-6-kernel-6-19-3-and-kde-frameworks-6-23-0-land-in-opensuse-tumbleweed/</guid>
-      <pubDate>Mon, 02 Mar 2026 10:25:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
