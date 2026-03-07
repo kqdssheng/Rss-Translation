@@ -4,7 +4,64 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Fri, 06 Mar 2026 12:56:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 01:57:11 GMT</lastBuildDate>
+    <item>
+      <title>OpenWrt 25.12采用apk包管理器，改进升级流程，保留shell历史记录</title>
+      <link>https://alternativeto.net/news/2026/3/openwrt-25-12-adopts-apk-package-manager-revamps-upgrade-process-preserves-shell-history/</link>
+      <description><![CDATA[OpenWrt 25.12 是这款用于嵌入式设备的基于 Linux 的开源固件的最新版本。此次更新的标题为 Dave&#39;s Guitar，旨在向 Dave Täht 致敬，他是一位致力于为 OpenWrt 用户和更广泛的互联网社区减少网络缓冲膨胀和改善延迟的关键人物。
+此版本引入了重大工作流程更改，用积极维护的 Alpine Package Keeper (apk) 替换了长期存在的 opkg 包管理器。用户可以期待最小的干扰，因为大多数功能和包名称都被保留。基于这些更改，现在默认安装有人值守的 sysupgrade (ASU) LuCI 应用程序。该工具简化了固件更新，使设备能够升级到新的 OpenWrt 版本，使用已安装的软件包自动重建固件映像，并保留配置文件，同时使用 SquashFS 文件系统改进了软件包集成。
+OpenWrt 24.10支持的大多数硬件仍然兼容，为现有用户保持升级稳定性。经过这些改进，shell 命令历史记录现在永久存储在 RAM 支持的文件系统中，防止登录过程中的数据丢失，同时避免不必要的闪存写入。 OpenWrt 视频源的集成（默认带来 Qt5 和用户界面应用程序）进一步增强了体验。此外，Wi-Fi 管理脚本已从 shell 脚本转换为 ucode，以获得更好的可维护性。此版本支持超过 180 种新设备，并且在具有更大闪存存储的设备上默认包含 owut。
+查看有关 AlternativeTo 的文章更多信息OpenWrt | OpenWrt 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/openwrt-25-12-adopts-apk-package-manager-revamps-upgrade-process-preserves-shell-history/</guid>
+      <pubDate>Fri, 06 Mar 2026 19:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ghost 现在支持欢迎电子邮件中的完整编辑器功能</title>
+      <link>https://alternativeto.net/news/2026/3/ghost-now-supports-full-editor-features-in-welcome-emails/</link>
+      <description><![CDATA[Ghost 已启用其所有编辑器功能，包括图像、按钮、书签、标注和 HTML 卡，以便在欢迎电子邮件中使用，几周前推出。
+Ghost(Pro) 用户可以立即使用这些增强功能，而自托管用户则必须更新到最新版本。
+查看有关 AlternativeTo 的文章有关 Ghost 的更多信息| 幽灵替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/ghost-now-supports-full-editor-features-in-welcome-emails/</guid>
+      <pubDate>Fri, 06 Mar 2026 17:40:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>文件 v4.0.34 更新提供更快的缩略图并减小包大小</title>
+      <link>https://alternativeto.net/news/2026/3/files-v4-0-34-update-delivers-faster-thumbnails-and-reduced-package-size/</link>
+      <description><![CDATA[Files v4.0.34 现已推出，其缩略图加载速度明显加快，可提供更灵敏的体验。此更新还将应用程序的包大小减少了 30 MB 以上。
+其他错误修复解决了项目计数和应用程序崩溃的问题。
+查看有关 AlternativeTo 的文章更多信息文件 | 文件替代]]></description>
+      <guid>https://alternativeto.net/news/2026/3/files-v4-0-34-update-delivers-faster-thumbnails-and-reduced-package-size/</guid>
+      <pubDate>Fri, 06 Mar 2026 17:34:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-5.4 现已在 GitHub Copilot 中提供给专业版和商业用户</title>
+      <link>https://alternativeto.net/news/2026/3/gpt-5-4-now-available-in-github-copilot-for-pro-and-business-users/</link>
+      <description><![CDATA[OpenAI 的 GPT-5.4 模型现已普遍适用于 GitHub使用 Pro、Pro+、Business 和 Enterprise 计划的 Copilot 用户。新模型引入了改进的逻辑推理和更好地执行复杂的多步骤编码任务。 GPT-5.4 可以在流行开发环境的更新版本中访问，包括 Visual Studio Code、JetBrains、 等。
+Copilot Enterprise 和 Business 帐户的管理员必须启用相关策略才能允许访问。
+查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/3/gpt-5-4-now-available-in-github-copilot-for-pro-and-business-users/</guid>
+      <pubDate>Fri, 06 Mar 2026 17:30:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rust 1.94 引入了数组窗口、Cargo 配置包含以及 Cargo 中的 TOML 1.1 支持</title>
+      <link>https://alternativeto.net/news/2026/3/rust-1-94-introduces-array-windows-cargo-config-inclusion-annd-toml-1-1-support-in-cargo/</link>
+      <description><![CDATA[Rust 1.94 现已推出，继续该语言对性能、类型安全、并发和内存安全的关注。主要新增内容之一是用于切片的新 array_windows 方法，它提供了一种迭代相邻的固定大小窗口 的方法，返回对恒定长度数组的引用。这使得能够对分组数据元素进行更加类型安全和高性能的处理，特别是在可以在编译时推断窗口长度的情况下。
+除了迭代器之外，Rust 包管理器 Cargo 还获得了重组功能：配置文件现在支持 include 键。这可以实现更清晰的组织和共享配置详细信息，帮助团队管理不同项目或环境中的设置。值得注意的是，包含的配置路径可以标记为可选，以适应开发人员或构建场景之间的不同设置。此外，Cargo 现在可以解析清单和配置文件中的 TOML 版本 1.1，从而允许使用更新的 TOML 语法功能并提高与工具的兼容性。
+继这些核心更新之后，Rust 1.94 还提供了多个稳定的 API 并解决了各种错误。这些更改的共同目标是增强日常开发人员体验并支持不断发展的代码库。
+查看有关 AlternativeTo 的文章更多信息Rust | Rust 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/rust-1-94-introduces-array-windows-cargo-config-inclusion-annd-toml-1-1-support-in-cargo/</guid>
+      <pubDate>Fri, 06 Mar 2026 17:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌为美国用户推出AI模式Canvas，提供创意写作和编码任务</title>
+      <link>https://alternativeto.net/news/2026/3/google-rolls-out-canvas-in-ai-mode-for-u-s-users-with-creative-writing-and-coding-tasks/</link>
+      <description><![CDATA[Google 已向美国所有英语用户提供 AI 模式下的 Canvas，为随时间推移组织计划和项目提供动态工作空间。此版本引入了一组扩展的功能，允许用户参与创意写作和编码任务。可以直接在 Google 搜索中起草文档并构建自定义交互式工具。
+在此更新之后，用户可以在 AI 模式下选择 Canvas 选项，描述所需的工具或仪表板，并接收功能原型。该原型利用来自网络和谷歌知识图谱的最新信息，集成了即时上下文的相关数据。此外，可以在同一空间内测试原型，可以切换底层代码以进行查看，并且可以通过对话式跟进进行进一步的改进，直到该工具适合预期用途。
+这些变化为各种项目提供了灵活的环境。无论是构建自定义工具、准备考试还是计划旅行，用户都可以使用 AI 模式下 Canvas 的新功能快速开始工作并根据自己的需求定制解决方案。
+查看有关 AlternativeTo 的文章有关 Google 的更多信息搜索 | Google 搜索替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/3/google-rolls-out-canvas-in-ai-mode-for-u-s-users-with-creative-writing-and-coding-tasks/</guid>
+      <pubDate>Fri, 06 Mar 2026 16:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Fastmail 的更新带来了多窗口支持、更好的撰写体验和内联回复</title>
       <link>https://alternativeto.net/news/2026/3/fastmail-s-update-brings-multi-window-support-better-compose-experience-and-inline-replies/</link>
@@ -95,64 +152,6 @@ Gemini 3.1 Flash-Lite 包含 AI Studio 和 Vertex AI 中的思维级别，让开
 查看有关 AlternativeTo 的文章有关 Nitrux 的更多信息操作系统 | Nitrux 操作系统替代品]]></description>
       <guid>https://alternativeto.net/news/2026/3/nitrux-6-0-0-launches-with-vxm-hypervisor-atomic-updates-and-wayland-greeter/</guid>
       <pubDate>Thu, 05 Mar 2026 15:49:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Visual Studio Code 1.110：增强的代理插件和持久会话内存</title>
-      <link>https://alternativeto.net/news/2026/3/visual-studio-code-1-110-enhanced-agent-plugins-and-persistent-session-memory/</link>
-      <description><![CDATA[Visual Studio Code 版本 1.110 引入了对代理插件的支持，使用户能够从“扩展”视图添加技能、工具和挂钩。新的代理浏览器工具允许代理通过浏览器与用户应用程序交互，而对话计划和指导现在可以保留会话内存以执行更复杂的任务。
-此外，更新还添加了聊天分叉、代理调试面板、辅助功能改进、聊天内自定义创建以及终端中的 Kitty 图形支持。
-查看有关 AlternativeTo 的文章有关 Visual Studio 的更多信息代码 | Visual Studio 代码替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/3/visual-studio-code-1-110-enhanced-agent-plugins-and-persistent-session-memory/</guid>
-      <pubDate>Thu, 05 Mar 2026 15:42:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux Mint 预览：Cinnamon 获得新的屏幕保护程序，添加传感器页面</title>
-      <link>https://alternativeto.net/news/2026/3/linux-mint-preview-cinnamon-gets-new-screensaver-sensors-page-added/</link>
-      <description><![CDATA[Linux Mint 正在推出原生集成的 Cinnamon 屏幕保护程序，该屏幕保护程序现在支持 Wayland 并提供更流畅的 UI 转换。解锁时导致短暂会话暴露的长期存在的竞争状况已在新旧屏幕保护程序中得到修复。
-此外，系统报告中的新传感器页面现在会自动显示实时硬件传感器值。
-查看有关 AlternativeTo 的文章有关 Linux 的更多信息Mint | Linux Mint 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/linux-mint-preview-cinnamon-gets-new-screensaver-sensors-page-added/</guid>
-      <pubDate>Thu, 05 Mar 2026 15:32:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Arti 2.1.0 改进了中继和 RPC 支持，彻底修改了配置</title>
-      <link>https://alternativeto.net/news/2026/3/arti-2-1-0-advances-relay-and-rpc-support-overhauls-configuration/</link>
-      <description><![CDATA[Arti 2.1.0 在中继和 RPC 开发方面取得了重大进展，并为未来的中间中继测试做好了准备。该版本还使用基于巧妙派生的方法对配置系统进行了全面检修。
-Arti 支持的最低 Rust 版本已提升至 1.89.0，并包含多项错误修复和基础设施改进。
-查看有关 AlternativeTo 的文章有关 Arti 的更多信息 | Arti 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/arti-2-1-0-advances-relay-and-rpc-support-overhauls-configuration/</guid>
-      <pubDate>Thu, 05 Mar 2026 15:24:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cursor 现已在 JetBrains IDE 中可用，提供 AI 模型选择和安全代码搜索</title>
-      <link>https://alternativeto.net/news/2026/3/cursor-is-now-available-in-jetbrains-ides-offering-ai-model-choice-and-secure-code-search/</link>
-      <description><![CDATA[Cursor 是一款由 AI 驱动的集成开发环境，现已作为 JetBrains IDE 的代理客户端协议 (ACP) 集成提供，包括IntelliJ IDEA、PyCharm 和 WebStorm。这允许这些环境中的开发人员将先进的人工智能工具引入他们现有的工作流程，从而扩大了 Cursor 的影响范围。
-通过 Cursor ACP，在 JetBrains IDE 中处理 Java 和多语言项目的用户可以利用代理驱动的开发，并选择前沿的大型语言模型。开发人员可以针对不同的用例从 OpenAI、Anthropic、Google 和 Cursor 提供的模型中进行选择。这种灵活性支持各种工作流程和项目需求。
-除了模型灵活性之外，该集成还将 Cursor 的安全代码库索引和语义搜索与 JetBrains 的深度代码智能相结合。这些功能可帮助开发人员在使用带有 Cursor ACP 的 JetBrains IDE 时理解和导航大型、复杂的企业代码库。
-首先，开发人员可以直接通过 JetBrains AI 聊天界面安装 Cursor ACP，并使用现有的 Cursor 帐户进行身份验证。所有拥有付费 Cursor 计划的用户都可以免费使用该集成。
-查看有关 AlternativeTo 的文章更多信息光标 | 光标替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/cursor-is-now-available-in-jetbrains-ides-offering-ai-model-choice-and-secure-code-search/</guid>
-      <pubDate>Thu, 05 Mar 2026 14:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KeePass 2.61 添加了不区分变音符号的搜索、异步更新、改进的 OTP 工具等</title>
-      <link>https://alternativeto.net/news/2026/3/keepass-2-61-adds-diacritic-insensitive-search-async-updates-improved-otp-tools-and-more/</link>
-      <description><![CDATA[KeePass 2.61 已作为此免费开源密码管理器的最新版本发布。此更新在“查找”对话框中引入了新的“匹配变音符号”选项。默认情况下，搜索会忽略变音符号，从而提高管理不同凭据的用户的可访问性。如果启用了适当的设置，更新检查现在会在打开数据库之前开始。如果发现新版本，主密钥提示对话框中会出现一个横幅，以便在登录继续之前提醒用户。
-在这些更改的基础上，针对一次性密码工作流程进行了多项增强功能。现在，将共享密钥粘贴到生成器设置中可以删除 Base16/Hex、Base32 或 Base64 编码的空格，从而减少输入错误。附加按钮允许用户直接将当前的一次性密码复制到剪贴板。此外，现在可以在一次性密码对话框中查看历史条目的设置，以帮助审核和审查任务。
-同步数据库可以提高效率：在同步的最后阶段进行本地保存时，数据现在会复制到所有其他涉及的文件或 URL，这通常比以前的方法更快。同步触发器操作已扩展为通过指定多个文件或 URL 允许在单个操作中使用多个目标，并提供新的出错时 - 静默和出错时 - 继续选项。现在，在导出过程中输入不正确的主密钥允许重复尝试，这与解锁主数据库一致。此更新还提供了各种增强功能和错误修复。
-查看有关 AlternativeTo 的文章更多信息KeePass | KeePass 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/keepass-2-61-adds-diacritic-insensitive-search-async-updates-improved-otp-tools-and-more/</guid>
-      <pubDate>Thu, 05 Mar 2026 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Glaxnimate 0.6.0 增强了 KDE 集成、时间线工具、贝塞尔曲线编辑和 SVG 导出</title>
-      <link>https://alternativeto.net/news/2026/3/glaxnimate-0-6-0-enhances-kde-integration-timeline-tools-bezier-editing-and-svg-export/</link>
-      <description><![CDATA[Glaxnimate 0.6.0 已作为开源矢量动画桌面应用程序的重大更新发布，具有实质性的平台和可用性增强功能。通过利用 KDE 基础设施，Glaxnimate 现在可以更高效地构建和部署软件包，使软件可以在 Microsoft Store 上使用，并为 Intel 和 ARM 架构提供 macOS 版本。
-除了这种扩展的可用性之外，Glaxnimate 现在还集成了 KDE 的文件恢复系统，以提高可靠性。设置和样式也采用KDE的系统，赋予用户更多的界面颜色主题和配置能力。此外，该软件现在支持的语言数量从 8 种跃升至 26 种，这极大地拓宽了全球受众的可用性。
-在这些更改之后，脚本控制台获得了基本的自动完成功能，以简化脚本任务。时间轴增强功能包括滚动改进、新添加的按钮以方便关键帧导航和编辑，以及图层可见性切换与撤消和重做系统的集成。用户还可以使用 Alt-click 手势快速切换关键帧缓动。 SVG 工作流程已更新，修改了导入和导出、对预合成的支持以及将动画导出为 SVG 帧序列的选项。进一步的更新包括贝塞尔曲线工具的改进和适用于所有形状的新反向路径操作。 上一版本中的许多错误也已得到解决。
-查看有关 AlternativeTo 的文章更多信息Glaxnimate | Glaxnimate 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/glaxnimate-0-6-0-enhances-kde-integration-timeline-tools-bezier-editing-and-svg-export/</guid>
-      <pubDate>Thu, 05 Mar 2026 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
