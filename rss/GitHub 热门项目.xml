@@ -4,7 +4,35 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 08 Mar 2026 02:06:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 12:49:45 GMT</lastBuildDate>
+    <item>
+      <title>克劳德市场</title>
+      <link>https://www.producthunt.com/products/claude-marketplace</link>
+      <description><![CDATA[
+            帮助企业轻松获得所需的AI工具
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/claude-marketplace</guid>
+      <pubDate>Sat, 07 Mar 2026 14:25:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>拉狗</title>
+      <link>https://www.producthunt.com/products/pulldog</link>
+      <description><![CDATA[
+            一个 Mac 应用程序，让您的代码审查井井有条！
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/pulldog</guid>
+      <pubDate>Sat, 07 Mar 2026 12:12:03 GMT</pubDate>
+    </item>
     <item>
       <title>奥尔莫混合动力车</title>
       <link>https://www.producthunt.com/products/allen-institute-of-artificial-intelligence</link>
@@ -76,60 +104,18 @@
       <pubDate>Fri, 06 Mar 2026 12:39:53 GMT</pubDate>
     </item>
     <item>
-      <title>兽医</title>
-      <link>https://www.producthunt.com/products/imbue-7</link>
+      <title>歌曲扫地机</title>
+      <link>https://www.producthunt.com/products/song-sweeper</link>
       <description><![CDATA[
-            让您的编码代理保持诚实
+            清理你的音乐库
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/imbue-7</guid>
-      <pubDate>Thu, 05 Mar 2026 20:14:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>科珀兰</title>
-      <link>https://www.producthunt.com/products/copperlane</link>
-      <description><![CDATA[
-            将贷款处理时间缩短为几秒钟
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/copperlane</guid>
-      <pubDate>Wed, 04 Mar 2026 15:32:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>获取贝尔</title>
-      <link>https://www.producthunt.com/products/getbeel</link>
-      <description><![CDATA[
-            让AI自动收集发票并进行对账
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/getbeel</guid>
-      <pubDate>Wed, 04 Mar 2026 11:13:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>协同聊天</title>
-      <link>https://www.producthunt.com/products/cochat</link>
-      <description><![CDATA[
-            Openclaw for Teams 安全、协作、自主
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/cochat</guid>
-      <pubDate>Tue, 03 Mar 2026 16:41:21 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/song-sweeper</guid>
+      <pubDate>Fri, 06 Mar 2026 00:52:22 GMT</pubDate>
     </item>
     <item>
       <title>Tailwind 表单生成器</title>
@@ -174,6 +160,20 @@
       <pubDate>Tue, 24 Feb 2026 14:43:02 GMT</pubDate>
     </item>
     <item>
+      <title>获取模仿</title>
+      <link>https://www.producthunt.com/products/getmimic</link>
+      <description><![CDATA[
+            使用人工智能在几秒钟内生成病毒式社交和聊天模型。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/getmimic</guid>
+      <pubDate>Sun, 22 Feb 2026 16:10:35 GMT</pubDate>
+    </item>
+    <item>
       <title>变体</title>
       <link>https://www.producthunt.com/products/variant-2</link>
       <description><![CDATA[
@@ -202,18 +202,18 @@
       <pubDate>Sat, 14 Feb 2026 19:43:21 GMT</pubDate>
     </item>
     <item>
-      <title>宝石</title>
-      <link>https://www.producthunt.com/products/gemlet</link>
+      <title>格蕾塔的氛围市场</title>
+      <link>https://www.producthunt.com/products/gretabyquestera</link>
       <description><![CDATA[
-            适用于 macOS 的本机键盘优先 Gemini 客户端
+            立即出售您运送的商品 
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/gemlet</guid>
-      <pubDate>Fri, 13 Feb 2026 20:51:20 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/gretabyquestera</guid>
+      <pubDate>Thu, 12 Feb 2026 07:37:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
