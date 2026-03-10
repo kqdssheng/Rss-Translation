@@ -4,7 +4,48 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Mon, 09 Mar 2026 13:03:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 02:00:06 GMT</lastBuildDate>
+    <item>
+      <title>Fastfetch 2.60 添加了自定义标题格式和更广泛的软件以及 MOSS 包检测</title>
+      <link>https://alternativeto.net/news/2026/3/fastfetch-2-60-adds-custom-title-formatting-and-broader-software-and-moss-package-detection/</link>
+      <description><![CDATA[Fastfetch 2.60 现已推出，为使用这个类似 neofetch 的系统信息实用程序的用户提供新功能和关键兼容性更新。在此版本之后，用于启用 Windows 7 兼容性的 CMake 选项现已默认设置为关闭，并将在版本 2.61 中完全删除，从而在下一版本中有效终止对 Windows 7 的支持。
+除了这些更改之外，Fastfetch 还引入了新的自定义选项，包括用于自定义标题格式的 {cwd}，允许显示当前工作目录。为了改善用户体验，wm.detectPlugin 功能现在默认为 true。这些改进还支持检测 Zed 版本、moss 软件包以及更广泛的窗口管理器集，包括 komorebi、FancyWM 和 GlazeWM。
+此外，此更新为 macOS 带来了窗口管理器插件版本检测功能，并支持检索 OpenBSD 上的可执行路径信息。该版本还有多项增强功能，例如新的 Linux 发行版徽标、小错误修复、内部清理和性能优化。
+查看有关 AlternativeTo 的文章更多信息Fastfetch | Fastfetch 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/3/fastfetch-2-60-adds-custom-title-formatting-and-broader-software-and-moss-package-detection/</guid>
+      <pubDate>Mon, 09 Mar 2026 19:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>HandBrake 1.11 添加了 MOV 编码、ProRes 和 DNxHR 预设、新的 AV1 4K 支持等</title>
+      <link>https://alternativeto.net/news/2026/3/handbrake-1-11-adds-mov-encoding-prores-and-dnxhr-presets-new-av1-4k-support-and-more/</link>
+      <description><![CDATA[HandBrake 1.11 已发布，作为此免费开源数字视频文件转码器的最新版本。此更新引入了 MOV 容器格式的编码，使用户能够针对依赖于这一广泛使用的标准的专业工作流程。在此基础上，新的制作预设可用于 DNxHR 和 ProRes，两者都支持 MOV 容器。这些预设支持各种分辨率的编码，包括 2160p、1080p 和 540p 的代理设置，并提供 24 位 PCM 多通道音频并支持直通工作流程。
+此更新通过扩展的 Preservation FFV1 预设提高了存档功能。用户现在可以使用 FLAC 或 PCM 音频对 FFV1 视频进行编码，并在保留源特性的同时通过 Apple Lossless、PCM 和 Vorbis 等编解码器。在视频编码方面，HandBrake 1.11 添加了专用的 DNxHR 和 ProRes 编码器，以及 AMD VCN AV1 10 位编码器和 MPEG-2 配置文件和级别选择。使用 AMD 9000 系列 GPU 的用户可以受益于新的 AV1 VCN 2160p 4K 预设，但在使用 AMD 7000 系列硬件时需要小心，因为输出尺寸可能不准确。
+这些更改之后，支持 PCM 编码和直通，以及自定义音频通道顺序选择。用户可以将 FFV1 视频混合到 MP4 容器中，并利用 Apple 软件上改进的 AV1 搜索功能。杜比视界配置文件 5 视频现在可以获得准确的颜色标记。 HandBrake 1.11 还解决了非零第一章时间戳问题，并更新了其平台构建和第三方库。
+查看有关 AlternativeTo 的文章更多信息手刹 | 手刹替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/handbrake-1-11-adds-mov-encoding-prores-and-dnxhr-presets-new-av1-4k-support-and-more/</guid>
+      <pubDate>Mon, 09 Mar 2026 17:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wine 11.4 发布，具有 MSXML 增强功能、DirectSound 音频优化和错误修复</title>
+      <link>https://alternativeto.net/news/2026/3/wine-11-4-released-with-msxml-enhancements-directsound-audio-optimizations-and-bug-fixes/</link>
+      <description><![CDATA[Wine 11.4 现已推出，它是在 Linux、macOS 和 BSD 上运行 Windows 应用程序的兼容层。此版本为寻求在 POSIX 兼容平台上使用 Windows 程序提供更流畅体验的用户提供了多项值得注意的改进。
+在主要更改中，Wine 11.4 引入了针对 Microsoft XML (MSXML) 库重新实现的 SAX 读取器。此更新旨在增强对依赖 XML 处理的 Windows 应用程序的支持。 DirectSound 中还进行了重采样优化，为通过 Wine 运行的应用程序和游戏提供更高效的音频处理。
+在这些核心更新之后，Wine 11.4 现在包含了正确实现 CFGMGR32 Windows 系统库的早期步骤，有可能扩大应用程序兼容性。 Unix 时区支持已得到改进，可实现更紧密的匹配，这将有利于对时间和区域设置数据敏感的应用程序。
+除了新功能之外，此更新还修复了影响一系列流行软件的 17 个错误，例如 Roblox Studio、Xara Xtreme 4、CodeGear RAD Studio 2009、FL Studio 和 iZotope。正在进行的错误修复有助于提高受支持应用程序的可靠性和用户体验。
+查看有关 AlternativeTo 的文章更多信息葡萄酒 | 葡萄酒替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/wine-11-4-released-with-msxml-enhancements-directsound-audio-optimizations-and-bug-fixes/</guid>
+      <pubDate>Mon, 09 Mar 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>digiKam 9.0 发布，为使用这款开源软件的摄影师提供了大规模更新</title>
+      <link>https://alternativeto.net/news/2026/3/digikam-9-0-released-as-a-massive-update-for-photographers-using-this-open-source-software/</link>
+      <description><![CDATA[digiKam 9.0 作为这款免费开源照片管理软件的主要版本发布，在核心领域进行了广泛的改进。该软件的核心代码库现已完全迁移到 AppImage 和 macOS 的 Qt 6.10.1，而 Windows 软件包则采用 Qt 6.9.1 和 KDE Frameworks 6.20.0。这一转变带来了增强的性能、安全性以及与当前操作系统更广泛的兼容性。
+在此技术升级的基础上，digiKam 9.0 引入了现代化的用户界面。用户现在可以自定义日期格式，探索完全重新设计的欢迎页面，并设置个性化的颜色标签名称。过滤器视图分为三个选项卡：属性、标签和人员，以实现更高效的导航。正则表达式通配符可用于细化目录排除规则，而列状态和文件重命名选项也获得了额外的灵活性。
+在这些变化之后，调查工具首次亮相，允许摄影师在具有辅助屏幕和全屏支持的专用窗口中高效地查看图像。该软件还为多个项目提供了批量地理定位编辑功能，更新了 G&#39;MIC-Qt 插件功能，并通过更新的 Libraw 引擎扩展了 RAW 支持。媒体预览功能现在包括工具栏标签编辑器、曝光指示器、颜色管理工具、视频播放器上下文菜单、触控板手势支持和新的放大器工具。工作流程连续性功能、搜索和排序选项、稳定性改进以及各种错误修复改进了一般用途。
+查看有关 AlternativeTo 的文章更多信息digiKam | digiKam 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/digikam-9-0-released-as-a-massive-update-for-photographers-using-this-open-source-software/</guid>
+      <pubDate>Mon, 09 Mar 2026 14:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>OpenWrt 25.12采用apk包管理器，改进升级流程，保留shell历史记录</title>
       <link>https://alternativeto.net/news/2026/3/openwrt-25-12-adopts-apk-package-manager-revamps-upgrade-process-preserves-shell-history/</link>
@@ -111,47 +152,6 @@ OpenAI 报告了 GPT-5.4 的主要基准收益，包括 OSWorld Verified、WebAr
 查看 AlternativeTo 上的文章有关 Apple Music 的更多信息 | Apple Music 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/3/apple-music-will-now-label-ai-generated-content-across-its-platform/</guid>
       <pubDate>Fri, 06 Mar 2026 05:05:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 的 AI 编码应用程序 Codex 在 Windows 上推出，具有多代理管理和沙箱功能</title>
-      <link>https://alternativeto.net/news/2026/3/openai-s-ai-coding-app-codex-launches-on-windows-with-multi-agent-management-and-sandboxing/</link>
-      <description><![CDATA[OpenAI 发布了适用于 Windows 的原生 Codex 应用程序，为开发人员提供了一个新工具来管理编码代理并直接在 Windows 环境中自动化其工作流程。此版本使用户能够同时监控多个代理并执行自动化任务，而无需切换到 Windows Subsystem for Linux (WSL) 或虚拟机。
-在此功能的基础上，Windows Codex 应用引入了利用操作系统级机制的代理沙箱功能。它使用受限令牌、文件系统访问控制和专用沙箱用户，允许代理在 PowerShell 等真实开发人员环境中安全运行。
-用户现在能够并行管理代理、监督长时间运行的自动化任务以及在单个界面中检查代码差异，同时保持在其已建立的 Windows 设置范围内。这些改进旨在简化编码活动并使 Windows 开发人员更容易使用高级自动化。
-在OpenAI 推出适用于 macOS 的专用 Codex 桌面应用一个月后推出 Windows 应用程序，这表明 OpenAI 将继续致力于在主要开发者平台上扩展 Codex 的可用性。
-查看有关 AlternativeTo 的文章有关 OpenAI 的更多信息Codex | OpenAI Codex 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/openai-s-ai-coding-app-codex-launches-on-windows-with-multi-agent-management-and-sandboxing/</guid>
-      <pubDate>Thu, 05 Mar 2026 17:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Optery 为 Google 和 Apple 地图引入了地图图像模糊功能</title>
-      <link>https://alternativeto.net/news/2026/3/optery-introduces-map-image-blurring-for-google-and-apple-maps/</link>
-      <description><![CDATA[Optery 推出了一项新功能，允许 Extended 和 Ultimate 套餐订阅者在 Google 地图 和 Apple 上请求模糊其家中的街道图像地图。选择加入功能是不可逆转的，并且仅限于合法拥有或控制该地址的用户。
-此更新旨在为那些关心其住所的公众可见性的人增加身体隐私。
-查看有关 AlternativeTo 的文章有关 Optery 的更多信息 | Optery 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/optery-introduces-map-image-blurring-for-google-and-apple-maps/</guid>
-      <pubDate>Thu, 05 Mar 2026 16:32:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌推出 Gemini 3.1 Flash-Lite 作为更快、更具成本效益的 AI 模型，现已提供预览版</title>
-      <link>https://alternativeto.net/news/2026/3/google-unveils-gemini-3-1-flash-lite-as-a-faster-cost-efficient-ai-model-now-in-preview/</link>
-      <description><![CDATA[Google 发布了 Gemini 3.1 Flash-Lite，它是 Gemini 3 系列的最新且最具成本效益的成员。该版本针对具有大量工作负载的开发人员，在提供质量的同时保持较低的运营成本。从今天开始，开发者可以通过 Google AI Studio 中的 Gemini API 向使用 Vertex AI 的企业提供预览版。
-Gemini 3.1 Flash-Lite 的定价为每百万个输入代币 0.25 美元，每百万个输出代币 1.50 美元，与较大型号相比，价格大幅降低，可提供具有竞争力的性能。根据 Artificial Analysis 基准数据，与前身 2.5 Flash 相比，它的首次应答令牌时间缩短了 2.5 倍，输出速度提高了 45%。 Google 报告称，这种效率使其非常适合响应式实时系统。
-性能升级后，Gemini 3.1 Flash-Lite 在 Arena.ai 排行榜上获得了 1432 分的 Elo 分数，并在推理和多模式基准测试中名列前茅。具体来说，它在 GPQA Diamond 上得分为 86.9%，在 MMMU Pro 上得分为 76.8%，表现优于前几代更大的 Gemini 型号。
-Gemini 3.1 Flash-Lite 包含 AI Studio 和 Vertex AI 中的思维级别，让开发人员能够管理模型的推理深度。该模型可以处理翻译和内容审核等大规模任务，以及用户界面生成、模拟和指令处理等更复杂的项目。
-查看有关 AlternativeTo 的文章有关 Google 的更多信息Gemini | Google Gemini 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/google-unveils-gemini-3-1-flash-lite-as-a-faster-cost-efficient-ai-model-now-in-preview/</guid>
-      <pubDate>Thu, 05 Mar 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nitrux 6.0.0 发布，带有 VxM 虚拟机管理程序、原子更新和 Wayland 欢迎程序</title>
-      <link>https://alternativeto.net/news/2026/3/nitrux-6-0-0-launches-with-vxm-hypervisor-atomic-updates-and-wayland-greeter/</link>
-      <description><![CDATA[Nitrux 6.0.0 现已与 VxM 一起使用，可使用直接 PCI 直通实现高效的多 GPU 管理程序编排。该版本首次推出 nut-cpp，这是一种现代化的客户端-服务器更新实用程序，具有原子操作、加密验证元数据以及用于安全系统更新的深度 PolicyKit 集成。
-用户通过 QMLGreet 获得新的 Wayland 原生登录问候语，并通过 NudgeOSD 获得增强的系统通知。
-专用救援模式允许使用经过验证的快照从启动菜单进行系统回滚，从而无需外部工具即可改善恢复。
-查看有关 AlternativeTo 的文章有关 Nitrux 的更多信息操作系统 | Nitrux 操作系统替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/nitrux-6-0-0-launches-with-vxm-hypervisor-atomic-updates-and-wayland-greeter/</guid>
-      <pubDate>Thu, 05 Mar 2026 15:49:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
