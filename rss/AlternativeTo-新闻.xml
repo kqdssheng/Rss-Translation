@@ -4,7 +4,67 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Wed, 11 Mar 2026 01:59:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 13:00:27 GMT</lastBuildDate>
+    <item>
+      <title>Ghostty 1.3 在 shell 提示中添加了回滚搜索、本机滚动条和可点击光标</title>
+      <link>https://alternativeto.net/news/2026/3/ghostty-1-3-adds-scrollback-search-native-scrollbars-and-clickable-cursor-in-shell-prompts/</link>
+      <description><![CDATA[Ghostty 1.3.0 是一款跨平台终端模拟器，以其速度和 GPU 加速的平台本机界面而闻名，引入了多项关键更新。用户现在可以搜索终端回滚、突出显示匹配项并有效地导航结果。在 macOS 和 GTK 上，搜索栏可以重新定位到终端的任何角落，以最大限度地减少视觉干扰。
+基于可用性，Ghostty 现在使用适合每个平台的本机滚动条并支持标准交互。新的更新还允许用户在长时间运行的命令完成时收到通知，从而有助于多任务处理工作流程。剪贴板复制已得到改进：内容现在在粘贴到富文本编辑器中时保留颜色和样式。
+根据社区反馈，新的配置设置允许您控制新选项卡、窗口和拆分窗格的工作目录继承。高级用户受益于扩展的按键绑定功能，包括按键表、链接按键绑定和 catch_all 键。此更新通过增加对 OSC 133 语义提示的支持来增强交互性，让用户可以在活动 shell 提示中用鼠标移动光标，在 Fish 和 Nushell 中完全支持。
+为了扩展 macOS 功能，Ghostty 添加了 AppleScript 集成，并允许用户通过拖动来重新排序拆分。 Unicode 和国际文本渲染、性能改进以及不显眼的 macOS 更新通知使该版本更加完善。
+查看有关 AlternativeTo 的文章更多信息幽灵 | 幽灵替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/ghostty-1-3-adds-scrollback-search-native-scrollbars-and-clickable-cursor-in-shell-prompts/</guid>
+      <pubDate>Wed, 11 Mar 2026 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Notesnook 3.3.9 添加了内联音频播放、图像附件和代码块语言记忆</title>
+      <link>https://alternativeto.net/news/2026/3/notesnook-3-3-9-adds-inline-audio-playback-image-attachments-and-code-block-language-memory/</link>
+      <description><![CDATA[Notesnook 3.3.9 为注重隐私和工作效率的用户提供了显着的更新。在此版本中，现在可以使用新的内联音频播放器直接在音符内播放音频文件。此功能允许用户收听语音备忘录、录音或任何支持的音频文件，而无需离开笔记编辑器或先下载内容。
+除了这些音频增强功能之外，更新还引入了一种管理视觉内容的新方法。图像现在可以作为文件附加，而不是嵌入内嵌，让用户可以将重要的参考图像与笔记一起保留，同时保持整洁的编辑空间。经过附件改进，编辑器现在可以记住上次用于代码块的语言，使任何广泛使用代码片段的人都可以更轻松地保持更快的工作流程。
+对于移动设备上的用户，管理标签已得到简化：编辑标签时，已分配给笔记的标签将显示在顶部，从而减少搜索时间。这些更改迎合了在较小屏幕上使用多个标签组织笔记的用户。
+基于隐私控制，该应用现在允许非登录用户从设置页面删除所有本地数据，支持在临时或共享设备上更安全地使用。其他改进包括改进的水平线外观、更新的提醒对话框以及其他细微的增强和错误修复。
+查看有关 AlternativeTo 的文章更多信息Notesnook | Notesnook 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/notesnook-3-3-9-adds-inline-audio-playback-image-attachments-and-code-block-language-memory/</guid>
+      <pubDate>Wed, 11 Mar 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Notion 引入了仪表板视图，将任何数据库转变为可定制的控制中心</title>
+      <link>https://alternativeto.net/news/2026/3/notion-introduces-dashboard-views-to-turn-any-database-into-a-customizable-control-center/</link>
+      <description><![CDATA[Notion 推出了仪表板视图，该功能使用户能够将看板、表格、图表和时间线整合到一个统一、一目了然的数据库布局中。用户现在可以将表格、看板、日历、图表和时间线等小部件排列到任何数据库中的单个可自定义界面中，而不是在多个数据库视图之间切换。
+仪表板是通过组装小部件创建的，每个小部件显示来自同一数据库的专用视图。全局过滤器允许用户同时在多个小部件上应用过滤器，支持小部件从 Notion 中的不同源提取数据的场景。
+虽然用户可以简单地将仪表板视图添加到任何数据库，但他们还可以选择通过斜线命令或利用 Notion Agent 来构建仪表板。当用户不确定配置时，Notion Agent 可以帮助快速建立仪表板或选择合适的小部件。为了保持一致性，仪表板视图分开编辑和查看：编辑模式可以在不影响查看者的情况下调整布局，而查看模式可以保持显示稳定。
+这些仪表板功能可供商业和企业客户使用，这使得它们对于团队状态报告、销售和管道管理、事件跟踪和活动监控等用例特别有用。
+查看有关 AlternativeTo 的文章更多信息概念 | 概念替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/notion-introduces-dashboard-views-to-turn-any-database-into-a-customizable-control-center/</guid>
+      <pubDate>Wed, 11 Mar 2026 08:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MacsyZones v2.2 引入了新的网格布局功能</title>
+      <link>https://alternativeto.net/news/2026/3/macsyzones-v2-2-introduces-new-grid-layout-feature/</link>
+      <description><![CDATA[MacsyZones v2.2 引入了网格布局，超越了传统的 FancyZones 风格。用户现在可以使用对齐键或右键单击来绘制矩形，以将窗口对齐到位。这提供了更灵活的窗口组织体验。
+查看有关 AlternativeTo 的文章有关 MacsyZones 的更多信息 | MacsyZones 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/3/macsyzones-v2-2-introduces-new-grid-layout-feature/</guid>
+      <pubDate>Wed, 11 Mar 2026 08:00:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>WooCommerce 10.6 添加了更简单的收集工具和更快的管理性能</title>
+      <link>https://alternativeto.net/news/2026/3/woocommerce-10-6-adds-easier-collection-tools-and-faster-admin-performance/</link>
+      <description><![CDATA[WooCommerce 10.6 通过更直观的品牌、标签和类别选择器简化了产品系列创建。数据库改进减少了跨产品、结帐和管理页面的 SQL 查询，并通过异步加载审核来防止管理速度变慢。
+更新的购物车和结帐块提供了带有新图标和视觉调整的更清晰的界面。
+此外，API 和过滤器顺序增强进一步扩展了定制和技术效率。
+查看有关 AlternativeTo 的文章更多信息WooCommerce | WooCommerce 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/woocommerce-10-6-adds-easier-collection-tools-and-faster-admin-performance/</guid>
+      <pubDate>Wed, 11 Mar 2026 07:53:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>ForkLift 4.5.1 增加了多项目 iCloud 删除并加快大文件操作</title>
+      <link>https://alternativeto.net/news/2026/3/forklift-4-5-1-adds-multi-item-icloud-removal-and-speeds-up-large-file-operations/</link>
+      <description><![CDATA[ForkLift 4.5.1 引入了使用上下文菜单一次从 iCloud Drive 中删除多个下载项目的功能。此更新还显着提高了准备复制或删除文件时的性能，使大文件操作更快。
+此外，还改进了与其他应用程序的拖放操作的兼容性，并修复了列表视图中列大小调整和元数据检索的几个问题。
+查看有关 AlternativeTo 的文章更多信息叉车 | 叉车替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/forklift-4-5-1-adds-multi-item-icloud-removal-and-speeds-up-large-file-operations/</guid>
+      <pubDate>Wed, 11 Mar 2026 07:42:55 GMT</pubDate>
+    </item>
     <item>
       <title>Zed 为大学生推出具有 Pro 功能的免费学生计划</title>
       <link>https://alternativeto.net/news/2026/3/zed-introduces-free-student-plan-with-pro-features-for-university-students/</link>
@@ -29,7 +89,7 @@ Zed 正在将该计划推广到世界各地的学生。
       <description><![CDATA[Microsoft 发布了 Copilot Cowork，这是 Microsoft 365 中的一项新功能，使 Copilot 能够在无需用户持续参与的情况下处理任务、运行工作流并采取有意义的操作。用户可以通过描述他们想要的结果来委派工作，而 Cowork 则根据相关电子邮件、会议、消息、文件和组织数据来执行其操作。
 基于这些功能，Copilot Cowork 使用 Work IQ 从 Outlook、Team、Excel 和其他核心 Microsoft 收集上下文365 应用程序，帮助其像用户一样理解任务。当分配任务时，Cowork 会将其转换为结构化计划，继续在后台执行，并提供定期检查点。用户保留监督权，能够在最终确定之前确认进度、调整细节、暂停执行或批准更改。从计划到行动的循环使 Copilot 能够交付已完成的工作，而不仅仅是表面信息。
 借助这些新功能，Copilot Cowork 在 Microsoft 365 的安全性和合规性边界内运行，确保身份、权限和治理策略得到维护。操作和输出是完全可审计的，而服务在受保护的沙盒云环境中运行，即使用户跨设备移动也支持持久执行。 Microsoft 集成了 Claude Cowork 的技术，使 Copilot 能够为每项工作选择最有效的 AI 模型。 Copilot Cowork 处于研究预览阶段，计划于本月晚些时候通过 Frontier 计划进行更广泛的发布。
-查看有关 AlternativeTo 的文章有关 Microsoft 的更多信息Copilot | Microsoft Copilot 替代品]]></description>
+查看有关 AlternativeTo 的文章有关 Microsoft 的更多信息Copilot | Microsoft Copilot 替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/3/microsoft-gets-its-own-claude-cowork-version-for-task-and-workflow-automation-in-365-apps/</guid>
       <pubDate>Tue, 10 Mar 2026 16:00:00 GMT</pubDate>
     </item>
@@ -95,64 +155,6 @@ Zed 正在将该计划推广到世界各地的学生。
 查看有关 AlternativeTo 的文章更多信息手刹 | 手刹替代品]]></description>
       <guid>https://alternativeto.net/news/2026/3/handbrake-1-11-adds-mov-encoding-prores-and-dnxhr-presets-new-av1-4k-support-and-more/</guid>
       <pubDate>Mon, 09 Mar 2026 17:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wine 11.4 发布，具有 MSXML 增强功能、DirectSound 音频优化和错误修复</title>
-      <link>https://alternativeto.net/news/2026/3/wine-11-4-released-with-msxml-enhancements-directsound-audio-optimizations-and-bug-fixes/</link>
-      <description><![CDATA[Wine 11.4 现已推出，它是在 Linux、macOS 和 BSD 上运行 Windows 应用程序的兼容层。此版本为寻求在 POSIX 兼容平台上使用 Windows 程序提供更流畅体验的用户提供了多项值得注意的改进。
-在主要更改中，Wine 11.4 引入了针对 Microsoft XML (MSXML) 库重新实现的 SAX 读取器。此更新旨在增强对依赖 XML 处理的 Windows 应用程序的支持。 DirectSound 中还进行了重采样优化，为通过 Wine 运行的应用程序和游戏提供更高效的音频处理。
-在这些核心更新之后，Wine 11.4 现在包含了正确实现 CFGMGR32 Windows 系统库的早期步骤，有可能扩大应用程序兼容性。 Unix 时区支持已得到改进，可实现更紧密的匹配，这将有利于对时间和区域设置数据敏感的应用程序。
-除了新功能之外，此更新还修复了影响一系列流行软件的 17 个错误，例如 Roblox Studio、Xara Xtreme 4、CodeGear RAD Studio 2009、FL Studio 和 iZotope。正在进行的错误修复有助于提高受支持应用程序的可靠性和用户体验。
-查看有关 AlternativeTo 的文章更多信息葡萄酒 | 葡萄酒替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/wine-11-4-released-with-msxml-enhancements-directsound-audio-optimizations-and-bug-fixes/</guid>
-      <pubDate>Mon, 09 Mar 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>digiKam 9.0 发布，为使用这款开源软件的摄影师提供了大规模更新</title>
-      <link>https://alternativeto.net/news/2026/3/digikam-9-0-released-as-a-massive-update-for-photographers-using-this-open-source-software/</link>
-      <description><![CDATA[digiKam 9.0 作为这款免费开源照片管理软件的主要版本发布，在核心领域进行了广泛的改进。该软件的核心代码库现已完全迁移到 AppImage 和 macOS 的 Qt 6.10.1，而 Windows 软件包则采用 Qt 6.9.1 和 KDE Frameworks 6.20.0。这一转变带来了增强的性能、安全性以及与当前操作系统更广泛的兼容性。
-在此技术升级的基础上，digiKam 9.0 引入了现代化的用户界面。用户现在可以自定义日期格式，探索完全重新设计的欢迎页面，并设置个性化的颜色标签名称。过滤器视图分为三个选项卡：属性、标签和人员，以实现更高效的导航。正则表达式通配符可用于细化目录排除规则，而列状态和文件重命名选项也获得了额外的灵活性。
-在这些变化之后，调查工具首次亮相，允许摄影师在具有辅助屏幕和全屏支持的专用窗口中高效地查看图像。该软件还为多个项目提供了批量地理定位编辑功能，更新了 G&#39;MIC-Qt 插件功能，并通过更新的 Libraw 引擎扩展了 RAW 支持。媒体预览功能现在包括工具栏标签编辑器、曝光指示器、颜色管理工具、视频播放器上下文菜单、触控板手势支持和新的放大器工具。工作流程连续性功能、搜索和排序选项、稳定性改进以及各种错误修复改进了一般用途。
-查看有关 AlternativeTo 的文章更多信息digiKam | digiKam 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/digikam-9-0-released-as-a-massive-update-for-photographers-using-this-open-source-software/</guid>
-      <pubDate>Mon, 09 Mar 2026 14:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenWrt 25.12采用apk包管理器，改进升级流程，保留shell历史记录</title>
-      <link>https://alternativeto.net/news/2026/3/openwrt-25-12-adopts-apk-package-manager-revamps-upgrade-process-preserves-shell-history/</link>
-      <description><![CDATA[OpenWrt 25.12 是这款用于嵌入式设备的基于 Linux 的开源固件的最新版本。此次更新的标题为 Dave&#39;s Guitar，旨在向 Dave Täht 致敬，他是一位致力于为 OpenWrt 用户和更广泛的互联网社区减少网络缓冲膨胀和改善延迟的关键人物。
-此版本引入了重大工作流程更改，用积极维护的 Alpine Package Keeper (apk) 替换了长期存在的 opkg 包管理器。用户可以期待最小的干扰，因为大多数功能和包名称都被保留。基于这些更改，现在默认安装有人值守的 sysupgrade (ASU) LuCI 应用程序。该工具简化了固件更新，使设备能够升级到新的 OpenWrt 版本，使用已安装的软件包自动重建固件映像，并保留配置文件，同时使用 SquashFS 文件系统改进了软件包集成。
-OpenWrt 24.10支持的大多数硬件仍然兼容，为现有用户保持升级稳定性。经过这些改进，shell 命令历史记录现在永久存储在 RAM 支持的文件系统中，防止登录过程中的数据丢失，同时避免不必要的闪存写入。 OpenWrt 视频源的集成（默认带来 Qt5 和用户界面应用程序）进一步增强了体验。此外，Wi-Fi 管理脚本已从 shell 脚本转换为 ucode，以获得更好的可维护性。此版本支持超过 180 种新设备，并且在具有更大闪存存储的设备上默认包含 owut。
-查看有关 AlternativeTo 的文章更多信息OpenWrt | OpenWrt 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/openwrt-25-12-adopts-apk-package-manager-revamps-upgrade-process-preserves-shell-history/</guid>
-      <pubDate>Fri, 06 Mar 2026 19:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ghost 现在支持欢迎电子邮件中的完整编辑器功能</title>
-      <link>https://alternativeto.net/news/2026/3/ghost-now-supports-full-editor-features-in-welcome-emails/</link>
-      <description><![CDATA[Ghost 已启用其所有编辑器功能，包括图像、按钮、书签、标注和 HTML 卡，以便在欢迎电子邮件中使用，几周前推出。
-Ghost(Pro) 用户可以立即使用这些增强功能，而自托管用户则必须更新到最新版本。
-查看有关 AlternativeTo 的文章有关 Ghost 的更多信息| 幽灵替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/ghost-now-supports-full-editor-features-in-welcome-emails/</guid>
-      <pubDate>Fri, 06 Mar 2026 17:40:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>文件 v4.0.34 更新提供更快的缩略图并减小包大小</title>
-      <link>https://alternativeto.net/news/2026/3/files-v4-0-34-update-delivers-faster-thumbnails-and-reduced-package-size/</link>
-      <description><![CDATA[Files v4.0.34 现已推出，其缩略图加载速度明显加快，可提供更灵敏的体验。此更新还将应用程序的包大小减少了 30 MB 以上。
-其他错误修复解决了项目计数和应用程序崩溃的问题。
-查看有关 AlternativeTo 的文章更多信息文件 | 文件替代]]></description>
-      <guid>https://alternativeto.net/news/2026/3/files-v4-0-34-update-delivers-faster-thumbnails-and-reduced-package-size/</guid>
-      <pubDate>Fri, 06 Mar 2026 17:34:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-5.4 现已在 GitHub Copilot 中提供给专业版和商业用户</title>
-      <link>https://alternativeto.net/news/2026/3/gpt-5-4-now-available-in-github-copilot-for-pro-and-business-users/</link>
-      <description><![CDATA[OpenAI 的 GPT-5.4 模型现已普遍适用于 GitHub使用 Pro、Pro+、Business 和 Enterprise 计划的 Copilot 用户。新模型引入了改进的逻辑推理和更好地执行复杂的多步骤编码任务。 GPT-5.4 可以在流行开发环境的更新版本中访问，包括 Visual Studio Code、JetBrains、 等。
-Copilot Enterprise 和 Business 帐户的管理员必须启用相关策略才能允许访问。
-查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/gpt-5-4-now-available-in-github-copilot-for-pro-and-business-users/</guid>
-      <pubDate>Fri, 06 Mar 2026 17:30:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
