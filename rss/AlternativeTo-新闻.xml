@@ -4,7 +4,56 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Tue, 10 Mar 2026 13:00:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 01:59:51 GMT</lastBuildDate>
+    <item>
+      <title>Zed 为大学生推出具有 Pro 功能的免费学生计划</title>
+      <link>https://alternativeto.net/news/2026/3/zed-introduces-free-student-plan-with-pro-features-for-university-students/</link>
+      <description><![CDATA[Zed 推出了一项新的学生计划，为当前注册的大学生提供一年免费使用所有 Pro 功能的机会。该计划包括每月 10 美元的 AI 代币积分、无限制的编辑预测和实时协作。如果学分用完，学生还可以提供自己的 API 密钥。
+Zed 正在将该计划推广到世界各地的学生。
+查看有关 AlternativeTo 的文章有关 Zed 的更多信息编辑器 | Zed 编辑器替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/3/zed-introduces-free-student-plan-with-pro-features-for-university-students/</guid>
+      <pubDate>Tue, 10 Mar 2026 17:16:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Notion AI 为付费用户引入图像生成和编辑</title>
+      <link>https://alternativeto.net/news/2026/3/notion-ai-introduces-image-generation-and-editing-for-paid-users/</link>
+      <description><![CDATA[Notion AI 现在允许商业和企业用户直接在 Notion 页面中生成和编辑图像。可以使用图像块中的提示或通过 Notion AI 聊天以交互方式创建或细化图像。
+自定义代理无法生成图像，移动用户目前仅限于聊天驱动的图像创建。
+查看有关 AlternativeTo 的文章有关 Notion 的更多信息| 概念替代]]></description>
+      <guid>https://alternativeto.net/news/2026/3/notion-ai-introduces-image-generation-and-editing-for-paid-users/</guid>
+      <pubDate>Tue, 10 Mar 2026 17:12:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft 推出了自己的 Claude Cowork 版本，用于 365 个应用程序中的任务和工作流程自动化</title>
+      <link>https://alternativeto.net/news/2026/3/microsoft-gets-its-own-claude-cowork-version-for-task-and-workflow-automation-in-365-apps/</link>
+      <description><![CDATA[Microsoft 发布了 Copilot Cowork，这是 Microsoft 365 中的一项新功能，使 Copilot 能够在无需用户持续参与的情况下处理任务、运行工作流并采取有意义的操作。用户可以通过描述他们想要的结果来委派工作，而 Cowork 则根据相关电子邮件、会议、消息、文件和组织数据来执行其操作。
+基于这些功能，Copilot Cowork 使用 Work IQ 从 Outlook、Team、Excel 和其他核心 Microsoft 收集上下文365 应用程序，帮助其像用户一样理解任务。当分配任务时，Cowork 会将其转换为结构化计划，继续在后台执行，并提供定期检查点。用户保留监督权，能够在最终确定之前确认进度、调整细节、暂停执行或批准更改。从计划到行动的循环使 Copilot 能够交付已完成的工作，而不仅仅是表面信息。
+借助这些新功能，Copilot Cowork 在 Microsoft 365 的安全性和合规性边界内运行，确保身份、权限和治理策略得到维护。操作和输出是完全可审计的，而服务在受保护的沙盒云环境中运行，即使用户跨设备移动也支持持久执行。 Microsoft 集成了 Claude Cowork 的技术，使 Copilot 能够为每项工作选择最有效的 AI 模型。 Copilot Cowork 处于研究预览阶段，计划于本月晚些时候通过 Frontier 计划进行更广泛的发布。
+查看有关 AlternativeTo 的文章有关 Microsoft 的更多信息Copilot | Microsoft Copilot 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/microsoft-gets-its-own-claude-cowork-version-for-task-and-workflow-automation-in-365-apps/</guid>
+      <pubDate>Tue, 10 Mar 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DuckDB 1.5 首次推出重新设计的 CLI、新的 VARIANT 类型、PEG 解析器、ODBC 扫描器等</title>
+      <link>https://alternativeto.net/news/2026/3/duckdb-1-5-debuts-reworked-cli-new-variant-type-peg-parser-odbc-scanner-and-more/</link>
+      <description><![CDATA[DuckDB 已发布版本 1.5，代号为“Variegata”，标志着此进程内 SQL OLAP 数据库引擎的重大更新。在主要功能中，终端用户的命令行界面经过了全面重新设计，引入了新的配色方案、动态提示、寻呼机以及各种便利性改进。这使得 CLI 更易于访问且更高效地进行交互式工作。
+随后，基于解析器表达式语法 (PEG) 的新实验性解析器提供了更好的查询建议、改进的错误消息，并通过扩展添加了对语法可扩展性的支持。这些解析器改进通过提供更清晰的反馈和更大的灵活性来帮助开发人员和高级用户。此外，DuckDB 现在原生支持 VARIANT 类型。该数据类型存储带有每行类型信息的类型化二进制数据，与传统 JSON 类型相比，提高了存储压缩和查询性能。
+新的工作流程功能对这些增强功能进行了补充。 read_duckdb 表函数无需在读取之前手动附加数据库，从而简化了访问。用户还可以使用 COPY 命令直接写入 Azure Blob 或 ADLSv2 存储，从而扩大云集成。此外，新的 ODBC 扫描器扩展允许直接查询远程端点。 官方发行说明中详细介绍了一些进一步的更改和增强功能。
+查看有关 AlternativeTo 的文章更多信息DuckDB | DuckDB 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/3/duckdb-1-5-debuts-reworked-cli-new-variant-type-peg-parser-odbc-scanner-and-more/</guid>
+      <pubDate>Tue, 10 Mar 2026 14:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Substack 添加草稿注释、多帖子固定、统计 CSV 导出和实时视频管理</title>
+      <link>https://alternativeto.net/news/2026/3/substack-adds-draft-notes-multi-post-pinning-stats-csv-exports-and-live-video-management/</link>
+      <description><![CDATA[Substack 发布了一系列广泛的更新，旨在简化起草、管理和发布体验。用户现在可以在 Web 和 iOS 上将笔记保存为草稿，并且计划很快支持 Android。如果启动笔记然后取消，现在可以选择将其另存为草稿，并且可以在新的草稿选项卡中轻松访问所有保存的笔记。
+基于这些写作改进，Substack 现在允许创作者将多个帖子固定到其主页，从而允许他们选择哪些帖子对访问者最可见。网页编辑器添加了对居中、右对齐和两端对齐文本的支持，使用户可以更灵活地显示帖子的显示方式。
+在技术方面，代码块支持自动语法突出显示。此功能可确保格式、间距和行号在网络、移动设备和电子邮件中保持一致，并包括供读者复制整个片段的一键选项。现在可以直接从仪表板将发布商统计数据导出为 CSV 文件，每次导出都会反映当前的过滤器和视图，从而使数据审查和分析变得更加容易。
+为了优化创作者工作流程，如果愿意，可以在仪表板上隐藏收入和订阅者数量等指标。还有一个新部分专门用于管理实时视频，将预定的流、录音和草稿集中在一个位置以提高可访问性。
+查看有关 AlternativeTo 的文章更多信息子堆栈 | 子堆栈替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/3/substack-adds-draft-notes-multi-post-pinning-stats-csv-exports-and-live-video-management/</guid>
+      <pubDate>Tue, 10 Mar 2026 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Typora 1.13 带来了 MathJax 4、Mermaid 11.12、改进的搜索性能和 UI 更新</title>
       <link>https://alternativeto.net/news/2026/3/typora-1-13-brings-mathjax-4-mermaid-11-12-improved-search-performance-and-ui-updates/</link>
@@ -104,56 +153,6 @@ Copilot Enterprise 和 Business 帐户的管理员必须启用相关策略才能
 查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/3/gpt-5-4-now-available-in-github-copilot-for-pro-and-business-users/</guid>
       <pubDate>Fri, 06 Mar 2026 17:30:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rust 1.94 引入了数组窗口、Cargo 配置包含以及 Cargo 中的 TOML 1.1 支持</title>
-      <link>https://alternativeto.net/news/2026/3/rust-1-94-introduces-array-windows-cargo-config-inclusion-annd-toml-1-1-support-in-cargo/</link>
-      <description><![CDATA[Rust 1.94 现已推出，继续该语言对性能、类型安全、并发和内存安全的关注。主要新增内容之一是用于切片的新 array_windows 方法，它提供了一种迭代相邻的固定大小窗口 的方法，返回对恒定长度数组的引用。这使得能够对分组数据元素进行更加类型安全和高性能的处理，特别是在可以在编译时推断窗口长度的情况下。
-除了迭代器之外，Rust 包管理器 Cargo 还获得了重组功能：配置文件现在支持 include 键。这可以实现更清晰的组织和共享配置详细信息，帮助团队管理不同项目或环境中的设置。值得注意的是，包含的配置路径可以标记为可选，以适应开发人员或构建场景之间的不同设置。此外，Cargo 现在可以解析清单和配置文件中的 TOML 版本 1.1，从而允许使用更新的 TOML 语法功能并提高与工具的兼容性。
-继这些核心更新之后，Rust 1.94 还提供了多个稳定的 API 并解决了各种错误。这些更改的共同目标是增强日常开发人员体验并支持不断发展的代码库。
-查看有关 AlternativeTo 的文章更多信息Rust | Rust 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/rust-1-94-introduces-array-windows-cargo-config-inclusion-annd-toml-1-1-support-in-cargo/</guid>
-      <pubDate>Fri, 06 Mar 2026 17:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌为美国用户推出AI模式Canvas，提供创意写作和编码任务</title>
-      <link>https://alternativeto.net/news/2026/3/google-rolls-out-canvas-in-ai-mode-for-u-s-users-with-creative-writing-and-coding-tasks/</link>
-      <description><![CDATA[Google 已向美国所有英语用户提供 AI 模式下的 Canvas，为随时间推移组织计划和项目提供动态工作空间。此版本引入了一组扩展的功能，允许用户参与创意写作和编码任务。可以直接在 Google 搜索中起草文档并构建自定义交互式工具。
-在此更新之后，用户可以在 AI 模式下选择 Canvas 选项，描述所需的工具或仪表板，并接收功能原型。该原型利用来自网络和谷歌知识图谱的最新信息，集成了即时上下文的相关数据。此外，可以在同一空间内测试原型，可以切换底层代码以进行查看，并且可以通过对话式跟进进行进一步的改进，直到该工具适合预期用途。
-这些变化为各种项目提供了灵活的环境。无论是构建自定义工具、准备考试还是计划旅行，用户都可以使用 AI 模式下 Canvas 的新功能快速开始工作并根据自己的需求定制解决方案。
-查看有关 AlternativeTo 的文章有关 Google 的更多信息搜索 | Google 搜索替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/3/google-rolls-out-canvas-in-ai-mode-for-u-s-users-with-creative-writing-and-coding-tasks/</guid>
-      <pubDate>Fri, 06 Mar 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fastmail 的更新带来了多窗口支持、更好的撰写体验和内联回复</title>
-      <link>https://alternativeto.net/news/2026/3/fastmail-s-update-brings-multi-window-support-better-compose-experience-and-inline-replies/</link>
-      <description><![CDATA[Fastmail 发布了其网络邮件服务的重大更新，重点是增强多任务处理和改进邮件撰写。用户现在可以使用 Shift-click 操作或键盘快捷键（例如 Shift+R 回复或 Shift+A 回复全部）在单独的窗口中打开撰写视图和对话视图。这些新的弹出窗口简化了多任务处理，而撤消发送计时器在所有打开的窗口中无缝运行，保持用户对发送消息的控制。
-在这些工作流程改进的基础上，Fastmail 现在允许回复内联显示在对话线程中，从而允许用户在写作时查看完整的上下文。如果愿意，回复可以扩展到全屏撰写视图，并且应用程序将记住每个用户对未来消息的选择。撰写界面本身现在在桌面和移动平台上实现了视觉上的统一，提供了更清晰、更一致的书写体验。
-在这些界面更改之后，阅读窗格可以位于消息列表的下方或右侧，以满足个人屏幕偏好，并使设置对于较窄的显示器更加实用。此更新还增加了根据用户偏好关闭回复或转发时的电子邮件签名的功能，并支持在桌面应用程序的对话中进行搜索，从而更轻松地在长线程中查找信息。
-查看有关 AlternativeTo 的文章更多信息Fastmail | Fastmail 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/fastmail-s-update-brings-multi-window-support-better-compose-experience-and-inline-replies/</guid>
-      <pubDate>Fri, 06 Mar 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google 与 Epic 达成和解，终止 30% 的 Play 商店费用并放宽第三方应用商店规则</title>
-      <link>https://alternativeto.net/news/2026/3/google-and-epic-settlement-ends-30-play-store-fees-and-eases-third-party-app-store-rules/</link>
-      <description><![CDATA[Google 将取消长期征收的 30% Play 商店交易费，从而改变 Android 开发者处理应用内支付和订阅的方式。修改后的结构将应用内购买的佣金降低至 20%，定期订阅的佣金降低至 10%，如果开发者依赖 Google 的结算系统，则需额外支付 5% 的费用。
-除了降低费用外，Google 还对其第三方应用商店和备用计费系统的处理方式进行了更新。通过新的注册应用程序商店计划，符合质量和安全标准的合格Android应用程序商店将受益于更简化的安装过程。该计划将首先在美国境外推出，Google 还计划将其扩展到美国，等待法院批准。
-这些更改是正在进行的反垄断诉讼的结果由 Epic Games 于 2020 年提交。作为诉讼的一部分，谷歌向旧金山联邦法院提交了拟议的更新。新的费用结构和开发者计划将于 2026 年 6 月 30 日在欧洲经济区、英国和美国推出。澳大利亚将于 9 月推出，韩国和日本将于 2026 年底推出。计划于 2027 年 9 月 30 日在全球推出。
-查看有关 AlternativeTo 的文章有关 Google Play 的更多信息商店 | Google Play 商店替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/3/google-and-epic-settlement-ends-30-play-store-fees-and-eases-third-party-app-store-rules/</guid>
-      <pubDate>Fri, 06 Mar 2026 08:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>受三星 DeX 启发，谷歌推出带有多窗口的全新 Android 桌面模式</title>
-      <link>https://alternativeto.net/news/2026/3/google-launches-new-android-desktop-mode-with-multi-window-inspired-by-samsung-dex/</link>
-      <description><![CDATA[Google 最近宣布推出适用于 Android 设备的全新官方桌面模式，从 Pixel 8 手机和更新型号以及受支持的 Pixel 平板电脑开始。这些设备现在可以通过 USB C 连接到外部显示器，并启动桌面风格的多窗口界面，使 Android 更接近于更传统的注重生产力的桌面体验，并且不可避免地会让人想起 Samsung DeX 多年来在其他设备上提供的功能
-用户可以使用兼容的集线器将 Pixel 设备连接到 USB C 显示器或 HDMI 显示器。桌面模式支持鼠标和键盘，也适用于可折叠设备。 Pixel Tablet 也得到了类似的改进，包括用于桌面式多任务处理的重叠和可调整大小的窗口。可以同时运行多个应用程序，通常约为五到七个，并且可以并排放置两个窗口，尽管该系统仍然缺乏像 Windows 上的高级捕捉工具，并且不提供 Samsung DeX 中提供的虚拟触控板样式控件。
-Google 的桌面模式还支持最多四个工作区、多用户配置文件、触摸屏显示器以及 AR 或 XR 眼镜，同时允许用户调整分辨率和方向等设置。目前，该稳定版本仅适用于 Pixel 设备，但随着其他制造商采用 Android 16 QPR3，预计会有更广泛的支持。兼容的 Pixel 用户现在无需启用开发者选项即可访问它。
-查看有关 AlternativeTo 的文章有关更多信息Android | Android 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/google-launches-new-android-desktop-mode-with-multi-window-inspired-by-samsung-dex/</guid>
-      <pubDate>Fri, 06 Mar 2026 06:41:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
