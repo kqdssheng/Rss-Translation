@@ -4,7 +4,29 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Thu, 12 Mar 2026 02:06:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 13:00:26 GMT</lastBuildDate>
+    <item>
+      <title>PeerTube 8.1 添加了更好的播客支持、域限制嵌入、3 倍播放等</title>
+      <link>https://alternativeto.net/news/2026/3/peertube-8-1-adds-better-podcast-support-domain-restricted-embeds-3x-playback-and-more/</link>
+      <description><![CDATA[PeerTube 8.1 现已推出，为这个免费、开源的 ActivityPub 联合视频托管平台带来了重要升级。在此版本中，播客创作者受益于改进的兼容性：管理员现在可以强制生成优化的音频文件，解决 HTTP 直播流和播客应用支持的大多数先前问题。
+除了这些更新之外，视频创作者还可以通过限制可以嵌入其视频的域来获得更大的控制权，从而改进内容分发的管理。此更新还提高了视频缩略图质量（尤其是播客），增加了对 WebP 和 PNG 图像格式的支持，并为未来将图像迁移到对象存储奠定了基础，为增强性能和可扩展性奠定了基础。
+继在版本 8.0 中引入 Lucide 播放器之后，所有新的 PeerTube 安装现在都将其作为默认设置，从而塑造未来的用户体验。此外，PeerTube 现在允许以高达正常速度三倍的速度观看视频，满足观众的频繁需求。
+其他改进按日期对通知进行分组并简化协作渠道管理。 PeerTube 8.1增强了与其他Fediverse服务的兼容性，细化视频搜索优化，通过优化转码队列管理加速视频发布，并增强频道同步可靠性。
+查看有关 AlternativeTo 的文章更多信息PeerTube | PeerTube 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/peertube-8-1-adds-better-podcast-support-domain-restricted-embeds-3x-playback-and-more/</guid>
+      <pubDate>Thu, 12 Mar 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kling 3.0 带来增强的真实感、2K/4K 输出、多模态视频和面部运动控制</title>
+      <link>https://alternativeto.net/news/2026/3/kling-3-0-brings-enhanced-realism-2k-4k-output-multimodal-video-and-facial-motion-control/</link>
+      <description><![CDATA[Kling 3.0 已推出，作为其 AI 文本到视频和文本到图像模型的重大升级，在两个工作流程中引入了新功能。 IMAGE 3.0 Omni 型号通过静态帧叙事解锁电影叙事体验，并得到新的图像系列模式和直接 2K 或 4K 超高清分辨率输出图像的能力的支持。这些功能增强了生成的视觉效果的真实感和一致性。
+在这些进步的基础上，IMAGE 3.0 还添加了风格转换、肖像和人物参考支持、多图像混合以及本地重新编辑。用户可以不受限制地灵活使用多个参考图像，并受益于创意和视觉效果的全面升级。
+在视频领域，Kling VIDEO 3.0 的统一多模式架构现在可以处理文本到视频、图像到视频、视频引用、视频内容添加或删除以及视频修改和转换。在这些核心变化之后，用户可以生成长度长达 15 秒的视频，利用原生音频，并体验改进的故事板、镜头控制和提示依从性。整体真实感和角色表演质量也得到了提高。
+Kling VIDEO 2.6 和 VIDEO O1 已分别转换为 VIDEO 3.0 和 VIDEO 3.0 Omni，提供了一组扩展的创意工具。最后，升级的运动控制功能可以将面部元素与多个参考图像或视频绑定，确保复杂表情和遮挡处理的面部一致性。
+查看有关 AlternativeTo 的文章有关 KLING 的更多信息人工智能 | KLING 人工智能替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/kling-3-0-brings-enhanced-realism-2k-4k-output-multimodal-video-and-facial-motion-control/</guid>
+      <pubDate>Thu, 12 Mar 2026 08:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>现在我们都长大了！ AlternativeTo 今天就满 18 岁了🎈🎂</title>
       <link>https://alternativeto.net/news/2026/3/we-re-all-grown-up-now-alternativeto-is-turning-18-today---/</link>
@@ -134,28 +156,6 @@ Zed 正在将该计划推广到世界各地的学生。
 查看有关 AlternativeTo 的文章更多信息DuckDB | DuckDB 替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/3/duckdb-1-5-debuts-reworked-cli-new-variant-type-peg-parser-odbc-scanner-and-more/</guid>
       <pubDate>Tue, 10 Mar 2026 14:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Substack 添加草稿注释、多帖子固定、统计 CSV 导出和实时视频管理</title>
-      <link>https://alternativeto.net/news/2026/3/substack-adds-draft-notes-multi-post-pinning-stats-csv-exports-and-live-video-management/</link>
-      <description><![CDATA[Substack 发布了一系列广泛的更新，旨在简化起草、管理和发布体验。用户现在可以在 Web 和 iOS 上将笔记保存为草稿，并且计划很快支持 Android。如果启动笔记然后取消，现在可以选择将其另存为草稿，并且可以在新的草稿选项卡中轻松访问所有保存的笔记。
-基于这些写作改进，Substack 现在允许创作者将多个帖子固定到其主页，从而允许他们选择哪些帖子对访问者最可见。网页编辑器添加了对居中、右对齐和两端对齐文本的支持，使用户可以更灵活地显示帖子的显示方式。
-在技术方面，代码块支持自动语法突出显示。此功能可确保格式、间距和行号在网络、移动设备和电子邮件中保持一致，并包括供读者复制整个片段的一键选项。现在可以直接从仪表板将发布商统计数据导出为 CSV 文件，每次导出都会反映当前的过滤器和视图，从而使数据审查和分析变得更加容易。
-为了优化创作者工作流程，如果愿意，可以在仪表板上隐藏收入和订阅者数量等指标。还有一个新部分专门用于管理实时视频，将预定的流、录音和草稿集中在一个位置以提高可访问性。
-查看有关 AlternativeTo 的文章更多信息子堆栈 | 子堆栈替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/3/substack-adds-draft-notes-multi-post-pinning-stats-csv-exports-and-live-video-management/</guid>
-      <pubDate>Tue, 10 Mar 2026 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Typora 1.13 带来了 MathJax 4、Mermaid 11.12、改进的搜索性能和 UI 更新</title>
-      <link>https://alternativeto.net/news/2026/3/typora-1-13-brings-mathjax-4-mermaid-11-12-improved-search-performance-and-ui-updates/</link>
-      <description><![CDATA[Typora 1.13 已发布，作为此跨平台最小 Markdown 编辑器的最新更新。此版本带来了升级的数学符号引擎，采用 MathJax 版本 4。用户受益于默认换行符支持以及对新 TeX 包和命令的扩展访问，这对于技术和学术写作非常有用。
-继数学增强之后，Typora 现在包含 Mermaid 版本 11.12。此更改通过更正文档链接地址和改进子元素渲染来增强图表工作流程。采用这些新的库版本使 Typora 更适合处理复杂内容的用户。
-基于编辑体验，Markdown 设置更改现在无需重新启动 Typora 即可生效。工具提示和专用按钮可让用户重新加载窗口并立即应用调整。搜索性能也得到了改进，可以在文档中提供更快的内容定位。虽然这些核心改进简化了可用性，但用户界面也受到关注。更新包括 macOS 上的改进源代码模式按钮和改进的侧边栏大小调整，以实现更顺畅的导航。
-对于 macOS 26.2 用户，由于导出逻辑的增强，所有 PDF 导出功能现在都可用。此外，默认的隐私立场发生了变化，新安装的“发送匿名信息”设置现在默认处于禁用状态。 Typora 1.13 是该版本的最后一个版本，它修复了多个错误，提高了整体稳定性和易用性。
-查看有关 AlternativeTo 的文章更多信息Typora | Typora 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/typora-1-13-brings-mathjax-4-mermaid-11-12-improved-search-performance-and-ui-updates/</guid>
-      <pubDate>Tue, 10 Mar 2026 11:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
