@@ -4,7 +4,39 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Wed, 11 Mar 2026 13:00:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 02:06:21 GMT</lastBuildDate>
+    <item>
+      <title>现在我们都长大了！ AlternativeTo 今天就满 18 岁了🎈🎂</title>
+      <link>https://alternativeto.net/news/2026/3/we-re-all-grown-up-now-alternativeto-is-turning-18-today---/</link>
+      <description><![CDATA[大家好，我们只是想过来分享一下这个疯狂的消息：AlternativeTo 今天就满 18 岁了 🥳 想想有点疯狂，但从技术上讲，这意味着我们已经足够大了，可以在世界上很多地方喝酒，对吧？让我们举杯吧！ 🍻 很久以前的一天，Markus 和 Ola 在瑞典开始了一个简单的想法，植根于对软件的共同热情，以及帮助人们找到更好的选择而不是满足于已有的东西的愿望。如今，它已发展成为全球数百万人使用的社区，不仅可以查找应用程序和服务，还可以分享他们对技术的热爱和知识，对此我们深表感谢。
+我们都知道新技术，尤其是人工智能，在过去几年里改变了很多事情，并且肯定会继续塑造我们与世界互动的方式。虽然这无疑也对我们产生了影响，但我们仍在建设、仍在改进，并仍在寻找新的方法，使网站对更多人更有用，包括最近的更新，例如我们的更详细的开源许可过滤器。我们还在我们的社交媒体渠道上积极分享非常酷的内容，包括新闻、隐藏的宝石应用程序、一些我们最喜欢的列表等等，我们计划逐步扩展它，以带来更多我个人相信你们中的许多人会喜欢的类型内容，因此我们希望您能够关注 X、Mastodon、主题、Bluesky 和 LinkedIN（如果您还没有）。
+最重要的是，这个周年纪念日确实是关于这个令人惊叹的社区的。感谢所有多年来与我们一起贡献、建议、编辑和帮助让 AlternativeTo 变得更好的人，感谢最近加入的每个人，感谢您参与其中 💙
+查看有关 AlternativeTo 的文章更多信息AlternativeTo | AlternativeTo 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/we-re-all-grown-up-now-alternativeto-is-turning-18-today---/</guid>
+      <pubDate>Wed, 11 Mar 2026 19:34:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google 为 Gemini 提供了更多在文档、表格、幻灯片和云端硬盘中进行协作的功能</title>
+      <link>https://alternativeto.net/news/2026/3/google-gives-gemini-more-capabilities-for-collaborating-in-docs-sheets-slides-and-drive/</link>
+      <description><![CDATA[Google 正在Gemini中引入增强功能，其中包括文档、表格、幻灯片和Drive，旨在使 AI 功能更加个性化、更强大、更具协作性。 Gemini 现在可以利用文件、电子邮件和网络中的资源，从而提取相关信息、连接数据点并生成有用的见解。
+文档中的 Gemini 充当写作助手，支持上下文内容创建、个性化写作风格，并提供新的编辑工具。经过这些写作改进，Gemini in Sheets 现在可以帮助用户创建、组织和编辑完整的电子表格，涵盖基于用户指令的基本和高级数据分析任务。
+文档和表格更新后，幻灯片中的 Gemini 提供了用于从头开始生成专业布局、完全可编辑图表和整个演示文稿、管理设计和格式以帮助用户专注于内容的工具。与此同时，Google 云端硬盘推出了Ask Gemini，将该平台从文件存储库转变为交互式助手，帮助用户高效查找信息并获得见解。
+这些升级最初以测试版的形式向 Google AI Ultra 和 Pro 订阅者推出。文档、表格和幻灯片在全球范围内提供英文版本，云端硬盘在美国提供英文版本。
+查看有关 AlternativeTo 的文章有关 Google 的更多信息Gemini | Google Gemini 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/google-gives-gemini-more-capabilities-for-collaborating-in-docs-sheets-slides-and-drive/</guid>
+      <pubDate>Wed, 11 Mar 2026 14:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fedora 44 beta 首次亮相，包含 Linux 6.19 内核、GNOME 50、KDE ​​Plasma 6.6 和安装程序更新</title>
+      <link>https://alternativeto.net/news/2026/3/fedora-44-beta-debuts-with-linux-6-19-kernel-gnome-50-kde-plasma-6-6-and-installer-updates/</link>
+      <description><![CDATA[Fedora 44 beta 现已推出，为这个著名的 Linux 发行版带来了重大更新。此版本基于 Linux 6.19 内核构建，并具有最新的桌面环境、GNOME 50 和 KDE Plasma 6.6。除了这些系统范围内的改进之外，Fedora KDE 变体还通过新的安装后 Plasma 设置应用程序提供了统一的体验。他们还过渡到 Plasma Login Manager 作为默认登录界面，取代了 SDDM。
+随着桌面的变化，游戏实验室现在使用 KDE Plasma 而不是 Xfce，并受益于更新的 Wayland 堆栈来改进游戏和开发环境。 Budgie 10.10 桌面在此测试版本中也从 X11 迁移到 Wayland。
+对于开发人员和维护人员来说，Fedora 44 beta 提供了更新的 GNU 工具链、可重复的包构建、用于 dist-git 持续集成的 Packit、删除 python-mock、新的 R 打包指南、Nix 包管理器作为附加的开发人员工具，以及包内相同文件的默认硬链接。许多软件包也已更新，包括 MariaDB 11.8、IBus 1.5.34、Golang 1.26，Django 6.x，TagLib 2，Helm 4、Ansible 13 和 TeXLive 2025。
+安装程序 Anaconda 现在仅添加用户在安装过程中配置的网络设备配置文件，解决了反复出现的网络设置问题。此外，该版本还删除了对 32 位主机的 QEMU 支持，从 Atomic 桌面中删除了 FUSE 2 二进制文件，并终止了对已弃用的 pkla polkit 规则的支持。用户还将在此测试版中发现 LiveCD 的改进以及其他细微的增强和错误修复。
+查看有关 AlternativeTo 的文章有关 Fedora 的更多信息 | Fedora 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/3/fedora-44-beta-debuts-with-linux-6-19-kernel-gnome-50-kde-plasma-6-6-and-installer-updates/</guid>
+      <pubDate>Wed, 11 Mar 2026 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Ghostty 1.3 在 shell 提示中添加了回滚搜索、本机滚动条和可点击光标</title>
       <link>https://alternativeto.net/news/2026/3/ghostty-1-3-adds-scrollback-search-native-scrollbars-and-clickable-cursor-in-shell-prompts/</link>
@@ -89,7 +121,7 @@ Zed 正在将该计划推广到世界各地的学生。
       <description><![CDATA[Microsoft 发布了 Copilot Cowork，这是 Microsoft 365 中的一项新功能，使 Copilot 能够在无需用户持续参与的情况下处理任务、运行工作流并采取有意义的操作。用户可以通过描述他们想要的结果来委派工作，而 Cowork 则根据相关电子邮件、会议、消息、文件和组织数据来执行其操作。
 基于这些功能，Copilot Cowork 使用 Work IQ 从 Outlook、Team、Excel 和其他核心 Microsoft 收集上下文365 应用程序，帮助其像用户一样理解任务。当分配任务时，Cowork 会将其转换为结构化计划，继续在后台执行，并提供定期检查点。用户保留监督权，能够在最终确定之前确认进度、调整细节、暂停执行或批准更改。从计划到行动的循环使 Copilot 能够交付已完成的工作，而不仅仅是表面信息。
 借助这些新功能，Copilot Cowork 在 Microsoft 365 的安全性和合规性边界内运行，确保身份、权限和治理策略得到维护。操作和输出是完全可审计的，而服务在受保护的沙盒云环境中运行，即使用户跨设备移动也支持持久执行。 Microsoft 集成了 Claude Cowork 的技术，使 Copilot 能够为每项工作选择最有效的 AI 模型。 Copilot Cowork 处于研究预览阶段，计划于本月晚些时候通过 Frontier 计划进行更广泛的发布。
-查看有关 AlternativeTo 的文章有关 Microsoft 的更多信息Copilot | Microsoft Copilot 替代方案]]></description>
+查看有关 AlternativeTo 的文章有关 Microsoft 的更多信息Copilot | Microsoft Copilot 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/3/microsoft-gets-its-own-claude-cowork-version-for-task-and-workflow-automation-in-365-apps/</guid>
       <pubDate>Tue, 10 Mar 2026 16:00:00 GMT</pubDate>
     </item>
@@ -124,37 +156,6 @@ Zed 正在将该计划推广到世界各地的学生。
 查看有关 AlternativeTo 的文章更多信息Typora | Typora 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/3/typora-1-13-brings-mathjax-4-mermaid-11-12-improved-search-performance-and-ui-updates/</guid>
       <pubDate>Tue, 10 Mar 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>QGIS 4.0 推出 Qt6 迁移、超过 100 个新功能以及一些已弃用的 API</title>
-      <link>https://alternativeto.net/news/2026/3/qgis-4-0-launches-with-qt6-migration-over-100-new-features-and-some-deprecated-apis/</link>
-      <description><![CDATA[QGIS 4.0已经发布，标志着这个广泛使用的开源地理信息系统的重大更新。此最新版本是长期技术迁移的结果，将软件核心过渡到 Qt6 框架。
-基于这一架构变化，QGIS 4.0 保持了用户熟悉的体验，同时引入了主要的后端增强功能。这些更新提高了可维护性并释放了集成现代库的潜力。这些变化还显着提高了性能和代码安全性，确保平台能够适应未来的发展。
-在迁移的同时，开发者社区贡献了整个应用程序的 100 多项新功能。这些新增功能增强了平台的灵活性并提高了空间数据工作流程的安全性。
-插件开发人员是此版本的重点。已弃用的 API 将尽可能保留，从而简化更新第三方工具的过程。然而，并非所有旧版 API 都能在 QGIS 4.x 系列的整个生命周期内得到保证支持，因此某些插件可能需要持续调整。
-查看有关 AlternativeTo 的文章更多信息QGIS | QGIS 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/qgis-4-0-launches-with-qt6-migration-over-100-new-features-and-some-deprecated-apis/</guid>
-      <pubDate>Tue, 10 Mar 2026 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fastfetch 2.60 添加了自定义标题格式和更广泛的软件以及 MOSS 包检测</title>
-      <link>https://alternativeto.net/news/2026/3/fastfetch-2-60-adds-custom-title-formatting-and-broader-software-and-moss-package-detection/</link>
-      <description><![CDATA[Fastfetch 2.60 现已推出，为使用这个类似 neofetch 的系统信息实用程序的用户提供新功能和关键兼容性更新。在此版本之后，用于启用 Windows 7 兼容性的 CMake 选项现已默认设置为关闭，并将在版本 2.61 中完全删除，从而在下一版本中有效终止对 Windows 7 的支持。
-除了这些更改之外，Fastfetch 还引入了新的自定义选项，包括用于自定义标题格式的 {cwd}，允许显示当前工作目录。为了改善用户体验，wm.detectPlugin 功能现在默认为 true。这些改进还支持检测 Zed 版本、moss 软件包以及更广泛的窗口管理器集，包括 komorebi、FancyWM 和 GlazeWM。
-此外，此更新为 macOS 带来了窗口管理器插件版本检测功能，并支持检索 OpenBSD 上的可执行路径信息。该版本还有多项增强功能，例如新的 Linux 发行版徽标、小错误修复、内部清理和性能优化。
-查看有关 AlternativeTo 的文章更多信息Fastfetch | Fastfetch 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/3/fastfetch-2-60-adds-custom-title-formatting-and-broader-software-and-moss-package-detection/</guid>
-      <pubDate>Mon, 09 Mar 2026 19:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>HandBrake 1.11 添加了 MOV 编码、ProRes 和 DNxHR 预设、新的 AV1 4K 支持等</title>
-      <link>https://alternativeto.net/news/2026/3/handbrake-1-11-adds-mov-encoding-prores-and-dnxhr-presets-new-av1-4k-support-and-more/</link>
-      <description><![CDATA[HandBrake 1.11 已发布，作为此免费开源数字视频文件转码器的最新版本。此更新引入了 MOV 容器格式的编码，使用户能够针对依赖于这一广泛使用的标准的专业工作流程。在此基础上，新的制作预设可用于 DNxHR 和 ProRes，两者都支持 MOV 容器。这些预设支持各种分辨率的编码，包括 2160p、1080p 和 540p 的代理设置，并提供 24 位 PCM 多通道音频并支持直通工作流程。
-此更新通过扩展的 Preservation FFV1 预设提高了存档功能。用户现在可以使用 FLAC 或 PCM 音频对 FFV1 视频进行编码，并在保留源特性的同时通过 Apple Lossless、PCM 和 Vorbis 等编解码器。在视频编码方面，HandBrake 1.11 添加了专用的 DNxHR 和 ProRes 编码器，以及 AMD VCN AV1 10 位编码器和 MPEG-2 配置文件和级别选择。使用 AMD 9000 系列 GPU 的用户可以受益于新的 AV1 VCN 2160p 4K 预设，但在使用 AMD 7000 系列硬件时需要小心，因为输出尺寸可能不准确。
-这些更改之后，支持 PCM 编码和直通，以及自定义音频通道顺序选择。用户可以将 FFV1 视频混合到 MP4 容器中，并利用 Apple 软件上改进的 AV1 搜索功能。杜比视界配置文件 5 视频现在可以获得准确的颜色标记。 HandBrake 1.11 还解决了非零第一章时间戳问题，并更新了其平台构建和第三方库。
-查看有关 AlternativeTo 的文章更多信息手刹 | 手刹替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/handbrake-1-11-adds-mov-encoding-prores-and-dnxhr-presets-new-av1-4k-support-and-more/</guid>
-      <pubDate>Mon, 09 Mar 2026 17:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
