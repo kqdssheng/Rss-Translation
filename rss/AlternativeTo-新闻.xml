@@ -4,7 +4,38 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Mon, 16 Mar 2026 13:13:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 02:06:26 GMT</lastBuildDate>
+    <item>
+      <title>Spotify 允许您编辑您的品味配置文件以更好地控制主页的推荐</title>
+      <link>https://alternativeto.net/news/2026/3/spotify-lets-you-edit-your-taste-profile-to-better-control-your-homepage-s-recommendations/</link>
+      <description><![CDATA[Spotify 正在推出一项名为Taste Profile的新测试版功能，旨在让用户更好地控制和了解他们的收听习惯如何塑造他们的个性化体验。这一新工具将在未来几周内向新西兰的高级订阅者推出，允许用户直接查看和管理影响其推荐的因素。
+基于 Spotify 现有的个性化设置，品味档案汇总了您在音乐、播客和有声读物方面的活动。它汇集了您所听的内容，包括最喜欢的艺术家、流派和收听习惯，从而影响您主页上显示的内容。用户可以通过在个人资料未达到目标时进行标记来主动影响这些推荐，例如表示对更多或更少特定氛围或特定内容的渴望。
+遵循其核心收听数据，Spotify 的品味档案现在融入了您当前的兴趣和个人习惯等信号，从而创建更深入、更准确的个性化。用户可以随心所欲地使用该功能，主动调整他们的个人资料，或者继续使用现有的建议而不进行任何更改。
+虽然Taste Profile在测试阶段向新西兰的高级用户推出，但更广泛的可用性细节尚未公布。
+查看有关 AlternativeTo 的文章更多关于Spotify | Spotify 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/spotify-lets-you-edit-your-taste-profile-to-better-control-your-homepage-s-recommendations/</guid>
+      <pubDate>Mon, 16 Mar 2026 17:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anthropic 的 Claude 现在可以通过交互式视觉效果（例如图表和图表）做出响应</title>
+      <link>https://alternativeto.net/news/2026/3/anthropic-s-claude-can-now-respond-with-interactive-visuals-such-as-charts-and-diagrams/</link>
+      <description><![CDATA[Anthropic 推出了Imagine with Claude，这是一项新功能，让 Claude 无需任何代码即可实时生成视觉效果。通过此更新，用户现在可以看到 Claude 直接在其书面回复中生成自定义图表、图表和其他可视化效果。这些视觉效果是动态的，允许用户在对话继续时请求修改或改进。
+与传统工件、用于共享的永久文档或工具不同，这些新视觉效果是临时的，旨在帮助阐明正在讨论的主题。它们在聊天过程中内联显示，并会随着对话的进展而更新、更改或消失，而不是存储在一边或保存以供以后使用。
+推出该功能后，默认情况下会为所有用户启用内联视觉生成。当 Claude 检测到需要时，它会自行生成图形，或者根据用户的直接请求创建图形。重要的是，每个 Claude 计划的用户都可以使用这种可视化功能，从而无论订阅级别如何，都可以获得实时可视化支持。
+查看有关 AlternativeTo 的文章更多信息克劳德 | 克劳德替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/anthropic-s-claude-can-now-respond-with-interactive-visuals-such-as-charts-and-diagrams/</guid>
+      <pubDate>Mon, 16 Mar 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GIMP 3.2 引入了非破坏性和矢量图层、更多画笔和其他增强功能</title>
+      <link>https://alternativeto.net/news/2026/3/gimp-3-2-introduces-non-destructive-and-vector-layers-more-brushes-and-other-enhancements/</link>
+      <description><![CDATA[GIMP 3.2 已在数次之后发布 发布 候选者，标志着这个开源光栅图形编辑器的重大更新。新版本引入了非破坏性链接层，使用户可以将外部图像直接合并到他们的作品中。这些图层可以缩放、旋转或变换，而不会损失质量，并且如果源文件发生更改，它们会自动更新。此外，路径工具现在可以创建矢量图层，从而允许具有可自定义填充和描边设置的可扩展形状。
+在这些图层改进的基础上，MyPaint Brush 工具添加了 20 个新画笔，现在可以动态适应画布缩放和旋转。艺术家还可以利用新的覆盖绘画模式，该模式允许您在不混合透明度的情况下绘制颜色。画布上的文本编辑器获得了增强的工作流程功能，例如拖放重新定位、扩展的快捷方式支持以及用于控制文本轮廓的更多选项。
+在这些工具升级之后，GIMP 3.2 增加了对新文件格式的支持，包括 DDS BC7 导出、更广泛的 PSD 兼容性以及通过矢量图层实现的 SVG 导出。印刷设计师可以获得新的 CMYK 墨水覆盖率显示，以实现更好的软打样。对于开发人员来说，GEGL 过滤器浏览器简化了非破坏性过滤器的查找过程。其他界面增强功能，例如基于主题的画笔预览、改进的图像打开和自适应配色方案，使此版本更加完善。
+查看有关 AlternativeTo 的文章更多信息GIMP | GIMP 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/gimp-3-2-introduces-non-destructive-and-vector-layers-more-brushes-and-other-enhancements/</guid>
+      <pubDate>Mon, 16 Mar 2026 14:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>亚马逊通过提价和 4k 流媒体重塑无广告订阅 Prime Video Ultra</title>
       <link>https://alternativeto.net/news/2026/3/amazon-rebrands-ad-free-subscription-to-prime-video-ultra-with-price-hike-and-4k-streaming/</link>
@@ -126,40 +157,6 @@ Kitty 0.46 最显着的变化之一是对鼠标交互的重大改进。回滚缓
 查看有关 AlternativeTo 的文章更多信息同步输入 | 同步输入替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/3/sync-in-2-1-launches-with-major-interface-refresh-and-dutch-language-support/</guid>
       <pubDate>Fri, 13 Mar 2026 17:24:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vite 8 首次亮相，具有统一且更快的 Rolldown 捆绑器、集成开发工具和 Wasm SSR</title>
-      <link>https://alternativeto.net/news/2026/3/vite-8-debuts-with-unified-and-faster-rolldown-bundler-integrated-devtools-and-wasm-ssr/</link>
-      <description><![CDATA[Vite 8 是这款流行前端构建工具的最新重大更新，标志着其自版本 2 以来最重大的变化。最突出的转变是转向统一的捆绑方法：Vite 8 现在使用基于 Rust 的捆绑器 Rolldown 作为其开发和生产的唯一解决方案。此转换可将构建速度提高 10 到 30 倍，同时确保持续的插件兼容性，从而简化所有用户的工作流程。
-继核心捆绑器整合之后，Vite 8 在其工具链中引入了更深入的集成。构建工具 (Vite)、捆绑器 (Rolldown) 和 Oxc 编译器现在协同工作，在整个堆栈中提供一致的解析、解析、转换和缩小流程。
-Vite 8 保留 Node.js 20.19+ 和 22.12+ 作为最低要求，与 Vite 7 保持一致。这通过利用这些 Node.js 版本中的本机模块支持来支持仅 ECMAScript 模块的发行版。
-除了架构改进之外，Vite 8 还包含多项旨在提高开发人员生产力的新功能。集成开发工具增强了调试功能，同时对 tsconfig paths 和 TypeScript 的 emitDecoratorMetadata 的内置支持减少了对外部插件的依赖。该版本还添加了 WebAssembly 服务器端渲染和浏览器控制台转发。
-查看有关 AlternativeTo 的文章更多信息Vite | Vite 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/3/vite-8-debuts-with-unified-and-faster-rolldown-bundler-integrated-devtools-and-wasm-ssr/</guid>
-      <pubDate>Fri, 13 Mar 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Clip Studio Paint 5.0 添加了智能形状、升级的性能、改进的模糊和 3D 工具</title>
-      <link>https://alternativeto.net/news/2026/3/clip-studio-paint-5-0-adds-smart-shape-upgraded-performance-improved-blurring-and-3d-tools/</link>
-      <description><![CDATA[Clip Studio Paint 5.0 现已可供 iOS、Android、Windows 和 macOS 上的用户使用，这标志着跨设备工作的插画师和动画师的重大更新。此版本重点关注创意工作流程优化。
-从本质上讲，艺术家可以从绘图性能的显着改进中受益。 智能形状功能加快了制作简洁线条和形状的过程。渲染速度也更快，同时模糊和水彩边缘质量也得到了改进，以获得更自然的效果。这些变化旨在简化专业人士和业余爱好者的绘图过程。
-5.0 版扩展了 3D 功能，首次推出了 3D 手模型，添加了逼真的金属和光泽纹理，并支持在其他 3D 模型类型上进行绘画。新的分组功能还允许用户将多个 3D 模型组织和移动为一个单元，从而增强场景构建和姿势调整。
-在画笔功能的基础上，添加了速度动态，允许画笔大小和不透明度响应绘图速度。此选项可在笔压力和倾斜设置中访问，为数字绘画提供更细致的控制。
-在这些创意增强之后，该版本引入了更新的用户界面元素：工作区和调色板得到了改进，材质调色板得到了升级，并且转换功能得到了扩展。其他更新解决了多页和打印工作流程，提供更好的总体性能，并向应用程序的简单模式添加功能。
-查看有关 AlternativeTo 的文章更多关于 Clip Studio Paint | Clip Studio Paint 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/clip-studio-paint-5-0-adds-smart-shape-upgraded-performance-improved-blurring-and-3d-tools/</guid>
-      <pubDate>Fri, 13 Mar 2026 14:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adobe 在 Photoshop 中首次推出对话式 AI 编辑功能，并扩展了 Firefly 的图像编辑器</title>
-      <link>https://alternativeto.net/news/2026/3/adobe-debuts-conversational-ai-edits-in-photoshop-and-expands-firefly-s-image-editor/</link>
-      <description><![CDATA[Adobe 在 Photoshop 中推出了对话式 AI 助手，现已在网络和移动平台上作为公开测试版提供。此功能使用户能够通过简单地描述他们想要的更改来编辑照片。编辑时，用户可以选择全自动调整或分步指导，甚至可以在 Photoshop 移动应用程序中使用语音命令请求编辑。
-随后，Photoshop 网页版在公开测试版中推出了 AI 标记，这是上下文任务栏中的一个新工具。借助 AI 标记，用户可以直接在图像上绘图并指定提示来控制 AI 驱动的编辑发生的位置，从而进一步扩展创意过程中的控制和精度。
-在这些更新的基础上，Firefly 的图像编辑器现在在单个工作区中提供了多种新的人工智能驱动工具。其中包括用于通过上下文感知结果添加或细化元素的生成填充、用于消除不需要的对象的生成删除以及用于使图像适应各种尺寸或长宽比的生成扩展。此外，生成高级功能可锐化细节并提高分辨率，而背景去除功能使用户可以一键隔离主题。
-截至 4 月 9 日，网络版和移动版 Photoshop 的付费订阅者可以无限制地访问 AI 助手生成。免费版本的用户从 20 个免费版本开始。
-查看有关 AlternativeTo 的文章有关 Adobe 的更多信息Photoshop | Adobe Photoshop 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/adobe-debuts-conversational-ai-edits-in-photoshop-and-expands-firefly-s-image-editor/</guid>
-      <pubDate>Fri, 13 Mar 2026 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
