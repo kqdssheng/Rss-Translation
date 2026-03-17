@@ -4,7 +4,17 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Tue, 17 Mar 2026 02:06:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 13:12:32 GMT</lastBuildDate>
+    <item>
+      <title>Affinity 的最新更新带来了光照模式、像素到矢量转换和图层混合</title>
+      <link>https://alternativeto.net/news/2026/3/affinity-s-latest-update-brings-light-mode-pixel-to-vector-conversion-and-layer-blending/</link>
+      <description><![CDATA[在Affinity 获得软件套件并集成五个月后，Canva 推出了该软件套件的重大更新它成为一个统一的免费设计平台。在主要功能中，Affinity 现在提供了明亮的 UI 模式，让用户可以选择更明亮的工作空间并微调亮度以符合他们的喜好。将光栅图像转换为矢量艺术的设计师会发现新的转换为曲线功能很有价值，因为它使用户能够在几秒钟内将像素选择转换为可编辑的矢量曲线。
+基于这些界面和工作流程增强功能，Affinity 现在提供实时色调混合组。该工具动态且非破坏性地混合图层，允许用户添加立即开始混合的图层，无需手动调整。对于那些经常切换画笔的人来说，新的右键单击画笔菜单可以直接从画布即时访问整个画笔库。
+更新还引入了色调画笔工具。这使用户可以从底层图层中采样画笔喷嘴，从而可以根据底层内容进行动态颜色混合。除了这些功能之外，Affinity 的更新还包括各种增强功能和错误修复，以提高所有广告素材的稳定性和用户体验。
+查看有关 AlternativeTo 的文章更多信息亲和力 | 亲和力替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/3/affinity-s-latest-update-brings-light-mode-pixel-to-vector-conversion-and-layer-blending/</guid>
+      <pubDate>Tue, 17 Mar 2026 08:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Spotify 允许您编辑您的品味配置文件以更好地控制主页的推荐</title>
       <link>https://alternativeto.net/news/2026/3/spotify-lets-you-edit-your-taste-profile-to-better-control-your-homepage-s-recommendations/</link>
@@ -148,15 +158,6 @@ Kitty 0.46 最显着的变化之一是对鼠标交互的重大改进。回滚缓
 查看有关 AlternativeTo 的文章有关 Qt 的更多信息Creator | Qt Creator 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/3/qt-creator-19-brings-minimap-easier-configuration-of-remote-devices-mcp-server-and-more/</guid>
       <pubDate>Fri, 13 Mar 2026 17:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sync-in 2.1 发布，主要界面更新并支持荷兰语</title>
-      <link>https://alternativeto.net/news/2026/3/sync-in-2-1-launches-with-major-interface-refresh-and-dutch-language-support/</link>
-      <description><![CDATA[Sync-in 2.1 引入了 Web 界面的视觉刷新，包括重新设计的导航和改进的可读性。此更新还为网络和桌面客户端添加了荷兰语支持。
-包括新的安全和权限配置选项、与 OnlyOffice DocumentServer 9.3 的兼容性以及各种错误修复。
-查看有关 AlternativeTo 的文章更多信息同步输入 | 同步输入替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/3/sync-in-2-1-launches-with-major-interface-refresh-and-dutch-language-support/</guid>
-      <pubDate>Fri, 13 Mar 2026 17:24:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
