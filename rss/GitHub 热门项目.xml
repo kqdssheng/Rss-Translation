@@ -4,26 +4,82 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 18 Mar 2026 02:10:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 13:12:45 GMT</lastBuildDate>
     <item>
-      <title>用户调用触发器</title>
-      <link>https://www.producthunt.com/products/usercall</link>
+      <title>不懒工作室</title>
+      <link>https://www.producthunt.com/products/unsloth</link>
       <description><![CDATA[
-            在行为发生变化时与用户交谈
+            用于运行和训练 AI 模型的开源 Web UI。
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/usercall</guid>
-      <pubDate>Tue, 17 Mar 2026 06:56:51 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/unsloth</guid>
+      <pubDate>Wed, 18 Mar 2026 03:18:32 GMT</pubDate>
     </item>
     <item>
-      <title>食品法典分代理</title>
+      <title>爪测云</title>
+      <link>https://www.producthunt.com/products/clawmetry</link>
+      <description><![CDATA[
+            从任何地方监控您的 OpenClaw 代理。端到端加密。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/clawmetry</guid>
+      <pubDate>Wed, 18 Mar 2026 01:09:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>克劳德·迪派奇</title>
+      <link>https://www.producthunt.com/products/claude-dispatch</link>
+      <description><![CDATA[
+            使用“Dispatch”通过手机给克劳德发短信
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/claude-dispatch</guid>
+      <pubDate>Wed, 18 Mar 2026 00:54:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>知识</title>
+      <link>https://www.producthunt.com/products/lore-4</link>
+      <description><![CDATA[
+            为您的记忆提供光标。 100% 私有、开源且免费。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/lore-4</guid>
+      <pubDate>Wed, 18 Mar 2026 00:46:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>克劳德·双重检查者</title>
+      <link>https://www.producthunt.com/products/claude-double-checker-is-2x-active</link>
+      <description><![CDATA[
+            在 macOS 菜单栏中实时查看 Claude 的 2× 使用窗口
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/claude-double-checker-is-2x-active</guid>
+      <pubDate>Tue, 17 Mar 2026 21:11:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-5.4 迷你型和纳米型</title>
       <link>https://www.producthunt.com/products/openai</link>
       <description><![CDATA[
-            用于复杂任务的并行自定义代理
+            针对编码和子代理进行优化的快速高效模型
           
 
 讨论
@@ -31,189 +87,133 @@
             链接
 ]]></description>
       <guid>https://www.producthunt.com/products/openai</guid>
-      <pubDate>Tue, 17 Mar 2026 04:30:50 GMT</pubDate>
+      <pubDate>Tue, 17 Mar 2026 17:11:25 GMT</pubDate>
     </item>
     <item>
-      <title>DLSS 5</title>
-      <link>https://www.producthunt.com/products/nvidia</link>
+      <title>分享补丁</title>
+      <link>https://www.producthunt.com/products/sharepatch</link>
       <description><![CDATA[
-            实时计算机图形学的 GPT 时刻
+            通过干净、可审查的浏览器差异共享 git 补丁
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/nvidia</guid>
-      <pubDate>Tue, 17 Mar 2026 02:09:57 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/sharepatch</guid>
+      <pubDate>Tue, 17 Mar 2026 10:52:10 GMT</pubDate>
     </item>
     <item>
-      <title>索科苏米</title>
-      <link>https://www.producthunt.com/products/sokosumi</link>
+      <title>自动发送MCP</title>
+      <link>https://www.producthunt.com/products/autosend-mcp</link>
       <description><![CDATA[
-            为您研究、规划和管理的营销代理
+            您的人工智能代理可以操作的电子邮件平台。
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/sokosumi</guid>
-      <pubDate>Tue, 17 Mar 2026 01:31:07 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/autosend-mcp</guid>
+      <pubDate>Tue, 17 Mar 2026 07:36:41 GMT</pubDate>
     </item>
     <item>
-      <title>文件夹式</title>
-      <link>https://www.producthunt.com/products/folderly</link>
+      <title>MS 自动字幕</title>
+      <link>https://www.producthunt.com/products/ms-auto-captions</link>
       <description><![CDATA[
-            通过 99.9% 的收件箱率从每次电子邮件营销活动中获取收入
+            利用 AI 自动生成视频热门字幕
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/folderly</guid>
-      <pubDate>Mon, 16 Mar 2026 17:54:25 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/ms-auto-captions</guid>
+      <pubDate>Mon, 16 Mar 2026 21:22:00 GMT</pubDate>
     </item>
     <item>
-      <title>代理讨论</title>
-      <link>https://www.producthunt.com/products/agentdiscuss</link>
+      <title>使用代理</title>
+      <link>https://www.producthunt.com/products/useagents</link>
       <description><![CDATA[
-            AI 代理的产品搜寻——代理讨论产品
+            定义一次工具，代理即可随处使用它们
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/agentdiscuss</guid>
-      <pubDate>Mon, 16 Mar 2026 16:45:59 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/useagents</guid>
+      <pubDate>Mon, 16 Mar 2026 15:36:48 GMT</pubDate>
     </item>
     <item>
-      <title>视差</title>
-      <link>https://www.producthunt.com/products/parallax-3</link>
+      <title>适用于 Mac 的神奇 MCP</title>
+      <link>https://www.producthunt.com/products/fantastical</link>
       <description><![CDATA[
-            用于软件开发任务的本地优先人工智能协调器。
+            直接与 Claude 管理您的日程安排
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/parallax-3</guid>
-      <pubDate>Mon, 16 Mar 2026 10:18:49 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/fantastical</guid>
+      <pubDate>Mon, 16 Mar 2026 14:19:30 GMT</pubDate>
     </item>
     <item>
-      <title>德拉帕杜</title>
-      <link>https://www.producthunt.com/products/dropadoo-send-files-via-drop-macos</link>
+      <title>Databox 精灵</title>
+      <link>https://www.producthunt.com/products/databox</link>
       <description><![CDATA[
-            通过拖放将文件发送到预定义的电子邮件
+            您的业务绩效人工智能分析师
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/dropadoo-send-files-via-drop-macos</guid>
-      <pubDate>Mon, 16 Mar 2026 07:28:39 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/databox</guid>
+      <pubDate>Mon, 09 Mar 2026 17:05:46 GMT</pubDate>
     </item>
     <item>
-      <title>活动状态</title>
-      <link>https://www.producthunt.com/products/activestat</link>
+      <title>光场</title>
+      <link>https://www.producthunt.com/products/lightfield</link>
       <description><![CDATA[
-            从菜单栏进行高保真 Mac 性能遥测
+            人工智能原生 CRM 可自行构建并为您服务
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/activestat</guid>
-      <pubDate>Sun, 15 Mar 2026 14:05:28 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/lightfield</guid>
+      <pubDate>Wed, 04 Mar 2026 19:10:42 GMT</pubDate>
     </item>
     <item>
-      <title>阿让</title>
-      <link>https://www.producthunt.com/products/agen</link>
+      <title>灵魂2.0</title>
+      <link>https://www.producthunt.com/products/soul-2-0</link>
       <description><![CDATA[
-            完全自主的人工智能编码代理
+            无需摄制组即可拍摄时尚级人工智能照片
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/agen</guid>
-      <pubDate>Sat, 14 Mar 2026 19:28:40 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/soul-2-0</guid>
+      <pubDate>Sat, 21 Feb 2026 16:44:27 GMT</pubDate>
     </item>
     <item>
-      <title>西德尔</title>
-      <link>https://www.producthunt.com/products/xeder</link>
+      <title>开放观察</title>
+      <link>https://www.producthunt.com/products/openobserve</link>
       <description><![CDATA[
-            您的 X.com feed 作为播客
+            AI 原生、开源 Datadog 替代方案
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/xeder</guid>
-      <pubDate>Sat, 14 Mar 2026 17:52:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>同意卫士</title>
-      <link>https://www.producthunt.com/products/agreeguard-ai-terms-privacy-analyzer</link>
-      <description><![CDATA[
-            在您点击“我同意”之前，人工智能会阅读细则
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/agreeguard-ai-terms-privacy-analyzer</guid>
-      <pubDate>Fri, 13 Mar 2026 02:04:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>索拉雅</title>
-      <link>https://www.producthunt.com/products/solaya</link>
-      <description><![CDATA[
-            从智能手机扫描到 3D 模型 + 无限的产品视觉效果
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/solaya</guid>
-      <pubDate>Thu, 12 Mar 2026 15:27:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>螺栓铸造厂</title>
-      <link>https://www.producthunt.com/products/bolt-foundry</link>
-      <description><![CDATA[
-            构建并验证您可以信任的代理
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/bolt-foundry</guid>
-      <pubDate>Tue, 10 Mar 2026 21:16:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>基拉4.0</title>
-      <link>https://www.producthunt.com/products/kira-art</link>
-      <description><![CDATA[
-            将您的朋友变成可共享的内容
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/kira-art</guid>
-      <pubDate>Fri, 06 Mar 2026 17:50:54 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/openobserve</guid>
+      <pubDate>Tue, 03 Feb 2026 08:51:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
