@@ -4,7 +4,64 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Tue, 17 Mar 2026 13:12:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 02:10:43 GMT</lastBuildDate>
+    <item>
+      <title>Apple 收购 MotionVFX 以通过插件、转场和模板增强 Final Cut Pro</title>
+      <link>https://alternativeto.net/news/2026/3/apple-acquires-motionvfx-to-enhance-final-cut-pro-with-plugins-transition-and-templates/</link>
+      <description><![CDATA[Apple 收购了 MotionVFX，这家总部位于华沙的公司花了 15 年时间为 Final Cut Pro 构建了最全面的插件和效果库之一。该交易由 MotionVFX 自己宣布，并确认其将加入苹果团队。苹果和 MotionVFX 都没有披露协议条款，苹果也没有就此次收购发表公开声明，这符合其在该领域交易的惯常做法。
+此举之后，Apple 预计将加强其 Creator Studio 订阅，其中包含 Final Cut Pro、Logic Pro 和其他创意应用程序。在之前的扩展中，Apple 收购了 Pixelmator，并将其广受欢迎的 Pixelmator Pro 软件纳入 Creator Studio 捆绑包中。现在，集成 MotionVFX 为 Apple 提供了丰富的插件、转场、模板和视觉效果库，从而减少了对第三方开发人员在 Final Cut Pro 关键功能方面的依赖。
+但是，对于 Apple 生态系统之外的用户来说，问题仍然存在。 MotionVFX 还为行业标准视频编辑器（例如 Adobe Premiere Pro 和 DaVinci Resolve）制作插件，但尚未发布有关继续支持或开发这些平台的公告。
+查看有关 AlternativeTo 的文章有关 Final Cut 的更多信息Pro | Final Cut Pro 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/apple-acquires-motionvfx-to-enhance-final-cut-pro-with-plugins-transition-and-templates/</guid>
+      <pubDate>Tue, 17 Mar 2026 19:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manus 推出“我的电脑”，可在 macOS 和 Windows 上进行本地 AI 测试执行和自动化</title>
+      <link>https://alternativeto.net/news/2026/3/manus-introduces-my-computer-for-local-ai-tast-execution-and-automation-on-macos-and-windows/</link>
+      <description><![CDATA[Manus 以前是基于云的自主 AI 代理，现在可作为适用于 macOS 和 Windows 的桌面应用程序。这一转变使 Manus 能够直接与用户的本地文件、软件工具和系统资源进行交互。
+随着我的电脑的引入，Manus可以通过本地终端执行命令行指令。这允许代理读取、分析和修改用户计算机上的文件，同时启动和控制本地应用程序。开发人员尤其受益，因为 Manus 现在利用本地编程环境和命令行工具，例如 Python、Node.js、Swift 和 Xcode，自动化整个开发工作流程中的任务，从编写代码到调试。
+随着本地功能的扩展，Manus 还可以利用附加的 GPU，从而能够训练机器学习模型或直接在用户硬件上运行大型语言模型推理。这使得将 Mac mini 或类似设备转变为专用的、始终可用的 AI 助手成为可能。
+为了维护用户控制和安全，每个终端命令都需要明确的批准。用户可以选择单独允许命令或将受信任的操作设置为自动执行。 我的电脑现在可供所有 macOS 和 Windows 用户使用。
+查看有关 AlternativeTo 的文章更多信息Manus | Manus 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/manus-introduces-my-computer-for-local-ai-tast-execution-and-automation-on-macos-and-windows/</guid>
+      <pubDate>Tue, 17 Mar 2026 17:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于大量 SEO 机器人垃圾邮件，Digg 在重新推出两个月后再次关闭</title>
+      <link>https://alternativeto.net/news/2026/3/digg-is-shutting-down-again-two-months-after-its-relaunch-due-to-overwhelming-seo-bot-spam/</link>
+      <description><![CDATA[Digg 意外再次关闭，距离重新启动其社交书签新闻聚合器仅两个月。此次关闭是在该平台测试版开放后立即出现的 SEO 垃圾邮件和虚假参与严重问题之后发生的。据 Digg 团队称，SEO 垃圾邮件发送者的帖子利用了 Digg 剩余的 Google 链接权限。作为回应，该团队禁止了数万个账户，并实施了内部工具和第三方供应商解决方案，但这些措施未能解决核心问题。正如该团队所解释的，无法信任投票、评论和其他参与破坏了社区平台的基础。
+在这次挫折之后，Digg 大幅缩小了团队规模，以适应挑战并集中精力。该组织已表示打算以更少的员工和全新的方法重建 Digg，并强调任何新版本都必须真正不同，才能恢复信任和价值。值得注意的是，Digg 2004 年的创始人 Kevin Rose 将全职返回公司，帮助领导这项新的工作。
+查看有关 AlternativeTo 的文章更多信息Digg | Digg 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/digg-is-shutting-down-again-two-months-after-its-relaunch-due-to-overwhelming-seo-bot-spam/</guid>
+      <pubDate>Tue, 17 Mar 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lovable 添加了用于流叠加和实时工具的 Twitch 连接器</title>
+      <link>https://alternativeto.net/news/2026/3/lovable-adds-twitch-connector-for-stream-overlays-and-real-time-tools/</link>
+      <description><![CDATA[Lovable 推出了 Twitch 连接器，允许用户集成其 Twitch 帐户并在平台内构建自定义流叠加、警报系统和活动制作工具。该连接器提供实时功能，例如实时聊天显示、关注者和订阅者跟踪以及发送聊天消息的功能。
+Twitch 集成使用 OAuth 2.0 身份验证，可由管理员和所有者在工作区范围内进行管理。
+查看有关 AlternativeTo 的文章有关 Lovable 的更多信息 | 可爱的替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/lovable-adds-twitch-connector-for-stream-overlays-and-real-time-tools/</guid>
+      <pubDate>Tue, 17 Mar 2026 15:44:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bitwarden Send 通过付费用户的电子邮件验证提高安全性</title>
+      <link>https://alternativeto.net/news/2026/3/bitwarden-send-improves-security-with-email-verification-for-paid-users/</link>
+      <description><![CDATA[Bitwarden Send 为付费用户引入了电子邮件验证，允许他们将链接访问限制为指定收件人。在查看共享内容之前，收件人必须使用发送到其电子邮件地址的代码确认其身份。
+电子邮件验证功能仅适用于付费计划，免费用户保留安全文本共享选项。
+查看有关 AlternativeTo 的文章有关 Bitwarden 的更多信息发送 | Bitwarden 发送替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/3/bitwarden-send-improves-security-with-email-verification-for-paid-users/</guid>
+      <pubDate>Tue, 17 Mar 2026 15:36:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kotlin 2.3.20 带来了 Gradle 9.3.0 支持和基于名称的解构</title>
+      <link>https://alternativeto.net/news/2026/3/kotlin-2-3-20-brings-gradle-9-3-0-support-and-name-based-destructuring/</link>
+      <description><![CDATA[Kotlin 2.3.20 添加了与 Gradle 9.3.0 的兼容性，并且 Kotlin/JVM 编译现在默认使用构建工具 API。现在支持基于名称的解构声明，Maven 用户可以从简化的项目设置中受益。
+开发人员还获得了一个新的标准库 API，用于创建 Map.Entry 的不可变副本。
+查看有关 AlternativeTo 的文章更多信息Kotlin | Kotlin 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/kotlin-2-3-20-brings-gradle-9-3-0-support-and-name-based-destructuring/</guid>
+      <pubDate>Tue, 17 Mar 2026 15:30:52 GMT</pubDate>
+    </item>
     <item>
       <title>Affinity 的最新更新带来了光照模式、像素到矢量转换和图层混合</title>
       <link>https://alternativeto.net/news/2026/3/affinity-s-latest-update-brings-light-mode-pixel-to-vector-conversion-and-layer-blending/</link>
@@ -96,68 +153,6 @@
 查看有关 AlternativeTo 的文章有关 Cal.com 的更多信息 | Cal.com 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/3/cal-com-agents-launch-custom-domain-support-and-new-scheduling-controls/</guid>
       <pubDate>Mon, 16 Mar 2026 08:41:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>SparkyLinux 2026.03 发布，带有 Debian Forky 基础和更新的内核</title>
-      <link>https://alternativeto.net/news/2026/3/sparkylinux-2026-03-released-with-debian-forky-base-and-updated-kernel/</link>
-      <description><![CDATA[SparkyLinux 2026.03 已作为基于 Debian 测试“Forky”的半滚动版本发布。此更新包括 Linux 内核 6.19.6、更新的 Firefox 和 Thunderbird 版本以及新的 GCC 工具链。安装程序改进允许在 64 位计算机上支持 32 位 Grub UEFI，并在安装过程中启用单字符密码。
-现有滚动用户可直接升级，无需重新安装。
-查看有关 AlternativeTo 的文章更多信息SparkyLinux | SparkyLinux 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/sparkylinux-2026-03-released-with-debian-forky-base-and-updated-kernel/</guid>
-      <pubDate>Mon, 16 Mar 2026 08:36:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>BookStack 26.03：新的主题模块系统和为开发人员增强的 API</title>
-      <link>https://alternativeto.net/news/2026/3/bookstack-26-03-new-theme-module-system-and-enhanced-api-for-developers/</link>
-      <description><![CDATA[BookStack 26.03 引入了主题模块系统，让多个模块在主题内共存，并添加了新的安装命令以简化模块管理。阅读书籍的 API 响应现在包括父书架上的数据，以简化开发人员的数据检索。
-此更新还带来了新的逻辑主题事件，使自定义渲染内容和扩展页面逻辑变得更加容易，以及 UI 细化、更新翻译和小修复，同时增强了安全性和内容过滤选项。
-查看有关 AlternativeTo 的文章更多信息BookStack | BookStack 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/bookstack-26-03-new-theme-module-system-and-enhanced-api-for-developers/</guid>
-      <pubDate>Mon, 16 Mar 2026 08:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 将于 2026 年 5 月 8 日终止对 Instagram 上的端到端加密直接消息的支持</title>
-      <link>https://alternativeto.net/news/2026/3/meta-will-end-support-for-end-to-end-encrypted-direct-messages-on-instagram-by-may-8-2026/</link>
-      <description><![CDATA[Meta 宣布将于 2026 年 5 月 8 日后停止对 Instagram 上的端到端加密 (E2EE) 消息传递的支持。此更改后，在平台上发送的消息将不再以确保只有发送者和接收者可以阅读的方式受到保护，从而引发用户的隐私和数据安全担忧。
-据 Meta 称，很少有用户采用 E2EE 功能，该功能默认情况下从未启用，并且只能在特定区域访问。因此，该公司决定完全删除该功能。为了准备此次更新，强烈建议 Instagram 用户在 2026 年 5 月截止日期之前下载任何重要消息或媒体，因为现有加密聊天的状态仍不确定。
-对于那些在通信中优先考虑端到端加密的用户，建议改用 WhatsApp、Signal、Threema 等应用，或SimpleX Chat，以及其他安全替代方案。这一决定标志着 Meta 之前以隐私为中心的消息传递策略的显着转变。在此之前，全行业就用户隐私与解决安全和执法问题的必要性之间的平衡展开了辩论。
-这一进展是在 TikTok 宣布不会为其私信添加端到端加密之后不久发生的，理由是青少年安全是一个关键原因。
-查看有关 AlternativeTo 的文章更多信息Instagram | Instagram 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/meta-will-end-support-for-end-to-end-encrypted-direct-messages-on-instagram-by-may-8-2026/</guid>
-      <pubDate>Mon, 16 Mar 2026 08:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>EndeavourOS Titan 推出 Linux 6.19、新的 GPU 驱动程序工具和改进的安装程序</title>
-      <link>https://alternativeto.net/news/2026/3/endeavouros-titan-launches-with-linux-6-19-new-gpu-driver-tools-and-improved-installer/</link>
-      <description><![CDATA[EndeavourOS Titan 已作为基于 Arch 的 Linux 发行版的最新版本发布，带来了多项核心升级和增强。此版本由 Linux 6.19 内核 提供支持，并更新了核心软件包，例如 Calamares 26.03、Firefox 148、Mesa 26.0、Xorg-server 21.1 和 Nvidia-utils 590.48。
-基于 Calamares 的安装程序扩展了安装改进，现在包括更新的镜像排名支持。即使在离线安装期间，此增强功能也可为用户提供优化的镜像列表，有助于提高下载效率和可靠性。硬件检测功能也得到了扩展，以支持所有 GPU 和虚拟机。
-基于这些更新，EndeavourOS 现在默认为所有 GPU 安装附加驱动程序，包括用于硬件加速视频解码的 Vulkan 驱动程序和软件包（如果适用）。 GPU 驱动程序在启动过程中较早加载，旨在提高不同系统之间的兼容性。此外，现在在安装程序和系统范围内都可以使用名为 eos-hwtool 的新工具，允许用户根据需要安装或删除 GPU 驱动程序。
-最后，用户会注意到 ISO 大小已从约 3 GB 增加到 3.4 GB。此更改支持更多功能并提供改进的安装体验。
-查看有关 AlternativeTo 的文章更多信息EndeavourOS | EndeavourOS 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/endeavouros-titan-launches-with-linux-6-19-new-gpu-driver-tools-and-improved-installer/</guid>
-      <pubDate>Fri, 13 Mar 2026 19:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kitty 终端 0.46 添加了平滑的基于动量的滚动、选项卡重新排序和拆分调整大小</title>
-      <link>https://alternativeto.net/news/2026/3/kitty-terminal-0-46-adds-smooth-momentum-based-scrolling-tab-reordering-and-split-resizing/</link>
-      <description><![CDATA[Kitty 0.46 是一款开源 GPU 加速终端模拟器，现已适用于 Linux、macOS 和某些 BSD 发行版。此更新延续了该项目对高性能和跨平台支持的承诺。
-Kitty 0.46 最显着的变化之一是对鼠标交互的重大改进。回滚缓冲区现在支持平滑和基于动量的滚动，为导航终端历史记录提供更自然和动态的感觉。这建立在模拟器之前强大的鼠标支持之上，并响应寻求流畅滚动体验的用户的反馈。
-此外，该版本还允许通过简单的拖放操作来重新排序选项卡、在窗口之间移动或完全分离到新窗口中，从而提高了工作流程的灵活性。在此之后，另一个强烈要求的增强功能是直接使用鼠标调整窗口分割大小的能力，使窗格管理对于经常使用多个终端视图的用户来说更加直观。
-这些新功能可满足关键用户请求，并提高 Kitty 图形环境中的整体工作效率和窗口管理。
-查看有关 AlternativeTo 的文章有关 Kitty 的更多信息终端 | Kitty 终端替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/kitty-terminal-0-46-adds-smooth-momentum-based-scrolling-tab-reordering-and-split-resizing/</guid>
-      <pubDate>Fri, 13 Mar 2026 19:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qt Creator 19 带来了小地图、更轻松的远程设备配置、MCP 服务器等</title>
-      <link>https://alternativeto.net/news/2026/3/qt-creator-19-brings-minimap-easier-configuration-of-remote-devices-mcp-server-and-more/</link>
-      <description><![CDATA[Qt Creator 19 已发布，更新了这个针对 C++、JavaScript、Python 和 QML 的跨平台集成开发环境。此最新版本引入了可选的小地图功能，为用户提供了文档的简化概述，并允许类似于滚动条的导航。
-除此之外，远程构建设备的配置现在也变得更加容易。用户可以注册他们的设备并使用自动检测来设置 Qt 版本、编译器、调试器和 CMake 等工具。还会自动创建适当的工具包，并且可以在设置中过滤每个设备的单独工具检测。
-在这些工作流程增强之后，Qt Creator 19 合并了基本的 MCP 服务器。此功能使 HTTP 客户端能够打开文件和项目，构建、运行和调试它们，所有这些都通过 POST 请求以及服务器发送的事件进行响应。基于开放工作区功能构建，现在支持包括 Ant、Cargo、Dotnet、Gradle 和 Swift 项目，允许直接打开项目文件并根据检测到的工具自动配置构建和运行设置。
-其他改进包括更好的性能、更新的软件包、重新设计的首选项等等。
-查看有关 AlternativeTo 的文章有关 Qt 的更多信息Creator | Qt Creator 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/qt-creator-19-brings-minimap-easier-configuration-of-remote-devices-mcp-server-and-more/</guid>
-      <pubDate>Fri, 13 Mar 2026 17:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
