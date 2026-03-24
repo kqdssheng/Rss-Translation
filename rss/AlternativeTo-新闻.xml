@@ -4,7 +4,39 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Tue, 24 Mar 2026 02:05:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 13:12:02 GMT</lastBuildDate>
+    <item>
+      <title>现在，您可以使用 Google Stitch 通过语音在无限画布上营造设计 UI</title>
+      <link>https://alternativeto.net/news/2026/3/you-can-now-use-google-stitch-to-vibe-design-uis-on-an-infinite-canvas-using-your-voice/</link>
+      <description><![CDATA[Google 正在将 Stitch 从人工智能驱动的设计工具转变为完全人工智能原生的软件设计画布。这一演变的目的是让用户使用自然语言输入来创建、迭代和协作用户界面设计。 Stitch 的全新无限 AI 原生画布现在支持从最初构思到功能原型的工作流程，为设计团队提供了探索概念和流畅发展项目的空间。
+基于这些变化，设计代理可以在整个画布的上下文中进行推理，跟踪工作进度并实现多方向探索。通过添加代理经理，用户可以监督并行的创意开发，使项目在分支到新方向时保持井井有条。
+设计系统工具包也得到了扩展。您现在可以直接从任何 URL 提取设计系统，或使用新的 DESIGN.md 文件格式在 Stitch 和其他设计或编码工具之间导入和导出设计规则。 Stitch还支持将静态屏幕立即转变为交互式原型。通过链接屏幕并单击“播放”，团队可以预览应用程序流程并依靠 Stitch 为用户旅程生成逻辑上的下一个屏幕。
+接下来，语音功能使设计人员能够免提交互、接收实时反馈并通过对话进行更新。最后，Stitch 使用其 MCP 服务器和 SDK 与更广泛的工作流程集成，支持导出到 AI Studio 和 Antigravity 等工具，同时支持第三方扩展。
+查看有关 AlternativeTo 的文章有关 Google 的更多信息Stitch | Google Stitch 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/you-can-now-use-google-stitch-to-vibe-design-uis-on-an-infinite-canvas-using-your-voice/</guid>
+      <pubDate>Tue, 24 Mar 2026 11:08:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qt 6.11 引入了 Qt Canvas Painter、重大 3D 改进、新的图形功能等</title>
+      <link>https://alternativeto.net/news/2026/3/qt-6-11-introduces-qt-canvas-painter-major-3d-improvements-new-graph-capabilities-and-more/</link>
+      <description><![CDATA[Qt 6.11 现已作为最新版本的跨平台应用程序框架推出，专注于图形用户界面和应用程序开发。此更新引入了 Qt Canvas Painter，这是一个基于渲染硬件接口构建的新 2D 图形模块，用于硬件加速绘图。 Canvas Painter 包括可调节抗锯齿、框渐变、阴影、网格图案、自定义着色器画笔和颜色效果等高级功能，可实现视觉上丰富且高效的用户界面工作流程。
+除了 Canvas Painter 之外，此版本还带来了 3D 可视化方面的显着增强。屏幕空间全局照明 (SSGI) 模拟实时光反射以获得更真实的照明，而屏幕空间反射 (SSR) 使用基于像素的光线行进渲染屏幕上的反射。每个对象的运动向量支持计算成本和输出保真度的平衡。 Qt Quick 3D 用户还可以获得新的渲染通道自定义选项。通过这 3 项增强功能，Qt 团队表示 Qt 框架现在提供“与游戏引擎相同的 3D 功能”。
+在这些更新的基础上，Qt 6.11 引入了用于创建图形并与之交互的新方法，以及 Qt TaskTree，这是一个技术预览模块，为 C++ 中的异步工作流程提供了声明式方法。通过将工作流程定义为可重复使用的配方，开发人员可以更直观地自动化任务管理。
+该版本还改进了用户界面框架、额外的 2D 功能、网络和连接更新以及简化的 QML 和 C++ 集成。
+查看有关 AlternativeTo 的文章更多信息Qt | Qt 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/qt-6-11-introduces-qt-canvas-painter-major-3d-improvements-new-graph-capabilities-and-more/</guid>
+      <pubDate>Tue, 24 Mar 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GrapheneOS 表示不会遵守年龄验证法律，并将在全球范围内继续使用</title>
+      <link>https://alternativeto.net/news/2026/3/grapheneos-says-it-won-t-comply-with-age-verification-laws-and-will-stay-available-worldwide/</link>
+      <description><![CDATA[GrapheneOS 已公开表示，它将不遵守要求操作系统在设置过程中收集用户年龄数据的新法规。这款注重隐私的 Android 操作系统在社交媒体上宣布了这一消息，回应了巴西和美国几个州的法律，这些法律对未能实施年龄验证的每次违规行为处以高达数百万美元的罚款。
+虽然许多提供商现在被要求收集用户的年龄或出生日期并将其实时传输给应用商店和开发者，但 GrapheneOS 团队确认他们的方法有所不同。根据声明，GrapheneOS 将在全球范围内继续使用，无需提供个人信息、身份证明或创建帐户。该团队指出，如果搭载 GrapheneOS 的设备无法在有此类法规的地区销售，他们将接受这些后果，以维持其高隐私标准。
+该公告发布之际，摩托罗拉计划发布运行 GrapheneOS 的设备。社交媒体上的许多用户批评强制操作系统级年龄验证，称其没有必要。对于在选择移动操作系统时优先考虑隐私的用户来说，此举可能特别相关。
+查看有关 AlternativeTo 的文章更多信息GrapheneOS | GrapheneOS 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/grapheneos-says-it-won-t-comply-with-age-verification-laws-and-will-stay-available-worldwide/</guid>
+      <pubDate>Tue, 24 Mar 2026 08:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>据报道，Crunchyroll 遭遇泄露，泄露了 100GB 用户数据、电子邮件和信用卡</title>
       <link>https://alternativeto.net/news/2026/3/crunchyroll-reportedly-hit-by-breach-exposing-100gb-of-user-data-emails-and-credit-cards/</link>
@@ -94,7 +126,7 @@ Google 还计划进行更多集成。很快，用户将能够将应用程序与 
 除此之外，服务器组件有效负载反序列化速度现在提高了 350%，根据有效负载，实际服务器端渲染速度可提高 25% 到 60%。虽然性能是焦点，但更新还改进了错误处理：生产错误页面采用了新设计，Error.cause 链显示在错误叠加层中，并且现在清楚地标记了水合不匹配，以区分服务器与客户端渲染的内容。
 为了改进开发过程中的调试和透明度，Next.js 现在在终端中记录每个服务器函数的名称、参数、执行时间和源文件。基于最近的更改，Node.js 调试器支持超出了开发范围；开发人员现在可以通过 next start --inspect 在生产环境中附加调试器。
 其他更新包括用于 `` 组件的新 transitionTypes 属性、用于构建自定义的稳定适配器 API、对 ImageResponse 的显着改进，以及自动处理具有相同基本名称但不同扩展名的多个图标文件。该版本还带来了各种额外的增强功能和错误修复。
-查看有关 AlternativeTo 的文章更多信息Next.js | Next.js 替代品]]></description>
+查看有关 AlternativeTo 的文章更多信息Next.js | Next.js 替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/3/next-js-16-2-launches-with-faster-rendering-and-startup-a-redesigned-error-page-and-more/</guid>
       <pubDate>Sat, 21 Mar 2026 11:30:00 GMT</pubDate>
     </item>
@@ -126,37 +158,6 @@ Google 还计划进行更多集成。很快，用户将能够将应用程序与 
 查看有关 AlternativeTo 的文章更多信息熊 | 熊替代品]]></description>
       <guid>https://alternativeto.net/news/2026/3/markdown-note-taking-app-bear-2-7-revamps-tagcons-and-adds-tag-management-option-on-macos/</guid>
       <pubDate>Fri, 20 Mar 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitLab 18.10 引入了 SAST FP 检测、免费套餐积分和密钥</title>
-      <link>https://alternativeto.net/news/2026/3/gitlab-18-10-introduces-sast-fp-detection-credits-for-free-tier-and-passkeys/</link>
-      <description><![CDATA[GitLab 18.10 引入了通过 Duo Agent Platform 进行 SAST 误报检测的普遍可用性，改进了对关键和高严重性发现的漏洞分类。
-免费的 GitLab.com 群组所有者现在可以每月购买 GitLab 积分来启用 AI 功能，而无需订阅。
-该版本还添加了使用密钥的无密码登录，以增强跨设备的安全性。
-查看有关 AlternativeTo 的文章更多关于GitLab | GitLab 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/3/gitlab-18-10-introduces-sast-fp-detection-credits-for-free-tier-and-passkeys/</guid>
-      <pubDate>Fri, 20 Mar 2026 15:59:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Opera GX 游戏浏览器在 Linux 上推出，提供玩家控制和自定义选项</title>
-      <link>https://alternativeto.net/news/2026/3/opera-gx-gaming-browser-launches-on-linux-with-gamer-controls-and-customization-options/</link>
-      <description><![CDATA[Opera 推出了 Opera GX，这是面向 Linux 用户的以游戏玩家为中心的网络浏览器。此扩展将浏览器引入到 Debian、Ubuntu、Fedora 和 OpenSUSE 上，并可通过标准 .deb 和 .rpm 软件包进行安装。
-随着 Linux 版本的推出，用户可以访问 GX Control，从而可以限制 RAM 和网络使用，从而优先考虑游戏性能。 Hot Tabs Killer功能通过关闭消耗过多内存的选项卡来进一步增强资源管理，帮助游戏在同一系统上运行而不会出现延迟。
-除了性能控制之外，Opera GX 还为 Discord 和 Twitch 提供内置侧边栏集成。这允许用户聊天或观看流媒体，而无需切换选项卡或中断游戏玩法。自定义选项非常广泛：GX Mods 侧边栏允许用户根据自己的喜好更改主题、界面声音、视觉着色器和核心 UI 元素。在此基础上，GX 商店拥有超过 10,000 个现成的模组，其中许多是由 GX 社区创建和共享的。
-为了解决隐私问题，Opera GX 提醒您，它不会跟踪浏览历史记录、位置或搜索查询。其他内置功能包括广告和跟踪器拦截器以及零日志 VPN，让用户可以增强隐私并减少浏览期间不需要的弹出窗口。
-查看有关 AlternativeTo 的文章有关 Opera 的更多信息GX | Opera GX 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/opera-gx-gaming-browser-launches-on-linux-with-gamer-controls-and-customization-options/</guid>
-      <pubDate>Fri, 20 Mar 2026 14:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vivaldi 7.9 引入了可自定义的全屏模式、关注者选项卡和邮件改进</title>
-      <link>https://alternativeto.net/news/2026/3/vivaldi-7-9-introduces-customizable-full-screen-mode-follower-tabs-and-mail-improvements/</link>
-      <description><![CDATA[Vivaldi 7.9 已作为基于 Chromium 的网络浏览器的最新更新推出，带来了多项用户界面和工作流程增强功能。此版本的领先功能是UI 自动隐藏，该功能允许用户隐藏关键界面元素，例如选项卡栏、地址栏、面板、状态栏和书签栏。启用后，这些元素将保持在视图之外，以最大化内容空间，但一旦光标触摸任何屏幕边缘，这些元素就会立即重新出现。用户可以微调要隐藏的界面元素，并且现在可以在全屏模式下保持界面的可访问性。
-在这些界面更改的基础上，Vivaldi 7.9 引入了关注者选项卡功能。通过右键单击任何链接并选择以平铺关注者选项卡打开链接，用户可以与原始页面并排查看新内容。从原始选项卡打开的后续链接将继续出现在关注者选项卡中，从而能够有效跟踪相关资源或线程。
-除了这些浏览功能之外，Vivaldi Mail 还进行了多项改进。邮件编辑器现在可以在自己的窗口中打开，并且只需一次切换即可在富文本和纯文本之间切换。邮件列表中的内存使用得到了进一步优化，提高了收件箱较大的用户的性能。此外，现在有一个新选项可以将选定的消息本地保存为文件。
-查看有关 AlternativeTo 的文章更多信息维瓦尔第 | 维瓦尔第替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/vivaldi-7-9-introduces-customizable-full-screen-mode-follower-tabs-and-mail-improvements/</guid>
-      <pubDate>Fri, 20 Mar 2026 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
