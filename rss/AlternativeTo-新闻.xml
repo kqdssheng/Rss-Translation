@@ -4,13 +4,64 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Mon, 23 Mar 2026 13:07:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 02:05:07 GMT</lastBuildDate>
+    <item>
+      <title>据报道，Crunchyroll 遭遇泄露，泄露了 100GB 用户数据、电子邮件和信用卡</title>
+      <link>https://alternativeto.net/news/2026/3/crunchyroll-reportedly-hit-by-breach-exposing-100gb-of-user-data-emails-and-credit-cards/</link>
+      <description><![CDATA[一名威胁行为者声称从 Crunchyroll 中窃取了大约 100 GB 的个人用户信息，据称该漏洞始于 2026 年 3 月 12 日。根据 报告显示，Crunchyroll 的外包合作伙伴 Telus 的一名员工执行恶意软件后，攻击者获得了访问权限，从而为他们提供了进入公司系统的入口点。
+据报道，攻击者从那里进入了与客户数据和票务系统相关的敏感环境。 Cyber​​ Digest 表示，被盗数据样本包括 IP 地址、电子邮件地址、信用卡详细信息以及包含其他 PII 的分析数据。攻击者声称这些数据专门来自 Crunchyroll 的客户分析和票务系统，从而造成身份盗窃、财务欺诈和定向网络钓鱼等潜在风险。
+据说 Crunchyroll 检测到了入侵，并在大约 24 小时后撤销了访问权限，不过大量数据表明该操作是迅速计划和实施的。尽管因之前的隐私问题而面临持续的法律审查，但 Crunchyroll 尚未公开承认这一违规行为或通知受影响的用户。
+查看有关 AlternativeTo 的文章更多信息Crunchyroll | Crunchyroll 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/crunchyroll-reportedly-hit-by-breach-exposing-100gb-of-user-data-emails-and-credit-cards/</guid>
+      <pubDate>Mon, 23 Mar 2026 19:26:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cursor 推出基于 Kimi K2.5 的 Composer 2 AI 编码模型，基准测试取得重大进展</title>
+      <link>https://alternativeto.net/news/2026/3/cursor-launches-composer-2-ai-coding-model-based-on-kimi-k2-5-with-major-benchmark-gains/</link>
+      <description><![CDATA[Cursor 推出了最新的人工智能编码模型 Composer 2，扩大了公司的产品范围。据该公司称，Composer 2 对 Terminal-Bench 2.01 和 SWE-bench Multilingual 等既定基准进行了重大改进。这些增强源自 Cursor 的首次持续预训练运行，以及随后针对需要数百个连续操作的长范围编码任务的强化学习。
+Composer 2 的价格为每百万个输入代币 0.50 美元，每百万个输出代币 2.50 美元。为了满足不同的用户需求，Cursor 推出了一种更快的变体，以每百万个输入代币 1.50 美元和每百万个输出代币 7.50 美元的价格提供相同的智能，目前已设置为默认值。该公司指出，这种快速选项比其他同类型号便宜。
+单个计划订阅者的 Composer 2 使用情况在一个独立池中处理，其中包括作为标准的大量使用情况。正如 X 上的讨论所强调的那样，Composer 2 基于 Kimi K2.5 AI 模型，提供了有关其底层技术的透明度。
+查看有关 AlternativeTo 的文章更多信息光标 | 光标替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/cursor-launches-composer-2-ai-coding-model-based-on-kimi-k2-5-with-major-benchmark-gains/</guid>
+      <pubDate>Mon, 23 Mar 2026 17:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌详细介绍了新的 24 小时流程，可以旁加载未经验证的开发者的 Android 应用程序</title>
+      <link>https://alternativeto.net/news/2026/3/google-details-new-24-hour-process-to-sideload-android-apps-from-unverified-developers/</link>
+      <description><![CDATA[继用户广泛批评对 Play 商店外分发的应用进行强制开发者验证后，Google 宣布对其 Android 侧载政策进行重大更新。这一举措是在经过数月的反馈后做出的，特别是来自寻求应用安装更大灵活性的高级用户的反馈。
+作为回应，Google 推出了先进的侧载流程，针对选择安装未经验证的开发者提供的应用的经验丰富的用户。该公司将此描述为一次性选择加入流程，但它包含了几个以安全为重点的步骤。首先，用户必须在系统设置中启用开发人员模式，并确认他们没有在整个过程中接受指导。其目的是检测并阻止任何实时诈骗企图。然后，用户必须重新启动设备，重新进行身份验证以禁用任何潜在的远程访问，等待一天的延迟，最后完成生物识别或 PIN 验证，然后再继续安装应用。
+虽然这些措施旨在平衡灵活性与保护，但 Google 还为教育和爱好者社区提供支持。该公司计划提供免费、有限分发的开发者帐户。这些帐户使学生和爱好者能够与最多 20 台设备共享应用程序，而无需提供政府颁发的 ID 或支付注册费。
+查看有关 AlternativeTo 的文章详细了解Android | Android 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/3/google-details-new-24-hour-process-to-sideload-android-apps-from-unverified-developers/</guid>
+      <pubDate>Mon, 23 Mar 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Funkwhale 2.0 首次推出 API v2、新的响应式 UI、ListenBrainz 同步和多艺术家支持</title>
+      <link>https://alternativeto.net/news/2026/3/funkwhale-2-0-debuts-api-v2-new-responsive-ui-listenbrainz-sync-and-multi-artist-support/</link>
+      <description><![CDATA[Funkwhale 2.0 标志着去中心化音乐和播客平台的重大更新。此版本首次推出了彻底修改的 API，在版本 2 pod 和运行版本 1 的 pod 之间进行了划分。由于这些重大更改，版本 2 pod 将不会与仍在运行早期软件的网络联合。
+除了这一突破性的核心更改之外，该版本还引入了重新设计的响应式用户界面，其中包含深色和浅色主题选项。用户会发现他们的整体体验得到了更新，反映了核心工作流程和视觉效果的广泛变化。在这些改进的基础上，Funkwhale 2.0 提供了多位艺术家支持，支持跨平台的合辑和精选曲目。
+在这些设计和音乐库更改之后，更新带来了增强的社交参与度。人们现在可以关注其他用户、跟踪他们的收听活动、查看收藏夹以及访问播放列表。 ListenBrainz 集成也已到来，使听众能够同步他们的收听历史记录和喜爱的曲目。管理员能够限制上传带有来自 MusicBrainz 的元数据标记的文件，支持一致的编目。
+Funkwhale 2.0 还引入了内容质量过滤器，并用播放列表取代了传统的库，以改善用户体验。其他细微的增强和错误修复提高了平台的稳定性和可用性。
+查看有关 AlternativeTo 的文章更多信息Funkwhale | Funkwhale 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/funkwhale-2-0-debuts-api-v2-new-responsive-ui-listenbrainz-sync-and-multi-artist-support/</guid>
+      <pubDate>Mon, 23 Mar 2026 14:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kagi Translate 推出“LinkedIn Speak”，用于讽刺、企业风格的公告</title>
+      <link>https://alternativeto.net/news/2026/3/kagi-translate-introduces-linkedin-speak-for-satirical-corporate-style-announcements/</link>
+      <description><![CDATA[Kagi 扩展了其翻译服务 Kagi Translate，引入了讽刺语言选项“LinkedIn Speak”。虽然传统翻译工具注重准确转换，但这一最新功能旨在模仿 LinkedIn 上常见的精致风格。简单的短语被转化为冗长的、公告式的帖子，其中包含强调个人成长、反思和成就的短句。表情符号和主题标签经常被包含在内，有助于模仿企业沟通。
+用户可以看到一些示例，例如将基本的项目更新转变为强调协作和创新的热情公告。例如，像“今天，我完成了一个有趣的项目！”这样的简单句子会变成“🚀 很高兴地宣布，我今天正式跨过了一个令人难以置信的回报项目的终点线！这是一次令人惊叹的成长、协作和解决问题的旅程。感谢有机会突破界限并交付有影响力的结果。📈 #Achievement #GrowthMindset #ProjectManagement #Innovation #成功”。该翻译器还提供反向功能：带有激励性语言和主题标签的 LinkedIn 帖子可以转换回简单的英语，以便更清晰的沟通。
+扩展其有趣的方法，Kagi Translate 已经包含了其他新颖和受流行文化启发的语言，如企业术语、Reddit Speak 和 Gen Z，以及虚构语言，如多斯拉克语、精灵语、中古英语和海盗语。这些选项凸显了 Kagi 对尝试不同通信方式的用户的灵活性和娱乐性的关注。
+查看有关 AlternativeTo 的文章有关 Kagi 的更多信息翻译 | Kagi 翻译替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/kagi-translate-introduces-linkedin-speak-for-satirical-corporate-style-announcements/</guid>
+      <pubDate>Mon, 23 Mar 2026 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Floorp v12.11.0：现在支持 Chrome 扩展并修复了关键错误</title>
       <link>https://alternativeto.net/news/2026/3/floorp-v12-11-0-now-supports-chrome-extensions-and-fixes-key-bugs/</link>
-      <description><![CDATA[Floorp 浏览器现在在其标准版本中直接支持 Chrome 扩展程序，允许用户从 Chrome 网上应用店添加扩展程序。 The update also resolves installation issues with Chrome extensions and includes a refreshed &quot;About Floorp&quot;对话。
-Additional bug fixes address notes editing, gesture visibility, sidebar behavior, and account information display.
-查看有关 AlternativeTo 的文章更多信息 Floorp | Floorp Alternatives]]></description>
+      <description><![CDATA[Floorp 浏览器现在在其标准版本中直接支持 Chrome 扩展程序，允许用户从 Chrome 网上应用店添加扩展程序。该更新还解决了 Chrome 扩展的安装问题，并包含更新的“关于 Floorp”选项。对话。
+其他错误修复解决了注释编辑、手势可见性、侧边栏行为和帐户信息显示问题。
+查看有关 AlternativeTo 的文章更多信息地板 | 地板替代品]]></description>
       <guid>https://alternativeto.net/news/2026/3/floorp-v12-11-0-now-supports-chrome-extensions-and-fixes-key-bugs/</guid>
       <pubDate>Mon, 23 Mar 2026 10:16:39 GMT</pubDate>
     </item>
@@ -18,7 +69,7 @@ Additional bug fixes address notes editing, gesture visibility, sidebar behavior
       <title>Wine 11.5 添加了 C++ 构建系统、Linux 上的 Syscall User Dispatch 以及捆绑的 ICU 库</title>
       <link>https://alternativeto.net/news/2026/3/wine-11-5-adds-c--build-system-syscall-user-dispatch-on-linux-and-bundled-icu-libraries/</link>
       <description><![CDATA[Wine 11.5 现已推出，加强了其作为在 Linux、macOS 和 BSD 上运行 Windows 应用程序的兼容层的作用。此更新提供了多项技术进步，旨在提高这些系统上用户的性能和兼容性。
-Leading this release, Wine 11.5 introduces C++ support in its build system, expanding flexibility for developers building and integrating Wine in custom environments.除此之外，现在还包含捆绑的 International Components for Unicode (ICU) 库，它可以增强众多应用程序的字符编码和 Unicode 处理。
+在此版本中，Wine 11.5 在其构建系统中引入了 C++ 支持，为开发人员在自定义环境中构建和集成 Wine 提供了更大的灵活性。除此之外，现在还包含捆绑的 International Components for Unicode (ICU) 库，它可以增强众多应用程序的字符编码和 Unicode 处理。
 虽然 Linux 用户特别受益于 Syscall User Dispatch 的新支持，但这一更改也为运行最新或复杂的 Windows 应用程序时提高性能和兼容性奠定了基础。在这些核心增强之后，多个 VBScript 兼容性问题已得到解决，进一步增强了对依赖脚本功能的 Windows 软件的支持。
 此外，Wine 11.5 还解决了影响各种流行程序和游戏的 22 个错误。其中包括对 Evernote、PCG Tools、Red Dead Redemption 2、Clip Studio Paint 和其他实用程序的修复，这应该会对最终用户在 Wine 下操作这些游戏时的体验产生积极影响。
 查看有关 AlternativeTo 的文章更多信息葡萄酒 | 葡萄酒替代品]]></description>
@@ -106,57 +157,6 @@ Google 还计划进行更多集成。很快，用户将能够将应用程序与 
 查看有关 AlternativeTo 的文章更多信息维瓦尔第 | 维瓦尔第替代品]]></description>
       <guid>https://alternativeto.net/news/2026/3/vivaldi-7-9-introduces-customizable-full-screen-mode-follower-tabs-and-mail-improvements/</guid>
       <pubDate>Fri, 20 Mar 2026 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Immich 2.6 改进了地图侧面板、资产查看器、共享链接段和预设等</title>
-      <link>https://alternativeto.net/news/2026/3/immich-2-6-improves-map-side-panel-asset-viewer-shared-link-slugs-and-presets-and-more/</link>
-      <description><![CDATA[Immich 2.6 已作为此开源、高性能自托管照片和视频管理解决方案的最新版本发布。此更新通过允许直接从 idToken 读取用户声明来提供扩展的身份验证支持，从而提高与 Microsoft Active Directory 联合身份验证服务等身份提供商的兼容性。资产查看器获得了底层改进，可提供更快的加载速度、增强的可靠性、GIF 播放和视频缩放功能，从而提供更流畅的用户体验。
-在网络上，地图视图现在会在选择集群时打开一个迷你时间线侧面板，允许用户快速查看分组的资产并执行批处理操作，例如将项目添加到收藏夹或相册。为了清晰起见，共享链接过期表单也进行了更新，帮助用户更好地了解共享访问权限何时过期。
-在移动设备上，用户现在可以选择新的专辑封面并在应用内设置共享链接。移动客户端还采用跨 Android 和 iOS 的本机 HTTP 支持，通过相互 TLS、自签名证书和自定义标头实现安全连接。此外，搜索结果现在增量加载，提高了速度并为空或满载搜索引入了新屏幕。
-最后，管理员可以受益于 immich-admin 中的新 schema-check 命令，该命令会在启动时自动检查数据库是否缺少索引、约束、表和列。
-查看有关 AlternativeTo 的文章更多信息Immich | Immich 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/3/immich-2-6-improves-map-side-panel-asset-viewer-shared-link-slugs-and-presets-and-more/</guid>
-      <pubDate>Fri, 20 Mar 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Signal 引入了组成员标签，允许您指定您的角色或职责</title>
-      <link>https://alternativeto.net/news/2026/3/signal-introduces-group-member-labels-allowing-you-to-specify-your-role-or-responsibility/</link>
-      <description><![CDATA[Signal 在其最新更新中引入了群组成员标签，现已在 Android、桌面和 iOS 上提供。此功能允许用户在群聊中的个人资料名称旁边添加标签。标签可以明确每个人的责任，也可以作为群体特有的内部笑话。
-基于 Signal 的隐私承诺，这些群组成员标签经过端到端加密，并且仅在设置它们的特定群组内可见。与分配管理员状态不同，创建标签不提供特殊权限，它仅作为供其他成员查看的描述性工具。用户可以为他们加入的每个群聊设置不同的标签，从而实现基于上下文的个性化方法。
-启用此功能后，每个群组成员都可以为自己创建标签，但不能为其他成员创建标签。但是，管理员可以选择将标签创建限制为仅管理员成员，关闭此权限会导致从组中删除非管理员标签。
-查看有关 AlternativeTo 的文章更多信息信号 | 信号替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/3/signal-introduces-group-member-labels-allowing-you-to-specify-your-role-or-responsibility/</guid>
-      <pubDate>Fri, 20 Mar 2026 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GNOME 50 推出家长控制、辅助功能升级和性能提升</title>
-      <link>https://alternativeto.net/news/2026/3/gnome-50-rolls-out-with-parental-controls-accessibility-upgrades-and-performance-boost/</link>
-      <description><![CDATA[GNOME 50“Tokyo”作为 Linux 和 BSD 桌面用户的重大更新发布，在可用性、生产力、性能和系统稳定性方面提供了一系列改进。
-此版本是对家庭的重大升级，引入了家长控制，允许监控屏幕时间并设置儿童帐户的使用限制，包括配置就寝时间表。当达到限制或就寝时间时，这些控件可以自动锁定屏幕。与此同时，辅助功能也得到了彻底修改。用户将发现一个新的首选项窗口，其中包含全局设置、自动语言切换、改进的浏览模式以及在 Wayland 会话中支持鼠标查看。此外，新添加的减少运动选项可调整界面动画，缓解潜在的不适或分心。
-在这些可访问性和管理升级之后，多个核心应用程序获得了关键增强。 文档查看器现在提供扩展的注释类型，例如文本、线条和突出显示。 文件应用程序获得了性能提升、更高的可靠性和更时尚的界面。 GNOME 日历受益于生产力和导航升级，新的与会者列表区分了必需和可选的活动受邀者。
-这些更新还包括对“设置”应用的改进、扩展的远程桌面功能（包括 NVIDIA 驱动程序支持和 HiDPI）以及跨显示技术的显着稳定性和性能提升。
-查看有关 AlternativeTo 的文章更多信息GNOME | GNOME 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/gnome-50-rolls-out-with-parental-controls-accessibility-upgrades-and-performance-boost/</guid>
-      <pubDate>Fri, 20 Mar 2026 08:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Perplexity 推出 Comet Enterprise，一款面向团队的安全 AI 浏览器</title>
-      <link>https://alternativeto.net/news/2026/3/perplexity-launches-comet-enterprise-a-secure-ai-browser-for-teams/</link>
-      <description><![CDATA[Perplexity 推出了 Comet Enterprise，这是一款针对企业团队的安全 AI 浏览器。该浏览器具有精细的管理控制、通过 MDM 工具进行部署以及对审核日志和遥测的支持。
-Comet Enterprise 还包括与 CrowdStrike Falcon 的集成，以检测和阻止网络钓鱼或恶意软件威胁。
-查看有关 AlternativeTo 的文章有关 Perplexity 的更多信息Comet | 困惑彗星替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/perplexity-launches-comet-enterprise-a-secure-ai-browser-for-teams/</guid>
-      <pubDate>Thu, 19 Mar 2026 16:00:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kagi 在其仅限人类的“小网络”中添加了浏览器扩展、移动应用程序和类别</title>
-      <link>https://alternativeto.net/news/2026/3/kagi-adds-browser-extensions-mobile-apps-and-categories-to-its-human-only-small-web-/</link>
-      <description><![CDATA[Kagi 推出了对其小 Web 计划的重大更新，引入了浏览器扩展和移动应用程序，作为用户探索互联网非商业方面的额外方式。这些扩展现在可用于 Chrome 和 Firefox 浏览器，而移动应用程序可以安装在 iOS 和 Android 设备上。所有版本均具有扩展界面，添加新选项以促进发现和浏览。
-在扩展到新平台后，Kagi 引入了精选类别，允许用户按主题过滤超过 30,000 个特色小型网站的流。这种基于类别的方法可帮助用户发现适合其兴趣的内容，只需进行下拉选择即可微调浏览体验。
-作为这些改进的补充，扩展程序和移动应用程序使用户能够保存喜爱的内容，按类型进行选择，例如视频、漫画或代码存储库，以及查看最近访问或高度赞赏的网站的列表。为了进一步扩大访问范围，Kagi 实施了无干扰阅读器模式，添加了适合阅读障碍的字体，并集成了文本转语音支持以增强可访问性。
-查看有关 AlternativeTo 的文章有关 Small 的更多信息Web | 小型 Web 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/3/kagi-adds-browser-extensions-mobile-apps-and-categories-to-its-human-only-small-web-/</guid>
-      <pubDate>Thu, 19 Mar 2026 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
