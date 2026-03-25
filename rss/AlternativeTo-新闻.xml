@@ -4,13 +4,119 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Wed, 25 Mar 2026 02:10:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 13:11:00 GMT</lastBuildDate>
+    <item>
+      <title>Firefox 149 添加了 50 GB 的免费内置 VPN、分割视图、选项卡注释和增强的安全性</title>
+      <link>https://alternativeto.net/news/2026/3/firefox-149-adds-free-built-in-vpn-with-50-gb-split-view-tab-notes-and-enhanced-security/</link>
+      <description><![CDATA[Firefox 149 带来了多项新功能，旨在使日常浏览更加高效和安全。更新后的浏览器添加了拆分视图模式，使用户可以在一个窗口中并排显示两个页面。此更改有助于比较内容、研究主题或跨多个选项卡工作。与此同时，免费的内置虚拟专用网络 (VPN) 正在美国、英国、德国和法国推出，每月提供 50 GB 数据，并允许用户切换对特定网站的保护。
+基于工作流程改进，Firefox Labs 中的选项卡注释功能可让您将个人注释附加到各个网页。用户可以记下提醒或详细信息以供以后重新访问。新的 TrustPanel 将隐私和安全设置引入可从地址栏访问的一个位置。通知控制更加严格：Firefox 现在会自动阻止并永久撤销被 SafeBrowsing 标记为恶意的网站的权限，同时对核心流程中 JavaScript 的要求也得到了加强。
+在这些安全性增强之后，许多 PDF 文件将通过增加的硬件加速加载得更快。 Linux 用户将看到 Firefox 默认使用 XDG 门户文件选择器，以获得更原生的体验。更新还将地址自动填充功能扩展到另外五个国家，并在设备翻译中添加了新语言，包括波斯尼亚语、塞尔维亚语、挪威语和泰语。此外，Windows 和 macOS 用户还获得了一个共享按钮，可以通过系统工具快速共享选项卡。
+查看有关 AlternativeTo 的文章更多信息Mozilla Firefox | Mozilla Firefox 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/firefox-149-adds-free-built-in-vpn-with-50-gb-split-view-tab-notes-and-enhanced-security/</guid>
+      <pubDate>Wed, 25 Mar 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 为所有用户引入视觉购物和产品发现</title>
+      <link>https://alternativeto.net/news/2026/3/chatgpt-introduces-visual-shopping-and-product-discovery-for-all-users/</link>
+      <description><![CDATA[ChatGPT 现在提供更丰富、更直观的购物体验，允许用户通过并排比较和可视化工具浏览和比较产品。这些增强功能正在向所有免费、Go、Plus 和 Pro 用户推出。
+扩展的 Agentic Commerce Protocol 集成使商家（包括 Target 和 Walmart 等主要零售商）能够直接在 ChatGPT 对话中共享实时产品数据。
+查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/chatgpt-introduces-visual-shopping-and-product-discovery-for-all-users/</guid>
+      <pubDate>Wed, 25 Mar 2026 09:31:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Opera One 增加了 Gemini、谷歌翻译和四选项卡分屏</title>
+      <link>https://alternativeto.net/news/2026/3/opera-one-adds-gemini-google-translate-and-four-tab-split-screen/</link>
+      <description><![CDATA[Opera One 现在直接在边栏中集成了 Gemini 和 Google 翻译，让用户无需切换标签页即可更快地访问。该浏览器的分屏功能也得到了扩展，现在支持同时查看和组织最多四个选项卡，并具有灵活的布局选项。
+此更新包括两个新的动态主题：Cybervroom 和 Mizumi，以进一步个性化浏览体验。
+查看有关 AlternativeTo 的文章有关 Opera 的更多信息 | 歌剧替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/opera-one-adds-gemini-google-translate-and-four-tab-split-screen/</guid>
+      <pubDate>Wed, 25 Mar 2026 09:25:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>自动情报报告到达 Inoreader</title>
+      <link>https://alternativeto.net/news/2026/3/automated-intelligence-reports-arrive-in-inoreader/</link>
+      <description><![CDATA[Inoreader 引入了自动化情报报告，可以根据用户定义的时间表使用可自定义或预定义的提示对多篇文章进行计划分析。每个报告都保存为新文章，允许注释、共享或导出。
+该功能可作为 Pro 和 Custom 计划的附加功能使用，并包含在 Team Intelligence 计划中，使用基于令牌的配额。
+查看有关 AlternativeTo 的文章有关 Inoreader 的更多信息 | Inoreader 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/automated-intelligence-reports-arrive-in-inoreader/</guid>
+      <pubDate>Wed, 25 Mar 2026 08:54:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Code 推出自动模式以实现自动文件和 bash 权限</title>
+      <link>https://alternativeto.net/news/2026/3/claude-code-launches-auto-mode-for-automated-file-and-bash-permissions/</link>
+      <description><![CDATA[Claude Code 现在提供自动模式，该模式使用内置分类器自动执行文件写入和 bash 命令权限批准。安全操作会自动执行，而潜在的破坏性操作会在无需用户输入的情况下被阻止。
+此功能可作为团队计划的研究预览，企业版和 API 即将推出。
+查看有关 AlternativeTo 的文章有关 Claude 的更多信息代码 | Claude 代码替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/3/claude-code-launches-auto-mode-for-automated-file-and-bash-permissions/</guid>
+      <pubDate>Wed, 25 Mar 2026 08:44:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google TV 推出新的 Gemini 功能：视觉帮助、深度挖掘和运动简报</title>
+      <link>https://alternativeto.net/news/2026/3/google-tv-introduces-new-gemini-features-visual-help-deep-dives-and-sports-briefs/</link>
+      <description><![CDATA[Google TV 正在推出由 Gemini 提供支持的新功能，包括更丰富的视觉帮助、对教育主题的交互式深入探讨以及实时更新的及时体育简报。视觉帮助功能适应用户问题，显示相关的视觉效果、视频或记分卡。
+深入探讨提供了一系列主题的解说式互动解释，而体育简报则提供了主要联盟的解说式更新。
+这些功能现已在美国和加拿大推出，并将在更多地点和设备上推出。
+查看有关 AlternativeTo 的文章有关 Google 的更多信息电视 | Google TV 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/google-tv-introduces-new-gemini-features-visual-help-deep-dives-and-sports-briefs/</guid>
+      <pubDate>Wed, 25 Mar 2026 08:40:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thunderbird 149.0：导出地址簿卡并改进跨设备同步</title>
+      <link>https://alternativeto.net/news/2026/3/thunderbird-149-0-export-address-book-cards-and-improved-sync-across-devices/</link>
+      <description><![CDATA[Thunderbird 149.0 引入了导出选定地址簿卡的功能，从而更轻松地进行联系人管理。加星标的 EWS 消息现在在各个设备上保持一致，并且地址簿现在是在帐户中心内创建的。
+此更新修复了许多问题，包括同步错误、崩溃、编码错误和可用性，以及安全性和用户体验改进。
+查看有关 AlternativeTo 的文章更多信息Thunderbird | Thunderbird 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/thunderbird-149-0-export-address-book-cards-and-improved-sync-across-devices/</guid>
+      <pubDate>Wed, 25 Mar 2026 08:32:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Files 4.0.37 减小了包大小、增强了主页操作、添加了 7z 选项并改进了选项卡</title>
+      <link>https://alternativeto.net/news/2026/3/files-4-0-37-reduces-package-size-boosts-home-actions-adds-7z-options-and-improves-tabs/</link>
+      <description><![CDATA[文件 4.0.37 是适用于 Windows 的开源文件浏览器的最新版本，可大幅减小安装程序包的大小，减少了 180 MB 以上。此更改为管理有限带宽或存储的用户提供了更快的下载和安装体验。
+在此版本中，右键单击主页现在会打开一个用于快速操作的专用菜单，包括切换小部件和添加新窗格。此改进简化了主页布局自定义，无需离开启动界面。共享相同文件夹名称的选项卡现在显示上下文路径提示，帮助用户区分多个文件夹，否则可能会造成混淆。
+继这些可用性增强之后，Files 4.0.37 还引入了用于切换侧边栏的专用操作，可通过界面和 Ctrl + B 快捷键进行访问。现在支持中键单击滚动，改进了大型目录中的导航。此外，详细信息窗格现在包括连接的云驱动器的存储概述，从而可以更清晰地了解云存储的使用情况。
+这些更新继续提供高级 7z 存档选项，让用户可以指定字典和字大小值以进行自定义压缩。用户还可以同时对多个文件应用压缩属性，并将侧边栏项目拖到其他应用程序中。此版本中还修复了一些错误。
+查看有关 AlternativeTo 的文章更多关于文件 | 文件替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/files-4-0-37-reduces-package-size-boosts-home-actions-adds-7z-options-and-improves-tabs/</guid>
+      <pubDate>Wed, 25 Mar 2026 08:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 将关闭其 AI 视频应用程序 Sora，该应用程序发布后不到六个月</title>
+      <link>https://alternativeto.net/news/2026/3/openai-is-shutting-down-sora-its-ai-video-slop-app-less-than-six-months-after-launch/</link>
+      <description><![CDATA[OpenAI 已宣布将停止使用 Sora（其 AI 视频生成应用程序和用于共享 AI 视频 slop 的社交平台）以及相关 API。该公司尚未透露确切的关闭日期，但表示将提供有关时间表以及用户如何保留其内容的更多详细信息。 OpenAI 将这一决定与优先事项的转变和不断增长的计算需求联系起来，Sora 研究团队现在专注于与其更广泛的机器人技术相关的世界模拟研究。
+此举还会影响OpenAI 最近与迪士尼达成的 10 亿美元合作伙伴关系，其中包括计划授权迪士尼角色在 Sora 中使用，并将人工智能生成的视频引入Disney Plus。随着 Sora 的停产，该协议也即将结束。
+Sora 早期受到了强烈关注，并一度登上美国 App Store 排行榜榜首，但兴趣似乎很快就消退了。 OpenAI 在 2024 年底推出后仅几个月就被关闭，结束了 OpenAI 围绕 AI 垃圾内容构建的新型社交网络和共享平台的短暂实验。 Meta AI 应用程序下一个？ 👀
+查看有关 AlternativeTo 的文章更多信息Sora | Sora 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/openai-is-shutting-down-sora-its-ai-video-slop-app-less-than-six-months-after-launch/</guid>
+      <pubDate>Wed, 25 Mar 2026 06:13:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果宣布推出新的商务平台，提供免费商务电子邮件，并将在地图中展示广告</title>
+      <link>https://alternativeto.net/news/2026/3/apple-announces-a-new-business-platform-with-free-business-email-and-will-show-ads-in-maps/</link>
+      <description><![CDATA[Apple 推出了 Apple Business，这是一个全新的一体化平台，为组织提供了设备管理、生产力工具和客户互动功能。该平台被定位为 Microsoft 365 和 Google Workspace 的新竞争对手，特别是推出了面向公司的免费企业电子邮件服务、最多可容纳 500 名用户的日历和目录服务。公司可以使用现有的自定义域或通过 Apple 购买一个，每个用户都可以获得 5GB 的 iCloud 存储空间，并可选择付费升级。
+商务电子邮件可与任何 IMAP 兼容的客户端配合使用，而日历则支持跨 Apple、Android 和 Windows 设备的 CalDAV 兼容应用程序。 Apple Business 包括针对应用程序、安全策略和设备设置的内置移动设备管理，以及日历委托、目录工具和基于角色的管理等功能。通过蓝图，IT 团队可以在通过 Apple 或授权经销商购买设备时预先配置设备以实现零接触部署，而管理式 Apple 帐户则可以将工作数据和个人数据分开，并可以通过 Google Workspace 和 Microsoft Entra ID 等提供商进行配置。
+在客户方面，企业可以在 Apple 地图 上管理其品牌和位置、创建品牌传播、查看分析以及将品牌添加到 iPhone 交易中的触碰支付中。更值得注意的是，苹果现已确认将首次在地图上投放广告，从今年夏天晚些时候开始在美国和加拿大推出。这些广告的工作方式与 App Store 广告类似，允许企业为相关搜索结果顶部和新的“建议位置”部分中的展示位置付费。 Apple Business 将于 4 月 14 日在 200 多个国家和地区推出，它将取代 Apple 早期的几款商务产品。
+查看有关 AlternativeTo 的文章有关 Apple 的更多信息地图 | Apple 地图替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/3/apple-announces-a-new-business-platform-with-free-business-email-and-will-show-ads-in-maps/</guid>
+      <pubDate>Wed, 25 Mar 2026 05:39:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Figma 在画布上打开直接 AI 代理设计，介绍引导工作流程的技能</title>
+      <link>https://alternativeto.net/news/2026/3/figma-opens-direct-ai-agent-design-on-canvas-introduces-skills-for-guided-workflows/</link>
+      <description><![CDATA[Figma 现在允许 AI 编码代理通过其 MCP 服务器直接在 Figma 文件内进行设计，因此它们可以在画布上工作本身，而不是在应用程序外部生成代码。通过 use_figma 工具，Claude Code 和 Codex 等兼容代理可以在使用设计系统、组件、变量、布局结构和团队约定等现有上下文的同时创建和更新设计资产。
+Figma 还引入了技能，这是基于 Markdown 的指令，通过定义步骤、约定和工作流逻辑来塑造代理在 Figma 中的操作方式。无需代码即可创建或编辑它们。在发布时，Figma 分享了九个示例技能，重点关注构建组件库、生成新设计、生成可访问性规范、协调工作流程以及将代码与设计令牌连接等任务。技能还可以支持自我修复循环，智能体可以根据真实结构（而不仅仅是平面视觉效果）来比较、完善和更新设计。
+Figma 表示，它计划通过画布上的原生 AI、更好的技能共享以及对图像和自定义字体的支持（目前尚不可用）来扩展此功能。该功能目前可与多个 MCP 客户端配合使用，测试期间免费，预计稍后将成为付费 API。根据 Figma 的说法，MCP 本机设置还继承了现有的安全性和可靠性标准。
+查看有关 AlternativeTo 的文章更多信息Figma | Figma 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/figma-opens-direct-ai-agent-design-on-canvas-introduces-skills-for-guided-workflows/</guid>
+      <pubDate>Wed, 25 Mar 2026 05:32:10 GMT</pubDate>
+    </item>
     <item>
       <title>Unite Pro 1.1 更新，包含 Tiny Apps、持久选项卡和链接转发</title>
       <link>https://alternativeto.net/news/2026/3/unite-pro-1-1-updates-with-tiny-apps-persistent-tabs-and-link-forwarding/</link>
       <description><![CDATA[Unite Pro 1.1 引入了 Tiny Apps，允许用户将窗口大小调整为迷你应用程序大小，以便在屏幕上持续使用。固定选项卡现在更加可靠，并且可以跨会话持续存在，并且链接转发支持外部应用程序 URL 方案，以实现更好的工作流程集成。
 此版本还改进了书签管理、自动刷新选项，并针对应用签名、证书处理和快捷方式可靠性提供了大量修复。
-查看有关 AlternativeTo 的文章更多信息团结 | 团结替代方案]]></description>
+查看有关 AlternativeTo 的文章更多信息团结 | 团结替代品]]></description>
       <guid>https://alternativeto.net/news/2026/3/unite-pro-1-1-updates-with-tiny-apps-persistent-tabs-and-link-forwarding/</guid>
       <pubDate>Tue, 24 Mar 2026 16:18:10 GMT</pubDate>
     </item>
@@ -42,119 +148,6 @@
 查看有关 AlternativeTo 的文章更多信息克劳德 | 克劳德替代品]]></description>
       <guid>https://alternativeto.net/news/2026/3/claude-can-now-control-your-computer-to-automate-tasks-and-workflows-in-cowork-and-code/</guid>
       <pubDate>Tue, 24 Mar 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>三星为 Galaxy S26 上的 Quick Share 提供 AirDrop 支持</title>
-      <link>https://alternativeto.net/news/2026/3/samsung-brings-airdrop-support-to-quick-share-on-galaxy-s26/</link>
-      <description><![CDATA[三星正在 Galaxy S26 系列上通过快速共享引入AirDrop 支持。 Galaxy S26 用户将默认启用“与 Apple 设备共享”功能。
-该服务于 3 月 23 日在韩国开始推出，并将扩展到欧洲、北美等全球市场。
-查看有关 AlternativeTo 的文章有关 Quick 的更多信息分享 | 快速分享替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/3/samsung-brings-airdrop-support-to-quick-share-on-galaxy-s26/</guid>
-      <pubDate>Tue, 24 Mar 2026 15:54:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>KiCad 10 发布，包含轨道调整改进、Windows 深色模式、设计变体等</title>
-      <link>https://alternativeto.net/news/2026/3/kicad-10-released-with-track-tuning-revamp-windows-dark-mode-design-variants-and-more/</link>
-      <description><![CDATA[KiCad 10 经过一年多的开发，现已发布，为开源电子设计自动化套件带来了大量新功能和增强功能。值得注意的是，KiCad 10 引入了全面的轨道调整系统检修。此升级包括改进的算法，使路由器与设计规则检查器保持一致，增加了对时域约束的支持，并允许使用每层信号路由的调整配置文件。
-除了这一核心更改之外，该软件现在仅以 STEP 文件形式提供 3D 模型，这显着减小了安装尺寸并提高了几何精度。该版本进一步简化了工作流程，增加了对从 Allegro、PADS 和 gEDA/Lepton PCB 导入设计的支持，从而更轻松地迁移现有项目。
-继之前的用户界面改进之后，Windows 用户获得了自动暗模式支持，并能够通过重新排列编辑器工具栏以满足个人喜好来自定义编辑器工具栏。 PCB 和原理图编辑器中的新套索选择模式以及在关闭对话框之前撤消对话框内更改的能力也提高了编辑灵活性。
-基于之前的原理图改进，现在的功能包括原理图编辑器内的分组、作为跳跃弧的更清晰的导线交叉、拖动导线时的实时预览和警告、对跳线的支持以及用于自定义约束的图形规则编辑器。其他增强功能包括设计变体管理、引脚表的 CSV 导入/导出、扩展的设计块功能以及对封装中图形对象的内层支持等。
-查看有关 AlternativeTo 的文章更多信息KiCad | KiCad 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/kicad-10-released-with-track-tuning-revamp-windows-dark-mode-design-variants-and-more/</guid>
-      <pubDate>Tue, 24 Mar 2026 14:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Perplexity Health 与 Apple Health 和可穿戴设备集成推出，以提供 AI 医疗答案</title>
-      <link>https://alternativeto.net/news/2026/3/perplexity-health-launches-with-apple-health-and-wearable-integration-for-ai-medical-answers/</link>
-      <description><![CDATA[Perplexity推出了Perplexity Health，这是一套新工具，允许用户将个人和可穿戴设备的健康数据链接到Perplexity Computer系统。此次发布提供了对 Apple Health 的访问、来自超过 170 万护理提供者的电子健康记录以及 Fitbit、Ultra human、Withings 和其他来源等平台。用户受益于跟踪生物标志物和活动趋势的个性化仪表板，通过结合医疗记录、实验室结果和可穿戴设备数据的信息，为健康问题提供全面的答案。
-整合这些数据源后，用户可以根据当前的健身数据制定马拉松训练方案、生成医疗预约的就诊准备摘要、创建个性化的营养计划或确定最合适的护理提供者。每个健康答案都引用了优质医学文献，摘自临床指南和同行评审的期刊文章，每个回复都提供直接引用，以便用户可以验证源材料。该系统还包括保障措施，就何时可能需要寻求医疗救助提供明确的建议。
-在隐私方面，健康数据在传输和存储过程中均进行加密，并具有严格的访问控制和管理或删除的用户工具。用户可以随时断开可穿戴设备或医疗记录等健康数据源。 Perplexity Health 最初将向美国的 Pro 和 Max 用户推出，预计在不久的将来将进一步推广到其他地区和用户组。
-查看有关 AlternativeTo 的文章更多信息困惑 | 困惑替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/perplexity-health-launches-with-apple-health-and-wearable-integration-for-ai-medical-answers/</guid>
-      <pubDate>Tue, 24 Mar 2026 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在，您可以使用 Google Stitch 通过语音在无限画布上营造设计 UI</title>
-      <link>https://alternativeto.net/news/2026/3/you-can-now-use-google-stitch-to-vibe-design-uis-on-an-infinite-canvas-using-your-voice/</link>
-      <description><![CDATA[Google 正在将 Stitch 从人工智能驱动的设计工具转变为完全人工智能原生的软件设计画布。这一演变的目的是让用户使用自然语言输入来创建、迭代和协作用户界面设计。 Stitch 的全新无限 AI 原生画布现在支持从最初构思到功能原型的工作流程，为设计团队提供了探索概念和流畅发展项目的空间。
-基于这些变化，设计代理可以在整个画布的上下文中进行推理，跟踪工作进度并实现多方向探索。通过添加代理经理，用户可以监督并行的创意开发，使项目在分支到新方向时保持井井有条。
-设计系统工具包也得到了扩展。您现在可以直接从任何 URL 提取设计系统，或使用新的 DESIGN.md 文件格式在 Stitch 和其他设计或编码工具之间导入和导出设计规则。 Stitch还支持将静态屏幕立即转变为交互式原型。通过链接屏幕并单击“播放”，团队可以预览应用程序流程并依靠 Stitch 为用户旅程生成逻辑上的下一个屏幕。
-接下来，语音功能使设计人员能够免提交互、接收实时反馈并通过对话进行更新。最后，Stitch 使用其 MCP 服务器和 SDK 与更广泛的工作流程集成，支持导出到 AI Studio 和 Antigravity 等工具，同时支持第三方扩展。
-查看有关 AlternativeTo 的文章有关 Google 的更多信息Stitch | Google Stitch 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/you-can-now-use-google-stitch-to-vibe-design-uis-on-an-infinite-canvas-using-your-voice/</guid>
-      <pubDate>Tue, 24 Mar 2026 11:08:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qt 6.11 引入了 Qt Canvas Painter、重大 3D 改进、新的图形功能等</title>
-      <link>https://alternativeto.net/news/2026/3/qt-6-11-introduces-qt-canvas-painter-major-3d-improvements-new-graph-capabilities-and-more/</link>
-      <description><![CDATA[Qt 6.11 现已作为最新版本的跨平台应用程序框架推出，专注于图形用户界面和应用程序开发。此更新引入了 Qt Canvas Painter，这是一个基于渲染硬件接口构建的新 2D 图形模块，用于硬件加速绘图。 Canvas Painter 包括可调节抗锯齿、框渐变、阴影、网格图案、自定义着色器画笔和颜色效果等高级功能，可实现视觉上丰富且高效的用户界面工作流程。
-除了 Canvas Painter 之外，此版本还带来了 3D 可视化方面的显着增强。屏幕空间全局照明 (SSGI) 模拟实时光反射以获得更真实的照明，而屏幕空间反射 (SSR) 使用基于像素的光线行进渲染屏幕上的反射。每个对象的运动向量支持计算成本和输出保真度的平衡。 Qt Quick 3D 用户还可以获得新的渲染通道自定义选项。通过这 3 项增强功能，Qt 团队表示 Qt 框架现在提供“与游戏引擎相同的 3D 功能”。
-在这些更新的基础上，Qt 6.11 引入了用于创建图形并与之交互的新方法，以及 Qt TaskTree，这是一个技术预览模块，为 C++ 中的异步工作流程提供了声明式方法。通过将工作流程定义为可重复使用的配方，开发人员可以更直观地自动化任务管理。
-该版本还改进了用户界面框架、额外的 2D 功能、网络和连接更新以及简化的 QML 和 C++ 集成。
-查看有关 AlternativeTo 的文章更多信息Qt | Qt 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/qt-6-11-introduces-qt-canvas-painter-major-3d-improvements-new-graph-capabilities-and-more/</guid>
-      <pubDate>Tue, 24 Mar 2026 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GrapheneOS 表示不会遵守年龄验证法律，并将在全球范围内继续使用</title>
-      <link>https://alternativeto.net/news/2026/3/grapheneos-says-it-won-t-comply-with-age-verification-laws-and-will-stay-available-worldwide/</link>
-      <description><![CDATA[GrapheneOS 已公开表示，它将不遵守要求操作系统在设置过程中收集用户年龄数据的新法规。这款注重隐私的 Android 操作系统在社交媒体上宣布了这一消息，回应了巴西和美国几个州的法律，这些法律对未能实施年龄验证的每次违规行为处以高达数百万美元的罚款。
-虽然许多提供商现在被要求收集用户的年龄或出生日期并将其实时传输给应用商店和开发者，但 GrapheneOS 团队确认他们的方法有所不同。根据声明，GrapheneOS 将在全球范围内继续使用，无需提供个人信息、身份证明或创建帐户。该团队指出，如果搭载 GrapheneOS 的设备无法在有此类法规的地区销售，他们将接受这些后果，以维持其高隐私标准。
-该公告发布之际，摩托罗拉计划发布运行 GrapheneOS 的设备。社交媒体上的许多用户批评强制操作系统级年龄验证，称其没有必要。对于在选择移动操作系统时优先考虑隐私的用户来说，此举可能特别相关。
-查看有关 AlternativeTo 的文章更多信息GrapheneOS | GrapheneOS 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/grapheneos-says-it-won-t-comply-with-age-verification-laws-and-will-stay-available-worldwide/</guid>
-      <pubDate>Tue, 24 Mar 2026 08:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>据报道，Crunchyroll 遭遇泄露，泄露了 100GB 用户数据、电子邮件和信用卡</title>
-      <link>https://alternativeto.net/news/2026/3/crunchyroll-reportedly-hit-by-breach-exposing-100gb-of-user-data-emails-and-credit-cards/</link>
-      <description><![CDATA[一名威胁行为者声称从 Crunchyroll 中窃取了大约 100 GB 的个人用户信息，据称该漏洞始于 2026 年 3 月 12 日。根据 报告显示，Crunchyroll 的外包合作伙伴 Telus 的一名员工执行恶意软件后，攻击者获得了访问权限，从而为他们提供了进入公司系统的入口点。
-据报道，攻击者从那里进入了与客户数据和票务系统相关的敏感环境。 Cyber​​ Digest 表示，被盗数据样本包括 IP 地址、电子邮件地址、信用卡详细信息以及包含其他 PII 的分析数据。攻击者声称这些数据专门来自 Crunchyroll 的客户分析和票务系统，从而造成身份盗窃、财务欺诈和定向网络钓鱼等潜在风险。
-据说 Crunchyroll 检测到了入侵，并在大约 24 小时后撤销了访问权限，不过大量数据表明该操作是迅速计划和实施的。尽管因之前的隐私问题而面临持续的法律审查，但 Crunchyroll 尚未公开承认这一违规行为或通知受影响的用户。
-查看有关 AlternativeTo 的文章更多信息Crunchyroll | Crunchyroll 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/crunchyroll-reportedly-hit-by-breach-exposing-100gb-of-user-data-emails-and-credit-cards/</guid>
-      <pubDate>Mon, 23 Mar 2026 19:26:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cursor 推出基于 Kimi K2.5 的 Composer 2 AI 编码模型，基准测试取得重大进展</title>
-      <link>https://alternativeto.net/news/2026/3/cursor-launches-composer-2-ai-coding-model-based-on-kimi-k2-5-with-major-benchmark-gains/</link>
-      <description><![CDATA[Cursor 推出了最新的人工智能编码模型 Composer 2，扩大了公司的产品范围。据该公司称，Composer 2 对 Terminal-Bench 2.01 和 SWE-bench Multilingual 等既定基准进行了重大改进。这些增强源自 Cursor 的首次持续预训练运行，以及随后针对需要数百个连续操作的长范围编码任务的强化学习。
-Composer 2 的价格为每百万个输入代币 0.50 美元，每百万个输出代币 2.50 美元。为了满足不同的用户需求，Cursor 推出了一种更快的变体，以每百万个输入代币 1.50 美元和每百万个输出代币 7.50 美元的价格提供相同的智能，目前已设置为默认值。该公司指出，这种快速选项比其他同类型号便宜。
-单个计划订阅者的 Composer 2 使用情况在一个独立池中处理，其中包括作为标准的大量使用情况。正如 X 上的讨论所强调的那样，Composer 2 基于 Kimi K2.5 AI 模型，提供了有关其底层技术的透明度。
-查看有关 AlternativeTo 的文章更多信息光标 | 光标替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/cursor-launches-composer-2-ai-coding-model-based-on-kimi-k2-5-with-major-benchmark-gains/</guid>
-      <pubDate>Mon, 23 Mar 2026 17:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌详细介绍了新的 24 小时流程，可以旁加载未经验证的开发者的 Android 应用程序</title>
-      <link>https://alternativeto.net/news/2026/3/google-details-new-24-hour-process-to-sideload-android-apps-from-unverified-developers/</link>
-      <description><![CDATA[继用户广泛批评对 Play 商店外分发的应用进行强制开发者验证后，Google 宣布对其 Android 侧载政策进行重大更新。这一举措是在经过数月的反馈后做出的，特别是来自寻求应用安装更大灵活性的高级用户的反馈。
-作为回应，Google 推出了先进的侧载流程，针对选择安装未经验证的开发者提供的应用的经验丰富的用户。该公司将此描述为一次性选择加入流程，但它包含了几个以安全为重点的步骤。首先，用户必须在系统设置中启用开发人员模式，并确认他们没有在整个过程中接受指导。其目的是检测并阻止任何实时诈骗企图。然后，用户必须重新启动设备，重新进行身份验证以禁用任何潜在的远程访问，等待一天的延迟，最后完成生物识别或 PIN 验证，然后再继续安装应用。
-虽然这些措施旨在平衡灵活性与保护，但 Google 还为教育和爱好者社区提供支持。该公司计划提供免费、有限分发的开发者帐户。这些帐户使学生和爱好者能够与最多 20 台设备共享应用程序，而无需提供政府颁发的 ID 或支付注册费。
-查看有关 AlternativeTo 的文章详细了解Android | Android 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/google-details-new-24-hour-process-to-sideload-android-apps-from-unverified-developers/</guid>
-      <pubDate>Mon, 23 Mar 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Funkwhale 2.0 首次推出 API v2、新的响应式 UI、ListenBrainz 同步和多艺术家支持</title>
-      <link>https://alternativeto.net/news/2026/3/funkwhale-2-0-debuts-api-v2-new-responsive-ui-listenbrainz-sync-and-multi-artist-support/</link>
-      <description><![CDATA[Funkwhale 2.0 标志着去中心化音乐和播客平台的重大更新。此版本首次推出了彻底修改的 API，在版本 2 pod 和运行版本 1 的 pod 之间进行了划分。由于这些重大更改，版本 2 pod 将不会与仍在运行早期软件的网络联合。
-除了这一突破性的核心更改之外，该版本还引入了重新设计的响应式用户界面，其中包含深色和浅色主题选项。用户会发现他们的整体体验得到了更新，反映了核心工作流程和视觉效果的广泛变化。在这些改进的基础上，Funkwhale 2.0 提供了多位艺术家支持，支持跨平台的合辑和精选曲目。
-在这些设计和音乐库更改之后，更新带来了增强的社交参与度。人们现在可以关注其他用户、跟踪他们的收听活动、查看收藏夹以及访问播放列表。 ListenBrainz 集成也已到来，使听众能够同步他们的收听历史记录和喜爱的曲目。管理员能够限制上传带有来自 MusicBrainz 的元数据标记的文件，支持一致的编目。
-Funkwhale 2.0 还引入了内容质量过滤器，并用播放列表取代了传统的库，以改善用户体验。其他细微的增强和错误修复提高了平台的稳定性和可用性。
-查看有关 AlternativeTo 的文章更多信息Funkwhale | Funkwhale 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/funkwhale-2-0-debuts-api-v2-new-responsive-ui-listenbrainz-sync-and-multi-artist-support/</guid>
-      <pubDate>Mon, 23 Mar 2026 14:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kagi Translate 推出“LinkedIn Speak”，用于讽刺、企业风格的公告</title>
-      <link>https://alternativeto.net/news/2026/3/kagi-translate-introduces-linkedin-speak-for-satirical-corporate-style-announcements/</link>
-      <description><![CDATA[Kagi 扩展了其翻译服务 Kagi Translate，引入了讽刺语言选项“LinkedIn Speak”。虽然传统翻译工具注重准确转换，但这一最新功能旨在模仿 LinkedIn 上常见的精致风格。简单的短语被转化为冗长的、公告式的帖子，其中包含强调个人成长、反思和成就的短句。表情符号和主题标签经常被包含在内，有助于模仿企业沟通。
-用户可以看到一些示例，例如将基本的项目更新转变为强调协作和创新的热情公告。例如，像“今天，我完成了一个有趣的项目！”这样的简单句子会变成“🚀 很高兴地宣布，我今天正式跨过了一个令人难以置信的回报项目的终点线！这是一次令人惊叹的成长、协作和解决问题的旅程。感谢有机会突破界限并交付有影响力的结果。📈 #Achievement #GrowthMindset #ProjectManagement #Innovation #成功”。该翻译器还提供反向功能：带有激励性语言和主题标签的 LinkedIn 帖子可以转换回简单的英语，以便更清晰的沟通。
-扩展其有趣的方法，Kagi Translate 已经包含了其他新颖和受流行文化启发的语言，如企业术语、Reddit Speak 和 Gen Z，以及虚构语言，如多斯拉克语、精灵语、中古英语和海盗语。这些选项凸显了 Kagi 对尝试不同通信方式的用户的灵活性和娱乐性的关注。
-查看有关 AlternativeTo 的文章有关 Kagi 的更多信息翻译 | Kagi 翻译替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/kagi-translate-introduces-linkedin-speak-for-satirical-corporate-style-announcements/</guid>
-      <pubDate>Mon, 23 Mar 2026 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
