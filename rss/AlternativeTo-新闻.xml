@@ -4,7 +4,75 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Tue, 24 Mar 2026 13:12:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 02:10:26 GMT</lastBuildDate>
+    <item>
+      <title>Unite Pro 1.1 更新，包含 Tiny Apps、持久选项卡和链接转发</title>
+      <link>https://alternativeto.net/news/2026/3/unite-pro-1-1-updates-with-tiny-apps-persistent-tabs-and-link-forwarding/</link>
+      <description><![CDATA[Unite Pro 1.1 引入了 Tiny Apps，允许用户将窗口大小调整为迷你应用程序大小，以便在屏幕上持续使用。固定选项卡现在更加可靠，并且可以跨会话持续存在，并且链接转发支持外部应用程序 URL 方案，以实现更好的工作流程集成。
+此版本还改进了书签管理、自动刷新选项，并针对应用签名、证书处理和快捷方式可靠性提供了大量修复。
+查看有关 AlternativeTo 的文章更多信息团结 | 团结替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/3/unite-pro-1-1-updates-with-tiny-apps-persistent-tabs-and-link-forwarding/</guid>
+      <pubDate>Tue, 24 Mar 2026 16:18:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tuta 在日历中添加了撤消发送到邮件和待处理邀请的功能</title>
+      <link>https://alternativeto.net/news/2026/3/tuta-adds-undo-send-to-mail-and-pending-invitations-in-calendar/</link>
+      <description><![CDATA[Tuta Mail 推出了撤消发送功能，允许用户在发送前最多 10 秒内撤回外发电子邮件。用户可以在邮箱设置中激活或禁用此功能。
+此外，Tuta Calendar 现在以浅色显示待处理的活动邀请，使未答复的邀请更易于跟踪和回复。
+查看有关 AlternativeTo 的文章有关 Tuta 的更多信息邮件 | Tuta 邮件替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/tuta-adds-undo-send-to-mail-and-pending-invitations-in-calendar/</guid>
+      <pubDate>Tue, 24 Mar 2026 16:13:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Together AI 发布了 Mamba-3，并更新了循环设计</title>
+      <link>https://alternativeto.net/news/2026/3/together-ai-releases-mamba-3-with-an-updated-recurrence-design/</link>
+      <description><![CDATA[Together.ai 推出了 Mamba-3，这是一种新的状态空间模型架构，具有更具表现力的递归公式和复杂值状态跟踪，优先考虑推理效率而不是训练速度。多输入多输出 (MIMO) 变体可提高准确性，而不会增加解码延迟。
+基准测试表明，Mamba-3 SISO 在 1.5B 参数规模的预填充和解码延迟方面超越了 Mamba-2、Gated DeltaNet 和 Llama-3.2-1B。
+开源内核使用 Triton、TileLang 和 CuTe DSL 来优化硬件性能。
+查看有关 AlternativeTo 的文章有关 Together AI 的更多信息 | 共同的人工智能替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/3/together-ai-releases-mamba-3-with-an-updated-recurrence-design/</guid>
+      <pubDate>Tue, 24 Mar 2026 16:06:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude 现在可以控制您的计算机以自动执行 Cowork 和 Code 中的任务和工作流程</title>
+      <link>https://alternativeto.net/news/2026/3/claude-can-now-control-your-computer-to-automate-tasks-and-workflows-in-cowork-and-code/</link>
+      <description><![CDATA[Anthropic 引入了一项新功能，允许 Claude 使用您的计算机完成 Claude Cowork 和 Claude Code 中的任务。当无法直接访问任务所需的工具时，Claude 可以指向、单击和导航 macOS 桌面，操作浏览器、鼠标、键盘并运行开发人员工具，无需任何设置。如果可能，系统会优先考虑 Slack 或 Google Calendar 等服务的连接器；只有当连接器不可用时，才会直接控制本地设备。每次访问之前都会请求明确的用户许可，并且用户可以随时停止该过程。
+在此功能扩展之后，实施了多项安全措施。 Anthropic 的系统会自动扫描激活以检测提示注入尝试，并强制实施应用程序限制以最大程度地降低风险。为了提高安全性，某些应用默认情况下仍然无法访问。
+该功能扩展了用例，允许 Claude 在您离开时执行计算机任务，例如生成早间简报、编辑代码、运行测试和管理 3D 打印工作流程，从而使 Dispatch 更加高效。目前，Claude Pro 和 Max 订阅者的研究预览版中，计算机自动化功能仅在 macOS 上可用，并且与 Dispatch 集成得特别好，可以直接从手机分配任务。
+查看有关 AlternativeTo 的文章更多信息克劳德 | 克劳德替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/claude-can-now-control-your-computer-to-automate-tasks-and-workflows-in-cowork-and-code/</guid>
+      <pubDate>Tue, 24 Mar 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>三星为 Galaxy S26 上的 Quick Share 提供 AirDrop 支持</title>
+      <link>https://alternativeto.net/news/2026/3/samsung-brings-airdrop-support-to-quick-share-on-galaxy-s26/</link>
+      <description><![CDATA[三星正在 Galaxy S26 系列上通过快速共享引入AirDrop 支持。 Galaxy S26 用户将默认启用“与 Apple 设备共享”功能。
+该服务于 3 月 23 日在韩国开始推出，并将扩展到欧洲、北美等全球市场。
+查看有关 AlternativeTo 的文章有关 Quick 的更多信息分享 | 快速分享替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/3/samsung-brings-airdrop-support-to-quick-share-on-galaxy-s26/</guid>
+      <pubDate>Tue, 24 Mar 2026 15:54:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>KiCad 10 发布，包含轨道调整改进、Windows 深色模式、设计变体等</title>
+      <link>https://alternativeto.net/news/2026/3/kicad-10-released-with-track-tuning-revamp-windows-dark-mode-design-variants-and-more/</link>
+      <description><![CDATA[KiCad 10 经过一年多的开发，现已发布，为开源电子设计自动化套件带来了大量新功能和增强功能。值得注意的是，KiCad 10 引入了全面的轨道调整系统检修。此升级包括改进的算法，使路由器与设计规则检查器保持一致，增加了对时域约束的支持，并允许使用每层信号路由的调整配置文件。
+除了这一核心更改之外，该软件现在仅以 STEP 文件形式提供 3D 模型，这显着减小了安装尺寸并提高了几何精度。该版本进一步简化了工作流程，增加了对从 Allegro、PADS 和 gEDA/Lepton PCB 导入设计的支持，从而更轻松地迁移现有项目。
+继之前的用户界面改进之后，Windows 用户获得了自动暗模式支持，并能够通过重新排列编辑器工具栏以满足个人喜好来自定义编辑器工具栏。 PCB 和原理图编辑器中的新套索选择模式以及在关闭对话框之前撤消对话框内更改的能力也提高了编辑灵活性。
+基于之前的原理图改进，现在的功能包括原理图编辑器内的分组、作为跳跃弧的更清晰的导线交叉、拖动导线时的实时预览和警告、对跳线的支持以及用于自定义约束的图形规则编辑器。其他增强功能包括设计变体管理、引脚表的 CSV 导入/导出、扩展的设计块功能以及对封装中图形对象的内层支持等。
+查看有关 AlternativeTo 的文章更多信息KiCad | KiCad 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/kicad-10-released-with-track-tuning-revamp-windows-dark-mode-design-variants-and-more/</guid>
+      <pubDate>Tue, 24 Mar 2026 14:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Perplexity Health 与 Apple Health 和可穿戴设备集成推出，以提供 AI 医疗答案</title>
+      <link>https://alternativeto.net/news/2026/3/perplexity-health-launches-with-apple-health-and-wearable-integration-for-ai-medical-answers/</link>
+      <description><![CDATA[Perplexity推出了Perplexity Health，这是一套新工具，允许用户将个人和可穿戴设备的健康数据链接到Perplexity Computer系统。此次发布提供了对 Apple Health 的访问、来自超过 170 万护理提供者的电子健康记录以及 Fitbit、Ultra human、Withings 和其他来源等平台。用户受益于跟踪生物标志物和活动趋势的个性化仪表板，通过结合医疗记录、实验室结果和可穿戴设备数据的信息，为健康问题提供全面的答案。
+整合这些数据源后，用户可以根据当前的健身数据制定马拉松训练方案、生成医疗预约的就诊准备摘要、创建个性化的营养计划或确定最合适的护理提供者。每个健康答案都引用了优质医学文献，摘自临床指南和同行评审的期刊文章，每个回复都提供直接引用，以便用户可以验证源材料。该系统还包括保障措施，就何时可能需要寻求医疗救助提供明确的建议。
+在隐私方面，健康数据在传输和存储过程中均进行加密，并具有严格的访问控制和管理或删除的用户工具。用户可以随时断开可穿戴设备或医疗记录等健康数据源。 Perplexity Health 最初将向美国的 Pro 和 Max 用户推出，预计在不久的将来将进一步推广到其他地区和用户组。
+查看有关 AlternativeTo 的文章更多信息困惑 | 困惑替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/perplexity-health-launches-with-apple-health-and-wearable-integration-for-ai-medical-answers/</guid>
+      <pubDate>Tue, 24 Mar 2026 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>现在，您可以使用 Google Stitch 通过语音在无限画布上营造设计 UI</title>
       <link>https://alternativeto.net/news/2026/3/you-can-now-use-google-stitch-to-vibe-design-uis-on-an-infinite-canvas-using-your-voice/</link>
@@ -63,7 +131,7 @@ Composer 2 的价格为每百万个输入代币 0.50 美元，每百万个输出
       <description><![CDATA[继用户广泛批评对 Play 商店外分发的应用进行强制开发者验证后，Google 宣布对其 Android 侧载政策进行重大更新。这一举措是在经过数月的反馈后做出的，特别是来自寻求应用安装更大灵活性的高级用户的反馈。
 作为回应，Google 推出了先进的侧载流程，针对选择安装未经验证的开发者提供的应用的经验丰富的用户。该公司将此描述为一次性选择加入流程，但它包含了几个以安全为重点的步骤。首先，用户必须在系统设置中启用开发人员模式，并确认他们没有在整个过程中接受指导。其目的是检测并阻止任何实时诈骗企图。然后，用户必须重新启动设备，重新进行身份验证以禁用任何潜在的远程访问，等待一天的延迟，最后完成生物识别或 PIN 验证，然后再继续安装应用。
 虽然这些措施旨在平衡灵活性与保护，但 Google 还为教育和爱好者社区提供支持。该公司计划提供免费、有限分发的开发者帐户。这些帐户使学生和爱好者能够与最多 20 台设备共享应用程序，而无需提供政府颁发的 ID 或支付注册费。
-查看有关 AlternativeTo 的文章详细了解Android | Android 替代方案]]></description>
+查看有关 AlternativeTo 的文章详细了解Android | Android 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/3/google-details-new-24-hour-process-to-sideload-android-apps-from-unverified-developers/</guid>
       <pubDate>Mon, 23 Mar 2026 16:00:00 GMT</pubDate>
     </item>
@@ -87,77 +155,6 @@ Funkwhale 2.0 还引入了内容质量过滤器，并用播放列表取代了传
 查看有关 AlternativeTo 的文章有关 Kagi 的更多信息翻译 | Kagi 翻译替代品]]></description>
       <guid>https://alternativeto.net/news/2026/3/kagi-translate-introduces-linkedin-speak-for-satirical-corporate-style-announcements/</guid>
       <pubDate>Mon, 23 Mar 2026 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Floorp v12.11.0：现在支持 Chrome 扩展并修复了关键错误</title>
-      <link>https://alternativeto.net/news/2026/3/floorp-v12-11-0-now-supports-chrome-extensions-and-fixes-key-bugs/</link>
-      <description><![CDATA[Floorp 浏览器现在在其标准版本中直接支持 Chrome 扩展程序，允许用户从 Chrome 网上应用店添加扩展程序。该更新还解决了 Chrome 扩展的安装问题，并包含更新的“关于 Floorp”选项。对话。
-其他错误修复解决了注释编辑、手势可见性、侧边栏行为和帐户信息显示问题。
-查看有关 AlternativeTo 的文章更多信息地板 | 地板替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/floorp-v12-11-0-now-supports-chrome-extensions-and-fixes-key-bugs/</guid>
-      <pubDate>Mon, 23 Mar 2026 10:16:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wine 11.5 添加了 C++ 构建系统、Linux 上的 Syscall User Dispatch 以及捆绑的 ICU 库</title>
-      <link>https://alternativeto.net/news/2026/3/wine-11-5-adds-c--build-system-syscall-user-dispatch-on-linux-and-bundled-icu-libraries/</link>
-      <description><![CDATA[Wine 11.5 现已推出，加强了其作为在 Linux、macOS 和 BSD 上运行 Windows 应用程序的兼容层的作用。此更新提供了多项技术进步，旨在提高这些系统上用户的性能和兼容性。
-在此版本中，Wine 11.5 在其构建系统中引入了 C++ 支持，为开发人员在自定义环境中构建和集成 Wine 提供了更大的灵活性。除此之外，现在还包含捆绑的 International Components for Unicode (ICU) 库，它可以增强众多应用程序的字符编码和 Unicode 处理。
-虽然 Linux 用户特别受益于 Syscall User Dispatch 的新支持，但这一更改也为运行最新或复杂的 Windows 应用程序时提高性能和兼容性奠定了基础。在这些核心增强之后，多个 VBScript 兼容性问题已得到解决，进一步增强了对依赖脚本功能的 Windows 软件的支持。
-此外，Wine 11.5 还解决了影响各种流行程序和游戏的 22 个错误。其中包括对 Evernote、PCG Tools、Red Dead Redemption 2、Clip Studio Paint 和其他实用程序的修复，这应该会对最终用户在 Wine 下操作这些游戏时的体验产生积极影响。
-查看有关 AlternativeTo 的文章更多信息葡萄酒 | 葡萄酒替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/wine-11-5-adds-c--build-system-syscall-user-dispatch-on-linux-and-bundled-icu-libraries/</guid>
-      <pubDate>Mon, 23 Mar 2026 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google AI Studio 现在可让您编写 AI 本机应用程序和实时多人游戏</title>
-      <link>https://alternativeto.net/news/2026/3/google-ai-studio-now-lets-you-vibe-code-ai-native-apps-and-real-time-multiplayer-games/</link>
-      <description><![CDATA[Google 在 Google AI Studio 中引入了全面改进的氛围编码体验，提供基于提示的工作流程来创建生产就绪的应用程序。该平台现在允许开发人员构建功能齐全的人工智能原生应用程序，包括多人游戏功能、第三方库安装、保存进度和安全登录，所有这些都在编码环境中进行。
-这些增强功能由新的 Google Antigravity 编码代理提供支持，可加快从提示到部署的过渡。内置 Firebase 集成可实现安全存储和用户身份验证，无需额外设置即可提供强大的后端功能。
-在这些更新之后，开发人员可以受益于使用数据库、实施身份验证、利用现代 Web 工具以及连接到广泛的外部服务的能力。新代理支持更简单、更强大的提示，并且开发与主要框架兼容，例如 Next.js、React 和 Angular。
-Google 还计划进行更多集成。很快，用户将能够将应用程序与 Workspace 工具连接起来，包括 Drive 和Sheets，并通过简化的一键传输将项目从 Google AI Studio 移动到 Google Antigravity。
-查看有关 AlternativeTo 的文章详细了解 Google AI Studio | Google AI Studio 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/3/google-ai-studio-now-lets-you-vibe-code-ai-native-apps-and-real-time-multiplayer-games/</guid>
-      <pubDate>Mon, 23 Mar 2026 08:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Next.js 16.2 推出，具有更快的渲染和启动速度、重新设计的错误页面等</title>
-      <link>https://alternativeto.net/news/2026/3/next-js-16-2-launches-with-faster-rendering-and-startup-a-redesigned-error-page-and-more/</link>
-      <description><![CDATA[Next.js 16.2 现已推出，为开发人员工作流程和网站性能引入了核心升级。得益于对下一个开发流程。
-除此之外，服务器组件有效负载反序列化速度现在提高了 350%，根据有效负载，实际服务器端渲染速度可提高 25% 到 60%。虽然性能是焦点，但更新还改进了错误处理：生产错误页面采用了新设计，Error.cause 链显示在错误叠加层中，并且现在清楚地标记了水合不匹配，以区分服务器与客户端渲染的内容。
-为了改进开发过程中的调试和透明度，Next.js 现在在终端中记录每个服务器函数的名称、参数、执行时间和源文件。基于最近的更改，Node.js 调试器支持超出了开发范围；开发人员现在可以通过 next start --inspect 在生产环境中附加调试器。
-其他更新包括用于 `` 组件的新 transitionTypes 属性、用于构建自定义的稳定适配器 API、对 ImageResponse 的显着改进，以及自动处理具有相同基本名称但不同扩展名的多个图标文件。该版本还带来了各种额外的增强功能和错误修复。
-查看有关 AlternativeTo 的文章更多信息Next.js | Next.js 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/3/next-js-16-2-launches-with-faster-rendering-and-startup-a-redesigned-error-page-and-more/</guid>
-      <pubDate>Sat, 21 Mar 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Inoreader 添加了共享仪表板、团队过滤器、情报报告和改进的侧边栏</title>
-      <link>https://alternativeto.net/news/2026/3/inoreader-adds-shared-dashboards-team-filters-intelligence-reports-and-improved-sidebar/</link>
-      <description><![CDATA[Inoreader 推出了一套新的协作功能，适合使用其基于网络的内容和 RSS 提要阅读器的团队。共享仪表板是最受欢迎的附加功能之一，现在允许团队管理员创建所有团队成员都可以看到和访问的可自定义面板。每个仪表板都可以使用独特的名称和布局模板进行定制，并填充各种小部件以满足团队的需求。
-在这些仪表板增强功能之后，团队还可以通过直接在 Inoreader 中上传文件来构建共享档案。每个上传的文件都会自动转换为文章，使文档可以与标准内容流一起搜索和访问。
-作为对这些工作流程改进的补充，用户界面已经放弃了之前基于选项卡的布局。现在，新的侧边栏将所有与团队相关的链接集成到一个位置，以简化对协作工具的访问。
-在这些功能的基础上，团队智能计划引入了智能报告，管理员可以手动或通过自动调度生成这些报告。这些报告旨在让所有团队成员了解最新的见解。此外，现在可以建立团队过滤器，以便管理员可以为整个团队文件夹设置重复或特定于内容的过滤器，确保每个成员仅查看最相关的内容。
-查看有关 AlternativeTo 的文章更多信息Inoreader | Inoreader 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/inoreader-adds-shared-dashboards-team-filters-intelligence-reports-and-improved-sidebar/</guid>
-      <pubDate>Fri, 20 Mar 2026 17:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Astral 加入 OpenAI 并将其工具与 Codex 集成</title>
-      <link>https://alternativeto.net/news/2026/3/astral-to-join-openai-and-integrate-its-tooling-with-codex-team/</link>
-      <description><![CDATA[Astral 已同意加入 OpenAI 并将成为 Codex 团队的一员。收购后，OpenAI 将继续支持 Astral 的开源工具。 Astral 广泛使用的 Python 开发工具，例如 Ruff、Uv 和 Uv href=&quot;https://alternativeto.net/software/ty/about/&quot;&gt;Ty 将与 OpenAI 的工作相结合，以推进人工智能驱动的编码。
-查看有关 AlternativeTo 的文章有关 OpenAI 的更多信息Codex | OpenAI Codex 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/astral-to-join-openai-and-integrate-its-tooling-with-codex-team/</guid>
-      <pubDate>Fri, 20 Mar 2026 16:17:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Markdown 笔记应用程序 Bear 2.7 改进了 TagCons 并在 macOS 上添加了标签管理选项</title>
-      <link>https://alternativeto.net/news/2026/3/markdown-note-taking-app-bear-2-7-revamps-tagcons-and-adds-tag-management-option-on-macos/</link>
-      <description><![CDATA[Bear 2.7 现已适用于 Mac 和 iOS，重点关注视觉更新和增强的标签管理。此次更新对应用程序的 260 个标签图标进行了全面重新设计，这些图标是与熊掌记笔记组织系统中的标签配对的图标。新图标具有更柔和的形状和统一的笔划粗细，使其外观与 Bear 的自定义 Bear Sans 字体保持一致，并改善了整个 Apple 生态系统的和谐。
-在此基础上，更新后的 TagCon 现在不仅在侧边栏中可见，而且还可以直接在编辑器中可见。这种集成意味着图标会出现在笔记中的每个 #tag 旁边，使内容更具视觉吸引力，并进一步将标签与其相关类别链接起来。
-继这些设计改进之后，Bear 2.7 还专门为 macOS 用户提供了经过彻底修改的编辑标签面板，简化了管理标签和访问广泛的 TagCons 库的过程。此外，用户现在可以在将笔记拖到侧边栏中的标签上时指定放置标签的位置，从而在组织内容时提供更大的灵活性。
-查看有关 AlternativeTo 的文章更多信息熊 | 熊替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/markdown-note-taking-app-bear-2-7-revamps-tagcons-and-adds-tag-management-option-on-macos/</guid>
-      <pubDate>Fri, 20 Mar 2026 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
