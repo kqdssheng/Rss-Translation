@@ -4,7 +4,28 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Thu, 26 Mar 2026 02:23:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 13:16:28 GMT</lastBuildDate>
+    <item>
+      <title>Kali Linux 2026.1 发布，附带 Linux 6.18、主题更新、BackTrack 模式和 8 个新工具</title>
+      <link>https://alternativeto.net/news/2026/3/kali-linux-2026-1-launches-with-linux-6-18-theme-update-backtrack-mode-and-8-new-tools/</link>
+      <description><![CDATA[Kali Linux 2026.1 现已推出，为专注于数字取证、安全研究和渗透测试的用户带来更新的体验。此版本的亮点之一是全面的主题刷新，延续了发行版每年更新界面的传统。此次大修更新了启动菜单、安装程序、登录显示，并提供了一系列全新的桌面壁纸。
+为了纪念其前身 BackTrack Linux 诞生 20 周年，Kali Linux 在 kali-undercover 中引入了 BackTrack 模式。只需一个开关，用户就可以复制 BackTrack 5 的外观，并配有原始壁纸、配色方案和窗口主题，尤其吸引长期和怀旧的用户。
+此版本由 Linux 6.18 内核提供支持，还提供 8 个新的安全工具：AdaptixC2，专注于后利用和对抗性模拟；用于运行 Atomic Red Team 测试的 Atomic-Operator；用于安全审计和社会工程的 Fluxion； GEF 用于增强 GDB 调试体验； MetasploitMCP、SSTImap、WPProbe 和 XSStrike 可扩展渗透测试工作流程。
+对于那些通过kali-tools-sdr元包依赖软件定义无线电工具的人来说，应该注意的是，此版本中的GNU Radio生态系统不稳定，gr-air-modes和gqrx-sdr目前无法运行。最后，Kali NetHunter 应用程序收到了有针对性的错误修复，涵盖 WPS 扫描、HID 权限验证和后退按钮导航。
+查看有关 AlternativeTo 的文章有关 Kali 的更多信息Linux | Kali Linux 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/kali-linux-2026-1-launches-with-linux-6-18-theme-update-backtrack-mode-and-8-new-tools/</guid>
+      <pubDate>Thu, 26 Mar 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Infuse 8.4 引入了额外功能、简介跳过、主屏幕收藏夹和改进的播放功能</title>
+      <link>https://alternativeto.net/news/2026/3/infuse-8-4-introduces-extras-intro-skipping-home-screen-favorites-and-improved-playback/</link>
+      <description><![CDATA[Infuse 8.4 现已在整个 Apple 生态系统中推出，并提供适用于 Mac、iOS、Apple TV 和 Apple Vision Pro 的专用版本。此版本引入了对浏览和观看电影和电视节目的各种本地附加内容的扩展支持。用户现在可以访问已删除的场景、短片、短片、预告片等，这些内容不仅来自 Emby、Jellyfin 和 Plex，还来自直接连接的文件夹、网络共享和云服务。这些附加功能直接集成到标题详细信息页面中，以便在应用程序内无缝发现。
+除了增强的额外处理之外，Infuse 8.4 还首次推出了介绍、片尾字幕和回顾的跳过功能。这些由社区驱动的数据库 IntroDB 和 TheIntroDB 提供支持，提供自动或手动跳过所有共享类型的选项，这对观看者在长时间的观看会话中有利。
+在这些功能更新之后，用户现在可以将喜爱的文件夹和库类别固定到 iPhone、iPad、Mac 和 Vision Pro 的主屏幕上。以前仅在 Apple TV 上提供，这种便利性提高了更多设备上的导航和速度。 Infuse 的播放核心也进行了升级，进行了全面优化、错误修复，并添加了初始 VVC (H.266) 编解码器支持。此外，整个应用程序还包含进一步的细微增强和修复。
+查看有关 AlternativeTo 的文章更多信息注入 | 注入替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/infuse-8-4-introduces-extras-intro-skipping-home-screen-favorites-and-improved-playback/</guid>
+      <pubDate>Thu, 26 Mar 2026 08:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Swift 6.3 引入了第一个官方 Android SDK 并改进了 C 互操作性</title>
       <link>https://alternativeto.net/news/2026/3/swift-6-3-introduces-the-first-official-android-sdk-and-improved-c-interoperability/</link>
@@ -133,26 +154,6 @@ Krita 6 具有明确的 Linux Wayland 支持，包括 Wayland 颜色管理协议
 查看有关 AlternativeTo 的文章有关 Google 的更多信息电视 | Google TV 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/3/google-tv-introduces-new-gemini-features-visual-help-deep-dives-and-sports-briefs/</guid>
       <pubDate>Wed, 25 Mar 2026 08:40:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Thunderbird 149.0：导出地址簿卡并改进跨设备同步</title>
-      <link>https://alternativeto.net/news/2026/3/thunderbird-149-0-export-address-book-cards-and-improved-sync-across-devices/</link>
-      <description><![CDATA[Thunderbird 149.0 引入了导出选定地址簿卡的功能，从而更轻松地进行联系人管理。加星标的 EWS 消息现在在各个设备上保持一致，并且地址簿现在是在帐户中心内创建的。
-此更新修复了许多问题，包括同步错误、崩溃、编码错误和可用性，以及安全性和用户体验改进。
-查看有关 AlternativeTo 的文章更多信息Thunderbird | Thunderbird 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/thunderbird-149-0-export-address-book-cards-and-improved-sync-across-devices/</guid>
-      <pubDate>Wed, 25 Mar 2026 08:32:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Files 4.0.37 减小了包大小、增强了主页操作、添加了 7z 选项并改进了选项卡</title>
-      <link>https://alternativeto.net/news/2026/3/files-4-0-37-reduces-package-size-boosts-home-actions-adds-7z-options-and-improves-tabs/</link>
-      <description><![CDATA[文件 4.0.37 是适用于 Windows 的开源文件浏览器的最新版本，可大幅减小安装程序包的大小，减少了 180 MB 以上。此更改为管理有限带宽或存储的用户提供了更快的下载和安装体验。
-在此版本中，右键单击主页现在会打开一个用于快速操作的专用菜单，包括切换小部件和添加新窗格。此改进简化了主页布局自定义，无需离开启动界面。共享相同文件夹名称的选项卡现在显示上下文路径提示，帮助用户区分多个文件夹，否则可能会造成混淆。
-继这些可用性增强之后，Files 4.0.37 还引入了用于切换侧边栏的专用操作，可通过界面和 Ctrl + B 快捷键进行访问。现在支持中键单击滚动，改进了大型目录中的导航。此外，详细信息窗格现在包括连接的云驱动器的存储概述，从而可以更清晰地了解云存储的使用情况。
-这些更新继续提供高级 7z 存档选项，让用户可以指定字典和字大小值以进行自定义压缩。用户还可以同时对多个文件应用压缩属性，并将侧边栏项目拖到其他应用程序中。此版本中还修复了一些错误。
-查看有关 AlternativeTo 的文章更多关于文件 | 文件替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/files-4-0-37-reduces-package-size-boosts-home-actions-adds-7z-options-and-improves-tabs/</guid>
-      <pubDate>Wed, 25 Mar 2026 08:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
