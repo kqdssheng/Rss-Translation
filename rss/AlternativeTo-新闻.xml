@@ -4,7 +4,81 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Wed, 25 Mar 2026 13:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 02:23:59 GMT</lastBuildDate>
+    <item>
+      <title>Swift 6.3 引入了第一个官方 Android SDK 并改进了 C 互操作性</title>
+      <link>https://alternativeto.net/news/2026/3/swift-6-3-introduces-the-first-official-android-sdk-and-improved-c-interoperability/</link>
+      <description><![CDATA[Swift 6.3 已发布，带来第一个适用于 Android 的官方 Swift SDK。这使得开发人员可以在 Swift 中构建原生 Android 应用，调整适用于 Android 的 Swift 包，并将 Swift 代码集成到 Kotlin 或 Java 项目中。该版本还通过更广泛的平台支持和构建改进，扩大了 Swift 在嵌入式环境和大型系统中的影响力。
+主要语言新增功能之一是新的 @c 属性，它允许 Swift 函数和枚举在同一项目中向 C 代码公开。开发人员可以分配自定义 C 符号名称，并与 @implementation 结合使用，将 Swift 函数连接到现有 C 声明，以便在混合语言代码库中实现更好的互操作性。 Swift 6.3 还引入了模块选择器，当多个导入的模块公开同名 API 时，可以更轻松地解决命名冲突。
+在工具方面，Swift 6.3 包含 Swift Package Manager 中 Swift Build 集成的预览，以提供更一致的跨平台构建体验。它还添加了新的优化控件，例如 @specialize 和 @inline(always)，以及对宏库支持、包文档和测试的改进。 DocC 现在支持 Markdown 输出和新的以可访问性为重点的文档增强功能。
+查看有关 AlternativeTo 的文章有关 Swift（编程）的更多信息语言） | Swift（编程语言）替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/3/swift-6-3-introduces-the-first-official-android-sdk-and-improved-c-interoperability/</guid>
+      <pubDate>Wed, 25 Mar 2026 20:20:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>FreeCAD 1.1 添加了三点照明、零件设计预览和主要 FEM 升级</title>
+      <link>https://alternativeto.net/news/2026/3/freecad-1-1-adds-three-point-lighting-part-design-previews-and-major-fem-upgrades/</link>
+      <description><![CDATA[FreeCAD 1.1 现已推出，在建模、可视化和核心设计功能方面带来了广泛的改进。该更新添加了三点照明以实现更好的 3D 模型渲染、零件设计工作台中用于加法和减法特征的透明预览以及允许用户直接在 3D 视图中调整特征值的交互式拖动器。这些预览也可以在首选项中打开或关闭。
+该版本还引入了一个新的“澄清选择”工具，通过暂时使附近的对象透明并列出可选择的元素，可以更轻松地拾取隐藏或内部的几何图形。快速测量现在可以显示更多上下文感知的详细信息，例如直径和轴距离，而变换工具已通过更精确的对齐选项、质心控制和特定于轴的变换进行了扩展。
+其他更新包括改进的基准工具、扩展的装配和草绘器功能以及重新设计的具有更广泛螺纹牙形支持的孔工具。 FEM 获得多帧结果可视化、通过过滤器创建自定义场以及添加对静电和电流传导的解算器支持。 CAM 现在使用更好的工具库系统，同时配置处理、主题定制和 Python 插件管理也得到了改进，以实现更安全的升级和更灵活的定制。您可以在此处的发行说明中查看完整的更改列表。
+查看有关 AlternativeTo 的文章更多信息FreeCAD | FreeCAD 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/freecad-1-1-adds-three-point-lighting-part-design-previews-and-major-fem-upgrades/</guid>
+      <pubDate>Wed, 25 Mar 2026 20:13:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify 的新 SongDNA 功能可让您深入了解音乐的创作和合作</title>
+      <link>https://alternativeto.net/news/2026/3/spotify-s-new-songdna-feature-lets-you-deep-dive-into-music-s-creation-and-collaborations/</link>
+      <description><![CDATA[Spotify 推出了 SongDNA，这是一种集成到移动用户当前播放视图中的沉浸式音乐体验。通过点击 SongDNA 卡，听众可以访问有关歌曲的作者、制作人、合作者、塑造其声音的样本和插值的详细信息，甚至可以获取其灵感来源的翻唱信息。
+在此基础上，SongDNA 允许用户点击任何列出的创作者来发现他们合作过的其他艺术家，并追踪不同曲目、时代和流派之间的进一步合作。这些互动途径让听众更深入地了解他们的音乐是如何组合在一起的。
+SongDNA 中显示的联系基于艺术家及其团队的输入以及来自社区的其他数据。符合条件的艺术家和唱片公司团队可以通过 Spotify for Artists 查看并直接管理他们的 SongDNA 内容，从而提高对音乐故事讲述的准确性和控制力。
+虽然 SongDNA 通过实现探索性、多方面的发现来扩展关于歌曲功能，但目前它的测试版可供 iOS 和 Android 设备上的 Spotify 高级用户使用。计划在 4 月份向所有高级订户更广泛地推出。
+查看有关 AlternativeTo 的文章更多信息Spotify | Spotify 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/spotify-s-new-songdna-feature-lets-you-deep-dive-into-music-s-creation-and-collaborations/</guid>
+      <pubDate>Wed, 25 Mar 2026 19:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenShot 3.5 带来更快的时间线、改进的 GPU 加速、更智能的效果等等</title>
+      <link>https://alternativeto.net/news/2026/3/openshot-3-5-brings-faster-timeline-improved-gpu-acceleration-smarter-effects-and-more/</link>
+      <description><![CDATA[OpenShot 3.5 已发布，是这款功能强大的跨平台开源视频编辑器的最新版本。此更新引入了重新设计的时间线界面，提供更快的缩放、滚动和编辑功能。该版本还首次推出了新的关键帧面板，简化了视频编辑器的详细动画工作。
+在这些可用性改进的基础上，OpenShot 3.5 的整体性能提高了 35%，尤其是在效果和帧处理方面取得了巨大的进步。现在，导出会生成更小的文件，同时保持更高的视频质量，这使需要平衡存储和输出标准的用户受益。此外，解码和编码的 GPU 加速也得到了进一步优化，提高了对高要求任务的响应能力。
+继性能提升之后，OpenShot 通过更广泛的自动化测试（包括用户界面和全周期重放测试）来扩展稳定性。此更新引入了新的音频过渡功能，使音频剪辑之间的交叉淡入淡出变得简单。蒙版支持现在涵盖所有效果，为创意工作流程提供升级的动画蒙版和新的蒙版控件。
+除了这些核心变化之外，升级后的默认色度键还带来了更柔和的边缘、更快的处理速度和更高的质量。音频文件导入速度也得到提高。对于高级用户，实验性的 ComfyUI 集成可实现基于人工智能的新工作流程。许多错误修复进一步提高了编辑、播放和平台可靠性。
+查看有关 AlternativeTo 的文章更多信息OpenShot | OpenShot 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/3/openshot-3-5-brings-faster-timeline-improved-gpu-acceleration-smarter-effects-and-more/</guid>
+      <pubDate>Wed, 25 Mar 2026 17:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>看板软件 Fizzy 现在对所有用户免费，提供新的 CLI 和本机 iOS/Android 应用程序</title>
+      <link>https://alternativeto.net/news/2026/3/kanban-software-fizzy-is-now-free-for-all-users-with-new-cli-and-native-ios-android-apps/</link>
+      <description><![CDATA[37signals 是 Basecamp、HEY 和 ONCE 背后的公司，宣布其看板软件Fizzy 现在对所有用户免费。可安装的开源版本和云托管的软件即服务 (SaaS) 产品都可以免费使用。首席执行官 Jason Fried 表示，持续的支持将由 Basecamp 和 HEY 的收入提供资金。
+虽然 Fizzy 的代码可在 GitHub 上获取，但它是在 O&#39;Saasy 许可证下发布的。该许可证在代码访问方面与 MIT 类似，但它限制 37signals 的商业 SaaS 使用，并且不被开源计划识别为开源许可证。
+此举之后，任何人都可以直接通过网站注册 Fizzy 并开始使用，无需付费。以前的付费订户今后将不再需要付费。扩大平台支持，计划推出官方命令行界面，一旦获得 Apple 批准，预计将推出原生 iOS 应用程序。此外，Android 应用程序已经可以从 Google Play 商店下载。
+查看有关 AlternativeTo 的文章更多信息碳酸饮料 | 碳酸饮料替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/kanban-software-fizzy-is-now-free-for-all-users-with-new-cli-and-native-ios-android-apps/</guid>
+      <pubDate>Wed, 25 Mar 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DietPi 10.2 添加了 Immich、uv、RustDesk 客户端、更新的脚本和许多其他增强功能</title>
+      <link>https://alternativeto.net/news/2026/3/dietpi-10-2-adds-immich-uv-rustdesk-client-updated-scripts-and-many-other-enhancements/</link>
+      <description><![CDATA[DietPi 10.2 已发布，作为这款适用于单板计算机 (SBC) 的基于 Debian 的轻量级 Linux 发行版的最新更新。此版本添加了 Immich，这是一种用于高效照片和视频管理的自托管解决方案。此更新还引入了 Immich 机器学习，它可以使用 CLIP 嵌入实现面部识别和智能搜索等功能。
+在新增软件的基础上，DietPi 现在提供 uv，这是一个用 Rust 编写的高速 Python 包和项目管理器。此外，RustDesk 客户端现在可用于远程桌面共享，补充了现有 RustDesk 服务器集成。此外，软件安装程序还获得了图形桌面选择菜单，改进了寻求桌面环境的用户的安装过程。
+对于系统性能，基准测试脚本已移至/boot/dietpi/dietpi-benchmark，用户可以使用dietpi-benchmark别名直接从控制台运行它。配置菜单现在允许选择 CPU 温度传感器来定制监控脚本。 dietpi-arr_to_RAM 脚本已重命名为 dietpi-servarr_to_ram，现在支持 Prowlarr 和增强的符号链接保护。
+DietPi 10.2 将 Home Assistant Python 虚拟环境更新至版本 3.14 以满足新要求，通过 openSUSE 构建服务在 Trixie 和 Raspbian 13 上启用 UrBackup for ARMv6，并交付软件包适用于带有 SDL3 的 Amiberry v8.0.0。此版本中还修复了一些错误。
+查看有关 AlternativeTo 的文章更多信息DietPi | DietPi 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/dietpi-10-2-adds-immich-uv-rustdesk-client-updated-scripts-and-many-other-enhancements/</guid>
+      <pubDate>Wed, 25 Mar 2026 14:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Krita 6.0 首次亮相，提供 Linux Wayland 和 HDR 支持、新文本工具和漫画面板编辑器</title>
+      <link>https://alternativeto.net/news/2026/3/krita-6-0-debuts-with-linux-wayland-and-hdr-support-new-text-tools-and-comic-panel-editor/</link>
+      <description><![CDATA[Krita 5.3 和 6.0 已发布，为数字画家和动画师提供了广泛的升级。虽然两个版本共享大部分功能，但 Krita 6 基于 Qt6，这与继续使用 Qt5 的 Krita 5.3 不同。
+Krita 6 具有明确的 Linux Wayland 支持，包括 Wayland 颜色管理协议的实现。这为 Linux 用户增加了高动态范围 (HDR) 显示选项、分数缩放和 10 位显示功能。随着这些平台的改进，HDR 绘画工作流程也得到了更广泛的支持。
+最显着的变化之一是，文本工具经过彻底修改，提供画布上编辑、完整的 OpenType 字体兼容性以及将文本流入形状的能力。这些增强功能对于插画和漫画专业人士尤其重要。现在可以更轻松地创建基于矢量的漫画面板，从而简化艺术家的页面布局。
+基于这些以设计为中心的功能，一些绘画工具获得了更新。填充工具现在可以闭合形状中的间隙，并且变换工具中的液化模式的运行速度得到提高。记录器泊坞窗添加了实时记录选项，扩展了演示或流媒体的用例。新的滤镜效果，例如传播颜色和重置透明，进一步扩展了创意控制。文件格式兼容性得到增强，特别是能够处理 Photoshop PSD 文件中嵌入的文本对象。
+查看有关 AlternativeTo 的文章更多信息Krita | Krita 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/krita-6-0-debuts-with-linux-wayland-and-hdr-support-new-text-tools-and-comic-panel-editor/</guid>
+      <pubDate>Wed, 25 Mar 2026 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Firefox 149 添加了 50 GB 的免费内置 VPN、分割视图、选项卡注释和增强的安全性</title>
       <link>https://alternativeto.net/news/2026/3/firefox-149-adds-free-built-in-vpn-with-50-gb-split-view-tab-notes-and-enhanced-security/</link>
@@ -54,9 +128,8 @@
     <item>
       <title>Google TV 推出新的 Gemini 功能：视觉帮助、深度挖掘和运动简报</title>
       <link>https://alternativeto.net/news/2026/3/google-tv-introduces-new-gemini-features-visual-help-deep-dives-and-sports-briefs/</link>
-      <description><![CDATA[Google TV 正在推出由 Gemini 提供支持的新功能，包括更丰富的视觉帮助、对教育主题的交互式深入探讨以及实时更新的及时体育简报。视觉帮助功能适应用户问题，显示相关的视觉效果、视频或记分卡。
-深入探讨提供了一系列主题的解说式互动解释，而体育简报则提供了主要联盟的解说式更新。
-这些功能现已在美国和加拿大推出，并将在更多地点和设备上推出。
+      <description><![CDATA[Google TV 正在推出由 Gemini 提供支持的新功能，包括更丰富的视觉帮助、对教育主题的交互式深入探讨以及实时更新的及时体育简报。视觉帮助功能可适应用户问题，显示相关的视觉效果、视频或记分卡。
+深度剖析提供了一系列主题的解说式互动解释，而体育简报则提供了大联盟的解说式更新。这些功能现已在美国和加拿大推出，并将在更多地点和设备上推出。
 查看有关 AlternativeTo 的文章有关 Google 的更多信息电视 | Google TV 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/3/google-tv-introduces-new-gemini-features-visual-help-deep-dives-and-sports-briefs/</guid>
       <pubDate>Wed, 25 Mar 2026 08:40:18 GMT</pubDate>
@@ -80,74 +153,6 @@
 查看有关 AlternativeTo 的文章更多关于文件 | 文件替代品]]></description>
       <guid>https://alternativeto.net/news/2026/3/files-4-0-37-reduces-package-size-boosts-home-actions-adds-7z-options-and-improves-tabs/</guid>
       <pubDate>Wed, 25 Mar 2026 08:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 将关闭其 AI 视频应用程序 Sora，该应用程序发布后不到六个月</title>
-      <link>https://alternativeto.net/news/2026/3/openai-is-shutting-down-sora-its-ai-video-slop-app-less-than-six-months-after-launch/</link>
-      <description><![CDATA[OpenAI 已宣布将停止使用 Sora（其 AI 视频生成应用程序和用于共享 AI 视频 slop 的社交平台）以及相关 API。该公司尚未透露确切的关闭日期，但表示将提供有关时间表以及用户如何保留其内容的更多详细信息。 OpenAI 将这一决定与优先事项的转变和不断增长的计算需求联系起来，Sora 研究团队现在专注于与其更广泛的机器人技术相关的世界模拟研究。
-此举还会影响OpenAI 最近与迪士尼达成的 10 亿美元合作伙伴关系，其中包括计划授权迪士尼角色在 Sora 中使用，并将人工智能生成的视频引入Disney Plus。随着 Sora 的停产，该协议也即将结束。
-Sora 早期受到了强烈关注，并一度登上美国 App Store 排行榜榜首，但兴趣似乎很快就消退了。 OpenAI 在 2024 年底推出后仅几个月就被关闭，结束了 OpenAI 围绕 AI 垃圾内容构建的新型社交网络和共享平台的短暂实验。 Meta AI 应用程序下一个？ 👀
-查看有关 AlternativeTo 的文章更多信息Sora | Sora 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/openai-is-shutting-down-sora-its-ai-video-slop-app-less-than-six-months-after-launch/</guid>
-      <pubDate>Wed, 25 Mar 2026 06:13:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果宣布推出新的商务平台，提供免费商务电子邮件，并将在地图中展示广告</title>
-      <link>https://alternativeto.net/news/2026/3/apple-announces-a-new-business-platform-with-free-business-email-and-will-show-ads-in-maps/</link>
-      <description><![CDATA[Apple 推出了 Apple Business，这是一个全新的一体化平台，为组织提供了设备管理、生产力工具和客户互动功能。该平台被定位为 Microsoft 365 和 Google Workspace 的新竞争对手，特别是推出了面向公司的免费企业电子邮件服务、最多可容纳 500 名用户的日历和目录服务。公司可以使用现有的自定义域或通过 Apple 购买一个，每个用户都可以获得 5GB 的 iCloud 存储空间，并可选择付费升级。
-商务电子邮件可与任何 IMAP 兼容的客户端配合使用，而日历则支持跨 Apple、Android 和 Windows 设备的 CalDAV 兼容应用程序。 Apple Business 包括针对应用程序、安全策略和设备设置的内置移动设备管理，以及日历委托、目录工具和基于角色的管理等功能。通过蓝图，IT 团队可以在通过 Apple 或授权经销商购买设备时预先配置设备以实现零接触部署，而管理式 Apple 帐户则可以将工作数据和个人数据分开，并可以通过 Google Workspace 和 Microsoft Entra ID 等提供商进行配置。
-在客户方面，企业可以在 Apple 地图 上管理其品牌和位置、创建品牌传播、查看分析以及将品牌添加到 iPhone 交易中的触碰支付中。更值得注意的是，苹果现已确认将首次在地图上投放广告，从今年夏天晚些时候开始在美国和加拿大推出。这些广告的工作方式与 App Store 广告类似，允许企业为相关搜索结果顶部和新的“建议位置”部分中的展示位置付费。 Apple Business 将于 4 月 14 日在 200 多个国家和地区推出，它将取代 Apple 早期的几款商务产品。
-查看有关 AlternativeTo 的文章有关 Apple 的更多信息地图 | Apple 地图替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/3/apple-announces-a-new-business-platform-with-free-business-email-and-will-show-ads-in-maps/</guid>
-      <pubDate>Wed, 25 Mar 2026 05:39:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Figma 在画布上打开直接 AI 代理设计，介绍引导工作流程的技能</title>
-      <link>https://alternativeto.net/news/2026/3/figma-opens-direct-ai-agent-design-on-canvas-introduces-skills-for-guided-workflows/</link>
-      <description><![CDATA[Figma 现在允许 AI 编码代理通过其 MCP 服务器直接在 Figma 文件内进行设计，因此它们可以在画布上工作本身，而不是在应用程序外部生成代码。通过 use_figma 工具，Claude Code 和 Codex 等兼容代理可以在使用设计系统、组件、变量、布局结构和团队约定等现有上下文的同时创建和更新设计资产。
-Figma 还引入了技能，这是基于 Markdown 的指令，通过定义步骤、约定和工作流逻辑来塑造代理在 Figma 中的操作方式。无需代码即可创建或编辑它们。在发布时，Figma 分享了九个示例技能，重点关注构建组件库、生成新设计、生成可访问性规范、协调工作流程以及将代码与设计令牌连接等任务。技能还可以支持自我修复循环，智能体可以根据真实结构（而不仅仅是平面视觉效果）来比较、完善和更新设计。
-Figma 表示，它计划通过画布上的原生 AI、更好的技能共享以及对图像和自定义字体的支持（目前尚不可用）来扩展此功能。该功能目前可与多个 MCP 客户端配合使用，测试期间免费，预计稍后将成为付费 API。根据 Figma 的说法，MCP 本机设置还继承了现有的安全性和可靠性标准。
-查看有关 AlternativeTo 的文章更多信息Figma | Figma 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/figma-opens-direct-ai-agent-design-on-canvas-introduces-skills-for-guided-workflows/</guid>
-      <pubDate>Wed, 25 Mar 2026 05:32:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Unite Pro 1.1 更新，包含 Tiny Apps、持久选项卡和链接转发</title>
-      <link>https://alternativeto.net/news/2026/3/unite-pro-1-1-updates-with-tiny-apps-persistent-tabs-and-link-forwarding/</link>
-      <description><![CDATA[Unite Pro 1.1 引入了 Tiny Apps，允许用户将窗口大小调整为迷你应用程序大小，以便在屏幕上持续使用。固定选项卡现在更加可靠，并且可以跨会话持续存在，并且链接转发支持外部应用程序 URL 方案，以实现更好的工作流程集成。
-此版本还改进了书签管理、自动刷新选项，并针对应用签名、证书处理和快捷方式可靠性提供了大量修复。
-查看有关 AlternativeTo 的文章更多信息团结 | 团结替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/unite-pro-1-1-updates-with-tiny-apps-persistent-tabs-and-link-forwarding/</guid>
-      <pubDate>Tue, 24 Mar 2026 16:18:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tuta 在日历中添加了撤消发送到邮件和待处理邀请的功能</title>
-      <link>https://alternativeto.net/news/2026/3/tuta-adds-undo-send-to-mail-and-pending-invitations-in-calendar/</link>
-      <description><![CDATA[Tuta Mail 推出了撤消发送功能，允许用户在发送前最多 10 秒内撤回外发电子邮件。用户可以在邮箱设置中激活或禁用此功能。
-此外，Tuta Calendar 现在以浅色显示待处理的活动邀请，使未答复的邀请更易于跟踪和回复。
-查看有关 AlternativeTo 的文章有关 Tuta 的更多信息邮件 | Tuta 邮件替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/tuta-adds-undo-send-to-mail-and-pending-invitations-in-calendar/</guid>
-      <pubDate>Tue, 24 Mar 2026 16:13:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Together AI 发布了 Mamba-3，并更新了循环设计</title>
-      <link>https://alternativeto.net/news/2026/3/together-ai-releases-mamba-3-with-an-updated-recurrence-design/</link>
-      <description><![CDATA[Together.ai 推出了 Mamba-3，这是一种新的状态空间模型架构，具有更具表现力的递归公式和复杂值状态跟踪，优先考虑推理效率而不是训练速度。多输入多输出 (MIMO) 变体可提高准确性，而不会增加解码延迟。
-基准测试表明，Mamba-3 SISO 在 1.5B 参数规模的预填充和解码延迟方面超越了 Mamba-2、Gated DeltaNet 和 Llama-3.2-1B。
-开源内核使用 Triton、TileLang 和 CuTe DSL 来优化硬件性能。
-查看有关 AlternativeTo 的文章有关 Together AI 的更多信息 | 共同的人工智能替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/3/together-ai-releases-mamba-3-with-an-updated-recurrence-design/</guid>
-      <pubDate>Tue, 24 Mar 2026 16:06:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude 现在可以控制您的计算机以自动执行 Cowork 和 Code 中的任务和工作流程</title>
-      <link>https://alternativeto.net/news/2026/3/claude-can-now-control-your-computer-to-automate-tasks-and-workflows-in-cowork-and-code/</link>
-      <description><![CDATA[Anthropic 引入了一项新功能，允许 Claude 使用您的计算机完成 Claude Cowork 和 Claude Code 中的任务。当无法直接访问任务所需的工具时，Claude 可以指向、单击和导航 macOS 桌面，操作浏览器、鼠标、键盘并运行开发人员工具，无需任何设置。如果可能，系统会优先考虑 Slack 或 Google Calendar 等服务的连接器；只有当连接器不可用时，才会直接控制本地设备。每次访问之前都会请求明确的用户许可，并且用户可以随时停止该过程。
-在此功能扩展之后，实施了多项安全措施。 Anthropic 的系统会自动扫描激活以检测提示注入尝试，并强制实施应用程序限制以最大程度地降低风险。为了提高安全性，某些应用默认情况下仍然无法访问。
-该功能扩展了用例，允许 Claude 在您离开时执行计算机任务，例如生成早间简报、编辑代码、运行测试和管理 3D 打印工作流程，从而使 Dispatch 更加高效。目前，Claude Pro 和 Max 订阅者的研究预览版中，计算机自动化功能仅在 macOS 上可用，并且与 Dispatch 集成得特别好，可以直接从手机分配任务。
-查看有关 AlternativeTo 的文章更多信息克劳德 | 克劳德替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/claude-can-now-control-your-computer-to-automate-tasks-and-workflows-in-cowork-and-code/</guid>
-      <pubDate>Tue, 24 Mar 2026 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
