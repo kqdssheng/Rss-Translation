@@ -4,7 +4,109 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Thu, 26 Mar 2026 13:16:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 02:25:08 GMT</lastBuildDate>
+    <item>
+      <title>Reddit 将开始要求“可疑帐户”来验证它们是由人运行的</title>
+      <link>https://alternativeto.net/news/2026/3/reddit-will-start-requiring-fishy-accounts-to-verify-they-are-run-by-a-human/</link>
+      <description><![CDATA[Reddit 将为一组选定的用户引入人工验证，这些用户的帐户显示出自动化活动或可疑的机器人行为。 首席执行官 Steve Huffman 表示 大多数用户不会受到影响。作为推出的一部分，Reddit 还将引入正式的机器人标签系统，批准的自动帐户将收到 [APP] 标签，以便用户可以清楚地看到帐户何时运行机器人。
+如果一个帐户看起来是自动化的，但没有带有该标签，Reddit 可能会要求它验证其背后是否有真人在操作。该公司表示，它希望在不将帐户与现实世界身份绑定的情况下确认人性，以努力保持 Reddit 的匿名性。正在考虑的验证方法包括密钥检查、指纹扫描、PIN 输入以及 World ID 等第三方生物识别工具。霍夫曼表示，传统的身份验证是最不私密、最不受欢迎的选择，尽管 Reddit 可能仍需要在英国和澳大利亚等地支持它。
+该平台还使报告可疑机器人变得更加容易，同时在未公开的自动化和依赖人工智能工具编写的人类用户之间划清界限。目前，重点是识别帐户是否由个人操作，而不是删除所有人工智能辅助内容。
+查看有关 AlternativeTo 的文章更多信息Reddit | Reddit 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/reddit-will-start-requiring-fishy-accounts-to-verify-they-are-run-by-a-human/</guid>
+      <pubDate>Fri, 27 Mar 2026 00:24:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ghost 添加了与 Transistor.fm 的直接会员专享播客集成</title>
+      <link>https://alternativeto.net/news/2026/3/ghost-adds-direct-members-only-podcast-integration-with-transistor-fm/</link>
+      <description><![CDATA[Ghost 已启动与 Transistor.fm 的正式集成，使发布商能够提供具有全自动会员同步功能的会员专享播客。通过集成，发布者可以定义每个播客的访问权限，无论是所有成员、付费订阅者还是特定级别。
+会员现在可以收到独特的私人提要，并可以通过 Ghost 门户和编辑卡嵌入中的内置工具进行订阅。
+查看有关 AlternativeTo 的文章有关 Ghost 的更多信息 | 幽灵替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/ghost-adds-direct-members-only-podcast-integration-with-transistor-fm/</guid>
+      <pubDate>Thu, 26 Mar 2026 17:02:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cryptee 推出端到端加密照片和视频共享</title>
+      <link>https://alternativeto.net/news/2026/3/cryptee-introduces-end-to-end-encrypted-photo-and-video-sharing/</link>
+      <description><![CDATA[Cryptee 现在允许付费用户通过安全链接与其他人共享端到端加密的照片和视频。共享相册仅限 5 位收件人，邀请链接将在 48 小时后过期，并且需要电子邮件确认才能访问。
+发件人保留控制权，可以选择撤销访问权限并查看哪些收件人已接受其邀请。
+查看 AlternativeTo 上的文章有关 Cryptee 的更多信息 | Cryptee 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/cryptee-introduces-end-to-end-encrypted-photo-and-video-sharing/</guid>
+      <pubDate>Thu, 26 Mar 2026 16:58:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Paper Snapshot 允许用户将实时网站导入为可编辑的 HTML 和 CSS</title>
+      <link>https://alternativeto.net/news/2026/3/paper-snapshot-lets-users-import-live-sites-as-editable-html-and-css/</link>
+      <description><![CDATA[Paper Design 发布了 Paper Snapshot，这是一个扩展程序，允许用户捕获实时网站并将其导入为可编辑的 HTML 和 CSS 层。此更新消除了对静态屏幕截图的需求，让用户可以直接从生产站点开始设计，从而加快原型制作速度并在整个迭代过程中保持高保真度。
+查看有关 AlternativeTo 的文章有关 Paper 的更多信息设计 | 纸张设计替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/3/paper-snapshot-lets-users-import-live-sites-as-editable-html-and-css/</guid>
+      <pubDate>Thu, 26 Mar 2026 16:45:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mulvad 浏览器 Alpha 采用 Firefox Rapid Release 并添加 Linux ARM 支持</title>
+      <link>https://alternativeto.net/news/2026/3/mullvad-browser-alpha-adopts-firefox-rapid-release-and-adds-linux-arm-support/</link>
+      <description><![CDATA[Mullvad 浏览器 Alpha 现在通过 Firefox 快速发布渠道而不是扩展支持版本进行更新，使测试人员能够更快地访问新的上游 Mozilla 功能。 alpha 版本现在也可在 Linux ARM 平台上使用。
+Alpha 通道用户应注意，与稳定版本相比，更快的更新可能会导致更多影响安全和隐私的上游错误。
+查看有关 AlternativeTo 的文章有关 Mullvad 的更多信息浏览器 | Mullvad 浏览器替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/mullvad-browser-alpha-adopts-firefox-rapid-release-and-adds-linux-arm-support/</guid>
+      <pubDate>Thu, 26 Mar 2026 16:36:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deezer 与 EJI 合作过滤非人类音乐录音</title>
+      <link>https://alternativeto.net/news/2026/3/deezer-and-eji-partnership-to-filter-non-human-music-recordings/</link>
+      <description><![CDATA[Deezer 与匈牙利表演者权利保护局 EJI 合作，实施人工智能检测技术。该工具可以识别和过滤没有人类参与的录音，旨在确保版税仅分配给人类表演者。
+Deezer 的系统将其每日新曲目中约 39% 标记为涉及人工智能，从而提高了音乐版权管理的透明度。
+查看有关 AlternativeTo 的文章有关 Deezer 的更多信息 | Deezer 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/deezer-and-eji-partnership-to-filter-non-human-music-recordings/</guid>
+      <pubDate>Thu, 26 Mar 2026 16:30:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>据报道字节跳动停止全球推出 Seedance 2.0 AI 视频生成器</title>
+      <link>https://alternativeto.net/news/2026/3/bytedance-reportedly-halts-global-rollout-of-seedance-2-0-ai-video-generator/</link>
+      <description><![CDATA[据报道，由于知识产权问题，字节跳动已暂停在全球范围内推出其 Seedance 2.0 人工智能视频生成器的计划。该决定是在由知名演员出演的 Seedance 2.0 视频疯传后，好莱坞主要制片厂发出法律威胁后作出的。
+该公司目前正在与工程师和律师合作，在全球发布之前实施更强有力的知识产权保护措施。
+查看有关 AlternativeTo 的文章更多信息Seedance | Seedance 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/bytedance-reportedly-halts-global-rollout-of-seedance-2-0-ai-video-generator/</guid>
+      <pubDate>Thu, 26 Mar 2026 16:14:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Storybook MCP 推出 React 并集成 AI 代理</title>
+      <link>https://alternativeto.net/news/2026/3/storybook-mcp-arrives-for-react-with-ai-agent-integration/</link>
+      <description><![CDATA[Storybook MCP 现在可用于 React，允许 AI 代理利用组件和设计系统中的结构化上下文。此更新要求代理使用现有组件，提高代码一致性并减少低质量输出。
+团队还可以在 Chromatic 上发布 Storybook MCP，以实现安全、版本化的协作，作为共享的事实来源。
+查看有关 AlternativeTo 的文章有关 Storybook 的更多信息 | 故事书替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/storybook-mcp-arrives-for-react-with-ai-agent-integration/</guid>
+      <pubDate>Thu, 26 Mar 2026 16:03:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vivaldi 7.9 为 iOS 和 Android 带来了两级选项卡堆栈、Safari 导入和每日图像</title>
+      <link>https://alternativeto.net/news/2026/3/vivaldi-7-9-brings-two-level-tab-stacks-safari-import-and-daily-images-to-ios-and-android/</link>
+      <description><![CDATA[Vivaldi 7.9 现已适用于 iOS 和 Android 设备，最近的桌面更新。新版本引入了多项旨在增强跨移动平台的浏览和自定义功能的功能。
+对于 iOS 用户，Vivaldi 添加了两级选项卡堆栈，支持以双行布局组织分组选项卡。堆叠的选项卡显示在顶行，而堆栈中的各个选项卡仅在需要时显示在第二行，从而简化了选项卡管理并减少了视觉混乱。此外，iOS 用户现在可以将其起始页的每日旋转图像设置为其设备的壁纸，从而使主屏幕在视觉上保持同步并自动刷新。此次更新还支持直接从 Safari 导入浏览数据，包括书签、保存的密码、浏览历史记录和存储的信用卡信息，让用户更轻松地从 Apple 默认浏览器切换。
+转向 Android，Vivaldi 7.9 引入了每日图像选项，该选项每天都会用新照片刷新起始页背景，以增加个性化。该版本还继续改进 DeX 和桌面模式支持，随着团队为高级用户提供更全面的功能集，改进浏览器在这些高级环境中的工作方式。
+查看有关 AlternativeTo 的文章更多信息维瓦尔第 | 维瓦尔第替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/vivaldi-7-9-brings-two-level-tab-stacks-safari-import-and-daily-images-to-ios-and-android/</guid>
+      <pubDate>Thu, 26 Mar 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tails 7.6 添加了自动 Tor 桥，用 GNOME Secrets 取代 KeePassXC 等等</title>
+      <link>https://alternativeto.net/news/2026/3/tails-7-6-adds-automatic-tor-bridges-replaces-keepassxc-with-gnome-secrets-and-more/</link>
+      <description><![CDATA[Tails 7.6 已作为该便携式操作系统的最新版本发布，该操作系统优先考虑隐私并反对审查制度。此更新引入了针对 Tor 网桥的增强指南和选项，可直接从 Tor 连接助手获取。用户现在可以自动连接到 Tor，如果访问被阻止，新选项会要求根据其所在区域建立 Tor 网桥。 Tails 使用 Tor 项目的 Moat API 收集合适的桥接数据，并通过域名前端伪装连接以规避审查制度。
+在这些隐私改进之后，Tails 现在将 KeePassXC 替换为 GNOME Secrets 密码管理器。这一变化带来了简化的界面和更好的 GNOME 桌面集成，并恢复了屏幕键盘和可调节光标大小等辅助功能。 GNOME Secrets 可以解锁现有的 KeePassXC 数据库，并支持回退到 KeePassXC 以满足高级需求。
+在这些增强功能的基础上，Tails 7.6 更新了多个捆绑程序，包括 Electrum 4.7.0、Tor 浏览器 15.0.8 和 Thunderbird 140.8.0，以及更新的固件包。该版本还解决了多个错误，提高了整体稳定性和可用性。
+查看有关 AlternativeTo 的文章更多信息尾部 | 尾部替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/tails-7-6-adds-automatic-tor-bridges-replaces-keepassxc-with-gnome-secrets-and-more/</guid>
+      <pubDate>Thu, 26 Mar 2026 14:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌推出 Lyria 3 Pro，用于先进的人工智能音乐创作，可创作长达 3 分钟的歌曲</title>
+      <link>https://alternativeto.net/news/2026/3/google-unveils-lyria-3-pro-for-advanced-ai-music-creation-of-songs-up-to-3-minutes-long/</link>
+      <description><![CDATA[Google 已推出 Lyria 3 Pro，这是其音乐生成 AI 模型的最先进版本，将于一个月内推出Lyria 3 发布后。 Lyria 3 Pro 允许用户生成长达三分钟的完整曲目，并能够提示高级音乐元素，例如前奏、主歌、副歌和桥段，增强实验的创意选项并促进更复杂的歌曲结构。
+除了支持更长、更可定制的作品之外，Lyria 3 Pro 现在也可以广泛使用。企Vids，该公司的人工智能视频创作应用程序。 Gemini 应用的付费订阅者可以抢先体验扩展音乐生成功能，而 ProducerAI 集成为任何级别的艺术家、制作人和词曲作者提供迭代功能。
+为了回应对知识产权和真实艺术性的担忧，Google 制定了具体的保障措施。 Lyria 3 Pro 避免复制指定艺术家的作品，仅将提示作为广泛的灵感应用，并使用过滤器来阻止与现有内容匹配的输出。为了增强透明度，每个 Lyria 3 和 Lyria 3 Pro 输出都嵌入了 Google 的 SynthID，这是一种难以察觉的水印，用于识别人工智能生成的音频。
+查看有关 AlternativeTo 的文章更多信息Lyria | Lyria 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/google-unveils-lyria-3-pro-for-advanced-ai-music-creation-of-songs-up-to-3-minutes-long/</guid>
+      <pubDate>Thu, 26 Mar 2026 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Kali Linux 2026.1 发布，附带 Linux 6.18、主题更新、BackTrack 模式和 8 个新工具</title>
       <link>https://alternativeto.net/news/2026/3/kali-linux-2026-1-launches-with-linux-6-18-theme-update-backtrack-mode-and-8-new-tools/</link>
@@ -45,115 +147,6 @@
 查看有关 AlternativeTo 的文章更多信息FreeCAD | FreeCAD 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/3/freecad-1-1-adds-three-point-lighting-part-design-previews-and-major-fem-upgrades/</guid>
       <pubDate>Wed, 25 Mar 2026 20:13:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spotify 的新 SongDNA 功能可让您深入了解音乐的创作和合作</title>
-      <link>https://alternativeto.net/news/2026/3/spotify-s-new-songdna-feature-lets-you-deep-dive-into-music-s-creation-and-collaborations/</link>
-      <description><![CDATA[Spotify 推出了 SongDNA，这是一种集成到移动用户当前播放视图中的沉浸式音乐体验。通过点击 SongDNA 卡，听众可以访问有关歌曲的作者、制作人、合作者、塑造其声音的样本和插值的详细信息，甚至可以获取其灵感来源的翻唱信息。
-在此基础上，SongDNA 允许用户点击任何列出的创作者来发现他们合作过的其他艺术家，并追踪不同曲目、时代和流派之间的进一步合作。这些互动途径让听众更深入地了解他们的音乐是如何组合在一起的。
-SongDNA 中显示的联系基于艺术家及其团队的输入以及来自社区的其他数据。符合条件的艺术家和唱片公司团队可以通过 Spotify for Artists 查看并直接管理他们的 SongDNA 内容，从而提高对音乐故事讲述的准确性和控制力。
-虽然 SongDNA 通过实现探索性、多方面的发现来扩展关于歌曲功能，但目前它的测试版可供 iOS 和 Android 设备上的 Spotify 高级用户使用。计划在 4 月份向所有高级订户更广泛地推出。
-查看有关 AlternativeTo 的文章更多信息Spotify | Spotify 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/spotify-s-new-songdna-feature-lets-you-deep-dive-into-music-s-creation-and-collaborations/</guid>
-      <pubDate>Wed, 25 Mar 2026 19:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenShot 3.5 带来更快的时间线、改进的 GPU 加速、更智能的效果等等</title>
-      <link>https://alternativeto.net/news/2026/3/openshot-3-5-brings-faster-timeline-improved-gpu-acceleration-smarter-effects-and-more/</link>
-      <description><![CDATA[OpenShot 3.5 已发布，是这款功能强大的跨平台开源视频编辑器的最新版本。此更新引入了重新设计的时间线界面，提供更快的缩放、滚动和编辑功能。该版本还首次推出了新的关键帧面板，简化了视频编辑器的详细动画工作。
-在这些可用性改进的基础上，OpenShot 3.5 的整体性能提高了 35%，尤其是在效果和帧处理方面取得了巨大的进步。现在，导出会生成更小的文件，同时保持更高的视频质量，这使需要平衡存储和输出标准的用户受益。此外，解码和编码的 GPU 加速也得到了进一步优化，提高了对高要求任务的响应能力。
-继性能提升之后，OpenShot 通过更广泛的自动化测试（包括用户界面和全周期重放测试）来扩展稳定性。此更新引入了新的音频过渡功能，使音频剪辑之间的交叉淡入淡出变得简单。蒙版支持现在涵盖所有效果，为创意工作流程提供升级的动画蒙版和新的蒙版控件。
-除了这些核心变化之外，升级后的默认色度键还带来了更柔和的边缘、更快的处理速度和更高的质量。音频文件导入速度也得到提高。对于高级用户，实验性的 ComfyUI 集成可实现基于人工智能的新工作流程。许多错误修复进一步提高了编辑、播放和平台可靠性。
-查看有关 AlternativeTo 的文章更多信息OpenShot | OpenShot 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/3/openshot-3-5-brings-faster-timeline-improved-gpu-acceleration-smarter-effects-and-more/</guid>
-      <pubDate>Wed, 25 Mar 2026 17:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>看板软件 Fizzy 现在对所有用户免费，提供新的 CLI 和本机 iOS/Android 应用程序</title>
-      <link>https://alternativeto.net/news/2026/3/kanban-software-fizzy-is-now-free-for-all-users-with-new-cli-and-native-ios-android-apps/</link>
-      <description><![CDATA[37signals 是 Basecamp、HEY 和 ONCE 背后的公司，宣布其看板软件Fizzy 现在对所有用户免费。可安装的开源版本和云托管的软件即服务 (SaaS) 产品都可以免费使用。首席执行官 Jason Fried 表示，持续的支持将由 Basecamp 和 HEY 的收入提供资金。
-虽然 Fizzy 的代码可在 GitHub 上获取，但它是在 O&#39;Saasy 许可证下发布的。该许可证在代码访问方面与 MIT 类似，但它限制 37signals 的商业 SaaS 使用，并且不被开源计划识别为开源许可证。
-此举之后，任何人都可以直接通过网站注册 Fizzy 并开始使用，无需付费。以前的付费订户今后将不再需要付费。扩大平台支持，计划推出官方命令行界面，一旦获得 Apple 批准，预计将推出原生 iOS 应用程序。此外，Android 应用程序已经可以从 Google Play 商店下载。
-查看有关 AlternativeTo 的文章更多信息碳酸饮料 | 碳酸饮料替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/kanban-software-fizzy-is-now-free-for-all-users-with-new-cli-and-native-ios-android-apps/</guid>
-      <pubDate>Wed, 25 Mar 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DietPi 10.2 添加了 Immich、uv、RustDesk 客户端、更新的脚本和许多其他增强功能</title>
-      <link>https://alternativeto.net/news/2026/3/dietpi-10-2-adds-immich-uv-rustdesk-client-updated-scripts-and-many-other-enhancements/</link>
-      <description><![CDATA[DietPi 10.2 已发布，作为这款适用于单板计算机 (SBC) 的基于 Debian 的轻量级 Linux 发行版的最新更新。此版本添加了 Immich，这是一种用于高效照片和视频管理的自托管解决方案。此更新还引入了 Immich 机器学习，它可以使用 CLIP 嵌入实现面部识别和智能搜索等功能。
-在新增软件的基础上，DietPi 现在提供 uv，这是一个用 Rust 编写的高速 Python 包和项目管理器。此外，RustDesk 客户端现在可用于远程桌面共享，补充了现有 RustDesk 服务器集成。此外，软件安装程序还获得了图形桌面选择菜单，改进了寻求桌面环境的用户的安装过程。
-对于系统性能，基准测试脚本已移至/boot/dietpi/dietpi-benchmark，用户可以使用dietpi-benchmark别名直接从控制台运行它。配置菜单现在允许选择 CPU 温度传感器来定制监控脚本。 dietpi-arr_to_RAM 脚本已重命名为 dietpi-servarr_to_ram，现在支持 Prowlarr 和增强的符号链接保护。
-DietPi 10.2 将 Home Assistant Python 虚拟环境更新至版本 3.14 以满足新要求，通过 openSUSE 构建服务在 Trixie 和 Raspbian 13 上启用 UrBackup for ARMv6，并交付软件包适用于带有 SDL3 的 Amiberry v8.0.0。此版本中还修复了一些错误。
-查看有关 AlternativeTo 的文章更多信息DietPi | DietPi 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/dietpi-10-2-adds-immich-uv-rustdesk-client-updated-scripts-and-many-other-enhancements/</guid>
-      <pubDate>Wed, 25 Mar 2026 14:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Krita 6.0 首次亮相，提供 Linux Wayland 和 HDR 支持、新文本工具和漫画面板编辑器</title>
-      <link>https://alternativeto.net/news/2026/3/krita-6-0-debuts-with-linux-wayland-and-hdr-support-new-text-tools-and-comic-panel-editor/</link>
-      <description><![CDATA[Krita 5.3 和 6.0 已发布，为数字画家和动画师提供了广泛的升级。虽然两个版本共享大部分功能，但 Krita 6 基于 Qt6，这与继续使用 Qt5 的 Krita 5.3 不同。
-Krita 6 具有明确的 Linux Wayland 支持，包括 Wayland 颜色管理协议的实现。这为 Linux 用户增加了高动态范围 (HDR) 显示选项、分数缩放和 10 位显示功能。随着这些平台的改进，HDR 绘画工作流程也得到了更广泛的支持。
-最显着的变化之一是，文本工具经过彻底修改，提供画布上编辑、完整的 OpenType 字体兼容性以及将文本流入形状的能力。这些增强功能对于插画和漫画专业人士尤其重要。现在可以更轻松地创建基于矢量的漫画面板，从而简化艺术家的页面布局。
-基于这些以设计为中心的功能，一些绘画工具获得了更新。填充工具现在可以闭合形状中的间隙，并且变换工具中的液化模式的运行速度得到提高。记录器泊坞窗添加了实时记录选项，扩展了演示或流媒体的用例。新的滤镜效果，例如传播颜色和重置透明，进一步扩展了创意控制。文件格式兼容性得到增强，特别是能够处理 Photoshop PSD 文件中嵌入的文本对象。
-查看有关 AlternativeTo 的文章更多信息Krita | Krita 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/krita-6-0-debuts-with-linux-wayland-and-hdr-support-new-text-tools-and-comic-panel-editor/</guid>
-      <pubDate>Wed, 25 Mar 2026 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Firefox 149 添加了 50 GB 的免费内置 VPN、分割视图、选项卡注释和增强的安全性</title>
-      <link>https://alternativeto.net/news/2026/3/firefox-149-adds-free-built-in-vpn-with-50-gb-split-view-tab-notes-and-enhanced-security/</link>
-      <description><![CDATA[Firefox 149 带来了多项新功能，旨在使日常浏览更加高效和安全。更新后的浏览器添加了拆分视图模式，使用户可以在一个窗口中并排显示两个页面。此更改有助于比较内容、研究主题或跨多个选项卡工作。与此同时，免费的内置虚拟专用网络 (VPN) 正在美国、英国、德国和法国推出，每月提供 50 GB 数据，并允许用户切换对特定网站的保护。
-基于工作流程改进，Firefox Labs 中的选项卡注释功能可让您将个人注释附加到各个网页。用户可以记下提醒或详细信息以供以后重新访问。新的 TrustPanel 将隐私和安全设置引入可从地址栏访问的一个位置。通知控制更加严格：Firefox 现在会自动阻止并永久撤销被 SafeBrowsing 标记为恶意的网站的权限，同时对核心流程中 JavaScript 的要求也得到了加强。
-在这些安全性增强之后，许多 PDF 文件将通过增加的硬件加速加载得更快。 Linux 用户将看到 Firefox 默认使用 XDG 门户文件选择器，以获得更原生的体验。更新还将地址自动填充功能扩展到另外五个国家，并在设备翻译中添加了新语言，包括波斯尼亚语、塞尔维亚语、挪威语和泰语。此外，Windows 和 macOS 用户还获得了一个共享按钮，可以通过系统工具快速共享选项卡。
-查看有关 AlternativeTo 的文章更多信息Mozilla Firefox | Mozilla Firefox 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/firefox-149-adds-free-built-in-vpn-with-50-gb-split-view-tab-notes-and-enhanced-security/</guid>
-      <pubDate>Wed, 25 Mar 2026 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 为所有用户引入视觉购物和产品发现</title>
-      <link>https://alternativeto.net/news/2026/3/chatgpt-introduces-visual-shopping-and-product-discovery-for-all-users/</link>
-      <description><![CDATA[ChatGPT 现在提供更丰富、更直观的购物体验，允许用户通过并排比较和可视化工具浏览和比较产品。这些增强功能正在向所有免费、Go、Plus 和 Pro 用户推出。
-扩展的 Agentic Commerce Protocol 集成使商家（包括 Target 和 Walmart 等主要零售商）能够直接在 ChatGPT 对话中共享实时产品数据。
-查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/chatgpt-introduces-visual-shopping-and-product-discovery-for-all-users/</guid>
-      <pubDate>Wed, 25 Mar 2026 09:31:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Opera One 增加了 Gemini、谷歌翻译和四选项卡分屏</title>
-      <link>https://alternativeto.net/news/2026/3/opera-one-adds-gemini-google-translate-and-four-tab-split-screen/</link>
-      <description><![CDATA[Opera One 现在直接在边栏中集成了 Gemini 和 Google 翻译，让用户无需切换标签页即可更快地访问。该浏览器的分屏功能也得到了扩展，现在支持同时查看和组织最多四个选项卡，并具有灵活的布局选项。
-此更新包括两个新的动态主题：Cybervroom 和 Mizumi，以进一步个性化浏览体验。
-查看有关 AlternativeTo 的文章有关 Opera 的更多信息 | 歌剧替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/opera-one-adds-gemini-google-translate-and-four-tab-split-screen/</guid>
-      <pubDate>Wed, 25 Mar 2026 09:25:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动情报报告到达 Inoreader</title>
-      <link>https://alternativeto.net/news/2026/3/automated-intelligence-reports-arrive-in-inoreader/</link>
-      <description><![CDATA[Inoreader 引入了自动化情报报告，可以根据用户定义的时间表使用可自定义或预定义的提示对多篇文章进行计划分析。每个报告都保存为新文章，允许注释、共享或导出。
-该功能可作为 Pro 和 Custom 计划的附加功能使用，并包含在 Team Intelligence 计划中，使用基于令牌的配额。
-查看有关 AlternativeTo 的文章有关 Inoreader 的更多信息 | Inoreader 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/automated-intelligence-reports-arrive-in-inoreader/</guid>
-      <pubDate>Wed, 25 Mar 2026 08:54:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Code 推出自动模式以实现自动文件和 bash 权限</title>
-      <link>https://alternativeto.net/news/2026/3/claude-code-launches-auto-mode-for-automated-file-and-bash-permissions/</link>
-      <description><![CDATA[Claude Code 现在提供自动模式，该模式使用内置分类器自动执行文件写入和 bash 命令权限批准。安全操作会自动执行，而潜在的破坏性操作会在无需用户输入的情况下被阻止。
-此功能可作为团队计划的研究预览，企业版和 API 即将推出。
-查看有关 AlternativeTo 的文章有关 Claude 的更多信息代码 | Claude 代码替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/3/claude-code-launches-auto-mode-for-automated-file-and-bash-permissions/</guid>
-      <pubDate>Wed, 25 Mar 2026 08:44:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google TV 推出新的 Gemini 功能：视觉帮助、深度挖掘和运动简报</title>
-      <link>https://alternativeto.net/news/2026/3/google-tv-introduces-new-gemini-features-visual-help-deep-dives-and-sports-briefs/</link>
-      <description><![CDATA[Google TV 正在推出由 Gemini 提供支持的新功能，包括更丰富的视觉帮助、对教育主题的交互式深入探讨以及实时更新的及时体育简报。视觉帮助功能可适应用户问题，显示相关的视觉效果、视频或记分卡。
-深度剖析提供了一系列主题的解说式互动解释，而体育简报则提供了大联盟的解说式更新。这些功能现已在美国和加拿大推出，并将在更多地点和设备上推出。
-查看有关 AlternativeTo 的文章有关 Google 的更多信息电视 | Google TV 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/google-tv-introduces-new-gemini-features-visual-help-deep-dives-and-sports-briefs/</guid>
-      <pubDate>Wed, 25 Mar 2026 08:40:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
