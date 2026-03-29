@@ -4,13 +4,13 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sun, 29 Mar 2026 02:28:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 12:56:29 GMT</lastBuildDate>
     <item>
       <title>谷歌推出Gemini 3.1 Flash Live，拥有迄今为止最拟人化的人工智能语音模型</title>
       <link>https://alternativeto.net/news/2026/3/google-launches-gemini-3-1-flash-live-with-its-most-human-like-sounding-ai-voice-model-yet/</link>
       <description><![CDATA[Google 发布了 Gemini 3.1 Flash Live，这是其迄今为止最先进的语音和音频 AI 模型，专为听起来更自然的对话而设计。该模型正在为 Gemini Live 和 Search Live 的重大升级提供支持，包括音频和视频功能、Google Lens 集成、支持 90 多种语言的实时多模式对话，并在 200 多个国家/地区推出。
 开发人员可以根据用例配置模型的思维水平，以平衡速度和质量。在“高”设置下，Gemini 3.1 Flash Live 在 Big Bench Audio Benchmark 上的得分为 95.9%，仅次于 Step Audio R1.1 Realtime，响应时间为 2.98 秒。在“最小”设置下，质量下降至 70.5%，但响应时间缩短至 0.96 秒。
-谷歌还表示，该模型能够更好地检测语音中的音高和情感线索，在嘈杂的环境中表现更可靠，并且改进了对触发外部工具和在实时对话期间传递信息的支持，从而使其更难与真人区分开来。 Gemini 3.1 Flash Live 可在 Google AI Studio、Gemini API 和 Gemini Enterprise for Customer Experience 中使用，音频输入价格不变，为每小时 0.35 美元，音频输出为每小时 1.40 美元。
+谷歌还表示，该模型能够更好地检测语音中的音调和情感线索，在嘈杂的环境中表现更可靠，并且改进了对触发外部工具和在实时对话期间传递信息的支持，从而使其更难与真人区分开来。 Gemini 3.1 Flash Live 可在 Google AI Studio、Gemini API 和 Gemini Enterprise for Customer Experience 中使用，音频输入价格不变，为每小时 0.35 美元，音频输出为每小时 1.40 美元。
 查看有关 AlternativeTo 的文章有关 Google 的更多信息Gemini | Google Gemini 替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/3/google-launches-gemini-3-1-flash-live-with-its-most-human-like-sounding-ai-voice-model-yet/</guid>
       <pubDate>Sat, 28 Mar 2026 18:17:51 GMT</pubDate>
@@ -41,7 +41,7 @@
       <title>Linkwarden 2.14 添加了改进的团队协作、标签分页以及更快和增强的 UI</title>
       <link>https://alternativeto.net/news/2026/3/linkwarden-2-14-adds-improved-team-collaboration-tag-pagination-and-faster-and-enhanced-ui/</link>
       <description><![CDATA[书签管理器Linkwarden 2.14 引入了旨在改善组织和协作的关键更新。集合和子集合工作流程现在支持成员的权限传播，允许管理员使用继承的访问规则建立子集合，以实现更一致的管理。
-在这些协作增强之后，更新为标签带来了分页功能。使用大量标签列表的用户会发现浏览速度更快且更易于管理，尤其是在侧边栏和标签页面中。以性能为基础，在链接和集合等速度较慢的区域添加了乐观渲染，从而在编辑或删除项目时为用户提供更即时的 UI 反馈。
+在这些协作增强之后，更新为标签带来了分页功能。使用大量标签列表的用户会发现浏览速度更快且更易于管理，尤其是在侧边栏和标签页面内。以性能为基础，在链接和集合等速度较慢的区域添加了乐观渲染，从而在编辑或删除项目时为用户提供更即时的 UI 反馈。
 在技术方面，Linkwarden 现在在 Web 应用程序的 Next.js 15 和移动设备的 Expo 54 上运行，更新了其技术基础，以提高稳定性和更广泛的平台支持。这些基础升级得到了用户体验改进的补充，包括更有用的搜索和更易于导航的设置菜单。
 提交链接的服务器端验证也得到了改进。这在链接提交期间提供了更安全、更可靠的处理。除了这些重大变化之外，该版本还包括较小的界面清理、依赖项更新以及整个应用程序的常规维护改进。
 查看有关 AlternativeTo 的文章更多信息Linkwarden | Linkwarden 替代方案]]></description>
@@ -113,7 +113,7 @@ Netflix 没有对这一最新的增长做出新的解释。该公司此前曾表
       <title>Reddit 将开始要求“可疑帐户”来验证它们是由人运行的</title>
       <link>https://alternativeto.net/news/2026/3/reddit-will-start-requiring-fishy-accounts-to-verify-they-are-run-by-a-human/</link>
       <description><![CDATA[Reddit 将为一组选定的用户引入人工验证，这些用户的帐户显示出自动化活动或可疑的机器人行为。 首席执行官 Steve Huffman 表示 大多数用户不会受到影响。作为推出的一部分，Reddit 还将引入正式的机器人标签系统，批准的自动帐户将收到 [APP] 标签，以便用户可以清楚地看到帐户何时运行机器人。
-如果一个帐户看起来是自动化的，但没有带有该标签，Reddit 可能会要求它验证其背后是否有真人。该公司表示，它希望在不将帐户与现实世界身份绑定的情况下确认人性，以努力保持 Reddit 的匿名性。正在考虑的验证方法包括密钥检查、指纹扫描、PIN 输入和 World ID 等第三方生物识别工具。霍夫曼表示，传统的身份验证是最不私密、最不受欢迎的选择，尽管 Reddit 可能仍需要在英国和澳大利亚等地支持它。
+如果一个帐户看起来是自动化的，但没有带有该标签，Reddit 可能会要求它验证其背后是否有真人在操作。该公司表示，它希望在不将帐户与现实世界身份绑定的情况下确认人性，以努力保持 Reddit 的匿名性。正在考虑的验证方法包括密钥检查、指纹扫描、PIN 输入和 World ID 等第三方生物识别工具。霍夫曼表示，传统的身份验证是最不私密、最不受欢迎的选择，尽管 Reddit 可能仍需要在英国和澳大利亚等地支持它。
 该平台还使报告可疑机器人变得更加容易，同时在未公开的自动化和依赖人工智能工具编写的人类用户之间划清界限。目前，重点是识别帐户是否由个人操作，而不是删除所有人工智能辅助内容。
 查看有关 AlternativeTo 的文章更多信息Reddit | Reddit 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/3/reddit-will-start-requiring-fishy-accounts-to-verify-they-are-run-by-a-human/</guid>
