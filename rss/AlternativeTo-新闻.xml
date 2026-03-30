@@ -4,7 +4,7 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sun, 29 Mar 2026 12:56:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 02:30:22 GMT</lastBuildDate>
     <item>
       <title>谷歌推出Gemini 3.1 Flash Live，拥有迄今为止最拟人化的人工智能语音模型</title>
       <link>https://alternativeto.net/news/2026/3/google-launches-gemini-3-1-flash-live-with-its-most-human-like-sounding-ai-voice-model-yet/</link>
@@ -41,7 +41,7 @@
       <title>Linkwarden 2.14 添加了改进的团队协作、标签分页以及更快和增强的 UI</title>
       <link>https://alternativeto.net/news/2026/3/linkwarden-2-14-adds-improved-team-collaboration-tag-pagination-and-faster-and-enhanced-ui/</link>
       <description><![CDATA[书签管理器Linkwarden 2.14 引入了旨在改善组织和协作的关键更新。集合和子集合工作流程现在支持成员的权限传播，允许管理员使用继承的访问规则建立子集合，以实现更一致的管理。
-在这些协作增强之后，更新为标签带来了分页功能。使用大量标签列表的用户会发现浏览速度更快且更易于管理，尤其是在侧边栏和标签页面内。以性能为基础，在链接和集合等速度较慢的区域添加了乐观渲染，从而在编辑或删除项目时为用户提供更即时的 UI 反馈。
+在这些协作增强之后，更新为标签带来了分页功能。使用大量标签列表的用户会发现浏览速度更快且更易于管理，尤其是在侧边栏和标签页面中。以性能为基础，在链接和集合等速度较慢的区域添加了乐观渲染，从而在编辑或删除项目时为用户提供更即时的 UI 反馈。
 在技术方面，Linkwarden 现在在 Web 应用程序的 Next.js 15 和移动设备的 Expo 54 上运行，更新了其技术基础，以提高稳定性和更广泛的平台支持。这些基础升级得到了用户体验改进的补充，包括更有用的搜索和更易于导航的设置菜单。
 提交链接的服务器端验证也得到了改进。这在链接提交期间提供了更安全、更可靠的处理。除了这些重大变化之外，该版本还包括较小的界面清理、依赖项更新以及整个应用程序的常规维护改进。
 查看有关 AlternativeTo 的文章更多信息Linkwarden | Linkwarden 替代方案]]></description>
