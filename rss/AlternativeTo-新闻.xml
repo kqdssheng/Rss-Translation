@@ -4,7 +4,38 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Tue, 31 Mar 2026 02:25:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 13:19:14 GMT</lastBuildDate>
+    <item>
+      <title>阿里巴巴推出Qwen3.5-Omni系列，全模态、多语言、字幕升级</title>
+      <link>https://alternativeto.net/news/2026/3/alibaba-launches-qwen3-5-omni-series-with-omnimodal-multilingual-and-captioning-upgrades/</link>
+      <description><![CDATA[阿里云推出Qwen3.5-Omni作为其大型语言模型阵容中的最新产品，通过Qwen3.5-Omni-Plus和Qwen3.5-Omni-Plus-Realtime模型扩展了该系列。 Qwen3.5-Omni定位为公司领先的全模态大语言模型，为文本、图像、音频和视听内容理解提供集成支持。该架构的 Thinker 和 Talker 组件均采用 Hybrid-Attention Mixture-of-Experts。该阵容包括具有不同功能的指导模型：Plus、Flash 和 Light。
+在此基础上，Qwen3.5-Omni 模型可实现 256,000 个令牌长上下文输入，处理超过 10 小时的音频，并以每秒一帧的速度管理超过 400 秒的 720p 视频。这些模型在广泛的多模式数据集上进行了预训练，其中包括超过 1 亿小时的视听材料，支持其跨格式的内容生成和感知。
+在语言支持方面，Qwen3.5-Omni 实现了重大改进，包括 113 种语言和方言的语音识别以及 36 种语言和方言的语音生成。在这些多语言升级扩大其覆盖范围的同时，Qwen3.5-Omni-Plus 的性能也优于Gemini-3.1 Pro 在音频任务中的表现并与其在视听理解方面的表现相匹配。该系列具有高级字幕，能够进行剧本级描述、场景分割、时间戳以及音频内容中角色关系的详细映射。新模型可通过离线和实时 API 获取。
+查看有关 AlternativeTo 的文章更多关于Qwen | Qwen 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/alibaba-launches-qwen3-5-omni-series-with-omnimodal-multilingual-and-captioning-upgrades/</guid>
+      <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mac 版 Tower 16 Beta 增加了 AI 提交、新的工作副本视图和性能升级</title>
+      <link>https://alternativeto.net/news/2026/3/tower-16-beta-for-mac-adds-ai-commits-new-working-copy-view-and-performance-upgrades/</link>
+      <description><![CDATA[Mac 版 Tower 16 beta 引入了人工智能驱动的提交生成，使用户能够在人工智能的帮助下自动创建提交消息和描述。暂存更改后，用户可以使用新的 AI 功能直接在客户端内生成建议的提交消息。相邻的下拉菜单提供了一系列预设提示，可以立即进行自定义。
+为了进一步定制 AI 体验，设置菜单中的新选项卡允许用户选择自己喜欢的 AI 提供商，例如 Claude Code 或 OpenAI Codex。此选项卡还允许用户添加或删除自定义提示预设，从而对提交消息输出提供更深入的控制。
+在人工智能集成之后，Tower 16 beta 改进了提交撰写区域。三个新图标现在提供对扩展正文视图的快速访问，保持描述字段可见，提交模板以快速插入以前保存的文本，以及用于自动换行的硬换行。
+除了这些重大更新之外，Tower 16 Beta 还提供了较小的改进。其中包括许可证窗口中的可点击 URL、旨在简化应用程序内日常使用的一般性能增强以及其他增强和错误修复。
+查看有关 AlternativeTo 的文章更多信息塔式 | 塔式替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/3/tower-16-beta-for-mac-adds-ai-commits-new-working-copy-view-and-performance-upgrades/</guid>
+      <pubDate>Tue, 31 Mar 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>第一天推出用于对话日记的每日聊天和新的黄金订阅级别</title>
+      <link>https://alternativeto.net/news/2026/3/day-one-introduces-daily-chat-for-conversational-journaling-and-new-gold-subscription-tier/</link>
+      <description><![CDATA[Day One 推出了每日聊天，这是一种新的对话式人工智能日记功能，可通过简单的来回聊天引导用户完成条目。用户不再面对空白页面，而是回答旨在鼓励更深入反思和回忆日常经历的深思熟虑的问题。每个完成的对话都会转换成日记条目，捕捉用户的语言、情绪和观点，确保他们真实的声音始终处于中心地位。
+每日聊天还包括免提语音模式，允许用户通过说话而不是打字来记录日志。对于那些希望获得更个性化体验的人来说，集成的记忆系统可以提取并记住对话中提到的人物、地点和兴趣。这些记忆为未来的聊天提供了信息，帮助该功能随着时间的推移变得更加定制。所有记忆和条目均受到端到端加密的保护，并且绝不会用于人工智能训练，从而维护了用户隐私。
+随着 Daily Chat 的发布，Day One 将其高级订阅更名为 Day One Silver，并推出了新的 Gold 级别，价格为每年 74.99 美元，而 Silver 则保持每年 49.99 美元。黄金订户可在 iPhone、iPad、Android、Windows 和网页上使用每日聊天。参与每日聊天及其人工智能功能始终是可选的，并且可以随时禁用。
+查看有关 AlternativeTo 的文章有关 Day 的更多信息一 | 第一天替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/3/day-one-introduces-daily-chat-for-conversational-journaling-and-new-gold-subscription-tier/</guid>
+      <pubDate>Tue, 31 Mar 2026 07:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Neovim 0.12 已发布，内置插件管理器、主要 LSP 和 UI 升级</title>
       <link>https://alternativeto.net/news/2026/3/neovim-0-12-has-been-released-with-a-built-in-plugin-manager-major-lsp-and-ui-upgrades/</link>
@@ -60,7 +91,7 @@
     <item>
       <title>Notion 3.4 添加了仪表板、侧边栏改造、选项卡块、页面存档和演示模式</title>
       <link>https://alternativeto.net/news/2026/3/notion-3-4-adds-dashboard-sidebar-revamp-tabs-block-page-archiving-and-presentation-mode/</link>
-      <description><![CDATA[Notion 3.4 已发布，为这一广泛使用的生产力和协作平台提供了多项升级。 新的仪表板功能现在将图表、关键绩效指标和指标集中在一个页面上，无需多个链接视图。以前对许多用户来说变得混乱的侧边栏已被重新设计为四个可自定义的选项卡，为页面、代理聊天、会议和通知提供专用导航。用户现在可以选择显示哪些部分，从而帮助简化他们的工作区。
+      <description><![CDATA[Notion 3.4 已发布，为这一广泛使用的生产力和协作平台提供了多项升级。 新的仪表板功能现在将图表、关键绩效指标和指标集中在一个页面上，无需多个链接视图。以前对许多用户来说变得混乱的侧边栏已被重新设计为四个可自定义的选项卡，为页面、代理聊天、会议和通知提供专用导航。用户现在可以选择显示哪些部分，从而帮助简化他们的工作空间。
 在这些组织变化之后，新的选项卡块允许用户在易于导航的部分中构建内容，从而最大限度地减少对嵌套子页面的依赖。演示模式也进行了更新，可以从任何页面直接演示，无需额外准备；此功能目前针对 Plus、Business 和 Enterprise 订阅者处于测试阶段。
 在这些功能的基础上，Notion 中添加了图像生成工具，将视觉效果直接放在文档和规划材料旁边。工作空间不断扩大的用户现在可以归档页面，保持其可访问性，而无需过度拥挤的搜索和导航工具。其他增强功能包括 H4 标头、Markdown 内容 API、DSK 改进以及 Notion AI 更新等。
 查看有关 AlternativeTo 的文章更多信息概念 | 概念替代品]]></description>
@@ -103,7 +134,7 @@
       <title>Linkwarden 2.14 添加了改进的团队协作、标签分页以及更快和增强的 UI</title>
       <link>https://alternativeto.net/news/2026/3/linkwarden-2-14-adds-improved-team-collaboration-tag-pagination-and-faster-and-enhanced-ui/</link>
       <description><![CDATA[书签管理器Linkwarden 2.14 引入了旨在改善组织和协作的关键更新。集合和子集合工作流程现在支持成员的权限传播，允许管理员使用继承的访问规则建立子集合，以实现更一致的管理。
-在这些协作增强之后，更新为标签带来了分页功能。使用大量标签列表的用户会发现浏览速度更快且更易于管理，尤其是在侧边栏和标签页面中。以性能为基础，在链接和集合等速度较慢的区域添加了乐观渲染，从而在编辑或删除项目时为用户提供更即时的 UI 反馈。
+在这些协作增强之后，更新为标签带来了分页功能。使用大量标签列表的用户会发现浏览速度更快且更易于管理，尤其是在侧边栏和标签页面内。以性能为基础，在链接和集合等速度较慢的区域添加了乐观渲染，从而在编辑或删除项目时为用户提供更即时的 UI 反馈。
 在技术方面，Linkwarden 现在在 Web 应用程序的 Next.js 15 和移动设备的 Expo 54 上运行，更新了其技术基础，以提高稳定性和更广泛的平台支持。这些基础升级得到了用户体验改进的补充，包括更有用的搜索和更易于导航的设置菜单。
 提交链接的服务器端验证也得到了改进。这在链接提交期间提供了更安全、更可靠的处理。除了这些重大变化之外，该版本还包括较小的界面清理、依赖项更新以及整个应用程序的常规维护改进。
 查看有关 AlternativeTo 的文章更多信息Linkwarden | Linkwarden 替代方案]]></description>
@@ -127,39 +158,6 @@
 查看有关 AlternativeTo 的文章更多信息calibre | calibre 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/3/calibre-9-6-adds-cards-based-search-word-prefix-matching-and-security-fixes/</guid>
       <pubDate>Fri, 27 Mar 2026 16:13:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tripsy 3.8 带来了与时区工具和旅行复制的高级日历集成</title>
-      <link>https://alternativeto.net/news/2026/3/tripsy-3-8-brings-advanced-calendar-integration-with-timezone-tools-and-trip-duplication/</link>
-      <description><![CDATA[Tripsy 3.8 通过引入高级日历集成来增强以 Apple 为中心的旅行计划工具。用户现在可以直接在旅行行程中显示个人和商务日历事件，并对包含哪些日历进行精细控制。这些导入的事件会自动调整为行程的当地时区，用户可以轻松查看原始时区以及转换后的时间。
-在这些日历升级的基础上，活动详细信息屏幕现在可以显示更清晰的日期和时间信息、Markdown 注释、地址、链接以及快速访问路线。如果日历事件被识别为航班，Tripsy 会显示航班信息、提供航班跟踪，并在行程已包含该航段时避免重复的航班条目。
-除了这些变化之外，每个日历活动中的专用组件现在可以帮助用户比较其位置与活动原始时区之间的时差，指示每个区域是白天还是晚上。此更新还让用户可以更好地控制复制行程，从而准确确定将哪些元素复制到新行程。
-进一步的改进包括更紧凑的行程视图、地图上的城市标记、批量为客人分配活动、更轻松的航班编辑、新的锁屏小部件等等。
-查看有关 AlternativeTo 的文章更多信息Tripsy | Tripsy 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/tripsy-3-8-brings-advanced-calendar-integration-with-timezone-tools-and-trip-duplication/</guid>
-      <pubDate>Fri, 27 Mar 2026 14:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Gemini 现在允许用户从其他人工智能应用程序导入内存、上下文和聊天历史记录</title>
-      <link>https://alternativeto.net/news/2026/3/google-gemini-now-lets-users-import-memory-context-and-chat-history-from-other-ai-apps/</link>
-      <description><![CDATA[Google 正在为 Gemini 推出新工具，允许用户从 ChatGPT 和 克劳德。这些切换功能旨在帮助用户转移到 Gemini，而不会丢失他们的偏好、关键信息或之前的对话。
-此更新引入了内存导入功能，可将偏好、关系和个人背景直接传输到 Gemini。一旦用户导入这些数据，Gemini 就会识别并利用之前与其他应用程序共享的相同关键事实，从而简化设置过程并避免从头开始。
-在引入内存导入之后，Google 详细介绍了清晰的迁移工作流程。用户可以访问 Gemini 中的设置，利用建议的提示从另一个 AI 应用程序收集他们的偏好摘要，并将该摘要复制到 Gemini 中。该平台分析并安全地保存这些详细信息，确保在未来的聊天中立即实现个性化。
-除了内存导入之外，Gemini 现在还允许用户从其他人工智能助手导入完整的聊天记录。通过上传过去对话的 ZIP 文件，用户可以在 Gemini 中搜索或继续之前的讨论线程，从而实现无缝过渡并保留有价值的上下文。
-查看有关 AlternativeTo 的文章有关 Google 的更多信息Gemini | Google Gemini 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/3/google-gemini-now-lets-users-import-memory-context-and-chat-history-from-other-ai-apps/</guid>
-      <pubDate>Fri, 27 Mar 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp 在 iOS 上增加了多帐户支持，并根据对话添加了人工智能回复</title>
-      <link>https://alternativeto.net/news/2026/3/whatsapp-adds-multi-account-support-on-ios-and-ai-powered-replies-based-on-conversations/</link>
-      <description><![CDATA[Meta 正在对 WhatsApp 推出一系列更新，旨在改进聊天管理、迁移和创意工具。用户现在可以直接在任何聊天中查找和删除大文件，从而更轻松地释放空间，而无需删除整个对话。
-此外，WhatsApp 的聊天传输功能现在可以将对话历史记录从 iOS 转移到 Android，从而扩展了现有的同平台传输功能。对于 iOS 用户，该应用引入了同时使用两个帐户登录的功能，与 Android 上的一项长期功能相匹配，并允许用户在单个设备上将工作和个人聊天分开。
-在这些核心更新之后，WhatsApp 现在会在用户输入表情符号时建议使用贴纸，从而简化了富有表现力的消息传递。新的 Meta AI 工具可以在发送之前在聊天中编辑照片，从而实现消除干扰、更改背景或应用样式等操作，尽管这些 AI 功能可能尚未向所有人开放。 Meta AI 还可以根据对话上下文起草消息响应，并采取隐私保护措施来保证聊天的机密性。
-所有这些增强功能现已推出，并将很快向所有用户提供。
-查看有关 AlternativeTo 的文章更多信息WhatsApp | WhatsApp 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/whatsapp-adds-multi-account-support-on-ios-and-ai-powered-replies-based-on-conversations/</guid>
-      <pubDate>Fri, 27 Mar 2026 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
