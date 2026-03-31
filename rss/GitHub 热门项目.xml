@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 30 Mar 2026 13:20:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 02:25:39 GMT</lastBuildDate>
     <item>
       <title>盛传人才</title>
       <link>https://www.producthunt.com/products/vibetalent</link>
@@ -20,18 +20,18 @@
       <pubDate>Mon, 30 Mar 2026 06:40:18 GMT</pubDate>
     </item>
     <item>
-      <title>Halo Vision 耳机</title>
-      <link>https://www.producthunt.com/products/halo-headphones</link>
+      <title>FreeCAD 1.1</title>
+      <link>https://www.producthunt.com/products/freecad-2</link>
       <description><![CDATA[
-            带摄像头的耳机可捕捉您即兴创作的瞬间
+            极其强大、完全免费的 3D CAD 建模
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/halo-headphones</guid>
-      <pubDate>Mon, 30 Mar 2026 01:40:16 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/freecad-2</guid>
+      <pubDate>Mon, 30 Mar 2026 04:22:48 GMT</pubDate>
     </item>
     <item>
       <title>Git 博客</title>
@@ -46,6 +46,34 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/git-blog</guid>
       <pubDate>Sun, 29 Mar 2026 18:59:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>弹出任务</title>
+      <link>https://www.producthunt.com/products/poptask-menu-bar-task-manager</link>
+      <description><![CDATA[
+            轻型菜单栏任务管理器，用于快速捕获任务
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/poptask-menu-bar-task-manager</guid>
+      <pubDate>Sun, 29 Mar 2026 16:51:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>爪王</title>
+      <link>https://www.producthunt.com/products/clawking</link>
+      <description><![CDATA[
+            8只龙虾大战的链上AI大逃杀
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/clawking</guid>
+      <pubDate>Sun, 29 Mar 2026 14:24:53 GMT</pubDate>
     </item>
     <item>
       <title>Neuralingo 语言学习</title>
@@ -104,20 +132,6 @@
       <pubDate>Sat, 28 Mar 2026 17:47:07 GMT</pubDate>
     </item>
     <item>
-      <title>穆尔莫聊天</title>
-      <link>https://www.producthunt.com/products/mulmochat</link>
-      <description><![CDATA[
-            用于视觉交互式人工智能响应的模块化界面
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/mulmochat</guid>
-      <pubDate>Sat, 28 Mar 2026 07:16:00 GMT</pubDate>
-    </item>
-    <item>
       <title>调用</title>
       <link>https://www.producthunt.com/products/invoke-studio</link>
       <description><![CDATA[
@@ -146,20 +160,6 @@
       <pubDate>Thu, 26 Mar 2026 19:11:15 GMT</pubDate>
     </item>
     <item>
-      <title>奥隆DX</title>
-      <link>https://www.producthunt.com/products/ollang-mcp-skills-sdk-api</link>
-      <description><![CDATA[
-            企业人工智能语言执行层
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/ollang-mcp-skills-sdk-api</guid>
-      <pubDate>Thu, 26 Mar 2026 17:28:44 GMT</pubDate>
-    </item>
-    <item>
       <title>努力</title>
       <link>https://www.producthunt.com/products/streva</link>
       <description><![CDATA[
@@ -174,18 +174,18 @@
       <pubDate>Thu, 26 Mar 2026 12:04:05 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能空间</title>
-      <link>https://www.producthunt.com/products/aispace</link>
+      <title>信笺</title>
+      <link>https://www.producthunt.com/products/letterbook</link>
       <description><![CDATA[
-            所有前沿人工智能模型集中于一处 
+            为创始人打造的人工智能支持平台
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/aispace</guid>
-      <pubDate>Tue, 24 Mar 2026 06:37:40 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/letterbook</guid>
+      <pubDate>Wed, 25 Mar 2026 21:55:29 GMT</pubDate>
     </item>
     <item>
       <title>概念MCP</title>

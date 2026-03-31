@@ -4,7 +4,48 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Mon, 30 Mar 2026 13:20:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 02:25:35 GMT</lastBuildDate>
+    <item>
+      <title>Neovim 0.12 已发布，内置插件管理器、主要 LSP 和 UI 升级</title>
+      <link>https://alternativeto.net/news/2026/3/neovim-0-12-has-been-released-with-a-built-in-plugin-manager-major-lsp-and-ui-upgrades/</link>
+      <description><![CDATA[Neovim 0.12 是编辑器近年来最大的更新之一，由新的内置插件管理器 vim.pack 引领，减少了对外部插件设置的需求。该版本还显着扩展了 Neovim 的原生 LSP 支持，包括内联完成、文档颜色、代码镜头刷新、工作区诊断和动态注册等功能，使内置语言工具的功能更加强大。
+现在可以通过新的 Lua 函数和 :lsp 命令更直接地管理 LSP 客户端，从而更轻松地检查状态、启用配置或检查可用设置。通过自定义排序、彩色符号预览、最近排序和插入模式自动完成功能，完成功能也得到了改进，而实验性 ui2 系统引入了重新设计的消息和命令行 UI，旨在减少中断并使分页器可用作普通缓冲区。
+诊断现在提供更好的过滤、格式化和导航，并且进度消息在命令、UI 和状态行之间更深入地集成。同时，该版本还包括可能影响高级配置和插件的重大更改，以及安全和平台更新，例如对项目配置的显式信任和 Windows 上更安全的可执行查找行为，其中 tee.exe 现在默认捆绑。有关更改和弃用功能的完整列表，请在此处查看官方更改日志。
+查看有关 AlternativeTo 的文章更多信息Neovim | Neovim 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/neovim-0-12-has-been-released-with-a-built-in-plugin-manager-major-lsp-and-ui-upgrades/</guid>
+      <pubDate>Mon, 30 Mar 2026 23:32:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub 现在默认使用 Copilot 用户数据进行 AI 训练，但您可以选择退出</title>
+      <link>https://alternativeto.net/news/2026/3/github-will-now-use-copilot-user-data-for-ai-training-by-default-but-you-can-opt-out/</link>
+      <description><![CDATA[GitHub 宣布，从 4 月 24 日开始，来自 Copilot 免费版、专业版和专业+ 用户的交互数据将用于训练和改进 Copilot 的 AI 模型，除非用户主动选择退出。此更改不会影响 Copilot Business 或 Copilot Enterprise 用户，他们仍被排除在更新的数据收集计划之外。
+对于之前选择退出 GitHub 数据收集以进行产品改进的用户，他们的首选项将保留；他们的数据将继续被排除在模型训练之外。根据 GitHub 的说法，受影响用户的交互数据包括输入或显示给 Copilot 的代码片段、接受或修改的输出、文件名、存储库结构、周围的代码上下文、注释和文档、导航模式、与 Copilot 功能的交互（例如聊天或内联建议）以及对建议提供的反馈。
+虽然此范围很广泛，但 GitHub 确认，来自用户问题、讨论或静态私有存储库内容的数据被明确排除。 GitHub 指出，基于其数据实践，收集到的信息可能会在包括微软在内的其企业家族内共享，但不会提供给第三方人工智能提供商。 GitHub 表示这些更改符合行业惯例，旨在改进 Copilot 的代码建议、安全性和错误检测。
+查看有关 AlternativeTo 的文章有关 GitHub 的更多信息Copilot | GitHub Copilot 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/3/github-will-now-use-copilot-user-data-for-ai-training-by-default-but-you-can-opt-out/</guid>
+      <pubDate>Mon, 30 Mar 2026 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌翻译的实时耳机翻译功能扩展到 iOS 及更多国家/地区</title>
+      <link>https://alternativeto.net/news/2026/3/google-translate-s-real-time-headphone-translation-feature-expands-to-ios-and-more-countries/</link>
+      <description><![CDATA[Google 翻译的耳机实时翻译功能现已正式向 iOS 用户开放。此次推出为 Apple 设备用户带来了平等，他们现在可以通过耳机访问实时语言翻译，与 Android 用户一起使用此功能。
+除了推出 iOS 之外，Google 还将 iOS 和 Android 平台上的实时翻译访问扩展到更多地区。该功能现已支持法国、德国、意大利、日本、西班牙、泰国和英国的用户，扩大了全球可访问性。
+实时翻译允许用户通过任何连接的耳机理解和交流超过 70 种语言。此功能在旅行时特别有用，因为它有助于解释建议、收听公共交通公告以及与当地发言人互动。
+要使用实时翻译，用户需要打开 Google 翻译应用，点击“实时翻译”，然后连接耳机。据谷歌称，该功能不仅保留了单词，还保留了说话者的原始语气和节奏，从而增强了寻求真实互动的用户的整体聆听体验。
+查看有关 AlternativeTo 的文章有关 Google 的更多信息翻译 | Google 翻译替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/3/google-translate-s-real-time-headphone-translation-feature-expands-to-ios-and-more-countries/</guid>
+      <pubDate>Mon, 30 Mar 2026 13:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 在 Codex 中引入了插件支持，包括应用程序集成、技能和 MCP 服务器</title>
+      <link>https://alternativeto.net/news/2026/3/openai-introduces-plugin-support-in-codex-with-app-integrations-skills-and-mcp-servers/</link>
+      <description><![CDATA[OpenAI 在 Codex 中推出了插件支持，允许用户通过可重用工作流程、应用集成和自定义技能来增强体验。此更新允许插件将技能、外部应用程序连接和 MCP 服务器捆绑到统一的工作流程中，从而扩展了 Codex 可以执行的任务范围。
+在此版本中，技能提供了可重用的指令，帮助 Codex 执行特定类型的工作，确保其遵循正确的步骤并引用相关脚本。应用集成使 Codex 能够直接与 GitHub、Slack 和 Google Drive 等服务连接，从而提供在这些平台内检索信息和发出命令的能力。插件中的 MCP 服务器通过链接到本地项目环境之外的外部工具或共享资源，进一步扩展了 Codex 的访问权限。
+用户可以通过浏览 Codex 应用程序中的精选目录或使用命令行界面来安装插件。安装后，插件可立即在提示窗口中直接使用。虽然这些工作流程在安装后即可访问，但 Codex 中的所有现有审批设置仍然适用，并且任何外部服务都维持其标准身份验证和数据隐私策略。
+查看有关 AlternativeTo 的文章有关 OpenAI 的更多信息Codex | OpenAI Codex 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/openai-introduces-plugin-support-in-codex-with-app-integrations-skills-and-mcp-servers/</guid>
+      <pubDate>Mon, 30 Mar 2026 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Fish shell 4.6 添加了 systemd 环境变量支持、更好的表情符号处理等等</title>
       <link>https://alternativeto.net/news/2026/3/fish-shell-4-6-adds-systemd-environment-variable-support-better-emoji-handling-and-more/</link>
@@ -19,7 +60,7 @@
     <item>
       <title>Notion 3.4 添加了仪表板、侧边栏改造、选项卡块、页面存档和演示模式</title>
       <link>https://alternativeto.net/news/2026/3/notion-3-4-adds-dashboard-sidebar-revamp-tabs-block-page-archiving-and-presentation-mode/</link>
-      <description><![CDATA[Notion 3.4 已发布，为这一广泛使用的生产力和协作平台提供了多项升级。 新的仪表板功能现在将图表、关键绩效指标和指标集中在一个页面上，无需多个链接视图。以前对许多用户来说变得混乱的侧边栏已被重新设计为四个可自定义的选项卡，为页面、代理聊天、会议和通知提供专用导航。用户现在可以选择显示哪些部分，从而帮助简化他们的工作空间。
+      <description><![CDATA[Notion 3.4 已发布，为这一广泛使用的生产力和协作平台提供了多项升级。 新的仪表板功能现在将图表、关键绩效指标和指标集中在一个页面上，无需多个链接视图。以前对许多用户来说变得混乱的侧边栏已被重新设计为四个可自定义的选项卡，为页面、代理聊天、会议和通知提供专用导航。用户现在可以选择显示哪些部分，从而帮助简化他们的工作区。
 在这些组织变化之后，新的选项卡块允许用户在易于导航的部分中构建内容，从而最大限度地减少对嵌套子页面的依赖。演示模式也进行了更新，可以从任何页面直接演示，无需额外准备；此功能目前针对 Plus、Business 和 Enterprise 订阅者处于测试阶段。
 在这些功能的基础上，Notion 中添加了图像生成工具，将视觉效果直接放在文档和规划材料旁边。工作空间不断扩大的用户现在可以归档页面，保持其可访问性，而无需过度拥挤的搜索和导航工具。其他增强功能包括 H4 标头、Markdown 内容 API、DSK 改进以及 Notion AI 更新等。
 查看有关 AlternativeTo 的文章更多信息概念 | 概念替代品]]></description>
@@ -31,7 +72,7 @@
       <link>https://alternativeto.net/news/2026/3/google-launches-gemini-3-1-flash-live-with-its-most-human-like-sounding-ai-voice-model-yet/</link>
       <description><![CDATA[Google 发布了 Gemini 3.1 Flash Live，这是其迄今为止最先进的语音和音频 AI 模型，专为听起来更自然的对话而设计。该模型正在为 Gemini Live 和 Search Live 的重大升级提供支持，包括音频和视频功能、Google Lens 集成、支持 90 多种语言的实时多模式对话，并在 200 多个国家/地区推出。
 开发人员可以根据用例配置模型的思维水平，以平衡速度和质量。在“高”设置下，Gemini 3.1 Flash Live 在 Big Bench Audio Benchmark 上的得分为 95.9%，仅次于 Step Audio R1.1 Realtime，响应时间为 2.98 秒。在“最小”设置下，质量下降至 70.5%，但响应时间缩短至 0.96 秒。
-谷歌还表示，该模型能够更好地检测语音中的音高和情感线索，在嘈杂的环境中表现更可靠，并且改进了对触发外部工具和在实时对话期间传递信息的支持，从而使其更难与真人区分开来。 Gemini 3.1 Flash Live 可在 Google AI Studio、Gemini API 和 Gemini Enterprise for Customer Experience 中使用，音频输入价格不变，为每小时 0.35 美元，音频输出为每小时 1.40 美元。
+谷歌还表示，该模型能够更好地检测语音中的音调和情感线索，在嘈杂的环境中表现更可靠，并且改进了对触发外部工具和在实时对话期间传递信息的支持，从而使其更难与真人区分开来。 Gemini 3.1 Flash Live 可在 Google AI Studio、Gemini API 和 Gemini Enterprise for Customer Experience 中使用，音频输入价格不变，为每小时 0.35 美元，音频输出为每小时 1.40 美元。
 查看有关 AlternativeTo 的文章有关 Google 的更多信息Gemini | Google Gemini 替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/3/google-launches-gemini-3-1-flash-live-with-its-most-human-like-sounding-ai-voice-model-yet/</guid>
       <pubDate>Sat, 28 Mar 2026 18:17:51 GMT</pubDate>
@@ -119,45 +160,6 @@
 查看有关 AlternativeTo 的文章更多信息WhatsApp | WhatsApp 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/3/whatsapp-adds-multi-account-support-on-ios-and-ai-powered-replies-based-on-conversations/</guid>
       <pubDate>Fri, 27 Mar 2026 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>继上一次价格上涨一年多后，Netflix 再次宣布所有级别的价格上涨</title>
-      <link>https://alternativeto.net/news/2026/3/netflix-announces-yet-another-price-hike-for-all-tiers-over-a-year-after-the-last-one/</link>
-      <description><![CDATA[Netflix 正在在其所有主要订阅层再次提价，距 最后一次提价是在 2025 年 1 月，影响了支持广告和无广告的计划。带广告的标准计划现在的每月费用为 8.99 美元，从 7.99 美元上涨，标准计划从 17.99 美元上涨到 19.99 美元，高级计划从 24.99 美元上涨到 26.99 美元。订阅者再次被要求支付更多费用，但实际的流媒体服务不会发生任何变化。
-增加的金额还适用于主家庭以外的额外成员。现在，添加一名额外观看者的费用为每月 7.99 美元（含广告计划）和 9.99 美元（不含广告计划），均上涨 1 美元。 Netflix 不会更改视频质量、设备限制或任何其他计划功能，因此整体体验保持完全相同。
-Netflix 没有对这一最新的增长做出新的解释。该公司此前曾表示，涨价是为了给客户带来更多价值，但并未在此重复这一理由。目前还不清楚现有订户何时会开始在账单上看到更高的价格。
-查看有关 AlternativeTo 的文章更多信息Netflix | Netflix 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/netflix-announces-yet-another-price-hike-for-all-tiers-over-a-year-after-the-last-one/</guid>
-      <pubDate>Fri, 27 Mar 2026 07:59:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reddit 将开始要求“可疑帐户”来验证它们是由人运行的</title>
-      <link>https://alternativeto.net/news/2026/3/reddit-will-start-requiring-fishy-accounts-to-verify-they-are-run-by-a-human/</link>
-      <description><![CDATA[Reddit 将为一组选定的用户引入人工验证，这些用户的帐户显示出自动化活动或可疑的机器人行为。 首席执行官 Steve Huffman 表示 大多数用户不会受到影响。作为推出的一部分，Reddit 还将引入正式的机器人标签系统，批准的自动帐户将收到 [APP] 标签，以便用户可以清楚地看到帐户何时运行机器人。
-如果一个帐户看起来是自动化的，但没有带有该标签，Reddit 可能会要求它验证其背后是否有真人。该公司表示，它希望在不将帐户与现实世界身份绑定的情况下确认人性，以努力保持 Reddit 的匿名性。正在考虑的验证方法包括密钥检查、指纹扫描、PIN 输入和 World ID 等第三方生物识别工具。霍夫曼表示，传统的身份验证是最不私密、最不受欢迎的选择，尽管 Reddit 可能仍需要在英国和澳大利亚等地支持它。
-该平台还使报告可疑机器人变得更加容易，同时在未公开的自动化和依赖人工智能工具编写的人类用户之间划清界限。目前，重点是识别帐户是否由个人操作，而不是删除所有人工智能辅助内容。
-查看有关 AlternativeTo 的文章更多信息Reddit | Reddit 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/reddit-will-start-requiring-fishy-accounts-to-verify-they-are-run-by-a-human/</guid>
-      <pubDate>Fri, 27 Mar 2026 00:24:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ghost 添加了与 Transistor.fm 的直接会员专享播客集成</title>
-      <link>https://alternativeto.net/news/2026/3/ghost-adds-direct-members-only-podcast-integration-with-transistor-fm/</link>
-      <description><![CDATA[Ghost 已启动与 Transistor.fm 的正式集成，使发布商能够提供具有全自动会员同步功能的会员专享播客。通过集成，发布者可以定义每个播客的访问权限，无论是所有成员、付费订阅者还是特定级别。
-会员现在可以收到独特的私人提要，并可以通过 Ghost 门户和编辑卡嵌入中的内置工具进行订阅。
-查看有关 AlternativeTo 的文章有关 Ghost 的更多信息 | 幽灵替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/ghost-adds-direct-members-only-podcast-integration-with-transistor-fm/</guid>
-      <pubDate>Thu, 26 Mar 2026 17:02:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cryptee 推出端到端加密照片和视频共享</title>
-      <link>https://alternativeto.net/news/2026/3/cryptee-introduces-end-to-end-encrypted-photo-and-video-sharing/</link>
-      <description><![CDATA[Cryptee 推出了端到端加密照片和视频共享，让付费用户可以通过链接共享相册，同时保持 Cryptee 和第三方无法访问内容。该功能是在欧洲各地的倡导团体和专家的意见下经过数年开发的，该公司致力于解决有关大规模滥用的法律问题和问题。
-为了减少滥用，加密共享仅限付费用户，并且相册最多只能与五个收件人共享。 邀请链接会在 48 小时后过期，每个收件人都必须使用一次性令牌验证其电子邮件才能获得访问权限。验证后，收件人可以浏览共享相册、下载单个文件、选择多个项目或一次下载所有内容。 发件人还可以随时撤销访问权限，查看哪些收件人接受了邀请，并可以选择单独共享加密密钥以进行额外控制。
-Cryptee Docs 现在还支持 Markdown 粘贴，自动将粘贴的 Markdown 转换为样式文本，同时对其进行清理以确保安全。此更新还通过折叠和展开控件以及一键复制改进了代码块处理。此外，Cryptee 表示，该版本还包括许多较小的改进、对 Apple Liquid Glass 设计的更好支持，以及涵盖内容共享责任和相关数据处理的更新条款和隐私政策。
-查看 AlternativeTo 上的文章有关 Cryptee 的更多信息 | Cryptee 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/cryptee-introduces-end-to-end-encrypted-photo-and-video-sharing/</guid>
-      <pubDate>Thu, 26 Mar 2026 16:58:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
