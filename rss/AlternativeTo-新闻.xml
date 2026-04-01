@@ -4,7 +4,48 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Tue, 31 Mar 2026 13:19:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 02:36:50 GMT</lastBuildDate>
+    <item>
+      <title>Proton 推出商务套件产品与 Microsoft 365 和 Google Workspace 竞争</title>
+      <link>https://alternativeto.net/news/2026/3/proton-launches-business-suite-offering-to-compete-with-microsoft-365-and-google-workspace/</link>
+      <description><![CDATA[Proton 推出了 Proton Workspace，将其所有注重隐私的工具整合到一个平台中，供企业寻求数据控制权。此版本集成了 Proton 的套件，包括邮件、日历、VPN、驱动器、通行证、钱包和身份验证器，以及 Proton Meet、文档、工作表，以及 Lumo AI 助手。
+Proton Workspace 提供两种业务计划：Workspace Standard 提供加密邮件、带预约安排的增强型日历、Drive、Docs 和 Sheets、Meet、VPN 和 Pass，起价为每位用户每月 12.99 美元（按年计算）。 Workspace Premium 扩展了存储空间、添加了电子邮件保留策略、支持更多 Meet 通话参与者，并包含 Lumo AI，按年计费时每用户每月 19.99 美元。
+此后，Proton Business Suite 的现有客户将免费升级到 Workspace Standard。此次升级允许访问 Proton Meet 等其他功能，支持平稳过渡。 Proton 通过始终在线的端到端加密和零访问策略将自己与 Microsoft 365 和 Google Workspace 区分开来，因此即使 Proton 也无法读取用户数据。
+查看有关 AlternativeTo 的文章有关 Proton 的更多信息Meet | Proton Meet 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/3/proton-launches-business-suite-offering-to-compete-with-microsoft-365-and-google-workspace/</guid>
+      <pubDate>Tue, 31 Mar 2026 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Servo 0.0.6 加速布局、增强 DevTools 并启动可访问性工作</title>
+      <link>https://alternativeto.net/news/2026/3/servo-0-0-6-speeds-up-layout-enhances-devtools-and-starts-accessibility-work/</link>
+      <description><![CDATA[Servo 0.0.6 通过盒树和片段树的增量渲染实现了主要的布局加速，从而提高了性能和内存效率。开发人员工具获得了新的调试功能，包括脚本暂停和单步执行、检查器修订以及增强的控制台预览。
+初步的可访问性支持正在开发中，使 Webview 能够提供可访问性树以供嵌入器集成。
+该版本还更新了嵌入 API，完善了 Web 平台功能，添加了新的 HTML 和 CSS 支持，并修复了许多错误。
+查看有关 AlternativeTo 的文章更多信息伺服 | 伺服替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/3/servo-0-0-6-speeds-up-layout-enhances-devtools-and-starts-accessibility-work/</guid>
+      <pubDate>Tue, 31 Mar 2026 14:55:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Floorp 引入了 Zen 模式和带有 4 个窗格的增强型分割视图</title>
+      <link>https://alternativeto.net/news/2026/3/floorp-introduces-zen-mode-and-enhanced-split-view-with-4-panes/</link>
+      <description><![CDATA[Floorp v12.12.0 引入了新的 Zen 模式，允许用户以最小化的界面进行浏览，并且没有通知，从而获得无干扰的体验。
+Floorp Flasco 中的分割视图功能现在支持最多 4 个窗格，提供垂直、水平和网格布局选项，并且在重新启动后保留分割状态。
+该版本还更新至 Firefox 149，并包含一些小错误修复。
+查看有关 AlternativeTo 的文章更多有关地板 | 地板替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/floorp-introduces-zen-mode-and-enhanced-split-view-with-4-panes/</guid>
+      <pubDate>Tue, 31 Mar 2026 14:47:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Opera Neon 推出内置 MCP 服务器，让外部 AI 代理控制您的 Web 浏览器</title>
+      <link>https://alternativeto.net/news/2026/3/opera-neon-launches-built-in-mcp-server-to-let-external-ai-agents-control-your-web-browser/</link>
+      <description><![CDATA[Opera Neon 引入了对模型上下文协议 (MCP) 的支持，使其能够充当外部 AI 客户端的 MCP 服务器。借助此功能，“讲”MCP 的外部 AI 系统（例如 Claude Code 和 OpenAI Codex）可以连接到活动的 Opera Neon 浏览器会话。这些人工智能可以直接访问实时网络上下文，并可以在浏览器环境中执行任务。
+通过利用 MCP 连接器，AI 工具可以访问打开的网页、与浏览器元素交互、截取屏幕截图并分析网站内容。这意味着用户不再需要手动将信息传输到他们选择的人工智能；相反，人工智能在通常的浏览环境中直接与经过身份验证的实时会话交互。
+继这一创新之后，Opera Neon 成为首款内置 MCP 服务器的主流 AI 浏览器。该系统不仅让人工智能读取浏览器数据，还支持命令的执行，使 Opera Neon 成为软件堆栈中活跃的可编程层。
+对于开发人员来说，这可以实现自动化工作流程，AI 客户端可以浏览文档、收集详细上下文，然后使用该上下文通过 Opera Neon 来规划、构建甚至测试 Web 应用程序。
+查看有关 AlternativeTo 的文章有关 Opera 的更多信息霓虹灯 | Opera 霓虹灯替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/3/opera-neon-launches-built-in-mcp-server-to-let-external-ai-agents-control-your-web-browser/</guid>
+      <pubDate>Tue, 31 Mar 2026 13:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>阿里巴巴推出Qwen3.5-Omni系列，全模态、多语言、字幕升级</title>
       <link>https://alternativeto.net/news/2026/3/alibaba-launches-qwen3-5-omni-series-with-omnimodal-multilingual-and-captioning-upgrades/</link>
@@ -29,7 +70,7 @@
     <item>
       <title>第一天推出用于对话日记的每日聊天和新的黄金订阅级别</title>
       <link>https://alternativeto.net/news/2026/3/day-one-introduces-daily-chat-for-conversational-journaling-and-new-gold-subscription-tier/</link>
-      <description><![CDATA[Day One 推出了每日聊天，这是一种新的对话式人工智能日记功能，可通过简单的来回聊天引导用户完成条目。用户不再面对空白页面，而是回答旨在鼓励更深入反思和回忆日常经历的深思熟虑的问题。每个完成的对话都会转换成日记条目，捕捉用户的语言、情绪和观点，确保他们真实的声音始终处于中心地位。
+      <description><![CDATA[Day One 推出了每日聊天，这是一种新的对话式人工智能日记功能，可通过简单的来回聊天引导用户完成条目。用户不再面对空白页面，而是回答旨在鼓励更深入反思和回忆日常经历的深思熟虑的问题。每个完成的对话都会转换成日记条目，捕捉用户的语言、情绪和观点，确保他们真实的声音始终处于中心位置。
 每日聊天还包括免提语音模式，允许用户通过说话而不是打字来记录日志。对于那些希望获得更个性化体验的人来说，集成的记忆系统可以提取并记住对话中提到的人物、地点和兴趣。这些记忆为未来的聊天提供了信息，帮助该功能随着时间的推移变得更加定制。所有记忆和条目均受到端到端加密的保护，并且绝不会用于人工智能训练，从而维护了用户隐私。
 随着 Daily Chat 的发布，Day One 将其高级订阅更名为 Day One Silver，并推出了新的 Gold 级别，价格为每年 74.99 美元，而 Silver 则保持每年 49.99 美元。黄金订户可在 iPhone、iPad、Android、Windows 和网页上使用每日聊天。参与每日聊天及其人工智能功能始终是可选的，并且可以随时禁用。
 查看有关 AlternativeTo 的文章有关 Day 的更多信息一 | 第一天替代方案]]></description>
@@ -104,7 +145,7 @@
       <description><![CDATA[Google 发布了 Gemini 3.1 Flash Live，这是其迄今为止最先进的语音和音频 AI 模型，专为听起来更自然的对话而设计。该模型正在为 Gemini Live 和 Search Live 的重大升级提供支持，包括音频和视频功能、Google Lens 集成、支持 90 多种语言的实时多模式对话，并在 200 多个国家/地区推出。
 开发人员可以根据用例配置模型的思维水平，以平衡速度和质量。在“高”设置下，Gemini 3.1 Flash Live 在 Big Bench Audio Benchmark 上的得分为 95.9%，仅次于 Step Audio R1.1 Realtime，响应时间为 2.98 秒。在“最小”设置下，质量下降至 70.5%，但响应时间缩短至 0.96 秒。
 谷歌还表示，该模型能够更好地检测语音中的音调和情感线索，在嘈杂的环境中表现更可靠，并且改进了对触发外部工具和在实时对话期间传递信息的支持，从而使其更难与真人区分开来。 Gemini 3.1 Flash Live 可在 Google AI Studio、Gemini API 和 Gemini Enterprise for Customer Experience 中使用，音频输入价格不变，为每小时 0.35 美元，音频输出为每小时 1.40 美元。
-查看有关 AlternativeTo 的文章有关 Google 的更多信息Gemini | Google Gemini 替代方案]]></description>
+查看有关 AlternativeTo 的文章有关 Google 的更多信息Gemini | Google Gemini 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/3/google-launches-gemini-3-1-flash-live-with-its-most-human-like-sounding-ai-voice-model-yet/</guid>
       <pubDate>Sat, 28 Mar 2026 18:17:51 GMT</pubDate>
     </item>
@@ -118,46 +159,6 @@
 查看有关 AlternativeTo 的文章更多信息Voxtral | Voxtral 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/3/mistral-ai-unveils-voxtral-tts-for-nuanced-and-low-latency-speech-generation-in-9-languages/</guid>
       <pubDate>Sat, 28 Mar 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Search Live 向全球扩展，在 200 多个国家/地区提供实时答案</title>
-      <link>https://alternativeto.net/news/2026/3/google-search-live-expands-globally-with-real-time-answers-in-over-200-countries/</link>
-      <description><![CDATA[Google 宣布在全球范围内扩展 Search Live，使该功能在所有语言和启用 AI 模式的地区中可用。 200 多个国家和地区的用户现在可以通过搜索进行互动对话，同时使用语音和摄像头进行查询。
-此次全球部署利用了新的 Gemini 3.1 Flash Live 音频和语音模型。此次升级可实现更自然、直观的交互，其固有的多语言设计允许人们用自己喜欢的语言与搜索进行对话。
-个人可以通过打开 Android 或 iOS 上的 Google 应用，然后点击搜索栏下方的 Live 图标来启动 Search Live。用户无需打字即可大声提问、接收音频回复、跟进其他问题以及浏览相关网页链接。
-在使用 Search Live 时，激活设备摄像头的选项会为查询添加视觉上下文。搜索可以分析相机看到的内容，提供量身定制的建议并提供进一步在线阅读的链接。对于使用 Google Lens 的用户，只需点击“实时”选项即可引入实时、来回对话功能，从而允许根据物理环境进行直接交互。在需要立即帮助且不方便打字的情况下，Search Live 特别有用。
-查看有关 AlternativeTo 的文章有关 Google 的更多信息搜索 | Google 搜索替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/3/google-search-live-expands-globally-with-real-time-answers-in-over-200-countries/</guid>
-      <pubDate>Fri, 27 Mar 2026 20:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linkwarden 2.14 添加了改进的团队协作、标签分页以及更快和增强的 UI</title>
-      <link>https://alternativeto.net/news/2026/3/linkwarden-2-14-adds-improved-team-collaboration-tag-pagination-and-faster-and-enhanced-ui/</link>
-      <description><![CDATA[书签管理器Linkwarden 2.14 引入了旨在改善组织和协作的关键更新。集合和子集合工作流程现在支持成员的权限传播，允许管理员使用继承的访问规则建立子集合，以实现更一致的管理。
-在这些协作增强之后，更新为标签带来了分页功能。使用大量标签列表的用户会发现浏览速度更快且更易于管理，尤其是在侧边栏和标签页面内。以性能为基础，在链接和集合等速度较慢的区域添加了乐观渲染，从而在编辑或删除项目时为用户提供更即时的 UI 反馈。
-在技术方面，Linkwarden 现在在 Web 应用程序的 Next.js 15 和移动设备的 Expo 54 上运行，更新了其技术基础，以提高稳定性和更广泛的平台支持。这些基础升级得到了用户体验改进的补充，包括更有用的搜索和更易于导航的设置菜单。
-提交链接的服务器端验证也得到了改进。这在链接提交期间提供了更安全、更可靠的处理。除了这些重大变化之外，该版本还包括较小的界面清理、依赖项更新以及整个应用程序的常规维护改进。
-查看有关 AlternativeTo 的文章更多信息Linkwarden | Linkwarden 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/3/linkwarden-2-14-adds-improved-team-collaboration-tag-pagination-and-faster-and-enhanced-ui/</guid>
-      <pubDate>Fri, 27 Mar 2026 17:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Matrix 1.18 添加策略服务器、邀请阻止和安全 API 更新</title>
-      <link>https://alternativeto.net/news/2026/3/matrix-1-18-adds-policy-servers-invite-blocking-and-safety-api-updates/</link>
-      <description><![CDATA[Matrix 1.18 已发布，引入了跨房间主动调节的策略服务器。此更新添加了邀请阻止开关，使用户可以更好地控制不需要的邀请。
-现已提供用于帐户暂停和锁定的标准 API，以及用于提高一致性的统一报告端点。
-查看有关 AlternativeTo 的文章更多信息矩阵 | 矩阵替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/3/matrix-1-18-adds-policy-servers-invite-blocking-and-safety-api-updates/</guid>
-      <pubDate>Fri, 27 Mar 2026 16:18:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Calibre 9.6 增加了基于卡片的搜索​​、单词前缀匹配和安全修复</title>
-      <link>https://alternativeto.net/news/2026/3/calibre-9-6-adds-cards-based-search-word-prefix-matching-and-security-fixes/</link>
-      <description><![CDATA[Calibre 9.6 引入了基于卡片的全文搜索视图，显示书籍封面，并添加了单词前缀补全模式以实现更灵活的搜索。此版本还修复了两个安全问题，即禁止在电子书查看器中使用互联网背景图像以及限制 TXT 输入中的资源文件。用户可以通过每组新的恒定高度选项进一步定制书架。
-包括其他错误修复以及新的或改进的新闻来源。
-查看有关 AlternativeTo 的文章更多信息calibre | calibre 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/calibre-9-6-adds-cards-based-search-word-prefix-matching-and-security-fixes/</guid>
-      <pubDate>Fri, 27 Mar 2026 16:13:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
