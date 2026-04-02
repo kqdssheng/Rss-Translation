@@ -4,7 +4,49 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Thu, 02 Apr 2026 02:22:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 13:14:13 GMT</lastBuildDate>
+    <item>
+      <title>Canonical 将 Ubuntu 26.04 LTS 桌面最低 RAM 要求从 4 GB 提高到 6 GB</title>
+      <link>https://alternativeto.net/news/2026/4/canonical-raises-ubuntu-26-04-lts-desktop-minimum-ram-requirement-from-4-gb-to-6-gb/</link>
+      <description><![CDATA[Ubuntu 26.04 LTS（代号为“Resolute Raccoon”）引入了更高的系统内存基准：Canonical 现在将 6 GB RAM 作为其旗舰 Linux 发行版的最低要求。这是多年来 RAM 基准的首次重大转变，早期版本（例如 Ubuntu 24.04 LTS 和 25.10）仅需要 4 GB。除了这一变化之外，官方硬件规格现在还要求安装 Ubuntu Desktop 26.04 LTS 需要 2 GHz 双核处理器和 25 GB 可用磁盘空间。
+尽管有所增加，但在 RAM 小于 6 GB 的电脑上仍然可以安装。但是，如果用户的硬件未达到这些建议，则用户应该预期响应能力会降低并且优化体验较差。虽然桌面要求更加苛刻，但 Ubuntu Server 仍然更加灵活；其文档至少为 ISO 安装保留 1.5 GB，并建议为实际工作负载保留 3 GB。
+对于关心硬件兼容性或运行旧电脑的用户，可以选择几个轻量级 Linux 发行版，例如 Lubuntu、Xubuntu、Ubuntu Mate、Linux Mint、Linux Lite、Bodhi Linux 和 Puppy Linux，继续提供比主要 Ubuntu 版本更低的系统要求。
+查看有关 AlternativeTo 的文章更多信息Ubuntu | Ubuntu 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/canonical-raises-ubuntu-26-04-lts-desktop-minimum-ram-requirement-from-4-gb-to-6-gb/</guid>
+      <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jami“Euclid”带来了改进的 UI、改进的可访问性、更好的 RTL 支持等等</title>
+      <link>https://alternativeto.net/news/2026/4/jami-euclid-brings-revamped-ui-improved-accessibility-better-rtl-support-and-more/</link>
+      <description><![CDATA[Jami 最新的“Euclid”更新已发布，引入了带有圆角的全新用户界面、重新设计的 Jami ID 徽标以及更简单的帐户管理。在此基础上，对话视图具有统一的消息和联系栏、与对话主题相匹配的背景颜色以及切换聊天时平滑的颜色过渡。
+重新设计后，群组对话管理（称为群）受益于使用网格布局和视觉标记的新详细信息窗格：管理员的金色王冠、等待受邀者的信封图标以及已从群组中删除的用户的阻止图标。
+对于 SIP（会话启动协议）用户，添加了一个新的键盘，以便更轻松地输入联系人信息，现在可以在搜索栏旁边访问电话面板。虽然这些功能针对特定的用户组，但它们直接提高了 SIP 的可用性。
+扩展了语言支持，此更新增强了从右到左 (RTL) 语言用户的应用体验，包括阿拉伯语、波斯语和希伯来语。辅助功能也得到了改进，因为 UI 组件现在具有改进的屏幕阅读器角色和描述，并且导航错误已得到解决。
+在幕后，Jami 现在依靠 Qt 6.10 和更新的 C++ 20 依赖项来确保更好的性能，而 macOS 用户则获得原生 Tahoe 集成以实现更流畅的设计均匀性。
+查看有关 AlternativeTo 的文章更多信息Jami | Jami 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/jami-euclid-brings-revamped-ui-improved-accessibility-better-rtl-support-and-more/</guid>
+      <pubDate>Thu, 02 Apr 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌开始在全球范围内推出 Android 开发者验证和新的侧载规则</title>
+      <link>https://alternativeto.net/news/2026/4/google-starts-rolling-out-android-developer-verification-and-new-sideloading-rules-worldwide/</link>
+      <description><![CDATA[Google 正在新的 Android 开发者控制台和 Play 控制台中推出 Android 开发者验证要求。此更改允许开发人员在今年晚些时候开始面向用户的更改之前完成验证并注册他们的应用程序。虽然现在正在引入这些验证工具，但在激活保护之前，用户下载应用程序的体验将保持不变。
+巴西、印度尼西亚、新加坡和泰国将于 9 月推出用户端应用安装保护，并计划于 2027 年进行全球扩展。最初，大多数用户体验不会受到影响，除非尝试安装来自未注册开发者的应用。在这些情况下，用户将需要使用 Android 调试桥 (ADB) 或高级程序，为有经验的用户保持灵活性。 此例外是在之前用户强烈反对后添加的，并且Google 为侧载未经验证的应用引入了 24 小时等待期。
+为了支持过渡，应用开发者现在可以在 Android Studio 中生成签名的 App Bundle 或 APK 时查看其应用注册状态。已完成 Play 管理中心验证步骤的开发者将自动注册符合条件的应用。此外，每个应用的注册状态将在 Play 管理中心的验证仪表板中可见。
+查看有关 AlternativeTo 的文章有关 Android 的更多信息 | Android 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/4/google-starts-rolling-out-android-developer-verification-and-new-sideloading-rules-worldwide/</guid>
+      <pubDate>Thu, 02 Apr 2026 07:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ExpressVPN 推出 ExpressAI，这是一个针对大型语言模型的注重隐私的 AI 中心</title>
+      <link>https://alternativeto.net/news/2026/4/expressvpn-launches-expressai-a-privacy-focused-ai-hub-for-large-language-models/</link>
+      <description><![CDATA[ExpressVPN 推出了 ExpressAI，这是一个注重隐私的 AI 中心，让用户可以访问多种大型语言模型。该产品使用户能够访问多种大型语言模型，同时使用机密计算环境或安全飞地，以加密方式将对话和加密密钥与周围基础设施隔离。该公司表示，这种设计可以防止 ExpressVPN、云运营商和模型提供商访问用户聊天或数据。
+ExpressAI 基于三个隐私标准：零训练，意味着对话不用于训练模型；零访问，意味着聊天和存储的数据只能由用户访问；零妥协，指在单个界面中访问五个人工智能模型。用户可以启用幽灵模式来消失聊天，通过零访问加密保护对话历史记录，并以相同的方法存储上传的文件和图像。
+经过网络安全公司 Cure53 的独立审计后，ExpressVPN 表示所有已识别的前端和后端漏洞在发布前均已修复。 ExpressAI 于 2026 年 3 月 31 日向新老 ExpressVPN Pro 用户开放，作为捆绑包的一部分，价格为每月 4.87 美元。该平台包括 500 个每日积分、每个文件 50 MB 的上传限制、2 GB 的安全存储空间以及用于推理、编码和技术分析等任务的五个模型。
+查看有关 AlternativeTo 的文章更多信息ExpressAI | ExpressAI 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/4/expressvpn-launches-expressai-a-privacy-focused-ai-hub-for-large-language-models/</guid>
+      <pubDate>Thu, 02 Apr 2026 04:36:46 GMT</pubDate>
+    </item>
     <item>
       <title>Slack 对 Slackbot 进行了重大更新，引入了 30 多项新的人工智能功能</title>
       <link>https://alternativeto.net/news/2026/4/slack-delivers-major-update-to-slackbot-introducing-over-30-new-ai-powered-capabilities/</link>
@@ -71,8 +113,8 @@
       <link>https://alternativeto.net/news/2026/4/procreate-is-officially-coming-to-mac-with-its-next-major-procreate-6-update-next-year/</link>
       <description><![CDATA[Procreate宣布同步开发Procreate 6和Procreate Mac，标志着其长期要求的进军桌面市场。该公司表示，2024 年对桌面版本的需求显着增长，促使其为 Mac 用户开发一款价格实惠、高性能的绘画应用程序。
 Procreate 6 和 Procreate Mac 均基于该公司的下一代 Phoenix 技术构建，该技术也为 Procreate Dreams 提供支持，并且它们共享相同的代码库。 Procreate 6 将添加一些所需的功能，包括更多图层、调整图层、组混合模式、iCloud 文件同步、文件中保存的撤消历史记录以及可以扩展到画布之外的图层。
-由于这两个项目是一起开发的，Procreate 现在预计它们将于 2027 年推出。该公司表示，大部分工作仍然集中在底层技术上，目标是保持熟悉的体验，避免当前用户受到干扰或出现新的学习曲线。 Procreate 此前曾避免使用桌面设备，因为担心触摸显示屏仍达不到 iPad 和 Apple Pencil 的体验，那么现在发生了什么变化呢？触摸屏 MacBook 会比预期更接近吗？ 👀
-查看有关 AlternativeTo 的文章更多信息Procreate | Procreate 替代方案]]></description>
+由于两个项目是一起开发的，Procreate 现在预计它们将于 2027 年推出。该公司表示，大部分工作仍然集中在底层技术上，目标是保持熟悉的体验，避免当前用户受到干扰或出现新的学习曲线。 Procreate 此前曾避免使用桌面设备，因为担心触摸显示屏仍达不到 iPad 和 Apple Pencil 的体验，那么现在发生了什么变化呢？触摸屏 MacBook 会比预期更接近吗？ 👀
+查看有关 AlternativeTo 的文章更多信息Procreate | Procreate 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/4/procreate-is-officially-coming-to-mac-with-its-next-major-procreate-6-update-next-year/</guid>
       <pubDate>Wed, 01 Apr 2026 06:36:18 GMT</pubDate>
     </item>
@@ -115,48 +157,6 @@ Floorp Flasco 中的分割视图功能现在支持最多 4 个窗格，提供垂
 查看有关 AlternativeTo 的文章更多有关地板 | 地板替代品]]></description>
       <guid>https://alternativeto.net/news/2026/3/floorp-introduces-zen-mode-and-enhanced-split-view-with-4-panes/</guid>
       <pubDate>Tue, 31 Mar 2026 14:47:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Opera Neon 推出内置 MCP 服务器，让外部 AI 代理控制您的 Web 浏览器</title>
-      <link>https://alternativeto.net/news/2026/3/opera-neon-launches-built-in-mcp-server-to-let-external-ai-agents-control-your-web-browser/</link>
-      <description><![CDATA[Opera Neon 引入了对模型上下文协议 (MCP) 的支持，使其能够充当外部 AI 客户端的 MCP 服务器。借助此功能，“讲”MCP 的外部 AI 系统（例如 Claude Code 和 OpenAI Codex）可以连接到活动的 Opera Neon 浏览器会话。这些人工智能可以直接访问实时网络上下文，并可以在浏览器环境中执行任务。
-通过利用 MCP 连接器，AI 工具可以访问打开的网页、与浏览器元素交互、截取屏幕截图并分析网站内容。这意味着用户不再需要手动将信息传输到他们选择的人工智能；相反，人工智能在通常的浏览环境中直接与经过身份验证的实时会话交互。
-继这一创新之后，Opera Neon 成为首款内置 MCP 服务器的主流 AI 浏览器。该系统不仅让人工智能读取浏览器数据，还支持命令的执行，使 Opera Neon 成为软件堆栈中活跃的可编程层。
-对于开发人员来说，这可以实现自动化工作流程，AI 客户端可以浏览文档、收集详细上下文，然后使用该上下文通过 Opera Neon 来规划、构建甚至测试 Web 应用程序。
-查看有关 AlternativeTo 的文章有关 Opera 的更多信息霓虹灯 | Opera 霓虹灯替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/opera-neon-launches-built-in-mcp-server-to-let-external-ai-agents-control-your-web-browser/</guid>
-      <pubDate>Tue, 31 Mar 2026 13:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿里巴巴推出Qwen3.5-Omni系列，全模态、多语言、字幕升级</title>
-      <link>https://alternativeto.net/news/2026/3/alibaba-launches-qwen3-5-omni-series-with-omnimodal-multilingual-and-captioning-upgrades/</link>
-      <description><![CDATA[阿里云推出Qwen3.5-Omni作为其大型语言模型阵容中的最新产品，通过Qwen3.5-Omni-Plus和Qwen3.5-Omni-Plus-Realtime模型扩展了该系列。 Qwen3.5-Omni定位为公司领先的全模态大语言模型，为文本、图像、音频和视听内容理解提供集成支持。该架构的 Thinker 和 Talker 组件均采用 Hybrid-Attention Mixture-of-Experts。该阵容包括具有不同功能的指导模型：Plus、Flash 和 Light。
-在此基础上，Qwen3.5-Omni 模型可实现 256,000 个令牌长上下文输入，处理超过 10 小时的音频，并以每秒一帧的速度管理超过 400 秒的 720p 视频。这些模型在广泛的多模式数据集上进行了预训练，其中包括超过 1 亿小时的视听材料，支持其跨格式的内容生成和感知。
-在语言支持方面，Qwen3.5-Omni 实现了重大改进，包括 113 种语言和方言的语音识别以及 36 种语言和方言的语音生成。在这些多语言升级扩大其覆盖范围的同时，Qwen3.5-Omni-Plus 的性能也优于Gemini-3.1 Pro 在音频任务中的表现并与其在视听理解方面的表现相匹配。该系列具有高级字幕，能够进行剧本级描述、场景分割、时间戳以及音频内容中角色关系的详细映射。新模型可通过离线和实时 API 获取。
-查看有关 AlternativeTo 的文章更多关于Qwen | Qwen 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/alibaba-launches-qwen3-5-omni-series-with-omnimodal-multilingual-and-captioning-upgrades/</guid>
-      <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mac 版 Tower 16 Beta 增加了 AI 提交、新的工作副本视图和性能升级</title>
-      <link>https://alternativeto.net/news/2026/3/tower-16-beta-for-mac-adds-ai-commits-new-working-copy-view-and-performance-upgrades/</link>
-      <description><![CDATA[Mac 版 Tower 16 beta 引入了人工智能驱动的提交生成，使用户能够在人工智能的帮助下自动创建提交消息和描述。暂存更改后，用户可以使用新的 AI 功能直接在客户端内生成建议的提交消息。相邻的下拉菜单提供了一系列预设提示，可以立即进行自定义。
-为了进一步定制 AI 体验，设置菜单中的新选项卡允许用户选择自己喜欢的 AI 提供商，例如 Claude Code 或 OpenAI Codex。此选项卡还允许用户添加或删除自定义提示预设，从而对提交消息输出提供更深入的控制。
-在人工智能集成之后，Tower 16 beta 改进了提交撰写区域。三个新图标现在提供对扩展正文视图的快速访问，保持描述字段可见，提交模板以快速插入以前保存的文本，以及用于自动换行的硬换行。
-除了这些重大更新之外，Tower 16 Beta 还提供了较小的改进。其中包括许可证窗口中的可点击 URL、旨在简化应用程序内日常使用的一般性能增强以及其他增强和错误修复。
-查看有关 AlternativeTo 的文章更多信息塔式 | 塔式替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/3/tower-16-beta-for-mac-adds-ai-commits-new-working-copy-view-and-performance-upgrades/</guid>
-      <pubDate>Tue, 31 Mar 2026 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>第一天推出用于对话日记的每日聊天和新的黄金订阅级别</title>
-      <link>https://alternativeto.net/news/2026/3/day-one-introduces-daily-chat-for-conversational-journaling-and-new-gold-subscription-tier/</link>
-      <description><![CDATA[Day One 推出了每日聊天，这是一种新的对话式人工智能日记功能，可通过简单的来回聊天引导用户完成条目。用户不再面对空白页面，而是回答旨在鼓励更深入反思和回忆日常经历的深思熟虑的问题。每个完成的对话都会转换成日记条目，捕捉用户的语言、情绪和观点，确保他们真实的声音始终处于中心位置。
-每日聊天还包括免提语音模式，允许用户通过说话而不是打字来记录日志。对于那些希望获得更个性化体验的人来说，集成的记忆系统可以提取并记住对话中提到的人物、地点和兴趣。这些记忆为未来的聊天提供了信息，帮助该功能随着时间的推移变得更加定制。所有记忆和条目均受到端到端加密的保护，并且绝不会用于人工智能训练，从而维护了用户隐私。
-随着 Daily Chat 的发布，Day One 将其高级订阅更名为 Day One Silver，并推出了新的 Gold 级别，价格为每年 74.99 美元，而 Silver 则保持每年 49.99 美元。黄金订户可在 iPhone、iPad、Android、Windows 和网页上使用每日聊天。参与每日聊天及其人工智能功能始终是可选的，并且可以随时禁用。
-查看有关 AlternativeTo 的文章有关 Day 的更多信息一 | 第一天替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/3/day-one-introduces-daily-chat-for-conversational-journaling-and-new-gold-subscription-tier/</guid>
-      <pubDate>Tue, 31 Mar 2026 07:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
