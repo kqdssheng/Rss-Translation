@@ -4,21 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 02 Apr 2026 13:14:20 GMT</lastBuildDate>
-    <item>
-      <title>皇家验证码</title>
-      <link>https://www.producthunt.com/products/captcha-royale</link>
-      <description><![CDATA[
-            竞赛解决验证码，最后站立的玩家获胜
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/captcha-royale</guid>
-      <pubDate>Thu, 02 Apr 2026 03:22:08 GMT</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Apr 2026 02:23:35 GMT</lastBuildDate>
     <item>
       <title>软垫</title>
       <link>https://www.producthunt.com/products/cushion-5</link>
@@ -34,32 +20,60 @@
       <pubDate>Thu, 02 Apr 2026 02:12:53 GMT</pubDate>
     </item>
     <item>
-      <title>麦克宠物</title>
-      <link>https://www.producthunt.com/products/mac-pet</link>
+      <title>样本栈</title>
+      <link>https://www.producthunt.com/products/samplestack</link>
       <description><![CDATA[
-            菜单栏或带番茄钟的 MacBook 凹口的像素宠物 
+            为每种乐器构建的本机 macOS 样本管理器
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/mac-pet</guid>
-      <pubDate>Wed, 01 Apr 2026 20:00:26 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/samplestack</guid>
+      <pubDate>Thu, 02 Apr 2026 00:44:58 GMT</pubDate>
     </item>
     <item>
-      <title>演示面纱</title>
-      <link>https://www.producthunt.com/products/demoveil</link>
+      <title>多摩96</title>
+      <link>https://www.producthunt.com/products/tama96-desktop-terminal-ai-pet</link>
       <description><![CDATA[
-            准备 Mac 屏幕以进行通话、演示和捕获
+            适用于桌面、终端和 AI 代理的电子宠物
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/demoveil</guid>
-      <pubDate>Wed, 01 Apr 2026 13:29:04 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/tama96-desktop-terminal-ai-pet</guid>
+      <pubDate>Wed, 01 Apr 2026 15:43:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>吉特城</title>
+      <link>https://www.producthunt.com/products/gitcity</link>
+      <description><![CDATA[
+            您的 GitHub 贡献作为您可以驾车穿过的 3D 城市
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/gitcity</guid>
+      <pubDate>Wed, 01 Apr 2026 10:20:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>协议：生存</title>
+      <link>https://www.producthunt.com/products/protocol-survival</link>
+      <description><![CDATA[
+            了解自己的差距。关闭它们。在重要之前。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/protocol-survival</guid>
+      <pubDate>Wed, 01 Apr 2026 10:16:37 GMT</pubDate>
     </item>
     <item>
       <title>创建映射</title>
@@ -118,20 +132,6 @@
       <pubDate>Tue, 31 Mar 2026 21:08:04 GMT</pubDate>
     </item>
     <item>
-      <title>艾罗杰</title>
-      <link>https://www.producthunt.com/products/roger-ai-2</link>
-      <description><![CDATA[
-            适用于任何任务的友好屏幕指南！
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/roger-ai-2</guid>
-      <pubDate>Tue, 31 Mar 2026 15:46:41 GMT</pubDate>
-    </item>
-    <item>
       <title>流动画布</title>
       <link>https://www.producthunt.com/products/flowith</link>
       <description><![CDATA[
@@ -146,32 +146,18 @@
       <pubDate>Tue, 31 Mar 2026 15:24:45 GMT</pubDate>
     </item>
     <item>
-      <title>块</title>
-      <link>https://www.producthunt.com/products/chunk-2</link>
+      <title>同步社交</title>
+      <link>https://www.producthunt.com/products/syncly</link>
       <description><![CDATA[
-            一款必备的 Mac 生产力应用程序
+            通过内容中的实际内容来查找创作者
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/chunk-2</guid>
-      <pubDate>Fri, 27 Mar 2026 23:27:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能模式</title>
-      <link>https://www.producthunt.com/products/mode-ai-2</link>
-      <description><![CDATA[
-            口袋里的人工智能助手
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/mode-ai-2</guid>
-      <pubDate>Fri, 27 Mar 2026 09:31:22 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/syncly</guid>
+      <pubDate>Thu, 26 Mar 2026 01:22:43 GMT</pubDate>
     </item>
     <item>
       <title>闪电V3</title>
@@ -200,6 +186,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/jetson-3</guid>
       <pubDate>Wed, 04 Mar 2026 17:54:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>克劳德·代码语音模式</title>
+      <link>https://www.producthunt.com/products/claude-code-voice-mode</link>
+      <description><![CDATA[
+            将您的提示说出 Claude Code
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/claude-code-voice-mode</guid>
+      <pubDate>Tue, 03 Mar 2026 01:23:36 GMT</pubDate>
     </item>
     <item>
       <title>格罗克 4.2 测试版 2</title>
