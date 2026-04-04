@@ -4,7 +4,18 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sat, 04 Apr 2026 02:08:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 12:55:55 GMT</lastBuildDate>
+    <item>
+      <title>Wine 11.6 恢复了 Android 驱动程序、改进了 DLL 修改并提高了 VBScript 兼容性</title>
+      <link>https://alternativeto.net/news/2026/4/wine-11-6-revives-android-driver-refines-dll-modding-and-improves-vbscript-compatibility/</link>
+      <description><![CDATA[Wine 11.6 为在 Linux、macOS、BSD 和其他 POSIX 兼容系统上运行 Windows 应用程序的用户带来了多项显着改进。此版本中最显着的变化是 Android 驱动程序的复兴，反映出早期转向改进 Android 设备上的 Wine 支持。
+除了平台工作之外，新版本还引入了 DLL 加载顺序启发式算法，旨在为游戏修改提供更好的兼容性。此更新旨在解决用户在 Wine 中将 mod 应用于 Windows 游戏时经常遇到的问题，增强游戏体验的定制和集成。
+继这些增强之后，Wine 11.6 还对 VBScript 应用了更多兼容性修复。这有利于依赖嵌入式脚本的应用程序的企业环境和用户，因为它扩大了覆盖范围并提高了脚本执行的可靠性。
+更新完成后，该版本修复了 28 个有针对性的错误，涵盖 Google Earth、Windows Notepad、StarOffice51、Homesite+、Minecraft、PDFSam、DigiCertUtil 和 HWiNFO 等知名软件。这些修正解决了稳定性和功能问题，为通过 Wine 运行的日常和专用 Windows 应用程序提供了更流畅的体验。
+查看有关 AlternativeTo 的文章更多信息葡萄酒 | 葡萄酒替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/wine-11-6-revives-android-driver-refines-dll-modding-and-improves-vbscript-compatibility/</guid>
+      <pubDate>Sat, 04 Apr 2026 06:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Pi-hole 发布 FTL v6.6、Web v6.5 和 Core v6.4.1，包含安全修复、添加 MAC 控制</title>
       <link>https://alternativeto.net/news/2026/4/pi-hole-releases-ftl-v6-6-web-v6-5-and-core-v6-4-1-with-security-fixes-adds-mac-control/</link>
@@ -20,8 +31,8 @@
       <link>https://alternativeto.net/news/2026/4/pika-labs-launches-real-time-video-chat-with-an-ai-avatar-version-of-yourself-in-meetings/</link>
       <description><![CDATA[AI 视频和图像生成初创公司 Pika Labs 为 AI 代理推出了实时视频聊天，允许通过其“Pika AI Self”与 AI 化身进行实时面对面对话。概念（基本上是人工智能以不同的视觉风格生成的你自己的版本）。用户已经可以通过邀请 Pika AI Self 加入 Google Meet 通话来尝试一下。虽然该功能目前与 Pika 自己的产品相关，但该公司还发布了GitHub Skill，以便开发人员也可以连接其他代理。
 该更新由 PikaStream1.0 提供支持，Pika 将其描述为一个实时视觉引擎，专为实时通话中身份一致的说话化身而构建。该公司表示，它可以在单个 H100 GPU 上以每秒 24 帧的速度传输视频，延迟约为 1.5 秒，这标志着与仍然需要较长延迟的传统 AI 视频系统的明显转变。 Pika 还表示，该系统可以保留内存和对话上下文，同时允许用户在会话期间更改身份数据，而无需重新启动流。
-The company also says it trained the model on a large filtered dataset of about 10 million pre training clips and 2 million supervised clips, while using a parallel audio and video pipeline so generation can begin as soon as audio input is available.
-查看有关 AlternativeTo 的文章有关 Pika 的更多信息实验室 | Pika 实验室替代品]]></description>
+该公司还表示，它在包含约 1000 万个预训练剪辑和 200 万个监督剪辑的大型过滤数据集上训练了模型，同时使用并行音频和视频管道，因此一旦音频输入可用，就可以开始生成。
+查看有关 AlternativeTo 的文章有关 Pika 的更多信息实验室 | Pika 实验室替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/4/pika-labs-launches-real-time-video-chat-with-an-ai-avatar-version-of-yourself-in-meetings/</guid>
       <pubDate>Fri, 03 Apr 2026 23:18:17 GMT</pubDate>
     </item>
@@ -145,16 +156,6 @@ Volatile 存储库也已过渡到 CDN 交付，为打包者提供更快的访问
 查看有关 AlternativeTo 的文章更多信息Jami | Jami 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/4/jami-euclid-brings-revamped-ui-improved-accessibility-better-rtl-support-and-more/</guid>
       <pubDate>Thu, 02 Apr 2026 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌开始在全球范围内推出 Android 开发者验证和新的侧载规则</title>
-      <link>https://alternativeto.net/news/2026/4/google-starts-rolling-out-android-developer-verification-and-new-sideloading-rules-worldwide/</link>
-      <description><![CDATA[Google 正在新的 Android 开发者控制台和 Play 控制台中推出 Android 开发者验证要求。此更改允许开发人员在今年晚些时候开始面向用户的更改之前完成验证并注册他们的应用程序。虽然现在正在引入这些验证工具，但在激活保护之前，用户下载应用程序的体验将保持不变。
-巴西、印度尼西亚、新加坡和泰国将于 9 月推出用户端应用安装保护，并计划于 2027 年进行全球扩展。最初，大多数用户体验不会受到影响，除非尝试安装来自未注册开发者的应用。在这些情况下，用户将需要使用 Android 调试桥 (ADB) 或高级程序，为有经验的用户保持灵活性。 此例外是在之前用户强烈反对后添加的，并且Google 为侧载未经验证的应用引入了 24 小时等待期。
-为了支持过渡，应用开发者现在可以在 Android Studio 中生成签名的 App Bundle 或 APK 时查看其应用注册状态。已完成 Play 管理中心验证步骤的开发者将自动注册符合条件的应用。此外，每个应用的注册状态将在 Play 管理中心的验证仪表板中可见。
-查看有关 AlternativeTo 的文章有关 Android 的更多信息 | Android 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/4/google-starts-rolling-out-android-developer-verification-and-new-sideloading-rules-worldwide/</guid>
-      <pubDate>Thu, 02 Apr 2026 07:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
