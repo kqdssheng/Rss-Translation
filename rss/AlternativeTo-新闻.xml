@@ -4,7 +4,94 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Fri, 03 Apr 2026 13:04:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 02:08:38 GMT</lastBuildDate>
+    <item>
+      <title>Pi-hole 发布 FTL v6.6、Web v6.5 和 Core v6.4.1，包含安全修复、添加 MAC 控制</title>
+      <link>https://alternativeto.net/news/2026/4/pi-hole-releases-ftl-v6-6-web-v6-5-and-core-v6-4-1-with-security-fixes-adds-mac-control/</link>
+      <description><![CDATA[Pi-hole 已发布 FTL v6.6、Web v6.5 和 Core v6.4.1，最新 Docker 镜像标记为 2026.04.0。此更新修复了 Web 界面、FTL 和 Core 中的多个安全问题，包括影响 requests.js、网络页面和仪表板等组件的存储和反射的 XSS 和 HTML 注入缺陷。这些漏洞由安全研究人员 andrejtomci、n1rwhex 和 mzalzahrani 报告。
+该版本还通过用经过验证的解析器替换不安全的脚本源来修复核心组件中的本地权限升级问题。在 FTL 中，Pi-hole 关闭了一个授权旁路，允许命令行 API 会话导入 Teleporter 存档，并修复了配置处理中的换行符注入缺陷，该缺陷可能允许通过操纵 DNS 或 DHCP 参数来远程执行代码。
+在可靠性方面，FTL v6.6 现在会等待主动重力更新完成后再重新启动，有助于防止临时 DNS 中断。此更新还添加了一个 resolver.macNames 选项，用于在更复杂的网络设置中控制基于 MAC 的主机名解析，而其他修复则解决了查询日志下溢、夸大的顶级客户端统计数据以及禁用超时图形导入时的内存增长问题。建议用户使用 Teleporter 备份其设置，并在更新前查看更改日志。
+查看有关 AlternativeTo 的文章更多信息Pi-hole | Pi-hole 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/pi-hole-releases-ftl-v6-6-web-v6-5-and-core-v6-4-1-with-security-fixes-adds-mac-control/</guid>
+      <pubDate>Fri, 03 Apr 2026 23:43:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pika Labs 在会议中推出与您自己的 AI 化身版本的实时视频聊天</title>
+      <link>https://alternativeto.net/news/2026/4/pika-labs-launches-real-time-video-chat-with-an-ai-avatar-version-of-yourself-in-meetings/</link>
+      <description><![CDATA[AI 视频和图像生成初创公司 Pika Labs 为 AI 代理推出了实时视频聊天，允许通过其“Pika AI Self”与 AI 化身进行实时面对面对话。概念（基本上是人工智能以不同的视觉风格生成的你自己的版本）。用户已经可以通过邀请 Pika AI Self 加入 Google Meet 通话来尝试一下。虽然该功能目前与 Pika 自己的产品相关，但该公司还发布了GitHub Skill，以便开发人员也可以连接其他代理。
+该更新由 PikaStream1.0 提供支持，Pika 将其描述为一个实时视觉引擎，专为实时通话中身份一致的说话化身而构建。该公司表示，它可以在单个 H100 GPU 上以每秒 24 帧的速度传输视频，延迟约为 1.5 秒，这标志着与仍然需要较长延迟的传统 AI 视频系统的明显转变。 Pika 还表示，该系统可以保留内存和对话上下文，同时允许用户在会话期间更改身份数据，而无需重新启动流。
+The company also says it trained the model on a large filtered dataset of about 10 million pre training clips and 2 million supervised clips, while using a parallel audio and video pipeline so generation can begin as soon as audio input is available.
+查看有关 AlternativeTo 的文章有关 Pika 的更多信息实验室 | Pika 实验室替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/pika-labs-launches-real-time-video-chat-with-an-ai-avatar-version-of-yourself-in-meetings/</guid>
+      <pubDate>Fri, 03 Apr 2026 23:18:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>MidnightBSD 4.0.4 增加了年龄验证，修补了安全漏洞</title>
+      <link>https://alternativeto.net/news/2026/4/midnightbsd-4-0-4-adds-age-verification-patches-security-flaw/</link>
+      <description><![CDATA[MidnightBSD 4.0.4 引入了新的年龄验证工具，其中老化的守护进程和agectl 实用程序支持帐户和包级别的年龄检查。此版本还修复了 RPCSEC_GSS 数据包验证中的严重远程代码执行漏洞。
+为 AMD CPPC 驱动程序提供了额外支持。
+查看有关 AlternativeTo 的文章更多信息MidnightBSD | MidnightBSD 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/midnightbsd-4-0-4-adds-age-verification-patches-security-flaw/</guid>
+      <pubDate>Fri, 03 Apr 2026 17:02:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>AerynOS 使用新的包管理器工具更新至 GNOME 50 和 KDE Plasma 6.6.3</title>
+      <link>https://alternativeto.net/news/2026/4/aerynos-updates-to-gnome-50-and-kde-plasma-6-6-3-with-new-package-manager-tools/</link>
+      <description><![CDATA[AerynOS 现在采用 GNOME 50，改进了家长控制、默认情况下稳定的 VRR 和分数缩放，并迁移到 仅限 Wayland 会话。 KDE Plasma 已更新至版本 6.6.3，在 PipeWire 1.6+ 上添加了更强大的截屏功能，减少了分数缩放的资源使用量，并增强了远程桌面中的鼠标支持。 moss 包管理器现在支持二进制提供程序搜索和批量删除包状态，从而简化了用户的维护。
+Volatile 存储库也已过渡到 CDN 交付，为打包者提供更快的访问。
+查看有关 AlternativeTo 的文章更多信息AerynOS | AerynOS 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/aerynos-updates-to-gnome-50-and-kde-plasma-6-6-3-with-new-package-manager-tools/</guid>
+      <pubDate>Fri, 03 Apr 2026 16:41:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ghost 为实时出版数据添加了官方 Home Assistant 集成</title>
+      <link>https://alternativeto.net/news/2026/4/ghost-adds-official-home-assistant-integration-for-live-publication-data/</link>
+      <description><![CDATA[Ghost 已发布与 Home Assistant 的正式集成，允许用户将其发布数据导入智能家居仪表板和自动化系统。 Ghost 的关键指标（例如会员数量、收入、帖子状态和活动统计数据）现在可作为 Home Assistant 中的传感器使用。
+此更新使用户能够在 Home Assistant 支持的任何设备上触发自动操作或显示实时发布数据。
+最新版本的 Ghost(Pro) 和自托管用户都可以使用该集成。
+查看有关 AlternativeTo 的文章有关 Ghost 的更多信息 | 幽灵替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/ghost-adds-official-home-assistant-integration-for-live-publication-data/</guid>
+      <pubDate>Fri, 03 Apr 2026 16:31:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌推出 Veo 3.1 Lite，面向开发者的低成本视频模型</title>
+      <link>https://alternativeto.net/news/2026/4/google-launches-veo-3-1-lite-a-low-cost-video-model-for-developers/</link>
+      <description><![CDATA[Google 发布了 Veo 3.1 Lite，这是一种视频生成模型，其成本不到 Veo 3.1 Fast 的一半，但速度相同。该模型支持文本到视频和图像到视频工作流程，并提供 720p 和 1080p 分辨率的横向或纵向取景选项。
+开发者可以选择 4、6 或 8 秒的持续时间，现在可以通过 Gemini API 和 Google AI Studio 付费访问。
+查看有关 AlternativeTo 的文章有关 Google 的更多信息Veo | Google Veo 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/google-launches-veo-3-1-lite-a-low-cost-video-model-for-developers/</guid>
+      <pubDate>Fri, 03 Apr 2026 16:27:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 语音模式现已在 Apple CarPlay 上提供</title>
+      <link>https://alternativeto.net/news/2026/4/chatgpt-voice-mode-is-now-available-on-apple-carplay/</link>
+      <description><![CDATA[OpenAI 在 Apple CarPlay 中启用了 ChatGPT  语音模式，让用户可以直接从汽车仪表板与 ChatGPT 对话。要使用它，您需要一部运行最新版本 iOS 和 ChatGPT 应用程序的 iPhone，以及兼容 CarPlay 的车辆。从那里，您可以在 CarPlay 中打开 ChatGPT 并开始新的语音聊天。
+启动后，CarPlay 版本会显示一个简单的界面，其中包含收听指示器和用于静音或结束对话的控件。用户还可以访问最近和固定的聊天记录，但返回之前的对话仍然需要手动打开应用程序并从屏幕上选择它，具有讽刺意味的是，如果你问我的话，这会在驾驶时造成小小的干扰。
+值得注意的是，这与 Siri 的内置汽车集成并不完全可比，因为 Apple 的安全限制将 CarPlay 中的 ChatGPT 仅限于语音对话，并且也不支持唤醒词，这意味着每个会话都必须手动启动。 ChatGPT 应用程序也无法真正控制汽车功能、音乐播放或 iPhone 设置，因此将其视为对话工具而不是成熟的汽车助手更为安全。为此，无论好坏，您仍然需要使用 Siri。
+查看有关 AlternativeTo 的文章有关 ChatGPT 的更多信息 | ChatGPT 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/4/chatgpt-voice-mode-is-now-available-on-apple-carplay/</guid>
+      <pubDate>Fri, 03 Apr 2026 15:32:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Waterfox 将集成 Brave adblock 引擎，默认启用搜索广告</title>
+      <link>https://alternativeto.net/news/2026/4/waterfox-to-integrate-brave-adblock-engine-with-search-ads-enabled-by-default/</link>
+      <description><![CDATA[Waterfox 将Brave 的开源广告拦截引擎直接集成到浏览器中，取代对基于扩展的拦截器的依赖，正如在纪念该项目 15 周年的博客文章中宣布的。在这篇文章中，创建者 Alex Kontos 还回顾了 Waterfox 的起源，他于 2011 年 16 岁时开始开发 64 位 Firefox，后来发展成为每月拥有约 100 万活跃用户的浏览器，以及 Bing 终止第三方搜索协议后独立浏览器现在面临的更严峻的财务环境。
+新的内置拦截器将使用 Brave 的 adblock 库，并在 Waterfox 的主浏览器进程中运行，而不是作为扩展程序运行。 Kontos 表示，这将使广告拦截速度更快、集成更紧密，并且更少依赖扩展 API 或不断的上游更新。他还表示，选择 Brave 的库的部分原因是其 MPL 2.0 许可证更适合 Waterfox，而由于其 GPLv3 许可证，与 uBlock Origin 等拦截器的更深层次集成会更加复杂。
+默认情况下，Waterfox 仍会例外，允许在其默认搜索合作伙伴页面（目前为 Startpage）上投放文字广告，作为为浏览器提供经济支持的一种方式。该团队澄清说，这是 Waterfox 自己的收入决定，而不是继承自 Brave 的广告拦截技术。想要更严格屏蔽的用户将能够通过单一设置禁用所有广告，而已经使用第三方屏蔽器的用户可以继续照常使用它们。
+查看有关 AlternativeTo 的文章更多信息Waterfox | Waterfox 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/waterfox-to-integrate-brave-adblock-engine-with-search-ads-enabled-by-default/</guid>
+      <pubDate>Fri, 03 Apr 2026 15:11:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>模糊文件查找器 Cling 2.0 首次亮相，带有重写的搜索引擎、新的过滤器和 CLI 工具</title>
+      <link>https://alternativeto.net/news/2026/4/fuzzy-file-finder-cling-2-0-debuts-with-rewritten-search-engine-new-filters-and-cli-tools/</link>
+      <description><![CDATA[Cling 2.0 已发布，作为该 macOS 实用程序的最新版本，用于即时模糊文件搜索。其搜索引擎已完全重建，可在本机运行，不再依赖外部工具。新的特定于文件路径的模糊搜索索引可提供比以前的方法更相关的结果，并在不到 100 毫秒的时间内搜索数百万个文件。利用所有可用的 CPU 内核和单指令、多数据 (SIMD) 加速，Cling 现在可以在启动时立即加载持久的二进制索引。
+基于这些核心变化，实时文件系统跟踪变得更快、更可靠。用户会注意到改进的快速过滤器支持新字段，例如按 .pdf 和 .docx 扩展名过滤、仅搜索文件夹以及自动查询修改。此外，扩展查询使得可以直接从输入字段按关键字和文件类型进行搜索。
+在这些升级之后，用户现在可以使用箭头键导航搜索历史记录并利用基于选项卡的自动完成功能。最近更改的文件在打开 Cling 时立即可见，并且提供文件系统和索引更改的实时列表。其他选项包括用于终端搜索的命令行界面、用于将文件移动到 Yoink 等应用程序的热键集成、带有替代选项的新可选 Liquid Glass 主题、跟踪最近操作中涉及的文件以及对脚本执行的扩展控制。
+查看有关 AlternativeTo 的文章有关 Cling 的更多信息模糊查找器 | Cling 模糊查找器替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/fuzzy-file-finder-cling-2-0-debuts-with-rewritten-search-engine-new-filters-and-cli-tools/</guid>
+      <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>阿里云推出Qwen3.6-Plus，升级多模态和代理编码能力</title>
       <link>https://alternativeto.net/news/2026/4/alibaba-cloud-launches-qwen3-6-plus-with-upgraded-multimodal-and-agentic-coding-capabilities/</link>
@@ -68,97 +155,6 @@
 查看有关 AlternativeTo 的文章有关 Android 的更多信息 | Android 替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/4/google-starts-rolling-out-android-developer-verification-and-new-sideloading-rules-worldwide/</guid>
       <pubDate>Thu, 02 Apr 2026 07:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ExpressVPN 推出 ExpressAI，这是一个针对大型语言模型的注重隐私的 AI 中心</title>
-      <link>https://alternativeto.net/news/2026/4/expressvpn-launches-expressai-a-privacy-focused-ai-hub-for-large-language-models/</link>
-      <description><![CDATA[ExpressVPN 推出了 ExpressAI，这是一个注重隐私的 AI 中心，让用户可以访问多种大型语言模型。该产品使用户能够访问多种大型语言模型，同时使用机密计算环境或安全飞地，以加密方式将对话和加密密钥与周围基础设施隔离。该公司表示，这种设计可以防止 ExpressVPN、云运营商和模型提供商访问用户聊天或数据。
-ExpressAI 基于三个隐私标准：零训练，意味着对话不用于训练模型；零访问，意味着聊天和存储的数据只能由用户访问；零妥协，指在单个界面中访问五个人工智能模型。用户可以启用幽灵模式来消失聊天，通过零访问加密保护对话历史记录，并以相同的方法存储上传的文件和图像。
-经过网络安全公司 Cure53 的独立审计后，ExpressVPN 表示所有已识别的前端和后端漏洞在发布前均已修复。 ExpressAI 于 2026 年 3 月 31 日向新老 ExpressVPN Pro 用户开放，作为捆绑包的一部分，价格为每月 4.87 美元。该平台包括 500 个每日积分、每个文件 50 MB 的上传限制、2 GB 的安全存储空间以及用于推理、编码和技术分析等任务的五个模型。
-查看有关 AlternativeTo 的文章更多信息ExpressAI | ExpressAI 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/4/expressvpn-launches-expressai-a-privacy-focused-ai-hub-for-large-language-models/</guid>
-      <pubDate>Thu, 02 Apr 2026 04:36:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Slack 对 Slackbot 进行了重大更新，引入了 30 多项新的人工智能功能</title>
-      <link>https://alternativeto.net/news/2026/4/slack-delivers-major-update-to-slackbot-introducing-over-30-new-ai-powered-capabilities/</link>
-      <description><![CDATA[Salesforce 宣布为 Slackbot 提供 30 多项新的 AI 功能，将其从个人助手转变为协作型、情境感知型队友。通过这些更新，Slackbot 现在充当会议助理，提供自动会议转录和笔记记录以及访问业务上下文。团队可以利用可重复使用的人工智能技能，允许他们定义任务并在 Slackbot 检测到相关提示时自动执行。
-为了提高工作流程效率，Slackbot 获得了 MCP 客户端功能，使其能够将请求或问题路由到 Agentforce 或任何合适的企业系统，而无需用户干预。此外，小型企业现在可以在 Slackbot 中获得本机客户管理工具：它监控渠道、跟踪客户互动并自动更新交易、联系人和通话记录。
-此后，Salesforce 上的企业用户可以通过 Slackbot 与整个 Customer 360 平台进行交互，以对话方式管理帐户、路由案例并触发工作流程，而无需打开 Salesforce 应用程序。新功能还引入了语音输入、深入的研究技能和可共享的提示，而 Slackbot 的记忆功能可以适应用户的偏好和工作流程，随着时间的推移提供越来越相关的帮助。
-目前，Slackbot 可在 Slack Business+ 和 Enterprise+ 计划中使用。从 4 月开始，免费版和专业版计划用户将收到包含的对话，以获取 Slackbot 的实际操作体验。
-查看有关 AlternativeTo 的文章更多信息Slack | Slack 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/slack-delivers-major-update-to-slackbot-introducing-over-30-new-ai-powered-capabilities/</guid>
-      <pubDate>Wed, 01 Apr 2026 16:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌现在允许美国用户更改 Gmail 地址而不会丢失任何数据</title>
-      <link>https://alternativeto.net/news/2026/4/google-is-now-letting-users-in-the-u-s-change-their-gmail-address-without-losing-any-data/</link>
-      <description><![CDATA[Google 推出了一项期待已久的功能，允许美国的 Gmail 用户更改其电子邮件地址的用户名部分，即 @gmail.com 之前的所有内容。通过此更新，因过时或不专业的地址而感到沮丧的用户现在可以改用更适合其当前需求的新用户名。
-更改完成后，原始 Gmail 地址将成为备用地址，确保发送到旧地址或新地址的电子邮件均能送达。用户可以访问新的和以前的 Gmail 帐户以获取邮件、照片和其他存储的数据，因为所有帐户内容都不会受到切换的影响。
-这一新工作流程允许用户使用任一电子邮件地址登录 Google 服务，包括 Gmail、Google Play、地图和 YouTube。然而，谷歌设置了一些限制。更新 Gmail 用户名后，用户在 12 个月内无法创建新的 Gmail 帐户，也无法删除新的电子邮件地址。不过，如果需要，他们可以随时恢复到以前的 Gmail 地址。该功能适用于所有美国 Google 帐户持有者。
-查看有关 AlternativeTo 的文章详细了解Gmail | Gmail 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/google-is-now-letting-users-in-the-u-s-change-their-gmail-address-without-losing-any-data/</guid>
-      <pubDate>Wed, 01 Apr 2026 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Arti 2.2 默认启用 HTTP CONNECT，增强 RPC 功能，修复安全问题</title>
-      <link>https://alternativeto.net/news/2026/4/arti-2-2-enables-http-connect-by-default-enhances-rpc-features-and-fixes-security-issues/</link>
-      <description><![CDATA[Arti，Rust 中的下一代 Tor 实现，已发布版本 2.2。最突出的更新是集成了用于访问 Tor 网络 的 HTTP CONNECT 协议。此功能现在在完整版本中默认处于活动状态，允许客户端使用 HTTP CONNECT 作为 SOCKS 的替代方案进行连接。两种协议均可通过同一端口使用，旨在简化连接方法并提高各种应用的灵活性。
-除了此网络更新之外，arti-rpc-client-core 库还为开发人员引入了关键改进。它现在支持非阻塞请求并与应用程序事件循环无缝集成。此外，RPC 系统获得了新的超级用户设施，允许直接通过远程过程调用对 Arti 实例进行管理访问。这些更改可以帮助高级用户和系统集成商更有效地管理和自动化 Arti 部署。
-为了解决稳定性和安全性问题，Arti 2.2 修复了 TROVE-2026-005，这是一个低严重性漏洞，可能会削弱某些嵌入式构建环境中的拒绝服务抵抗能力。在幕后，Tor 团队继续开发中继支持、中继通道和电路功能，以及镜像和权限等目录服务器功能。
-查看有关 AlternativeTo 的文章更多信息Arti | Arti 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/arti-2-2-enables-http-connect-by-default-enhances-rpc-features-and-fixes-security-issues/</guid>
-      <pubDate>Wed, 01 Apr 2026 13:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>在原始版本发布 10 年后，Instapaper 重新推出其 Instaparser API</title>
-      <link>https://alternativeto.net/news/2026/4/instapaper-is-relaunching-its-instaparser-api-10-years-after-the-original-version/</link>
-      <description><![CDATA[Instapaper 重新推出了 Instaparser API，包含文章提取、PDF 解析和摘要，提供结构化内容解析功能。所有三个 API 均适用于所有计划，免费套餐每月提供 1,000 个 API 积分。
-新端点支持多种格式，并支持内容聚合、文档处理和自动文章摘要等工作流程。
-查看有关 AlternativeTo 的文章更多信息Instapaper | Instapaper 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/instapaper-is-relaunching-its-instaparser-api-10-years-after-the-original-version/</guid>
-      <pubDate>Wed, 01 Apr 2026 09:10:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>ForkLift 4.6 为 macOS 用户添加标签自动完成和一键访问自定义工具</title>
-      <link>https://alternativeto.net/news/2026/3/forklift-4-6-adds-tag-autocompletion-and-one-click-access-to-custom-tools-for-macos-users/</link>
-      <description><![CDATA[ForkLift 4.6 作为适用于 macOS 的双窗格文件管理器和文件传输客户端的最新版本发布。此更新的重点是为管理大型文件集合或需要高效工作流程的用户增强组织和自定义功能。
-在此版本中，标签管理收到重大更新。 ForkLift 现在使用预览窗格和信息窗口中自动完成设置中列出的标签。当用户键入时，建议从其预定义列表中匹配标签，以实现更快、更一致的标记。侧边栏中的标签输入字段已得到改进，添加了一个下拉菜单，可在您键入时建议标签，并可选择展开以显示所有已分配的标签，从而使标签分配和查看更易于访问。用户可以从侧边栏隐藏特定标签并直接从中分配标签以简化日常操作。
-除了这些更改之外，用户现在还可以将自定义工具直接添加到工具栏以便单击执行。创建或编辑工具时，他们可以指定一个图标，使工具在工具部分和工具栏上都可以立即识别。除了这些增强功能之外，ForkLift 4.6 还带来了各种可用性改进和错误修复，以提高整个应用程序的稳定性和可用性。
-查看有关 AlternativeTo 的文章更多信息叉车 | 叉车替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/forklift-4-6-adds-tag-autocompletion-and-one-click-access-to-custom-tools-for-macos-users/</guid>
-      <pubDate>Wed, 01 Apr 2026 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>得益于 Apple 的 MLX 框架，Ollama 在 Apple Silicon 上获得了重大性能提升</title>
-      <link>https://alternativeto.net/news/2026/3/ollama-gains-major-performance-boosts-on-apple-silicon-thanks-to-apple-s-mlx-framework/</link>
-      <description><![CDATA[Ollama 在 Apple Silicon 上取得了重大性能提升，现在由 Apple 的 MLX 机器学习框架提供支持。 Ollama 报告称，通过直接在 MLX 上构建并利用 Apple 的统一内存架构，用户在 Mac 硬件上运行大型语言模型 (LLM) 的速度得到了显着提升。
-虽然这些改进提高了整体性能，但使用 Apple 最新 M5、M5 Pro 和 M5 Max 芯片的用户将受益于与最新 GPU 神经加速器的集成。这减少了第一个令牌的时间并提高了生成速度，使个人助理和嵌入式编码代理（例如 OpenClaw、Claude Code、OpenAI）的过程更加顺畅Codex 和 macOS 上的 OpenCode。
-除了 Apple 平台之外，Ollama 现在还支持 NVIDIA 的 NVFP4 格式，可以在不影响模型准确性的情况下减少推理任务的内存和存储。这使得用户能够获得与生产环境一致的推理结果，并引入与 NVIDIA 工具优化的模型的兼容性。
-随着这些平台的进步，Ollama 改进的缓存系统现在可以在对话之间重复使用缓存数据，以降低内存使用量并加快提示处理速度。对于分支工作流程，例如编码或代理驱动的提示，Ollama 会拍摄智能缓存快照，从而产生更快的响应并减少计算开销。
-查看有关 AlternativeTo 的文章更多信息Ollama | Ollama 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/3/ollama-gains-major-performance-boosts-on-apple-silicon-thanks-to-apple-s-mlx-framework/</guid>
-      <pubDate>Wed, 01 Apr 2026 07:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Procreate 将于明年正式登陆 Mac，并发布下一个重大更新 Procreate 6</title>
-      <link>https://alternativeto.net/news/2026/4/procreate-is-officially-coming-to-mac-with-its-next-major-procreate-6-update-next-year/</link>
-      <description><![CDATA[Procreate宣布同步开发Procreate 6和Procreate Mac，标志着其长期要求的进军桌面市场。该公司表示，2024 年对桌面版本的需求显着增长，促使其为 Mac 用户开发一款价格实惠、高性能的绘画应用程序。
-Procreate 6 和 Procreate Mac 均基于该公司的下一代 Phoenix 技术构建，该技术也为 Procreate Dreams 提供支持，并且它们共享相同的代码库。 Procreate 6 将添加一些所需的功能，包括更多图层、调整图层、组混合模式、iCloud 文件同步、文件中保存的撤消历史记录以及可以扩展到画布之外的图层。
-由于这两个项目是一起开发的，Procreate 现在预计它们将于 2027 年推出。该公司表示，大部分工作仍然集中在底层技术上，目标是保持熟悉的体验，避免当前用户受到干扰或出现新的学习曲线。 Procreate 此前曾避免使用桌面设备，因为担心触摸显示屏仍达不到 iPad 和 Apple Pencil 的体验，那么现在发生了什么变化呢？触摸屏 MacBook 会比预期更接近吗？ 👀
-查看有关 AlternativeTo 的文章更多信息Procreate | Procreate 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/4/procreate-is-officially-coming-to-mac-with-its-next-major-procreate-6-update-next-year/</guid>
-      <pubDate>Wed, 01 Apr 2026 06:36:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>ONLYOFFICE 因新的未经授权的“Euro-Office”分叉终止与 Nextcloud 的合作关系</title>
-      <link>https://alternativeto.net/news/2026/4/onlyoffice-ends-its-partnership-with-nextcloud-over-new-unauthorized-euro-office-fork/</link>
-      <description><![CDATA[ONLYOFFICE 继 Nextcloud、IONOS 和其他欧洲公司Nextcloud 的八年合作关系宣布推出“Euro-Office”，它是 ONLYOFFICE 存储库的一个分支。此举影响了自托管 Nextcloud 用户用于实时文档编辑和协作的长期集成。
-Euro-Office 是作为 Microsoft Office 的开源、欧洲控制的替代品，重点关注兼容性和软件主权。 ONLYOFFICE 认为该分叉通过重新打包其代码而不保留所需的品牌、徽标和归属而违反了 GNU Affero 通用公共许可证 v3。它还表示该项目是在没有事先通知的情况下启动的，称其严重违反信任，并补充说，由于 Nextcloud 涉嫌试图招募员工并影响客户来反对该公司，紧张局势已经加剧。
-与此同时，Nextcloud 表示，此次分叉是由于对 ONLYOFFICE 的俄罗斯起源的担忧、有限的透明度以及它认为具有限制性的贡献流程而推动的。 ONLYOFFICE 表示，现有客户和合作伙伴不会受到影响，而来自 LibreOffice 的更广泛批评质疑 ONLYOFFICE 的开源定位及其对 Microsoft 文件格式而非开放标准的强烈关注，从而加剧了争议。
-查看有关 AlternativeTo 的文章更多信息ONLYOFFICE | ONLYOFFICE 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/onlyoffice-ends-its-partnership-with-nextcloud-over-new-unauthorized-euro-office-fork/</guid>
-      <pubDate>Wed, 01 Apr 2026 06:08:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
