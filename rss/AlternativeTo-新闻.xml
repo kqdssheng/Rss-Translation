@@ -4,7 +4,34 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sat, 04 Apr 2026 12:55:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 02:29:59 GMT</lastBuildDate>
+    <item>
+      <title>Visual Studio Code 1.114 添加了轮播视频、语义代码搜索和 TypeScript 6.0</title>
+      <link>https://alternativeto.net/news/2026/4/visual-studio-code-1-114-adds-video-in-carousel-semantic-code-search-and-typescript-6-0/</link>
+      <description><![CDATA[Visual Studio Code 1.114 引入了图像轮播中的视频播放功能，使用户能够从聊天附件和资源管理器上下文菜单中查看和控制视频文件。 #codebase 工具现在专门用作具有简化索引模型的语义搜索，无需管理本地和远程索引。
+对 JavaScript 和 TypeScript 的支持已更新至 TypeScript 6.0，弃用了旧的配置选项。其他改进包括复制最终响应聊天命令和 Python 环境检测增强功能。
+查看有关 AlternativeTo 的文章有关 Visual 的更多信息Studio Code | Visual Studio Code 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/4/visual-studio-code-1-114-adds-video-in-carousel-semantic-code-search-and-typescript-6-0/</guid>
+      <pubDate>Sat, 04 Apr 2026 17:53:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tumbleweed 更新：新的 Plasma 6.6 修复、内核 CVE 补丁和 Mesa GPU 改进</title>
+      <link>https://alternativeto.net/news/2026/4/tumbleweed-updates-new-plasma-6-6-fixes-kernel-cve-patches-and-mesa-gpu-improvements/</link>
+      <description><![CDATA[OpenSUSE Tumbleweed 连续发布了三个 Plasma 6.6 更新，修复了 KWin、Spectacle、系统托盘和 Kicker 中的大量错误和稳定性问题。 Linux 内核从 6.19.5 升级到 6.19.9，纳入了音频和文件系统改进，同时解决了超过 25 个被跟踪的安全漏洞。 KDE Frameworks 6.24.0 引入了纳秒精度时间戳和新的 Kirigami StyleHints API，Mesa 26.0.2 修复了 AMD 和 Intel 用户的图形问题。
+建议用户更新到所有最新软件包，以缓解严重漏洞并从稳定性改进中受益。
+查看有关 AlternativeTo 的文章更多信息openSUSE | openSUSE 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/4/tumbleweed-updates-new-plasma-6-6-fixes-kernel-cve-patches-and-mesa-gpu-improvements/</guid>
+      <pubDate>Sat, 04 Apr 2026 17:53:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>KaOS ISO 放弃 Limine 的 systemd-boot，推出 Niri/Noctalia 桌面</title>
+      <link>https://alternativeto.net/news/2026/4/kaos-iso-drops-systemd-boot-for-limine-ships-niri-noctalia-desktop/</link>
+      <description><![CDATA[KaOS 的最新 ISO 删除了 systemd-boot 和 mkinitcpio，采用 Dracut for initramfs 和 Limine 作为默认引导加载程序，标志着后端的重大转变。该版本用 Niri 和 Noctalia 取代了传统的 Plasma/Kwin 桌面，保持了以 Qt 为中心、无 GTK 的系统设置。
+安装程序 Calamares 现在与纯 Wayland 完全兼容，并扩展了对流行文件系统的自动分区支持。
+查看有关 AlternativeTo 的文章更多信息KaOS | KaOS 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/kaos-iso-drops-systemd-boot-for-limine-ships-niri-noctalia-desktop/</guid>
+      <pubDate>Sat, 04 Apr 2026 17:53:21 GMT</pubDate>
+    </item>
     <item>
       <title>Wine 11.6 恢复了 Android 驱动程序、改进了 DLL 修改并提高了 VBScript 兼容性</title>
       <link>https://alternativeto.net/news/2026/4/wine-11-6-revives-android-driver-refines-dll-modding-and-improves-vbscript-compatibility/</link>
@@ -123,39 +150,6 @@ Volatile 存储库也已过渡到 CDN 交付，为打包者提供更快的访问
 查看有关 AlternativeTo 的文章更多信息Plex | Plex 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/4/plex-introduces-lists-to-create-organize-and-share-movies-and-tv-shows-with-friends/</guid>
       <pubDate>Thu, 02 Apr 2026 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Netrunner 26 发布，搭载 Linux 6.16 内核、Debian 13 base、XLibre 和 KDE Plasma 6.3.6</title>
-      <link>https://alternativeto.net/news/2026/4/netrunner-26-launches-with-linux-6-16-kernel-debian-13-base-xlibre-and-kde-plasma-6-3-6/</link>
-      <description><![CDATA[Netrunner 26“Twilights”是这款基于 Debian 的 Linux 发行版的最新版本，适用于台式机、笔记本电脑、上网本和 ARM 设备。它现在基于 Debian Stable 13“Trixie”构建，与之前的版本相比，它引入了系统现代化、改进的稳定性和安全性增强功能。这一基础确保用户可以获得最新的安全更新和稳定的软件。
-在此基础上，Netrunner 26 采用 Linux 6.16 内核，为新的和现有的 AMD 和 Intel GPU、声音和无线组件提供增强的硬件兼容性。 KDE Plasma 6.3.6 现在是旗舰桌面环境，并附带 KDE Frameworks 6.13.0，为桌面体验带来了全新的设计和工作流程改进。
-在这些核心更新之后，Netrunner 26 引入了 XLibre Xserver 并将音频处理转移到 PipeWire 和 WirePlumber。统一的 Netrunner 软件包简化了系统升级，并使高级用户和新手都更容易进行维护。该发行版还附带了几个更新的 Netrunner 专用工具，包括 Samba-mounter、Artwork 和 about-extend 设置模块。 Stacher7 为 yt-dlp 媒体下载器引入了图形工具，而 power-profiles-daemon 则带来了动态性能调整。
-其他新增内容包括 Firefox 和 LibreOffice、Qt 6.8.2、KDE 应用程序 25.04.3 以及 Firefox 140.7 ESR、LibreOffice 25.2.3、VLC 3.0.23、VirtualBox、Inkscape、GIMP、Thunderbird 和 Kdenlive 等关键开源应用程序的更新翻译。
-查看有关 AlternativeTo 的文章有关 Netrunner 的更多信息 | Netrunner 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/netrunner-26-launches-with-linux-6-16-kernel-debian-13-base-xlibre-and-kde-plasma-6-3-6/</guid>
-      <pubDate>Thu, 02 Apr 2026 13:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Canonical 将 Ubuntu 26.04 LTS 桌面最低 RAM 要求从 4 GB 提高到 6 GB</title>
-      <link>https://alternativeto.net/news/2026/4/canonical-raises-ubuntu-26-04-lts-desktop-minimum-ram-requirement-from-4-gb-to-6-gb/</link>
-      <description><![CDATA[Ubuntu 26.04 LTS（代号为“Resolute Raccoon”）引入了更高的系统内存基准：Canonical 现在将 6 GB RAM 作为其旗舰 Linux 发行版的最低要求。这是多年来 RAM 基准的首次重大转变，早期版本（例如 Ubuntu 24.04 LTS 和 25.10）仅需要 4 GB。除了这一变化之外，官方硬件规格现在还要求安装 Ubuntu Desktop 26.04 LTS 需要 2 GHz 双核处理器和 25 GB 可用磁盘空间。
-尽管有所增加，但在 RAM 小于 6 GB 的电脑上仍然可以安装。但是，如果用户的硬件未达到这些建议，则用户应该预期响应能力会降低并且优化体验较差。虽然桌面要求更加苛刻，但 Ubuntu Server 仍然更加灵活；其文档至少为 ISO 安装保留 1.5 GB，并建议为实际工作负载保留 3 GB。
-对于关心硬件兼容性或运行旧电脑的用户，可以选择几个轻量级 Linux 发行版，例如 Lubuntu、Xubuntu、Ubuntu Mate、Linux Mint、Linux Lite、Bodhi Linux 和 Puppy Linux，继续提供比主要 Ubuntu 版本更低的系统要求。
-查看有关 AlternativeTo 的文章更多信息Ubuntu | Ubuntu 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/canonical-raises-ubuntu-26-04-lts-desktop-minimum-ram-requirement-from-4-gb-to-6-gb/</guid>
-      <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jami“Euclid”带来了改进的 UI、改进的可访问性、更好的 RTL 支持等等</title>
-      <link>https://alternativeto.net/news/2026/4/jami-euclid-brings-revamped-ui-improved-accessibility-better-rtl-support-and-more/</link>
-      <description><![CDATA[Jami 最新的“Euclid”更新已发布，引入了带有圆角的全新用户界面、重新设计的 Jami ID 徽标以及更简单的帐户管理。在此基础上，对话视图具有统一的消息和联系栏、与对话主题相匹配的背景颜色以及切换聊天时平滑的颜色过渡。
-重新设计后，群组对话管理（称为群）受益于使用网格布局和视觉标记的新详细信息窗格：管理员的金色王冠、等待受邀者的信封图标以及已从群组中删除的用户的阻止图标。
-对于 SIP（会话启动协议）用户，添加了一个新的键盘，以便更轻松地输入联系人信息，现在可以在搜索栏旁边访问电话面板。虽然这些功能针对特定的用户组，但它们直接提高了 SIP 的可用性。
-扩展了语言支持，此更新增强了从右到左 (RTL) 语言用户的应用体验，包括阿拉伯语、波斯语和希伯来语。辅助功能也得到了改进，因为 UI 组件现在具有改进的屏幕阅读器角色和描述，并且导航错误已得到解决。
-在幕后，Jami 现在依靠 Qt 6.10 和更新的 C++ 20 依赖项来确保更好的性能，而 macOS 用户则获得原生 Tahoe 集成以实现更流畅的设计均匀性。
-查看有关 AlternativeTo 的文章更多信息Jami | Jami 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/jami-euclid-brings-revamped-ui-improved-accessibility-better-rtl-support-and-more/</guid>
-      <pubDate>Thu, 02 Apr 2026 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
