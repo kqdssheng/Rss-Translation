@@ -4,7 +4,18 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sun, 05 Apr 2026 02:29:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 12:57:27 GMT</lastBuildDate>
+    <item>
+      <title>Cursor 3 推出统一的多存储库工作区，用于使用 AI 代理构建软件</title>
+      <link>https://alternativeto.net/news/2026/4/cursor-3-launches-unified-multi-repo-workspace-for-building-software-with-ai-agents/</link>
+      <description><![CDATA[Cursor 3 是最新版本的 AI 原生开发环境，提供了一个统一的工作空间，旨在使用 AI 代理构建软件。新的多存储库界面使人员和代理能够跨不同存储库进行协作，提供更清晰、更高层次的项目进度视图，并根据需要快速访问详细信息。
+该平台现在允许用户在云和本地环境之间平滑地移动代理会话。开发人员可以在本地编辑和测试或将会话传输到云端以继续运行任务或释放自己的资源。为了支持这种灵活性，所有本地和云代理，甚至是从 Slack、GitHub 或 Linear 等工具启动的代理，现在都显示在合并的侧边栏中，以便于管理。
+在这些工作流程改进之后，云代理提供了演示和屏幕截图作为其输出的一部分，现在直接集成到桌面应用程序中以进行即时验证。 Cursor 3 还具有更新的差异视图，允许用户通过简化的界面查看代码更改、阶段编辑、提交更新以及管理拉取请求。
+对于那些在 IDE 中工作的人来说，Cursor 保留了“转到定义”和语言服务器协议 (LSP) 支持等功能，并包含一个用于与本地网站交互的 Web 浏览器。开发人员可以通过数百个可用插件进一步扩展代理功能，添加技能、MCP 和子代理以适应不同的工作流程。
+查看有关 AlternativeTo 的文章更多信息光标 | 光标替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/cursor-3-launches-unified-multi-repo-workspace-for-building-software-with-ai-agents/</guid>
+      <pubDate>Sun, 05 Apr 2026 10:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Visual Studio Code 1.114 添加了轮播视频、语义代码搜索和 TypeScript 6.0</title>
       <link>https://alternativeto.net/news/2026/4/visual-studio-code-1-114-adds-video-in-carousel-semantic-code-search-and-typescript-6-0/</link>
@@ -140,16 +151,6 @@ Volatile 存储库也已过渡到 CDN 交付，为打包者提供更快的访问
 查看有关 AlternativeTo 的文章更多信息Qwen | Qwen 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/4/alibaba-cloud-launches-qwen3-6-plus-with-upgraded-multimodal-and-agentic-coding-capabilities/</guid>
       <pubDate>Fri, 03 Apr 2026 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Plex 推出了用于创建、组织和与朋友分享电影和电视节目的列表</title>
-      <link>https://alternativeto.net/news/2026/4/plex-introduces-lists-to-create-organize-and-share-movies-and-tv-shows-with-friends/</link>
-      <description><![CDATA[Plex 推出了新的列表功能，允许用户在平台上创建、管理和共享任何游戏的个性化列表。此功能支持电影、电视节目和剧集的组织，让用户可以将所有类型的内容纳入单个策划视图中。现在可以在 watch.plex、移动设备和 Roku 设备上访问列表，从而实现跨关键平台的内容管理。
-通过此更新，用户可以从头开始创建新列表、搜索和添加媒体、重命名列表、重新排序或删除项目，甚至复制或编辑其他人的公共列表。其中包括共享选项，为协作或建议提供了灵活性。在这些可用性增强之后，Plex 通过为每个列表提供精细的可见性设置来确保对隐私的控制。用户可以将各个列表设置为公开、仅限朋友或朋友的朋友、登录的任何人都可见，或者将其设为私有。
-虽然这些核心功能构成了最初的发布，但 Plex 概述了未来的开发计划，例如允许与好友列表进行更多交互，以及简化通过内联搜索添加内容的过程。这些持续改进旨在进一步扩展 Plex 上列表创建的实用性和社区方面。
-查看有关 AlternativeTo 的文章更多信息Plex | Plex 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/plex-introduces-lists-to-create-organize-and-share-movies-and-tv-shows-with-friends/</guid>
-      <pubDate>Thu, 02 Apr 2026 15:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
