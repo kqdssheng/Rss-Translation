@@ -4,7 +4,7 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Mon, 06 Apr 2026 02:31:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 13:11:27 GMT</lastBuildDate>
     <item>
       <title>Cursor 3 推出统一的多存储库工作区，用于使用 AI 代理构建软件</title>
       <link>https://alternativeto.net/news/2026/4/cursor-3-launches-unified-multi-repo-workspace-for-building-software-with-ai-agents/</link>
@@ -70,7 +70,7 @@
       <description><![CDATA[AI 视频和图像生成初创公司 Pika Labs 为 AI 代理推出了实时视频聊天，允许通过其“Pika AI Self”与 AI 化身进行实时面对面对话。概念（基本上是人工智能以不同的视觉风格生成的你自己的版本）。用户已经可以通过邀请 Pika AI Self 加入 Google Meet 通话来尝试一下。虽然该功能目前与 Pika 自己的产品相关，但该公司还发布了GitHub Skill，以便开发人员也可以连接其他代理。
 该更新由 PikaStream1.0 提供支持，Pika 将其描述为一个实时视觉引擎，专为实时通话中身份一致的说话化身而构建。该公司表示，它可以在单个 H100 GPU 上以每秒 24 帧的速度传输视频，延迟约为 1.5 秒，这标志着与仍然需要较长延迟的传统 AI 视频系统的明显转变。 Pika 还表示，该系统可以保留内存和对话上下文，同时允许用户在会话期间更改身份数据，而无需重新启动流。
 该公司还表示，它在包含约 1000 万个预训练剪辑和 200 万个监督剪辑的大型过滤数据集上训练了模型，同时使用并行音频和视频管道，因此一旦音频输入可用，就可以开始生成。
-查看有关 AlternativeTo 的文章有关 Pika 的更多信息实验室 | Pika 实验室替代方案]]></description>
+查看有关 AlternativeTo 的文章有关 Pika 的更多信息实验室 | Pika 实验室替代品]]></description>
       <guid>https://alternativeto.net/news/2026/4/pika-labs-launches-real-time-video-chat-with-an-ai-avatar-version-of-yourself-in-meetings/</guid>
       <pubDate>Fri, 03 Apr 2026 23:18:17 GMT</pubDate>
     </item>
