@@ -4,7 +4,47 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Mon, 06 Apr 2026 13:11:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 02:26:37 GMT</lastBuildDate>
+    <item>
+      <title>Claude Code 源代码意外泄露，泄露了未宣布的功能等</title>
+      <link>https://alternativeto.net/news/2026/4/claude-code-source-code-was-accidentally-leaked-revealing-unannounced-features-and-more/</link>
+      <description><![CDATA[上周初，有消息称，Anthropic 在发布 NPM 包版本 2.1.88 和公开的源映射后，意外泄露了其 Claude Code 命令行界面的完整源代码。这使得大部分 TypeScript 代码库得以重建，覆盖大约 2,000 个文件和超过 512,000 行。此次泄露并未涉及 Claude 的底层 AI 模型或私人用户数据，但在安全研究员 Chaofan Shou 标记此事后，通过一个镜像 GitHub 存储库迅速传播超过 100,000 个叉子。
+Anthropic 将该事件描述为人为错误导致的版本打包错误，而不是有针对性的违规行为，并表示正在引入保护措施以避免未来版本中出现类似问题。即便如此，安全分析师警告说，公开访问内部代码可以让研究弱点、寻找漏洞利用或找到绕过 Claude Code 某些防护栏的方法变得更加容易。此次泄露还让人们更清楚地了解了 Anthropic 的架构、开发重点和产品方向。
+开发人员在审查代码时发现了对多个实验性功能的引用，包括 Kairos（具有主动建议的持久后台 AI 代理）、AutoDream（用于跨会话组织用户上下文的记忆系统）、用于较长计划任务的 UltraPlan、用于口语的语音模式交互、远程会话的桥接模式和 Undercover 模式，这是一种显然是为未归因贡献而设计的 AI 代理设置。该代码还指向 Buddy，一个与界面绑定的 ASCII 宠物式伴侣，以及一个协调器工具，旨在协调多个工作人员之间的软件工程任务。
+查看有关 AlternativeTo 的文章有关 Claude 的更多信息代码 | Claude 代码替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/4/claude-code-source-code-was-accidentally-leaked-revealing-unannounced-features-and-more/</guid>
+      <pubDate>Mon, 06 Apr 2026 21:29:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌发布具有 Apache 2.0 许可证的 Gemma 4 开放权重 AI 模型</title>
+      <link>https://alternativeto.net/news/2026/4/google-releases-gemma-4-open-weight-ai-models-with-apache-2-0-license/</link>
+      <description><![CDATA[Google 发布了 Gemma 4，这是一个基于 Gemini 3 技术的开放权重 AI 模型系列。该产品线包括四种变体：用于智能手机等边缘设备的20亿和40亿参数模型，以及用于更强大硬件的260亿个专家混合模型和310亿个密集模型。
+Gemma 4 还专为多模式任务而设计。所有型号都支持光学字符识别等用例的图像和视频输入，而较小的版本还可以处理音频输入和语音理解。谷歌表示，这些模型接受了 140 多种语言的训练，为这个家庭提供了广泛的多语言支持。
+谷歌还声称，Gemma 4 相对于其尺寸而言具有强大的性能，并指出其两个最大的模型最近在 Arena AI 的文本排行榜上排名第三和第六，同时性能优于更大的系统。这些模型还可以离线生成代码，Google 现在根据 Apache 2.0 许可证（而不是之前的自定义许可证）发布它们，从而为开发人员提供了更多修改和部署它们的自由。
+查看有关 AlternativeTo 的文章有关 Google 的更多信息Gemma | Google Gemma 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/google-releases-gemma-4-open-weight-ai-models-with-apache-2-0-license/</guid>
+      <pubDate>Mon, 06 Apr 2026 21:02:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>三星正式停止其原生消息应用程序，转而使用 Google Messages</title>
+      <link>https://alternativeto.net/news/2026/4/samsung-is-officially-discontinuing-its-native-messages-app-in-favor-of-google-messages/</link>
+      <description><![CDATA[三星宣布将于 7 月停止使用 Samsung Messages 应用程序，结束其作为 Galaxy 用户的消息传递选项。该公司发布了正式的服务终止通知，并鼓励用户改用 Google Messages 作为默认应用。部分用户可能还会收到应用内提示以帮助进行转换，而三星建议从 Play 商店下载 Google Messages（如果尚未安装）。
+此举让用户可以使用由 Gemini 提供支持的 Google Messages 功能，包括 AI 回复建议和实验性 Remix用于在聊天中生成图像的工具。它还扩展了 RCS 支持，带来了更高质量的媒体共享、群聊和实时打字指示器等功能，特别是针对美国用户。
+Galaxy 26 型号和一些较新的设备已经无法再下载 Samsung Messages，7 月份的截止日期将把该功能扩展到所有设备。三星表示，使用 Android 11 或更早版本的用户不会受到影响。一些 Samsung Messages 自定义选项可能会在切换时丢失，用户可以检查应用程序本身以获取确切的关闭日期。三星尚未确认同样的部署是否适用于全球，但这当然是最有可能的情况。
+查看有关 AlternativeTo 的文章有关三星的更多信息消息 | 三星消息替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/4/samsung-is-officially-discontinuing-its-native-messages-app-in-favor-of-google-messages/</guid>
+      <pubDate>Mon, 06 Apr 2026 18:03:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anthropic 终止了 Claude 对 OpenClaw 等第三方工具的免费访问</title>
+      <link>https://alternativeto.net/news/2026/4/anthropic-ends-free-claude-access-for-third-party-tools-like-openclaw/</link>
+      <description><![CDATA[Anthropic 已结束通过 OpenClaw 等第三方工具免费访问 Claude Code，这意味着标准 Claude 订阅不再涵盖这些集成。自美国东部时间 4 月 4 日下午 3 点起，通过第三方应用访问 Claude 的用户必须购买使用捆绑包或使用自己的 Claude API 密钥。
+Anthropic 的 Claude Code 负责人 Boris Cherny 表示这一变化与工程和容量限制有关。他解释说，Claude 订阅并不是针对第三方工具中常见的使用模式而构建的，Anthropic 现在优先考虑直接使用自己的产品和 API 的客户。
+受影响的主要应用程序之一是OpenClaw，这是最近流行的用于个人工作流程自动化的免费开源人工智能助手。仍然希望通过 OpenClaw 使用 Claude 的用户现在需要付费使用包或 Claude API 密钥。否则，他们将不得不切换到其他可用模型，例如 ChatGPT、Google Gemini、xAI、困惑，或DeepSeek。还值得注意的是，Anthropic 为类似的任务自动化提供了自己的助手，名为 Claude Cowork，因此可以合理地假设这一举措也是为了引导用户使用自己的平台。
+查看有关 AlternativeTo 的文章有关 Claude 的更多信息代码 | Claude 代码替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/4/anthropic-ends-free-claude-access-for-third-party-tools-like-openclaw/</guid>
+      <pubDate>Mon, 06 Apr 2026 17:34:29 GMT</pubDate>
+    </item>
     <item>
       <title>Cursor 3 推出统一的多存储库工作区，用于使用 AI 代理构建软件</title>
       <link>https://alternativeto.net/news/2026/4/cursor-3-launches-unified-multi-repo-workspace-for-building-software-with-ai-agents/</link>
@@ -110,47 +150,6 @@ Volatile 存储库也已过渡到 CDN 交付，为打包者提供更快的访问
 查看有关 AlternativeTo 的文章有关 Google 的更多信息Veo | Google Veo 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/4/google-launches-veo-3-1-lite-a-low-cost-video-model-for-developers/</guid>
       <pubDate>Fri, 03 Apr 2026 16:27:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 语音模式现已在 Apple CarPlay 上提供</title>
-      <link>https://alternativeto.net/news/2026/4/chatgpt-voice-mode-is-now-available-on-apple-carplay/</link>
-      <description><![CDATA[OpenAI 在 Apple CarPlay 中启用了 ChatGPT  语音模式，让用户可以直接从汽车仪表板与 ChatGPT 对话。要使用它，您需要一部运行最新版本 iOS 和 ChatGPT 应用程序的 iPhone，以及兼容 CarPlay 的车辆。从那里，您可以在 CarPlay 中打开 ChatGPT 并开始新的语音聊天。
-启动后，CarPlay 版本会显示一个简单的界面，其中包含收听指示器和用于静音或结束对话的控件。用户还可以访问最近和固定的聊天记录，但返回之前的对话仍然需要手动打开应用程序并从屏幕上选择它，具有讽刺意味的是，如果你问我的话，这会在驾驶时造成小小的干扰。
-值得注意的是，这与 Siri 的内置汽车集成并不完全可比，因为 Apple 的安全限制将 CarPlay 中的 ChatGPT 仅限于语音对话，并且也不支持唤醒词，这意味着每个会话都必须手动启动。 ChatGPT 应用程序也无法真正控制汽车功能、音乐播放或 iPhone 设置，因此将其视为对话工具而不是成熟的汽车助手更为安全。为此，无论好坏，您仍然需要使用 Siri。
-查看有关 AlternativeTo 的文章有关 ChatGPT 的更多信息 | ChatGPT 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/4/chatgpt-voice-mode-is-now-available-on-apple-carplay/</guid>
-      <pubDate>Fri, 03 Apr 2026 15:32:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Waterfox 将集成 Brave adblock 引擎，默认启用搜索广告</title>
-      <link>https://alternativeto.net/news/2026/4/waterfox-to-integrate-brave-adblock-engine-with-search-ads-enabled-by-default/</link>
-      <description><![CDATA[Waterfox 将Brave 的开源广告拦截引擎直接集成到浏览器中，取代对基于扩展的拦截器的依赖，正如在纪念该项目 15 周年的博客文章中宣布的。在这篇文章中，创建者 Alex Kontos 还回顾了 Waterfox 的起源，他于 2011 年 16 岁时开始开发 64 位 Firefox，后来发展成为每月拥有约 100 万活跃用户的浏览器，以及 Bing 终止第三方搜索协议后独立浏览器现在面临的更严峻的财务环境。
-新的内置拦截器将使用 Brave 的 adblock 库，并在 Waterfox 的主浏览器进程中运行，而不是作为扩展程序运行。 Kontos 表示，这将使广告拦截速度更快、集成更紧密，并且更少依赖扩展 API 或不断的上游更新。他还表示，选择 Brave 的库的部分原因是其 MPL 2.0 许可证更适合 Waterfox，而由于其 GPLv3 许可证，与 uBlock Origin 等拦截器的更深层次集成会更加复杂。
-默认情况下，Waterfox 仍会例外，允许在其默认搜索合作伙伴页面（目前为 Startpage）上投放文字广告，作为为浏览器提供经济支持的一种方式。该团队澄清说，这是 Waterfox 自己的收入决定，而不是继承自 Brave 的广告拦截技术。想要更严格屏蔽的用户将能够通过单一设置禁用所有广告，而已经使用第三方屏蔽器的用户可以继续照常使用它们。
-查看有关 AlternativeTo 的文章更多信息Waterfox | Waterfox 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/waterfox-to-integrate-brave-adblock-engine-with-search-ads-enabled-by-default/</guid>
-      <pubDate>Fri, 03 Apr 2026 15:11:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>模糊文件查找器 Cling 2.0 首次亮相，带有重写的搜索引擎、新的过滤器和 CLI 工具</title>
-      <link>https://alternativeto.net/news/2026/4/fuzzy-file-finder-cling-2-0-debuts-with-rewritten-search-engine-new-filters-and-cli-tools/</link>
-      <description><![CDATA[Cling 2.0 已发布，作为该 macOS 实用程序的最新版本，用于即时模糊文件搜索。其搜索引擎已完全重建，可在本机运行，不再依赖外部工具。新的特定于文件路径的模糊搜索索引可提供比以前的方法更相关的结果，并在不到 100 毫秒的时间内搜索数百万个文件。利用所有可用的 CPU 内核和单指令、多数据 (SIMD) 加速，Cling 现在可以在启动时立即加载持久的二进制索引。
-基于这些核心变化，实时文件系统跟踪变得更快、更可靠。用户会注意到改进的快速过滤器支持新字段，例如按 .pdf 和 .docx 扩展名过滤、仅搜索文件夹以及自动查询修改。此外，扩展查询使得可以直接从输入字段按关键字和文件类型进行搜索。
-在这些升级之后，用户现在可以使用箭头键导航搜索历史记录并利用基于选项卡的自动完成功能。最近更改的文件在打开 Cling 时立即可见，并且提供文件系统和索引更改的实时列表。其他选项包括用于终端搜索的命令行界面、用于将文件移动到 Yoink 等应用程序的热键集成、带有替代选项的新可选 Liquid Glass 主题、跟踪最近操作中涉及的文件以及对脚本执行的扩展控制。
-查看有关 AlternativeTo 的文章有关 Cling 的更多信息模糊查找器 | Cling 模糊查找器替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/fuzzy-file-finder-cling-2-0-debuts-with-rewritten-search-engine-new-filters-and-cli-tools/</guid>
-      <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿里云推出Qwen3.6-Plus，升级多模态和代理编码能力</title>
-      <link>https://alternativeto.net/news/2026/4/alibaba-cloud-launches-qwen3-6-plus-with-upgraded-multimodal-and-agentic-coding-capabilities/</link>
-      <description><![CDATA[阿里云发布Qwen3.6-Plus，建立了代理驱动编码和多模态人工智能的新标准。 Qwen3.6-Plus 以早期 Qwen3.5 版本为基础，在代理编码方面进行了升级，为一般任务和专门任务提供了更准确的代码生成和高级推理。
-该模型引入了编码代理、通用人工智能代理和工具使用方面的全面改进。这些进步是通过紧密集成推理、内存和执行功能来实现的，从而为各种工程工作流程提供可靠的性能。对于软件开发人员来说，Qwen3.6-Plus在代码修复方面紧密匹配主要行业基准，同时在复杂的终端操作和自动化任务执行方面也表现出色。
-继编码方面的这些增强之后，Qwen3.6-Plus 在通用代理场景中展示了长期规划和工具调用方面的领先地位。该模型在从具有挑战性的科学、技术、工程和数学（STEM）推理到从超长上下文中精确提取信息以及对多语言环境的强大适应等评估方面均取得了新的记录。
-此外，Qwen3.6-Plus 还提升了其多模式功能，增强了推理和任务执行，具有广泛的适用性。该解决方案现已通过阿里云模型工作室 API 全面开放，无缝集成支持第三方编码助手，例如 OpenClaw、Claude Code、Qwen代码、OpenCode、Kilo 代码和Cline。
-查看有关 AlternativeTo 的文章更多信息Qwen | Qwen 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/alibaba-cloud-launches-qwen3-6-plus-with-upgraded-multimodal-and-agentic-coding-capabilities/</guid>
-      <pubDate>Fri, 03 Apr 2026 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
