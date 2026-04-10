@@ -4,7 +4,21 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 09 Apr 2026 13:28:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 02:32:59 GMT</lastBuildDate>
+    <item>
+      <title>盒</title>
+      <link>https://www.producthunt.com/products/rudel</link>
+      <description><![CDATA[
+            面向开发团队的 Claude Code 和 Codex 会话分析
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/rudel</guid>
+      <pubDate>Thu, 09 Apr 2026 06:56:36 GMT</pubDate>
+    </item>
     <item>
       <title>初创公司.RIP</title>
       <link>https://www.producthunt.com/products/startups-rip</link>
@@ -18,20 +32,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/startups-rip</guid>
       <pubDate>Thu, 09 Apr 2026 06:52:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>保镖</title>
-      <link>https://www.producthunt.com/products/imbue-7</link>
-      <description><![CDATA[
-            过滤（并修复）你的 Twitter feed
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/imbue-7</guid>
-      <pubDate>Thu, 09 Apr 2026 05:21:45 GMT</pubDate>
     </item>
     <item>
       <title>屏幕流畅</title>
@@ -48,18 +48,46 @@
       <pubDate>Thu, 09 Apr 2026 04:24:41 GMT</pubDate>
     </item>
     <item>
-      <title>转换与否</title>
-      <link>https://www.producthunt.com/products/convert-or-not</link>
+      <title>克劳德管理代理</title>
+      <link>https://www.producthunt.com/products/claude</link>
       <description><![CDATA[
-            模拟首次使用的用户。看看他们为什么会放弃
+            在托管基础设施上预构建代理工具
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/convert-or-not</guid>
-      <pubDate>Wed, 08 Apr 2026 23:28:32 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/claude</guid>
+      <pubDate>Thu, 09 Apr 2026 02:54:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>西里斯</title>
+      <link>https://www.producthunt.com/products/cyris</link>
+      <description><![CDATA[
+            将每个人工智能决策转化为可供审计的证据
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/cyris</guid>
+      <pubDate>Wed, 08 Apr 2026 23:33:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>库齐奥</title>
+      <link>https://www.producthunt.com/products/cutsio</link>
+      <description><![CDATA[
+            您的整个视频库现在可由 AI 搜索和编辑
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/cutsio</guid>
+      <pubDate>Wed, 08 Apr 2026 19:34:57 GMT</pubDate>
     </item>
     <item>
       <title>猛禽CI</title>
@@ -76,34 +104,6 @@
       <pubDate>Wed, 08 Apr 2026 17:10:30 GMT</pubDate>
     </item>
     <item>
-      <title>橡皮鸭</title>
-      <link>https://www.producthunt.com/products/github-copilot</link>
-      <description><![CDATA[
-            GitHub Copilot CLI 中的跨模型评论
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/github-copilot</guid>
-      <pubDate>Wed, 08 Apr 2026 14:13:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>在线工作</title>
-      <link>https://www.producthunt.com/products/onform-work</link>
-      <description><![CDATA[
-            与 Claude 一起构建表单
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/onform-work</guid>
-      <pubDate>Wed, 08 Apr 2026 12:51:17 GMT</pubDate>
-    </item>
-    <item>
       <title>步枪</title>
       <link>https://www.producthunt.com/products/riffle-2</link>
       <description><![CDATA[
@@ -118,102 +118,102 @@
       <pubDate>Wed, 08 Apr 2026 12:50:27 GMT</pubDate>
     </item>
     <item>
-      <title>观察者</title>
-      <link>https://www.producthunt.com/products/observer-by-qapilot</link>
+      <title>Lukan AI Agent、IDE 和工作站。</title>
+      <link>https://www.producthunt.com/products/lukan-ai-agent-ide-and-workstation</link>
       <description><![CDATA[
-            IDE 内的实时日志可在无需上下文切换的情况下进行调试
+            用于编码、操作和生活的开源 AI 工作站
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/observer-by-qapilot</guid>
-      <pubDate>Wed, 08 Apr 2026 11:55:54 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/lukan-ai-agent-ide-and-workstation</guid>
+      <pubDate>Wed, 08 Apr 2026 08:54:42 GMT</pubDate>
     </item>
     <item>
-      <title>Ycode开源</title>
-      <link>https://www.producthunt.com/products/ycode</link>
+      <title>盖亚</title>
+      <link>https://www.producthunt.com/products/heygaia</link>
       <description><![CDATA[
-            Webflow 的开源替代方案
+            积极主动的私人助理，帮您处理一天的事务
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/ycode</guid>
-      <pubDate>Wed, 08 Apr 2026 07:15:15 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/heygaia</guid>
+      <pubDate>Tue, 07 Apr 2026 22:42:54 GMT</pubDate>
     </item>
     <item>
-      <title>鹅</title>
-      <link>https://www.producthunt.com/products/goose-2</link>
+      <title>正在做</title>
+      <link>https://www.producthunt.com/products/doing</link>
       <description><![CDATA[
-            GTM 团队的 AI 同事，拥有自己的计算机和内存
+            人工智能构建者的语音和视觉环境。没有订阅。
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/goose-2</guid>
-      <pubDate>Tue, 07 Apr 2026 18:02:52 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/doing</guid>
+      <pubDate>Tue, 07 Apr 2026 21:37:50 GMT</pubDate>
     </item>
     <item>
-      <title>梦书</title>
-      <link>https://www.producthunt.com/products/dreambooks</link>
+      <title>移动人工智能</title>
+      <link>https://www.producthunt.com/products/motn-ai</link>
       <description><![CDATA[
-            发现儿童书籍并一起跟踪阅读情况。
+            在一张画布上编写 Vibe 代码动态图形
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/dreambooks</guid>
-      <pubDate>Fri, 03 Apr 2026 05:10:59 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/motn-ai</guid>
+      <pubDate>Tue, 07 Apr 2026 20:34:24 GMT</pubDate>
     </item>
     <item>
-      <title>提醒操作系统</title>
-      <link>https://www.producthunt.com/products/reminderos</link>
+      <title>马尔科夫</title>
+      <link>https://www.producthunt.com/products/dmarkoff</link>
       <description><![CDATA[
-            与您同步的提醒
+            简化且全面的 DMARC 控制
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/reminderos</guid>
-      <pubDate>Wed, 01 Apr 2026 21:48:05 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/dmarkoff</guid>
+      <pubDate>Tue, 07 Apr 2026 10:45:57 GMT</pubDate>
     </item>
     <item>
-      <title>产品短片</title>
-      <link>https://www.producthunt.com/products/prodshort</link>
+      <title>运行图</title>
+      <link>https://www.producthunt.com/products/runmap</link>
       <description><![CDATA[
-            将会议变成可立即发布的短片和帖子
+            将您的 Strava 跑步变成一次世界地图冒险
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/prodshort</guid>
-      <pubDate>Thu, 19 Mar 2026 21:46:25 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/runmap</guid>
+      <pubDate>Mon, 30 Mar 2026 04:28:58 GMT</pubDate>
     </item>
     <item>
-      <title>代理邮件</title>
-      <link>https://www.producthunt.com/products/agentmail</link>
+      <title>明亮的</title>
+      <link>https://www.producthunt.com/products/brila-2</link>
       <description><![CDATA[
-            AI 代理的电子邮件收件箱 
+            来自真实 Google 地图评论的一页网站
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/agentmail</guid>
-      <pubDate>Wed, 18 Mar 2026 15:06:06 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/brila-2</guid>
+      <pubDate>Tue, 10 Mar 2026 18:54:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
