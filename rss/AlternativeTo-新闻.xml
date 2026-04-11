@@ -4,7 +4,18 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sat, 11 Apr 2026 02:12:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 12:57:58 GMT</lastBuildDate>
+    <item>
+      <title>SQLite 3.53 修复了 WAL 重置错误，添加了 QRF 库、新的 SQL 功能、改进的 CLI 等等</title>
+      <link>https://alternativeto.net/news/2026/4/sqlite-3-53-fixes-wal-reset-bug-adds-qrf-library-new-sql-features-improved-cli-and-more/</link>
+      <description><![CDATA[SQLite 3.53 已作为此免费开源关系数据库引擎的最新版本发布。此更新通过修复与预写日志记录 (WAL) 重置相关的长期存在的数据库损坏错误来解决关键的稳定性问题。此版本还添加了查询结果格式化程序库，允许用户格式化 SQL 查询输出，以便在固定间距字体屏幕上获得更好的可读性。
+在这些改进的基础上，此更新引入了多项 SQL 语言增强功能，包括 ALTER TABLE 中的新功能、REINDEX EXPRESSIONS 的扩展使用、额外的 TEMP 触发器 支持以及 VACUUM INTO 选项。两个新的 SQL 函数 json_array_insert() 和 jsonb_array_insert() 改进了数据库内 JSON 数据的处理。命令行界面得到了重大增强，例如 .mode 命令的扩展功能以及更好的结果集格式。
+In terms of developer tools and APIs, SQLite 3.53 provides new C-language interfaces, query planner updates, more granular control over session extension changes, and now supports improved conversions between floating-point numbers and text.虽然自我修复索引功能解决了过时的表达式索引问题以提高索引可靠性，但平台兼容性更改包括放弃对 Windows RT 的支持以及向 sqlite3_rsync 实用程序添加新的端口选项。
+对于 JavaScript 和 WebAssembly 应用程序，引入 opfs-wl 虚拟文件系统利用 Web Lock 实现更公平的锁定管理，需要现代浏览器支持 Atomics.waitAsync()。
+查看有关 AlternativeTo 的文章更多信息SQLite | SQLite 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/sqlite-3-53-fixes-wal-reset-bug-adds-qrf-library-new-sql-features-improved-cli-and-more/</guid>
+      <pubDate>Sat, 11 Apr 2026 10:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>CPUID 泄露后，HWMonitor 和 CPU-Z 用户通过虚假下载而暴露于恶意软件</title>
       <link>https://alternativeto.net/news/2026/4/hwmonitor-and-cpu-z-users-were-exposed-to-malware-through-fake-downloads-after-cpuid-breach/</link>
@@ -86,9 +97,9 @@
     <item>
       <title>Visual Studio Code 1.115 添加了代理应用程序和主要代理工具升级</title>
       <link>https://alternativeto.net/news/2026/4/visual-studio-code-1-115-adds-agents-app-and-major-agent-tools-upgrades/</link>
-      <description><![CDATA[Visual Studio Code 1.115 引入了用于代理本机开发的代理配套应用，支持并行会话并全面支持自定义。集成浏览器进行了一些改进，例如更好的工具标签、长时间运行脚本的延迟结果、减少选项卡重复以及 macOS 上的捏合缩放支持。 Terminal tools now let agents interact with background terminals and receive completion notifications.
-These updates continue to expand automation and workflow possibilities for agent-based development inside VS Code Insiders.
-查看有关 AlternativeTo 的文章有关 Visual Studio 的更多信息 Code | Visual Studio Code Alternatives]]></description>
+      <description><![CDATA[Visual Studio Code 1.115 引入了用于代理本机开发的代理配套应用，支持并行会话并全面支持自定义。集成浏览器进行了一些改进，例如更好的工具标签、长时间运行脚本的延迟结果、减少选项卡重复以及 macOS 上的捏合缩放支持。终端工具现在允许代理与后台终端交互并接收完成通知。
+这些更新继续扩展 VS Code Insiders 内基于代理的开发的自动化和工作流程可能性。
+查看有关 AlternativeTo 的文章有关 Visual Studio 的更多信息代码 | Visual Studio 代码替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/4/visual-studio-code-1-115-adds-agents-app-and-major-agent-tools-upgrades/</guid>
       <pubDate>Fri, 10 Apr 2026 14:53:31 GMT</pubDate>
     </item>
@@ -141,16 +152,6 @@ These updates continue to expand automation and workflow possibilities for agent
 查看有关 AlternativeTo 的文章更多信息Spotify | Spotify 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/4/spotify-introduces-video-controls-letting-you-turn-off-all-videos-on-the-platform/</guid>
       <pubDate>Fri, 10 Apr 2026 07:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 在更广泛的人工智能战略重置中与 Muse Spark 一起启动了新的 Muse AI 模型系列</title>
-      <link>https://alternativeto.net/news/2026/4/meta-starts-its-new-muse-ai-model-family-with-muse-spark-in-a-broader-ai-strategy-reset/</link>
-      <description><![CDATA[Meta 推出了一种名为 Muse Spark 的新轻量级 AI 模型，这是新 Muse 系列中的第一个版本，该公司将其定义为对其 AI 战略进行更广泛的重置。这种重置似乎反映了对 Llama 4 的反响不佳，转向由 Meta 的超级智能团队构建的新一代模型，更加强调实用的消费者功能，例如推理模式、多模态输入和基于代理的任务处理。目前，Meta 表示，在转向功能更强大的 Muse 模型之前，它的重点是先打好基础。
-该模型包括“即时”和“思考”模式，让用户可以在更快的回复和需要更多时间通过提示进行推理的响应之间进行选择。 Meta 还计划在未来推出一种针对更困难任务的思考模式，使用多个并行工作的人工智能代理。 Muse Spark 本身也是多模式的，支持文本、图像、视频和音频，因此用户可以执行诸如拍照并向 Meta AI 询问他们所看到的内容等操作。 Meta 表示，该模型将随着时间的推移不断改进，未来的 Muse 模型可能会开源，但目前情况并非如此。
-Muse Spark 目前仅在受支持的区域通过 Meta AI 应用程序和 meta.ai 网站提供（从美国开始）。该功能尚未在 Facebook、Instagram 或 WhatsApp 中提供，不过 Meta 表示计划在未来几周内扩大对这些平台和更多国家/地区的访问。
-查看有关 AlternativeTo 的文章有关 Meta 的更多信息人工智能 | 元人工智能替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/meta-starts-its-new-muse-ai-model-family-with-muse-spark-in-a-broader-ai-strategy-reset/</guid>
-      <pubDate>Fri, 10 Apr 2026 05:40:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
