@@ -4,7 +4,113 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Fri, 10 Apr 2026 13:10:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 02:12:00 GMT</lastBuildDate>
+    <item>
+      <title>CPUID 泄露后，HWMonitor 和 CPU-Z 用户通过虚假下载而暴露于恶意软件</title>
+      <link>https://alternativeto.net/news/2026/4/hwmonitor-and-cpu-z-users-were-exposed-to-malware-through-fake-downloads-after-cpuid-breach/</link>
+      <description><![CDATA[流行工具 HWMonitor 和 CPU-Z 背后的开发商 CPUID 因网站漏洞而受到攻击，使用户在大约六个小时内暴露于恶意软件，据 开发者分享的声明。在此期间，官方网站上 HWMonitor 和 CPU-Z 的下载链接指向木马安装程序，这些安装程序是从先前与供应链攻击相关的第三方域分发的。
+虽然受感染的安装程序主要针对浏览器凭据盗窃，特别是尝试访问和解密 Google Chrome 中保存的密码，但该恶意软件还使用高级规避技术进行操作，包括几乎完全在内存中运行并通过 .NET 代码代理低级功能，以规避端点检测和防病毒系统。发现后，CPUID 的开发人员澄清说，此次漏洞仅限于侧面应用程序编程接口，并且他们原始签名的安装程序没有被更改。
+一些用户描述通过Microsoft Defender立即检测到恶意安装程序，并注意到异常行为，例如俄语安装界面。该用户后来测试了备用下载 URL，发现某些链接似乎提供了合法的 hwmonitor_1.63.exe 文件，且未检测到恶意软件，这支持了 CPUID 的解释，即恶意链接是随机显示的，而不是一致地替换每个下载。此后，CPUID 已解决了该漏洞并继续进行内部调查，但鉴于暴露窗口短暂但流量较高，许多用户可能在漏洞得到解决之前就已经下载了受感染的文件。希望这不是你的情况。
+查看有关 AlternativeTo 的文章更多信息HWMonitor | HWMonitor 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/hwmonitor-and-cpu-z-users-were-exposed-to-malware-through-fake-downloads-after-cpuid-breach/</guid>
+      <pubDate>Fri, 10 Apr 2026 18:00:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gemini 引入交互式 3D 可视化和模型以进行更深入的主题探索</title>
+      <link>https://alternativeto.net/news/2026/4/gemini-introduces-interactive-3d-visualizations-and-models-for-deeper-topic-exploration/</link>
+      <description><![CDATA[Google 宣布对 Gemini 进行重大更新，允许用户直接从他们的问题和复杂主题生成交互式可视化。此升级超越了传统的文本答案和静态图表，根据提示提供功能模拟。例如，在探索科学概念时，用户不再局限于固定的视觉效果。
+基于这些增强功能，Gemini 现在允许用户操纵可视化中的元素。您可以通过移动滑块或输入精确的数字来旋转分子或调整物理模拟中的参数，例如初始速度和重力强度。此功能使用户能够实时查看变化如何影响结果，从而提供学习和探索的实践方法。
+交互式可视化功能正在全球范围内向所有 Gemini 应用程序用户推出。要体验这些模拟，用户应该在 Gemini 中选择 Pro 模型，并在请求说明性解释时使用“向我展示”或“帮助我可视化”等提示。这一新增功能可以在与复杂信息交互时提供更具吸引力和可定制的体验。
+查看有关 AlternativeTo 的文章有关 Google 的更多信息Gemini | Google Gemini 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/gemini-introduces-interactive-3d-visualizations-and-models-for-deeper-topic-exploration/</guid>
+      <pubDate>Fri, 10 Apr 2026 18:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GNU nano 9.0 添加了更智能的水平滚动、可重新绑定的按键和更好的鼠标导航</title>
+      <link>https://alternativeto.net/news/2026/4/gnu-nano-9-0-adds-smarter-horizontal-scrolling-rebindable-keys-and-better-mouse-navigation/</link>
+      <description><![CDATA[GNU nano 9.0“Le bonheur est dans le pré”已发布，引入了主要增强功能，重点是基于终端的文本编辑的导航和可用性。新的水平滚动方法现在通过将所有行一起横向移动来保持光标可见，仅根据需要进行调整。喜欢以前的单行滚动的用户仍然可以使用 --solosidescroll 标志或 set solosidescroll 选项恢复到它。
+基于这些导航改进，现在可以使用 M- 键盘快捷键以 tabsize 增量左右滚动视口。此更改简化了移动宽文件的过程，对于处理列中的代码或数据的用户特别有用。以前使用这些快捷方式切换缓冲区的人可以查阅 man nanorc 手册以获取指导。
+除了这些更改之外，nano 9.0 还使 M-Left、M-Right、M-Up 和 M-Down 导航键可重新绑定，从而增强了键盘自定义和辅助功能。对于通过 --mouse 和 --indicator 启用鼠标支持的用户，单击滚动条区域现在可以在缓冲区内快速导航。
+其他调整包括在录制快速停止时保护宏免遭意外覆盖，并确保功能切换不会中断剪切或复制操作链（M-K 从光标剪切功能除外）。
+查看有关 AlternativeTo 的文章有关 GNU 的更多信息nano | GNU nano 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/gnu-nano-9-0-adds-smarter-horizontal-scrolling-rebindable-keys-and-better-mouse-navigation/</guid>
+      <pubDate>Fri, 10 Apr 2026 16:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>快来算算吧！ 5.10 改进了因式分解并添加了新的单位和货币</title>
+      <link>https://alternativeto.net/news/2026/4/qalculate-5-10-improves-factorization-and-adds-new-units-and-currencies/</link>
+      <description><![CDATA[Qalculate! 5.10 版引入了各种数学表达式的增强分解和简化。此版本添加了新的单位、变量和贵金属货币，例如 XAG 和 XAU。
+此更新还改进了货币显示小数，并修复了多个错误以提高稳定性。
+查看有关 AlternativeTo 的文章更多信息计算！ | 计算！替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/4/qalculate-5-10-improves-factorization-and-adds-new-units-and-currencies/</guid>
+      <pubDate>Fri, 10 Apr 2026 15:28:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shopify AI 工具包推出用于代理集成和商店管理</title>
+      <link>https://alternativeto.net/news/2026/4/shopify-ai-toolkit-launches-for-agent-integration-and-store-management/</link>
+      <description><![CDATA[Shopify 发布了 Shopify AI 工具包，使开发者能够集成 AI 代理，例如 Claude Code、Codex、光标、VS Code 和 Gemini CLI 以及平台。该工具包允许使用 Shopify 文档、API 架构和代码验证构建应用程序，并支持通过 CLI 命令进行商店管理。
+设置可以通过插件完成，也可以使用技能或 MCP 手动完成。
+查看有关 AlternativeTo 的文章有关 Shopify 的更多信息| Shopify 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/4/shopify-ai-toolkit-launches-for-agent-integration-and-store-management/</guid>
+      <pubDate>Fri, 10 Apr 2026 15:21:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Calibre 9.7 为内容服务器和注释分组添加了离线模式</title>
+      <link>https://alternativeto.net/news/2026/4/calibre-9-7-adds-offline-mode-for-content-server-and-annotation-grouping/</link>
+      <description><![CDATA[Calibre 9.7 在使用 HTTPS 连接时为内容服务器引入了完全离线模式，无需互联网连接即可进行访问。该版本还推出了改进的注释浏览器，允许按任何字段对搜索结果进行分组。
+其他更新包括电子书查看器中的触摸板捏合缩放支持以及多个错误修复，特别是注释保存和内容服务器搜索错误。
+查看有关 AlternativeTo 的文章更多信息calibre | calibre 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/calibre-9-7-adds-offline-mode-for-content-server-and-annotation-grouping/</guid>
+      <pubDate>Fri, 10 Apr 2026 15:12:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Instagram 推出对 15 分钟内发布的评论进行编辑的功能</title>
+      <link>https://alternativeto.net/news/2026/4/instagram-introduces-editing-for-comments-posted-within-15-minutes/</link>
+      <description><![CDATA[Instagram 推出了一项新功能，允许用户在发布后 15 分钟内编辑自己的评论。已编辑的评论被标记为已修改，但以前的版本仍然隐藏。
+这解决了平台最常请求的功能之一。
+查看有关 AlternativeTo 的文章有关 Instagram 的更多信息 | Instagram 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/instagram-introduces-editing-for-comments-posted-within-15-minutes/</guid>
+      <pubDate>Fri, 10 Apr 2026 15:02:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软已终止 VeraCrypt、WireGuard 和 Windscribe 软件的开发者帐户</title>
+      <link>https://alternativeto.net/news/2026/4/microsoft-has-terminated-developer-accounts-of-veracrypt-wireguard-and-windscribe-software/</link>
+      <description><![CDATA[VeraCrypt，开源加密工具，在微软终止了用于签署其 Windows 驱动程序和引导加载程序的开发者帐户后，面临着重大障碍。该行动是在没有事先警告或解释的情况下进行的，微软与 Mounir Idrassi 的通讯表明无法上诉。此举阻止了任何更新的 Windows 版本的发布，直接影响了大多数依赖该操作系统的 VeraCrypt 用户。
+虽然 Linux 和 macOS 更新仍然是可能的，但无法提供 Windows 版本对该项目的用户群来说是一个重大挫折。此次终止还对 Idrassi 更广泛的工作职责和日常工作产生了影响，反映出其影响超出了 VeraCrypt 项目本身。
+据报道，开源安全社区中的其他开发人员，包括 WireGuard 和 Windscribe 背后的开发人员，也遇到了类似的 Microsoft 帐户终止问题，这表明影响该行业的更广泛问题。
+在最初的后果发生后，微软副总裁 Scott Hanselman 进行了干预，公开和私下伸出援手，帮助解决问题。 Hanselman 已将 Idrassi 与相关 Microsoft 团队联系起来，努力恢复帐户访问并恢复 VeraCrypt Windows 更新。 Hanselman 进一步表示帐户终止是由于相关开发者忽略（未收到？）验证电子邮件，导致了此问题。
+查看有关 AlternativeTo 的文章更多有关VeraCrypt | VeraCrypt 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/microsoft-has-terminated-developer-accounts-of-veracrypt-wireguard-and-windscribe-software/</guid>
+      <pubDate>Fri, 10 Apr 2026 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Visual Studio Code 1.115 添加了代理应用程序和主要代理工具升级</title>
+      <link>https://alternativeto.net/news/2026/4/visual-studio-code-1-115-adds-agents-app-and-major-agent-tools-upgrades/</link>
+      <description><![CDATA[Visual Studio Code 1.115 引入了用于代理本机开发的代理配套应用，支持并行会话并全面支持自定义。集成浏览器进行了一些改进，例如更好的工具标签、长时间运行脚本的延迟结果、减少选项卡重复以及 macOS 上的捏合缩放支持。 Terminal tools now let agents interact with background terminals and receive completion notifications.
+These updates continue to expand automation and workflow possibilities for agent-based development inside VS Code Insiders.
+查看有关 AlternativeTo 的文章有关 Visual Studio 的更多信息 Code | Visual Studio Code Alternatives]]></description>
+      <guid>https://alternativeto.net/news/2026/4/visual-studio-code-1-115-adds-agents-app-and-major-agent-tools-upgrades/</guid>
+      <pubDate>Fri, 10 Apr 2026 14:53:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zed Editor 推出 Agent Metrics，提供公共 AI 代理使用数据</title>
+      <link>https://alternativeto.net/news/2026/4/zed-editor-launches-agent-metrics-offering-public-ai-agent-usage-data/</link>
+      <description><![CDATA[Zed Editor 推出了 Agent Metrics，这是一个公共仪表板，每周提供编辑器内 AI 代理采用情况和响应时间的见解。用户可以分析会话计数、周转量和详细的延迟统计数据，并为 Zed 自己的代理提供模型级数据。
+值得注意的是，Claude Sonnet 的 p90 延迟在三周内增加了 44%，并且与 Zed 的本机代理相比，Claude Agent 显示出更深的会话参与度。
+查看有关 AlternativeTo 的文章有关 Zed 的更多信息编辑器 | Zed 编辑器替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/4/zed-editor-launches-agent-metrics-offering-public-ai-agent-usage-data/</guid>
+      <pubDate>Fri, 10 Apr 2026 14:41:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>OBS Studio 32.1 发布，带有经过彻底修改的音频混合器、WebRTC 同播支持等</title>
+      <link>https://alternativeto.net/news/2026/4/obs-studio-32-1-released-with-overhauled-audio-mixer-webrtc-simulcast-support-and-more/</link>
+      <description><![CDATA[OBS Studio 32.1 为创作者和主播带来了多项关键界面更新。音频混合器已经过重新设计，布局现在默认设置为垂直。用户可以使用新的工具栏按钮在水平和垂直视图之间切换，从而提供更大的灵活性。在这些布局更改之后，混音器添加了一个专用按钮来切换音频监控，并引入了固定音频源的功能，并且始终显示固定和全局源。
+为了更好的场景设置，现在使用工作室模式时会显示预览中的源。其他选项允许用户显示隐藏的源和当前场景中不存在的源，从而使复杂的场景管理变得更加容易。在这些增强功能的基础上，更新包括 WebRTC 同播支持，以扩展广播兼容性，并恢复场景项目缺失的撤消和重做操作，例如比例过滤、混合和去隔行设置。
+进一步的改进包括对 obs-websocket 的部分 Canvas 支持，以提高远程自动化、使用本地文件增强浏览器源的安全性，以及从插件管理器启用或禁用缺少的插件的能力。默认流媒体比特率也已更新为 6000 kbps，并进行了各种较小的增强和错误修复。
+查看有关 AlternativeTo 的文章更多信息OBS Studio | OBS Studio 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/4/obs-studio-32-1-released-with-overhauled-audio-mixer-webrtc-simulcast-support-and-more/</guid>
+      <pubDate>Fri, 10 Apr 2026 13:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Anthropic 推出 Claude Managed Agents 以加速 AI 代理的开发和部署</title>
       <link>https://alternativeto.net/news/2026/4/anthropic-launches-claude-managed-agents-to-accelerate-ai-agent-development-and-deployment/</link>
@@ -45,120 +151,6 @@ Muse Spark 目前仅在受支持的区域通过 Meta AI 应用程序和 meta.ai 
 查看有关 AlternativeTo 的文章有关 Meta 的更多信息人工智能 | 元人工智能替代品]]></description>
       <guid>https://alternativeto.net/news/2026/4/meta-starts-its-new-muse-ai-model-family-with-muse-spark-in-a-broader-ai-strategy-reset/</guid>
       <pubDate>Fri, 10 Apr 2026 05:40:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Amazon 推出 S3 Files 将 AWS 计算和 S3 与本机文件系统访问连接起来</title>
-      <link>https://alternativeto.net/news/2026/4/amazon-introduces-s3-files-to-bridge-aws-compute-and-s3-with-native-file-system-access/</link>
-      <description><![CDATA[Amazon 推出了 Amazon S3 Files，这是一种新的文件系统，使 AWS 计算资源能够直接将 Amazon Simple Storage Service (S3) 存储桶作为文件系统进行访问。此次发布消除了之前 S3 的耐用性和文件系统交互功能之间的权衡，将 S3 转变为适用于一系列 AWS 工作负载的集中式交互式数据中心。
-S3 文件允许无缝、同步的文件系统访问 S3 数据，自动反映文件系统和底层 S3 存储桶之间的更改。该功能可作为 Amazon Elastic Compute Cloud (EC2)、由 Elastic Container Service (ECS) 和  管理的容器上的本机安装使用href=&quot;https://alternativeto.net/software/amazon-elastic-kubernetes-service/about/&quot;&gt;Elastic Kubernetes Service (EKS)，以及 AWS Lambda 函数。文件系统访问使用标准网络文件系统 (NFS) 4.1 或更高版本的操作，包括创建、读取、修改和删除文件。
-在此集成的基础上，S3 Files 利用高性能存储为主动访问的数据提供大约一毫秒的延迟，并具有智能预取和细粒度的数据放置控制。对于大型顺序或字节范围读取，直接从 S3 获取数据，以最大限度地提高吞吐量并控制成本。
-这些后端功能支持并发访问和 NFS 接近开放的一致性，这对于代理人工智能工作流程和机器学习训练管道等协作、可变流程至关重要。
-查看有关 AlternativeTo 的文章有关 Amazon Simple Storage Service 的更多信息 | Amazon Simple Storage Service 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/4/amazon-introduces-s3-files-to-bridge-aws-compute-and-s3-with-native-file-system-access/</guid>
-      <pubDate>Thu, 09 Apr 2026 21:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Storybook 10.3 带来了 MCP for React、可访问性升级和扩展的 CSF 工厂</title>
-      <link>https://alternativeto.net/news/2026/4/storybook-10-3-brings-mcp-for-react-accessibility-upgrades-and-expanded-csf-factories/</link>
-      <description><![CDATA[Storybook 10.3 取得了重大进展，为 React 引入了模型组件协议 (MCP)。此功能允许 AI 代理与真实的界面组件、故事、文档和测试进行交互，从而允许代理构建可用于生产的用户界面、发现现有元素并在设计系统中重用它们。代理还可以在聊天中实时预览其组件故事，并运行目标组件或可访问性测试以加快迭代速度。
-基于最近的辅助功能计划，Storybook 10.3 大幅改进了 ARIA 语义、键盘导航和焦点管理、色彩对比度、高对比度支持、地标导航和运动减少。文档现在更好地符合 Web 内容可访问性指南 (WCAG)，并且可访问的调整大小手柄和缩放控件等可用性功能也得到了更新。
-继Storybook 10 及其 CSF Factories 发布之后，此更新进一步扩展了类型安全工作流程并改进了用于编写组件示例的自动完成功能。 CSF Factory 以前仅限于 React，现在支持 Vue、Angular 和 Web 组件，从而减少了更广泛的前端团队的样板文件。
-核心生态系统改进包括 Vite 8、Next.js 16.2，ESLint 10，Angular 21，并添加了对 Rsbuild 的 CLI 初始化支持和对 Preact 支持href=&quot;https://alternativeto.net/software/vitest/about/&quot;&gt;Vitest 插件。
-查看有关 AlternativeTo 的文章更多信息故事书 | 故事书替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/storybook-10-3-brings-mcp-for-react-accessibility-upgrades-and-expanded-csf-factories/</guid>
-      <pubDate>Thu, 09 Apr 2026 19:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Substack 添加了笔记安排、帖子模板、首字下沉、新的直播选项等</title>
-      <link>https://alternativeto.net/news/2026/4/substack-adds-note-scheduling-post-templates-drop-caps-new-livestream-options-and-more/</link>
-      <description><![CDATA[Substack 引入了一系列旨在改进发布工作流程和自定义的更新。用户现在可以安排笔记在 Web、iOS 和 Android 上的特定时间发布，从而为内容发布的时间安排提供更大的灵活性。对于长篇作家，该平台现在允许直接在编辑器中创建和重用帖子模板；此功能对于重复出现的结构元素（例如号召性用语、免责声明和代码块）非常有用。
-扩展了视频内容，Substack Live 现在允许贡献者和管理员为其他创作者安排直播、指定要播放的出版物，以及在安排后更新标题、时间、主持人和通知设置等直播详细信息。贡献者、管理员、所有者和主持人对流密钥的访问也得到了简化。
-继这些工作流程增强之后，Substack 添加了新的视觉自定义选项。发布商可以在网站编辑器中启用首字下沉，以风格化帖子的开头字母。订阅块现在支持针对不同会员类型的自定义颜色、徽标和单独定制的消息。此外，标注块允许作者将关键文本分隔在帖子内的独特容器中。最后，提要中的“显示较少”控件现在更加明显且更易于使用。
-查看有关 AlternativeTo 的文章更多信息子堆栈 | 子堆栈替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/4/substack-adds-note-scheduling-post-templates-drop-caps-new-livestream-options-and-more/</guid>
-      <pubDate>Thu, 09 Apr 2026 18:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊将于 2026 年 5 月切断对旧版 Kindle 设备的支持和 Kindle 商店访问</title>
-      <link>https://alternativeto.net/news/2026/4/amazon-will-cut-off-support-and-kindle-store-access-for-older-kindle-devices-in-may-2026/</link>
-      <description><![CDATA[亚马逊宣布，自 2026 年 5 月 20 日起，2012 年或更早发布的 Kindle 电子阅读器和 Kindle Fire 平板电脑将无法访问 Kindle 商店。此更改意味着用户将无法在这些旧设备上购买、借用或下载新内容。虽然这会影响从 2007 年原始键盘型号到第一代 Kindle Paperwhite 以及 2011 年和 2012 年早期 Kindle Fire 平板电脑发布的所有 Kindle 型号，但用户可以继续阅读他们已经下载的内容。
-在此更新之后，如果用户在截止日期之后取消注册或将受影响的设备恢复出厂设置，则将无法再次注册该设备。但是，当前的书籍和现有的下载仍然可以访问。对于 Kindle Fire 用户来说，只有与书籍相关的功能会受到影响。尽管发生了变化，其他亚马逊服务和应用程序仍将继续在这些旧平板电脑上运行。
-为了帮助长期用户，亚马逊计划在 2026 年 5 月之前通知受电子邮件影响的用户，解释限制和可用选项。为了激励那些希望升级的人，亚马逊将为新 Kindle 硬件提供 20% 的折扣，并提供 20 美元的电子书积分，有效期至 2026 年 6 月 20 日。
-查看有关 AlternativeTo 的文章有关亚马逊的更多信息Kindle | 亚马逊 Kindle 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/amazon-will-cut-off-support-and-kindle-store-access-for-older-kindle-devices-in-may-2026/</guid>
-      <pubDate>Thu, 09 Apr 2026 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Geekbench 6.7 增加了 Intel BOT 检测、改进的 SoC 和 CPU 识别等</title>
-      <link>https://alternativeto.net/news/2026/4/geekbench-6-7-adds-intel-bot-detection-improved-soc-and-cpu-identification-and-more/</link>
-      <description><![CDATA[Geekbench 6.7 引入了一项关键更新，以确保基准测试更加准确和可比。新版本可检测英特尔基础优化器技术 (BOT)，并在上传到 Geekbench 浏览器时自动将任何受影响的基准测试结果标记为无效。这是维护不同系统配置结果完整性的持续努力的一部分。
-在这些完整性增强之后，Android 设备现在将看到改进的报告：Geekbench 6.7 显示片上系统 (SoC) 制造商和型号名称，取代了之前的 SoC 架构报告。对于 RISC-V 平台，用户会注意到基准测试现在标识特定的 CPU 名称，而不是显示有时很长的指令集架构字符串。值得注意的是，Linux RISC-V 和 Linux ARM 版本的 Geekbench 仍处于预览状态。
-在 Linux ARM 系统上，此版本解决了之前多线程工作负载期间的挂起问题。此外，用户可以期望 Geekbench 6.7 的基准测试结果与版本 6.3 至 6.6 生成的结果保持完全可比，从而保持跨版本结果分析的历史基准测试一致性。
-查看有关 AlternativeTo 的文章更多信息Geekbench | Geekbench 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/4/geekbench-6-7-adds-intel-bot-detection-improved-soc-and-cpu-identification-and-more/</guid>
-      <pubDate>Thu, 09 Apr 2026 07:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Xbox 终于通过视觉改进和新功能更新了其成就系统</title>
-      <link>https://alternativeto.net/news/2026/4/xbox-is-finally-updating-its-achievements-system-with-visual-improvements-and-new-features/</link>
-      <description><![CDATA[在微软承诺对Xbox标志性成就系统进行有意义的彻底改革之后，该公司终于开始为选定的 Xbox 预览体验成员推出一批新的更新，并计划随着时间的推移进行更广泛的发布。最直接的变化是成就通知的视觉刷新，经典和罕见的解锁现在获得更新的图标、新的动画和更清晰的演示。通知还将匹配每个玩家的自定义颜色设置，为每次解锁添加更多的个人风格。
-Xbox 还让玩家能够更好地控制他们的成就历史记录在个人资料中的显示方式。本月晚些时候，用户将能够从其成就列表中隐藏个别游戏，这是一项长期要求的功能，只会影响个人资料的显示。隐藏的游戏仍将计入总玩家分数，并且将继续在 Xbox 上跟踪所有相关活动。
-微软还通过突出显示玩家已赢得所有可用 Gamerscore 的游戏，使 100% 已完成的游戏更容易被发现。新的过滤器将帮助用户在成就视图中快速找到完全完成和隐藏的游戏。我的意思是，距离 PlayStation 风格的白金奖杯还差得很远，但绝对是朝着正确的方向迈出的一步，特别是因为该公司表示这只是更广泛推动提高成就的早期部分，尽管谁知道我们还需要多少年才能看到下一个奖杯💎
-查看有关 AlternativeTo 的文章有关 Xbox 的更多信息应用 | Xbox 应用替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/xbox-is-finally-updating-its-achievements-system-with-visual-improvements-and-new-features/</guid>
-      <pubDate>Thu, 09 Apr 2026 04:53:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anthropic 推出 Mythos，这是一种新的网络安全模型，功能如此强大，但受到严格限制</title>
-      <link>https://alternativeto.net/news/2026/4/anthropic-launches-mythos-a-new-cybersecurity-model-so-powerful-it-is-tightly-restricted/</link>
-      <description><![CDATA[Anthropic 推出了 Mythos，这是一种专注于网络安全的新前沿人工智能模型，作为其 Project Glasswing 计划的一部分。该公司将其描述为功能上的“阶跃变化”，虽然由于安全问题，预览版并未普遍提供，但它已提供给 12 个合作伙伴，包括亚马逊、苹果、博通、思科、CrowdStrike、Linux 基金会、微软和 Palo Alto Networks，以及其他 40 个组织，这些组织正在使用该模型来帮助查找和修复 Anthropic 自有系统和开源软件中的漏洞。
-Anthropic 表示，该模型最近几周已经发现了数千个高严重性的零日漏洞，其中许多缺陷可以追溯到十多年前。该公司表示，虽然 Mythos 没有经过专门的网络安全培训，但它的编码和推理能力使其能够有效地进行现实世界的软件分析，而在内部，它被描述为在以下领域比 Opus 系列例如编码、推理和学术任务。具有讽刺意味的是，泄露的文件还引发了人们的担忧，即如果进行攻击性部署，它可能会被黑客滥用，这有助于解释为什么它目前尚未向公众开放。
-说到最近的泄密事件，实际上是通过它们，Mythos 首次以“Capybara”的名字被揭露，之后博客文章草稿被发布后暴露在不安全的缓存中，该公司后来将其归因于人为错误。最近，Anthropic 还通过打包错误暴露了 Claude Code 源文件，这引发了混乱的清理工作和意外的 GitHub 存储库删除。
-查看有关 AlternativeTo 的文章更多信息克劳德 | 克劳德替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/anthropic-launches-mythos-a-new-cybersecurity-model-so-powerful-it-is-tightly-restricted/</guid>
-      <pubDate>Thu, 09 Apr 2026 03:58:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google 地图添加了 Gemini 说明、照片建议并改善了贡献者的体验</title>
-      <link>https://alternativeto.net/news/2026/4/google-maps-adds-gemini-captions-photo-suggestions-and-improved-experience-for-contributors/</link>
-      <description><![CDATA[Google 地图已推出多项更新，旨在增强用户贡献本地信息的方式。在 Android 设备上，该应用程序现在在贡献选项卡中突出显示最近的照片和视频，帮助用户快速分享其体验中的视觉效果。这项全球功能将于未来几个月内向 iOS 用户开放。
-在这些共享改进的基础上，Google 利用其 Gemini 模型，引入了人工智能驱动的照片标题建议。目前，Gemini 为美国 iOS 用户提供英语版本，它会分析选定的图像以生成草稿标题，供贡献者编辑或忽略。这些人工智能字幕建议计划用于更广泛的语言和平台扩展。
-除了内容共享增强功能之外，Google 地图现在还为贡献者跟踪其影响提供了简化的体验。总积分在贡献选项卡中可见，而本地指南级别在个人资料页面上显示得更加突出。成就徽章已更新，以便更容易识别专家事实调查者和摄影师，而新的金色轮廓颜色使用户可以更轻松地识别高级贡献者。这些更改正在全球范围内的 Android、iOS 和桌面上推出。
-查看有关 AlternativeTo 的文章有关 Google 的更多信息地图 | Google 地图替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/4/google-maps-adds-gemini-captions-photo-suggestions-and-improved-experience-for-contributors/</guid>
-      <pubDate>Wed, 08 Apr 2026 18:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chrome 终于带来了垂直标签和沉浸式阅读模式，以提高生产力</title>
-      <link>https://alternativeto.net/news/2026/4/chrome-finally-brings-vertical-tabs-and-an-immersive-reading-mode-for-better-productivity/</link>
-      <description><![CDATA[Google 已开始在 Chrome 中推出两项新功能，旨在提高浏览和多任务处理的效率。用户现在可以访问垂直选项卡，这是一种将选项卡放置在浏览器窗口一侧的布局选项。这提供了页面标题的完全可见性并简化了选项卡组管理，特别是对于那些同时打开多个选项卡的人来说。要启用垂直选项卡，用户可以右键单击任意 Chrome 窗口，然后选择“垂直显示选项卡”。
-在此更新之后，Chrome 引入了沉浸式阅读模式，以实现无干扰的观看体验。通过右键单击任何页面并选择“以阅读模式打开”，用户可以访问重新设计的全页界面，该界面去除了非必要的视觉元素，并专注于内容以便于阅读。
-虽然这些新增功能使 Chrome 与其他主要浏览器保持一致，但垂直标签页已在 Microsoft Edge、Vivaldi、Brave、Firefox、Zen、Floorp、Dia 和其他几个人有一段时间了。这些变化反映了 Google 试图满足用户长期以来提出的改进 Chrome 浏览器工作流程和生产力的要求。
-查看有关 AlternativeTo 的文章有关 Google 的更多信息Chrome | Google Chrome 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/chrome-finally-brings-vertical-tabs-and-an-immersive-reading-mode-for-better-productivity/</guid>
-      <pubDate>Wed, 08 Apr 2026 13:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Immich 2.7 添加了重复分辨率、编辑器快捷方式、新的 Web 操作等等</title>
-      <link>https://alternativeto.net/news/2026/4/immich-2-7-adds-duplicate-resolution-editor-shortcuts-new-web-actions-and-much-more/</link>
-      <description><![CDATA[Immich 2.7 带来了多项更新，旨在简化自托管用户的照片和视频管理。重复资产功能现在在服务器上运行，使用图像大小和 EXIF 数据自动评估要保留的文件。元数据同步已得到增强，涵盖相册、收藏夹状态、评级、描述、可见性、位置和标签等属性。
-扩展网络界面功能，资产所有者可以通过新的“从相册中删除”操作直接从相册中删除项目。相册和资产所有者都可以使用此工具。除此之外，文件夹视图还引入了“移至锁定文件夹”选项，允许用户增强对敏感文件夹访问的控制。
-经过这些管理改进，用户现在可以在编辑时利用键盘快捷键。按 e 打开编辑器，[ 或 ] 旋转资源，按 Enter 保存并退出编辑器。面部标记编辑器也得到了升级，允许用户在标记过程中立即创建新的人物条目。
-为了进一步强化安装，管理员可以选择内容安全策略 (CSP)，从而提高对 Web 攻击的防护。该版本还包括新的版本检查基础设施、在 Safari 中下载实时照片和视频的改进、跨站点脚本漏洞的修复以及其他一些增强功能。
-查看有关 AlternativeTo 的文章更多信息Immich | Immich 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/4/immich-2-7-adds-duplicate-resolution-editor-shortcuts-new-web-actions-and-much-more/</guid>
-      <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>PeaZip 11.0 增强档案浏览、升级拖放功能并增强分数缩放</title>
-      <link>https://alternativeto.net/news/2026/4/peazip-11-0-boosts-archive-browsing-upgrades-drag-and-drop-and-enhances-fractional-scaling/</link>
-      <description><![CDATA[PeaZip 11.0 为使用此开源文件管理器和归档器的用户带来了多项以用户为中心的改进。最新的更新加速了存档浏览以实现更快的文件操作，并引入了对书签的增强支持。内部拖放功能已升级，允许用户将项目直接移动到选项卡和面包屑栏中，从而简化了常见的工作流程。
-在这些可用性更新的基础上，PeaZip 11.0 提供了更精细的缩放和分数缩放选项，使界面在高分辨率屏幕上更易于使用。现在支持图标的替代渲染样式，为用户提供了更多自定义应用程序外观的可能性。
-为了加强工作流程和安全性，此版本添加了批量存档测试和密码熵评级工具，可帮助用户一次验证多个存档并在文件加密期间评估密码强度。在幕后，7z/p7zip 后端迁移到版本 26.00，Pea 达到版本 1.30，扩展了格式兼容性和性能。
-从源代码编译 PeaZip 的开发人员会发现 11.0 版本使用 Lazarus 4.2，同时保持与 Lazarus 3.x 和 2.x 的兼容性，支持一系列开发环境。
-查看有关 AlternativeTo 的文章更多信息PeaZip | PeaZip 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/peazip-11-0-boosts-archive-browsing-upgrades-drag-and-drop-and-enhances-fractional-scaling/</guid>
-      <pubDate>Wed, 08 Apr 2026 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

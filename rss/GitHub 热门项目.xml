@@ -4,21 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 10 Apr 2026 13:10:39 GMT</lastBuildDate>
-    <item>
-      <title>航点-1.5</title>
-      <link>https://www.producthunt.com/products/waypoint-1-5</link>
-      <description><![CDATA[
-            日常 GPU 上的实时生成世界
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/waypoint-1-5</guid>
-      <pubDate>Fri, 10 Apr 2026 05:47:38 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sat, 11 Apr 2026 02:12:07 GMT</lastBuildDate>
     <item>
       <title>众播3.0</title>
       <link>https://www.producthunt.com/products/crowdcast</link>
@@ -32,6 +18,34 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/crowdcast</guid>
       <pubDate>Fri, 10 Apr 2026 05:07:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>漂移</title>
+      <link>https://www.producthunt.com/products/drift-journal-that-lets-go</link>
+      <description><![CDATA[
+            随着时间的推移而消失的极简日记应用程序
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/drift-journal-that-lets-go</guid>
+      <pubDate>Fri, 10 Apr 2026 04:45:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>最小最大 CLI</title>
+      <link>https://www.producthunt.com/products/minimax</link>
+      <description><![CDATA[
+            为您的 AI 代理提供原生多模式功能
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/minimax</guid>
+      <pubDate>Fri, 10 Apr 2026 04:20:39 GMT</pubDate>
     </item>
     <item>
       <title>复杂性指标</title>
@@ -48,74 +62,60 @@
       <pubDate>Thu, 09 Apr 2026 20:13:46 GMT</pubDate>
     </item>
     <item>
-      <title>抹茶</title>
-      <link>https://www.producthunt.com/products/matcha-4</link>
+      <title>困惑金融</title>
+      <link>https://www.producthunt.com/products/perplexity-ai</link>
       <description><![CDATA[
-            开源 iPad 笔记应用程序
+            在一个地方查看您的完整财务生活，从银行到经纪公司
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/matcha-4</guid>
-      <pubDate>Thu, 09 Apr 2026 18:24:11 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/perplexity-ai</guid>
+      <pubDate>Thu, 09 Apr 2026 16:42:06 GMT</pubDate>
     </item>
     <item>
-      <title>爱情胶囊</title>
-      <link>https://www.producthunt.com/products/lovecapsule</link>
+      <title>幽灵X</title>
+      <link>https://www.producthunt.com/products/ghostlyx</link>
       <description><![CDATA[
-            您孩子的记忆，永远存储在您的 Google 云端硬盘中。
+            隐私优先的分析，没有 cookie 或混乱
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/lovecapsule</guid>
-      <pubDate>Thu, 09 Apr 2026 16:35:08 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/ghostlyx</guid>
+      <pubDate>Thu, 09 Apr 2026 11:46:58 GMT</pubDate>
     </item>
     <item>
-      <title>夜间专业版</title>
-      <link>https://www.producthunt.com/products/nocta-pro-2</link>
+      <title>收件箱自动驾驶仪（按维度）</title>
+      <link>https://www.producthunt.com/products/dimension-2</link>
       <description><![CDATA[
-            在几秒钟内将原始屏幕截图转换为可启动的视觉效果。
+            您的收件箱已处理
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/nocta-pro-2</guid>
-      <pubDate>Thu, 09 Apr 2026 16:12:38 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/dimension-2</guid>
+      <pubDate>Thu, 09 Apr 2026 10:39:23 GMT</pubDate>
     </item>
     <item>
-      <title>提示编辑器</title>
-      <link>https://www.producthunt.com/products/prompteditor</link>
+      <title>在组织2.0中</title>
+      <link>https://www.producthunt.com/products/socap</link>
       <description><![CDATA[
-            AI 提示的 Markdown 侧边栏
+            同时运营 10 个人工智能业务
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/prompteditor</guid>
-      <pubDate>Thu, 09 Apr 2026 13:39:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>巴格西</title>
-      <link>https://www.producthunt.com/products/bugsy-collect-all-insects</link>
-      <description><![CDATA[
-            为昆虫发声并建立您的收藏
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/bugsy-collect-all-insects</guid>
-      <pubDate>Thu, 09 Apr 2026 09:53:03 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/socap</guid>
+      <pubDate>Thu, 09 Apr 2026 09:24:36 GMT</pubDate>
     </item>
     <item>
       <title>科登提斯</title>
@@ -132,60 +132,60 @@
       <pubDate>Thu, 09 Apr 2026 09:13:36 GMT</pubDate>
     </item>
     <item>
-      <title>沃尔特尔</title>
-      <link>https://www.producthunt.com/products/vaultr-2</link>
+      <title>坚果工作室</title>
+      <link>https://www.producthunt.com/products/nut-studio-3</link>
       <description><![CDATA[
-            专为年轻专业人士打造的个人理财应用
+            在自己的电脑上快速部署个人AI Agent
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/vaultr-2</guid>
-      <pubDate>Thu, 09 Apr 2026 07:33:11 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/nut-studio-3</guid>
+      <pubDate>Thu, 09 Apr 2026 08:10:11 GMT</pubDate>
     </item>
     <item>
-      <title>标签集</title>
-      <link>https://www.producthunt.com/products/labelsets</link>
+      <title>谷歌财经</title>
+      <link>https://www.producthunt.com/products/google</link>
       <description><![CDATA[
-            具有内置质量分数的数据集市场
+            提出复杂的财务问题，获得基于人工智能的答案
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/labelsets</guid>
-      <pubDate>Thu, 09 Apr 2026 07:05:34 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/google</guid>
+      <pubDate>Wed, 08 Apr 2026 16:26:37 GMT</pubDate>
     </item>
     <item>
-      <title>维克多技能市场</title>
-      <link>https://www.producthunt.com/products/viktor</link>
+      <title>脊柱集成</title>
+      <link>https://www.producthunt.com/products/spine-2</link>
       <description><![CDATA[
-            为您的 AI 同事安装现成的技能
+            跨多个应用程序综合和研究信息的人工智能
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/viktor</guid>
-      <pubDate>Wed, 08 Apr 2026 12:32:36 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/spine-2</guid>
+      <pubDate>Tue, 07 Apr 2026 17:02:35 GMT</pubDate>
     </item>
     <item>
-      <title>自信地</title>
-      <link>https://www.producthunt.com/products/konfide</link>
+      <title>防层镀铬</title>
+      <link>https://www.producthunt.com/products/layerproof-social-content-generation</link>
       <description><![CDATA[
-            人工智能代理与人类专家可供聘用
+            根据您的数据构建幻灯片，每项主张都有证据支持
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/konfide</guid>
-      <pubDate>Fri, 27 Mar 2026 09:22:21 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/layerproof-social-content-generation</guid>
+      <pubDate>Mon, 06 Apr 2026 09:00:59 GMT</pubDate>
     </item>
     <item>
       <title>马努斯技能</title>
