@@ -4,13 +4,43 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sat, 11 Apr 2026 12:57:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 02:35:07 GMT</lastBuildDate>
+    <item>
+      <title>Amazon Luna 正在慢慢开始消亡，导致游戏购买和第三方订阅消失</title>
+      <link>https://alternativeto.net/news/2026/4/amazon-luna-is-slowly-starting-to-die-killing-game-purchases-and-third-party-subscriptions/</link>
+      <description><![CDATA[虽然尚未有消息称该服务已关闭，但这一天似乎并不遥远，因为亚马逊刚刚宣布对其游戏流媒体服务 Amazon Luna 进行重大更改，对个人游戏购买、第三方订阅和自带库功能的支持全部删除。到目前为止，Luna 并不局限于亚马逊自己的订阅目录，因为用户还可以直接通过 Luna 购买一些游戏，并从 EA、Ubisoft 和 GOG 等链接服务流媒体游戏。根据这一新方向，用户无法再在 Luna 上购买单个游戏，并且之前通过该服务购买的任何游戏都将只能在 2026 年 6 月 10 日之前保持可玩状态，之后它们将从 Luna 库中删除。亚马逊还表示，过去的单点购买不会退款，并且“所有销售都是最终的”。
+Luna 还终止自带库支持，包括与 EA、Ubisoft 和 GOG 的集成。这些功能将于 2026 年 6 月 3 日停止工作。玩家仍将保留通过这些原始店面购买的游戏的所有权，但他们将不再能够使用 Luna 来流式传输游戏。从 6 月 10 日开始，受影响的用户将能够下载他们的 Luna 保存数据，有效期为 90 天，不过亚马逊警告说，兼容性取决于每个游戏和平台。通过 Luna 提供的 Ubisoft+ 和 Jackbox Games 订阅也将停止，新订阅将不再可用，当前订阅将在用户下一个计费周期结束时或 2026 年 6 月 10 日之前取消。亚马逊表示，如果用户想避免最终续订，则应手动取消。
+实际上，Luna 正在逐渐不再是人们在其他地方已经拥有或订阅的游戏的更灵活的中心，而是更接近于以亚马逊自己的目录为中心的封闭式订阅服务，这使得与现已不复存在的 Google Stadia 的比较难以忽视。
+查看有关 AlternativeTo 的文章有关亚马逊的更多信息Luna | Amazon Luna 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/amazon-luna-is-slowly-starting-to-die-killing-game-purchases-and-third-party-subscriptions/</guid>
+      <pubDate>Sat, 11 Apr 2026 22:17:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mastodon 推出 Collections，这是针对用于帐户发现的 Bluesky 入门包的版本</title>
+      <link>https://alternativeto.net/news/2026/4/mastodon-introduces-collections-its-take-on-bluesky-starter-packs-for-account-discovery/</link>
+      <description><![CDATA[Mastodon 正在获取自己版本的 Bluesky 入门包，其中包含 Collections，这是 Mastodon 4.6 中的一项新功能，可让人们捆绑和共享推荐帐户。 Mastodon 公开表示，在制定自己的观点之前，它会审查公众对 Bluesky 功能的反馈，尤其是在同意和删除控制方面。如果有人将您的帐户添加到集合中，您将收到通知，能够查看该帐户，并根据需要自行删除。用户还可以通过禁用现有的“发现算法中的功能配置文件和帖子”设置来完全选择退出，这使得他们的帐户没有资格获得收藏。
+集合的推出限制比 Bluesky 的入门包小得多，支持最多 25 个帐户，而不是 150 个。 Mastodon 表示，较低的上限是为了使功能更加集中，并减少较大包中出现的垃圾邮件行为。集合可以包含简短描述、单个主题标签主题和可选的敏感内容警告。它们可以设置为公开或不公开，并通过链接共享，但一旦存在更多收藏并且 Mastodon 对人们如何使用它们有更好的了解，更广泛的搜索和发现功能将会出现。
+Mastodon 在发布时也没有添加“全部关注”按钮，称 Bluesky 的反馈表明，大量关注旧包或过时的包可能会导致提要较弱，而批量取消关注会造成其自身的复杂性。目前，该公司将 Collections 视为谨慎的版本 1 版本，并可能根据社区反馈进行更多更改。合集将于下周开始在 mastodon.social 上推出，然后通过 Mastodon 4.6 提供给所有服务器，其中还包括针对移动设备的配置文件重新设计、新的“活动”选项卡和更新的入门说明。
+查看有关 AlternativeTo 的文章更多信息乳齿象 | 乳齿象替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/mastodon-introduces-collections-its-take-on-bluesky-starter-packs-for-account-discovery/</guid>
+      <pubDate>Sat, 11 Apr 2026 17:47:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deepin 25.1 发布，搭载 Linux 6.18、UOS AI 升级和新的不可变系统功能</title>
+      <link>https://alternativeto.net/news/2026/4/deepin-25-1-launches-with-linux-6-18-uos-ai-upgrades-and-new-immutable-system-features/</link>
+      <description><![CDATA[Deepin 25.1是Deepin 25中的第一个重大更新系列，包含适用于 AMD64、ARM64、Loong64 的新 ISO 和 RISC V 技术预览。它从 Linux 6.12 迁移到 Linux 6.18 LTS，带来了更新的内存管理、更广泛的硬件支持以及针对 Ext4 和 XFS 的文件系统改进。 Deepin 还添加了来自 CachyOS 的 BORE 调度程序，以提高桌面响应能力。
+UOS AI是本次发布的主要关注领域之一。它添加了用于与主流消息应用程序交互的系统级 Claw 模式、具有第一代大纲和源可追溯性的重建写作代理，以及可导出为 PDF、Word 和 Markdown 的内置编辑器。 Deepin还引入了一个新的技能中心，用于导入或创建AI技能，而屏幕捕获和录制工具现在包括用于解释和翻译的AI辅助功能。
+Deepin 25.1 继续构建其坚实的基础，其中包括核心目录的只读保护、更新前的自动快照以及回滚支持，同时仍然允许用户在需要时重新启用写入访问。该系统仍然与 apt 和 dpkg 兼容，更新还包括安全补丁、内核漏洞修复、更好的更新可靠性、更新的 NVIDIA 专有驱动程序以及一些桌面改进，例如新的多窗口任务栏行为。
+查看有关 AlternativeTo 的文章更多信息Deepin | Deepin 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/deepin-25-1-launches-with-linux-6-18-uos-ai-upgrades-and-new-immutable-system-features/</guid>
+      <pubDate>Sat, 11 Apr 2026 16:49:22 GMT</pubDate>
+    </item>
     <item>
       <title>SQLite 3.53 修复了 WAL 重置错误，添加了 QRF 库、新的 SQL 功能、改进的 CLI 等等</title>
       <link>https://alternativeto.net/news/2026/4/sqlite-3-53-fixes-wal-reset-bug-adds-qrf-library-new-sql-features-improved-cli-and-more/</link>
       <description><![CDATA[SQLite 3.53 已作为此免费开源关系数据库引擎的最新版本发布。此更新通过修复与预写日志记录 (WAL) 重置相关的长期存在的数据库损坏错误来解决关键的稳定性问题。此版本还添加了查询结果格式化程序库，允许用户格式化 SQL 查询输出，以便在固定间距字体屏幕上获得更好的可读性。
 在这些改进的基础上，此更新引入了多项 SQL 语言增强功能，包括 ALTER TABLE 中的新功能、REINDEX EXPRESSIONS 的扩展使用、额外的 TEMP 触发器 支持以及 VACUUM INTO 选项。两个新的 SQL 函数 json_array_insert() 和 jsonb_array_insert() 改进了数据库内 JSON 数据的处理。命令行界面得到了重大增强，例如 .mode 命令的扩展功能以及更好的结果集格式。
-In terms of developer tools and APIs, SQLite 3.53 provides new C-language interfaces, query planner updates, more granular control over session extension changes, and now supports improved conversions between floating-point numbers and text.虽然自我修复索引功能解决了过时的表达式索引问题以提高索引可靠性，但平台兼容性更改包括放弃对 Windows RT 的支持以及向 sqlite3_rsync 实用程序添加新的端口选项。
+在开发人员工具和 API 方面，SQLite 3.53 提供了新的 C 语言 接口、查询规划器更新、对会话扩展更改的更精细控制，并且现在支持改进的浮点数和文本之间的转换。虽然自我修复索引功能解决了过时的表达式索引问题以提高索引可靠性，但平台兼容性更改包括放弃对 Windows RT 的支持以及向 sqlite3_rsync 实用程序添加新的端口选项。
 对于 JavaScript 和 WebAssembly 应用程序，引入 opfs-wl 虚拟文件系统利用 Web Lock 实现更公平的锁定管理，需要现代浏览器支持 Atomics.waitAsync()。
 查看有关 AlternativeTo 的文章更多信息SQLite | SQLite 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/4/sqlite-3-53-fixes-wal-reset-bug-adds-qrf-library-new-sql-features-improved-cli-and-more/</guid>
@@ -32,7 +62,7 @@ In terms of developer tools and APIs, SQLite 3.53 provides new C-language interf
       <description><![CDATA[Google 宣布对 Gemini 进行重大更新，允许用户直接从他们的问题和复杂主题生成交互式可视化。此升级超越了传统的文本答案和静态图表，根据提示提供功能模拟。例如，在探索科学概念时，用户不再局限于固定的视觉效果。
 基于这些增强功能，Gemini 现在允许用户操纵可视化中的元素。您可以通过移动滑块或输入精确的数字来旋转分子或调整物理模拟中的参数，例如初始速度和重力强度。此功能使用户能够实时查看变化如何影响结果，从而提供学习和探索的实践方法。
 交互式可视化功能正在全球范围内向所有 Gemini 应用程序用户推出。要体验这些模拟，用户应该在 Gemini 中选择 Pro 模型，并在请求说明性解释时使用“向我展示”或“帮助我可视化”等提示。这一新增功能可以在与复杂信息交互时提供更具吸引力和可定制的体验。
-查看有关 AlternativeTo 的文章有关 Google 的更多信息Gemini | Google Gemini 替代品]]></description>
+查看有关 AlternativeTo 的文章有关 Google 的更多信息Gemini | Google Gemini 替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/4/gemini-introduces-interactive-3d-visualizations-and-models-for-deeper-topic-exploration/</guid>
       <pubDate>Fri, 10 Apr 2026 18:00:00 GMT</pubDate>
     </item>
@@ -121,37 +151,6 @@ In terms of developer tools and APIs, SQLite 3.53 provides new C-language interf
 查看有关 AlternativeTo 的文章更多信息OBS Studio | OBS Studio 替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/4/obs-studio-32-1-released-with-overhauled-audio-mixer-webrtc-simulcast-support-and-more/</guid>
       <pubDate>Fri, 10 Apr 2026 13:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anthropic 推出 Claude Managed Agents 以加速 AI 代理的开发和部署</title>
-      <link>https://alternativeto.net/news/2026/4/anthropic-launches-claude-managed-agents-to-accelerate-ai-agent-development-and-deployment/</link>
-      <description><![CDATA[Anthropic 推出了 Claude 托管代理，这是一项新产品，提供可组合的 API，用于大规模部署云托管代理。此版本允许开发人员专注于定义代理任务和护栏，而 Anthropic 处理基础设施、安全和状态管理，将部署时间从几个月缩短到几天。
-使用托管代理部署的代理在生产基础设施上运行，并受益于安全沙箱、身份验证和跨会话中断的自动状态持久性。虽然这些代理可以长时间自主活动，但即使在断开连接期间也能保持进度和输出。可信治理功能包括范围权限、身份管理和执行跟踪，为需要强大监督和审计的企业提供支持。
-在这些基础性改进之后，托管代理支持多代理编排。该功能目前处于研究预览阶段，允许多个代理协调和并行化复杂的工作流程。该平台专为利用 Claude 模型而构建，支持迭代代理执行，使代理能够根据定义的成功标准进行自我评估，或根据需要以传统的提示和响应模式进行操作。
-会话跟踪、集成分析和故障排除工具集成在 Claude Console 中，使开发人员可以详细检查工具调用和代理决策。托管代理现已在 Claude 平台上推出公开测试版。
-查看有关 AlternativeTo 的文章更多信息克劳德 | 克劳德替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/anthropic-launches-claude-managed-agents-to-accelerate-ai-agent-development-and-deployment/</guid>
-      <pubDate>Fri, 10 Apr 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Little Snitch，macOS 上基于主机的应用程序防火墙，即将免费登陆 Linux</title>
-      <link>https://alternativeto.net/news/2026/4/little-snitch-the-host-based-application-firewall-for-macos-is-coming-to-linux-for-free/</link>
-      <description><![CDATA[Objective Development 宣布推出适用于 Linux 的 Little Snitch，将其著名的基于主机的网络防火墙从 macOS 免费引入 Linux 环境。 Linux 版本利用扩展的伯克利数据包过滤器 (eBPF) 进行内核级流量拦截，提供高性能和内核扩展的现代替代方案。主要应用逻辑采用 Rust 编写，增强了安全性和跨平台可移植性。
-在此技术基础上，用户界面被实现为网络应用程序。这种架构使得可以从任何设备（包括 Mac 计算机）远程监控 Linux 服务器上的网络连接。虽然这个版本带来了关键的监控和阻止功能，但它在功能范围和用户界面改进方面都介于 Little Snitch Mini 和完整 macOS 版本之间。后端管理规则和阻止列表，但不包括 macOS 上的所有高级功能。
-为了透明度和社区参与，基于 eBPF 的内核组件和 Web UI 作为开源发布。然而，后端代码仍然是封闭的，因为 Objective Development 引用了由数十年经验形成的专有算法。值得注意的是，Linux 版 Little Snitch 的设计初衷是为了保护隐私并提高网络活动的可见性，而不是作为一种安全工具。由于 eBPF 的限制，防火墙规则可能会被绕过，例如通过泛洪过滤器表。
-查看有关 AlternativeTo 的文章有关 Little 的更多信息告密者 | 小告密者替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/little-snitch-the-host-based-application-firewall-for-macos-is-coming-to-linux-for-free/</guid>
-      <pubDate>Fri, 10 Apr 2026 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spotify 推出视频控件，让您关闭平台上的所有视频</title>
-      <link>https://alternativeto.net/news/2026/4/spotify-introduces-video-controls-letting-you-turn-off-all-videos-on-the-platform/</link>
-      <description><![CDATA[Spotify 推出了新的全局视频控件，使用户能够在平台上选择音频优先体验或视频增强会话。此更新允许听众定制他们与音乐、播客和有声读物中的视频的互动方式。
-在现有功能的基础上进行扩展，家庭计划管理员现在能够控制所有成员帐户的视频内容，而不仅仅是 13 岁以下用户的视频内容。此增强功能可满足更广泛家庭的隐私和内容管理需求。此外，新设置允许每个 Spotify 订阅者（包括个人、双人、家庭或学生计划的高级、基本和免费用户）管理视频在其应用中的显示方式。
-这些更新之后，设置将于本月在全球范围内开始推出。这些更改适用于 Spotify 支持的移动设备、桌面设备、网络、电视和其他平台。要找到新控件，用户应导航至设置中的“内容和显示”，其中可以打开或关闭 Canvas 视觉效果和音乐或播客视频的选项。不过，无论选择何种视频设置，某些音频广告可能会继续显示视频广告和类似画布的视觉效果。
-查看有关 AlternativeTo 的文章更多信息Spotify | Spotify 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/spotify-introduces-video-controls-letting-you-turn-off-all-videos-on-the-platform/</guid>
-      <pubDate>Fri, 10 Apr 2026 07:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
