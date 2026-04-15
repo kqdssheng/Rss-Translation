@@ -4,7 +4,75 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Wed, 15 Apr 2026 02:32:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 13:24:23 GMT</lastBuildDate>
+    <item>
+      <title>谷歌在 Chrome 中推出了保存、自定义和重用自定义 Gemini 提示的技能</title>
+      <link>https://alternativeto.net/news/2026/4/google-launches-skills-in-chrome-for-saving-customizing-and-reusing-custom-gemini-prompts/</link>
+      <description><![CDATA[Google 正在 Chrome 中推出技能，该功能让用户只需单击一下即可保存并重复使用最有用的 AI 提示。此更新允许将任何有价值的提示转变为可重复使用的技能，并可以直接从聊天记录中访问，从而简化了用户在 Chrome 中与 Gemini 的交互方式。
+保存后，可以通过键入正斜杠或单击加号在 Chrome 的 Gemini 中激活这些技能。该功能在当前页面或其他选定的选项卡上运行选定的技能。用户可以随时编辑之前保存的技能或创建新技能，从而支持日常工作流程的灵活性。
+除了自定义技能之外，Google 还提供了一个涵盖常见任务和工作流程的即用型技能库。用户可以将这些技能添加到他们的个人列表中，进行尝试并进行调整以更好地满足他们的需求。技能受到与 Chrome 中 Gemini 相同的保护措施的保护，在采取敏感操作（例如添加日历事件或发送电子邮件）之前需要确认。所有保存的技能都可以在任何已登录的 Chrome 桌面设备上使用。
+查看有关 AlternativeTo 的文章有关 Google 的更多信息Chrome | Google Chrome 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/google-launches-skills-in-chrome-for-saving-customizing-and-reusing-custom-gemini-prompts/</guid>
+      <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenSSL 4.0 结束 SSLv3，添加加密的 Client Hello 并支持 SNMP KDF 和 SRTP KDF</title>
+      <link>https://alternativeto.net/news/2026/4/openssl-4-0-ends-sslv3-adds-encrypted-client-hello-and-support-for-snmp-kdf-and-srtp-kdf/</link>
+      <description><![CDATA[OpenSSL 4.0 作为功能版本发布，对协议支持和安全性进行了重大更改。通过引入加密的 Client Hello、符合 RFC 9849 并提高 TLS 连接的保护，用户可以获得增强的隐私。与此同时，对 SSLv3 和 SSLv2 Client Hello 的支持已完全删除，从而完成了漫长的弃用过程并加强了对现代标准的合规性。
+虽然这些更新改变了协议支持，但引擎的框架被消除了：与引擎相关的构建选项和宏始终存在，并且架构反映了这种简化的模型。 OpenSSL 4.0 还引入了新的加密选项，包括对 SM2 和 SM3 算法的支持、通过 SM2MLKEM768 的后量子混合密钥交换以及 ML-DSA-MU 摘要算法。
+在添加这些功能之后，输出和兼容性得到了改进：十六进制转储现在更加一致和简洁，省略了不必要的前导字节并对签名和其他数据强制执行特定的宽度限制。开发人员还应注意删除了多个已弃用的 API，包括 X509_cmp_time 函数和特定于引擎的挂钩，以及在编译时默认禁用一些旧版椭圆曲线支持。
+其他改进包括在 X.509 处理中加强 AKID 和 CRL 验证，以及使用 FIPS 模块强制执行基于密码的加密的下限。
+查看有关 AlternativeTo 的文章有关 OpenSSL 的更多信息 | OpenSSL 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/4/openssl-4-0-ends-sslv3-adds-encrypted-client-hello-and-support-for-snmp-kdf-and-srtp-kdf/</guid>
+      <pubDate>Wed, 15 Apr 2026 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Joomla 6.1 改进了垃圾邮件防护和内容管理功能</title>
+      <link>https://alternativeto.net/news/2026/4/joomla-6-1-improves-spam-protection-and-content-management-features/</link>
+      <description><![CDATA[Joomla 6.1 引入了工作验证验证码，无需外部帐户或用户可见的挑战即可提供垃圾邮件防护。该版本还添加了可视化工作流程编辑器，可以更轻松地管理和审查整个内容发布流程。
+内容创建者获得了带有音频、视频和文档上传自定义字段的新选项。
+查看有关 AlternativeTo 的文章有关 Joomla 的更多信息 | Joomla 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/joomla-6-1-improves-spam-protection-and-content-management-features/</guid>
+      <pubDate>Wed, 15 Apr 2026 09:27:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>概念 3.4：更便宜的自定义代理、人工智能自动填充和新集成推出</title>
+      <link>https://alternativeto.net/news/2026/4/notion-3-4-adds-ai-autofill-and-cheaper-custom-agents-for-teams/</link>
+      <description><![CDATA[Notion 3.4 在数据库中引入了 AI 自动填充，通过自定义代理实现数据的自动丰富和维护。现在，自定义代理的运行成本降低了 35-50%，新模型选项使用的积分减少了 10 倍，并且用户可以通过新的仪表板更清晰地了解代理积分的使用情况。
+自定义代理还扩展了与私有 Slack 渠道的集成，并支持即将推出的连接器，例如 Teams、Drive 和 Salesforce。
+其他改进包括可定制的 AI 会议笔记、更快的页面渲染以及无需更广泛的内容访问即可创建页面的新数据库权限。
+查看有关 AlternativeTo 的文章更多信息概念 | 概念替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/notion-3-4-adds-ai-autofill-and-cheaper-custom-agents-for-teams/</guid>
+      <pubDate>Wed, 15 Apr 2026 09:21:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lovable 推出支持多项目的 Mac 桌面应用程序</title>
+      <link>https://alternativeto.net/news/2026/4/lovable-launches-mac-desktop-app-with-multi-project-support/</link>
+      <description><![CDATA[Lovable 推出了一款专用于 Mac 的桌面应用程序，Windows 版本正在开发中。新应用程序允许访问本地 MCP、跨多个选项卡构建项目，并包含用于改进工作流程的本机键盘快捷键。
+查看有关 AlternativeTo 的文章有关 Lovable 的更多信息  | 可爱的替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/lovable-launches-mac-desktop-app-with-multi-project-support/</guid>
+      <pubDate>Wed, 15 Apr 2026 07:39:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Booking.com 确认数据泄露，暴露了用户联系方式和预订信息</title>
+      <link>https://alternativeto.net/news/2026/4/booking-com-confirms-data-breach-exposing-user-contact-and-reservation-info/</link>
+      <description><![CDATA[Booking.com 已确认，未经授权的第三方访问了部分用户的预订数据，包括全名、电子邮件和邮政地址、电话号码以及与住宿提供商交换的消息。该公司尚未透露有多少客户受到影响，但表示将直接通知受影响的客人。
+在检测到可疑活动后，Booking.com 表示已解决该问题，并为当前和过去受影响的预订重置了 PIN 码。 &lt;一href=&quot;https://www.reddit.com/r/Bookingcom/comments/1sjglxc/weird_email/?solution=f56b7ef7925ddc78f56b7ef792 5ddc78&amp;js_challenge=1&amp;token=bbbe4bf1c9a2b5160829c4be34da5861f163e7a75251a478379ec2c0ac033cc2&quot;&gt;用户通过 noreply@booking.com 发送的电子邮件联系我们，该公司表示未访问包括付款详细信息在内的财务信息。
+该通知警告用户留意可疑电子邮件或电话，避免点击未经请求的消息中的链接，并记住 Booking.com 不会要求提供敏感的个人数据或银行转帐。一些客户对缺乏应用内提醒感到困惑，而另一些客户则报告了引用私人预订详细信息的诈骗尝试，其中由于私人电话号码暴露，有些人甚至通过 WhatsApp 联系。
+查看有关 AlternativeTo 的文章更多信息Booking.com | Booking.com 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/4/booking-com-confirms-data-breach-exposing-user-contact-and-reservation-info/</guid>
+      <pubDate>Wed, 15 Apr 2026 05:44:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>DaVinci Resolve 21 推出全新功能齐全的照片编辑工具，与 Lightroom 竞争</title>
+      <link>https://alternativeto.net/news/2026/4/davinci-resolve-21-introduces-new-full-blown-photo-editing-tools-to-compete-with-lightroom/</link>
+      <description><![CDATA[Blackmagic 刚刚推出了 DaVinci Resolve 的最大规模更新之一，版本 21，意外地为其本已强大的视频编辑器赋予了全面的照片编辑功能，使其更接近Lightroom 和其他专用照片编辑器。新的照片页面允许摄影师和调色师使用Resolve基于节点的分级工作流程来编辑RAW图像，使用串行、并行和共享节点进行复杂的编辑或在相册中应用相同的外观。它还支持以原始分辨率和纵横比进行裁剪和重新构图，同时以非破坏性工作流程保持文件质量。
+照片编辑功能包括 Resolve FX 和 Open FX 插件支持、LUT、用于一键对象或人物遮罩的 AI Magic Mask、用于本地编辑的手动选择工具以及用于升级低分辨率照片和视频的 AI UltraSharpen。 Resolve 21 还添加了用于浏览相册的 LightBox 视图、用于编辑状态的过滤器、星级、标记和剪辑颜色、按拍摄日期或相机型号创建相册、Lightroom 目录导入以及兼容索尼和佳能相机的联机拍摄（带有 ISO、曝光和白平衡控制）。
+除了新的照片编辑器之外，DaVinci Resolve 21 还引入了针对视频编辑的多项 AI 升级。 IntelliSearch 可以查找剪辑中的对象、对话关键词和人物，而 AI CineFocus 则可以让剪辑师通过可调节光圈、焦距范围和关键帧来模拟景深和机架对焦效果。该更新还添加了从文本或录制的语音样本生成语音、AI 脸部年龄转换器、AI 脸部整形器、AI 瑕疵去除、AI 运动去模糊以及针对低质量或轻微失焦镜头的改进的 AI UltraSharpen。公开测试版现已免费提供，计划推出免费版本，完整工作室版本售价 295 美元。
+查看有关 AlternativeTo 的文章更多信息DaVinci Resolve | DaVinci Resolve 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/davinci-resolve-21-introduces-new-full-blown-photo-editing-tools-to-compete-with-lightroom/</guid>
+      <pubDate>Wed, 15 Apr 2026 04:35:56 GMT</pubDate>
+    </item>
     <item>
       <title>Prime Video Ultra 在美国推出，将无广告访问价格提高至 4.99 美元，并提供新功能</title>
       <link>https://alternativeto.net/news/2026/4/prime-video-ultra-launches-in-us-raises-ad-free-access-price-to-4-99-with-new-features/</link>
@@ -81,79 +149,6 @@
 查看有关 AlternativeTo 的文章有关 Google 的更多信息搜索 | Google 搜索替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/4/google-will-start-penalizing-back-button-hijacking-with-new-spam-policy-in-june-2026/</guid>
       <pubDate>Tue, 14 Apr 2026 13:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>加密消息应用程序 Session 将在 90 天内关闭，除非获得新的资金</title>
-      <link>https://alternativeto.net/news/2026/4/encrypted-messaging-app-session-will-shut-down-in-90-days-unless-new-funding-are-secured/</link>
-      <description><![CDATA[Session 是一款以隐私为中心的加密消息应用程序，它已宣布将在 90 天内永久关闭，除非获得新的重大资金支持。维护该平台的会话技术基金会 (STF) 报告称，每年的运营成本约为 100 万美元。该金额涵盖必要的基础设施、开发人员工资以及法律和运营支持的管理费用。
-虽然 Session 凭借去中心化架构、零元数据存储且无需电话号码而与 Signal 等其他消息应用程序区分开来，但该团队警告说，如果关闭继续进行，这些隐私功能将面临风险。根据公告，Session 目前为 170 万月活跃用户提供服务，这表明如果参与度增加，用户捐赠可能会产生有意义的影响。
-考虑到当前的财务现实，所有带薪员工和开发人员将在 2026 年 4 月 9 日之前结束与 Session 的正式雇佣关系。一些成员将继续担任志愿者，直到计划关闭日期 2026 年 7 月 8 日，以维护关键系统。如果无法获得资金，基金会承诺将未使用的资金公开捐赠给电子前沿基金会，确保社区捐款的透明度和负责任的管理。
-查看有关 AlternativeTo 的文章更多信息会话 | 会话替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/4/encrypted-messaging-app-session-will-shut-down-in-90-days-unless-new-funding-are-secured/</guid>
-      <pubDate>Tue, 14 Apr 2026 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trisquel 12.0 “Ecne” 与 Ubuntu 24.04 LTS 基础、APT 3.0 和新的浏览器选项一起发布</title>
-      <link>https://alternativeto.net/news/2026/4/trisquel-12-0-ecne-launches-with-ubuntu-24-04-lts-base-apt-3-0-and-new-browser-options/</link>
-      <description><![CDATA[Trisquel 12.0“Ecne”标志着寻求完全由自由软件构建的 Linux 系统的用户的新版本，有意排除专有驱动程序、固件和非自由组件。该发行版现在使用 Ubuntu 24.04 LTS 作为其长期支持基础，并由 GNU Linux-libre 6.8 内核，提高稳定性和项目对自由软件原则的承诺。
-在这些更改的基础上，Trisquel 12.0 过渡到 APT 3.0，支持跨所有安装路径的 deb822 存储库格式并实现包管理现代化。安装可靠性也得到提高，因为模块化内核更改减少了安装程序 udeb 组件的损坏。该团队继续致力于内核楔子的开发，并修改了许多图形环境的 AppArmor 规则，提高了日常桌面使用的安全覆盖范围。
-对于网页浏览，用户现在可以完全自由地选择 GNU IceCat 和 ungoogled-chromium，以及积极维护的 浏览器。在这些更新之后，向后移植的存储库将使 LibreOffice、Inkscape、Nextcloud Desktop、Kdenlive、yt-dlp、O.A.D.、Tuba、fastfetch 等流行应用程序保持最新状态。
-Trisquel 12.0 仍然提供多种桌面版本，包括 MATE 1.26.1、KDE 5.27、LXDE 0.99.2 等，为不同的用户群提供替代方案。
-查看有关 AlternativeTo 的文章有关 Trisquel 的更多信息 | Trisquel 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/trisquel-12-0-ecne-launches-with-ubuntu-24-04-lts-base-apt-3-0-and-new-browser-options/</guid>
-      <pubDate>Tue, 14 Apr 2026 07:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 7.0 发布，具有 XFS 自我修复、与代理无关的 AI 密钥和主要硬件支持</title>
-      <link>https://alternativeto.net/news/2026/4/linux-7-0-released-with-xfs-self-healing-agent-agnostic-ai-keys-and-major-hardware-support/</link>
-      <description><![CDATA[Linux 7.0 经过最后一周的大部分小修复后现已推出，正如 Linus Torvalds 所说。尽管它不是长期支持版本，但它带来了大量更新，因此 Linux 6.18 仍然是 LTS 分支，并将支持到 2028 年 12 月。7.0 中的两个更广泛的变化是Rust 支持现已正式不再是实验性的，交换子系统得到了另一轮性能提升，改进了内存压力下的读回和 zram 写回行为。
-存储是此版本中最强大的部分之一。 Linux 7.0 添加了通用文件系统错误报告框架，因此元数据损坏和文件 I/O 问题可以更一致地呈现给用户空间。然后，XFS 在此基础上通过新的 xfs_healer 守护进程进行自主自我修复，该守护进程可以在文件系统保持挂载状态时对错误做出反应。 Btrfs 为大于内核页面大小的块添加了直接 I/O，并为逻辑重定位添加了实验性重映射树，无需重写物理数据，EXT4 提高了并发直接 I/O 写入性能。
-Linux 7.0 还为 AI 工作流程添加了三个新的键盘操作：用于在突出显示的文本或图像上运行 AI 任务的选择操作、用于将生成或检索的内容放入活动字段的上下文插入以及用于上下文感知建议的上下文查询。 Torvalds 还指出，人工智能工具可能有助于在开发过程中发现更多的极端情况，他认为这可能成为新常态的一部分。除此之外，硬件支持还得到了扩展，包括更广泛的英特尔 Nova Lake 音频支持、更丰富的英特尔 Arc 遥测、更多 Panther Lake 固件支持、早期 AMD Zen 6 指标以及针对 Rockchip RK3576 和 RK3588 主板的主线 H.264 和 H.265 解码。
-查看有关 AlternativeTo 的文章有关 Linux 的更多信息内核 | Linux 内核替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/4/linux-7-0-released-with-xfs-self-healing-agent-agnostic-ai-keys-and-major-hardware-support/</guid>
-      <pubDate>Mon, 13 Apr 2026 20:45:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>X 将于 4 月 17 日推出 XChat 消息应用程序，并提供端到端加密和隐私声明</title>
-      <link>https://alternativeto.net/news/2026/4/x-to-launch-xchat-messaging-app-on-april-17-with-end-to-end-encryption-and-privacy-claims/</link>
-      <description><![CDATA[X Corp. 是 X（以前称为 Twitter）、Grok 和 Grokipedia 背后的公司，已宣布即将发布 XChat，一款将于 2026 年 4 月 17 日推出的新消息应用程序。该公司将 XChat 描述为“用于集中对话的私人空间”，向用户承诺没有广告或跟踪的体验。为了吸引注重隐私的用户并与 WhatsApp 和 Signal 等平台竞争，XChat 将支持端到端加密对话。
-除了短信之外，XChat 还支持音频和视频通话、文档共享、群聊以及编辑或删除已发送消息的选项。根据苹果应用商店的截图，用户还可以屏蔽聊天截图并发送消失的消息，以进一步增强隐私控制。
-尽管有这些隐私保护功能，但 Apple App Store 列表表明 XChat 可能会收集与用户身份相关的个人信息，例如位置、联系方式、搜索历史记录、联系人列表和用户生成的内容，这引起了人们的担忧。这可能与应用程序的隐私关注相矛盾。访问 XChat 需要一个 X 帐户，并且在发布时，该应用程序将仅在 iPhone 和 iPad 上可用。与 WhatsApp 或 Signal 不同，它们不强制要求单独的帐户，采用可能取决于用户是否愿意使用 X 更广泛的生态系统。
-查看有关 AlternativeTo 的文章更多信息XChat | XChat 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/4/x-to-launch-xchat-messaging-app-on-april-17-with-end-to-end-encryption-and-privacy-claims/</guid>
-      <pubDate>Mon, 13 Apr 2026 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>有机地图添加了海拔图表、更智能的美国地址搜索和无缝地图包装</title>
-      <link>https://alternativeto.net/news/2026/4/organic-maps-adds-elevation-charts-smarter-us-address-search-and-seamless-map-wrapping/</link>
-      <description><![CDATA[Organic Maps 是一款注重隐私的开源导航应用程序，由 OpenStreetMap 数据提供支持，现已推出重大更新，其中包含旨在改善户外体验的新功能、增强功能和错误修复。对于徒步旅行者和骑自行车者来说，一个突出的附加功能是能够直接与地图上的步道互动；用户现在可以点击任何路线以突出显示它，并立即查看其海拔剖面和攀爬统计数据。这种直接交互简化了旅行计划，让冒险者无需切换环境或咨询外部工具即可评估路径的难度。
-此次更新还大幅扩展了应用的地理数据库，引入了从 TIGER 人口普查数据集中解析出的美国各地 200 万个新地址。这些数据的涌入与更智能的门牌号匹配算法相结合，显着提高了全国范围内的搜索准确性和结果相关性。虽然这些内部改进使查找位置变得更加容易，但开发人员提醒社区，直接向 OpenStreetMap 提供缺失的地址仍然是增强全球搜索功能的最有效的长期策略。
-在技术和视觉方面，Organic Maps 消除了传统的逆子午线地图边缘，创造了平滑跨越 ±180° 经线的无缝全球体验。用户现在可以在楚科奇和阿拉斯加或新西兰和斐济等地区之间拖动和旋转地图，而不会遇到隐形墙壁或尴尬的重置，使太平洋感觉真正是圆的。其他改进包括一键重新着色某个类别中的所有书签和曲目、更新的 OpenStreetMap 和 Wikipedia 数据、美食广场和城门的新图标以及确保稳定流畅的用户体验的各种性能改进。
-查看有关 AlternativeTo 的文章有关有机的更多信息地图 | 有机地图替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/organic-maps-adds-elevation-charts-smarter-us-address-search-and-seamless-map-wrapping/</guid>
-      <pubDate>Mon, 13 Apr 2026 13:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>WordPress 添加了 Telegram 机器人、MCP 控件以及免费访问付费新闻通讯的功能</title>
-      <link>https://alternativeto.net/news/2026/4/wordpress-adds-telegram-bot-mcp-controls-and-complimentary-access-to-paid-newsletter/</link>
-      <description><![CDATA[Automattic 为 Telegram 引入了新的 WordPress 代理机器人，允许用户直接从消息应用程序管理其 WordPress.com 网站。通过 Telegram，网站所有者可以随时随地发布帖子、检查网站统计数据、查找域名以及纠正拼写错误。此功能现已在 Alpha 版中提供，可能会受到基于计划的限制。
-基于工作流程增强功能，Studio Sync 以前仅限于较高级别，现在可在所有付费 WordPress Studio 计划中使用，包括个人计划和高级计划。这使得用户可以使用桌面应用程序将本地开发的网站与实时 WordPress.com 环境同步，从而向更广泛的用户开放高级开发工作流程。
-在这些更新之后，时事通讯发布商现在可以向个人订阅者免费授予付费时事通讯级别的访问权限，而无需订阅者提供信用卡。发布商可以随时从订阅者管理屏幕中选择要分配、监控或删除免费访问权限的付费层。
-此外，模型上下文协议（MCP）工具的管理也得到了改进。读取和写入 MCP 工具现在显示在不同的页面上，并且特定控件按帖子、页面或帐户等站点区域进行分组。现在可以为每个站点启用 MCP 工具和访问，从而提供更大的配置灵活性。此版本还为 WordPress.com 带来了更广泛的可靠性和用户体验改进。
-查看有关 AlternativeTo 的文章更多信息WordPress | WordPress 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/wordpress-adds-telegram-bot-mcp-controls-and-complimentary-access-to-paid-newsletter/</guid>
-      <pubDate>Mon, 13 Apr 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zotero 9 带来朗读、注释集成、最近阅读和性能提升</title>
-      <link>https://alternativeto.net/news/2026/4/zotero-9-brings-read-aloud-annotation-integrations-recently-read-and-performance-boosts/</link>
-      <description><![CDATA[Zotero 9 已作为这款流行的开源参考管理软件的最新主要版本发布，用于组织书目数据和相关研究材料。此次重大更新是在 Zotero 8 发布两个月后发布的。
-此新版本引入了大声朗读功能，使用户能够以高质量、自然的声音收听文档，包括 PDF、EPUB 和网页快照。在此模式下导航允许听众按段落或句子跳过、快速注释特定句子并保留最后的阅读位置，该位置会在设备之间自动同步。不过，此功能目前仅限于桌面应用程序，未来计划支持移动设备。
-在用户工作流程增强的基础上，Zotero 在每个库的顶部添加了一个最近阅读集合，以显示带有最近访问的附件的项目。对于学术写作，文字处理插件现在包含一个添加注释按钮，允许直接插入带有活动 Zotero 引文的注释，自动生成参考书目条目。
-这些功能还通过群组库管理的改进得到补充。用户可以在项目列表中显示“添加者”和“修改者”列，而组管理员现在可以为每个组配置文件重命名设置。性能也得到了解决，启动内存要求降低了 20%，文件同步占用的资源也更少。在 macOS 上，文件复制现在利用 Apple 的文件系统来避免额外的磁盘使用。最后，Zotero 的登录过程通过使用网络浏览器得到了简化，为那些依赖密码管理器自动填充功能的用户提供了帮助。
-查看有关 AlternativeTo 的文章更多关于Zotero | Zotero 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/zotero-9-brings-read-aloud-annotation-integrations-recently-read-and-performance-boosts/</guid>
-      <pubDate>Mon, 13 Apr 2026 08:58:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
