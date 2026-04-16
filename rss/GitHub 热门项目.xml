@@ -4,21 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 15 Apr 2026 13:24:29 GMT</lastBuildDate>
-    <item>
-      <title>深探3.0</title>
-      <link>https://www.producthunt.com/products/fathom</link>
-      <description><![CDATA[
-            AI 会议笔记：现在无机器人，在 ChatGPT 和 Claude 中 + 更多
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/fathom</guid>
-      <pubDate>Tue, 14 Apr 2026 21:36:11 GMT</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Apr 2026 02:39:02 GMT</lastBuildDate>
     <item>
       <title>可爱的桌面应用程序</title>
       <link>https://www.producthunt.com/products/lovable</link>
@@ -34,35 +20,21 @@
       <pubDate>Tue, 14 Apr 2026 19:26:11 GMT</pubDate>
     </item>
     <item>
-      <title>克劳德代码例程</title>
-      <link>https://www.producthunt.com/products/claude</link>
+      <title>捕捉编辑</title>
+      <link>https://www.producthunt.com/products/snapedit-screenshot-editor</link>
       <description><![CDATA[
-            通过智能例程让 Claude Code 任务自动运行
+            原生 SwiftUI 剪贴板图像编辑器；即时编辑、分享
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/claude</guid>
-      <pubDate>Tue, 14 Apr 2026 16:45:51 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/snapedit-screenshot-editor</guid>
+      <pubDate>Tue, 14 Apr 2026 17:22:59 GMT</pubDate>
     </item>
     <item>
-      <title>双子座机器人 ER 1.6</title>
-      <link>https://www.producthunt.com/products/google</link>
-      <description><![CDATA[
-            Google 用于视觉和空间推理的 SOTA 机器人模型！
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/google</guid>
-      <pubDate>Tue, 14 Apr 2026 16:05:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>数据灌浆人工智能</title>
+      <title>数据灌浆</title>
       <link>https://www.producthunt.com/products/datagrout-ai</link>
       <description><![CDATA[
             用于代理 AI 和 MCP 集成的企业 AI 平台
@@ -76,18 +48,32 @@
       <pubDate>Tue, 14 Apr 2026 13:52:51 GMT</pubDate>
     </item>
     <item>
-      <title>克莱德</title>
-      <link>https://www.producthunt.com/products/clide-the-ai-native-mac-terminal</link>
+      <title>实时统计</title>
+      <link>https://www.producthunt.com/products/rtcstats</link>
       <description><![CDATA[
-            带有 AI 的网格布局终端可以驱动您的 shell。
+            通过用户浏览器进行 WebRTC 监控和可观察性
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/clide-the-ai-native-mac-terminal</guid>
-      <pubDate>Tue, 14 Apr 2026 08:16:25 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/rtcstats</guid>
+      <pubDate>Tue, 14 Apr 2026 09:35:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>疯狂</title>
+      <link>https://www.producthunt.com/products/crazzy-3</link>
+      <description><![CDATA[
+            将您的 GitHub 变成活生生的 3D 作品集
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/crazzy-3</guid>
+      <pubDate>Tue, 14 Apr 2026 09:01:02 GMT</pubDate>
     </item>
     <item>
       <title>CC-蜂鸣器</title>
@@ -104,34 +90,6 @@
       <pubDate>Tue, 14 Apr 2026 07:51:26 GMT</pubDate>
     </item>
     <item>
-      <title>爪痕</title>
-      <link>https://www.producthunt.com/products/epsilla</link>
-      <description><![CDATA[
-            让您的 OpenClaw 更好、更便宜、更快
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/epsilla</guid>
-      <pubDate>Tue, 14 Apr 2026 04:22:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>剧本情报</title>
-      <link>https://www.producthunt.com/products/playbook-6</link>
-      <description><![CDATA[
-            直接与您的文件对话以批量编辑、组织和共享
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/playbook-6</guid>
-      <pubDate>Mon, 13 Apr 2026 20:06:34 GMT</pubDate>
-    </item>
-    <item>
       <title>意图</title>
       <link>https://www.producthunt.com/products/augment-code</link>
       <description><![CDATA[
@@ -144,6 +102,34 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/augment-code</guid>
       <pubDate>Mon, 13 Apr 2026 12:54:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>多内利</title>
+      <link>https://www.producthunt.com/products/donely</link>
+      <description><![CDATA[
+            Openclaw供团队部署业务+客户端实例
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/donely</guid>
+      <pubDate>Mon, 13 Apr 2026 03:20:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>CDK 见解</title>
+      <link>https://www.producthunt.com/products/cdk-insights</link>
+      <description><![CDATA[
+            在部署之前发现 AWS CDK 中的安全问题
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/cdk-insights</guid>
+      <pubDate>Sun, 12 Apr 2026 23:58:38 GMT</pubDate>
     </item>
     <item>
       <title>晶圆通行证</title>
@@ -160,32 +146,46 @@
       <pubDate>Sun, 12 Apr 2026 19:34:43 GMT</pubDate>
     </item>
     <item>
-      <title>笔记本笔记2.0。</title>
-      <link>https://www.producthunt.com/products/defter-notes-2-0</link>
+      <title>雷沃爪</title>
+      <link>https://www.producthunt.com/products/revoclaw</link>
       <description><![CDATA[
-            手写空间思维
+            面向个人和企业的 OpenClaw 云替代方案
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/defter-notes-2-0</guid>
-      <pubDate>Tue, 07 Apr 2026 15:21:11 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/revoclaw</guid>
+      <pubDate>Fri, 10 Apr 2026 21:42:05 GMT</pubDate>
     </item>
     <item>
-      <title>卷</title>
-      <link>https://www.producthunt.com/products/roll-3</link>
+      <title>协作</title>
+      <link>https://www.producthunt.com/products/collabute</link>
       <description><![CDATA[
-            适用于手机的一次性相机
+            将您团队的背景转化为行动
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/roll-3</guid>
-      <pubDate>Mon, 06 Apr 2026 19:00:03 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/collabute</guid>
+      <pubDate>Thu, 09 Apr 2026 15:13:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>轮播发生器</title>
+      <link>https://www.producthunt.com/products/carousels-generator</link>
+      <description><![CDATA[
+            从提示到由 AI 提供支持的品牌 LinkedIn 轮播
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/carousels-generator</guid>
+      <pubDate>Wed, 08 Apr 2026 12:54:27 GMT</pubDate>
     </item>
     <item>
       <title>穆什</title>

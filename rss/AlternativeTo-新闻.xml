@@ -4,7 +4,51 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Wed, 15 Apr 2026 13:24:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 02:38:57 GMT</lastBuildDate>
+    <item>
+      <title>向 AlternativeTo 的首个官方合作伙伴 ProtonVPN 打个招呼！</title>
+      <link>https://alternativeto.net/news/2026/4/say-hello-to-protonvpn-alternativeto-s-first-official-partner-/</link>
+      <description><![CDATA[我们很高兴地宣布 ProtonVPN 正式成为 AlternativeTo 的首个官方合作伙伴 🎉 这意味着 Proton 的出色团队正在支持我们的社区驱动平台，并帮助我们继续为全球数百万好奇的用户提供软件发现服务。
+那么您可能会问，这个“官方合作伙伴”计划到底是什么？这是 AlternativeTo 团队的一项新举措，旨在突出一小部分符合我们愿景并希望支持我们社区的产品，分享我们的信念，即软件发现应该保持开放、有用和社区驱动。最重要的是，它是与那些希望帮助 AlternativeTo 继续做过去 18 年来所做的事情的公司合作：保持自由、独立和社区支持。
+官方合作伙伴可能会出现在网站上的专门位置，以展示他们对我们社区的承诺并突出他们的产品。 不会改变的是替代方案、排名和搜索结果的工作方式。正如以往一样，这些仍然由社区的活动、意见和建议决定。毕竟我们是一个众包平台，这仍然是我们所做一切的核心。
+
+为什么ProtonVPN？
+Proton 及其其更广泛的隐私产品生态系统长期以来一直是 AlternativeTo 上熟悉的名字，尤其是 ProtonVPN 一直脱颖而出，成为该领域最受尊敬的隐私工具之一。其中很大一部分来自于一组强大的功能，如 NetShield、Secure Core、强大的反审查工具和独立审核的无日志政策。所有这些都让 ProtonVPN 感觉非常适合第一次合作，因为它代表了我们希望该计划强调的产品类型：受到广泛尊重、真正有用、开源方法，并围绕对像我们这样非常关心信任、透明度和保持在线控制的社区重要的价值观而构建。
+我们非常高兴能够与 ProtonVPN 一起启动这个新计划，并迈出第一步，继续构建不仅对合作伙伴而且对整个 AlternativeTo 社区有价值的东西。如果您有兴趣成为我们的官方合作伙伴之一，可以通过 partners@alternativeto.com 与我们联系。
+查看有关 AlternativeTo 的文章有关 Proton 的更多信息VPN | Proton VPN 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/say-hello-to-protonvpn-alternativeto-s-first-official-partner-/</guid>
+      <pubDate>Wed, 15 Apr 2026 20:49:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare 推出统一的 Wrangler CLI 并为开发人员添加本地浏览器</title>
+      <link>https://alternativeto.net/news/2026/4/cloudflare-introduces-unified-wrangler-cli-and-adds-local-explorer-for-developers/</link>
+      <description><![CDATA[Cloudflare 已开始重建 Wrangler CLI，以作为其所有产品的统一命令行界面。新工具使用户能够使用基础设施即代码原则从不同的 Cloudflare 服务发出命令并配置资源。开发人员现在可以通过运行 npx cf 或通过 npm install -g cf 全局安装来预览新的 cf CLI。
+虽然技术预览版目前仅支持 Cloudflare 产品的子集，但完整的 API 实现正在测试中。 Cloudflare 计划扩展未来的版本，以覆盖整个 API 表面，其输出旨在符合人类和代理的人体工程学。这些增强功能是通过支持新 CLI 的 TypeScript 架构框架实现的，该框架允许对命令、参数和接口进行一致的定义，并生成 OpenAPI 架构。
+此外，Wrangler CLI 还支持模拟本地资源和远程 Cloudflare 服务配置，包括 D1 数据库、R2 存储和 KV 命名空间。此后，Cloudflare 在 Wrangler 和 Cloudflare Vite 插件的公开测试版中推出了 Local Explorer。 Local Explorer 为开发人员提供了本地界面，以检查 Worker 使用哪些资源和绑定，以及当前存储的数据，从而简化本地开发和调试。
+查看有关 AlternativeTo 的文章更多信息Cloudflare | Cloudflare 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/4/cloudflare-introduces-unified-wrangler-cli-and-adds-local-explorer-for-developers/</guid>
+      <pubDate>Wed, 15 Apr 2026 16:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Raspberry Pi 操作系统在新安装时默认禁用无密码 sudo，以提高安全性</title>
+      <link>https://alternativeto.net/news/2026/4/raspberry-pi-os-disables-passwordless-sudo-by-default-on-new-installs-for-greater-security/</link>
+      <description><![CDATA[Raspberry Pi OS 6.2 引入了一项以安全为中心的更改，为新安装默认禁用无密码 sudo。现在，系统将提示运行 sudo 以获得管理员级别访问权限的用户在终端中输入密码。同样，桌面界面中的某些管理操作（例如控制中心中的操作）将弹出一个对话框，要求输入当前用户的密码。
+进行此更改后，一旦为 sudo 输入有效密码，就会有五分钟的宽限期，然后才需要执行后续命令的进一步提示。喜欢早期无密码 sudo 体验的用户可以通过控制中心系统选项卡中的选项恢复到此行为。
+更新现有 Raspberry Pi 操作系统安装的当前用户不会受到此更改的影响，除非他们手动调整管理员密码设置。在更新的系统上，控制中心将显示新的管理员密码开关，但默认的无密码 sudo 保持启用状态，直到用户决定修改它。除了 sudo 策略更新之外，Raspberry Pi OS 6.2 还包括过去几个月累积的细微更改和错误修复。
+查看有关 AlternativeTo 的文章有关 Raspberry Pi 的更多信息操作系统 | Raspberry Pi 操作系统替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/raspberry-pi-os-disables-passwordless-sudo-by-default-on-new-installs-for-greater-security/</guid>
+      <pubDate>Wed, 15 Apr 2026 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anthropic 在 Claude Code 中引入了用于计划和事件驱动自动化的例程</title>
+      <link>https://alternativeto.net/news/2026/4/anthropic-introduces-routines-in-claude-code-for-scheduled-and-event-driven-automation/</link>
+      <description><![CDATA[Anthropic 在 Claude Code 中推出了例程作为研究预览，为用户引入了一种通过可配置工作流程自动执行任务的新方法。例程允许用户定义自动化，包括提示、存储库访问和连接器，并将它们设置为按固定计划运行、响应 API 调用或由特定事件触发。
+与以前要求开发人员管理 cron 作业和基础设施的方法不同，例程完全在 Claude Code 的 Web 平台上运行。这意味着无论用户的本地计算机是否在线，自动化都会继续运行。用户可以指定提示并为这些工作流程设置每小时、每晚或每周的节奏。之前在命令行界面中使用 /schedule 命令分配的任务会自动转换为计划例程。
+除了调度之外，每个例程都被分配了一个唯一的 API 端点和身份验证令牌，允许外部应用程序通过 HTTP 请求触发工作流程。这可以实现与警报、部署挂钩或内部工具等服务的集成。接下来，还可以将例程设置为根据 GitHub 存储库事件激活。对于每个合格的拉取请求，Claude Code 都会创建一个会话来处理更新、管理评论并跟踪持续集成失败。虽然基于 Webhook 的触发器目前涵盖 GitHub，但 Anthropic 打算扩展事件源兼容性。所有使用 Pro、Max、Team 和 Enterprise 计划并启用 Web 访问的 Claude Code 用户都可以立即使用例程。
+查看有关 AlternativeTo 的文章有关 Claude 的更多信息代码 | Claude 代码替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/4/anthropic-introduces-routines-in-claude-code-for-scheduled-and-event-driven-automation/</guid>
+      <pubDate>Wed, 15 Apr 2026 13:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌在 Chrome 中推出了保存、自定义和重用自定义 Gemini 提示的技能</title>
       <link>https://alternativeto.net/news/2026/4/google-launches-skills-in-chrome-for-saving-customizing-and-reusing-custom-gemini-prompts/</link>
@@ -110,45 +154,6 @@
 查看有关 AlternativeTo 的文章有关 Partnerstack 的更多信息 | Partnerstack 替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/4/partnerstack-acquired-by-appdirect-for-expanded-b2b-distribution/</guid>
       <pubDate>Tue, 14 Apr 2026 16:20:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lovable Payments 简化了设置、全球税务和安全测试</title>
-      <link>https://alternativeto.net/news/2026/4/lovable-payments-streamlines-setup-global-tax-and-secure-testing/</link>
-      <description><![CDATA[Lovable 引入了付款功能，这是一个用于添加付款功能的一分钟设置过程。用户可以安全地测试更改并在准备好后发布。
-该平台还支持 200 多个国家/地区的增值税、销售税和货币兑换。
-查看有关 AlternativeTo 的文章有关 Lovable 的更多信息 | 可爱的替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/lovable-payments-streamlines-setup-global-tax-and-secure-testing/</guid>
-      <pubDate>Tue, 14 Apr 2026 15:39:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linwood Butterfly 2.5 添加了新的模板系统、自定义键绑定和 WebDAV 重写</title>
-      <link>https://alternativeto.net/news/2026/4/linwood-butterfly-2-5-adds-new-template-system-custom-keybindings-and-webdav-rewrite/</link>
-      <description><![CDATA[Linwood Butterfly 2.5 推出了完全重建的模板系统，可以对模板选择进行分类和扩展，包括深色变体。此更新添加了自定义按键绑定和新的触摸快捷键，以实现更好的工作流程个性化。
-它还具有重写的 WebDAV 文件系统，旨在实现更可靠的远程文件同步和备份。
-查看有关 AlternativeTo 的文章有关 Linwood 的更多信息蝴蝶 | 林伍德蝴蝶替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/linwood-butterfly-2-5-adds-new-template-system-custom-keybindings-and-webdav-rewrite/</guid>
-      <pubDate>Tue, 14 Apr 2026 15:35:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sync-in 2.2 添加了 PDF 的 OCR 搜索、管理空间控件、事件处理等</title>
-      <link>https://alternativeto.net/news/2026/4/sync-in-2-2-adds-ocr-search-for-pdfs-admin-space-controls-event-processing-and-more/</link>
-      <description><![CDATA[Sync-in 2.2 对其文件存储和协作平台进行了多项升级。改进的搜索和索引现在使用光学字符识别 (OCR) 来提取 PDF 文件中的图像并为其建立索引，而 Markdown 文件内容也包含在搜索中。这扩展了所有用户的文件可发现性。
-在管理界面中，管理员能够创建和管理空间、分配配额以及监控用户和空间级别的存储使用情况。在这些管理更新之后，事件处理得到了增强：文件操作触发专用事件处理器，自动更新每个用户和空间的存储计算，并在启用该功能的情况下执行全文索引。这种架构提高了信息一致性并确保文件相关数据保持最新。
-经理现在可以直接从宾客个人资料设置中管理宾客的个人群组，从而为协作团队提供更好的控制。 LDAP 目录集成现在支持额外的 Node.js 传输层安全 (TLS) 选项，有助于更安全的企业设置。
-在文档处理方面，PDF 文件现在可以使用 PDF.js 查看器打开，并且可以在启用 OnlyOffice 时切换到编辑模式。群组搜索也得到了改进，以考虑群组描述。最后，Sync-in 2.2 包含多个错误修复，以提高整体稳定性和可用性。
-查看有关 AlternativeTo 的文章更多信息同步输入 | 同步输入替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/4/sync-in-2-2-adds-ocr-search-for-pdfs-admin-space-controls-event-processing-and-more/</guid>
-      <pubDate>Tue, 14 Apr 2026 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌将于 2026 年 6 月开始通过新的垃圾邮件政策惩罚“后退按钮劫持”</title>
-      <link>https://alternativeto.net/news/2026/4/google-will-start-penalizing-back-button-hijacking-with-new-spam-policy-in-june-2026/</link>
-      <description><![CDATA[Google 正在修改其垃圾邮件政策，以解决“后退按钮劫持”问题，这是一种干扰浏览器导航的欺骗性策略。这种做法很快就会成为谷歌垃圾邮件政策中明确归类为恶意行为的违规行为。参与后退按钮劫持的网站所有者现在面临更直接的风险，因为谷歌将同时应用手动垃圾邮件操作和自动降级。这些处罚会显着降低网站在 Google 搜索 上的曝光率和性能。
-虽然这一变化的重点是网站管理员合规性，但它源于更广泛的用户担忧。后退按钮劫持会阻止用户返回到上一页，有时会将他们重定向到不熟悉的网站或显示不需要的推荐和广告，从而破坏预期的浏览器行为。这种操纵不仅破坏了用户的信任，而且还造成了挫败感，一些用户报告说，在经历过这种经历后，他们不太愿意访问不熟悉的网站。
-为了让网站站长有足够的时间适应，Google 提前两个月发布了此政策更新。执法将于 2026 年 6 月 15 日开始，为网站运营商提供了一个清晰的窗口，让他们可以在实施处罚之前审查和更新其做法。
-查看有关 AlternativeTo 的文章有关 Google 的更多信息搜索 | Google 搜索替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/4/google-will-start-penalizing-back-button-hijacking-with-new-spam-policy-in-june-2026/</guid>
-      <pubDate>Tue, 14 Apr 2026 13:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

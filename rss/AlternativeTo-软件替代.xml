@@ -4,48 +4,48 @@
     <title>新版本 – AlternativeTo.net</title>
     <link>https://alternativeto.net/releases/all</link>
     <description>最新软件添加到 AlternativeTo</description>
-    <lastBuildDate>Wed, 15 Apr 2026 13:24:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 02:38:43 GMT</lastBuildDate>
+    <item>
+      <title>没有任何扭曲</title>
+      <link>https://alternativeto.net/software/nothing-warp/about/</link>
+      <description><![CDATA[Nothing Warp 是一款轻量级浏览器扩展程序，可帮助您在计算机和 Android 手机之间移动文件、链接、复制的文本和图像。在 AlternativeTo 上查看Nothing Warp Alternatives]]></description>
+      <guid>https://alternativeto.net/software/nothing-warp/about/</guid>
+      <pubDate>Thu, 16 Apr 2026 02:38:24 GMT</pubDate>
+    </item>
     <item>
       <title>流体CAD</title>
       <link>https://alternativeto.net/software/fluidcad/about/</link>
       <description><![CDATA[基于浏览器的参数化 3D CAD，具有 JavaScript 脚本、交互式视口编辑、功能历史记录、STEP 导入/导出和熟悉的工作流程。在 AlternativeTo 上查看FluidCAD 替代方案]]></description>
       <guid>https://alternativeto.net/software/fluidcad/about/</guid>
-      <pubDate>Wed, 15 Apr 2026 13:23:37 GMT</pubDate>
+      <pubDate>Thu, 16 Apr 2026 02:38:24 GMT</pubDate>
     </item>
     <item>
       <title>Mac 上的术语</title>
       <link>https://alternativeto.net/software/termonmac/about/</link>
       <description><![CDATA[Mac 远程终端，无需 SSH 设置，加密端到端，跨设备会话传输，自动重新连接，键盘快捷键，最多 4 台 Mac。在 AlternativeTo 上查看TermOnMac替代方案]]></description>
       <guid>https://alternativeto.net/software/termonmac/about/</guid>
-      <pubDate>Wed, 15 Apr 2026 13:23:37 GMT</pubDate>
+      <pubDate>Thu, 16 Apr 2026 02:38:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>华夫饼终端</title>
+      <link>https://alternativeto.net/software/waffle--macos-terminal/about/</link>
+      <description><![CDATA[将所有 macOS 终端会话自动平铺到单个全屏或网格窗口中，通过颜色编码、零设置和原生 Swift 性能立即按项目分组。在 AlternativeTo 上查看华夫饼终端替代品]]></description>
+      <guid>https://alternativeto.net/software/waffle--macos-terminal/about/</guid>
+      <pubDate>Thu, 16 Apr 2026 02:38:24 GMT</pubDate>
     </item>
     <item>
       <title>纯Mac</title>
       <link>https://alternativeto.net/software/puremac/about/</link>
       <description><![CDATA[免费、开源的 macOS 清理器。 CleanMyMac 零遥测替代方案。原生 SwiftUI、定时自动清理、Xcode/Homebrew/系统缓存清理。 MIT 许可。查看 AlternativeTo PureMac 替代品]]></description>
       <guid>https://alternativeto.net/software/puremac/about/</guid>
-      <pubDate>Wed, 15 Apr 2026 13:23:37 GMT</pubDate>
+      <pubDate>Thu, 16 Apr 2026 02:38:24 GMT</pubDate>
     </item>
     <item>
       <title>XChat</title>
       <link>https://alternativeto.net/software/xchat-1/about/</link>
       <description><![CDATA[在专为对话而打造的私密、专注的空间中与 X 上的任何人聊天。没有广告。没有跟踪。完全端到端加密。在 AlternativeTo 上查看XChat 替代方案]]></description>
       <guid>https://alternativeto.net/software/xchat-1/about/</guid>
-      <pubDate>Wed, 15 Apr 2026 13:23:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>追踪栏</title>
-      <link>https://alternativeto.net/software/tracebar/about/</link>
-      <description><![CDATA[逐跳查看您的网络。 macOS 菜单栏中的连续图形跟踪路由监控。在 AlternativeTo 上查看Tracebar 替代品]]></description>
-      <guid>https://alternativeto.net/software/tracebar/about/</guid>
-      <pubDate>Wed, 15 Apr 2026 13:23:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>概述</title>
-      <link>https://alternativeto.net/software/delineato/about/</link>
-      <description><![CDATA[面向自由职业者和创意团队的极简图表和思维导图工具，提供 Web、iOS 和 Android 访问权限，永久免费，具有多个主题。查看 AlternativeTo Delineato Alternatives]]></description>
-      <guid>https://alternativeto.net/software/delineato/about/</guid>
-      <pubDate>Wed, 15 Apr 2026 13:23:37 GMT</pubDate>
+      <pubDate>Thu, 16 Apr 2026 02:38:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
