@@ -4,7 +4,67 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Thu, 16 Apr 2026 02:38:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 13:44:08 GMT</lastBuildDate>
+    <item>
+      <title>谷歌升级后的桌面应用程序现已在 Windows 上使用，具有类似 Spotlight 的人工智能搜索功能</title>
+      <link>https://alternativeto.net/news/2026/4/google-s-upgraded-desktop-app-is-now-available-on-windows-with-spotlight-like-ai-search/</link>
+      <description><![CDATA[升级后的桌面版 Google 应用现已向全球 Windows 用户提供英文版本，引入了多项旨在简化搜索和提高工作效率的新功能。此次更新的核心是，该应用程序集成了 AI 模式，允许用户直接提出问题并接收 AI 驱动的答案，其中包括用于进一步探索的相关网络链接。
+除了 AI 功能外，该应用还允许用户使用键盘快捷键 Alt + Space 即时搜索桌面文件、已安装的应用程序、Google 云端硬盘文档和网络。这个统一的搜索框简化了对多个来源的信息的访问。该应用以搜索功能为基础，包括 Lens 支持，可以选择和搜索屏幕的任何部分，无论是翻译图像、提取文本还是协助完成家庭作业。
+在这些工作流程改进之后，该应用引入了屏幕共享选项，让用户可以选择一个窗口或全屏来继续搜索和提问，而不会中断他们的活动。通过帮助用户在搜索或交互后准确地从上次中断的地方继续执行任务的设计，进一步增强了用户体验。
+查看有关 AlternativeTo 的文章有关 Google 的更多信息搜索 | Google 搜索替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/4/google-s-upgraded-desktop-app-is-now-available-on-windows-with-spotlight-like-ai-search/</guid>
+      <pubDate>Thu, 16 Apr 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mistral AI 在 Studio 中引入了连接器，具有 API/SDK 访问和人机交互流程</title>
+      <link>https://alternativeto.net/news/2026/4/mistral-ai-introduces-connectors-in-studio-with-api-sdk-access-and-human-in-the-loop-flows/</link>
+      <description><![CDATA[Mistral 发布了 Studio 连接器，为开发人员构建使用企业数据的定制 AI 应用程序提供了新的机会。所有内置连接器和自定义模型上下文协议 (MCP) 现在都可以通过 API 和软件开发工具包 (SDK) 进行访问，从而简化了模型和代理调用的集成。
+在此版本之后，开发人员可以直接调用具有细粒度控制的工具，从而消除测试和迭代期间的身份验证步骤。还引入了人机交互审批流程，允许团队在执行工具之前插入安全审查和确认步骤，这有助于满足治理和合规性需求。
+现在支持编程管理，允许用户创建、修改、列出和删除连接器，还可以列出或运行其关联的工具。所有连接器均集中注册，可在 Mistral 应用程序中使用，包括 Le Chat 和 AI Studio。此外，还可以通过 Conversation API、Completions API 和 Agent SDK 使用连接器。这有利于复杂的工作流程以及客户关系管理 (CRM) 平台、知识库和生产力工具等系统的整合。
+基于此架构，每个连接器都使用 MCP 协议打包为可重用实体。注册后，它就可以在代理、工作流程和对话中发现和使用，而无需额外的集成逻辑。
+查看有关 AlternativeTo 的文章有关 Mistral AI Studio 的更多信息 | Mistral AI Studio 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/4/mistral-ai-introduces-connectors-in-studio-with-api-sdk-access-and-human-in-the-loop-flows/</guid>
+      <pubDate>Thu, 16 Apr 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>YouTube 现在将在聊天高峰期间延迟直播广告，以“保护氛围”</title>
+      <link>https://alternativeto.net/news/2026/4/youtube-will-now-delay-livestream-ads-during-peak-chat-engagement-to-protect-the-vibe-/</link>
+      <description><![CDATA[YouTube 推出了四项更新，以提高 YouTube Live 上的创作者和观看者的用户参与度。该平台现在可以检测实时聊天中的高峰活动并自动延迟广告，确保活跃的社区讨论继续进行而不会中断。此后，YouTube 允许观众通过移动设备在水平和垂直直播中发送礼物，并将此功能扩展到加拿大、韩国、印度尼西亚、泰国、澳大利亚和新西兰的创作者。该公司计划支持更多国家，并正在为当地节日和活动开发针对特定地区的礼品。
+为了进一步鼓励实时支持，YouTube 现在在用户发送超级聊天、超级贴纸或礼物后立即为他们提供短暂的无广告期。这使得创作者可以在不被广告打扰的情况下感谢支持者，自动申请启用广告的流。基于多格式的可访问性，创作者可以同时在垂直和水平视图中进行广播，将所有参与者联合起来进行一次聊天。 YouTube 还正在准备新的自定义功能，例如 Live Studio 中的垂直裁剪布局和多个流密钥，这最终将为每种流格式提供独特的自定义提要。
+查看有关 AlternativeTo 的文章更多有关YouTube | YouTube 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/youtube-will-now-delay-livestream-ads-during-peak-chat-engagement-to-protect-the-vibe-/</guid>
+      <pubDate>Thu, 16 Apr 2026 07:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google 推出新的 Mac 桌面 Gemini 应用程序，可通过屏幕共享查看您的活动</title>
+      <link>https://alternativeto.net/news/2026/4/google-launches-new-desktop-gemini-app-for-mac-with-screen-sharing-to-see-your-activity/</link>
+      <description><![CDATA[Google 推出了一款专用于 Mac 的原生 Gemini 应用，为用户提供桌面版本的聊天机器人，而不仅仅是依赖网络体验。该应用现已适用于所有支持 Gemini 的国家/地区和语言的运行 macOS 15 Sequoia 或更高版本的 Mac。
+Gemini for Mac 可以使用键盘快捷键从 macOS 中的任何位置打开。默认情况下，Option + Space 打开迷你聊天覆盖，而 Option + Shift + Space 打开完整的桌面体验，这两个快捷方式都可以从应用程序设置中进行调整。迷你聊天旨在让用户在文档、浏览器选项卡、设计文件、编码环境或其他应用程序中工作时提出问题。
+主要功能之一是屏幕共享，它允许 Gemini 查看用户屏幕上当前的内容并根据上下文进行响应，从而减少手动复制和粘贴文本、屏幕截图、图像或其他内容的需要。用户可以提出有关文档、设计、网页、图像、数据、代码和共享本地文件的问题，同时该应用还可以共享完整的网页，并支持通过 Nano Banana 和 Veo 生成图像和视频。不过，Gemini for Mac 似乎不包含 Claude 的计算机使用等代理功能，因此目前它无法真正接管计算机并代表用户执行任务。
+查看有关 AlternativeTo 的文章有关 Google 的更多信息Gemini | Google Gemini 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/4/google-launches-new-desktop-gemini-app-for-mac-with-screen-sharing-to-see-your-activity/</guid>
+      <pubDate>Thu, 16 Apr 2026 04:59:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adobe 推出 Firefly AI Assistant，可在 Creative Cloud 上进行提示驱动的编辑</title>
+      <link>https://alternativeto.net/news/2026/4/adobe-unveils-firefly-ai-assistant-for-prompt-driven-editing-across-creative-cloud/</link>
+      <description><![CDATA[Adobe 宣布即将推出 Firefly AI Assistant，这是一款新的对话式 AI 工具，可让用户在 Firefly 上编辑其项目，Photoshop、Premiere、Lightroom、Express、Illustrator 和其他使用文本提示的 Creative Cloud 应用程序。用户将能够请求“修饰此图像”或“为社交媒体调整其大小”等编辑，助手会生成可编辑选项而不是单个最终结果。
+助手还可以显示相关工具和控件进行微调，而更详细的调整仍然可以在标准 Creative Cloud 应用程序中完成。 Adobe 表示，其目标是减少技术障碍并自动执行重复性任务，同时让创作者掌控最终输出。该公司还通过 Anthropic 扩展其代理 AI 工作，将这些功能引入 Claude 等第三方 AI 应用程序，以便用户可以访问 Firefly 和 Creative Cloud 之外的 Adob​​e 工具。该助手将于本月晚些时候作为公开测试版发布。
+Adobe 还推出了 Firefly 更新，包括用于可重复使用预设的创意技能、用于定义编辑区域的 AI 标记、用于比较生成图像的 Precision Flow、Firefly 视频编辑器中的新颜色和对话工具，以及用于 B 卷素材的直接 Adobe Stock 集成。
+查看有关 AlternativeTo 的文章有关 Adobe 的更多信息Firefly | Adobe Firefly 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/adobe-unveils-firefly-ai-assistant-for-prompt-driven-editing-across-creative-cloud/</guid>
+      <pubDate>Thu, 16 Apr 2026 04:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 推出 GPT-5.4-Cyber​​，这是对 Anthropic 网络安全神话的回应</title>
+      <link>https://alternativeto.net/news/2026/4/openai-introduces-gpt-5-4-cyber-its-response-to-anthropic-s-mythos-for-cybersecurity/</link>
+      <description><![CDATA[OpenAI 已宣布 GPT-5.4-Cyber，这是 GPT-5.4 是对 Anthropic 的克劳德神话预览的直接回应，这也是上周宣布的。与 Mythos 一样，该模型旨在防御性网络安全工作，但 OpenAI 正在将其方法构建为经过验证的防御者更广泛的访问权限，而不是仅限于一小部分大公司的工具。
+GPT-5.4-Cyber 被描述为更加“网络宽容”，这意味着与通用 AI 模型相比，它对合法安全任务的拒绝边界更低。它还增加了二进制逆向工程功能，使分析人员能够检查程序和应用程序是否存在恶意代码。访问仍将通过OpenAI 的可信网络访问计划进行限制，并采用新的分层验证系统，其中最高层解锁 GPT-5.4-Cyber。
+Anthropic 的 Glasswing 项目提供了更多背景信息，说明为什么这些模型在受控访问下发布。该公司表示，Claude Mythos Preview 已经发现了数千个高严重性漏洞，凸显了此类人工智能功能的防御价值和潜在风险，这就是该公司决定暂时对访问施加更多限制的原因。 OpenAI 表示，GPT-5.4-Cyber 是其准备工作的一部分，预计将于今年晚些时候推出更强大的网络安全模型。
+查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/4/openai-introduces-gpt-5-4-cyber-its-response-to-anthropic-s-mythos-for-cybersecurity/</guid>
+      <pubDate>Thu, 16 Apr 2026 04:08:54 GMT</pubDate>
+    </item>
     <item>
       <title>向 AlternativeTo 的首个官方合作伙伴 ProtonVPN 打个招呼！</title>
       <link>https://alternativeto.net/news/2026/4/say-hello-to-protonvpn-alternativeto-s-first-official-partner-/</link>
@@ -25,7 +85,7 @@ Proton 及其其更广泛的隐私产品生态系统长期以来一直是 Altern
       <description><![CDATA[Cloudflare 已开始重建 Wrangler CLI，以作为其所有产品的统一命令行界面。新工具使用户能够使用基础设施即代码原则从不同的 Cloudflare 服务发出命令并配置资源。开发人员现在可以通过运行 npx cf 或通过 npm install -g cf 全局安装来预览新的 cf CLI。
 虽然技术预览版目前仅支持 Cloudflare 产品的子集，但完整的 API 实现正在测试中。 Cloudflare 计划扩展未来的版本，以覆盖整个 API 表面，其输出旨在符合人类和代理的人体工程学。这些增强功能是通过支持新 CLI 的 TypeScript 架构框架实现的，该框架允许对命令、参数和接口进行一致的定义，并生成 OpenAPI 架构。
 此外，Wrangler CLI 还支持模拟本地资源和远程 Cloudflare 服务配置，包括 D1 数据库、R2 存储和 KV 命名空间。此后，Cloudflare 在 Wrangler 和 Cloudflare Vite 插件的公开测试版中推出了 Local Explorer。 Local Explorer 为开发人员提供了本地界面，以检查 Worker 使用哪些资源和绑定，以及当前存储的数据，从而简化本地开发和调试。
-查看有关 AlternativeTo 的文章更多信息Cloudflare | Cloudflare 替代方案]]></description>
+查看有关 AlternativeTo 的文章更多信息Cloudflare | Cloudflare 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/4/cloudflare-introduces-unified-wrangler-cli-and-adds-local-explorer-for-developers/</guid>
       <pubDate>Wed, 15 Apr 2026 16:30:00 GMT</pubDate>
     </item>
@@ -53,7 +113,7 @@ Proton 及其其更广泛的隐私产品生态系统长期以来一直是 Altern
       <title>谷歌在 Chrome 中推出了保存、自定义和重用自定义 Gemini 提示的技能</title>
       <link>https://alternativeto.net/news/2026/4/google-launches-skills-in-chrome-for-saving-customizing-and-reusing-custom-gemini-prompts/</link>
       <description><![CDATA[Google 正在 Chrome 中推出技能，该功能让用户只需单击一下即可保存并重复使用最有用的 AI 提示。此更新允许将任何有价值的提示转变为可重复使用的技能，并可以直接从聊天记录中访问，从而简化了用户在 Chrome 中与 Gemini 的交互方式。
-保存后，可以通过键入正斜杠或单击加号在 Chrome 的 Gemini 中激活这些技能。该功能在当前页面或其他选定的选项卡上运行选定的技能。用户可以随时编辑之前保存的技能或创建新技能，从而支持日常工作流程的灵活性。
+保存后，可以通过键入正斜杠或单击加号在 Chrome 的 Gemini 中激活这些技能。该功能在当前页面或其他选定选项卡上运行选定的技能。用户可以随时编辑之前保存的技能或创建新技能，从而支持日常工作流程的灵活性。
 除了自定义技能之外，Google 还提供了一个涵盖常见任务和工作流程的即用型技能库。用户可以将这些技能添加到他们的个人列表中，进行尝试并进行调整以更好地满足他们的需求。技能受到与 Chrome 中 Gemini 相同的保护措施的保护，在采取敏感操作（例如添加日历事件或发送电子邮件）之前需要确认。所有保存的技能都可以在任何已登录的 Chrome 桌面设备上使用。
 查看有关 AlternativeTo 的文章有关 Google 的更多信息Chrome | Google Chrome 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/4/google-launches-skills-in-chrome-for-saving-customizing-and-reusing-custom-gemini-prompts/</guid>
@@ -96,64 +156,6 @@ Proton 及其其更广泛的隐私产品生态系统长期以来一直是 Altern
 查看有关 AlternativeTo 的文章有关 Lovable 的更多信息  | 可爱的替代品]]></description>
       <guid>https://alternativeto.net/news/2026/4/lovable-launches-mac-desktop-app-with-multi-project-support/</guid>
       <pubDate>Wed, 15 Apr 2026 07:39:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Booking.com 确认数据泄露，暴露了用户联系方式和预订信息</title>
-      <link>https://alternativeto.net/news/2026/4/booking-com-confirms-data-breach-exposing-user-contact-and-reservation-info/</link>
-      <description><![CDATA[Booking.com 已确认，未经授权的第三方访问了部分用户的预订数据，包括全名、电子邮件和邮政地址、电话号码以及与住宿提供商交换的消息。该公司尚未透露有多少客户受到影响，但表示将直接通知受影响的客人。
-在检测到可疑活动后，Booking.com 表示已解决该问题，并为当前和过去受影响的预订重置了 PIN 码。 &lt;一href=&quot;https://www.reddit.com/r/Bookingcom/comments/1sjglxc/weird_email/?solution=f56b7ef7925ddc78f56b7ef792 5ddc78&amp;js_challenge=1&amp;token=bbbe4bf1c9a2b5160829c4be34da5861f163e7a75251a478379ec2c0ac033cc2&quot;&gt;用户通过 noreply@booking.com 发送的电子邮件联系我们，该公司表示未访问包括付款详细信息在内的财务信息。
-该通知警告用户留意可疑电子邮件或电话，避免点击未经请求的消息中的链接，并记住 Booking.com 不会要求提供敏感的个人数据或银行转帐。一些客户对缺乏应用内提醒感到困惑，而另一些客户则报告了引用私人预订详细信息的诈骗尝试，其中由于私人电话号码暴露，有些人甚至通过 WhatsApp 联系。
-查看有关 AlternativeTo 的文章更多信息Booking.com | Booking.com 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/4/booking-com-confirms-data-breach-exposing-user-contact-and-reservation-info/</guid>
-      <pubDate>Wed, 15 Apr 2026 05:44:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>DaVinci Resolve 21 推出全新功能齐全的照片编辑工具，与 Lightroom 竞争</title>
-      <link>https://alternativeto.net/news/2026/4/davinci-resolve-21-introduces-new-full-blown-photo-editing-tools-to-compete-with-lightroom/</link>
-      <description><![CDATA[Blackmagic 刚刚推出了 DaVinci Resolve 的最大规模更新之一，版本 21，意外地为其本已强大的视频编辑器赋予了全面的照片编辑功能，使其更接近Lightroom 和其他专用照片编辑器。新的照片页面允许摄影师和调色师使用Resolve基于节点的分级工作流程来编辑RAW图像，使用串行、并行和共享节点进行复杂的编辑或在相册中应用相同的外观。它还支持以原始分辨率和纵横比进行裁剪和重新构图，同时以非破坏性工作流程保持文件质量。
-照片编辑功能包括 Resolve FX 和 Open FX 插件支持、LUT、用于一键对象或人物遮罩的 AI Magic Mask、用于本地编辑的手动选择工具以及用于升级低分辨率照片和视频的 AI UltraSharpen。 Resolve 21 还添加了用于浏览相册的 LightBox 视图、用于编辑状态的过滤器、星级、标记和剪辑颜色、按拍摄日期或相机型号创建相册、Lightroom 目录导入以及兼容索尼和佳能相机的联机拍摄（带有 ISO、曝光和白平衡控制）。
-除了新的照片编辑器之外，DaVinci Resolve 21 还引入了针对视频编辑的多项 AI 升级。 IntelliSearch 可以查找剪辑中的对象、对话关键词和人物，而 AI CineFocus 则可以让剪辑师通过可调节光圈、焦距范围和关键帧来模拟景深和机架对焦效果。该更新还添加了从文本或录制的语音样本生成语音、AI 脸部年龄转换器、AI 脸部整形器、AI 瑕疵去除、AI 运动去模糊以及针对低质量或轻微失焦镜头的改进的 AI UltraSharpen。公开测试版现已免费提供，计划推出免费版本，完整工作室版本售价 295 美元。
-查看有关 AlternativeTo 的文章更多信息DaVinci Resolve | DaVinci Resolve 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/davinci-resolve-21-introduces-new-full-blown-photo-editing-tools-to-compete-with-lightroom/</guid>
-      <pubDate>Wed, 15 Apr 2026 04:35:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Prime Video Ultra 在美国推出，将无广告访问价格提高至 4.99 美元，并提供新功能</title>
-      <link>https://alternativeto.net/news/2026/4/prime-video-ultra-launches-in-us-raises-ad-free-access-price-to-4-99-with-new-features/</link>
-      <description><![CDATA[亚马逊在美国推出了 Prime Video Ultra，大约在首次宣布新服务一个月后层。 它取代了之前的无广告计划，目前 Prime 订阅者的每月费用为 4.99 美元，高于 2.99 美元，增长了约 67%。
-更高的价格伴随着附加功能，包括4K 和超高清流媒体仅限于 Ultra，同时并发流媒体数量从 3 个增加到 5 个。离线下载量也从 25 个增加到 100 个，用户数量是之前限制的四倍。
-即使添加了这些内容，对许多用户来说，主要的吸引力可能仍然是删除广告。对于只想要无广告观看的订阅者来说，这一变化使得该选项更加昂贵，并且与更广泛的高级层相关。
-查看有关 AlternativeTo 的文章有关 Prime 的更多信息视频 | Prime 视频替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/prime-video-ultra-launches-in-us-raises-ad-free-access-price-to-4-99-with-new-features/</guid>
-      <pubDate>Tue, 14 Apr 2026 23:05:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude for Excel 和 PowerPoint 获得打开文件的完整上下文和一键式 AI 技能</title>
-      <link>https://alternativeto.net/news/2026/4/claude-for-excel-and-powerpoint-gains-full-context-across-open-files-and-one-click-ai-skills/</link>
-      <description><![CDATA[Anthropic 使 Claude 能够使用 Excel 和 PowerPoint 在所有打开的文件中共享完整的对话上下文，从而允许一个应用程序中的操作根据来自其他。这简化了工作流程并减少了重复解释的需要，因为用户可以在单个连续对话中在电子表格、幻灯片和任务之间移动。
-基于这种上下文共享功能，Claude 现在可以读取单元格值、编写公式、合并数据集以及跨多个打开的文件编辑幻灯片，同时还可以跨 Excel 和 PowerPoint 无缝地进行用户对话。在测试版发布期间，所有付费计划的 Mac 和 Windows 用户都可以使用这种互连方法。
-在上下文增强之后，Excel 和 PowerPoint 加载项中添加了技能。这些功能使团队成员能够将整个工作流程转换为一键操作，例如保存差异分析或自定义客户端流程以供重复使用。此外，Anthropic 还针对常见的 Excel 和 PowerPoint 场景提供了一套预装的入门技能。
-为了进一步扩展可访问性，Claude for Excel 和 PowerPoint 现已通过 Amazon Bedrock、Google Cloud 的 Vertex AI 和 Microsoft 提供铸造厂。所有付费计划用户都可以访问技能和改进的上下文共享。
-查看有关 AlternativeTo 的文章更多信息克劳德 | 克劳德替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/claude-for-excel-and-powerpoint-gains-full-context-across-open-files-and-one-click-ai-skills/</guid>
-      <pubDate>Tue, 14 Apr 2026 16:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ghost 引入了欢迎电子邮件模板的完整设计定制</title>
-      <link>https://alternativeto.net/news/2026/4/ghost-introduces-full-design-customization-for-welcome-email-templates/</link>
-      <description><![CDATA[Ghost 引入了欢迎电子邮件模板的完整设计自定义，提供与新闻通讯相同的控件。用户可以调整颜色、排版、按钮和徽标，以提高品牌一致性。
-现在还可以为欢迎电子邮件单独设置发件人姓名和回复详细信息。
-查看有关 AlternativeTo 的文章有关 Ghost 的更多信息 | 幽灵替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/ghost-introduces-full-design-customization-for-welcome-email-templates/</guid>
-      <pubDate>Tue, 14 Apr 2026 16:27:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>AppDirect 收购 PartnerStack 以扩大 B2B 分销</title>
-      <link>https://alternativeto.net/news/2026/4/partnerstack-acquired-by-appdirect-for-expanded-b2b-distribution/</link>
-      <description><![CDATA[PartnerStack 已被 AppDirect 收购，将其合作伙伴主导的生态系统集成到 AppDirect 的 B2B 分销平台中。现有的 PartnerStack 客户和合作伙伴将维持其当前的计划和平台，未来可以访问 AppDirect 更大的网络、额外的分销渠道和新的市场机会。
-查看有关 AlternativeTo 的文章有关 Partnerstack 的更多信息 | Partnerstack 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/4/partnerstack-acquired-by-appdirect-for-expanded-b2b-distribution/</guid>
-      <pubDate>Tue, 14 Apr 2026 16:20:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
