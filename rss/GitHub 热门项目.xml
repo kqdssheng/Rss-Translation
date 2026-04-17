@@ -4,12 +4,82 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 17 Apr 2026 02:35:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 13:19:56 GMT</lastBuildDate>
     <item>
-      <title>OpenAI 代理 SDK</title>
+      <title>Studio – AI 原生媒体工作空间</title>
+      <link>https://www.producthunt.com/products/coreviz-visual-ai-for-teams</link>
+      <description><![CDATA[
+            使用 AI 一次性组织、标记和编辑数千张照片
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/coreviz-visual-ai-for-teams</guid>
+      <pubDate>Fri, 17 Apr 2026 04:19:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>DASC</title>
+      <link>https://www.producthunt.com/products/dasca</link>
+      <description><![CDATA[
+            GLSL Playground 的实时视觉效果
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/dasca</guid>
+      <pubDate>Fri, 17 Apr 2026 01:16:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>斯托亚</title>
+      <link>https://www.producthunt.com/products/stoa-4</link>
+      <description><![CDATA[
+            用于完成实际工作的实时多人 AI 团队空间
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/stoa-4</guid>
+      <pubDate>Thu, 16 Apr 2026 23:04:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>比邻星</title>
+      <link>https://www.producthunt.com/products/proxima-agentic-training-partner</link>
+      <description><![CDATA[
+            AI-Native 锻炼编程伴侣
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/proxima-agentic-training-partner</guid>
+      <pubDate>Thu, 16 Apr 2026 20:12:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>纳沃克斯代理</title>
+      <link>https://www.producthunt.com/products/navox-agents</link>
+      <description><![CDATA[
+            Claude Code 的专业人工智能工程团队
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/navox-agents</guid>
+      <pubDate>Thu, 16 Apr 2026 18:37:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 的 Codex 2.0</title>
       <link>https://www.producthunt.com/products/openai</link>
       <description><![CDATA[
-            使用线束和沙箱构建生产代理
+            Codex 现在运行应用程序、自动执行任务、代码等
           
 
 讨论
@@ -17,203 +87,133 @@
             链接
 ]]></description>
       <guid>https://www.producthunt.com/products/openai</guid>
-      <pubDate>Thu, 16 Apr 2026 06:51:50 GMT</pubDate>
+      <pubDate>Thu, 16 Apr 2026 17:18:10 GMT</pubDate>
     </item>
     <item>
-      <title>任务外壳</title>
-      <link>https://www.producthunt.com/products/taskshell</link>
+      <title>VideoToFlip.com - 将视频转换为翻页书</title>
+      <link>https://www.producthunt.com/products/videotoflip-make-a-flipbook-from-video</link>
       <description><![CDATA[
-            受终端/IDE 启发的任务管理器，让您保持流畅
+            用您的视频瞬间创建精美的活页簿
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/taskshell</guid>
-      <pubDate>Thu, 16 Apr 2026 06:48:10 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/videotoflip-make-a-flipbook-from-video</guid>
+      <pubDate>Thu, 16 Apr 2026 16:08:38 GMT</pubDate>
     </item>
     <item>
-      <title>3PL 中心</title>
-      <link>https://www.producthunt.com/products/3pl-hub</link>
+      <title>大疆灵眸灵眸4</title>
+      <link>https://www.producthunt.com/products/dji</link>
       <description><![CDATA[
-            查找并比较 3PL 履行合作伙伴
+            口袋里的世界，现在 4K/240fps
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/3pl-hub</guid>
-      <pubDate>Thu, 16 Apr 2026 02:55:46 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/dji</guid>
+      <pubDate>Thu, 16 Apr 2026 14:44:38 GMT</pubDate>
     </item>
     <item>
-      <title>风帆冲浪2.0</title>
-      <link>https://www.producthunt.com/products/windsurf</link>
+      <title>近距离工作 4.7</title>
+      <link>https://www.producthunt.com/products/claude-opus-4-7</link>
       <description><![CDATA[
-            Windsurf 中的 Agent Command Center 和 Devin 简介
+            克劳德最有能力的推理和代理编码模型
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/windsurf</guid>
-      <pubDate>Wed, 15 Apr 2026 23:05:31 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/claude-opus-4-7</guid>
+      <pubDate>Thu, 16 Apr 2026 14:29:30 GMT</pubDate>
     </item>
     <item>
-      <title>Gemini CLI 中的子代理</title>
-      <link>https://www.producthunt.com/products/google</link>
+      <title>埃尔万</title>
+      <link>https://www.producthunt.com/products/elvan-3</link>
       <description><![CDATA[
-            Gemini CLI 现在在您的终端中运行专业子代理
+            利用人工智能将客户反馈转化为决策
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/google</guid>
-      <pubDate>Wed, 15 Apr 2026 20:06:05 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/elvan-3</guid>
+      <pubDate>Thu, 16 Apr 2026 09:52:48 GMT</pubDate>
     </item>
     <item>
-      <title>爪形标签</title>
-      <link>https://www.producthunt.com/products/clawtab</link>
+      <title>日历管</title>
+      <link>https://www.producthunt.com/products/calendarpipe</link>
       <description><![CDATA[
-            桌面应用程序可同时管理 20 多个 AI 编码代理
+            人类和人工智能代理的可编程日历同步
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/clawtab</guid>
-      <pubDate>Wed, 15 Apr 2026 09:34:16 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/calendarpipe</guid>
+      <pubDate>Thu, 16 Apr 2026 09:36:34 GMT</pubDate>
     </item>
     <item>
-      <title>丽莎核心</title>
-      <link>https://www.producthunt.com/products/lisa-core-your-ai-memory-library</link>
+      <title>眼睛。通过专家追逐</title>
+      <link>https://www.producthunt.com/products/expert-chase-deleted-1107920</link>
       <description><![CDATA[
-            LLM 内存使用语义压缩进行 AI 对话
+            人类生活与人工智能一起运行
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/lisa-core-your-ai-memory-library</guid>
-      <pubDate>Wed, 15 Apr 2026 08:46:23 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/expert-chase-deleted-1107920</guid>
+      <pubDate>Wed, 15 Apr 2026 19:46:19 GMT</pubDate>
     </item>
     <item>
-      <title>火花2.0</title>
-      <link>https://www.producthunt.com/products/marble-by-world-labs</link>
+      <title>雅典娜</title>
+      <link>https://www.producthunt.com/products/athena-9b536c7c-a0eb-4ab0-a230-ea0de18d0f47</link>
       <description><![CDATA[
-            用于巨大 3D 高斯世界的流引擎
+            产品团队的克劳德代码
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/marble-by-world-labs</guid>
-      <pubDate>Wed, 15 Apr 2026 08:03:45 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/athena-9b536c7c-a0eb-4ab0-a230-ea0de18d0f47</guid>
+      <pubDate>Wed, 15 Apr 2026 18:59:41 GMT</pubDate>
     </item>
     <item>
-      <title>HubSpot 的 Baremetrics</title>
-      <link>https://www.producthunt.com/products/baremetrics</link>
+      <title>僚机城市指南</title>
+      <link>https://www.producthunt.com/products/wingman-city-guide</link>
       <description><![CDATA[
-            查看每个 HubSpot 联系人中您的 Stripe 收入数据
+            将保存的旅行视频变成现实世界的旅行
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/baremetrics</guid>
-      <pubDate>Wed, 15 Apr 2026 04:07:11 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/wingman-city-guide</guid>
+      <pubDate>Wed, 15 Apr 2026 09:34:22 GMT</pubDate>
     </item>
     <item>
-      <title>钦尼利亚</title>
-      <link>https://www.producthunt.com/products/chinilla</link>
+      <title>Geekflare 抓取 API v2</title>
+      <link>https://www.producthunt.com/products/geekflare-api</link>
       <description><![CDATA[
-            设计系统，对其进行模拟并观察它们在哪里出现问题
+            RAG 就绪的网络抓取可降低您的 LLM 令牌成本
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/chinilla</guid>
-      <pubDate>Wed, 15 Apr 2026 03:37:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>克劳德·代码桌面应用程序重新设计</title>
-      <link>https://www.producthunt.com/products/claude-redesigned</link>
-      <description><![CDATA[
-            从一个桌面工作区运行并行编码代理
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/claude-redesigned</guid>
-      <pubDate>Tue, 14 Apr 2026 19:22:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>扎塔娜拍摄的坎帕拉</title>
-      <link>https://www.producthunt.com/products/kampala-by-zatanna</link>
-      <description><![CDATA[
-            立即对网站、移动或桌面应用程序进行逆向工程
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/kampala-by-zatanna</guid>
-      <pubDate>Tue, 14 Apr 2026 02:58:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>X-飞行员</title>
-      <link>https://www.producthunt.com/products/x-pilot-5</link>
-      <description><![CDATA[
-             准确地解释任何事情，从文档到视频课程
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/x-pilot-5</guid>
-      <pubDate>Sun, 12 Apr 2026 15:17:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>和</title>
-      <link>https://www.producthunt.com/products/avec</link>
-      <description><![CDATA[
-            Tinder for Email 可在几秒钟内处理您的收件箱
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/avec</guid>
-      <pubDate>Thu, 09 Apr 2026 22:43:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>代码星球</title>
-      <link>https://www.producthunt.com/products/codeplanet</link>
-      <description><![CDATA[
-            在构建作品集的同时掌握编码
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/codeplanet</guid>
-      <pubDate>Mon, 06 Apr 2026 13:17:54 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/geekflare-api</guid>
+      <pubDate>Tue, 14 Apr 2026 12:59:52 GMT</pubDate>
     </item>
     </channel>
 </rss>

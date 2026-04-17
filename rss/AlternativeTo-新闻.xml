@@ -4,14 +4,85 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Fri, 17 Apr 2026 02:34:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 13:19:51 GMT</lastBuildDate>
+    <item>
+      <title>Zorin OS 18.1 改进了 Windows 应用程序支持、增强了窗口平铺并更新了 Lite 版本</title>
+      <link>https://alternativeto.net/news/2026/4/zorin-os-18-1-improves-windows-app-support-enhances-window-tiling-and-updates-lite-edition/</link>
+      <description><![CDATA[在Zorin OS 18 推出六个月后，这个流行的 Linux 发行版背后的团队发布了Zorin OS 18.1，为新用户和现有用户带来了显着的增强功能。内置的 Windows 应用检测功能现在可识别超过 240 个安装程序文件，比之前的版本增加了 40%。当用户尝试运行 Plex 等 Windows 安装程序时，系统会针对本机 Linux 版本提供量身定制的建议或建议合适的替代方案，从而使来自 Windows 的用户更容易迁移。
+此更新采用 Linux 内核 6.17，与Ubuntu 25.10，提供更好的硬件兼容性和系统性能。由于整个环境中实施了各种错误修复和性能增强，用户还可以期待更快的响应时间和更流畅的桌面体验。
+在这些改进的基础上，高级窗口平铺获得了新功能：可以在设置中重新排序布局，边缘平铺现在支持捕捉到自定义布局，以及从任务栏切换到平铺应用程序会将所有相关窗口带到前台。面板功能得到扩展，支持从右到左的脚本，例如阿拉伯语、希伯来语和乌尔都语，而某些应用程序现在可以将自己的图标放置在面板托盘中以便快速访问。
+该版本包括 LibreOffice 26.2 和更新的预装应用程序。与此同时，Zorin OS 18.1 Lite 首次推出 Xfce 4.20、更新的文件管理器和指纹读取器支持，以更好地为旧设备或资源受限设备上的用户提供服务。
+查看有关 AlternativeTo 的文章有关 Zorin 的更多信息操作系统 | Zorin 操作系统替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/4/zorin-os-18-1-improves-windows-app-support-enhances-window-tiling-and-updates-lite-edition/</guid>
+      <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Opera 推出浏览器连接器，用于 Opera One 和 GX 中的 Direct ChatGPT 和 Claude 集成</title>
+      <link>https://alternativeto.net/news/2026/4/opera-launches-browser-connector-for-direct-chatgpt-and-claude-integration-in-opera-one-and-gx/</link>
+      <description><![CDATA[Opera 在其 Opera One 和 Opera GX 网络浏览器中引入浏览器连接器，使用户能够集成流行的人工智能服务，例如ChatGPT 和 Claude 直接进入他们的浏览体验。此早鸟版本旨在弥合独立人工智能工具和日常网络活动之间的差距。
+通过使用模型上下文协议 (MCP)，浏览器连接器允许选定的 AI 模型访问用户当前的浏览器会话和上下文。启用后，ChatGPT 和 Claude 可以在 Opera 内打开网页、解释屏幕内容、分析打开的选项卡以及获取页面屏幕截图，从而减少应用程序之间手动数据传输的需要。
+以前，用户在使用外部 AI 工具时需要手动复制内容或管理上下文。借助浏览器连接器，这些人工智能助手现在可以直接与实时浏览器数据交互，使工作流程更加无缝。浏览器连接器的安装完全是可选的且免费的，用户可以决定何时以及是否要启用该功能。
+查看有关 AlternativeTo 的文章更多信息Opera | Opera 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/opera-launches-browser-connector-for-direct-chatgpt-and-claude-integration-in-opera-one-and-gx/</guid>
+      <pubDate>Fri, 17 Apr 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于 iOS 的 Blackmagic Camera 3.3 添加了 Apple Watch 应用、HDMI 肖像模式和 ProRes RAW 修复</title>
+      <link>https://alternativeto.net/news/2026/4/blackmagic-camera-3-3-for-ios-adds-apple-watch-app-hdmi-portrait-mode-and-prores-raw-fixes/</link>
+      <description><![CDATA[Blackmagic Camera iOS 版 Blackmagic Camera 3.3 引入了多项高影响力的功能，首先是通过新的 Apple Watch 配套应用程序支持远程相机控制。此功能使用户可以直接从手腕开始和停止录制、调整相机设置以及监控状态，从而为拍摄提供更大的灵活性。
+扩展输出和控制，更新提供全屏纵向模式 HDMI 输出并兼容 Blackmagic Focus 和 Zoom 需求。这些功能可满足需要精确配件控制以进行专业视频制作的高级用户的需求。继这些增强之后，Blackmagic Camera 3.3 在运行 iOS 26.1 及更高版本的设备上支持 ProRes RAW 稳定性，这对于专注于高质量后期制作工作流程的专业人士尤其重要。
+此外，用户现在可以在连接 Blackmagic Camera ProDock 时受益于 ATEM 相机控制，从而进一步将该应用程序与 Blackmagic 的生态系统集成。对于 iPhone 17 用户，前置摄像头现在支持纵向和横向拍摄，不会出现不必要的旋转伪影。此版本还解决了影响前镜头 ProRes RAW 录制的问题，并解决了使用 ProDock 作为音频源时的预览延迟问题。最后，更新更正了开放式 H.264 和 H.265 编码比特率，并改进了受支持设备的性能和稳定性。
+查看有关 AlternativeTo 的文章更多信息Blackmagic 相机 | Blackmagic 相机替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/blackmagic-camera-3-3-for-ios-adds-apple-watch-app-hdmi-portrait-mode-and-prores-raw-fixes/</guid>
+      <pubDate>Fri, 17 Apr 2026 07:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anthropic发布Claude Opus 4.7，软件和视觉能力更强</title>
+      <link>https://alternativeto.net/news/2026/4/anthropic-releases-claude-opus-4-7-with-stronger-software-and-vision-capabilities/</link>
+      <description><![CDATA[经过一周几乎没有给任何人喘息的机会，Anthropic 再次成为人们关注的焦点，推出了 Claude Opus 4.7，这是迄今为止最强大的普遍可用模型。该版本是在 Mythos Preview 之后不久发布的，Mythos Preview 是 Anthropic 更强大但受到私人限制的网络安全模型，并且被定位为对 Opus 4.6，在高级软件工程、复杂编码任务和多步骤开发工作流程方面具有更好的性能，同时也更可靠地遵循指令。
+该模型还提高了长时间运行任务的一致性，减少了对用户密切指导的需求，并通过支持更高分辨率的图像分析带来了视觉升级。 Anthropic 表示，Opus 4.7 在制作幻灯片和文档等创造性任务方面也表现得更好，而且它现在再次领先于代理编码基准，表现优于 OpenAI 的 GPT 5.4.
+与此同时，Anthropic 表示 Opus 4.7 的网络安全能力故意低于 Mythos Preview，出于安全考虑，Mythos Preview 仍仅限于 Nvidia、摩根大通、谷歌、苹果和微软等选定合作伙伴。该公司正在使用 Opus 4.7 测试新的网络安全保护措施，这可能有助于为以后更广泛的 Mythos 级模型发布提供信息。 Anthropic 还为希望使用 Opus 4.7 进行漏洞研究等任务的安全研究人员推出了网络验证计划，其限制可能比标准版本更少。 Opus 4.7 现已在所有 Claude 产品、Claude API、Amazon Bedrock、Google Cloud Vertex AI 和 Microsoft Foundry 中推出，价格与 Opus 4.6 相同。
+查看有关 AlternativeTo 的文章更多信息克劳德 | 克劳德替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/anthropic-releases-claude-opus-4-7-with-stronger-software-and-vision-capabilities/</guid>
+      <pubDate>Fri, 17 Apr 2026 06:01:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 最新的重大 Codex 更新使计算机使用能够更好地与 Claude Code 竞争</title>
+      <link>https://alternativeto.net/news/2026/4/openai-s-latest-major-codex-update-brings-computer-use-to-better-compete-with-claude-code/</link>
+      <description><![CDATA[OpenAI 发布了 Codex 的重大更新，显着扩展了其在整个软件开发生命周期中的能力。 Codex 现在可以通过控制所有已安装的应用程序来操作计算机，使用自己的光标查看、单击和键入。多个 Codex 代理能够在 Mac 设备上并行运行，与用户一起工作，而不会干扰其他任务。
+除了这些系统级更改之外，Codex 还为开发人员工作流程引入了更深入的集成。该应用程序现在支持拉取请求审查、查看多个文件和终端、通过 SSH 连接到远程开发环境，并包含一个应用程序内浏览器，用于更快地迭代前端设计。该浏览器还允许直接在网页上发表评论，以便向法典代理人提供详细说明。用户可以处理 GitHub 审核评论，打开具有丰富预览的文件（包括 PDF、电子表格、幻灯片和文档格式），并通过摘要窗格监控代理活动。
+基于这些改进，Codex 现在支持 GPT-Image-1.5 来生成和优化图像。 90 多个新插件进一步扩展了其与应用程序和 MCP 服务器的集成。自动化现在支持持久对话线程，新的内存预览使 Codex 能够记住之前会话的上下文。这些功能目前正在向拥有 ChatGPT 帐户的桌面应用用户推出，不久将为企业、教育、欧盟和英国用户提供更广泛的个性化和计算机使用。
+查看有关 AlternativeTo 的文章有关 OpenAI 的更多信息Codex | OpenAI Codex 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/openai-s-latest-major-codex-update-brings-computer-use-to-better-compete-with-claude-code/</guid>
+      <pubDate>Fri, 17 Apr 2026 06:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Canva 推出了 AI 2.0，这是迄今为止用提示取代传统设计的最大推动力</title>
+      <link>https://alternativeto.net/news/2026/4/canva-has-unveiled-ai-2-0-its-biggest-push-yet-to-replace-traditional-design-with-prompts/</link>
+      <description><![CDATA[就在 Adobe 在其几款主要创意应用中推出 Firefly AI Assistant 一天后，Canva 现已推出其自己的举动并推出了 Canva AI 2.0，该公司称之为迄今为止最大规模的人工智能发布，也是其“彻底改变传统设计”愿景的重要一步。摆脱手动创建，转向更完全自动化的提示驱动生成过程；我个人将其描述为人工智能生成设计。更新的核心是一个对话界面，让用户可以用自然语言描述想法或目标，并让 Canva 完全从头开始生成设计和其他资产。它背后是一个新的编排层，用于连接 Canva 的工具，以便人工智能可以通过一个界面处理更复杂的多步骤任务。
+Canva 表示，通过 AI 2.0 生成的所有内容在平台内仍然完全可编辑，允许用户更改图像、字体和其他单个元素，而不影响设计的其余部分，这使其与大多数其他 AI 平台（如 ChatGPT）甚至 Adobe，其中的编辑通常最终会对以前的工作造成更大的破坏。此次更新还引入了基于对象的智能，以便对项目的特定部分进行更精确的提示驱动编辑，而 Canva 的新内存库和更广泛的持久内存系统使助手能够从以前的工作中学习，并随着时间的推移应用更一致的品牌、样式和创意背景。
+此次更新主要关注人工智能内容，但这并不是平台中添加的唯一内容，它还带来了统一的连接器接口，用于与 Slack 和 Gmail 等应用程序集成，Gmail 中的 HTML 导入支持href=&quot;https://alternativeto.net/software/canva-code/about/&quot;&gt;Canva 代码，以及从外部服务提取上下文数据的能力，例如 Notion、Zoom 和 Google 日历。该更新作为研究预览版发布，最初向访问 Canva 主页的前 100 万用户推出。
+查看有关 AlternativeTo 的文章更多信息Canva | Canva 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/canva-has-unveiled-ai-2-0-its-biggest-push-yet-to-replace-traditional-design-with-prompts/</guid>
+      <pubDate>Fri, 17 Apr 2026 05:08:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Forgejo v15.0 添加了 repo 范围的代币、OIDC for Actions 以及主要可用性升级</title>
+      <link>https://alternativeto.net/news/2026/4/forgejo-v15-0-adds-repo-scoped-tokens-oidc-for-actions-and-major-usability-upgrades/</link>
+      <description><![CDATA[Forgejo v15.0 已作为该项目的新长期支持版本发布，其主要变化集中在访问控制、操作和运行器设置上。它添加了存储库特定的访问令牌，因此用户可以将令牌限制为选定的存储库，并且它还为 Forgejo Actions 带来了 OpenID Connect 支持，允许工作流使用短期凭据而不是存储的机密登录到外部服务。此功能需要高于 v12.5.0 的 Forgejo Runner 版本。
+此更新还改进了可重用工作流程在 Forgejo Actions 中的工作方式。它们现在可以扩展到单独的作业，这使得日志更易于阅读，并允许作业跨不同的运行器或平台运行。 Forgejo 还添加了用于一次性作业执行的临时运行程序，有助于减少自动缩放设置中的凭证重用。跑步者注册也通过基于网络的新设置流程得到简化。
+v15.0 还包括两个在升级之前需要记住的重大更改。大多数用户需要重新登录，因为默认 cookie 名称已更改，并且无根 Docker 部署不再支持旧的配置路径，除非手动覆盖它们。其他更改包括更好的 OAuth 和 git 推送错误消息、自动容器链接、响应更快的发布页面、改进的问题过滤器控件、更好的拉取请求中的 Git 注释编辑以及更多屏幕阅读器辅助功能改进。
+查看有关 AlternativeTo 的文章更多信息Forgejo | Forgejo 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/forgejo-v15-0-adds-repo-scoped-tokens-oidc-for-actions-and-major-usability-upgrades/</guid>
+      <pubDate>Fri, 17 Apr 2026 04:27:43 GMT</pubDate>
+    </item>
     <item>
       <title>Cal.com 正在走向闭源，其许可策略发生重大转变</title>
       <link>https://alternativeto.net/news/2026/4/cal-com-is-going-closed-source-with-a-major-shift-in-its-license-strategy/</link>
       <description><![CDATA[调度平台 Cal.com 已推出 v6.4，对其开源许可模式进行了重大转变。 考虑到人工智能编码工具的影响力日益增长以及暴露公共代码的风险，该公司正在将其商业版本转变为“闭源”版本。之前将其作为“可用源”提供后的模型。与此同时，所有免费和开源代码都在麻省理工学院许可证下重新发布为Cal.diy，为自托管创建了更宽松的社区版本。 Cal.com 表示，Cal.diy 仍将对爱好者和社区用户免费，并提供设置说明，但它指出自托管使用的风险由用户自行承担。
 对于自行托管的企业客户，现在将通过私有 GitHub 存储库处理对商业版本的访问。 Cal 表示，许可更新不会改变现有用户的产品或帐户访问权限，主要是对其开源许可证和代码可用性的更改。
 除此之外，v6.4 还提高了大型组织的性能，预订页面和活动类型配置现在加载速度更快，在某些情况下高达 20 倍。该版本还带来了多项工作流程和安全更新，包括用于循环主机选择的新路由跟踪、更高级的 Salesforce 所有权路由、对 OAuth 秘密轮换和多个重定向 URI 的支持，以及对并发确认引起的双重预订问题的修复。您可以在此处的官方发行说明中查看所有其他改进和错误修复。
-查看有关 AlternativeTo 的文章更多信息Cal.com | Cal.com 替代方案]]></description>
+查看有关 AlternativeTo 的文章更多信息Cal.com | Cal.com 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/4/cal-com-is-going-closed-source-with-a-major-shift-in-its-license-strategy/</guid>
       <pubDate>Fri, 17 Apr 2026 00:37:12 GMT</pubDate>
     </item>
@@ -58,7 +129,7 @@ Tuta Drive 使用抗量子端到端加密和 Tuta 的零知识架构来保护所
       <description><![CDATA[WooCommerce 10.7 引入了重大性能改进，在启用对象缓存的情况下，HPOS 订单的数据库查询减少了 51%，结帐期间的数据库查询减少了 39%。 Store API 现在会在产品端点上缓存“上次修改时间”时间戳，从而减少重复请求的数据库负载。
 通过类型化 API 和自定义运输提供商支持增强了履行订单跟踪，同时分析导出获得了更好的货币处理和自定义。
 其他更新包括辅助功能增强和增量电子邮件编辑器改进。
-查看有关 AlternativeTo 的文章有关 WooCommerce 的更多信息 | WooCommerce 替代方案]]></description>
+查看有关 AlternativeTo 的文章有关 WooCommerce 的更多信息 | WooCommerce 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/4/woocommerce-10-7-cuts-database-queries-and-adds-store-api-caching/</guid>
       <pubDate>Thu, 16 Apr 2026 15:21:18 GMT</pubDate>
     </item>
@@ -79,76 +150,6 @@ Tuta Drive 使用抗量子端到端加密和 Tuta 的零知识架构来保护所
 查看有关 AlternativeTo 的文章有关 GameSir 的更多信息GameHub | GameSir GameHub 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/4/gamehub-for-mac-beta-lets-users-run-windows-games-on-macos/</guid>
       <pubDate>Thu, 16 Apr 2026 15:04:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenProject 17.3 添加了专用的冲刺对象、自动冲刺板创建等等</title>
-      <link>https://alternativeto.net/news/2026/4/openproject-17-3-adds-dedicated-sprint-objects-auto-sprint-board-creation-and-much-more/</link>
-      <description><![CDATA[OpenProject 17.3 通过引入专用的冲刺对象，为敏捷团队带来了重大推动。用户现在可以使用待办事项模块中的冲刺来本地组织工作，从而无需手动设置或解决方法。在此基础上，每次冲刺开始时都会自动创建专用的冲刺板。该板经过预先配置，可反映项目的工作流程，并包括分配给冲刺的每个工作包，从而简化任务跟踪和协调。
-在这些敏捷工作流程改进之后，OpenProject 17.3 使团队能够直接完成主动冲刺。当冲刺结束时，系统会指导用户批量管理任何未完成的工作包，例如将它们返回到积压工作或将它们分配给未来的冲刺。此外，待办事项模块现在默认显示项目内的所有工作包类型。这确保了团队可以在积压工作和冲刺计划期间对每个任务或问题进行优先级排序和管理。
-在此版本中，社区版现已解锁所有操作板类型，包括看板和亲子板。这将董事会功能扩展到非企业用户，从而支持更广泛的工作流程和团队结构。
-查看有关 AlternativeTo 的文章更多信息OpenProject | OpenProject 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/4/openproject-17-3-adds-dedicated-sprint-objects-auto-sprint-board-creation-and-much-more/</guid>
-      <pubDate>Thu, 16 Apr 2026 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Warp 添加了带有状态指示器和自定义选项的垂直选项卡</title>
-      <link>https://alternativeto.net/news/2026/4/warp-adds-vertical-tabs-with-status-indicators-and-customization-options/</link>
-      <description><![CDATA[Warp 引入了垂直选项卡，为用户提供了组织会话和工作流程的新方式。选项卡现在显示编码代理状态指示器，因此用户可以快速查看哪些任务已完成、已阻止或仍在进行中。
-可以通过双击来重命名选项卡或为其着色，并且可以自定义显示信息以显示目录、分支或对话等详细信息。
-查看有关 AlternativeTo 的文章有关 Warp 的更多信息终端 | Warp 终端替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/warp-adds-vertical-tabs-with-status-indicators-and-customization-options/</guid>
-      <pubDate>Thu, 16 Apr 2026 14:57:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>OPNSense 商业版 26.4 添加了 OpenVPN 自定义配置、改进的 OpenID Connect 等</title>
-      <link>https://alternativeto.net/news/2026/4/opnsense-business-edition-26-4-adds-openvpn-custom-configs-improved-openid-connect-and-more/</link>
-      <description><![CDATA[Deciso 发布了 OPNSense Business Edition 26.4，代号为“Witty Woodpecker”，为专业和企业环境提供有针对性的增强功能。该版本以社区版的安全和操作控制为基础，引入了更深入的身份集成和更高级的流量处理。
-一个值得注意的新增功能是用户门户中的自定义 OpenVPN 配置选项，允许管理员为灵活的虚拟专用网络 (VPN) 部署生成定制的客户端配置文件。增强的 OpenID Connect (OIDC) 支持改进了身份声明管理，为组织提供更好的访问控制以及与 Microsoft Entra ID 等提供商的集成。作为其中的一部分，OPNcentral 现在允许企业选择退出自动登录，以适应集中式身份管理工作流程。
-操作洞察力的进一步增强包括 OPNWAF 的 mod_status 诊断页面，使监控 Web 应用程序防火墙活动变得更加容易。自动主机发现服务通过识别网络上的活动设备、简化资产跟踪和故障排除来扩展实时可见性。
-继之前版本中的防火墙管理重新设计之后，商业版引入了更精细的规则界面和改进的网络地址转换工作流程，简化了管理。新的转移功能确保入侵检测和防火墙规则可以绕过大量低风险流量，从而产生更好的整体系统性能。
-查看有关 AlternativeTo 的文章更多信息OPNsense | OPNsense 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/4/opnsense-business-edition-26-4-adds-openvpn-custom-configs-improved-openid-connect-and-more/</guid>
-      <pubDate>Thu, 16 Apr 2026 13:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌升级后的桌面应用程序现已在 Windows 上使用，具有类似 Spotlight 的人工智能搜索功能</title>
-      <link>https://alternativeto.net/news/2026/4/google-s-upgraded-desktop-app-is-now-available-on-windows-with-spotlight-like-ai-search/</link>
-      <description><![CDATA[升级后的桌面版 Google 应用现已向全球 Windows 用户提供英文版本，引入了多项旨在简化搜索和提高工作效率的新功能。此次更新的核心是，该应用程序集成了 AI 模式，允许用户直接提出问题并接收 AI 驱动的答案，其中包括用于进一步探索的相关网络链接。
-除了 AI 功能外，该应用还允许用户使用键盘快捷键 Alt + Space 即时搜索桌面文件、已安装的应用程序、Google 云端硬盘文档和网络。这个统一的搜索框简化了对多个来源的信息的访问。该应用以搜索功能为基础，包括 Lens 支持，可以选择和搜索屏幕的任何部分，无论是翻译图像、提取文本还是协助完成家庭作业。
-在这些工作流程改进之后，该应用引入了屏幕共享选项，让用户可以选择一个窗口或全屏来继续搜索和提问，而不会中断他们的活动。通过帮助用户在搜索或交互后准确地从上次中断的地方继续执行任务的设计，进一步增强了用户体验。
-查看有关 AlternativeTo 的文章有关 Google 的更多信息搜索 | Google 搜索替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/4/google-s-upgraded-desktop-app-is-now-available-on-windows-with-spotlight-like-ai-search/</guid>
-      <pubDate>Thu, 16 Apr 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mistral AI 在 Studio 中引入了连接器，具有 API/SDK 访问和人机交互流程</title>
-      <link>https://alternativeto.net/news/2026/4/mistral-ai-introduces-connectors-in-studio-with-api-sdk-access-and-human-in-the-loop-flows/</link>
-      <description><![CDATA[Mistral 发布了 Studio 连接器，为开发人员构建使用企业数据的定制 AI 应用程序提供了新的机会。所有内置连接器和自定义模型上下文协议 (MCP) 现在都可以通过 API 和软件开发工具包 (SDK) 进行访问，从而简化了模型和代理调用的集成。
-在此版本之后，开发人员可以直接调用具有细粒度控制的工具，从而消除测试和迭代期间的身份验证步骤。还引入了人机交互审批流程，允许团队在执行工具之前插入安全审查和确认步骤，这有助于满足治理和合规性需求。
-现在支持编程管理，允许用户创建、修改、列出和删除连接器，还可以列出或运行其关联的工具。所有连接器均集中注册，可在 Mistral 应用程序中使用，包括 Le Chat 和 AI Studio。此外，还可以通过 Conversation API、Completions API 和 Agent SDK 使用连接器。这有利于复杂的工作流程以及客户关系管理 (CRM) 平台、知识库和生产力工具等系统的整合。
-基于此架构，每个连接器都使用 MCP 协议打包为可重用实体。注册后，它就可以在代理、工作流程和对话中发现和使用，而无需额外的集成逻辑。
-查看有关 AlternativeTo 的文章有关 Mistral AI Studio 的更多信息 | Mistral AI Studio 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/4/mistral-ai-introduces-connectors-in-studio-with-api-sdk-access-and-human-in-the-loop-flows/</guid>
-      <pubDate>Thu, 16 Apr 2026 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>YouTube 现在将在聊天高峰期间延迟直播广告，以“保护氛围”</title>
-      <link>https://alternativeto.net/news/2026/4/youtube-will-now-delay-livestream-ads-during-peak-chat-engagement-to-protect-the-vibe-/</link>
-      <description><![CDATA[YouTube 推出了四项更新，以提高 YouTube Live 上的创作者和观看者的用户参与度。该平台现在可以检测实时聊天中的高峰活动并自动延迟广告，确保活跃的社区讨论继续进行而不会中断。此后，YouTube 允许观众通过移动设备在水平和垂直直播中发送礼物，并将此功能扩展到加拿大、韩国、印度尼西亚、泰国、澳大利亚和新西兰的创作者。该公司计划支持更多国家，并正在为当地节日和活动开发针对特定地区的礼品。
-为了进一步鼓励实时支持，YouTube 现在在用户发送超级聊天、超级贴纸或礼物后立即为他们提供短暂的无广告期。这使得创作者可以在不被广告打扰的情况下感谢支持者，自动申请启用广告的流。基于多格式的可访问性，创作者可以同时在垂直和水平视图中进行广播，将所有参与者联合起来进行一次聊天。 YouTube 还正在准备新的自定义功能，例如 Live Studio 中的垂直裁剪布局和多个流密钥，这最终将为每种流格式提供独特的自定义提要。
-查看有关 AlternativeTo 的文章更多有关YouTube | YouTube 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/youtube-will-now-delay-livestream-ads-during-peak-chat-engagement-to-protect-the-vibe-/</guid>
-      <pubDate>Thu, 16 Apr 2026 07:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google 推出新的 Mac 桌面 Gemini 应用程序，可通过屏幕共享查看您的活动</title>
-      <link>https://alternativeto.net/news/2026/4/google-launches-new-desktop-gemini-app-for-mac-with-screen-sharing-to-see-your-activity/</link>
-      <description><![CDATA[Google 推出了一款专用于 Mac 的原生 Gemini 应用，为用户提供桌面版本的聊天机器人，而不仅仅是依赖网络体验。该应用现已适用于所有支持 Gemini 的国家/地区和语言的运行 macOS 15 Sequoia 或更高版本的 Mac。
-Gemini for Mac 可以使用键盘快捷键从 macOS 中的任何位置打开。默认情况下，Option + Space 打开迷你聊天覆盖，而 Option + Shift + Space 打开完整的桌面体验，这两个快捷方式都可以从应用程序设置中进行调整。迷你聊天旨在让用户在文档、浏览器选项卡、设计文件、编码环境或其他应用程序中工作时提出问题。
-主要功能之一是屏幕共享，它允许 Gemini 查看用户屏幕上当前的内容并根据上下文进行响应，从而减少手动复制和粘贴文本、屏幕截图、图像或其他内容的需要。用户可以提出有关文档、设计、网页、图像、数据、代码和共享本地文件的问题，同时该应用还可以共享完整的网页，并支持通过 Nano Banana 和 Veo 生成图像和视频。不过，Gemini for Mac 似乎不包含 Claude 的计算机使用等代理功能，因此目前它无法真正接管计算机并代表用户执行任务。
-查看有关 AlternativeTo 的文章有关 Google 的更多信息Gemini | Google Gemini 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/google-launches-new-desktop-gemini-app-for-mac-with-screen-sharing-to-see-your-activity/</guid>
-      <pubDate>Thu, 16 Apr 2026 04:59:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
