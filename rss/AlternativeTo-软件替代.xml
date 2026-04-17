@@ -4,48 +4,48 @@
     <title>新版本 – AlternativeTo.net</title>
     <link>https://alternativeto.net/releases/all</link>
     <description>最新软件添加到 AlternativeTo</description>
-    <lastBuildDate>Thu, 16 Apr 2026 13:43:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 02:34:28 GMT</lastBuildDate>
+    <item>
+      <title>霹雳</title>
+      <link>https://alternativeto.net/software/thunderbolt/about/</link>
+      <description><![CDATA[你控制的人工智能：选择你的模型。拥有您的数据。消除供应商锁定。查看 AlternativeTo Thunderbolt 替代品]]></description>
+      <guid>https://alternativeto.net/software/thunderbolt/about/</guid>
+      <pubDate>Fri, 17 Apr 2026 02:33:56 GMT</pubDate>
+    </item>
     <item>
       <title>驾驶服</title>
       <link>https://alternativeto.net/software/tuta-drive/about/</link>
       <description><![CDATA[使用抗量子加密技术的端到端加密云存储可防止任何第三方（包括服务管理员）访问机密文件。查看 AlternativeTo Tuta Drive 替代方案]]></description>
       <guid>https://alternativeto.net/software/tuta-drive/about/</guid>
-      <pubDate>Thu, 16 Apr 2026 13:43:35 GMT</pubDate>
+      <pubDate>Fri, 17 Apr 2026 02:33:56 GMT</pubDate>
     </item>
     <item>
       <title>没有任何扭曲</title>
       <link>https://alternativeto.net/software/nothing-warp/about/</link>
       <description><![CDATA[Nothing Warp 是一款轻量级浏览器扩展程序，可帮助您在计算机和 Android 手机之间移动文件、链接、复制的文本和图像。在 AlternativeTo 上查看Nothing Warp Alternatives]]></description>
       <guid>https://alternativeto.net/software/nothing-warp/about/</guid>
-      <pubDate>Thu, 16 Apr 2026 13:43:35 GMT</pubDate>
+      <pubDate>Fri, 17 Apr 2026 02:33:56 GMT</pubDate>
     </item>
     <item>
       <title>流体CAD</title>
       <link>https://alternativeto.net/software/fluidcad/about/</link>
-      <description><![CDATA[基于浏览器的参数化 3D CAD，具有 JavaScript 脚本、交互式视口编辑、特征历史记录、STEP 导入/导出和熟悉的工作流程。在 AlternativeTo 上查看FluidCAD 替代方案]]></description>
+      <description><![CDATA[基于浏览器的参数化 3D CAD，具有 JavaScript 脚本、交互式视口编辑、功能历史记录、STEP 导入/导出和熟悉的工作流程。在 AlternativeTo 上查看FluidCAD 替代方案]]></description>
       <guid>https://alternativeto.net/software/fluidcad/about/</guid>
-      <pubDate>Thu, 16 Apr 2026 13:43:35 GMT</pubDate>
+      <pubDate>Fri, 17 Apr 2026 02:33:56 GMT</pubDate>
     </item>
     <item>
       <title>Mac 上的术语</title>
       <link>https://alternativeto.net/software/termonmac/about/</link>
       <description><![CDATA[Mac 远程终端，无需 SSH 设置，加密端到端，跨设备会话传输，自动重新连接，键盘快捷键，最多 4 台 Mac。在 AlternativeTo 上查看TermOnMac替代方案]]></description>
       <guid>https://alternativeto.net/software/termonmac/about/</guid>
-      <pubDate>Thu, 16 Apr 2026 13:43:35 GMT</pubDate>
+      <pubDate>Fri, 17 Apr 2026 02:33:56 GMT</pubDate>
     </item>
     <item>
       <title>华夫饼终端</title>
       <link>https://alternativeto.net/software/waffle--macos-terminal/about/</link>
       <description><![CDATA[将所有 macOS 终端会话自动平铺到单个全屏或网格窗口中，通过颜色编码、零设置和原生 Swift 性能立即按项目分组。在 AlternativeTo 上查看华夫饼终端替代品]]></description>
       <guid>https://alternativeto.net/software/waffle--macos-terminal/about/</guid>
-      <pubDate>Thu, 16 Apr 2026 13:43:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>纯Mac</title>
-      <link>https://alternativeto.net/software/puremac/about/</link>
-      <description><![CDATA[免费、开源的 macOS 清理器。 CleanMyMac 零遥测替代方案。原生 SwiftUI、定时自动清理、Xcode/Homebrew/系统缓存清理。 MIT 许可。查看 AlternativeTo PureMac 替代品]]></description>
-      <guid>https://alternativeto.net/software/puremac/about/</guid>
-      <pubDate>Thu, 16 Apr 2026 13:43:35 GMT</pubDate>
+      <pubDate>Fri, 17 Apr 2026 02:33:56 GMT</pubDate>
     </item>
     </channel>
 </rss>

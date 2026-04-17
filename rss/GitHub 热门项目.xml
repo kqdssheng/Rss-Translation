@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 16 Apr 2026 13:44:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 02:35:03 GMT</lastBuildDate>
     <item>
       <title>OpenAI 代理 SDK</title>
       <link>https://www.producthunt.com/products/openai</link>
@@ -34,74 +34,46 @@
       <pubDate>Thu, 16 Apr 2026 06:48:10 GMT</pubDate>
     </item>
     <item>
-      <title>代理卡</title>
-      <link>https://www.producthunt.com/products/agent-card</link>
+      <title>3PL 中心</title>
+      <link>https://www.producthunt.com/products/3pl-hub</link>
       <description><![CDATA[
-            供 AI 代理使用的预付费虚拟 Visa 卡
+            查找并比较 3PL 履行合作伙伴
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/agent-card</guid>
-      <pubDate>Thu, 16 Apr 2026 05:42:07 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/3pl-hub</guid>
+      <pubDate>Thu, 16 Apr 2026 02:55:46 GMT</pubDate>
     </item>
     <item>
-      <title>Pilot5.ai</title>
-      <link>https://www.producthunt.com/products/pilot5-ai</link>
+      <title>风帆冲浪2.0</title>
+      <link>https://www.producthunt.com/products/windsurf</link>
       <description><![CDATA[
-            你的问题，由5个前沿AI模型审议
+            Windsurf 中的 Agent Command Center 和 Devin 简介
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/pilot5-ai</guid>
-      <pubDate>Wed, 15 Apr 2026 21:30:14 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/windsurf</guid>
+      <pubDate>Wed, 15 Apr 2026 23:05:31 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌 Gemini 3.1 Flash TTS</title>
-      <link>https://www.producthunt.com/products/google-gemini-3-1-flash-tts</link>
+      <title>Gemini CLI 中的子代理</title>
+      <link>https://www.producthunt.com/products/google</link>
       <description><![CDATA[
-            具有自然语言语音指导的文本转语音 API
+            Gemini CLI 现在在您的终端中运行专业子代理
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/google-gemini-3-1-flash-tts</guid>
-      <pubDate>Wed, 15 Apr 2026 16:11:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>屏幕上的黑客地球</title>
-      <link>https://www.producthunt.com/products/hackerearth</link>
-      <description><![CDATA[
-            始终在线、零偏见的人工智能招聘工具
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/hackerearth</guid>
-      <pubDate>Wed, 15 Apr 2026 13:38:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>因诺加斯</title>
-      <link>https://www.producthunt.com/products/innogath</link>
-      <description><![CDATA[
-            将深入研究转化为可导航的书籍+图表
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/innogath</guid>
-      <pubDate>Wed, 15 Apr 2026 10:56:38 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/google</guid>
+      <pubDate>Wed, 15 Apr 2026 20:06:05 GMT</pubDate>
     </item>
     <item>
       <title>爪形标签</title>
@@ -118,6 +90,34 @@
       <pubDate>Wed, 15 Apr 2026 09:34:16 GMT</pubDate>
     </item>
     <item>
+      <title>丽莎核心</title>
+      <link>https://www.producthunt.com/products/lisa-core-your-ai-memory-library</link>
+      <description><![CDATA[
+            LLM 内存使用语义压缩进行 AI 对话
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/lisa-core-your-ai-memory-library</guid>
+      <pubDate>Wed, 15 Apr 2026 08:46:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>火花2.0</title>
+      <link>https://www.producthunt.com/products/marble-by-world-labs</link>
+      <description><![CDATA[
+            用于巨大 3D 高斯世界的流引擎
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/marble-by-world-labs</guid>
+      <pubDate>Wed, 15 Apr 2026 08:03:45 GMT</pubDate>
+    </item>
+    <item>
       <title>HubSpot 的 Baremetrics</title>
       <link>https://www.producthunt.com/products/baremetrics</link>
       <description><![CDATA[
@@ -132,6 +132,20 @@
       <pubDate>Wed, 15 Apr 2026 04:07:11 GMT</pubDate>
     </item>
     <item>
+      <title>钦尼利亚</title>
+      <link>https://www.producthunt.com/products/chinilla</link>
+      <description><![CDATA[
+            设计系统，对其进行模拟并观察它们在哪里出现问题
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/chinilla</guid>
+      <pubDate>Wed, 15 Apr 2026 03:37:18 GMT</pubDate>
+    </item>
+    <item>
       <title>克劳德·代码桌面应用程序重新设计</title>
       <link>https://www.producthunt.com/products/claude-redesigned</link>
       <description><![CDATA[
@@ -144,20 +158,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/claude-redesigned</guid>
       <pubDate>Tue, 14 Apr 2026 19:22:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌浏览器技能</title>
-      <link>https://www.producthunt.com/products/google-chrome-skills</link>
-      <description><![CDATA[
-            将您最好的 AI 提示变成 Chrome 中的一键式工具
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/google-chrome-skills</guid>
-      <pubDate>Tue, 14 Apr 2026 17:09:07 GMT</pubDate>
     </item>
     <item>
       <title>扎塔娜拍摄的坎帕拉</title>

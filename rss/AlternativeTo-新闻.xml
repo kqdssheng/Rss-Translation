@@ -4,7 +4,112 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Thu, 16 Apr 2026 13:44:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 02:34:57 GMT</lastBuildDate>
+    <item>
+      <title>Cal.com 正在走向闭源，其许可策略发生重大转变</title>
+      <link>https://alternativeto.net/news/2026/4/cal-com-is-going-closed-source-with-a-major-shift-in-its-license-strategy/</link>
+      <description><![CDATA[调度平台 Cal.com 已推出 v6.4，对其开源许可模式进行了重大转变。 考虑到人工智能编码工具的影响力日益增长以及暴露公共代码的风险，该公司正在将其商业版本转变为“闭源”版本。之前将其作为“可用源”提供后的模型。与此同时，所有免费和开源代码都在麻省理工学院许可证下重新发布为Cal.diy，为自托管创建了更宽松的社区版本。 Cal.com 表示，Cal.diy 仍将对爱好者和社区用户免费，并提供设置说明，但它指出自托管使用的风险由用户自行承担。
+对于自行托管的企业客户，现在将通过私有 GitHub 存储库处理对商业版本的访问。 Cal 表示，许可更新不会改变现有用户的产品或帐户访问权限，主要是对其开源许可证和代码可用性的更改。
+除此之外，v6.4 还提高了大型组织的性能，预订页面和活动类型配置现在加载速度更快，在某些情况下高达 20 倍。该版本还带来了多项工作流程和安全更新，包括用于循环主机选择的新路由跟踪、更高级的 Salesforce 所有权路由、对 OAuth 秘密轮换和多个重定向 URI 的支持，以及对并发确认引起的双重预订问题的修复。您可以在此处的官方发行说明中查看所有其他改进和错误修复。
+查看有关 AlternativeTo 的文章更多信息Cal.com | Cal.com 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/4/cal-com-is-going-closed-source-with-a-major-shift-in-its-license-strategy/</guid>
+      <pubDate>Fri, 17 Apr 2026 00:37:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windsurf 2.0 已推出，带有新的代理指挥中心、Spaces 和 Devin 集成</title>
+      <link>https://alternativeto.net/news/2026/4/windsurf-2-0-has-launched-with-a-new-agent-command-center-spaces-and-devin-integration/</link>
+      <description><![CDATA[Windsurf 已推出 Windsurf 2.0，这是其代理 IDE 的重大更新。该版本引入了代理指挥中心，这是一种新的看板风格界面，让开发人员可以在一个视图中跨本地和云环境监督多个人工智能编码代理。代理按状态分组，以便用户可以跟踪活动工作、发现被阻止的任务并查看进度，同时仍在编辑器中进行手动编辑。
+Windsurf 2.0 还添加了空间，这是一种按任务或项目组织工作的新方式。每个空间都可以将代理会话、拉取请求、文件和相关上下文分组到一个位置，并且当用户稍后返回时会保留该上下文。这样可以更轻松地在任务之间切换，同时保持多个代理的工作与同一项目相关联。
+此更新还可以在编辑器内直接访问 Windsurf 基于云的自主软件工程代理 Devin（按照计划自Cognition 在六个月前收购了 Windsurf）。 Devin 可以在自己的虚拟机上处理调试、部署和测试等任务，即使用户断开连接也可以继续工作。 Devin 提出的 Pull 请求可以在 Windsurf 内进行审查、测试和优化，从而将更多的开发过程保留在一个环境中。 Devin 包含在所有 Windsurf 计划中，但对 Devin Cloud 的访问仍在逐步推出。
+查看有关 AlternativeTo 的文章有关 Windsurf 的更多信息编辑器 | Windsurf 编辑器替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/windsurf-2-0-has-launched-with-a-new-agent-command-center-spaces-and-devin-integration/</guid>
+      <pubDate>Thu, 16 Apr 2026 21:54:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tuta Drive 进入封闭测试版，提供端到端加密和量子安全云存储</title>
+      <link>https://alternativeto.net/news/2026/4/tuta-drive-enters-closed-beta-with-end-to-end-encryption-and-quantum-secure-cloud-storage/</link>
+      <description><![CDATA[Tuta 是一家以其注重隐私的产品 Tuta Mail 和 Tuta Calendar 而闻名的公司，宣布推出 Tuta 的内测版Drive，其即将推出的量子安全云存储解决方案。目前仅限受邀者使用，此阶段允许选定的现有用户开始测试新产品。虽然目前访问受到限制，但 Tuta 团队计划在未来几个月内扩大对更多用户的邀请。
+Tuta Drive 使用抗量子端到端加密和 Tuta 的零知识架构来保护所有存储的文件。这不仅确保了数据受到第三方的保护，而且也确保了 Tuta 本身的数据保护。该服务专为个人和企业设计，旨在在严格的隐私控制下保护机密文档、图像和数据。
+在当前测试期间，用户可以上传和存储包括图像和视频在内的文件、跨设备同步数据以及备份内容。目前，Tuta Drive 只能通过桌面和移动平台上的 Tuta Mail 网络客户端访问。在测试版网络发布后，Tuta 正在准备适用于 Android 和 iOS 的专用移动应用程序，以及适用于 Linux、Windows 和 macOS 的桌面客户端。与其他 Tuta 产品一样，Tuta Drive 的运行不受广告、跟踪或人工智能的影响。
+查看有关 AlternativeTo 的文章有关 Tuta 的更多信息驱动器 | Tuta 驱动器替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/tuta-drive-enters-closed-beta-with-end-to-end-encryption-and-quantum-secure-cloud-storage/</guid>
+      <pubDate>Thu, 16 Apr 2026 16:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>YouTube 终于允许用户禁用 Shorts Feed</title>
+      <link>https://alternativeto.net/news/2026/4/youtube-finally-lets-users-disable-shorts-feed/</link>
+      <description><![CDATA[YouTube 为所有用户引入了一个选项，可以为 Shorts 设置零分钟的时间限制，从而有效地在 Android 和 iOS 上禁用 Shorts Feed。此前，最低可用设置为 15 分钟，但用户现在可以选择完全删除 Shorts。将 Shorts 计时器设置为零还会在 Shorts 选项卡和主屏幕中隐藏 Shorts。
+该更新目前正在向所有用户帐户推出。
+查看有关 AlternativeTo 的文章有关 YouTube 的更多信息 | YouTube 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/youtube-finally-lets-users-disable-shorts-feed/</guid>
+      <pubDate>Thu, 16 Apr 2026 16:14:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Simplenote 宣布推出测试版 MCP 服务器，用于人工智能驱动的自然语言搜索</title>
+      <link>https://alternativeto.net/news/2026/4/simplenote-announces-beta-mcp-server-for-ai-powered-natural-language-search/</link>
+      <description><![CDATA[Simplenote 推出了测试版 MCP Server，使用户能够通过兼容的 AI 工具使用自然语言搜索和管理笔记。服务器提供用于列出标签、过滤或搜索笔记以及检索完整笔记内容的端点。 Beta 版本适用于 macOS，需要手动安装，计划将来支持 Windows。
+查看有关 AlternativeTo 的文章有关 Simplenote 的更多信息 | Simplenote 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/simplenote-announces-beta-mcp-server-for-ai-powered-natural-language-search/</guid>
+      <pubDate>Thu, 16 Apr 2026 15:27:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>WooCommerce 10.7 减少了数据库查询并添加了 Store API 缓存</title>
+      <link>https://alternativeto.net/news/2026/4/woocommerce-10-7-cuts-database-queries-and-adds-store-api-caching/</link>
+      <description><![CDATA[WooCommerce 10.7 引入了重大性能改进，在启用对象缓存的情况下，HPOS 订单的数据库查询减少了 51%，结帐期间的数据库查询减少了 39%。 Store API 现在会在产品端点上缓存“上次修改时间”时间戳，从而减少重复请求的数据库负载。
+通过类型化 API 和自定义运输提供商支持增强了履行订单跟踪，同时分析导出获得了更好的货币处理和自定义。
+其他更新包括辅助功能增强和增量电子邮件编辑器改进。
+查看有关 AlternativeTo 的文章有关 WooCommerce 的更多信息 | WooCommerce 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/4/woocommerce-10-7-cuts-database-queries-and-adds-store-api-caching/</guid>
+      <pubDate>Thu, 16 Apr 2026 15:21:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zig 0.16.0 带来了 I/O 接口并扩展了本机 CI 目标测试</title>
+      <link>https://alternativeto.net/news/2026/4/zig-0-16-0-brings-i-o-interfaces-and-expands-native-ci-target-testing/</link>
+      <description><![CDATA[Zig 0.16.0 引入了 I/O 作为接口，标志着重大的语言更新。本机持续集成测试现在涵盖更多平台，增强了 aarch64、loongarch64、powerpc64le、s390x 等的可靠性。
+主要目标的堆栈跟踪和标准库可靠性也得到了显着提高。
+查看有关 AlternativeTo 的文章更多信息Zig | Zig 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/4/zig-0-16-0-brings-i-o-interfaces-and-expands-native-ci-target-testing/</guid>
+      <pubDate>Thu, 16 Apr 2026 15:15:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>GameHub for Mac 测试版允许用户在 macOS 上运行 Windows 游戏</title>
+      <link>https://alternativeto.net/news/2026/4/gamehub-for-mac-beta-lets-users-run-windows-games-on-macos/</link>
+      <description><![CDATA[GameHub 已为其 Mac 客户端开放内测，允许用户在 macOS 上运行 Windows 游戏。该测试版可供通过官方网站或 Discord 申请的早期用户使用。
+参与者的反馈将指导 Mac 版本的进一步开发。
+查看有关 AlternativeTo 的文章有关 GameSir 的更多信息GameHub | GameSir GameHub 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/gamehub-for-mac-beta-lets-users-run-windows-games-on-macos/</guid>
+      <pubDate>Thu, 16 Apr 2026 15:04:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenProject 17.3 添加了专用的冲刺对象、自动冲刺板创建等等</title>
+      <link>https://alternativeto.net/news/2026/4/openproject-17-3-adds-dedicated-sprint-objects-auto-sprint-board-creation-and-much-more/</link>
+      <description><![CDATA[OpenProject 17.3 通过引入专用的冲刺对象，为敏捷团队带来了重大推动。用户现在可以使用待办事项模块中的冲刺来本地组织工作，从而无需手动设置或解决方法。在此基础上，每次冲刺开始时都会自动创建专用的冲刺板。该板经过预先配置，可反映项目的工作流程，并包括分配给冲刺的每个工作包，从而简化任务跟踪和协调。
+在这些敏捷工作流程改进之后，OpenProject 17.3 使团队能够直接完成主动冲刺。当冲刺结束时，系统会指导用户批量管理任何未完成的工作包，例如将它们返回到积压工作或将它们分配给未来的冲刺。此外，待办事项模块现在默认显示项目内的所有工作包类型。这确保了团队可以在积压工作和冲刺计划期间对每个任务或问题进行优先级排序和管理。
+在此版本中，社区版现已解锁所有操作板类型，包括看板和亲子板。这将董事会功能扩展到非企业用户，从而支持更广泛的工作流程和团队结构。
+查看有关 AlternativeTo 的文章更多信息OpenProject | OpenProject 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/4/openproject-17-3-adds-dedicated-sprint-objects-auto-sprint-board-creation-and-much-more/</guid>
+      <pubDate>Thu, 16 Apr 2026 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Warp 添加了带有状态指示器和自定义选项的垂直选项卡</title>
+      <link>https://alternativeto.net/news/2026/4/warp-adds-vertical-tabs-with-status-indicators-and-customization-options/</link>
+      <description><![CDATA[Warp 引入了垂直选项卡，为用户提供了组织会话和工作流程的新方式。选项卡现在显示编码代理状态指示器，因此用户可以快速查看哪些任务已完成、已阻止或仍在进行中。
+可以通过双击来重命名选项卡或为其着色，并且可以自定义显示信息以显示目录、分支或对话等详细信息。
+查看有关 AlternativeTo 的文章有关 Warp 的更多信息终端 | Warp 终端替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/warp-adds-vertical-tabs-with-status-indicators-and-customization-options/</guid>
+      <pubDate>Thu, 16 Apr 2026 14:57:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>OPNSense 商业版 26.4 添加了 OpenVPN 自定义配置、改进的 OpenID Connect 等</title>
+      <link>https://alternativeto.net/news/2026/4/opnsense-business-edition-26-4-adds-openvpn-custom-configs-improved-openid-connect-and-more/</link>
+      <description><![CDATA[Deciso 发布了 OPNSense Business Edition 26.4，代号为“Witty Woodpecker”，为专业和企业环境提供有针对性的增强功能。该版本以社区版的安全和操作控制为基础，引入了更深入的身份集成和更高级的流量处理。
+一个值得注意的新增功能是用户门户中的自定义 OpenVPN 配置选项，允许管理员为灵活的虚拟专用网络 (VPN) 部署生成定制的客户端配置文件。增强的 OpenID Connect (OIDC) 支持改进了身份声明管理，为组织提供更好的访问控制以及与 Microsoft Entra ID 等提供商的集成。作为其中的一部分，OPNcentral 现在允许企业选择退出自动登录，以适应集中式身份管理工作流程。
+操作洞察力的进一步增强包括 OPNWAF 的 mod_status 诊断页面，使监控 Web 应用程序防火墙活动变得更加容易。自动主机发现服务通过识别网络上的活动设备、简化资产跟踪和故障排除来扩展实时可见性。
+继之前版本中的防火墙管理重新设计之后，商业版引入了更精细的规则界面和改进的网络地址转换工作流程，简化了管理。新的转移功能确保入侵检测和防火墙规则可以绕过大量低风险流量，从而产生更好的整体系统性能。
+查看有关 AlternativeTo 的文章更多信息OPNsense | OPNsense 替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/4/opnsense-business-edition-26-4-adds-openvpn-custom-configs-improved-openid-connect-and-more/</guid>
+      <pubDate>Thu, 16 Apr 2026 13:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌升级后的桌面应用程序现已在 Windows 上使用，具有类似 Spotlight 的人工智能搜索功能</title>
       <link>https://alternativeto.net/news/2026/4/google-s-upgraded-desktop-app-is-now-available-on-windows-with-spotlight-like-ai-search/</link>
@@ -41,121 +146,9 @@
       <description><![CDATA[Google 推出了一款专用于 Mac 的原生 Gemini 应用，为用户提供桌面版本的聊天机器人，而不仅仅是依赖网络体验。该应用现已适用于所有支持 Gemini 的国家/地区和语言的运行 macOS 15 Sequoia 或更高版本的 Mac。
 Gemini for Mac 可以使用键盘快捷键从 macOS 中的任何位置打开。默认情况下，Option + Space 打开迷你聊天覆盖，而 Option + Shift + Space 打开完整的桌面体验，这两个快捷方式都可以从应用程序设置中进行调整。迷你聊天旨在让用户在文档、浏览器选项卡、设计文件、编码环境或其他应用程序中工作时提出问题。
 主要功能之一是屏幕共享，它允许 Gemini 查看用户屏幕上当前的内容并根据上下文进行响应，从而减少手动复制和粘贴文本、屏幕截图、图像或其他内容的需要。用户可以提出有关文档、设计、网页、图像、数据、代码和共享本地文件的问题，同时该应用还可以共享完整的网页，并支持通过 Nano Banana 和 Veo 生成图像和视频。不过，Gemini for Mac 似乎不包含 Claude 的计算机使用等代理功能，因此目前它无法真正接管计算机并代表用户执行任务。
-查看有关 AlternativeTo 的文章有关 Google 的更多信息Gemini | Google Gemini 替代方案]]></description>
+查看有关 AlternativeTo 的文章有关 Google 的更多信息Gemini | Google Gemini 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/4/google-launches-new-desktop-gemini-app-for-mac-with-screen-sharing-to-see-your-activity/</guid>
       <pubDate>Thu, 16 Apr 2026 04:59:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adobe 推出 Firefly AI Assistant，可在 Creative Cloud 上进行提示驱动的编辑</title>
-      <link>https://alternativeto.net/news/2026/4/adobe-unveils-firefly-ai-assistant-for-prompt-driven-editing-across-creative-cloud/</link>
-      <description><![CDATA[Adobe 宣布即将推出 Firefly AI Assistant，这是一款新的对话式 AI 工具，可让用户在 Firefly 上编辑其项目，Photoshop、Premiere、Lightroom、Express、Illustrator 和其他使用文本提示的 Creative Cloud 应用程序。用户将能够请求“修饰此图像”或“为社交媒体调整其大小”等编辑，助手会生成可编辑选项而不是单个最终结果。
-助手还可以显示相关工具和控件进行微调，而更详细的调整仍然可以在标准 Creative Cloud 应用程序中完成。 Adobe 表示，其目标是减少技术障碍并自动执行重复性任务，同时让创作者掌控最终输出。该公司还通过 Anthropic 扩展其代理 AI 工作，将这些功能引入 Claude 等第三方 AI 应用程序，以便用户可以访问 Firefly 和 Creative Cloud 之外的 Adob​​e 工具。该助手将于本月晚些时候作为公开测试版发布。
-Adobe 还推出了 Firefly 更新，包括用于可重复使用预设的创意技能、用于定义编辑区域的 AI 标记、用于比较生成图像的 Precision Flow、Firefly 视频编辑器中的新颜色和对话工具，以及用于 B 卷素材的直接 Adobe Stock 集成。
-查看有关 AlternativeTo 的文章有关 Adobe 的更多信息Firefly | Adobe Firefly 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/adobe-unveils-firefly-ai-assistant-for-prompt-driven-editing-across-creative-cloud/</guid>
-      <pubDate>Thu, 16 Apr 2026 04:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 推出 GPT-5.4-Cyber​​，这是对 Anthropic 网络安全神话的回应</title>
-      <link>https://alternativeto.net/news/2026/4/openai-introduces-gpt-5-4-cyber-its-response-to-anthropic-s-mythos-for-cybersecurity/</link>
-      <description><![CDATA[OpenAI 已宣布 GPT-5.4-Cyber，这是 GPT-5.4 是对 Anthropic 的克劳德神话预览的直接回应，这也是上周宣布的。与 Mythos 一样，该模型旨在防御性网络安全工作，但 OpenAI 正在将其方法构建为经过验证的防御者更广泛的访问权限，而不是仅限于一小部分大公司的工具。
-GPT-5.4-Cyber 被描述为更加“网络宽容”，这意味着与通用 AI 模型相比，它对合法安全任务的拒绝边界更低。它还增加了二进制逆向工程功能，使分析人员能够检查程序和应用程序是否存在恶意代码。访问仍将通过OpenAI 的可信网络访问计划进行限制，并采用新的分层验证系统，其中最高层解锁 GPT-5.4-Cyber。
-Anthropic 的 Glasswing 项目提供了更多背景信息，说明为什么这些模型在受控访问下发布。该公司表示，Claude Mythos Preview 已经发现了数千个高严重性漏洞，凸显了此类人工智能功能的防御价值和潜在风险，这就是该公司决定暂时对访问施加更多限制的原因。 OpenAI 表示，GPT-5.4-Cyber 是其准备工作的一部分，预计将于今年晚些时候推出更强大的网络安全模型。
-查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/4/openai-introduces-gpt-5-4-cyber-its-response-to-anthropic-s-mythos-for-cybersecurity/</guid>
-      <pubDate>Thu, 16 Apr 2026 04:08:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>向 AlternativeTo 的首个官方合作伙伴 ProtonVPN 打个招呼！</title>
-      <link>https://alternativeto.net/news/2026/4/say-hello-to-protonvpn-alternativeto-s-first-official-partner-/</link>
-      <description><![CDATA[我们很高兴地宣布 ProtonVPN 正式成为 AlternativeTo 的首个官方合作伙伴 🎉 这意味着 Proton 的出色团队正在支持我们的社区驱动平台，并帮助我们继续为全球数百万好奇的用户提供软件发现服务。
-那么您可能会问，这个“官方合作伙伴”计划到底是什么？这是 AlternativeTo 团队的一项新举措，旨在突出一小部分符合我们愿景并希望支持我们社区的产品，分享我们的信念，即软件发现应该保持开放、有用和社区驱动。最重要的是，它是与那些希望帮助 AlternativeTo 继续做过去 18 年来所做的事情的公司合作：保持自由、独立和社区支持。
-官方合作伙伴可能会出现在网站上的专门位置，以展示他们对我们社区的承诺并突出他们的产品。 不会改变的是替代方案、排名和搜索结果的工作方式。正如以往一样，这些仍然由社区的活动、意见和建议决定。毕竟我们是一个众包平台，这仍然是我们所做一切的核心。
-
-为什么ProtonVPN？
-Proton 及其其更广泛的隐私产品生态系统长期以来一直是 AlternativeTo 上熟悉的名字，尤其是 ProtonVPN 一直脱颖而出，成为该领域最受尊敬的隐私工具之一。其中很大一部分来自于一组强大的功能，如 NetShield、Secure Core、强大的反审查工具和独立审核的无日志政策。所有这些都让 ProtonVPN 感觉非常适合第一次合作，因为它代表了我们希望该计划强调的产品类型：受到广泛尊重、真正有用、开源方法，并围绕对像我们这样非常关心信任、透明度和保持在线控制的社区重要的价值观而构建。
-我们非常高兴能够与 ProtonVPN 一起启动这个新计划，并迈出第一步，继续构建不仅对合作伙伴而且对整个 AlternativeTo 社区有价值的东西。如果您有兴趣成为我们的官方合作伙伴之一，可以通过 partners@alternativeto.com 与我们联系。
-查看有关 AlternativeTo 的文章有关 Proton 的更多信息VPN | Proton VPN 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/say-hello-to-protonvpn-alternativeto-s-first-official-partner-/</guid>
-      <pubDate>Wed, 15 Apr 2026 20:49:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare 推出统一的 Wrangler CLI 并为开发人员添加本地浏览器</title>
-      <link>https://alternativeto.net/news/2026/4/cloudflare-introduces-unified-wrangler-cli-and-adds-local-explorer-for-developers/</link>
-      <description><![CDATA[Cloudflare 已开始重建 Wrangler CLI，以作为其所有产品的统一命令行界面。新工具使用户能够使用基础设施即代码原则从不同的 Cloudflare 服务发出命令并配置资源。开发人员现在可以通过运行 npx cf 或通过 npm install -g cf 全局安装来预览新的 cf CLI。
-虽然技术预览版目前仅支持 Cloudflare 产品的子集，但完整的 API 实现正在测试中。 Cloudflare 计划扩展未来的版本，以覆盖整个 API 表面，其输出旨在符合人类和代理的人体工程学。这些增强功能是通过支持新 CLI 的 TypeScript 架构框架实现的，该框架允许对命令、参数和接口进行一致的定义，并生成 OpenAPI 架构。
-此外，Wrangler CLI 还支持模拟本地资源和远程 Cloudflare 服务配置，包括 D1 数据库、R2 存储和 KV 命名空间。此后，Cloudflare 在 Wrangler 和 Cloudflare Vite 插件的公开测试版中推出了 Local Explorer。 Local Explorer 为开发人员提供了本地界面，以检查 Worker 使用哪些资源和绑定，以及当前存储的数据，从而简化本地开发和调试。
-查看有关 AlternativeTo 的文章更多信息Cloudflare | Cloudflare 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/cloudflare-introduces-unified-wrangler-cli-and-adds-local-explorer-for-developers/</guid>
-      <pubDate>Wed, 15 Apr 2026 16:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Raspberry Pi 操作系统在新安装时默认禁用无密码 sudo，以提高安全性</title>
-      <link>https://alternativeto.net/news/2026/4/raspberry-pi-os-disables-passwordless-sudo-by-default-on-new-installs-for-greater-security/</link>
-      <description><![CDATA[Raspberry Pi OS 6.2 引入了一项以安全为中心的更改，为新安装默认禁用无密码 sudo。现在，系统将提示运行 sudo 以获得管理员级别访问权限的用户在终端中输入密码。同样，桌面界面中的某些管理操作（例如控制中心中的操作）将弹出一个对话框，要求输入当前用户的密码。
-进行此更改后，一旦为 sudo 输入有效密码，就会有五分钟的宽限期，然后才需要执行后续命令的进一步提示。喜欢早期无密码 sudo 体验的用户可以通过控制中心系统选项卡中的选项恢复到此行为。
-更新现有 Raspberry Pi 操作系统安装的当前用户不会受到此更改的影响，除非他们手动调整管理员密码设置。在更新的系统上，控制中心将显示新的管理员密码开关，但默认的无密码 sudo 保持启用状态，直到用户决定修改它。除了 sudo 策略更新之外，Raspberry Pi OS 6.2 还包括过去几个月累积的细微更改和错误修复。
-查看有关 AlternativeTo 的文章有关 Raspberry Pi 的更多信息操作系统 | Raspberry Pi 操作系统替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/raspberry-pi-os-disables-passwordless-sudo-by-default-on-new-installs-for-greater-security/</guid>
-      <pubDate>Wed, 15 Apr 2026 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anthropic 在 Claude Code 中引入了用于计划和事件驱动自动化的例程</title>
-      <link>https://alternativeto.net/news/2026/4/anthropic-introduces-routines-in-claude-code-for-scheduled-and-event-driven-automation/</link>
-      <description><![CDATA[Anthropic 在 Claude Code 中推出了例程作为研究预览，为用户引入了一种通过可配置工作流程自动执行任务的新方法。例程允许用户定义自动化，包括提示、存储库访问和连接器，并将它们设置为按固定计划运行、响应 API 调用或由特定事件触发。
-与以前要求开发人员管理 cron 作业和基础设施的方法不同，例程完全在 Claude Code 的 Web 平台上运行。这意味着无论用户的本地计算机是否在线，自动化都会继续运行。用户可以指定提示并为这些工作流程设置每小时、每晚或每周的节奏。之前在命令行界面中使用 /schedule 命令分配的任务会自动转换为计划例程。
-除了调度之外，每个例程都被分配了一个唯一的 API 端点和身份验证令牌，允许外部应用程序通过 HTTP 请求触发工作流程。这可以实现与警报、部署挂钩或内部工具等服务的集成。接下来，还可以将例程设置为根据 GitHub 存储库事件激活。对于每个合格的拉取请求，Claude Code 都会创建一个会话来处理更新、管理评论并跟踪持续集成失败。虽然基于 Webhook 的触发器目前涵盖 GitHub，但 Anthropic 打算扩展事件源兼容性。所有使用 Pro、Max、Team 和 Enterprise 计划并启用 Web 访问的 Claude Code 用户都可以立即使用例程。
-查看有关 AlternativeTo 的文章有关 Claude 的更多信息代码 | Claude 代码替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/4/anthropic-introduces-routines-in-claude-code-for-scheduled-and-event-driven-automation/</guid>
-      <pubDate>Wed, 15 Apr 2026 13:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌在 Chrome 中推出了保存、自定义和重用自定义 Gemini 提示的技能</title>
-      <link>https://alternativeto.net/news/2026/4/google-launches-skills-in-chrome-for-saving-customizing-and-reusing-custom-gemini-prompts/</link>
-      <description><![CDATA[Google 正在 Chrome 中推出技能，该功能让用户只需单击一下即可保存并重复使用最有用的 AI 提示。此更新允许将任何有价值的提示转变为可重复使用的技能，并可以直接从聊天记录中访问，从而简化了用户在 Chrome 中与 Gemini 的交互方式。
-保存后，可以通过键入正斜杠或单击加号在 Chrome 的 Gemini 中激活这些技能。该功能在当前页面或其他选定选项卡上运行选定的技能。用户可以随时编辑之前保存的技能或创建新技能，从而支持日常工作流程的灵活性。
-除了自定义技能之外，Google 还提供了一个涵盖常见任务和工作流程的即用型技能库。用户可以将这些技能添加到他们的个人列表中，进行尝试并进行调整以更好地满足他们的需求。技能受到与 Chrome 中 Gemini 相同的保护措施的保护，在采取敏感操作（例如添加日历事件或发送电子邮件）之前需要确认。所有保存的技能都可以在任何已登录的 Chrome 桌面设备上使用。
-查看有关 AlternativeTo 的文章有关 Google 的更多信息Chrome | Google Chrome 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/google-launches-skills-in-chrome-for-saving-customizing-and-reusing-custom-gemini-prompts/</guid>
-      <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenSSL 4.0 结束 SSLv3，添加加密的 Client Hello 并支持 SNMP KDF 和 SRTP KDF</title>
-      <link>https://alternativeto.net/news/2026/4/openssl-4-0-ends-sslv3-adds-encrypted-client-hello-and-support-for-snmp-kdf-and-srtp-kdf/</link>
-      <description><![CDATA[OpenSSL 4.0 作为功能版本发布，对协议支持和安全性进行了重大更改。通过引入加密的 Client Hello、符合 RFC 9849 并提高 TLS 连接的保护，用户可以获得增强的隐私。与此同时，对 SSLv3 和 SSLv2 Client Hello 的支持已完全删除，从而完成了漫长的弃用过程并加强了对现代标准的合规性。
-虽然这些更新改变了协议支持，但引擎的框架被消除了：与引擎相关的构建选项和宏始终存在，并且架构反映了这种简化的模型。 OpenSSL 4.0 还引入了新的加密选项，包括对 SM2 和 SM3 算法的支持、通过 SM2MLKEM768 的后量子混合密钥交换以及 ML-DSA-MU 摘要算法。
-在添加这些功能之后，输出和兼容性得到了改进：十六进制转储现在更加一致和简洁，省略了不必要的前导字节并对签名和其他数据强制执行特定的宽度限制。开发人员还应注意删除了多个已弃用的 API，包括 X509_cmp_time 函数和特定于引擎的挂钩，以及在编译时默认禁用一些旧版椭圆曲线支持。
-其他改进包括在 X.509 处理中加强 AKID 和 CRL 验证，以及使用 FIPS 模块强制执行基于密码的加密的下限。
-查看有关 AlternativeTo 的文章有关 OpenSSL 的更多信息 | OpenSSL 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/4/openssl-4-0-ends-sslv3-adds-encrypted-client-hello-and-support-for-snmp-kdf-and-srtp-kdf/</guid>
-      <pubDate>Wed, 15 Apr 2026 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Joomla 6.1 改进了垃圾邮件防护和内容管理功能</title>
-      <link>https://alternativeto.net/news/2026/4/joomla-6-1-improves-spam-protection-and-content-management-features/</link>
-      <description><![CDATA[Joomla 6.1 引入了工作验证验证码，无需外部帐户或用户可见的挑战即可提供垃圾邮件防护。该版本还添加了可视化工作流程编辑器，可以更轻松地管理和审查整个内容发布流程。
-内容创建者获得了带有音频、视频和文档上传自定义字段的新选项。
-查看有关 AlternativeTo 的文章有关 Joomla 的更多信息 | Joomla 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/joomla-6-1-improves-spam-protection-and-content-management-features/</guid>
-      <pubDate>Wed, 15 Apr 2026 09:27:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>概念 3.4：更便宜的自定义代理、人工智能自动填充和新集成推出</title>
-      <link>https://alternativeto.net/news/2026/4/notion-3-4-adds-ai-autofill-and-cheaper-custom-agents-for-teams/</link>
-      <description><![CDATA[Notion 3.4 在数据库中引入了 AI 自动填充，通过自定义代理实现数据的自动丰富和维护。现在，自定义代理的运行成本降低了 35-50%，新模型选项使用的积分减少了 10 倍，并且用户可以通过新的仪表板更清晰地了解代理积分的使用情况。
-自定义代理还扩展了与私有 Slack 渠道的集成，并支持即将推出的连接器，例如 Teams、Drive 和 Salesforce。
-其他改进包括可定制的 AI 会议笔记、更快的页面渲染以及无需更广泛的内容访问即可创建页面的新数据库权限。
-查看有关 AlternativeTo 的文章更多信息概念 | 概念替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/notion-3-4-adds-ai-autofill-and-cheaper-custom-agents-for-teams/</guid>
-      <pubDate>Wed, 15 Apr 2026 09:21:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lovable 推出支持多项目的 Mac 桌面应用程序</title>
-      <link>https://alternativeto.net/news/2026/4/lovable-launches-mac-desktop-app-with-multi-project-support/</link>
-      <description><![CDATA[Lovable 推出了一款专用于 Mac 的桌面应用程序，Windows 版本正在开发中。新应用程序允许访问本地 MCP、跨多个选项卡构建项目，并包含用于改进工作流程的本机键盘快捷键。
-查看有关 AlternativeTo 的文章有关 Lovable 的更多信息  | 可爱的替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/lovable-launches-mac-desktop-app-with-multi-project-support/</guid>
-      <pubDate>Wed, 15 Apr 2026 07:39:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
