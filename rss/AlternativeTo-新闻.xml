@@ -4,7 +4,7 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sat, 18 Apr 2026 02:25:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 13:02:34 GMT</lastBuildDate>
     <item>
       <title>Mozilla 推出 Thunderbolt，这是一款用于私有、自托管工作流程的开源 AI 客户端</title>
       <link>https://alternativeto.net/news/2026/4/mozilla-unveils-thunderbolt-an-open-source-ai-client-for-private-self-hosted-workflows/</link>
@@ -12,7 +12,7 @@
 在此基础上，Thunderbolt 使组织能够完全在自己的基础设施上运行 AI 工作流程。团队可以选择自己喜欢的机器学习模型，将系统连接到专有数据源，并在操作过程中保护隐私。这些功能无需依赖第三方云服务即可使用。
 虽然灵活性和控制是核心，但 Thunderbolt 通过 deepset 的 Haystack 框架 的本机集成扩展了其范围。这种合作伙伴关系将面向用户的聊天、搜索和研究功能与统一架构中的企业级代理编排和检索增强生成 (RAG) 连接起来。因此，组织可以自动化工作流程、管理重复任务并直接在平台内简化研究。
 Thunderbolt 的开源代码可根据 MPL-2.0 许可证在 GitHub 上访问，本机应用程序可通过候补名单用于 Web、macOS、Windows、Linux、iOS 和 Android。 Mozilla 与 deepset 的合作确保客户端界面和后端编排层之间的开发保持一致。
-查看有关 AlternativeTo 的文章更多信息Thunderbolt | Thunderbolt 替代方案]]></description>
+查看有关 AlternativeTo 的文章更多信息Thunderbolt | Thunderbolt 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/4/mozilla-unveils-thunderbolt-an-open-source-ai-client-for-private-self-hosted-workflows/</guid>
       <pubDate>Fri, 17 Apr 2026 16:30:00 GMT</pubDate>
     </item>
