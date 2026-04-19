@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 18 Apr 2026 13:02:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 02:40:35 GMT</lastBuildDate>
     <item>
       <title>Grok 语音 API</title>
       <link>https://www.producthunt.com/products/grok</link>
@@ -132,6 +132,20 @@
       <pubDate>Fri, 17 Apr 2026 08:39:10 GMT</pubDate>
     </item>
     <item>
+      <title>GPT-罗莎琳德</title>
+      <link>https://www.producthunt.com/products/openai</link>
+      <description><![CDATA[
+            用于科学研究和药物发现的专用模型
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/openai</guid>
+      <pubDate>Thu, 16 Apr 2026 19:38:44 GMT</pubDate>
+    </item>
+    <item>
       <title>安卓命令行界面</title>
       <link>https://www.producthunt.com/products/android-cli</link>
       <description><![CDATA[
@@ -200,20 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/chatgpt-shopping</guid>
       <pubDate>Tue, 24 Mar 2026 17:01:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>林多.ai</title>
-      <link>https://www.producthunt.com/products/lindo</link>
-      <description><![CDATA[
-            以您的品牌推出您自己的人工智能网站构建器
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/lindo</guid>
-      <pubDate>Tue, 03 Jun 2025 20:34:37 GMT</pubDate>
     </item>
     </channel>
 </rss>

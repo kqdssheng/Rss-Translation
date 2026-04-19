@@ -4,7 +4,18 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sat, 18 Apr 2026 13:02:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 02:40:28 GMT</lastBuildDate>
+    <item>
+      <title>谷歌在 Chrome 的 AI 模式中添加并排网页浏览和新的跨标签搜索选项</title>
+      <link>https://alternativeto.net/news/2026/4/google-adds-side-by-side-web-browsing-and-new-cross-tab-search-options-in-chrome-s-ai-mode/</link>
+      <description><![CDATA[Google 升级了 Chrome 中的AI 模式，为桌面用户引入并排浏览功能。现在，在 AI 模式下单击链接会在 AI 界面旁边打开目标网页。这种方法可以让用户参与网络内容、比较信息并提出进一步的问题，而不会失去自己的位置。
+基于这些更改，Chrome 现在允许用户在最近的标签页中进行搜索。桌面和移动用户都可以点击搜索框或 AI 模式中的新“加号”菜单，从最近的选项卡中进行选择。这使得将多个源集成到单个搜索会话中以扩展上下文变得更加容易。
+这些升级还允许用户混合和匹配不同的输入类型。除了选项卡外，用户在通过 AI 模式进行搜索时还可以包含图像或 PDF 等文件。除了这些搜索改进之外，现在还可以从 Chrome 中出现“加号”菜单的任何位置访问 Canvas 和图像创建等人工智能驱动的工具。
+所有这些功能均可供美国的 Chrome 用户使用，Google 计划未来将访问范围扩大到更多地区。
+查看有关 AlternativeTo 的文章有关 Google 的更多信息Chrome | Google Chrome 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/google-adds-side-by-side-web-browsing-and-new-cross-tab-search-options-in-chrome-s-ai-mode/</guid>
+      <pubDate>Sat, 18 Apr 2026 16:29:30 GMT</pubDate>
+    </item>
     <item>
       <title>Mozilla 推出 Thunderbolt，这是一款用于私有、自托管工作流程的开源 AI 客户端</title>
       <link>https://alternativeto.net/news/2026/4/mozilla-unveils-thunderbolt-an-open-source-ai-client-for-private-self-hosted-workflows/</link>
@@ -12,7 +23,7 @@
 在此基础上，Thunderbolt 使组织能够完全在自己的基础设施上运行 AI 工作流程。团队可以选择自己喜欢的机器学习模型，将系统连接到专有数据源，并在操作过程中保护隐私。这些功能无需依赖第三方云服务即可使用。
 虽然灵活性和控制是核心，但 Thunderbolt 通过 deepset 的 Haystack 框架 的本机集成扩展了其范围。这种合作伙伴关系将面向用户的聊天、搜索和研究功能与统一架构中的企业级代理编排和检索增强生成 (RAG) 连接起来。因此，组织可以自动化工作流程、管理重复任务并直接在平台内简化研究。
 Thunderbolt 的开源代码可根据 MPL-2.0 许可证在 GitHub 上访问，本机应用程序可通过候补名单用于 Web、macOS、Windows、Linux、iOS 和 Android。 Mozilla 与 deepset 的合作确保客户端界面和后端编排层之间的开发保持一致。
-查看有关 AlternativeTo 的文章更多信息Thunderbolt | Thunderbolt 替代品]]></description>
+查看有关 AlternativeTo 的文章更多信息Thunderbolt | Thunderbolt 替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/4/mozilla-unveils-thunderbolt-an-open-source-ai-client-for-private-self-hosted-workflows/</guid>
       <pubDate>Fri, 17 Apr 2026 16:30:00 GMT</pubDate>
     </item>
@@ -68,7 +79,7 @@ Thunderbolt 的开源代码可根据 MPL-2.0 许可证在 GitHub 上访问，本
       <link>https://alternativeto.net/news/2026/4/cloudflare-email-service-launches-public-beta-for-agent-applications/</link>
       <description><![CDATA[Cloudflare 已推出公共测试版电子邮件服务，允许应用程序和代理在平台内发送和接收经过身份验证的电子邮件。该版本引入了更新的代理 SDK，可实现有状态、安全的基于电子邮件的代理操作。
 开发人员还可以访问新工具，包括电子邮件 MCP 服务器、Wrangler CLI 命令和开源参考收件箱应用程序。
-查看有关 AlternativeTo 的文章有关 Cloudflare 的更多信息 | Cloudflare 替代方案]]></description>
+查看有关 AlternativeTo 的文章有关 Cloudflare 的更多信息 | Cloudflare 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/4/cloudflare-email-service-launches-public-beta-for-agent-applications/</guid>
       <pubDate>Fri, 17 Apr 2026 14:48:06 GMT</pubDate>
     </item>
@@ -90,7 +101,7 @@ Thunderbolt 的开源代码可根据 MPL-2.0 许可证在 GitHub 上访问，本
 此更新采用 Linux 内核 6.17，与Ubuntu 25.10，提供更好的硬件兼容性和系统性能。由于整个环境中实施了各种错误修复和性能增强，用户还可以期待更快的响应时间和更流畅的桌面体验。
 在这些改进的基础上，高级窗口平铺获得了新功能：可以在设置中重新排序布局，边缘平铺现在支持捕捉到自定义布局，以及从任务栏切换到平铺应用程序会将所有相关窗口带到前台。面板功能得到扩展，支持从右到左的脚本，例如阿拉伯语、希伯来语和乌尔都语，而某些应用程序现在可以将自己的图标放置在面板托盘中以便快速访问。
 该版本包括 LibreOffice 26.2 和更新的预装应用程序。与此同时，Zorin OS 18.1 Lite 首次推出 Xfce 4.20、更新的文件管理器和指纹读取器支持，以更好地为旧设备或资源受限设备上的用户提供服务。
-查看有关 AlternativeTo 的文章有关 Zorin 的更多信息操作系统 | Zorin 操作系统替代方案]]></description>
+查看有关 AlternativeTo 的文章有关 Zorin 的更多信息操作系统 | Zorin 操作系统替代品]]></description>
       <guid>https://alternativeto.net/news/2026/4/zorin-os-18-1-improves-windows-app-support-enhances-window-tiling-and-updates-lite-edition/</guid>
       <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
     </item>
@@ -143,16 +154,6 @@ Canva 表示，通过 AI 2.0 生成的所有内容在平台内仍然完全可编
 查看有关 AlternativeTo 的文章更多信息Canva | Canva 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/4/canva-has-unveiled-ai-2-0-its-biggest-push-yet-to-replace-traditional-design-with-prompts/</guid>
       <pubDate>Fri, 17 Apr 2026 05:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Forgejo v15.0 添加了 repo 范围的代币、OIDC for Actions 以及主要可用性升级</title>
-      <link>https://alternativeto.net/news/2026/4/forgejo-v15-0-adds-repo-scoped-tokens-oidc-for-actions-and-major-usability-upgrades/</link>
-      <description><![CDATA[Forgejo v15.0 已作为该项目的新长期支持版本发布，其主要变化集中在访问控制、操作和运行器设置上。它添加了存储库特定的访问令牌，因此用户可以将令牌限制为选定的存储库，并且它还为 Forgejo Actions 带来了 OpenID Connect 支持，允许工作流使用短期凭据而不是存储的机密登录到外部服务。此功能需要高于 v12.5.0 的 Forgejo Runner 版本。
-此更新还改进了可重用工作流程在 Forgejo Actions 中的工作方式。它们现在可以扩展到单独的作业，这使得日志更易于阅读，并允许作业跨不同的运行器或平台运行。 Forgejo 还添加了用于一次性作业执行的临时运行程序，有助于减少自动缩放设置中的凭证重用。跑步者注册也通过基于网络的新设置流程得到简化。
-v15.0 还包括两个在升级之前需要记住的重大更改。大多数用户需要重新登录，因为默认 cookie 名称已更改，并且无根 Docker 部署不再支持旧的配置路径，除非手动覆盖它们。其他更改包括更好的 OAuth 和 git 推送错误消息、自动容器链接、响应更快的发布页面、改进的问题过滤器控件、更好的拉取请求中的 Git 注释编辑以及更多屏幕阅读器辅助功能改进。
-查看有关 AlternativeTo 的文章更多信息Forgejo | Forgejo 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/forgejo-v15-0-adds-repo-scoped-tokens-oidc-for-actions-and-major-usability-upgrades/</guid>
-      <pubDate>Fri, 17 Apr 2026 04:27:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
