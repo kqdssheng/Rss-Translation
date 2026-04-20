@@ -4,7 +4,87 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Mon, 20 Apr 2026 02:40:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 13:42:52 GMT</lastBuildDate>
+    <item>
+      <title>LXQt 2.4 发布，提供更好的 Wayland 支持、新的电源管理设置等</title>
+      <link>https://alternativeto.net/news/2026/4/lxqt-2-4-released-with-better-wayland-support-new-power-management-settings-and-more/</link>
+      <description><![CDATA[LXQt 2.4 已作为 Linux 轻量级开源桌面环境的最新版本发布，重点关注错误修复、代码清理和面向用户的改进。所需的 Qt 版本保持不变，确保 LXQt 2.4 保持与 Debian “Trixie” 和类似发行版兼容，从而简化了许多用户的升级过程。
+在此版本中，文件管理器现在在保存对话框中突出显示基本文件名，从而可以更轻松地立即重命名文件。在 Wayland 上，多显示器用户受益于能够为每个显示器独立设置“隐藏桌面项目”首选项，从而更好地管理多屏设置。电源管理设置也取得了进步，交流电和电池使用的单独显示器消隐超时，以及更干净的界面和删除过时的选项。
+在这些增强之后，面板的音量插件现在采用水平布局并显示所有可用的音频接收器。用户可以通过面板图标上的鼠标滚轮或触摸板滚动直接调整默认接收器的音量。通过拆分 X11 和 Wayland 会话的设置，会话管理得到了简化，并且在 Wayland 上，现在可以通过快捷方式访问主菜单。
+其他更新包括改进的通知、终端增强功能以及响应速度更快的 LXQt Runner 计算器，该计算器现在在首次输入数字时启动。
+查看有关 AlternativeTo 的文章更多信息LXQt | LXQt 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/lxqt-2-4-released-with-better-wayland-support-new-power-management-settings-and-more/</guid>
+      <pubDate>Mon, 20 Apr 2026 13:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gitea 1.26 添加了子路径存档下载、OpenAPI 渲染、Vite 支持和安全修复</title>
+      <link>https://alternativeto.net/news/2026/4/gitea-1-26-adds-subpath-archive-download-openapi-rendering-vite-support-and-security-fixes/</link>
+      <description><![CDATA[Gitea 1.26 现已推出，其中包含针对开发人员工作流程和系统管理的关键更新。最突出的是，用户现在可以将存储库子路径下载为 zip 或 tarball 文件，以及访问用于文件和代码搜索的键盘快捷键。此版本还带来了自动 Markdown 发行说明生成，支持更快、更一致的发行文档。
+除了可用性改进之外，Gitea Actions 还添加了对并发语法、来自私有存储库的可重用工作流程以及重新运行失败作业的按钮的支持。新的工作流程依赖可视化功能和自动令牌的可配置权限增强了这些更改。操作工件现在可以作为非压缩文件下载，并且为管理员引入了每个运行者的禁用和暂停选项。
+扩展了开发人员和 DevOps 支持，此更新允许 Gitea 在其程序包注册表中托管 Terraform 状态，并显示附加到存储库的渲染 OpenAPI 文档，从而实现 API 规范的应用内探索。在安全性改进之后，Gitea 用 CrossOriginProtection 机制替换了其跨站点请求伪造 (CSRF) cookie。
+基于基础设施升级，前端工具链现在使用 Vite 而不是 webpack，文件编辑切换到 CodeMirror 进行浏览器内工作。实例范围的横幅和维护通知以及用户徽章进一步改进了用户界面。此版本还包括多项重大更改、重要的安全修复和各种错误修复。
+查看有关 AlternativeTo 的文章更多信息Gitea | Gitea 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/gitea-1-26-adds-subpath-archive-download-openapi-rendering-vite-support-and-security-fixes/</guid>
+      <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cavalry 现在对 Canva 用户免费，因为设计工具统一在一次登录中</title>
+      <link>https://alternativeto.net/news/2026/4/cavalry-now-free-for-canva-users-as-design-tools-unify-in-one-login/</link>
+      <description><![CDATA[Cavalry 现已免费向所有 Canva 帐户持有者开放，无需额外付费即可制作专业 2D 动画。 Canva 用户现在可以在单一平台和登录下访问照片编辑、矢量设计、布局和动画工具。
+查看有关 AlternativeTo 的文章更多信息骑兵 | 骑兵替代方案]]></description>
+      <guid>https://alternativeto.net/news/2026/4/cavalry-now-free-for-canva-users-as-design-tools-unify-in-one-login/</guid>
+      <pubDate>Mon, 20 Apr 2026 09:37:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Proton 11 Beta 版发布，现在可玩更多游戏、ARM64 支持和游戏特定修复</title>
+      <link>https://alternativeto.net/news/2026/4/proton-11-beta-released-with-more-games-now-playable-arm64-support-and-game-specific-fixes/</link>
+      <description><![CDATA[Valve 宣布发布 Proton 11 beta，为基于 Linux 的系统、SteamOS 和 Steam Deck 设备上的 Windows 游戏提供增强的兼容性。此更新解锁了对一系列以前无法在 Linux 上玩的新游戏的支持，包括《生化危机》(1996)、《生化危机 2》(1998)、《恐龙危机》、《From Dust》、《SHOGUN: Total War》、《Gothic 1 Classic》、《战锤: Vermintide 2》和《X-Plane 12》等。
+继 Proton 游戏库扩展之后，此次更新还标志着重大技术转变，采用了 Wine 11.0，为 ARM64EC 版本添加了 FEX-2604，以及更新核心组件：vkd3d-1.19、dxvk v2.7.1、dxvk-nvapi v0.9.1、Wine Mono 11.0.0、vkd3d-proton-20260410 和 Xalia 0.4.8。此次升级引入了对 SteamWorks SDK 1.64 的支持，确保改进与最新游戏的集成。
+此外，Proton 11 Beta 还解决了许多 Electronic Arts 发行的游戏的 Steam Overlay 问题。修复了多个特定于游戏的错误，以提高不同游戏的整体稳定性和用户体验。这些变化伴随着时区检测的改进和基于 MonoGame 框架构建的游戏的可玩性的扩展。此更新还增强了 Rockstar Launcher 弹出窗口的渲染。
+查看有关 AlternativeTo 的文章更多信息质子 | 质子替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/proton-11-beta-released-with-more-games-now-playable-arm64-support-and-game-specific-fixes/</guid>
+      <pubDate>Mon, 20 Apr 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wine 11.7 开始 MSXML 大修、D3DX 中的 SRGB 过滤器、DirectSound 7.1 和 VBScript 修复</title>
+      <link>https://alternativeto.net/news/2026/4/wine-11-7-starts-msxml-overhaul-srgb-filter-in-d3dx-directsound-7-1-and-vbscript-fixes/</link>
+      <description><![CDATA[Wine 11.7 现已推出，这是主要 MSXML 重新实现的第一阶段，消除了对 libxml2 的依赖。这一根本性更改为未来版本中改进 XML 支持铺平了道路。除此之外，该更新还提供了重要的 VBScript 兼容性修复和性能优化，帮助依赖脚本的 Windows 应用程序在 Linux、macOS 和 BSD 等受支持的平台上更可靠地执行。
+基于这些核心更改，Wine 11.7 在 D3DX 库中添加了 SRGB 滤镜支持。此增强功能提高了游戏和多媒体应用程序中的色彩保真度和兼容性。对于具有高级音频设置的用户，新版本引入了对 DirectSound 中 7.1 扬声器配置的支持，扩展了多通道音频功能。
+为了解决可用性和稳定性问题，Wine 11.7 包含针对广泛应用程序的 35 个错误修复。显着改进了触摸程序和游戏，例如 ABBYY FineReader、MapleStory World、In Falsus、Vocaloid 6、SongbookPro、Act of War: Direct Action 和 Xara Designer Pro。这些修复解决了崩溃、渲染问题和功能故障，使软件对最终用户来说更加强大。
+查看有关 AlternativeTo 的文章更多信息葡萄酒 | 葡萄酒替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/wine-11-7-starts-msxml-overhaul-srgb-filter-in-d3dx-directsound-7-1-and-vbscript-fixes/</guid>
+      <pubDate>Mon, 20 Apr 2026 07:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anthropic 推出 Claude Design，这是一款用于基于提示的视觉原型的新设计工具</title>
+      <link>https://alternativeto.net/news/2026/4/anthropic-launches-claude-design-a-new-design-tool-for-prompt-based-visual-prototypes/</link>
+      <description><![CDATA[Anthropic 推出了 Claude Design，这是一种新的实验工具，可让用户使用自然语言提示创建视觉原型。您可以将其视为一种人工智能氛围编码工具，例如 Lovable，但不限于网络平台，因为它还支持幻灯片和其他设计资产，针对没有经过正式设计培训的用户，他们需要更快的方式将想法转化为视觉效果，而无需从传统设计软件开始。
+生成初始视觉效果后，Claude Design 允许用户通过直接编辑或新提示对其进行完善。用户可以调整颜色、排版和深色模式切换等功能。该工具还支持上传代码库和设计文件，允许团队构建和维护真正的设计系统，在项目中应用公司特定的颜色、版式和其他视觉元素。
+虽然 Claude Design 最初看起来可能像是其他 AI 设计工具（例如 Adobe Firefly、Google Stitch 或 Canva）的竞争对手， Anthropic 表示，它的目的是补充而不是取代它们。事实上，该发布是与 Canva 一起宣布的，其首席执行官强调了如何将项目从 Claude Design 导出到 Canva，在那里它们变得完全可编辑和协作。用户还可以将资源导出为 PDF、URL 或 PowerPoint 文件。 Claude Design 由 Claude Opus 4.7 提供支持，目前为 Claude Pro、Max、Team 和 Enterprise 订阅者提供研究预览版，目前无法免费访问。即便如此，此次发布似乎还是让部分市场感到不安，Figma 的股价在发布后下跌了约 7%。
+查看有关 AlternativeTo 的文章更多信息克劳德 | 克劳德替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/anthropic-launches-claude-design-a-new-design-tool-for-prompt-based-visual-prototypes/</guid>
+      <pubDate>Mon, 20 Apr 2026 06:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vercel 确认它是通过受损的第三方 AI 工具遭到黑客攻击的</title>
+      <link>https://alternativeto.net/news/2026/4/vercel-confirms-it-was-hacked-through-a-compromised-third-party-ai-tool/</link>
+      <description><![CDATA[Vercel，以 Next.js 和 Vibe 编码网站构建器 v0 闻名的流行云开发平台，报告了安全事件与通过 Google Workspace OAuth 连接的受损第三方 AI 工具相关。此次泄露使攻击者能够访问内部数据，威胁行为者后来在网上发布了所谓的证据，包括 580 条员工记录以及访问内部部署、API 密钥和源代码的声明。尽管该帖子将此次攻击与 ShinyHunters 联系起来，但与该组织相关的人员否认参与了这一具体案件。
+Vercel 首席执行官 Guillermo Rauch 后来表示首次访问是在 Vercel 员工的 Google Workspace 帐户因 Context.ai。他还表示，攻击者通过枚举被标记为非敏感的环境变量，进一步进入 Vercel 的环境，因此在静态时未加密，尽管客户环境变量在静态时完全加密。
+该公司表示，该事件仅影响了有限的部分客户，并敦促管理员审查活动日志、审核可能受影响的 Google Workspace 应用，并根据需要轮换环境变量。 Vercel 还表示，其开源项目，包括 Next.js 和 Turbopack 没有受到影响，并且它已更新了仪表板，提供了新的环境变量概述和更好的控制来管理敏感变量。
+查看有关 AlternativeTo 的文章更多信息Vercel | Vercel 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/vercel-confirms-it-was-hacked-through-a-compromised-third-party-ai-tool/</guid>
+      <pubDate>Mon, 20 Apr 2026 05:35:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Perplexity 推出适用于 macOS 的个人电脑，配备跨文件、应用程序和 Web 的 AI 代理</title>
+      <link>https://alternativeto.net/news/2026/4/perplexity-launches-personal-computer-for-macos-with-ai-agents-across-files-apps-and-web/</link>
+      <description><![CDATA[Perplexity 已正式推出个人电脑，这是一款基于其 macOS 的全新独立应用程序href=&quot;https://alternativeto.net/news/2026/3/perplexity-launches-personal-computer-a-cloud-based-ai-agent-that-runs-on-a-mac-mini/&quot;&gt;之前发布的 Perplexity 计算机系统，其 AI 代理可以跨本地文件、应用程序、连接器和网络工作。该产品首次通过候补名单推出后，现在正式开始向 Max 订阅者推出。它建立在公司的多模型编排技术的基础上，旨在处理更复杂的工作流程，包括超出单个请求的任务。
+与主要侧重于分析的系统不同，个人计算机是为直接执行任务而构建的。用户可以要求它读取待办事项列表并完成其中的项目、在 Notes 等应用程序内部提供帮助、协调多个代理来满足更广泛的请求、使用 Apple Messages 等应用程序，或者通过重命名文件和改进其结构来整理杂乱的文件夹。
+个人计算机还支持语音输入，并允许用户通过手机启动或管理任务，这与 OpenClaw 非常相似。 Perplexity 表示，该应用程序在安全沙箱内创建文件，并且它采取的每项操作都是可审核和可逆的。首次推出的订阅人数最多，稍后将提供更广泛的访问权限，并优先考虑候补名单上的用户。
+查看有关 AlternativeTo 的文章有关个人的更多信息计算机 | 个人计算机替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/perplexity-launches-personal-computer-for-macos-with-ai-agents-across-files-apps-and-web/</guid>
+      <pubDate>Mon, 20 Apr 2026 05:10:33 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌在 Chrome 的 AI 模式中添加并排网页浏览和新的跨标签搜索选项</title>
       <link>https://alternativeto.net/news/2026/4/google-adds-side-by-side-web-browsing-and-new-cross-tab-search-options-in-chrome-s-ai-mode/</link>
@@ -73,87 +153,6 @@ Thunderbolt 的开源代码可根据 MPL-2.0 许可证在 GitHub 上访问，本
 查看有关 AlternativeTo 的文章有关 Google Gemini 的更多信息 | Google Gemini 替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/4/gemini-adds-personalized-ai-image-generation-using-your-preferences/</guid>
       <pubDate>Fri, 17 Apr 2026 14:58:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare Email Service 推出代理应用程序的公开测试版</title>
-      <link>https://alternativeto.net/news/2026/4/cloudflare-email-service-launches-public-beta-for-agent-applications/</link>
-      <description><![CDATA[Cloudflare 已推出公共测试版电子邮件服务，允许应用程序和代理在平台内发送和接收经过身份验证的电子邮件。该版本引入了更新的代理 SDK，可实现有状态、安全的基于电子邮件的代理操作。
-开发人员还可以访问新工具，包括电子邮件 MCP 服务器、Wrangler CLI 命令和开源参考收件箱应用程序。
-查看有关 AlternativeTo 的文章有关 Cloudflare 的更多信息 | Cloudflare 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/cloudflare-email-service-launches-public-beta-for-agent-applications/</guid>
-      <pubDate>Fri, 17 Apr 2026 14:48:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rust 1.95 添加了 cfg_select！宏、if-let 匹配守卫和不稳定的 JSON 目标规范</title>
-      <link>https://alternativeto.net/news/2026/4/rust-1-95-adds-cfg_select-macro-if-let-match-guards-and-destabilized-json-target-specs/</link>
-      <description><![CDATA[Rust 1.95 已发布，为这种注重性能的编程语言带来了多项更新。最值得注意的新增功能是新的 cfg_select! 宏，它使开发人员能够通过选择第一个计算结果为 true 的配置谓词来执行编译时条件分支。这取代了众所周知的 cfg-if 板条箱的大部分用例，但引入了自己的语法。
-在以前的版本的基础上，Rust 1.95 扩展了 let 链对匹配表达式的支持。开发人员现在可以使用 let 链来表达匹配臂内的条件模式匹配，从而提高代码的可读性和灵活性。需要注意的是，编译器不会将这些 let 链模式纳入整体详尽性检查中，这与 if 保护行为一致。
-对于依赖自定义编译目标的用户，Rust 1.95 取消了对在稳定工具链上使用 rustc 指定自定义目标规范的支持。但是，此更改不太可能影响大多数稳定用户，因为构建标准库仍然需要仅限夜间的功能。
-除了这些主要变化之外，Rust 1.95 还稳定了多个 API，并对语言生态系统引入了额外的小改进。
-查看有关 AlternativeTo 的文章更多信息Rust | Rust 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/rust-1-95-adds-cfg_select-macro-if-let-match-guards-and-destabilized-json-target-specs/</guid>
-      <pubDate>Fri, 17 Apr 2026 13:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zorin OS 18.1 改进了 Windows 应用程序支持、增强了窗口平铺并更新了 Lite 版本</title>
-      <link>https://alternativeto.net/news/2026/4/zorin-os-18-1-improves-windows-app-support-enhances-window-tiling-and-updates-lite-edition/</link>
-      <description><![CDATA[在Zorin OS 18 推出六个月后，这个流行的 Linux 发行版背后的团队发布了Zorin OS 18.1，为新用户和现有用户带来了显着的增强功能。内置的 Windows 应用检测功能现在可识别超过 240 个安装程序文件，比之前的版本增加了 40%。当用户尝试运行 Plex 等 Windows 安装程序时，系统会针对本机 Linux 版本提供量身定制的建议或建议合适的替代方案，从而使来自 Windows 的用户更容易迁移。
-此更新采用 Linux 内核 6.17，与Ubuntu 25.10，提供更好的硬件兼容性和系统性能。由于整个环境中实施了各种错误修复和性能增强，用户还可以期待更快的响应时间和更流畅的桌面体验。
-在这些改进的基础上，高级窗口平铺获得了新功能：可以在设置中重新排序布局，边缘平铺现在支持捕捉到自定义布局，以及从任务栏切换到平铺应用程序会将所有相关窗口带到前台。面板功能得到扩展，支持从右到左的脚本，例如阿拉伯语、希伯来语和乌尔都语，而某些应用程序现在可以将自己的图标放置在面板托盘中以便快速访问。
-该版本包括 LibreOffice 26.2 和更新的预装应用程序。与此同时，Zorin OS 18.1 Lite 首次推出 Xfce 4.20、更新的文件管理器和指纹读取器支持，以更好地为旧设备或资源受限设备上的用户提供服务。
-查看有关 AlternativeTo 的文章有关 Zorin 的更多信息操作系统 | Zorin 操作系统替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/zorin-os-18-1-improves-windows-app-support-enhances-window-tiling-and-updates-lite-edition/</guid>
-      <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Opera 推出浏览器连接器，用于 Opera One 和 GX 中的 Direct ChatGPT 和 Claude 集成</title>
-      <link>https://alternativeto.net/news/2026/4/opera-launches-browser-connector-for-direct-chatgpt-and-claude-integration-in-opera-one-and-gx/</link>
-      <description><![CDATA[Opera 在其 Opera One 和 Opera GX 网络浏览器中引入浏览器连接器，使用户能够集成流行的人工智能服务，例如ChatGPT 和 Claude 直接进入他们的浏览体验。此早鸟版本旨在弥合独立人工智能工具和日常网络活动之间的差距。
-通过使用模型上下文协议 (MCP)，浏览器连接器允许选定的 AI 模型访问用户当前的浏览器会话和上下文。启用后，ChatGPT 和 Claude 可以在 Opera 内打开网页、解释屏幕内容、分析打开的选项卡以及获取页面屏幕截图，从而减少应用程序之间手动数据传输的需要。
-以前，用户在使用外部 AI 工具时需要手动复制内容或管理上下文。借助浏览器连接器，这些人工智能助手现在可以直接与实时浏览器数据交互，使工作流程更加无缝。浏览器连接器的安装完全是可选的且免费的，用户可以决定何时以及是否要启用该功能。
-查看有关 AlternativeTo 的文章更多信息Opera | Opera 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/opera-launches-browser-connector-for-direct-chatgpt-and-claude-integration-in-opera-one-and-gx/</guid>
-      <pubDate>Fri, 17 Apr 2026 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 iOS 的 Blackmagic Camera 3.3 添加了 Apple Watch 应用、HDMI 肖像模式和 ProRes RAW 修复</title>
-      <link>https://alternativeto.net/news/2026/4/blackmagic-camera-3-3-for-ios-adds-apple-watch-app-hdmi-portrait-mode-and-prores-raw-fixes/</link>
-      <description><![CDATA[Blackmagic Camera iOS 版 Blackmagic Camera 3.3 引入了多项高影响力的功能，首先是通过新的 Apple Watch 配套应用程序支持远程相机控制。此功能使用户可以直接从手腕开始和停止录制、调整相机设置以及监控状态，从而为拍摄提供更大的灵活性。
-扩展输出和控制，更新提供全屏纵向模式 HDMI 输出并兼容 Blackmagic Focus 和 Zoom 需求。这些功能可满足需要精确配件控制以进行专业视频制作的高级用户的需求。继这些增强之后，Blackmagic Camera 3.3 在运行 iOS 26.1 及更高版本的设备上支持 ProRes RAW 稳定性，这对于专注于高质量后期制作工作流程的专业人士尤其重要。
-此外，用户现在可以在连接 Blackmagic Camera ProDock 时受益于 ATEM 相机控制，从而进一步将该应用程序与 Blackmagic 的生态系统集成。对于 iPhone 17 用户，前置摄像头现在支持纵向和横向拍摄，不会出现不必要的旋转伪影。此版本还解决了影响前镜头 ProRes RAW 录制的问题，并解决了使用 ProDock 作为音频源时的预览延迟问题。最后，更新更正了开放式 H.264 和 H.265 编码比特率，并改进了受支持设备的性能和稳定性。
-查看有关 AlternativeTo 的文章更多信息Blackmagic 相机 | Blackmagic 相机替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/blackmagic-camera-3-3-for-ios-adds-apple-watch-app-hdmi-portrait-mode-and-prores-raw-fixes/</guid>
-      <pubDate>Fri, 17 Apr 2026 07:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anthropic发布Claude Opus 4.7，软件和视觉能力更强</title>
-      <link>https://alternativeto.net/news/2026/4/anthropic-releases-claude-opus-4-7-with-stronger-software-and-vision-capabilities/</link>
-      <description><![CDATA[经过一周几乎没有给任何人喘息的机会，Anthropic 再次成为人们关注的焦点，推出了 Claude Opus 4.7，这是迄今为止最强大的普遍可用模型。该版本是在 Mythos Preview 之后不久发布的，Mythos Preview 是 Anthropic 更强大但受到私人限制的网络安全模型，并且被定位为对 Opus 4.6，在高级软件工程、复杂编码任务和多步骤开发工作流程方面具有更好的性能，同时也更可靠地遵循指令。
-该模型还提高了长时间运行任务的一致性，减少了对用户密切指导的需求，并通过支持更高分辨率的图像分析带来了视觉升级。 Anthropic 表示，Opus 4.7 在制作幻灯片和文档等创造性任务方面也表现得更好，而且它现在再次领先于代理编码基准，表现优于 OpenAI 的 GPT 5.4.
-与此同时，Anthropic 表示 Opus 4.7 的网络安全能力故意低于 Mythos Preview，出于安全考虑，Mythos Preview 仍仅限于 Nvidia、摩根大通、谷歌、苹果和微软等选定合作伙伴。该公司正在使用 Opus 4.7 测试新的网络安全保护措施，这可能有助于为以后更广泛的 Mythos 级模型发布提供信息。 Anthropic 还为希望使用 Opus 4.7 进行漏洞研究等任务的安全研究人员推出了网络验证计划，其限制可能比标准版本更少。 Opus 4.7 现已在所有 Claude 产品、Claude API、Amazon Bedrock、Google Cloud Vertex AI 和 Microsoft Foundry 中推出，价格与 Opus 4.6 相同。
-查看有关 AlternativeTo 的文章更多信息克劳德 | 克劳德替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/anthropic-releases-claude-opus-4-7-with-stronger-software-and-vision-capabilities/</guid>
-      <pubDate>Fri, 17 Apr 2026 06:01:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 最新的重大 Codex 更新使计算机使用能够更好地与 Claude Code 竞争</title>
-      <link>https://alternativeto.net/news/2026/4/openai-s-latest-major-codex-update-brings-computer-use-to-better-compete-with-claude-code/</link>
-      <description><![CDATA[OpenAI 发布了 Codex 的重大更新，显着扩展了其在整个软件开发生命周期中的能力。 Codex 现在可以通过控制所有已安装的应用程序来操作计算机，使用自己的光标查看、单击和键入。多个 Codex 代理能够在 Mac 设备上并行运行，与用户一起工作，而不会干扰其他任务。
-除了这些系统级更改之外，Codex 还为开发人员工作流程引入了更深入的集成。该应用程序现在支持拉取请求审查、查看多个文件和终端、通过 SSH 连接到远程开发环境，并包含一个应用程序内浏览器，用于更快地迭代前端设计。该浏览器还允许直接在网页上发表评论，以便向法典代理人提供详细说明。用户可以处理 GitHub 审核评论，打开具有丰富预览的文件（包括 PDF、电子表格、幻灯片和文档格式），并通过摘要窗格监控代理活动。
-基于这些改进，Codex 现在支持 GPT-Image-1.5 来生成和优化图像。 90 多个新插件进一步扩展了其与应用程序和 MCP 服务器的集成。自动化现在支持持久对话线程，新的内存预览使 Codex 能够记住之前会话的上下文。这些功能目前正在向拥有 ChatGPT 帐户的桌面应用用户推出，不久将为企业、教育、欧盟和英国用户提供更广泛的个性化和计算机使用。
-查看有关 AlternativeTo 的文章有关 OpenAI 的更多信息Codex | OpenAI Codex 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/openai-s-latest-major-codex-update-brings-computer-use-to-better-compete-with-claude-code/</guid>
-      <pubDate>Fri, 17 Apr 2026 06:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Canva 推出了 AI 2.0，这是迄今为止用提示取代传统设计的最大推动力</title>
-      <link>https://alternativeto.net/news/2026/4/canva-has-unveiled-ai-2-0-its-biggest-push-yet-to-replace-traditional-design-with-prompts/</link>
-      <description><![CDATA[就在 Adobe 在其几款主要创意应用中推出 Firefly AI Assistant 一天后，Canva 现已推出其自己的举动并推出了 Canva AI 2.0，该公司称之为迄今为止最大规模的人工智能发布，也是其“彻底改变传统设计”愿景的重要一步。摆脱手动创建，转向更完全自动化的提示驱动生成过程；我个人将其描述为人工智能生成设计。更新的核心是一个对话界面，让用户可以用自然语言描述想法或目标，并让 Canva 完全从头开始生成设计和其他资产。它背后是一个新的编排层，用于连接 Canva 的工具，以便人工智能可以通过一个界面处理更复杂的多步骤任务。
-Canva 表示，通过 AI 2.0 生成的所有内容在平台内仍然完全可编辑，允许用户更改图像、字体和其他单个元素，而不影响设计的其余部分，这使其与大多数其他 AI 平台（如 ChatGPT）甚至 Adobe，其中的编辑通常最终会对以前的工作造成更大的破坏。此次更新还引入了基于对象的智能，以便对项目的特定部分进行更精确的提示驱动编辑，而 Canva 的新内存库和更广泛的持久内存系统使助手能够从以前的工作中学习，并随着时间的推移应用更一致的品牌、样式和创意背景。
-此次更新主要关注人工智能内容，但这并不是平台中添加的唯一内容，它还带来了统一的连接器接口，用于与 Slack 和 Gmail 等应用程序集成，Gmail 中的 HTML 导入支持href=&quot;https://alternativeto.net/software/canva-code/about/&quot;&gt;Canva 代码，以及从外部服务提取上下文数据的能力，例如 Notion、Zoom 和 Google 日历。该更新作为研究预览版发布，最初向访问 Canva 主页的前 100 万用户推出。
-查看有关 AlternativeTo 的文章更多信息Canva | Canva 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/canva-has-unveiled-ai-2-0-its-biggest-push-yet-to-replace-traditional-design-with-prompts/</guid>
-      <pubDate>Fri, 17 Apr 2026 05:08:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
