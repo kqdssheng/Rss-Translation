@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 19 Apr 2026 13:01:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 02:40:33 GMT</lastBuildDate>
     <item>
       <title>告诉</title>
       <link>https://www.producthunt.com/products/tell-2</link>
@@ -88,20 +88,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/gemini-6</guid>
       <pubDate>Fri, 17 Apr 2026 14:59:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过重新发送来响应电子邮件 6.0</title>
-      <link>https://www.producthunt.com/products/react-email-6-0-resend</link>
-      <description><![CDATA[
-            构建、定制和发送电子邮件——全部通过您自己的应用程序完成
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/react-email-6-0-resend</guid>
-      <pubDate>Fri, 17 Apr 2026 14:36:36 GMT</pubDate>
     </item>
     <item>
       <title>困惑个人电脑</title>
@@ -214,6 +200,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/wyndo</guid>
       <pubDate>Wed, 08 Apr 2026 19:44:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 购物</title>
+      <link>https://www.producthunt.com/products/chatgpt-shopping</link>
+      <description><![CDATA[
+            更丰富、更具视觉沉浸感的购物体验
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/chatgpt-shopping</guid>
+      <pubDate>Tue, 24 Mar 2026 17:01:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
