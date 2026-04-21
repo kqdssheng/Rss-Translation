@@ -4,7 +4,18 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Mon, 20 Apr 2026 13:42:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 02:35:50 GMT</lastBuildDate>
+    <item>
+      <title>Google 首次推出重建的 Android CLI、技能和知识库，以加快代理开发速度</title>
+      <link>https://alternativeto.net/news/2026/4/google-debuts-rebuilt-android-cli-skills-and-knowledge-base-for-faster-agentic-development/</link>
+      <description><![CDATA[Google 推出了一套新的 Android 开发工具，针对代理工作流程进行了优化，其中包括焕然一新的 Android 命令行界面 (CLI)、一组 Android 技能和 Android 知识库。这些资源旨在减少手动步骤，并使 Android Studio 之外的自动化或代理驱动开发更加高效和可靠。
+该套件的核心是新的Android CLI，它使开发人员可以直接从终端处理核心任务，例如环境设置、项目创建和设备管理。 CLI 的设计注重现代工作流程和易于更新，支持 SDK 管理、快速项目和设备创建、简化部署和简化更新。它还满足持续集成 (CI) 和分布式项目维护的自动化需求。
+根据内部试验，Google 报告称，与现有工具集相比，Android CLI 将大型语言模型 (LLM) 令牌的使用量减少了 70% 以上，并将项目和环境设置任务的速度加快了三倍。这些改进针对使用脚本工作流程的自动化代理和开发人员。
+除了 CLI 之外，Android 技能集合还使代理和大型语言模型能够执行标准开发工作流程并遵循最佳实践，并通过 android Skills 命令进行管理。 Android 知识库可通过 android 文档 访问，为代理提供来自 Android、Firebase、Google Developers 和 Kotlin 源的最新文档和指南。所有三个组件现已提供预览版。
+查看有关 AlternativeTo 的文章详细了解Android | Android 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/google-debuts-rebuilt-android-cli-skills-and-knowledge-base-for-faster-agentic-development/</guid>
+      <pubDate>Mon, 20 Apr 2026 16:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>LXQt 2.4 发布，提供更好的 Wayland 支持、新的电源管理设置等</title>
       <link>https://alternativeto.net/news/2026/4/lxqt-2-4-released-with-better-wayland-support-new-power-management-settings-and-more/</link>
@@ -88,7 +99,7 @@ Vercel 首席执行官 Guillermo Rauch 后来表示首次访问是在 Vercel 员
     <item>
       <title>谷歌在 Chrome 的 AI 模式中添加并排网页浏览和新的跨标签搜索选项</title>
       <link>https://alternativeto.net/news/2026/4/google-adds-side-by-side-web-browsing-and-new-cross-tab-search-options-in-chrome-s-ai-mode/</link>
-      <description><![CDATA[Google 升级了 Chrome 中的AI 模式，为桌面用户引入并排浏览功能。现在，在 AI 模式下单击链接会在 AI 界面旁边打开目标网页。这种方法可以让用户参与网络内容、比较信息并提出进一步的问题，而不会失去自己的位置。
+      <description><![CDATA[Google 升级了 Chrome 中的AI 模式，为桌面用户引入并排浏览功能。现在，在 AI 模式下单击链接会打开 AI 界面旁边的目标网页。这种方法可以让用户参与网络内容、比较信息并提出进一步的问题，而不会失去自己的位置。
 基于这些更改，Chrome 现在允许用户在最近的标签页中进行搜索。桌面和移动用户都可以点击搜索框或 AI 模式中的新“加号”菜单，从最近的选项卡中进行选择。这使得将多个源集成到单个搜索会话中以扩展上下文变得更加容易。
 这些升级还允许用户混合和匹配不同的输入类型。除了选项卡外，用户在通过 AI 模式进行搜索时还可以包含图像或 PDF 等文件。除了这些搜索改进之外，现在还可以从 Chrome 中出现“加号”菜单的任何位置访问 Canvas 和图像创建等人工智能驱动的工具。
 所有这些功能均可供美国的 Chrome 用户使用，Google 计划未来将访问范围扩大到更多地区。
@@ -103,7 +114,7 @@ Vercel 首席执行官 Guillermo Rauch 后来表示首次访问是在 Vercel 员
 在此基础上，Thunderbolt 使组织能够完全在自己的基础设施上运行 AI 工作流程。团队可以选择自己喜欢的机器学习模型，将系统连接到专有数据源，并在操作过程中保护隐私。这些功能无需依赖第三方云服务即可使用。
 虽然灵活性和控制是核心，但 Thunderbolt 通过 deepset 的 Haystack 框架 的本机集成扩展了其范围。这种合作伙伴关系将面向用户的聊天、搜索和研究功能与统一架构中的企业级代理编排和检索增强生成 (RAG) 连接起来。因此，组织可以自动化工作流程、管理重复任务并直接在平台内简化研究。
 Thunderbolt 的开源代码可根据 MPL-2.0 许可证在 GitHub 上访问，本机应用程序可通过候补名单用于 Web、macOS、Windows、Linux、iOS 和 Android。 Mozilla 与 deepset 的合作确保客户端界面和后端编排层之间的开发保持一致。
-查看有关 AlternativeTo 的文章更多信息Thunderbolt | Thunderbolt 替代方案]]></description>
+查看有关 AlternativeTo 的文章更多信息Thunderbolt | Thunderbolt 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/4/mozilla-unveils-thunderbolt-an-open-source-ai-client-for-private-self-hosted-workflows/</guid>
       <pubDate>Fri, 17 Apr 2026 16:30:00 GMT</pubDate>
     </item>
@@ -144,15 +155,6 @@ Thunderbolt 的开源代码可根据 MPL-2.0 许可证在 GitHub 上访问，本
 查看有关 AlternativeTo 的文章更多信息Sniffnet | Sniffnet 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/4/sniffnet-1-5-adds-per-program-monitoring-custom-ip-blacklist-alerts-and-traffic-previews/</guid>
       <pubDate>Fri, 17 Apr 2026 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemini 添加了根据您的喜好生成个性化 AI 图像的功能</title>
-      <link>https://alternativeto.net/news/2026/4/gemini-adds-personalized-ai-image-generation-using-your-preferences/</link>
-      <description><![CDATA[Google Gemini 现在允许用户利用 Nano Banana 2，根据用户的偏好和 Google 相册内容生成深度个性化的图像。这项新功能使用个人智能自动合并用户上下文，减少了对详细提示或手动图像上传的需要。
-隐私仍然是一个焦点，Gemini 并未直接在用户的私人照片库上训练其模型。
-查看有关 AlternativeTo 的文章有关 Google Gemini 的更多信息 | Google Gemini 替代方案]]></description>
-      <guid>https://alternativeto.net/news/2026/4/gemini-adds-personalized-ai-image-generation-using-your-preferences/</guid>
-      <pubDate>Fri, 17 Apr 2026 14:58:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
