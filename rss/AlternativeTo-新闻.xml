@@ -4,7 +4,37 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Wed, 22 Apr 2026 13:27:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 02:37:33 GMT</lastBuildDate>
+    <item>
+      <title>据报道，克劳德桌面应用程序被发现在未经同意的情况下更改浏览器访问设置</title>
+      <link>https://alternativeto.net/news/2026/4/claude-desktop-app-was-reportedly-found-changing-browser-access-settings-without-consent/</link>
+      <description><![CDATA[macOS 版 Claude 桌面应用 最近有报道称，它会在用户背后悄悄更改浏览器级别设置。 报告称该应用程序安装本机消息传递清单，该清单未经任何明确同意预先授权某些浏览器扩展与其本地二进制文件之间的通信。更糟糕的是，据报道，它为多个基于 Chromium 的浏览器放置了配置文件，包括一些用户甚至尚未安装的浏览器。
+根据该报告，文件 com.anthropic.claude_browser_extension.json 注册了一个本地可执行文件并预先批准了三个扩展标识符，从而有效地为它们提供了未来进入 Claude 应用程序的桥梁。 隐私顾问亚历山大·汉夫将这种行为称为黑暗模式，认为它绕过了知情同意，并可能与欧盟的电子隐私指令相冲突。值得注意的是，Native Messaging 本身是一种合法的浏览器集成方法，但这里的真正问题是静默和抢先授权，这会削弱正常的浏览器安全预期，并在批准的扩展被滥用时扩大攻击面。
+Anthropic 将这些集成作为 Claude 代理功能的一部分呈现，旨在让应用程序自动执行任务、访问文件以及与浏览器交互。但安全专家表示，这种浏览器到本地应用程序的桥接应被视为敏感配置，而不是在安装过程中悄悄插入的东西。也就是说，Reddit 中的一些用户认为该报告可能夸大了清单的实际作用，因为该报告可能夸大了清单的实际作用它不会安装扩展程序或直接让 Claude 控制浏览器，除非用户稍后安装了匹配的扩展程序。
+查看有关 AlternativeTo 的文章更多信息克劳德 | 克劳德替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/claude-desktop-app-was-reportedly-found-changing-browser-access-settings-without-consent/</guid>
+      <pubDate>Wed, 22 Apr 2026 21:45:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brave Origin 以 60 美元的价格推出，没有 AI、奖励或 VPN 的精简版网络浏览器</title>
+      <link>https://alternativeto.net/news/2026/4/brave-origin-launches-as-paid-minimalist-browser-with-no-ai-or-ads/</link>
+      <description><![CDATA[Brave 推出了 Brave Origin，为寻求简约且以隐私为中心的体验的用户展示了旗舰网络浏览器的精简版本。这款新发布的产品删除了主浏览器中的高级和业务支持功能，例如 Brave Leo AI 助手、Brave News、播放列表、奖励、快速阅读器、使用指标、崩溃日志、Brave Talk、Tor、Brave VPN、Brave钱包、Wayback Machine 和 Web Discovery 项目。
+尽管采用了这种精简方法，Brave Origin 仍然保留了隐私要素，包括广告拦截器、Brave Shields，并将继续接收定期软件更新、Chromium 安全补丁和隐私改进。 Brave 将此版本定位为那些希望避免创收功能和不必要的额外功能的人的一个选择。
+虽然用户可以选择 Brave Origin 作为单独的应用程序下载或作为当前 Brave 浏览器安装的升级，但这两种访问途径都需要一次性购买 60 美元才能解锁这两种模式。 Linux 用户例外，他们完全免费获得 Brave Origin。值得注意的是，除了 Brave Shields 的更新之外，未来引入主线浏览器的功能附加组件将不会在 Brave Origin 上提供，以保持其简约的方法。
+查看有关 AlternativeTo 的文章有关 Brave 的更多信息起源 | Brave Origin 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/brave-origin-launches-as-paid-minimalist-browser-with-no-ai-or-ads/</guid>
+      <pubDate>Wed, 22 Apr 2026 16:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Firefox 150 带来了分割视图升级、GTK 表情符号选择器支持以及 271 个安全修复</title>
+      <link>https://alternativeto.net/news/2026/4/firefox-150-brings-split-view-upgrades-gtk-emoji-picker-support-and-271-security-fixes/</link>
+      <description><![CDATA[Mozilla 发布了 Firefox 150，引入了选项卡管理和生产力方面的重大更新。 增强的分割视图功能允许用户右键单击任何链接并在当前选项卡旁边打开它，在分割视图之前搜索打开的选项卡，并通过新的上下文菜单选项反转选项卡位置。 共享工作流程也得到了改进：用户现在可以选择多个选项卡，复制带有页面标题和 URL 的链接，然后一步将它们粘贴到其他应用程序中。基于这些更改，内置 PDF 编辑器现在支持在文档中重新排序、复制、粘贴、删除和导出页面。
+此版本带来了可从 about:translations 访问的实时私密翻译，并在地址栏中输入“翻译”时提供快速操作快捷方式。安全性也受到关注，使用 Claude 的结果修复了 271 个漏洞神话。在 Linux 上，用户受益于对 GTK 表情符号选择器的支持，以及为 Red Hat、Fedora、openSUSE 以及相关操作系统。
+通过 Microsoft Store 安装的 Windows 用户现在可以使用 Firefox Web 应用。更新后的配置文件管理系统（包括配置文件备份到文件）现在可供 Windows 10 和 11 上的所有用户访问。Firefox 现在还提示在所有受支持的 Windows 版本上进行位置访问设置。此外，Firefox 内置 VPN 向加拿大用户推出，其可用性超出了之前的范围。
+查看有关 AlternativeTo 的文章有关 Mozilla 的更多信息Firefox | Mozilla Firefox 替代品]]></description>
+      <guid>https://alternativeto.net/news/2026/4/firefox-150-brings-split-view-upgrades-gtk-emoji-picker-support-and-271-security-fixes/</guid>
+      <pubDate>Wed, 22 Apr 2026 15:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Android 版 OsmAnd 5.3 添加了天文学插件、3D 建筑、全球视图、新小部件等</title>
       <link>https://alternativeto.net/news/2026/4/osmand-5-3-for-android-adds-astronomy-plugin-3d-buildings-globe-view-new-widgets-and-more/</link>
@@ -118,36 +148,6 @@ OpenAI 发布了两个版本的模型：ChatGPT Images 2.0 instant 和 ChatGPT I
 查看有关 AlternativeTo 的文章更多信息ChatGPT | ChatGPT 替代方案]]></description>
       <guid>https://alternativeto.net/news/2026/4/openai-launches-chatgpt-images-2-0-with-improved-text-rendering-to-rival-nano-banana-2/</guid>
       <pubDate>Wed, 22 Apr 2026 05:12:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于第一天不再包含新的《使命召唤》游戏，游戏通行证变得更便宜</title>
-      <link>https://alternativeto.net/news/2026/4/game-pass-gets-cheaper-as-new-call-of-duty-titles-will-no-longer-be-included-on-day-one/</link>
-      <description><![CDATA[最近任命的 Microsoft Gaming 新任首席执行官 Asha Sharma 宣布立即降价 Xbox Game Pass Ultimate，降低每月费用29.99 美元至 22.99 美元，近 25% 折扣。PC Game Pass 也越来越便宜，每月从 16.49 美元降至 13.99 美元。价格仍可能因地区而异，并且更改仅适用于 Ultimate 和 PC 级别，而 Essential 和 Premium 保持不变。
-更大的细节是《使命召唤》中发生的情况。微软表示，Game Pass Ultimate 仍将包含 Xbox 主机和 PC 上的数百款游戏，以及游戏福利、在线主机多人游戏和当前的《使命召唤》游戏。但从今年开始，新的《使命召唤》版本在发布时将不再加入 Game Pass Ultimate 或 PC Game Pass，这基本上消除了该服务的最大卖点之一过去两年。
-微软表示，定价变化反映了玩家的反馈。然而，在我看来，这也让 Game Pass 处于与以前不同的地位。当然，这项服务现在更便宜了，但微软还要求订阅者接受其最重要的特许经营权之一的不太直接的访问，同时可能为其他人发生同样的事情打开大门，这可能会威胁到 Game Pass 自 2017 年推出以来最引人注目的价值。
-查看有关 AlternativeTo 的文章有关 Xbox 游戏的更多信息通行证 | Xbox Game Pass 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/game-pass-gets-cheaper-as-new-call-of-duty-titles-will-no-longer-be-included-on-day-one/</guid>
-      <pubDate>Tue, 21 Apr 2026 23:32:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp 将推出 WhatsApp Plus 订阅服务，提供新功能和定制选项</title>
-      <link>https://alternativeto.net/news/2026/4/whatsapp-to-launch-whatsapp-plus-subscription-with-new-features-and-customization-options/</link>
-      <description><![CDATA[WhatsApp 将推出名为 WhatsApp Plus 的高级订阅计划，针对寻求更高级个性化选项而不改变标准应用体验的用户。虽然该应用程序的核心消息传递和语音通话服务以及端到端加密对所有用户仍然免费且不受影响，但 WhatsApp Plus 在订阅的基础上提供了额外的功能，预计在欧洲的费用为每月 2.49 欧元，不过这个价格可能会在更广泛的发布之前进行调整。
-新计划带来了专属贴纸、18 种新鲜颜色主题和 14 个应用程序图标选项，实现个性化的外观和感觉。订阅者还可以固定最多 20 个聊天，而不是当前的 3 个聊天限制。在这些外观升级之后，用户可以通过从个人资料库中选择铃声以及高级层中提供的 10 种独家铃声来进一步定制他们的体验。为了提高效率，可以批量应用某些聊天和群组设置。
-目前，WhatsApp Plus 仅适用于从 Google Play 商店安装了最新应用版本的 Android 设备，随后将提供 iOS 支持。 WhatsApp Business 帐户不包含在本次发布中。该公司还在探索其他独家功能，以供未来付费层的更新。
-查看有关 AlternativeTo 的文章更多信息WhatsApp | WhatsApp 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/whatsapp-to-launch-whatsapp-plus-subscription-with-new-features-and-customization-options/</guid>
-      <pubDate>Tue, 21 Apr 2026 18:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Atlassian 将于 2026 年 8 月 17 日开始收集 Jira 和 Confluence 用户数据来训练 AI</title>
-      <link>https://alternativeto.net/news/2026/4/atlassian-will-start-collecting-jira-and-confluence-user-data-to-train-ai-by-august-17-2026/</link>
-      <description><![CDATA[Atlassian 宣布对其客户数据使用情况进行变更，将于 2026 年 8 月 17 日生效，这将影响 Confluence 和 Jira 等产品的用户。这些更新将引入对如何使用元数据和应用内数据来训练 AI 功能的新控制。该公司强调，这些政策变化的设计考虑到了隐私和安全，为组织提供了更大的透明度和控制力。
-在 8 月截止日期之前，Atlassian 将于 2026 年 4 月 16 日开始逐步推出数据贡献设置。到 2026 年 5 月 19 日，所有组织都将可以访问这些新设置，从而允许管理员在 90 天的时间内审查、与利益相关者保持一致并调整他们的偏好。当组织的选项可用时，应用内通知将提醒组织，管理员将能够随时重新访问和修改这些设置。
-Atlassian 表示，它将在使用客户数据之前对其进行去识别化和聚合，以改进其应用程序，删除姓名和电子邮件地址等身份信息，并实施保护措施以防止重新识别。对于免费和标准用户，所有数据贡献设置将默认启用，而对于高级和企业用户，默认情况下仅启用元数据贡献，除非激活，否则应用内贡献将被关闭。
-查看有关 AlternativeTo 的文章更多信息JIRA | JIRA 替代品]]></description>
-      <guid>https://alternativeto.net/news/2026/4/atlassian-will-start-collecting-jira-and-confluence-user-data-to-train-ai-by-august-17-2026/</guid>
-      <pubDate>Tue, 21 Apr 2026 16:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
