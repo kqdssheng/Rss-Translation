@@ -4,7 +4,7 @@
     <title>新闻 - AlternativeTo.net</title>
     <link>https://alternativeto.net/news/all</link>
     <description>来自 AlternativeTo 的最新科技新闻</description>
-    <lastBuildDate>Sat, 25 Apr 2026 02:27:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 13:04:53 GMT</lastBuildDate>
     <item>
       <title>Ubuntu 26.04 LTS“Resolute Raccoon”默认带来 GNOME 50、Wayland 和 NVIDIA CUDA</title>
       <link>https://alternativeto.net/news/2026/4/ubuntu-26-04-lts-resolute-raccoon-brings-gnome-50-wayland-by-default-and-nvidia-cuda/</link>
@@ -49,9 +49,9 @@
     <item>
       <title>Midori 11.7推出MidoriVPN，实时翻译、PDF编辑</title>
       <link>https://alternativeto.net/news/2026/4/midori-11-7-launches-midorivpn-real-time-translation-pdf-editing/</link>
-      <description><![CDATA[Midori 11.7 现在集成了 MidoriVPN，这是一项基于 Wireguard 协议的开源服务，可增强浏览隐私。此次更新还引入了实时翻译功能，并升级了浏览器的PDF工具的编辑功能。
-其他改进包括可自定义的隐私保护级别和键盘快捷键。
-查看有关 AlternativeTo 的文章有关 Midori 的更多信息 | Midori 替代品]]></description>
+      <description><![CDATA[Midori 11.7 现在集成了 MidoriVPN，这是一项基于 Wireguard 协议的开源服务，可增强浏览隐私。 The update also introduces real-time translation capabilities and upgrades the browser&#39;s PDF tool with editing functions.
+Additional improvements include customizable privacy protection levels and keyboard shortcuts.
+查看有关 AlternativeTo 的文章有关 Midori 的更多信息 | Midori Alternatives]]></description>
       <guid>https://alternativeto.net/news/2026/4/midori-11-7-launches-midorivpn-real-time-translation-pdf-editing/</guid>
       <pubDate>Fri, 24 Apr 2026 15:40:23 GMT</pubDate>
     </item>
@@ -80,9 +80,9 @@
       <title>Bitwarden CLI 在正在进行的 Checkmarx 相关供应链攻击中遭到破坏</title>
       <link>https://alternativeto.net/news/2026/4/bitwarden-cli-was-compromised-as-part-of-an-ongoing-checkmarx-related-supply-chain-attack/</link>
       <description><![CDATA[Bitwarden 的命令行界面 (CLI) npm 软件包最近通过与 Checkmarx 相关的供应链攻击而受到损害。 Socket 的安全研究人员发现，npm 软件包 @bitwarden/cli2026.4.0 在文件 bw1.js 中包含恶意代码，并作为合法软件包的一部分进行分发。这次入侵利用了 Bitwarden 持续集成和部署系统中受损的 GitHub Action，与针对该活动中受影响的其他存储库使用的并行技术。
-发现后，Bitwarden 的安全团队迅速识别并包含了恶意软件包，撤销了受损的访问权限，并弃用了 npm 上受影响的版本。目前，调查没有发现任何证据表明用户库内容、生产数据或生产系统被访问或面临风险。仅 CLI 工具的 npm 软件包受到影响； Chrome 扩展程序、MCP 服务器和其他正版 Bitwarden 发行版不受影响。
+发现后，Bitwarden 的安全团队迅速识别并包含了恶意软件包，撤销了受损的访问权限，并弃用了 npm 上受影响的版本。目前，调查没有发现任何证据表明用户库内容、生产数据或生产系统被访问或面临风险。仅 CLI 工具的 npm 包受到影响； Chrome 扩展程序、MCP 服务器和其他正版 Bitwarden 发行版不受影响。
 建议用户检查其 CI 日志并轮换可能已通过受损工作流程暴露的任何机密。在受感染期间未下载或更新 npm 软件包的用户不会受到影响。在对内部环境和相关系统进行全面审查后，Bitwarden 安全团队尚未发现其他受影响的产品或环境。
-查看有关 AlternativeTo 的文章有关 Bitwarden 的更多信息 | Bitwarden 替代方案]]></description>
+查看有关 AlternativeTo 的文章有关 Bitwarden 的更多信息 | Bitwarden 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/4/bitwarden-cli-was-compromised-as-part-of-an-ongoing-checkmarx-related-supply-chain-attack/</guid>
       <pubDate>Fri, 24 Apr 2026 09:00:00 GMT</pubDate>
     </item>
@@ -103,7 +103,7 @@
       <description><![CDATA[X 引入了自定义时间线，该功能允许用户将食物、艺术、电影或金融等主题直接固定到“主页”选项卡，从而围绕特定兴趣组织自己的提要。 X 的产品主管 Nikita Bier 称这是该平台最大的变化之一，并表示团队花了几个月的时间来开发更新。
 使用 Grok 的帖子理解以及 X 的个性化算法，自定义时间线显示围绕所选兴趣和爱好的最新讨论。该功能类似于 Bluesky 和 Threads 上的自定义提要，也让人想起早已不复存在的 TweetDeck（现在X Pro），不过 X 的版本目前仅限于 iOS 上的高级订阅者，很快就会计划支持 Android。
 X 还添加了主题暂停工具，可让高级用户在 For You Feed 中隐藏政治或体育等主题 24 小时。此功能在 iOS 和网络上可用，使订阅者可以更好地控制其 Feed 中显示的内容。
-查看有关 AlternativeTo 的文章更多信息X | X 替代方案]]></description>
+查看有关 AlternativeTo 的文章更多信息X | X 替代品]]></description>
       <guid>https://alternativeto.net/news/2026/4/x-rolls-out-custom-timelines-to-personalize-feeds-by-interest-exclusive-to-premium-users/</guid>
       <pubDate>Fri, 24 Apr 2026 06:18:41 GMT</pubDate>
     </item>
